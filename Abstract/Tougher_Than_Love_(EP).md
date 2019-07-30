@@ -1,0 +1,1 @@
+_TOUGHER THAN LOVE_ is the debut extended play recorded by Canadian country music artist Bobby Wills, released through MDM Recordings Inc. on March 18, 2016.[1] It includes the singles "Won't You Be Mine", "Down by the River", and "Tougher Than Love", the first two of which reached the top 10 on the _Billboard_ Canada Country airplay chart. Wills co-wrote all six tracks.

@@ -1,0 +1,1 @@
+NUCLEAR PHYSICS is the field of physics that studies atomic nuclei and their constituents and interactions. Other forms of nuclear matter are also studied.[1] Nuclear physics should not be confused with atomic physics, which studies the atom as a whole, including its electrons.

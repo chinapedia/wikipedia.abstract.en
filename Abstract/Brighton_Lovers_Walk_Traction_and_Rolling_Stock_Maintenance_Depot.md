@@ -1,0 +1,1 @@
+BRIGHTON LOVERS WALK TRACTION AND ROLLING STOCK MAINTENANCE DEPOT is a traction maintenance depot located in Brighton, East Sussex, England. The depot is situated adjacent to the Brighton Main Line and is to the north of Brighton station.[1]

@@ -1,0 +1,1 @@
+The 2016–17 NZ TOURING CARS CHAMPIONSHIP was the eighteenth season of the series, and the second under the NZ Touring Cars name. The field comprised three classes racing on the same grid. Class one featured both V8ST and NZV8 TLX cars. Class two and three consisted of older NZV8 TL cars.

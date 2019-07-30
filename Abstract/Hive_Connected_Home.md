@@ -1,0 +1,1 @@
+HIVE is a trademark owned by Centrica Hive Limited that produces smart home devices.[1] It is one of the largest connected home providers in the UK and,[2] as of May 2018, the company had more than 1,000,000 customers.[3]

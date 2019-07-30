@@ -1,0 +1,1 @@
+EGG IN BEER refers to the practice, literally or figuratively of cracking a raw egg into a glass of beer. The term is used metaphorically, commonly as "what do you want, egg in your beer?", implying that the listener already has something good but is asking for undeservedly more.[1]

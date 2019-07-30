@@ -1,0 +1,1 @@
+FRIESLAND (; official, ), also historically known as FRISIA, is a province of the Netherlands located in the northern part of the country. It is situated west of Groningen, northwest of Drenthe and Overijssel, north of Flevoland, northeast of North Holland, and south of the Wadden Sea. In 2015, the province had a population of 646,092 and a total area of .

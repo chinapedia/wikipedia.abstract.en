@@ -1,0 +1,1 @@
+AMṢAR (), singular _miṣr_, are the 'garrison towns' or settlements that were established by Muslim warriors in conquered lands, in the first centuries of Islam.[1] The first were created under Caliph Omar I during his reign from 634-644 AD.[2] Many of these garrisons attracted civilians and became towns.

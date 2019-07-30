@@ -1,0 +1,1 @@
+The 2006 PENNSYLVANIA 500 was a NASCAR Nextel Cup Series race that was held on July 23, 2006 at Pocono Raceway in Long Pond, Pennsylvania. Contested over 200 laps on the 2.5 mile (4.023 km) speedway, it was the 20th race of the 2006 NASCAR Sprint Cup Series season. Denny Hamlin of Joe Gibbs Racing won the race. With this win he swept the Pocono races in 2006.

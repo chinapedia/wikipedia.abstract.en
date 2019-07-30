@@ -1,0 +1,1 @@
+GEORGE MARR FLEMINGTON GILLON (born November 1942) is a councilman of the City of London Corporation where he represents the ward of Cordwainer. He was master of the Worshipful Company of Chartered Surveyors in 2002/2003. He was Sheriff of London from 2008 to 2009 and Chief Commoner of the Court of Common Council for 2013/2014.[1]

@@ -1,0 +1,1 @@
+HARITH ISKANDER BIN MUSA (born 7 August 1966) or better known as HARITH ISKANDER is a Malaysian actor and comedian. He is considered to be "the Godfather of Stand-Up Comedy" in Malaysia,[1][2][3][4][5] having also won the Asia's Best Stand-Up Comedian Award 2014 by Top 10 of Asia Magazine.[6][7][8]

@@ -1,0 +1,1 @@
+The eleventh season of the Syfy reality television series _FACE OFF_ (Styled as _Face Off All Stars_) premiered on January 24, 2017. This season features returning contestants ("All-Stars") from previous seasons.[1]

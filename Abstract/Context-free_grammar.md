@@ -1,0 +1,1 @@
+In formal language theory, a CONTEXT-FREE GRAMMAR (CFG) is a certain type of formal grammar: a set of production rules that describe all possible strings in a given formal language. Production rules are simple replacements. For example, the rule

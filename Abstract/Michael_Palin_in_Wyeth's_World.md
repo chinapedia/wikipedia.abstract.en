@@ -1,0 +1,1 @@
+_MICHAEL PALIN IN WYETH'S WORLD_ is a 2013 British documentary film directed by Eleanor Yule and featuring Michael Palin. It is about the American painter Andrew Wyeth and the people who inspired his paintings.

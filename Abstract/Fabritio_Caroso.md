@@ -1,0 +1,1 @@
+Fabritio_Caroso.jpg

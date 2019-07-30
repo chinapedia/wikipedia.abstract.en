@@ -1,0 +1,1 @@
+WILLIAM WHISTLER (c. 1780 – 1863) served for over 60 years in the United States Army from 1801 to 1861. His career was one of the longest in the history of the U.S. Army. He was the uncle of the famous artist James Abbott McNeill Whistler.

@@ -1,0 +1,1 @@
+NEPORA or NIPOR is a village in Anantnag tehsil in Anantnag district in Jammu and Kashmir.[1] The nearest railway station is Sadura railway station. A tributary of river Jehlum 'Sandran' flows through the village.

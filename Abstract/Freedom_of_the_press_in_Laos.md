@@ -1,0 +1,1 @@
+Laos has one of the most restrictive media environments in the world. In 2016, Reporters Without Borders ranked Laos 173 out of 179 on its annual Press Freedom Index, behind countries such as Cuba and Iran.[1]

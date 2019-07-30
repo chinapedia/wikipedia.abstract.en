@@ -1,0 +1,1 @@
+ISOLATION (physical, social or emotional) is often used to facilitate power and control over someone for an abusive purpose. This applies in many contexts such as workplace bullying,[1][2] elder abuse,[3][4] domestic abuse,[5][6] child abuse,[7][8][9] and cults.[10][11]

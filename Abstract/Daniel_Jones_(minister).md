@@ -1,0 +1,1 @@
+DANIEL JONES (June 30, 1830 - December 25, 1891) was a Methodist Episcopal minister (M.E.) in Oregon and later in the mid west. He was the first African American to attend Willamette University in Salem, Oregon. He was a leader in the M.E. church and was presiding elder of the Lexington, Kentucky district.

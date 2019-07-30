@@ -1,0 +1,1 @@
+The 2017 SEASON is KRABI FOOTBALL CLUB'S 9th existence. It is the 1st season in the Thai League 2 and the club's 6th consecutive season in the second-tier professional league in the Thai football league system since the 2012 season.

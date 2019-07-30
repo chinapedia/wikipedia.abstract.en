@@ -1,0 +1,1 @@
+The HOSPITAL RESERVATION HISTORIC DISTRICT is located between Radio Station and Officers Row Historic Districts and east of the Marine Reservation Historic District of the Puget Sound Naval Shipyard. Begun in 1909, it reached its maximum development in 1942.[1] The following structures no longer remain:

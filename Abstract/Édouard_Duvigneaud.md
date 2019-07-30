@@ -1,0 +1,1 @@
+EDOUARD DUVIGNEAUD of Belgium deceased 2005 to 2008 served as the National Commissioner of the Dutch-speaking Vlaamsch Verbond der Katholieke Scouts (VVKS) from 1956,[1] and as a member of the World Scout Committee.

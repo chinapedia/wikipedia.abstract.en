@@ -1,0 +1,1 @@
+LEONARD PETER "LEN" VLAHOV (29 June 1940 – 24 February 1997) was an Australian track and field athlete who specialised in the discus. He was the national champion in 1969 and 1975, and represented Australia at the 1962 British Empire and Commonwealth Games and the 1967 Summer Universiade.

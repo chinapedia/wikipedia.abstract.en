@@ -1,0 +1,1 @@
+LU CHIA-HUNG (; born 4 March 1997) is a Taiwanese badminton player who joined the national team since he was 12 years old.[1][2] He competed at the 2014 Summer Youth Olympics,[3] and in 2015 Lu was crown as the boys' singles champion at the World Junior Championships.[4]

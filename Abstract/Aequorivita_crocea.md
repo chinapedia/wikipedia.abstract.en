@@ -1,0 +1,1 @@
+_AEQUORIVITA CROCEA_ is a Gram-negative, psychrotolerant, strictly aerobic, rod-shaped, chemoheterotrophic and non-motile bacterium from the genus of Aequorivita which has been isolated from the Antarctic.[1][2][3]

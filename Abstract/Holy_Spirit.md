@@ -1,0 +1,1 @@
+HOLY SPIRIT, is a term found in English translations of the Bible that is understood differently among the Abrahamic religions.[1][2] The term is also used to describe aspects of other religions and belief structures.

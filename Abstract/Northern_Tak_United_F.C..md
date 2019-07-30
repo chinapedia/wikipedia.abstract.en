@@ -1,0 +1,1 @@
+NORTHERN TAK UNITED FOOTBALL CLUB (Thai สโมสรฟุตบอลนอร์ทเทิร์น ตากยูไนเต็ด), is a Thai football club based in Tak Province, Thailand. The club is currently playing in the 2017 Thailand Amateur League Northern Region.

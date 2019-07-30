@@ -1,0 +1,1 @@
+The 500 LADIES CLASSIC was a women's professional golf tournament on the LPGA Tour, played only in 1968.[1] It was held at the Speedway Golf Course at the Indianapolis Motor Speedway in Indianapolis, Indiana. Mickey Wright won the event at 212 (−4), three strokes ahead of runner-up Kathy Whitworth; it was her 80th tour win.[2]

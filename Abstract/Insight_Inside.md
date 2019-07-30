@@ -1,0 +1,1 @@
+_INSIGHT INSIDE_ is a current affairs and talk television show in the Philippines hosted by Harry Tambuatco, and aired Monday to Friday afternoon then moved to Friday evenings on Radio Philippines Network.

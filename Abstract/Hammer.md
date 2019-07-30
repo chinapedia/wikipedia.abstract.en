@@ -1,0 +1,1 @@
+Claw-hammer.jpg]] A HAMMER is a tool consisting of a weighted "head" fixed to a long handle that is swung to deliver an impact to a small area of an object. This can be, for example, to drive nails into wood, to shape metal (as with a forge), or to crush rock.[1][2] Hammers are used for a wide range of driving, shaping, and breaking applications.

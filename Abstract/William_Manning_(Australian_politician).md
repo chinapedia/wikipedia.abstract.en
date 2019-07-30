@@ -1,0 +1,1 @@
+WILLIAM ALAN "WILL" MANNING (13 April 1903 – 1 October 1986) was an Australian businessman and politician who was a Country Party member of the Legislative Assembly of Western Australia from 1956 to 1974, representing the seat of Narrogin.

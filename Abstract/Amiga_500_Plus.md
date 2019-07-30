@@ -1,0 +1,1 @@
+The Commodore AMIGA 500 PLUS[1] (often A500 PLUS or simply A500+) is an enhanced version of the original Amiga 500 computer. It was notable for introducing new versions of Kickstart and Workbench, and for some minor improvements in the custom chips, known as the Enhanced Chip Set (or ECS).

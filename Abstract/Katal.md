@@ -1,0 +1,1 @@
+The KATAL (symbol: KAT) is the unit of catalytic activity in the International System of Units (SI).[1] It is a derived SI unit for quantifying the catalytic activity of enzymes (that is, measuring the enzymatic activity level in enzyme catalysis) and other catalysts.

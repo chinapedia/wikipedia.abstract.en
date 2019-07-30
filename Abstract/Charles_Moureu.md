@@ -1,0 +1,1 @@
+FRANÇOIS CHARLES LÉON MOUREU (19 April 1863, in Mourenx – 13 June 1929, in Biarritz) was a French organic chemist and pharmacist. In 1902 Charles Moureu published _Notions fondamentales de chimie organique_,[1] translated into English as _Fundamental principles of organic chemistry_ (1921).[2]

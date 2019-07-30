@@ -1,0 +1,1 @@
+ROKIETNICA RAILWAY STATION is a railway station serving the village of Rokietnica, in the Greater Poland Voivodeship, Poland. The station is located on the Poznań–Szczecin railway and the now closed Rokietnica–Skwierzyna railway. The train services are operated by Przewozy Regionalne.

@@ -1,0 +1,1 @@
+_CAR MECHANIC SIMULATOR 2015_ is a simulation video game depicting the work of an automotive mechanic. It was released on 23 April 2015 for the PC,[1] with a mobile release the following year.[2] The game is a sequel to _Car Mechanic Simulator 2014_, and was followed by _Car Mechanic Simulator 2018_.

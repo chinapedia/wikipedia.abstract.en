@@ -1,0 +1,1 @@
+WILLAM PATRICK BRADLEY (born in Williamsport, Pennsylvania in 1867- June 1938) was a lawyer, who also served in the United States Navy. He served on the City Council of Detroit, Michigan from 1919 to 1938.

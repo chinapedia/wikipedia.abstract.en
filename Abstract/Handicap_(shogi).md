@@ -1,0 +1,1 @@
+In shogi, a HANDICAP game (駒落戦 _koma ochisen,_ 駒落ち _koma ochi,_ ハンデキャップ _handekyappu,_ 不利益 _furieki_) is a game setup used between players of disparate strengths, in which one or more pieces are removed from the stronger player's side. (Note that the missing pieces are not available for drops and play no further part in the game.)

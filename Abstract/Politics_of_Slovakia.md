@@ -1,0 +1,1 @@
+POLITICS OF SLOVAKIA takes place in a framework of a parliamentary representative democratic republic, with a multi-party system. Legislative power is vested in the parliament and it can be exercised in some cases also by the government or directly by citizens.

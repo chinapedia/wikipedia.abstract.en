@@ -1,0 +1,1 @@
+The KAANTYU are an Indigenous Australian people of the Cape York Peninsula. They love in the area around the present day town of Coen. Most of their traditional tribal land is taken over for cattle stations. _Kaantju_ refers to the hook of the _yuli_, their word for woomera.

@@ -1,0 +1,1 @@
+_LEE_ is a 1991 novel by the American writer Tito Perdue. It tells the story of an angry and well-read septuagenarian, Leland "Lee" Pefley, who returns to his hometown in Alabama after many years in the North.

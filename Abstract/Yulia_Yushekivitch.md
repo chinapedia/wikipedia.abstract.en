@@ -1,0 +1,1 @@
+'''Yulia Yushekivitch ''' (born 14 September 1980) is a Russian footballer who played as a defender for the Russia women's national football team. She was part of the team at the 1999 FIFA Women's World Cup.[1]

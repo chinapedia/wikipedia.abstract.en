@@ -1,0 +1,1 @@
+The 1970 BROWNLOW MEDAL was the 43rd year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Peter Bedford of the South Melbourne Football Club won the medal by polling twenty-five votes during the 1970 VFL season.[2]

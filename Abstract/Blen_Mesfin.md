@@ -1,0 +1,1 @@
+BLEN MESFIN (Amharic: ብሌን መስፍን) is an official in Ethiopia’s opposition Semayawi (Blue) Party.[1] In 2016, she was named one of twenty women political prisoners in the FreeThe20 campaign by Samantha Power, the U.S. Ambassador to the United Nations.[2]

@@ -1,0 +1,1 @@
+Mesopotamian campaign | {{·}}Western Front }} | restingplace = Westminster Abbey | birthname = Clement Richard Attlee | mawards = }} CLEMENT RICHARD ATTLEE, 1ST EARL ATTLEE, (3 January 1883 – 8 October 1967), was a British Labour Party politician who was Prime Minister of the United Kingdom from 1945 to 1951.

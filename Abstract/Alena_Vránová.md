@@ -1,0 +1,1 @@
+ALENA VRÁNOVÁ (born 30 July 1932) is a Czech film and theatre actress. At the 1997 Thalia Awards she won the category of Best Actress in a Play. She studied at the Faculty of Theatre (Prague).[1] Vránová was recognised with an award for lifetime achievement in theatre at the 2016 Thalia Awards.[2]

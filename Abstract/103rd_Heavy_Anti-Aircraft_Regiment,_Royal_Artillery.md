@@ -1,0 +1,1 @@
+The 103RD HEAVY ANTI-AIRCRAFT REGIMENT (103rd HAA Rgt) was an air defence unit of the British Army's Royal Artillery during World War II. It saw action during the Liverpool Blitz, landed on D-Day and served throughout the subsequent campaign in North West Europe and defended the cities of Belgium against V-1 flying bombs.

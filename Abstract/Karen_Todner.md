@@ -1,0 +1,1 @@
+KAREN ELIZABETH TODNER (born April 1962 in Nuneaton, England) is a British solicitor. Her clients include hacker Ryan Cleary linked with LulzSec,[1] Gary McKinnon known as the "Pentagon Hacker",[2] and Lauri Love.[3]

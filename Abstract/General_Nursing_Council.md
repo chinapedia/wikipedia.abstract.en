@@ -1,0 +1,1 @@
+The GENERAL NURSING COUNCIL FOR ENGLAND AND WALES was established by the Nurses Registration Act 1919 to administer the register of nurses. It was responsible for deciding the rules for admission to the register.

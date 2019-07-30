@@ -1,0 +1,1 @@
+_PHENOMENAL AND THE TREASURE OF TUTANKHAMEN_ () is a 1968 Italian film directed by Ruggero Deodato. The film was produced and starred Nicola Mauro Parenti as a Fenomenal, a man who is attempting to stop a gang of thieves from stealing the mask of Tutankhamun from a museum in Paris.

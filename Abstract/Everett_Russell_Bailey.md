@@ -1,0 +1,1 @@
+EVERETT RUSSELL BAILEY, M.D. (March 30, 1888 – October 22, 1932) was an American physician who served as a First Lieutenant and an army doctor in 365th Ambulance Company and Battalion Gas Officer during World War I. He specialized in treating gas inflicted patients.

@@ -1,0 +1,1 @@
+27_Quai_Anatole_France.jpg

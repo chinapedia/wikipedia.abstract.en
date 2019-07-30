@@ -1,0 +1,1 @@
+AUGUSTO GERARDO JUNCO TASSINARI (3 October 1915 – 9 December 1983), known professionally as TITO JUNCO, was a Mexican actor. He was considered one of the greatest actors of the Golden Age of Mexican cinema.[1]

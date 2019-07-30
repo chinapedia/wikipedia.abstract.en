@@ -1,0 +1,1 @@
+The BALLARD FARM is a historic farm property on Ballard Road in Georgia, Vermont. At the time of its listing on the National Register of Historic Places in 1993, it had been under cultivation by members of the Ballard family for more than 200 years, having been established in 1788 by a sale from Ira Allen to Joseph Ballard.

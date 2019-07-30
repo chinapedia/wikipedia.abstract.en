@@ -1,0 +1,1 @@
+CHIRKUTT is a Bangladeshi rock band from Dhaka, formed in 2002. It consists of vocalist Sharmin Sultana Sumi, guitarist Emon Chowdhury, bassist Didar Hasan, keyboards player Jahid Nirob and drummer Pavel Areen.[1] [2]

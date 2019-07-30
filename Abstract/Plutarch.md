@@ -1,0 +1,1 @@
+PLUTARCH (; , _Ploútarkhos_, ; c. AD 46 – c. 120),[1] later named, upon becoming a Roman citizen, LUCIUS MESTRIUS PLUTARCHUS, () was a Greek biographer and essayist, known primarily for his _Parallel Lives_ and _Moralia_.[2] He is classified[3] as a Middle Platonist. Plutarch's surviving works were written in Greek, but intended for both Greek and Roman readers.[4]

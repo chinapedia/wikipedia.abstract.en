@@ -1,0 +1,1 @@
+SILVEIRO GARCIA (born 2 April 1994) is an East Timorese football player who currently plays as a forward for AS Ponta Leste in Liga Futebol Amadora and he also play for Timor-Leste national football team.[1][2]

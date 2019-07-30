@@ -1,0 +1,1 @@
+, born 19 August 1991 is a Samoan-born, Japanese international rugby union player who plays as a fly-half or centre.[1] He currently plays for the in Super Rugby and the Coca-Cola Red Sparks in Japan's domestic Top League.[2][3] He received Japanese citizenship in 2017.

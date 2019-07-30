@@ -1,0 +1,1 @@
+ZEYNEP ACET (born March 5, 1995) is a Turkish female Paralympian athlete competing in the T53 disability class sprint events of 100m and 400m.[1] She is a member of the Bağcılar Belediyesi Disabled SK in Istanbul.[2]

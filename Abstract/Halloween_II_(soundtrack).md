@@ -1,0 +1,1 @@
+_HALLOWEEN II_ is a soundtrack by John Carpenter for the 1981 film of the same name. It was released in 1981 through Varèse Sarabande. An expanded 30th Anniversary Edition was released in 2009 through Alan Howarth Incorporated.

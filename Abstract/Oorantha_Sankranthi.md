@@ -1,0 +1,1 @@
+_OORANTHA SANKRANTHI_ is a 1983 Telugu drama film, produced by Kodali Bosu Babu Kotagiri Gopal Rao under the Veera Rani Enterprises & Kotagiri Films banner[1] and directed by Dasari Narayana Rao.[2] It stars Akkineni Nageswara Rao, Krishna, Sridevi, Jayasudha in the lead roles and music composed by S. P. Balasubrahmanyam.[3][4]

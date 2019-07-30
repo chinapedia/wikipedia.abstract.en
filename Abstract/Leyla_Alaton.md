@@ -1,0 +1,1 @@
+LEYLA ALATON is a Turkish businesswoman and art collector, member of the Board of Alarko group of companies.[1] She has been named to that position since 2008.[2] She is also a Board Member of Alvimedica Medical Devices.[3]

@@ -1,0 +1,1 @@
+The MIDDLESEX–WINOOSKI RIVER BRIDGE is a steel girder bridge carrying U.S. Route 2 (US 2) across the Winooski River in a rural area on the town line between Moretown and Middlesex, Vermont. The two-span bridge was built in 2010, replacing a 1928 three-span Pratt through truss, which was listed on the National Register of Historic Places in 1991.[1]

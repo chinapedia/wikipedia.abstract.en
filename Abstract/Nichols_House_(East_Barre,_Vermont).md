@@ -1,0 +1,1 @@
+The NICHOLS HOUSE is a historic house at the junction of Little John and Waterman Roads, south of the East Barre village of the town of Barre, Vermont. Built in 1799, it is one of the Barre area's oldest surviving buildings, built by one of the town's first settlers. It was listed on the National Register of Historic Places in 1978.[1]

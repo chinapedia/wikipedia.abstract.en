@@ -1,0 +1,1 @@
+In computing, a CONTEXT SWITCH is the process of storing the state of a process or of a thread, so that it can be restored and execution resumed from the same point later. This allows multiple processes to share a single CPU, and is an essential feature of a multitasking operating system.

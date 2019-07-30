@@ -1,0 +1,1 @@
+WESTERN DREAMER (foaled April 25, 1994 in Georgetown, Kentucky) is an American Standardbred racehorse who won the U. S. Pacing Triple Crown in 1997. Driven by Michel Lachance, his winning time of 1:51 1/5 in the Little Brown Jug was the then fastest ever recorded for the race.[1]

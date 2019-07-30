@@ -1,0 +1,1 @@
+AGWANHERA is a village in the Saharanpur district of Uttar Pradesh, India.[1] It is located in the Nakur tehsil. The nearest post office is Sarsawa (PIN Code: 247232). The village is inhabited by Gurjars.

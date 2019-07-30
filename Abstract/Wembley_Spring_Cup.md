@@ -1,0 +1,1 @@
+The WEMBLEY SPRING CUP was a greyhound racing competition held annually at Wembley Stadium. It was inaugurated in 1930, one of the earliest competitions.[1] The race changed its name to the Blue Riband in 1981.[2]

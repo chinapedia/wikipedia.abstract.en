@@ -1,0 +1,1 @@
+VIRUM BASKETBALL KLUB is a Danish professional basketball club based in Virum, a suburban neighbourhood in Lyngby-Taarbæk Municipality. The Virum men's team plays in the First Division and the women's team in the second division after relegation of the 2010–11 season. For sponsorship reasons the club's current name is VIRUM VIPERS.[1]

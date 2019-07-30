@@ -1,0 +1,1 @@
+The LÖWENHERZ THREAD is a largely obsolete metric thread form designed in the late nineteenth century and frequently applied in precision instruments. It is named after Dr. Leopold Löwenherz, who was the director of the metrology institute Physikalisch-Technische Bundesanstalt in Berlin.[1]

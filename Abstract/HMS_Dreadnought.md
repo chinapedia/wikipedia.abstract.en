@@ -1,0 +1,1 @@
+Several ships and one submarine of the Royal Navy have borne the name HMS _DREADNOUGHT_ in the expectation that they would "dread nought", i.e. "fear nothing". The 1906 ship was one of the Royal Navy's most famous vessels; battleships built after her were referred to as 'dreadnoughts', and earlier battleships became known as pre-dreadnoughts.

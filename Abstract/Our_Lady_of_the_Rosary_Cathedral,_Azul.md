@@ -1,0 +1,1 @@
+The OUR LADY OF THE ROSARY CATHEDRAL[1] ( ) also called AZUL CATHEDRAL[2] is a Catholic church built in Gothic style, inaugurated on October 7, 1906 and is located in the city of Azul, in the center of the province of Buenos Aires in the South American country of Argentina.

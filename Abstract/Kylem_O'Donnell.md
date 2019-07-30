@@ -1,0 +1,1 @@
+KYLEM FRANCIS TE RIRI O'DONNELL (born 1 August 1989) is a New Zealand rugby union player who currently plays as a halfback for in New Zealand's domestic Mitre 10 Cup.[1][2] He is also a former All Blacks Sevens representative.[3]

@@ -1,0 +1,1 @@
+_EUPHORIA_ (stylized _EUPHORIA_) is the fifth major-label Japanese studio album (seventh overall) by South Korean pop-rock idol band CNBLUE. It was released on October 19, 2016, under Warner Music Japan. The date marks the five-year anniversary of the band's debut with its record label.

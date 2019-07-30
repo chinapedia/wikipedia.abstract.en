@@ -1,0 +1,1 @@
+CAMERON SMITH (born March 26, 1997) is an American football linebacker for the Minnesota Vikings of the National Football League (NFL). He played college football for the USC Trojans and was selected by the Vikings in the fifth round of the 2019 NFL Draft.

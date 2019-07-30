@@ -1,0 +1,1 @@
+'''Vasiliki "Vaso" Plevritou ''' (born 8 June 1998) is a Greek female water polo player. She plays for Olympiacos in Greece.[1] She was a part of the team winning the 2015 Women's LEN Super Cup.[2] She was part of the Greece national team winning the bronze medal at the 2015 European Games.[3] She started competing in water polo in 2008.

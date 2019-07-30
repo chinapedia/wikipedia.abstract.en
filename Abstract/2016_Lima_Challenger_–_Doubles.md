@@ -1,0 +1,1 @@
+Andrej Martin and Hans Podlipnik were the defending champions but only Podlipnik chose to defend his title, partnering Andrés Molteni. Podlipnik lost in the first round to Mauricio Echazú and Michael Linzer.

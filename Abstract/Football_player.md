@@ -1,0 +1,1 @@
+A FOOTBALL PLAYER OR FOOTBALLER is a sport person who plays one of the different types of football. The main types of football are association football, American football, Canadian football, Australian rules football, Gaelic football, rugby league and rugby union.

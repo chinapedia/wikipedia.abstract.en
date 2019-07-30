@@ -1,0 +1,1 @@
+_ITHAYA GEETHAM_ is a 1950 Indian Tamil-language historical romance film written, directed and produced by Joseph Thaliath Jr.. The film featured T.R. Mahalingam and T. R. Rajakumari in the lead roles.[1]

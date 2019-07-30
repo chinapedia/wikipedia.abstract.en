@@ -1,0 +1,1 @@
+FRANCES SERGEANT CHILDS (April 17, 1901 – June 11, 1988)[1] was an American historian who was a founding faculty member of Brooklyn College. Her area of specialization was Franco-American relations in the 18th and 19th centuries.

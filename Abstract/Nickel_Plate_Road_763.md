@@ -1,0 +1,1 @@
+Nickel Plate Road No. 763 is a 2-8-4 S-2 Class Berkshire locomotive. It was built in August 1944 by the Lima Locomotive Works in Lima, Ohio, as the ninth engine of its class. It is a high powered fast freight locomotive that carried perishables between Chicago and Buffalo, New York.

@@ -1,0 +1,1 @@
+The CATHEDRAL BASILICA OF THE ASSUMPTION OF THE BLESSED VIRGIN MARY AND ST. NICHOLAS [1] ( ) also called ŁOWICZ CATHEDRAL is a religious building affiliated with the Catholic Church and is located in the city of Łowicz[2] in the Łódź Voivodeship, Poland.[3][4]

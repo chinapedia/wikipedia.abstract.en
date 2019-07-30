@@ -1,0 +1,1 @@
+In mathematics, a LAWVERE–TIERNEY TOPOLOGY is an analog of a Grothendieck topology for an arbitrary topos, used to construct a topos of sheaves. A Lawvere–Tierney topology is also sometimes also called a LOCAL OPERATOR or COVERAGE or TOPOLOGY or GEOMETRIC MODALITY. They were introduced by and Myles Tierney.

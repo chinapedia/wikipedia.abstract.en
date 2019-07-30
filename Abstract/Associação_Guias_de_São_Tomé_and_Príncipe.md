@@ -1,0 +1,1 @@
+ASSOCIAÇÃO GUIAS DE SÃO TOMÉ AND PRÍNCIPE are a prospective member of the World Association of Girl Guides and Girl Scouts. Girl Guiding started in 1991, but no recent information appears to be available.[1]

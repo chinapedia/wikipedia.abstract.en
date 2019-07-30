@@ -1,0 +1,1 @@
+CLEO GIBSON was a classic female blues singer active in the 1920s.[1] Her full name was Cleosephus Gibson.[2] She recorded two tracks for Okeh Records, "I’ve Got Ford Movements In My Hips" and "Nothing But Blues".[3] Much surrounding her life is a mystery, but her recordings are a notable example of American blues music.[4]

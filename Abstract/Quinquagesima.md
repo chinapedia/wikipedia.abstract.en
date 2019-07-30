@@ -1,0 +1,1 @@
+QUINQUAGESIMA () is one of the names used in the Western Church for the Sunday before Ash Wednesday. It is also called QUINQUAGESIMA SUNDAY, QUINQUAGESIMAE, ESTOMIHI, SHROVE SUNDAY, or the SUNDAY NEXT BEFORE LENT.

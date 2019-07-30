@@ -1,0 +1,1 @@
+The 2016–17 AMKAR PERM SEASON is their 13th season in the Russian Premier League, the highest tier of association football in Russia, following promotion during the 2003 season. They will participate in the Russian Premier League and Russian Cup.

@@ -1,0 +1,1 @@
+The 1947 MIAMI HURRICANES FOOTBALL TEAM was an American football team that represented the University of Miami as an independent during the 1947 college football season. In its ninth and final season under head coach Jack Harding, the team compiled a 2–7–1 record and was outscored by a total of 140 to 80.[1] The team played its home games at Burdine Stadium in Miami.

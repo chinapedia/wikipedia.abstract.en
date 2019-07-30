@@ -1,0 +1,1 @@
+Guillermo Durán and Andrés Molteni were the defending champions but only Molteni chose to defend his title, partnering Guido Andreozzi. Molteni lost in the first round to Franco Agamenone and Federico Zeballos.

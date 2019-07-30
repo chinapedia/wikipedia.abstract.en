@@ -1,0 +1,1 @@
+SAŠA M.SAVIĆ (; ; born 16 May 1956) is a Serbian artist best known for his fresco paintings, Byzantine icons, portraits, contemporary paintings, metal installations, objects made out of found materials and trash and Nature art installations.

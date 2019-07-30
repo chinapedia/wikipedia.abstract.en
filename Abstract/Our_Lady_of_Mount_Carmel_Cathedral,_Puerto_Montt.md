@@ -1,0 +1,1 @@
+The OUR LADY OF MOUNT CARMEL CATHEDRAL[1] () Also PUERTO MONTT CATHEDRAL[2] Is a cathedral church of Catholic worship dedicated to the Virgin Mary under the invocation of Our Lady of the Carmen (Mount Carmel). It is located in the Plaza de Armas of Puerto Montt, and is the seat of the archbishop of the Archdiocese of Puerto Montt in Chile.[3]

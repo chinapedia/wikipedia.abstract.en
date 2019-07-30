@@ -1,0 +1,1 @@
+_PEOPLE V. JAFFE_, 185 N.Y. 497 (1906), is a criminal case that held that attempt to receive stolen goods was a legal impossibility if the goods have been recovered, then delivered to the accused as part of a sting operation, because they lost their legal status of being stolen when they were recovered.[1]

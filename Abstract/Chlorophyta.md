@@ -1,0 +1,1 @@
+Taiwan_2009_East_Coast_ShihTiPing_Giant_Stone_Steps_Algae_FRD_6581.jpg in Taiwan]]

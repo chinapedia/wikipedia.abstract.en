@@ -1,0 +1,1 @@
+The 2017 OAKLAND RAIDERS SEASON was the 58th overall season of the Oakland Raiders' franchise, the franchise's 48th season in the National Football League, their 23rd season since their return to Oakland, and the third and final season under head coach Jack Del Rio. It was the first season for the team since the franchise announced its impending relocation to Las Vegas.

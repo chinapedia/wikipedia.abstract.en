@@ -1,0 +1,1 @@
+BLUESKY FIJI is an annual international R18 music festival held in Fiji.[1][2][3] Bluesky Fiji was founded in 2012 and is known for pioneering international music festivals in Fiji.[4][5] The festival has helped establish other international music festivals in Fiji including Spring Break Fiji.[6][7][8]

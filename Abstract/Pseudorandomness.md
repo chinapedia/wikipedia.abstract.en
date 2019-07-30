@@ -1,0 +1,1 @@
+A PSEUDORANDOM process produces predictable outcomes given information which is typically difficult to acquire; absent such information, pseudorandom sequences of numbers exhibit statistical randomness.

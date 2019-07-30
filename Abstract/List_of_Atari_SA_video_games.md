@@ -1,0 +1,1 @@
+ATARI SA is a holding company formerly known as Infogrames Entertainment SA. This list will only contain original releases, and no re-releases or games from other companies that Infogrames acquired. This list is currently incomplete.

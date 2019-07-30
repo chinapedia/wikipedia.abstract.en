@@ -1,0 +1,1 @@
+POPE ADRIAN VI (), born ADRIAAN FLORENSZ BOEYENS[1] (2 March 1459 – 14 September 1523), was head of the Catholic Church and ruler of the Papal States from 9 January 1522 until his death on 14 September 1523. The only Dutchman so far to become pope, he was the last non-Italian pope until John Paul II, 455 years later.

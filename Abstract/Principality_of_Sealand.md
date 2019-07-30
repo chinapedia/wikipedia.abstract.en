@@ -1,0 +1,1 @@
+The PRINCIPALITY OF SEALAND, commonly known as SEALAND, is a micronation that claims Roughs Tower, an offshore platform in the North Sea approximately off the coast of Suffolk, as its territory. Roughs Tower is a disused Maunsell Sea Fort, originally called HM Fort Roughs, built as an anti-aircraft gun platform by the British during World War II.[1][2]

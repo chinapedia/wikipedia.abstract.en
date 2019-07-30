@@ -1,0 +1,1 @@
+is the debut studio album by Japanese singer and songwriter Rina Aiuchi. It was released on 24 January 2001 by Giza Studio. The eurobeat-sounded J-pop album has yielded four singles, including the Japan top 5 hit "Koi wa Thrill, Shock, Suspense"[1][2]. The album reached number 3 on the _Oricon_ albums chart in its first week and charted for seven weeks[3].

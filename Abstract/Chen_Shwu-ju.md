@@ -1,0 +1,1 @@
+'''Chen Shwu-ju ''' (born 2 March 1965) is a Taiwanese footballer who played as a defender for the Chinese Taipei women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. At the club level she played for Ming Chuan University in Taiwan.[1]

@@ -1,0 +1,1 @@
+CHRISTIAN ANDREAS DOPPLER (; ; 29 November 1803 – 17 March 1853)[1] was an Austrian mathematician and physicist. He is celebrated for his principle — known as the Doppler effect — that the observed frequency of a wave depends on the relative speed of the source and the observer. He used this concept to explain the color of binary stars.

@@ -1,0 +1,1 @@
+The SERIE B OF THE BRAZILIAN CHAMPIONSHIP 2017 was a football competition held in Brazil, equivalent to the second division. It was contested by 20 clubs, between 12 May and 25 November.[1] The top four teams were promoted to Série A in 2018 and the bottom four were relegated to Série C in 2018.

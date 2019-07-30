@@ -1,0 +1,1 @@
+SCOTTIE NELL HUGHES (born June 21, 1980) is an American journalist, news anchor and political commentator. She was a paid CNN commentator during the 2016 presidential election, often speaking in support of presidential candidate Donald Trump.[1][2][3][4]

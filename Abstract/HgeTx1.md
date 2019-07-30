@@ -1,0 +1,1 @@
+HGETX1 (systematic name: Α-KTX 6.14) is a toxin produced by the Mexican scorpion _Hoffmanihadrurus gertschi_ that is a reversible blocker of the _Shaker B_ K⁺-channel, a type of voltage-gated potassium channels.

@@ -1,0 +1,1 @@
+AN ANTANE KAPESH (1926-2004), who also went by the French name ANNE(-MARIE) ANDRÉ, was an Innu writer and activist from Schefferville, Quebec. She was a chief at Schefferville (Matimekosh) from 1965-1967.[1]

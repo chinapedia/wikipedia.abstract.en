@@ -1,0 +1,1 @@
+_QUARTET: LIVE AT MOERS FESTIVAL_ is a live album by saxophonist/composer/improviser Anthony Braxton's Quartet recorded in 1974 at the Third International New Jazz Festival in Moers and originally released on the German Ring label in 1976 and the Moers Music label in 1977 as a double LP.[1][2][3]

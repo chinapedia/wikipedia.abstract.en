@@ -1,0 +1,1 @@
+MINERVA (; ; Etruscan: _Menrva_) is the Roman goddess of wisdom and strategic warfare and the sponsor of arts, trade, and strategy. From the second century BC onward, the Romans equated her with the Greek goddess Athena,[1] though the Romans did not stress her relation to battle and warfare as the Greeks did.

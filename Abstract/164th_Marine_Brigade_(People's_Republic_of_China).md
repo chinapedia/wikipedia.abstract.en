@@ -1,0 +1,1 @@
+The 145TH DIVISION () was created in November 1948 under _the Regulation of the Redesignations of All Organizations and Units of the Army_, issued by Central Military Commission on November 1, 1948,[1] basing on the 34th Division, 12th Column of the PLA Northeastern Field Army. Its history can be traced to Eastern Harbin Security Command, formed in September 1945.

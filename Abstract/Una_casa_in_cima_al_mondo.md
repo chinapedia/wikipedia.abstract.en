@@ -1,0 +1,1 @@
+"UNA CASA IN CIMA AL MONDO" is a 1966 Italian song composed by Vito Pallavicini and Pino Donaggio. The song premiered at the 16th edition of the Sanremo Music Festival, with a double performance by Donaggio and Claudio Villa, and placed at the fourth place.[1][2]

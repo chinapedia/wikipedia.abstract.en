@@ -1,0 +1,1 @@
+COMPOSR CMS (or Composr) is a web application for creating websites. It is a combination of a Web content management system and Online community (Social Networking) software. Composr is licensed as free software and primarily written in the PHP programming language.

@@ -1,0 +1,1 @@
+The 2017 FINA WOMEN'S WATER POLO WORLD LEAGUE is the 14th edition of the annual women's international water polo tournament. It was played between November 2016 and June 2017 and open to all women's water polo national teams. After participating in a preliminary round, eight teams qualify to play in a final tournament, called the SUPER FINAL from 06–11 June 2017.[1]

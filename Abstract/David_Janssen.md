@@ -1,0 +1,1 @@
+DAVID JANSSEN (born DAVID HAROLD MEYER, March 27, 1931 – February 13, 1980) was an American film and television actor who is best known for his starring role as Richard Kimble in the television series _The Fugitive_ (1963–1967). Janssen also had the title roles in three other series: _Richard Diamond, Private Detective_; _Harry O_; and _O'Hara, U.S. Treasury_.

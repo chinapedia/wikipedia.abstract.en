@@ -1,0 +1,1 @@
+__ is an opera by Philippe Boesmans to a libretto by Luc Bondy and after Shakespeare's _The Winter's Tale_. It was premiered on 10 December 1999 at La Monnaie in Brussels. The German premiere followed in 2001 at the Staatstheater Braunschweig.

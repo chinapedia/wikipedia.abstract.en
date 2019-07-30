@@ -1,0 +1,1 @@
+JOE FOURNIER (born 23 January 1983) is an English entrepreneur. Fournier set up his own fitness business before selling to a FTSE100 company. He subsequently moved into the nightclub industry and then boxing.

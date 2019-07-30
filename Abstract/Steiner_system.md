@@ -1,0 +1,1 @@
+250px is a Steiner triple system S(2,3,7). The blocks are the 7 lines, each containing 3 points. Every pair of points belongs to a unique line.]] In combinatorial mathematics, a STEINER SYSTEM (named after Jakob Steiner) is a type of block design, specifically a t-design with λ = 1 and _t_ ≥ 2.

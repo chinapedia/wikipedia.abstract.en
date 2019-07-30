@@ -1,0 +1,1 @@
+TAYLA HARRIS (born 16 April 1997) is an Australian rules footballer playing for the Carlton Football Club in the AFL Women's (AFLW) and boxer. She previously played for in the inaugural AFL Women's season.

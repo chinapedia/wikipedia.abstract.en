@@ -1,0 +1,1 @@
+The 2016–17 BASKETLIGAN SEASON was the 24th season of the Basketligan, the top tier basketball league on Sweden. The season started on 6 October 2016 and ended on May 10, 2017. Södertälje Kings was the defending champion after achieving its 11th title in the previous season.[1] BC Luleå won the title after beating the defending champions 4–1 in the Finals.

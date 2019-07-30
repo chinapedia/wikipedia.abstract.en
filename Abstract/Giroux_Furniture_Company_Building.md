@@ -1,0 +1,1 @@
+The GIROUX FURNITURE COMPANY BUILDING is a historic commercial building at 10-18 Catherine Street in the city of St. Albans, Vermont. Built in two parts (1896 and 1905), it is a reminder of the city's railroad-related history, and served for many years as an enduring commercial presence. It was listed on the National Register of Historic Places in 2006.[1]

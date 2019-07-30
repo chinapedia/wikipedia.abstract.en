@@ -1,0 +1,1 @@
+_NIGHT OF THE LIVING DEAD_ is a 1968 American independent horror film written, directed, photographed and edited by George A. Romero, co-written by John Russo, and starring Duane Jones and Judith O'Dea. The story follows seven people who are trapped in a rural farmhouse in western Pennsylvania, which is besieged by a large and growing group of "living dead" monsters.

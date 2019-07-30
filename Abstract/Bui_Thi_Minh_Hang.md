@@ -1,0 +1,1 @@
+BUI THI MINH HANG (Vietnamese BÙI THỊ MINH HẰNG) is a Vietnamese activist and blogger.[1] In 2016, Samantha Power, the U.S. Ambassador to the U.N., named her as one of twenty women political prisoners in the FreeThe20 campaign.[2]

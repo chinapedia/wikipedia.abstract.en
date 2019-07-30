@@ -1,0 +1,1 @@
+KALYĀṆĪ ORDINATION HALL (, ) is a Buddhist ordination hall located in Bago, Myanmar. The ordination hall is a major pilgrimage site,[1] and houses the Kalyani Inscriptions, a set of 10 sandstone pillars inscribed in Pali and Mon in 1480.[2][3] The inscriptions are important records of Theravada Buddhist history and of that era.[4]

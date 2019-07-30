@@ -1,0 +1,1 @@
+_POSTMATTER_ is a London-based online magazine about contemporary art and culture in the digital age. It was founded in 2010 by Remi Paringaux, Alexander Dellal and Xerxes Cook as an iPad-only magazine named POST.[1][2][3][4] The magazine has been edited by Louise Benson since 2014.

@@ -1,0 +1,1 @@
+RUDOLF CHRISTIAN KARL DIESEL ( (); 18 March 1858 – 29 September 1913) was a German inventor and mechanical engineer, famous for the invention of the Diesel engine, and for his suspicious death at sea. Diesel was the namesake of the 1942 film _Diesel_.

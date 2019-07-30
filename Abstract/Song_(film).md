@@ -1,0 +1,1 @@
+_SONG_ (German: _SCHMUTZIGES GELD_, literally _Dirty Money_) is a 1928 British-German silent drama film directed by Richard Eichberg and starring Anna May Wong, Heinrich George and Mary Kid.[1] It was made at the Babelsberg Studio. The film's sets were designed by Willi Herrmann.

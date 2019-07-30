@@ -1,0 +1,1 @@
+Heavyweight boxers Muhammad Ali and Oscar Bonavena fought at Madison Square Garden in New York City on December 7, 1970. Ali won the bout through a technical knockout in the 15th round.[1][2][3][4][5][6][7][8][9][10]

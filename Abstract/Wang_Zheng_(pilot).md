@@ -1,0 +1,1 @@
+WANG ZHENG (; born 25 December 1972), also known as JULIE WANG, is a Captain at Silver Airways and an FAA Certified Flight Instructor (CFI) in the United States, where she resides. She is the first Asian woman to circumnavigate Earth in an airplane. Wang is also the first Chinese pilot to fly solo around the world[1][2][3][4][5][6][7][8][9] and the ninth woman to do so.[10][11]

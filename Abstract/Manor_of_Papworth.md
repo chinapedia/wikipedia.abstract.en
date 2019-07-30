@@ -1,0 +1,1 @@
+The MANOR OF PAPWORTH is located in the parish of Send with Ripley, Surrey, England. It has also been known historically as the MANOR OF PAPEWORTH, PAPERWORTH, PAPERWORTH COURT, and PAPEWORTH CROSS, among other names. Its history is intricately connected with that of the manors of Send, Dedswell, and West Clandon.

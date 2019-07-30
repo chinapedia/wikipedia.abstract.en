@@ -1,0 +1,1 @@
+SINGAPORE maintains diplomatic relations with 189 countries[1] although it does not maintain a high commission or embassy in many of those countries. It is a member of the United Nations, the Commonwealth, ASEAN and the Non-Aligned Movement.

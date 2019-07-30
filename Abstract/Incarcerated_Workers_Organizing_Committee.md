@@ -1,0 +1,1 @@
+THE INCARCERATED WORKERS ORGANIZING COMMITTEE (IWOC) is a project of the Industrial Workers of the World. Its purpose is to unionize incarcerated individuals, and to end unfree prison labour, which the IWOC calls, "prison slavery".

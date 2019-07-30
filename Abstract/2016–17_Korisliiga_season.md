@@ -1,0 +1,1 @@
+The 2016–17 KORISLIIGA SEASON is the 77th season of the top professional basketball league in Finland. The season started in October 5, 2016 and ended on May 13, 2017.[1] Kataja Basket won its second national title after beating Salon Vilpas in the Finals.[2]

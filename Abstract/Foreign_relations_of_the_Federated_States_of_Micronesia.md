@@ -1,0 +1,1 @@
+The government of the Federated States of Micronesia (FSM) conducts its own foreign relations. Since independence in 1986, the FSM has established diplomatic relations with a number of nations, including most of its Pacific neighbors.

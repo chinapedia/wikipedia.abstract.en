@@ -1,0 +1,1 @@
+SIMCOE (also spelled SIMCO) is an unincorporated community in northeastern McDonald County, in the U.S. state of Missouri.[1] Simcoe is located along Missouri Route 76 between Longview and Bethlehem.[2]

@@ -1,0 +1,1 @@
+GREAT SANDY BIOSPHERE RESERVE is a biosphere reserve in the Australian state of Queensland located on land and coastal waters associated both with the local government areas of the Fraser Coast Region and the Gympie Region and Fraser Island, and with the bay known as Hervey Bay.[1]

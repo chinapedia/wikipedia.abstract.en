@@ -1,0 +1,1 @@
+The EAST TIMOR GENOCIDE refers to the "pacification campaigns" of state terrorism by the Indonesian government during the US-backed[1][2] Indonesian invasion and occupation of East Timor. University of Oxford held an academic consensus calling the Indonesian Occupation of East Timor a genocide and Yale university teaches it as part of its Genocide Studies program.[3][4]

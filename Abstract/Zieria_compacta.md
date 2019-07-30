@@ -1,0 +1,1 @@
+'''''Zieria compacta ''''' is a plant in the citrus family Rutaceae and is endemic to eastern Australia. It is an erect, bushy shrub with leaves composed of three leaflets, and white flowers with four petals and four stamens. It usually grows in rocky places on steep hills.

@@ -1,0 +1,1 @@
+SACHA DE ALWIS (born 30 January 1992) is a Sri Lankan cricketer.[1] He made his first-class debut for Bloomfield Cricket and Athletic Club in the 2016–17 Premier League Tournament on 3 December 2016.[2] Prior to his first-class debut, he represented the Cayman Islands in the 2015 ICC World Cricket League Division Six tournament.[3]

@@ -1,0 +1,1 @@
+LEPUS (, ) is a constellation lying just south of the celestial equator. Its name is Latin for hare. It is located below—immediately south—of Orion (the hunter), and is sometimes represented as a hare being chased by Orion or, alternatively, by Orion's hunting dogs.[1]

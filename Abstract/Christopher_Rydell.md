@@ -1,0 +1,1 @@
+CHRISTOPHER RYDELL (born November 16, 1963) is an American actor. The son of film director Mark Rydell, Rydell is best known for his starring role in Dario Argento's _Trauma_ and for his role as Danny Leonard in the musical film _For the Boys_. He has appeared in a number of his father's film, including _Harry and Walter Go to New York_ and _On Golden Pond._[1]

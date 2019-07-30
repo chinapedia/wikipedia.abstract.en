@@ -1,0 +1,1 @@
+REGINALD HAWKINS (1923–2007) was a civil rights activist in Charlotte, NC for most of his life. He was the first African-American to run for Governor of North Carolina. He fought to desegregate Charlotte schools and businesses. His son-in-law was Hamaas Abdul Khaalis whose family was murdered in 1973 and who went on to commit the 1977 Hanafi Siege.

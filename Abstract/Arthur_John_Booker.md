@@ -1,0 +1,1 @@
+ARTHUR JOHN BOOKER, M.D. (October 31, 1881 – August 25, 1957) was a prominent community activist and health advocate who worked in Des Moines, Iowa and Los Angeles, California. He also served as a physician with the 365th Infantry Regiment of the 92nd Division during World War I, where many of the African American soldiers served.[1]

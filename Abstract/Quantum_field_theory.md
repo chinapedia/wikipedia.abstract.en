@@ -1,0 +1,1 @@
+In theoretical physics, QUANTUM FIELD THEORY (QFT) is a theoretical framework that combines classical field theory, special relativity, and quantum mechanics[1] and is used to construct physical models of subatomic particles (in particle physics) and quasiparticles (in condensed matter physics).

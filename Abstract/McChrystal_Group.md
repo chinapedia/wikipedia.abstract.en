@@ -1,0 +1,1 @@
+MCCHRYSTAL GROUP LLC is an advisory services, management consulting, and leadership development firm. It was founded in 2011 by Stanley McChrystal, a retired United States Army four-star[1] general best known for his command of Joint Special Operations Command (JSOC) in the mid-2000s.

@@ -1,0 +1,1 @@
+The POLITICS OF ITALY are conducted through a parliamentary republic with a multi-party system. Italy has been a democratic republic since 2 June 1946, when the monarchy was abolished by popular referendum and a constituent assembly was elected to draft a constitution, which was promulgated on 1 January 1948.

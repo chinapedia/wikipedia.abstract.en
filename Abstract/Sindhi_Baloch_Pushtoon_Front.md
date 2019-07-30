@@ -1,0 +1,1 @@
+The SINDHI BALOCH PUSHTOON FRONT (SBPF) was formed in London on 31 March 1985, by Ataullah Mengal, Mumtaz Bhutto, Hafiz Pirzada and Afzal Bangash to counter what they perceived as a Punjabi establishment's hegemony of Pakistan. It called for a confederation in Pakistan instead of a federation. [1]

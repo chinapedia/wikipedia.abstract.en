@@ -1,0 +1,1 @@
+opened in Takikawa, Hokkaidō, Japan in 1977. It is dedicated to the history and ways of life of the area and includes exhibits on , the Prefectural Cultural Property _Documents of the Takikawa tondenhei_, and an annex comprising a tondenhei house.[1][2][3]

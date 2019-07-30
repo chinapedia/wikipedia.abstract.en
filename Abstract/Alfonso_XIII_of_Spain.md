@@ -1,0 +1,1 @@
+ALFONSO XIII (17 May 1886 – 28 February 1941) was King of Spain from 1886 until the proclamation of the Second Republic in 1931. Alfonso was monarch from birth as his father, Alfonso XII, had died the previous year. Alfonso's mother, Maria Christina of Austria, served as regent until he assumed full powers on his sixteenth birthday in 1902.

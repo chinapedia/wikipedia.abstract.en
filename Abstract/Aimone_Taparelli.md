@@ -1,0 +1,1 @@
+Blessed AIMONE TAPARELLI (c. 1395 – 15 August 1495) was an Italian Roman Catholic priest and a professed member from the Order of Preachers.[1] He served as an Inquisitor-General for his order in the Lombard and Liguria regions and became a travelling preacher in northern Italian cities.[2][3]

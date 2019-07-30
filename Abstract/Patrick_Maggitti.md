@@ -1,0 +1,1 @@
+PATRICK G. MAGGITTI is the Provost of Villanova University.[1] As chief academic officer, Maggitti oversees Villanova’s academic enterprise: six colleges and academic areas, including Graduate and Undergraduate Research, Falvey Memorial Library, the Honors Program, Enrollment Management, and Planning and Institutional Research.

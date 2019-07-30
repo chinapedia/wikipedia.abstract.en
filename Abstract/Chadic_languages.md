@@ -1,0 +1,1 @@
+The CHADIC LANGUAGES form a branch of the Afroasiatic language family. They are spoken in parts of the Sahel. They include 150 languages spoken across northern Nigeria, southern Niger, southern Chad, Central African Republic and northern Cameroon. The most widely spoken Chadic language is Hausa, a lingua franca of much of inland Eastern West Africa.

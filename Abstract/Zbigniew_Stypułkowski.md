@@ -1,0 +1,1 @@
+ZBIGNIEW STYPUŁKOWSKI (March 26, 1904 – March 30, 1979) was a Polish lawyer and politician, Member of the Council of National Unity. He was sentenced by the Soviets in the infamous Trial of the Sixteen in 1945.

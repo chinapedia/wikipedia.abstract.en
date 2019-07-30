@@ -1,0 +1,1 @@
+PETER GUMBSCH (born 21 January 1962 in Pforzheim, Germany) is a German physicist and materials scientist. He is the director of the Fraunhofer-Institut für Werkstoffmechanik IWM, (Fraunhofer Institute for Mechanics of Materials IWM) in Freiburg, Germany and professor for mechanics of materials at the Karlsruhe Institute of Technology (KIT).

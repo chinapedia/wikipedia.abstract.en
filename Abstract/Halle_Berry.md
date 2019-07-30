@@ -1,0 +1,1 @@
+HALLE MARIA BERRY (born MARIA HALLE BERRY; August 14, 1966)[1] is an American actress. Berry won the Academy Award for Best Actress for her performance in the romantic drama film _Monster's Ball_ (2001), becoming the only woman of African American descent to have won the award.[2][3]

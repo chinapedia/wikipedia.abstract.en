@@ -1,0 +1,1 @@
+_STAR WARS: ASSAULT ON HOTH_ is a two-player strategic board game produced by West End Games and designed by Paul Murphy that recreates the Battle of Hoth as depicted in _Star Wars Episode V: The Empire Strikes Back_.[1]

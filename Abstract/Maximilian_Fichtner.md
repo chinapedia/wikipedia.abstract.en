@@ -1,0 +1,1 @@
+MAXIMILIAN FICHTNER (born 1961 in Heidelberg, Germany) is professor for Solid State Chemistry at the Ulm University and Executive Director of the Helmholtz Institute Ulm for Electrochemical Energy Storage (HIU).

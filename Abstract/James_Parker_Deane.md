@@ -1,0 +1,1 @@
+SIR JAMES PARKER DEANE (1812–1902) was an English judge. With Thomas Hutchinson Tristram he was the last of the civilians—the civil lawyers with a training from Doctors' Commons, as described in _David Copperfield_ by Charles Dickens.[1]

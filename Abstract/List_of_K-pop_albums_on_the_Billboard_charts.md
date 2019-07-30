@@ -1,0 +1,1 @@
+Billboard_logo.svg KCON_2014_Eric_Nam,_BTS.jpg introducing BTS at KCON 2014 red carpet, August 10.]] LIST OF K-POP ALBUMS ON THE _BILLBOARD_ CHARTS is a compilation of chart information for K-pop music published by the _Billboard_ charts, and reported on by _Billboard K-Town_, an online _Billboard_ column. This is a list of K-pop ALBUMS and EPs on the _Billboard_ charts.[1][2]

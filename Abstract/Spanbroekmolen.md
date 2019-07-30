@@ -1,0 +1,1 @@
+View_from_Kruisstraat_craters_towards_Spanbroekmolen_crater_-_pic_1_cropped.jpg SPANBROEKMOLEN is a small group of farms in Heuvelland, a municipality located in the Belgian province of West Flanders. The hamlet is sited on one of the highest points of the Messines Ridge, in between the villages of Kemmel, Wijtschate and Wulvergem.

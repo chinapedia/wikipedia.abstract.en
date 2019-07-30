@@ -1,0 +1,1 @@
+The 1952 ARIZONA GUBERNATORIAL ELECTION took place on November 4, 1952. Incumbent Governor John Howard Pyle, the first Republican elected to the office in two decades, ran for reelection to a second term.

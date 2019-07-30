@@ -1,0 +1,1 @@
+THE DAY OF SEA AND RIVER FLEET WORKERS or THE SEA AND RIVER FLEET WORKER'S DAY () – a professional holiday of sea and river fleet workers in the USSR, which was celebrated annually on the first Sunday of each July since 1981.

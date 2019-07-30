@@ -1,0 +1,1 @@
+SANTA MARIA DELLA MISERICORDIA is a Renaissance-style, Roman Catholic basilica church and Marian shrine located on Piazza San Vincenzo Maria Strambi, next to the Cathedral, in the center of Macerata, region of Marche, Italy.

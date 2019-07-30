@@ -1,0 +1,1 @@
+BLAIR HOLLOW is a valley in Ozark County in the Ozarks of south central Missouri.[1] The valley is a tributary to North Fork River. The head of the valley lies just northwest of U.S. Route 160.[2] Tecumseh is about three miles to the southwest along the North Fork.[3]

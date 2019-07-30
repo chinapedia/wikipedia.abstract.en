@@ -1,0 +1,1 @@
+ARSENAL FOOTBALL CLUB is a professional football club based in Islington, London, England, that plays in the Premier League, the top flight of English football. The Club has won 13 League titles, a record 13 FA Cups, 2 League Cups, 15 FA Community Shields, 1 League Centenary Trophy, 1 UEFA Cup Winners' Cup and 1 Inter-Cities Fairs Cup.

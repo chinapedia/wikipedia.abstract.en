@@ -1,0 +1,1 @@
+Kenya has a market-based economy maintaining a liberalized external trade system, while operating a few state enterprises. Major industries include: agriculture, forestry, fishing, mining, manufacturing, energy, tourism and financial services. As of 2019 Kenya had an estimated GDP of $98.264[1] billion and per capital GDP of $1,991 making it the 65th largest economy in the world.

@@ -1,0 +1,1 @@
+_PRINCE LESTAT AND THE REALMS OF ATLANTIS_ is a horror novel by American writer Anne Rice, the twelfth in _The Vampire Chronicles_ series, published on November 29, 2016.[1] It is written as both a first-person and third-person narrative.

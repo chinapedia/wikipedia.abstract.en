@@ -1,0 +1,1 @@
+_EUCALYPTUS CAJUPUTEA_, commonly known as the NARROW-LEAVED PEPPERMINT BOX,[1] is a tree or a mallee that is endemic to South Australia. It usually has rough, flaky bark on the trunk, linear to narrow lance-shaped adult leaves, flower buds arranged in groups of seven to eleven, white flowers and smooth, cup-shaped to barrel-shaped fruit.

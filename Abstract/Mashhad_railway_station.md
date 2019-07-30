@@ -1,0 +1,1 @@
+MASHHAD RAILWAY STATION (_Persian:_ ايستگاه راه آهن مشهد, _Istgah-e Rah Ahan-e Mashhad_) is located in Mashhad, Razavi Khorasan, the second largest city of Iran. The station is owned by IRI Railways and has daily services from most parts of the country, plus two suburban services. The building was designed by Heydar Ghiai.

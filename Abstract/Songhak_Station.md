@@ -1,0 +1,1 @@
+SONGHAK STATION is a railway station in Songhang-ri, Kyŏnghŭng county, North Hamgyŏng province, North Korea, on the Hambuk Line of the Korean State Railway; it is also the starting point of the Ch'undu Line.[1]

@@ -1,0 +1,1 @@
+Colombian football clubs have entered South American association football competitions, as of Copa Libertadores and Copa Sudamericana since 1960, when Millonarios participated in the first edition of Copa Libertadores. In 2016, Atlético Nacional became the first Colombian club to take part in the FIFA Club World Cup.

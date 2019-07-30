@@ -1,0 +1,1 @@
+The RENAULT AHX was a range of light/medium trucks with carrying capacities from 2 to 5 tonnes manufactured by Renault between 1941 and 1947. Various versions were used in World War II by the German forces.

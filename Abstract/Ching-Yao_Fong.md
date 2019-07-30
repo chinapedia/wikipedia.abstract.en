@@ -1,0 +1,1 @@
+CHING-YAO FONG ()[1] is a physicist and a Distinguished Professor at the University of California, Davis,[2] and also a published author.[3] He is a Fellow of the American Physical Society, Institute of Physics.[4]

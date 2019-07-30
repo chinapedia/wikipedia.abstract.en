@@ -1,0 +1,1 @@
+C.M. WASHINGTON HIGH SCHOOL was a primary and secondary school for black people in Thibodaux, Louisiana. A part of Lafourche Parish Public Schools, it was the only K-12 school in Lafourche Parish for black people, and it had the first high school program for black people in Thibodaux.[1]

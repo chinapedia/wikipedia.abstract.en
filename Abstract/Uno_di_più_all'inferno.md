@@ -1,0 +1,1 @@
+_UNO DI PIÙ ALL'INFERNO_ (internationally released as _ONE MORE TO HELL_, _FULL HOUSE FOR THE DEVIL_, and _TO HELL AND BACK_) is a 1968 Italian spaghetti western directed by Giovanni Fago (here credited as Sidney Lean) and starring George Hilton.[1]

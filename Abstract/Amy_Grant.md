@@ -1,0 +1,1 @@
+AMY LEE GRANT (born November 25, 1960) is an American singer, songwriter, musician, author and media personality. She is known for performing contemporary Christian music (CCM) and for a successful crossover to pop music in the 1980s and 1990s. She has been referred to as "The Queen of Christian Pop".[1][2]

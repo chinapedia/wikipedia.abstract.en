@@ -1,0 +1,1 @@
+_AN OLD FASHIONED BOY_ is a surviving 1920 American silent comedy romance film directed by Jerome Storm and starring Charles Ray. Famous Players-Lasky produced along with producer Thomas Ince. It was released by Paramount Pictures.[1][2]

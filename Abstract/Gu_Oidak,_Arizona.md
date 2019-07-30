@@ -1,0 +1,1 @@
+GU OIDAK (also known as BIG FIELDS or KUOITAK) is a census-designated place (CDP) located within the Tohono O'odham Nation Division in Pima County, Arizona, United States. The population was 188 at the 2010 census.[1] The name "Gu Oidak" is the O'odham term for "big field".[2]

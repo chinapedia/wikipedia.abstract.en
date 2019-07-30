@@ -1,0 +1,1 @@
+KHIONIYA IVANOVNA TALANOVA (, Strelkova, Стрелкова; born 1822, Nizhny Novgorod, Imperial Russia, — died 17 May 1880, Moscow, Imperial Russia) was a Russian stage actress, associated with Moscow's Maly Theatre.

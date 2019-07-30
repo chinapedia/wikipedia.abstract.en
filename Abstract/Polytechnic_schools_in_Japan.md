@@ -1,0 +1,1 @@
+in Japan are vocational education institutions for short and long term programs, a group of public human resources development facilities under paragraph (1) (i) of Article 15-6 of the Human Resources Development Promotion Law. It involves designated private sector as well.

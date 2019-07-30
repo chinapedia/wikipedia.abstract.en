@@ -1,0 +1,1 @@
+SANIYYA SIDNEY () (born October 30, 2006) is an American actress. She is most known for her roles in the series _American Horror Story: Roanoke_ (2016), and the films _Fences_ (2016), _Hidden Figures_ (2016), and Fox's new vampire drama, _The Passage_ (2019).

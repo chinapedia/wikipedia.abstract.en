@@ -1,0 +1,1 @@
+ANDRONIKOS PAIKOS (, 1796 or 1799 – 1879) was a Macedonian fighter of the Greek Revolution of 1821, university professor, politician, representative in two national assemblies, and minister in three governments.

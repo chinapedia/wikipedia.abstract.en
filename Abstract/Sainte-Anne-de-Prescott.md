@@ -1,0 +1,1 @@
+SAINTE-ANNE-DE-PRESCOTT (often written as STE-ANNE-DE-PRESCOTT) is a predominantly francophone, Canadian town located in the United Counties of Prescott and Russell, in Ontario, near the Québec border and Glengarry County. It is a part of the Municipality of East Hawkesbury

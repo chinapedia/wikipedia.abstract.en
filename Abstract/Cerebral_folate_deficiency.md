@@ -1,0 +1,1 @@
+CEREBRAL FOLATE DEFICIENCY is a condition in which concentrations of 5-methyltetrahydrofolate are low in the brain as measured in the cerebral spinal fluid despite being normal in the blood.[1] Symptoms typically appear at about 5 to 24 months of age.[2][3] Without treatment there may be poor muscle tone, trouble with coordination, trouble talking, and seizures.[4]

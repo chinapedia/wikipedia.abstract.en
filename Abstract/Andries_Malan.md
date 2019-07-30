@@ -1,0 +1,1 @@
+ANDRIES MALAN (born 20 October 1994) is a South African badminton player.[1] In 2014, he competed at the Commonwealth Games in Glasgow, Scotland.[2] In 2015, he won double titles at the All-Africa Games by winning men's and mixed doubles event.[3]

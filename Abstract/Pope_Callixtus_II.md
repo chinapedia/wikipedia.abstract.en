@@ -1,0 +1,1 @@
+POPE CALLIXTUS II or CALLISTUS II (c. 1065 – 13 December 1124), born GUY OF BURGUNDY, was pope of the western Christian church from 1 February 1119 to his death in 1124.[1] His pontificate was shaped by the Investiture Controversy, which he was able to settle through the Concordat of Worms in 1122.

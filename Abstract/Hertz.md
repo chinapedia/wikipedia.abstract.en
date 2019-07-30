@@ -1,0 +1,1 @@
+FrequencyAnimation.gif 0.5 Hz}}, 1.0 Hz and 2.0 Hz, i.e. at 0.5, 1.0 and 2.0 flashes per second, respectively. The time between each flash – the _period_ T – is given by (the reciprocal of _f_), i.e. 2, 1 and 0.5 seconds, respectively.]]

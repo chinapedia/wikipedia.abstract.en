@@ -1,0 +1,1 @@
+British author Peter F. Hamilton's _THE NIGHT'S DAWN TRILOGY_ consists of three science fiction novels: _The Reality Dysfunction_ (1996), _The Neutronium Alchemist_ (1997), and _The Naked God_ (1999). A collection of short stories, _A Second Chance at Eden_, shares the same universe, and _The Confederation Handbook_ documents that universe in non-fiction style.

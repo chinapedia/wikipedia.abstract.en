@@ -1,0 +1,1 @@
+MARLA HAMBURG KENNEDY is an American art curator, dealer and publisher specializing in contemporary art and photography. She is also an author and has published 30 photography and fine art books. She is the founder and owner of Hamburg Kennedy Photographs, HK Art Advisory, and Picture This Publications located in New York City.[1]

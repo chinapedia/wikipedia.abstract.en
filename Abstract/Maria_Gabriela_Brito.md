@@ -1,0 +1,1 @@
+MARÍA GABRIELA BRITO (born 1976) is a Venezuelan-born curator, art advisor, and author based in New York City. Her published works include _Out There: Design, Art, Travel Shopping_, published by Pointed Leaf Press in 2013, and _Greek Gotham_, published in 2016.

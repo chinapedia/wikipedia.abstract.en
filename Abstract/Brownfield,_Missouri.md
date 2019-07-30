@@ -1,0 +1,1 @@
+BROWNFIELD is an unincorporated community in northeastern Laclede County, in the U.S. state of Missouri.[1] The community is located just over one mile southeast of the Laclede-Pulaski county line and on mile east of Missouri Route K. It is within the Mark Twain National Forest and the Gasconade River lies just one mile to the east.[2]

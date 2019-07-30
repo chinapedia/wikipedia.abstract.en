@@ -1,0 +1,1 @@
+COMMODORE is a naval rank used in many navies that is superior to a navy captain, but below a rear admiral. Non-English-speaking nations often use the rank of flotilla admiral, counter admiral, or senior captain as an equivalent, although counter admiral may also correspond to rear admiral.

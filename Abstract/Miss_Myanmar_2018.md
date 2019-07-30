@@ -1,0 +1,1 @@
+MISS MYANMAR 2018 was the 6th Miss Universe Myanmar pageant. Zun Than Sin crowned her successor Hnin Thway Yu Aungat the end of the event. The winner will represent Myanmar at Miss Universe 2018 and 1st runner up will represent at Miss Grand International 2018.

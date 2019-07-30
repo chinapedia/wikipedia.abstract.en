@@ -1,0 +1,1 @@
+JEAN JACQUES NDOUDOUMOU is a public servant and disability sports administrator from Cameroon. An albino, he faced discrimination growing up. He later became the General Director of the Cameroonian Regulatory Board for Public Procurement (ARMP) in 2001, leaving in 2012 after he was fired in the midst of a scandal.

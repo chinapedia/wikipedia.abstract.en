@@ -1,0 +1,1 @@
+Paolo_Monti_-_Servizio_fotografico_-_BEIC_6366164.jpg Milano_-_edificio_piazza_Sant’Ambrogio_16.JPG LUIGI CACCIA DOMINIONI (7 December 1913 – 13 November 2016) was an Italian architect and furniture designer.

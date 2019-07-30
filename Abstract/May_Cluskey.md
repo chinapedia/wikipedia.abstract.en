@@ -1,0 +1,1 @@
+MARY "MAY" CLUSKEY (18 May 1927–15 May 1991) was an Irish actress, born in Dublin, Ireland. She was known for the roles she played in _The Purple Taxi_ (1977), _Ulysses_ (1967), and _Young Cassidy_ (1965). She also played the role of Queenie Butler in the Irish soap opera _Tolka Row_.

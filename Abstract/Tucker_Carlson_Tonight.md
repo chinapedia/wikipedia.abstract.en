@@ -1,0 +1,1 @@
+_TUCKER CARLSON TONIGHT_ is an American television talk program on Fox News Channel hosted by Tucker Carlson. Episodes air live at 8:00 p.m. EST on weekdays. The show focuses on politics and includes commentary, monologues, interviews, and political analysis.

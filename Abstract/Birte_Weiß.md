@@ -1,0 +1,1 @@
+'''Birte Weiß ''' (born 5 June 1971) is a German footballer who played for the Germany women's national football team from 1991–1993, competing in two matches.[1] On club level she played for Wismut Aue and VfR Eintracht Wolfsburg.

@@ -1,0 +1,1 @@
+PROTEIN QUATERNARY STRUCTURE is the number and arrangement of multiple folded protein subunits in a multi-subunit complex. It includes organisations from simple dimers to large homooligomers and complexes with defined or variable numbers of subunits.[1] It can also refer to biomolecular complexes of proteins with nucleic acids and other cofactors.

@@ -1,0 +1,1 @@
+DIMITROVGRADTSY (, English: People of Dimitrovgrad) is a Bulgarian drama film from 1956 directed by Nikola Korabov and Ducho Mundrov. It is based on a screenplay by Buryan Enchev, with cinematography by Vulo Radev. The music was composed by Stefan Remenkov. Georgi Kaloyanchev, Maria Rusalieva, Ivan Dimov, and Boris Chirakov appear in the lead roles.

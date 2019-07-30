@@ -1,0 +1,1 @@
+PAVLO MYKOLAIYOVYCH BURLAKOV () is a Ukrainian politician and miner.[1] In 2010-2014 he served as the First Vice Prime Minister of Crimea and _ex oficio_ served as Prime Minister of Crimea upon the abrupt death of Vasyl Dzharty.[2]

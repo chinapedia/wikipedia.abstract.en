@@ -1,0 +1,1 @@
+The 1921–22 DUKE BLUE DEVILS MEN'S BASKETBALL TEAM represented Duke University during the 1921–22 men's college basketball season. The head coach was James Baldwin, coaching his first season with the Blue Devils. The team finished with an overall record of 6–12.[1]

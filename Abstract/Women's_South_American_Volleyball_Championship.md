@@ -1,0 +1,1 @@
+The WOMEN'S SOUTH AMERICAN VOLLEYBALL CHAMPIONSHIP is the official competition for senior women's national volleyball teams of South America, organized by the Confederación Sudamericana de Voleibol (CSV). The initial gap between championships was variable, but since 1967 they have been awarded every two years. The competition has been dominated by Brazil and Peru.

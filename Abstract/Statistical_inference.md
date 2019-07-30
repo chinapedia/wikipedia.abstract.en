@@ -1,0 +1,1 @@
+STATISTICAL INFERENCE is the process of using data analysis to deduce properties of an underlying probability distribution.[1] Inferential statistical analysis infers properties of a population, for example by testing hypotheses and deriving estimates. It is assumed that the observed data set is sampled from a larger population.

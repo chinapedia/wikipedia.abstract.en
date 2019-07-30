@@ -1,0 +1,1 @@
+INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, RANCHI (IIIT RANCHI or IIITR), is one of the Indian Institutes of Information Technology, a chain of higher education institutes started by Government of India focused on Information Technology [1]. It is an "Institute of National Importance", equaling in status with the IITs.[2].

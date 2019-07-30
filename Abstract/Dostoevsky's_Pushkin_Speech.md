@@ -1,0 +1,1 @@
+DOSTOYEVSKY'S PUSHKIN SPEECH was a speech delivered by Fyodor Dostoyevsky in honour of the Russian poet Alexander Pushkin on at the unveiling of the Pushkin Monument in Moscow.[1] The speech is considered a crowning achievement of his final years and elevated him to the rank of a prophet while cementing his stature further as the greatest contemporary Russian writer.[2]

@@ -1,0 +1,1 @@
+MICKAEL ULILE (born 16 July 1997) is a New Caledonian footballer who plays as a goalkeeper for Magenta. He made his debut for the national team on 8 October 2016 in their 1–0 win against the Solomon Islands.[1][2]

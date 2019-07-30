@@ -1,0 +1,1 @@
+_ACIDULIPROFUNDUM BOONEI_ is an obligate thermoacidophilic archaea belonging to the phylum Euryarchaeota. Isolated from acidic hydrothermal vent environments, _A. boonei_ is the first cultured representative of a biogeochemically significant clade of thermoacidophilic archaea known as the “Deep-Sea Hydrothermal Vent Euryarchaeota 2 (DHVE2)”.

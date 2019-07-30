@@ -1,0 +1,1 @@
+MARIE LUNDQUIST (born 1950) is a Swedish author, cultural journalist and translator. She is a Bachelor of Arts graduate and have also educated herself as a librarian. She was before teacher at the folk high school of Biskops-Arnö.

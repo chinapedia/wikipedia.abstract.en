@@ -1,0 +1,1 @@
+The SEGWAY PT (originally SEGWAY HT) is a two-wheeled, self-balancing personal transporter by Segway Inc. It was invented by Dean Kamen and brought to market in 2001. _HT_ is an initialism for 'human transporter' and _PT_ for 'personal transporter'.

@@ -1,0 +1,1 @@
+The 2017 VARSITY CUP was the 2017 edition of the Varsity Cup, an annual inter-university rugby union competition featuring university sides in South Africa. The tournament – known as the _FNB Varsity Cup presented by Steinhoff International_ for sponsorship reasons – was the tenth season of the Varsity Cup and was contested from 30 January to 17 April 2017.

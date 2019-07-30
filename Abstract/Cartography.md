@@ -1,0 +1,1 @@
+Claudius_Ptolemy-_The_World.jpg (1482, Johannes Schnitzer, engraver), constructed after the coordinates in Ptolemy's Geography and using his second map projection. The translation into Latin and dissemination of _Geography_ in Europe, in the beginning of the 15th century, marked the rebirth of scientific cartography, after more than a millennium of stagnation.]]

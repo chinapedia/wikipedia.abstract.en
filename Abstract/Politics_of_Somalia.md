@@ -1,0 +1,1 @@
+The POLITICS OF SOMALIA takes place in a framework of federal parliamentary representative democratic republic. According to the Constitution of Somalia, the President of Somalia is head of state, and Prime Minister as head of government who is appointed by the President with the parliament's approval.[1]

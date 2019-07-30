@@ -1,0 +1,1 @@
+BORDER COMMUNITIES AGAINST BREXIT (BCAB) is an organisation which seeks to protect people who live close to the border between the Republic of Ireland and Northern Ireland from the claimed negative consequences of Brexit.[1] The organisation is active in both Northern Ireland and the Republic of Ireland.

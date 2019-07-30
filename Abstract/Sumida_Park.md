@@ -1,0 +1,1 @@
+is a public park in Sumida and Taitō, Tokyo, Japan. Cherry blossoms can be seen in spring, and the Sumidagawa Fireworks Festival is held in July. There are about 700 cherry trees in Sumida Park on both sides of the Sumida River, and they were planted by Tokugawa Yoshimune.

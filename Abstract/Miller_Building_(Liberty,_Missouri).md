@@ -1,0 +1,1 @@
+MILLER BUILDING is a historic commercial building located at Liberty, Clay County, Missouri. It was built in 1868, and is a two-story, rectangular brick building with Late Victorian style design elements. It has a flat roof and features a decorative brick cornice, hooded window surrounds, and an intact storefront with cast-iron columns.[1]

@@ -1,0 +1,1 @@
+HORNÉ LAZY is a nature reserve in the Slovak municipality of Valaská in the Brezno District. The nature reserve covers an area of 34 ha in the Low Tatras mountain area. It has a protection level of 4 under the slovak nature protection system which corresponds to a protection level I according to IUCN standards.

@@ -1,0 +1,1 @@
+ALEXANDRIA () is the capital city of the Teleorman County, Romania. It is located south-west of Bucharest, towards the Bulgarian border. The city is situated on the Vedea River and has over 45,000 inhabitants.

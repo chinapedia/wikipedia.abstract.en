@@ -1,0 +1,1 @@
+_IT'S TEE TIME_ is the debut studio album released in 1988 on Profile Records by hip hop recording artist Sweet Tee. The album peaked on January 21, 1989, at No. 31 on the Billboard's Hot R&B & Hip-Hop Albums chart,[1] and includes the charting singles "I Got Da Feelin" and "On the Smooth Tip".

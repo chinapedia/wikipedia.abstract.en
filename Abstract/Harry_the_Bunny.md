@@ -1,0 +1,1 @@
+_HARRY THE BUNNY_ is a children's television show on the channel BabyFirstTV. It features a plush "talking" bunny named Harry and his many adventures both inside his house and in his backyard. The show teaches things such as color recognition, counting, etc. and even delves into social interaction and emotions. The show is aimed primarily at preschool aged children.[1]

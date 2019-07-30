@@ -1,0 +1,1 @@
+ShunsenRojinnohi.jpg The '''Rōjinbi '''(老人火) (literally, 'old person fire') or '''rōjin no hi '''(老人の火) (same meaning) is a kind of supernatural fire that appears in the Edo period bestiary _Ehon Hyaku Monogatari_[1][2]_._

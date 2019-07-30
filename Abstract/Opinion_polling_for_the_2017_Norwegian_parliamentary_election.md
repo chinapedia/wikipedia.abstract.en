@@ -1,0 +1,1 @@
+In the run up to the 2017 PARLIAMENTARY ELECTIONS in Norway, various organisations carried out OPINION POLLING to gauge voting intention in Norway. Results of such polls are displayed in this article.

@@ -1,0 +1,1 @@
+_CALADENIA CAMPBELLII_, commonly known as THICKSTEM FAIRY FINGERS or THICK-STEM CALADENIA, is a plant in the orchid family Orchidaceae and is endemic to Tasmania. It is a ground orchid with a single, sparsely hairy leaf and one or two flowers that are pinkish on the outside and cream-coloured on the inside. The flowers are self-pollinating and short-lived.

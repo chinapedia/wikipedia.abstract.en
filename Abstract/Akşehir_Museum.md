@@ -1,0 +1,1 @@
+AKŞEHIR MUSEUM, a.k.a. NASRETTIN HOCA ARCHAEOLOGY AND ETHNOGRAPHY MUSEUM (), is a national museum in Akşehir district of Konya Province, central Turkey, exhibiting archaeological artifacts and ethnographic items. Established in 2007, it is dedicated to Nasrettin Hoca, a satirical figure in Turkish history and folklore, whose tomb is in Akşehir.

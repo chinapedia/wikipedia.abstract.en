@@ -1,0 +1,1 @@
+The PLATYPUS (_Ornithorhynchus anatinus_), sometimes referred to as the DUCK-BILLED PLATYPUS, is a semiaquatic egg-laying mammal[1] endemic to eastern Australia, including Tasmania. The platypus is the sole living representative of its family (Ornithorhynchidae) and genus (_Ornithorhynchus_), though a number of related species appear in the fossil record.

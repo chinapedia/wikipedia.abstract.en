@@ -1,0 +1,1 @@
+GIBBERISH, alternatively JIBBER, JABBER, JIBBER-JABBER, or GOBBLEDYGOOK, is speech that is (or appears to be) nonsense. It may include speech sounds that are not actual words,[1] or language games and specialized jargon that seems nonsensical to outsiders.[2]

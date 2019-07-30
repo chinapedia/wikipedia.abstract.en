@@ -1,0 +1,1 @@
+MANON HAF LLOYD (born 5 November 1996) is a British road and track cyclist, who currently rides for UCI Women's Team ,[1] and represents Great Britain at international competitions. She won the bronze medal at the 2016 UEC European Track Championships in the team pursuit.[2] Lloyd finished third in the individual competition at the 2017 Matrix Fitness Grand Prix.[3]

@@ -1,0 +1,1 @@
+CHARLIE STOBO (born 8 March 1995) is an Australian cricketer.[1] He made his first-class debut for New South Wales in the 2016–17 Sheffield Shield season on 5 December 2016.[2] He made his List A debut for Cricket Australia XI in the 2017–18 JLT One-Day Cup on 10 October 2017.[3]

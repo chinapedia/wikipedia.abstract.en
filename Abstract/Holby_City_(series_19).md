@@ -1,0 +1,1 @@
+The NINETEENTH SERIES of the British medical drama television series _Holby City_ commenced airing in the United Kingdom on BBC One on 11 October 2016 and concluded airing in the United Kingdom on BBC One on 19 December 2017. The series consists of 64 episodes; an increase from the previous series.

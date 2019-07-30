@@ -1,0 +1,1 @@
+MULTIRACIAL FEMINIST THEORY is a feminist theory thought to have gained momentum in the 1970s by feminist women of color. Maxine Baca Zinn and Bonnie Thornton Dill wrote _“Theorizing Difference from Multiracial Feminism”_ in 1996, a piece emphasising intersectionality and the application of intersectional analysis in feminist discourse.[1]

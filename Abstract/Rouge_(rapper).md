@@ -1,0 +1,1 @@
+DEKO BARBARA-JESSICA WEDI (born 13 September 1992), professionally known as ROUGE is a South African hip-hop rapper,author and television presenter.[1] Her debut album _The New Era Sessions_, accompanied by a short film, received a South African Film and Television Award for Best Micro Budget Film.[2]

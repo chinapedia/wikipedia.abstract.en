@@ -1,0 +1,1 @@
+The took place on the night of 1 August 1945, as part of the strategic bombing campaign waged by the United States against military and civilian targets and population centers in the Japan home islands during the closing stages of World War II. Between 65.5 and 80 percent of the urban area of Nagaoka was destroyed during the bombing.

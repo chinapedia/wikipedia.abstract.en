@@ -1,0 +1,1 @@
+_OSMIA UNCINATA_, the PINEWOOD MASON BEE,[1] is a species of solitary bee from the family Megachilidae[2] It is an Arctic-alpine species which is found in the northern Palearctic, in the United Kingdom it is a Biodiversity Action Plan priority species.[3]

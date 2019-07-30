@@ -1,0 +1,1 @@
+MOSCOW KOREAN SCHOOL (MKS; ; "Shkola Pri Posol'stve Respubliki Koreya V Moskve"[1]) is a Korean international school in Moscow, Russia. It is the only school approved as a Korean international school by the South Korean government in Europe.[2] it served kindergarten and elementary school. It was formerly in Mozhaysky District.[3]

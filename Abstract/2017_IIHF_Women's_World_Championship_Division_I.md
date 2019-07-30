@@ -1,0 +1,1 @@
+THE 2017 IIHF WOMEN'S WORLD CHAMPIONSHIP DIVISION I was an international Ice hockey tournament run by the International Ice Hockey Federation. Group A was contested in Graz, Austria, running from 15 to 21 April 2017 and Group B in Katowice, Poland from 8 to 14 April 2017.[1]

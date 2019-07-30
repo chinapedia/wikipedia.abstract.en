@@ -1,0 +1,1 @@
+Delcome104.jpg The DELAWARE COUNTY OFFICE OF THE MEDICAL EXAMINER is the office responsible for the investigation of all unnatural deaths in Delaware County, Pennsylvania (not purely from natural causes) and natural deaths where there is no treating doctor or which occur suddenly outside a medical institution.

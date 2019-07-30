@@ -1,0 +1,1 @@
+MILOS REINDL (Czech name: MILOŠ REINDL) was a Czech-Canadian artist and graphic designer, who is best known for his large-scale paintings and film posters. Trained in the ateliers of Emil Filla and Antonín Kýbal, Reindl left Czechoslovakia in 1968 and emigrated to Canada as a political refugee.

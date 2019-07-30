@@ -1,0 +1,1 @@
+NAGVANSHI DYNASTY were one of many ruler of princely states in British India.[1][2][3] Nagavanshi ruled over Chota Nagpur plateau in India.[4][5] It ended with the passing of Lal Chintamani Sharan Nath Shahdeo in 2014.[6]

@@ -1,0 +1,1 @@
+In law, the expression _TRIAL DE NOVO_ means a "new trial" by a different tribunal (_de novo_ is a Latin expression meaning "afresh", "anew", "beginning again", hence the literal meaning "new trial"). A _trial de novo_ is usually ordered by an appellate court when the original trial failed to make a determination in a manner dictated by law.

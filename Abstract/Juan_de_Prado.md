@@ -1,0 +1,1 @@
+Blessed JUAN DE PRADO (c. 1563 - 24 May 1631) was a Spanish Roman Catholic priest and a professed member from the Order of Friars Minor. He served as part of the missions in Muslim Morocco at the request of Pope Urban VIII and bought much solace to the small Christian population there before the ruler had him murdered.[1]

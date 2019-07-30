@@ -1,0 +1,1 @@
+TAKKARIST JAUNE MCKINLEY (born November 2, 1995) is an American football defensive end for the Atlanta Falcons of the National Football League (NFL). He played college football for the UCLA Bruins and was drafted by the Falcons in the first round of the 2017 NFL Draft.

@@ -1,0 +1,1 @@
+is a Japanese voice actor who was affiliated with Space Craft Entertainment but changed to Just Professional in 2016.[1] Ishii is the son of Japanese father and Filipino mother. He is the former husband of voice actress Atsuko Enomoto.[2] Ishii is best known for his role as Chrono Shindou in the _Cardfight!! Vanguard G_ series and as Bellri Zenam in Gundam Reconguista in G.

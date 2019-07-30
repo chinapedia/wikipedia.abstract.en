@@ -1,0 +1,1 @@
+_PROBERGROTHIUS ANGOLENSIS_, sometimes known as the WELWITSCHIA BUG, is a species of true bug found in the Namib desert and nearby regions. The species has been recognized under a misattributed name, _Probergrothius sexpunctatus,_ for several decades, but _sexpunctatus_ is a separate species that occurs farther to the north.[1]

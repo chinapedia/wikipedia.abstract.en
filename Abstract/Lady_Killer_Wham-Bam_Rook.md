@@ -1,0 +1,1 @@
+In shogi, the LADY KILLER WHAM-BAM ROOK or LADY KILLER RUSHING ROOK (女殺しドッカン飛車 _onna koroshi dokkan hisha_) or ONIROKU DAN DOKKAN ROOK (鬼六流ドッカン飛車 or 鬼六流どっかん飛車 _dan oniroku-ryuu dokkan hisha_) is a surprise opening that was used by BDSM pornography author Oniroku Dan to defeat a woman professional shogi player.

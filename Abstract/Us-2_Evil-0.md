@@ -1,0 +1,1 @@
+US-2 EVIL-0 is an indie pop band based in Manila, Philippines. According to a review, "Us-2 Evil-0 makes catchy indie pop music that is backed by boy-girl harmony vocals and Casiotone swells."[1] They released their debut album, _Dirty Debutantes,_ in 2009 on PolyEast Records.

@@ -1,0 +1,1 @@
+MAURA MCLAUGHLIN PH.D. is currently an astrophysics professor at West Virginia University in Morgantown, West Virginia. She holds a Bachelor's of Science degree from Pennsylvania State University and a Ph.D. from Cornell University.[1] She is known for her work on furthering the research on gravitational waves and for her dedication to the Pulsar Search Collaboratory.[2]

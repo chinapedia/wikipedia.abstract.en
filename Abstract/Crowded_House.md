@@ -1,0 +1,1 @@
+CROWDED HOUSE were a rock band, formed in Melbourne, Australia, in 1985. Its founding members were New Zealander Neil Finn (vocalist, guitarist, primary songwriter) and Australians Paul Hester (drums) and Nick Seymour (bass). Later band members included Neil Finn's brother, Tim Finn, and Americans Mark Hart and Matt Sherrod.[1][2]

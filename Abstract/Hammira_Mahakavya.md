@@ -1,0 +1,1 @@
+_HAMMIRA MAHAKAVYA_ is a 15th-century Indian Sanskrit epic poem written by the Jain scholar Nayachandra Suri. It is a legendary biography of the 13th century Chahamana king Hammira. While not entirely accurate from a historical point-of-view, the text provides valuable information about the medieval history of north-western India.

@@ -1,0 +1,1 @@
+ANDRIES STEFANUS SCHUTTE (born 18 January 1994) is a South African rugby union player who last played for the in the Currie Cup and the Rugby Challenge.[1] He can play as a loosehead or tighthead prop.

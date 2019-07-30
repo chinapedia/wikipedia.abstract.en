@@ -1,0 +1,1 @@
+YAIR PANTILAT (also, Pantillat; יאיר פנטילט; born January 10, 1939) is an Israeli former Olympic runner.[1] He was the Israeli Men's Champion in the 800 metres in 1960, 1964–65, and 1967–69, and in the 1500 metres in 1961-62 and 1964-66.

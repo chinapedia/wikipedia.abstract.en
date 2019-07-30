@@ -1,0 +1,1 @@
+_THE RIVER FLOWS_ is a semi-autobiographical novel by the British writer F. L. Lucas. His first novel, it was published in 1926. The title is taken from a poem by T'ao Ch'ien, translated by Arthur Waley, three lines from which form the novel's epigraph.

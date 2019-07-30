@@ -1,0 +1,1 @@
+SANDRA WHITTLESTON (born 2 February 1951) is a New Zealand former swimmer. She was coached by New Zealand's first professional swimming coach, Bert Cotterill,[1] and she competed in three events at the 1968 Summer Olympics.[2]

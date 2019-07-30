@@ -1,0 +1,1 @@
+SETTLEFORLOVE (SETTLE FOR LOVE sometimes abbreviated as SFL[1]) is a free online dating, friendship, and social networking app / website. Members must upload both Good and Bad pictures of themselves, as well as list their positive and not so positive traits.[2] These unique requirements encourage members to be honest from the start of the dating process.

@@ -1,0 +1,1 @@
+POPE PIUS II (, ), born ENEA SILVIO BARTOLOMEO PICCOLOMINI (; 18 October 1405 – 14 August 1464) was Pope from 19 August 1458 to his death in 1464. He was born at Corsignano in the Sienese territory of a noble but impoverished family. His longest and most enduring work is the story of his life, the _Commentaries_, which is the only autobiography ever written by a reigning pope.

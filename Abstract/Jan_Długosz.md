@@ -1,0 +1,1 @@
+JAN DŁUGOSZ (; 1 December 1415 – 19 May 1480), also known as IOANNES, JOANNES, or JOHANNES LONGINUS or DLUGOSSIUS, was a Polish priest, chronicler, diplomat, soldier, and secretary to Bishop Zbigniew Oleśnicki of Kraków. He is considered Poland's first historian.

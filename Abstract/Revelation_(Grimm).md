@@ -1,0 +1,1 @@
+"REVELATION" is the 13th episode of season 3 of the supernatural drama television series _Grimm_ and the 57th episode overall, which premiered on February 28, 2014, on the cable network NBC. The episode was written by series creators Jim Kouf and David Greenwalt, and was directed by Terrence O'Hara.

@@ -1,0 +1,1 @@
+John_Rudying_Memorial_Brass_2016.jpg The MONUMENTAL BRASS OF JOHN RUDYING is a brass of 1481 to Archdeacon John Rudying in the Church of St Andrew in Biggleswade in Bedfordshire noted for the surviving Figure of Death. The monument was rediscovered under the chancel floor in 1955 during restoration and has been described as "very remarkable" by English Heritage.[1]

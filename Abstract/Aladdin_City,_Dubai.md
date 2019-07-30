@@ -1,0 +1,1 @@
+ALADDIN CITY is a proposed project in Dubai, United Arab Emirates inspired by the story of Aladdin.[1] The 'Aladdin City' is a tourism oriented project announced by the Dubai Municipality. Aladdin City is an iconic project which is inspired by the tales of Aladdin and Sindbad the Sailor from the 'Arabian Nights'.

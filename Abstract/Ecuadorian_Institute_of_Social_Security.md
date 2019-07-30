@@ -1,0 +1,1 @@
+HOPITAL_DEL_IESS_QUITO_SUR_(24986091538).jpg The ECUADORIAN SOCIAL SECURITY INSTITUTE (Spanish: _Instituto Ecuatoriano de Seguridad Social (IESS)_), is an autonomous entity that is part of the social security system of Ecuador and is responsible for implementing the mandatory universal insurance, according to the Constitution of the Republic, in force since 2008.

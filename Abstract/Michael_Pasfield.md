@@ -1,0 +1,1 @@
+MICHAEL PASFIELD (born 1961)[1] is an Australian former competitive figure skater. He won the Australian national title in the 1980–81 and 1981–82 seasons, representing New South Wales.[2] He competed at three World Junior Championships, finishing twice in the top ten, and at two World Championships.

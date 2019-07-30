@@ -1,0 +1,1 @@
+EwigesMeer2-.jpg'' Nature Reserve]] A BOG POND () is a waterbody in the middle of a raised or kettle bog, formerly also in percolating mires (_Durchströmungsmooren_). It is also called a BOG EYE, RAISED BOG KOLK, BOG KOLK or just KOLK.

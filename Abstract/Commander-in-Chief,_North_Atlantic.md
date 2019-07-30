@@ -1,0 +1,1 @@
+The COMMANDER IN CHIEF, NORTH ATLANTIC was an operational commander of the Royal Navy.[1] His subordinate units, establishments, and staff were sometimes informally known as the FLAG OFFICER GIBRALTAR AND NORTH ATLANTIC they were charged with the administration of the RN Naval Base, Gibraltar and North Atlantic geographic area.[2]

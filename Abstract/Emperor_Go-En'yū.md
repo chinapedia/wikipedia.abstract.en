@@ -1,0 +1,1 @@
+(11 January 1359 – 6 June 1393) was the "5th" of the Emperors of Northern Court during the period of two courts in Japan. According to pre-Meiji scholars, his reign spanned the years from 1371 through 1382.[1]

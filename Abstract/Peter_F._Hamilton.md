@@ -1,0 +1,1 @@
+PETER F. HAMILTON (born 2 March 1960) is a British author. He is best known for writing space opera. As of the publication of his 10th novel in 2004, his works had sold over 2 million copies worldwide.

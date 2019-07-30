@@ -1,0 +1,1 @@
+Carnot_engine_(hot_body_-_working_body_-_cold_body).jpg showing the hot body (boiler), working body (system, steam), and cold body (water), the letters labeled according to the stopping points in Carnot cycle.]]

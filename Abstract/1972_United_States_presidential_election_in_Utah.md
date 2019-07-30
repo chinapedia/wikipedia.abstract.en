@@ -1,0 +1,1 @@
+The 1972 UNITED STATES PRESIDENTIAL ELECTION IN UTAH took place on November 7, 1972, as part of the 1972 United States presidential election. Voters chose four representatives, or electors to the Electoral College, who voted for president and vice president.

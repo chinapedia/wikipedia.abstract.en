@@ -1,0 +1,1 @@
+WARANGAL HYDERABAD WARANGAL PUSH PULL PASSENGER, is an suburban service running between Warangal and Hyderabad in the Telangana state. The Secundrabad Division of South Central Railways of Indian Railways administers this train. The train covers in 3 hours and 55 minutes.

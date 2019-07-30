@@ -1,0 +1,1 @@
+MOZZARELLA (, ; ) is a traditionally southern Italian cheese made from Italian buffalo's milk by the pasta filata method. Mozzarella received a Traditional Specialities Guaranteed certification from the European Union in 1998. This protection scheme requires that mozzarella sold in the European Union is produced according to a traditional recipe.

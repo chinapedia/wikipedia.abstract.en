@@ -1,0 +1,1 @@
+_PANULIRUS POLYPHAGUS_, the MUD SPINY LOBSTER, is a species of crustacean that lives on shallow rocky reefs and muddy substrates in the tropical Indo-Pacific region. The International Union for Conservation of Nature has assessed its conservation status as being of "least concern".[1]

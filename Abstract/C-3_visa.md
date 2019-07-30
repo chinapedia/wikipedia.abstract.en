@@ -1,0 +1,1 @@
+The C-3 VISA is a non-immigrant visa which allows governmental officials and their families, attendants, servants and employees to travel to United States for the purpose of transiting through the country.[1] The maximum duration of stay is 29 days.[2]

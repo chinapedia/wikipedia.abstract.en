@@ -1,0 +1,1 @@
+GEORGE WASHINGTON SHAVER (March 2, 1832 – October 26, 1900) was an Oregon pioneer, and, with his sons, a founder of Shaver Transportation Company. He is typically referred to as George W. Shaver or G.W. Shaver.

@@ -1,0 +1,1 @@
+CORTNEE BROOKE VINE (born 9 April 1998) is an Australian soccer player who currently plays for Newcastle Jets in the W-League. She has previously played with Brisbane Roar in the W-League. She has represented Australia on the under-17 and under-20 national teams.

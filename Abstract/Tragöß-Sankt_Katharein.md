@@ -1,0 +1,1 @@
+TRAGÖSS-SANKT KATHAREIN is since 2015 a new municipality in Bruck-Mürzzuschlag District in Styria, Austria, which had merged after 31 December 2014 the independent municipalities Tragöß and St. Katharein an der Laming. This merger was part of the Styria municipal structural reform.[1][2]

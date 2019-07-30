@@ -1,0 +1,1 @@
+upright=1.4 STEGANOGRAPHY ( ) is the practice of concealing a file, message, image, or video within another file, message, image, or video. The word _steganography_ combines the Greek words _steganos_ (), meaning "covered, concealed, or protected", and _graphein_ () meaning "writing".

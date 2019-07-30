@@ -1,0 +1,1 @@
+_SELF-TAUGHT: AFRICAN AMERICAN EDUCATION IN SLAVERY AND FREEDOM_ is a book that tells the history of African American self-education from slavery through the Reconstruction Era. It was written by history professor Heather Andrea Williams and published in 2007 by the University of North Carolina Press.

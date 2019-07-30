@@ -1,0 +1,1 @@
+CANNABIS IN SYRIA is illegal. Under the policies of the government of Bashar al-Assad, many cannabis offences, from simple use to trafficking, reportedly often carried a sentence of life imprisonment.

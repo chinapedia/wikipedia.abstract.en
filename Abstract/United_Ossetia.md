@@ -1,0 +1,1 @@
+UNITED OSSETIA (, ) is a political party in South Ossetia. In the 2014 elections, the party held a majority in the Parliament of South Ossetia, holding 20 of the 34 seats. The party is led by Anatoliy Bibilov, a former member of the Unity Party and the current President of South Ossetia since his victory in the 2017 elections.

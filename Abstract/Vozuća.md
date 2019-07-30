@@ -1,0 +1,1 @@
+VOZUĆA is a settlement in Zavidovići in Bosnia and Herzegovina,[1] located on the river of Krivaja. The settlement is known for the Battle for Vozuća of the Bosnian War, when the Army of Bosnia and Herzegovina defeated the Army of Republika Srpska. Today, Vozuća represents a symbol of the post-war recovery of Bosnia.

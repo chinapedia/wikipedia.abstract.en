@@ -1,0 +1,1 @@
+The LIBERATION TIGERS OF TAMIL EELAM (, , commonly known as the LTTE or the TAMIL TIGERS)[1] was a Tamil militant and political organisation that was based in northeastern Sri Lanka. Its aim was to secure an independent state of Tamil Eelam in the north and east in response to the state policies of successive Sri Lankan governments towards Tamils.[2][3]

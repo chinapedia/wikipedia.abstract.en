@@ -1,0 +1,1 @@
+_Zegris_ (genus)}} Marià_Fortuny_-_The_Slaying_of_the_Abencerrajes_-_Google_Art_Project.jpg (1870)]] The ABENCERRAGES (from the Arabic for "Saddler's Son")[1] were a family or faction that is said to have held a prominent position in the Kingdom of Granada in the 15th century.[2]

@@ -1,0 +1,1 @@
+BANGLADESH FILM DEVELOPMENT CORPORATION or BFDC,[1] is a government owned and operated corporation in Tejgaon, Dhaka, Bangladesh.[2][3] SM Haroon-Or-Rashid is the managing director of the corporation.[4]

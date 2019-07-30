@@ -1,0 +1,1 @@
+_SENEGALIA MONTIS-SALINARUM_, is a species of thorn tree that is native to two separate localities in the Soutpansberg range in Limpopo, South Africa. The total population is estimated at no more than 250 adult trees. Based on its morphology, it is assigned to the _S. burkei_ species complex.[1][2]

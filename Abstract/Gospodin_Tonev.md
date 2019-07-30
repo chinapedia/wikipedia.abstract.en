@@ -1,0 +1,1 @@
+GOSPODIN TONCHEV TONEV () is a Bulgarian teacher, translator, and politician. He also lectures at seminars on the social market economy and the value foundations of politics. He is founder, owner and editor of the site "Values and Community".

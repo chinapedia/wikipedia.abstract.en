@@ -1,0 +1,1 @@
+WojciechLubinski-2010_02_24.JPG Wojciech_Lubiński_grób.JPG]] WOJCIECH LUBIŃSKI (4 October 1969 in Ryki – 10 April 2010) was a Polish physician and general Polish Armed Force. He was personal physician to Lech Kaczyński.

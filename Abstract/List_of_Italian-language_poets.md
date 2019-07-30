@@ -1,0 +1,1 @@
+List of poets who wrote in Italian (or Italian dialects).

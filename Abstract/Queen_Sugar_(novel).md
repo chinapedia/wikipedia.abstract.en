@@ -1,0 +1,1 @@
+_QUEEN SUGAR_ is the debut novel of American writer Natalie Baszile, published by Penguin in 2014. Set in contemporary Louisiana, it tells the story of Charley Bordelon, a young African-American widow from Los Angeles, California, who moves to a rural town to manage a sugarcane farm she had unexpectedly inherited there from her father.

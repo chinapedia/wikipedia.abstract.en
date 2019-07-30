@@ -1,0 +1,1 @@
+After the return of democracy following the death of General Franco in 1975, Spain's foreign policy priorities were to break out of the diplomatic isolation of the Franco years and expand diplomatic relations, enter the European Community, and define security relations with NATO, later joining the organization in 1982.

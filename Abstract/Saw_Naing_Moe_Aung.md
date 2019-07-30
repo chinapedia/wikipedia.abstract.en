@@ -1,0 +1,1 @@
+SAW NAING MOE AUNG (; born 2 November 1994 in Myanmar) is a footballer from Burma, and a striker of Yangon United. He promoted from Yangon Youth Team to Yangon United Senior Team. Saw Naing Moe Aung was born in Kawthaung, Tanintharyi Division. He is Kayin and Christian.

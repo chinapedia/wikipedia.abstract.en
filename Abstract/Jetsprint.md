@@ -1,0 +1,1 @@
+JETSPRINT or SPRINT BOAT RACING[1] is a form of racing sport in which jetboats, with a crew of two, race individually against the clock through a twisting series of channels in less than a metre of water.[2]

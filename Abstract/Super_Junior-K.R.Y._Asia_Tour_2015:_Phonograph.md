@@ -1,0 +1,1 @@
+SUPER JUNIOR-K.R.Y. ASIA TOUR 2015: PHONOGRAPH is the second solo concert held by Super Junior-K.R.Y. to promote their single _Join Hands_. The Asia tour commenced with two shows in Seoul from 22–23 August, continued in Taipei, Bangkok, Shanghai, Hongkong and ended in Tangerang.

@@ -1,0 +1,1 @@
+The NINETY-FOURTH AMENDMENT of the Constitution of India, officially known as THE CONSTITUTION (NINETY-FOURTH AMENDMENT) ACT, 2006, made provisions for the appointment of a Minister in charge of tribal welfare in the states of Chhattisgarh and Jharkhand.[1]

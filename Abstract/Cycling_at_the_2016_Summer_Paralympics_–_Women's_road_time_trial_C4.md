@@ -1,0 +1,1 @@
+The WOMEN'S ROAD TIME TRIAL C4 road cycling event at the 2016 SUMMER PARALYMPICS took place on the afternoon of 14 September at Flamengo Park, Pontal. 9 riders competed over two laps of a fifteen kilometre course.[1]

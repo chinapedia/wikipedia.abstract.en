@@ -1,0 +1,1 @@
+United_States_General_Martin_Dempsey_and_French_General_Pierre_de_Villiers_saluting_(23_April_2014,_cropped).jpg general (left) and a French Army general (right) saluting.]] Defense.gov_News_Photo_060216-F-4462M-017.jpg Leaders_welcoming_boy_into_Mexico_Scouting.jpg leader and a new Scout exchange salutes]]

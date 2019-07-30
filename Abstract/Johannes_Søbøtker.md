@@ -1,0 +1,1 @@
+JOHANNES SØBØTKER (9 May 1777 – 23 March 1854) was a Danish merchant, plantation owner and governor of St. Thomas and St. John in the Danish West Indies. His former country house Øregård in Hellerup now serves as an art museum.

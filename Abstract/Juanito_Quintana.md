@@ -1,0 +1,1 @@
+JUAN QUINTANA URRA (1891-1974) was a Spanish hotelier, bullfight businessman, and activist in the Spanish Republic. He was the basis for the character Juanito Montoyo in Ernest Hemingway's novel The Sun Also Rises.[1]

@@ -1,0 +1,1 @@
+GOTLAND NAVAL DISTRICT (, MDG) was a Swedish Navy unit in the Swedish Armed Forces which existed in various forms from 1931 to 1956 when the unit was amalgamated with the East Coast Naval District. The unit was located in Visby, Gotland.[1][2]

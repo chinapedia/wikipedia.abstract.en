@@ -1,0 +1,1 @@
+MASURA PARVIN (born 2001) is a Bangladeshi women's football defender.[1] She currently plays at the Bangladesh women's national under-17 football team. She played four matches at 2017 AFC U-16 Women's Championship qualification in Group C held in Dhaka, Bangladesh.

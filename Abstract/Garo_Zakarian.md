@@ -1,0 +1,1 @@
+GARO HOVANNESI ZAKARIAN (Arm: Կարո Հովհաննեսի Զաքարյան; 15 December 1895, Van, Ottoman Empire - 11 May 1967, Yerevan, Armenian SSR), was a Soviet Armenian composer and conductor. He was named a People's Artist of Armenia in 1960.

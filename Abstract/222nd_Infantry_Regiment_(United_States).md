@@ -1,0 +1,1 @@
+The 222ND INFANTRY REGIMENT was an infantry regiment of the United States Army, AUS. It served in the 42nd Infantry Division for the duration of the Second World War, and was then deactivated. The regiment distinguished itself in battle against the Wehrmacht and earned the Presidential Unit Citation for courageous action.

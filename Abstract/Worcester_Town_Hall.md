@@ -1,0 +1,1 @@
+WORCESTER TOWN HALL is the historic center of civic activity in Worcester, Vermont. Built in 1912 at the center of the rural community's main village, it has served since then as home to the community's town meetings, and for social gatherings and events. It was listed on the National Register of Historic Places in 2005.[1]

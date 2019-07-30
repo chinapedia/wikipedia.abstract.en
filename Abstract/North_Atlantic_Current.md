@@ -1,0 +1,1 @@
+North_Atlantic_currents.svg The NORTH ATLANTIC CURRENT (NAC), also known as NORTH ATLANTIC DRIFT and NORTH ATLANTIC SEA MOVEMENT, is a powerful warm western boundary current within the Atlantic Ocean that extends the Gulf Stream northeastward.[1]

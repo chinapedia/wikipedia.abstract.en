@@ -1,0 +1,1 @@
+"WANNA SEE U DANCE (LA LA LA)" is a song by American singer Kat DeLuna. It was released on August 23, 2012, as the lead single of DeLuna's compilation album _Loading_ (2016). The song contains a sample of "Tombo in 7/4" by Brazilian singer Airto Moreira.[1] The song was re-released on May 5, 2014 under the title "Wanna See U Dance 2014"[2] exclusively to the Japanese market.[3]

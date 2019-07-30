@@ -1,0 +1,1 @@
+FISHER, BENDECK, POTTER, NOW KNOWN AS FISHER POTTER HODAS is an American law firm based in West Palm Beach, Florida. Founding partner Jeffrey Fisher has been named one of the nation's top 10 divorce attorneys by _Worth_ magazine, and the firm has represented clients in the divorces of several billionaires, CEOs and major sports figures.[1]

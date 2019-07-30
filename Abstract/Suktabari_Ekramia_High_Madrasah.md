@@ -1,0 +1,1 @@
+SUKTABARI EKRAMIA HIGH MADRASAH is a Co-educational Higher Secondary Madrasah (belonging class V to class XII) established in 1953. It is affiliated with West Bengal Board of Madrasah Education and West Bengal Council of Higher Secondary Education.

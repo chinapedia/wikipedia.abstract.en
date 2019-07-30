@@ -1,0 +1,1 @@
+Flickr_-_dalbera_-_Huong_Thanh_Trio,_(musée_Guimet,_Paris)_(8).jpg HƯƠNG THANH is a Vietnamese singer of various genres, including Cai Luong and jazz fusion.[1] In 2007, France Musique honored her with the _Musique du monde_ award. Her early discography includes _Chuyện ba người_ (1995), _Moon and Wind_ (ACT Music, 1999), and _Tales from Vietnam, de Nguyên Lê_ (ACT Music, 1996).

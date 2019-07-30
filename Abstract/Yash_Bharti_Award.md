@@ -1,0 +1,1 @@
+'''Yash Bharti Award '''is the highest Award of Government of Uttar Pradesh, Instituted in 1994, it is awarded to those personalities whose contribution is remarkable in the field of literature, social work, medicine, film, science, journalism, handicrafts, culture, education, music, drama, sports, industry and astrology.[1]

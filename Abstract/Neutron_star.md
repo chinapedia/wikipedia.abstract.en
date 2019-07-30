@@ -1,0 +1,1 @@
+Neutron_Star_bending_light_simulation.png, making it appear distorted.]] PIA18848-PSRB1509-58-ChandraXRay-WiseIR-20141023.jpg PSR B1509-58, a rapidly spinning neutron star, makes nearby gas glow in X-rays (gold, from Chandra) and illuminates the rest of the nebula, here seen in infrared (blue and red, from WISE).]]

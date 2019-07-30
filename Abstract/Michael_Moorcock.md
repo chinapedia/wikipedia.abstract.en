@@ -1,0 +1,1 @@
+MICHAEL JOHN MOORCOCK (born 18 December 1939) is an English writer and musician, primarily of science fiction and fantasy, who has also published literary novels. He is best known for his novels about the character Elric of Melniboné, a seminal influence on the field of fantasy since the 1960s and ‘70s.

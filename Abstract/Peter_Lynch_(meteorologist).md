@@ -1,0 +1,1 @@
+Peter_Lynch_at_Symposium_on_the_50th_Anniversary_of_Operational_NWP.jpg PETER LYNCH is an Irish meteorologist, mathematician, blogger and book author. His interests include numerical weather prediction, dynamic meteorology, Hamiltonian mechanics, the history of meteorology, and the popularisation of mathematics.[1]

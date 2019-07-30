@@ -1,0 +1,1 @@
+_GEODORCUS ALSOBIUS_, or MOEHAU STAG BEETLE, is a large flightless species of stag beetle in the family Lucanidae. It is found only on Mt Moehau, the highest mountain [1] in the Moehau Range on the Coromandel Peninsula in New Zealand.

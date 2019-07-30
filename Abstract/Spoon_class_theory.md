@@ -1,0 +1,1 @@
+The SPOON CLASS THEORY refers to the idea that individuals in a country can be classified into different socioeconomic classes based on the assets and income level of their parents, and as a consequence, one's success in life depends entirely on being born into a wealthy family. The term appeared in 2015 and was first widely used among online communities in South Korea.[1]

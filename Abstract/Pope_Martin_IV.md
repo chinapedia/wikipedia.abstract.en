@@ -1,0 +1,1 @@
+POPE MARTIN IV (; c. 1210/1220 – 28 March 1285), born SIMON DE BRION, was Pope from 22 February 1281[1] to his death in 1285. He was the last French pope to have held court in Rome; all subsequent French popes held court in Avignon (the Avignon Papacy).

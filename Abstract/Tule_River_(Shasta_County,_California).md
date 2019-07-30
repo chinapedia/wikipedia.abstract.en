@@ -1,0 +1,1 @@
+The TULE RIVER is a river[1][2] tributary to the Fall River. The river is a complex of spring-fed lakes and waterways originating in Ahjumawi Lava Springs State Park in north-eastern Shasta County in northern California. From the Fall River, its waters continue to the Pit River and then the Sacramento River to the Pacific Ocean.

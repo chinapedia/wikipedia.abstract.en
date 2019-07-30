@@ -1,0 +1,1 @@
+MARCUS ROBERT MUNAFO,[1] surname also written MUNAFÒ, (born 23 January 1972)[2] is a British psychologist who has been a professor of biological psychology at the University of Bristol's School of Experimental Psychology since 2010.[3] He became the editor-in-chief of _Nicotine & Tobacco Research_ in 2015.[4]

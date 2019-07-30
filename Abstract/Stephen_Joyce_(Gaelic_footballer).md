@@ -1,0 +1,1 @@
+STEPHEN JOYCE (born 4 July 1957) is an Irish Gaelic football manager and former player who played as a left corner-forward for the Galway senior team.[1] He is the current manager of the Galway minor team.

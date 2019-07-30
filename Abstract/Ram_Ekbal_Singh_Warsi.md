@@ -1,0 +1,1 @@
+RAM EKBAL SINGH WARSI ( 1922 – 10 October 2016), also spelled RAM IQBAL WORSI, was an Indian freedom fighter, social thinker from Bhojpur, Bihar. Warsi was the name of his native village, which he added to his last name.[1]

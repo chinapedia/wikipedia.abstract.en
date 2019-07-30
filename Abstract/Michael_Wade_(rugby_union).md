@@ -1,0 +1,1 @@
+MICHAEL RICHARD WADE, commonly known as MIKE WADE (born 13 September 1937, in Leicester)[1] was a rugby union centre who played 166 games for Leicester Tigers between 1955 and 1967; he represented England 3 times in 1962. He was a Cambridge University blue captaining the side to victory in 1961.

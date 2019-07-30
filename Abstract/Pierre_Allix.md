@@ -1,0 +1,1 @@
+PIERRE ALLIX (1641 – 3 March 1717) was a French Protestant pastor and author. In 1690 Allix was created Doctor of Divinity by Emmanuel College, Cambridge, and was given the treasurership and a canonry in Salisbury Cathedral by Bishop Gilbert Burnet. He discovered that Codex Ephraemi is a palimpsest.

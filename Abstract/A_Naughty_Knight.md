@@ -1,0 +1,1 @@
+_A NAUGHTY KNIGHT_ is a 2001 musical comedy play written by William Martin with music and lyrics by Chuck Strand. The play premiered at the Off-Off Broadway Duke Theatre in a production by the Jewish Repertory Theatre.

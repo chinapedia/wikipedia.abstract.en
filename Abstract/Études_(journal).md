@@ -1,0 +1,1 @@
+_ÉTUDES_ is a historic Roman Catholic journal published by the Society of Jesus (Jesuits). It was established by Ivan Gagarin in 1856.[1] Its editor is François Euvé.[2] Each issue is printed as a journal and published online on Cairn.info. CollectionEtudes.JPG

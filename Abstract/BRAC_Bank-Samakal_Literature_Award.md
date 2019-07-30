@@ -1,0 +1,1 @@
+BRAC Bank and Daily Samakal launched the literary award in 2011 to inspire writers and litterateurs to further enriching Bangla literature with their creative works. Later Young Writer's Award was dedicated in memory of late legendary novelist Humayun Ahmed.[1] It's also known as BRAC Bank-Samakal Shahitya Puroshkar. The award given in three categories:

@@ -1,0 +1,1 @@
+BSI_Kitemark.svg BRITISH STANDARDS (BS) are the standards produced by the BSI Group which is incorporated under a Royal Charter (and which is formally designated as the National Standards Body (NSB) for the UK).[1] The BSI Group produces British Standards under the authority of the Charter, which lays down as one of the BSI's objectives to:[2]

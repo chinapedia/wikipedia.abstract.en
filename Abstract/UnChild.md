@@ -1,0 +1,1 @@
+_UNCHILD_ is the first collaboration album released between composer Hiroyuki Sawano and Aimer. It was released on June 25, 2014 in a limited[1] and regular CD Only[2] edition. Songs are English covers and rearrangements of various theme songs used in the anime _Mobile Suit Gundam Unicorn._[3]

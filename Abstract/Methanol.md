@@ -1,0 +1,1 @@
+METHANOL, also known as METHYL ALCOHOL among others, is a chemical with the formula CH₃OH (a methyl group linked to a hydroxyl group, often abbreviated MeOH). Methanol acquired the name WOOD ALCOHOL because it was once produced chiefly by the destructive distillation of wood. Today, methanol is mainly produced industrially by hydrogenation of carbon monoxide.[1]

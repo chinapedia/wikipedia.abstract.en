@@ -1,0 +1,1 @@
+Lieutenant General MASHUDI (September 11, 1919 in Cibatu village, Garut Regency, West Java – June 22, 2005 in Jakarta) was a Governor of West Java and served as Vice Chairman of the _Majelis Permusyawaratan Rakyat Sementara_ of the People's Consultative Assembly (1967-1972).

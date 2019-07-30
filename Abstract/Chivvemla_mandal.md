@@ -1,0 +1,1 @@
+CHIVVEMLA MANDAL is one of the 23 mandals in Suryapet district of the Indian state of Telangana.[1] It is under the administration of Suryapet revenue division with its headquarters at Chivvemla. It is bounded by Suryapet mandal towards west, Athmakur (S) mandal towards North, Mothey mandal towards East, Penpahad mandal towards South.

@@ -1,0 +1,1 @@
+The BEBOX is a dual CPU personal computer, briefly sold by Be Inc. to run the company's own operating system, BeOS. Notable aspects of the system include its CPU configuration, I/O board with "GeekPort", and "Blinkenlights" on the front bezel.

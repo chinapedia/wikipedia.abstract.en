@@ -1,0 +1,1 @@
+The OUR LADY OF MOUNT CARMEL CATHEDRAL[1] () Also VILLAVICENCIO CATHEDRAL Is a cathedral of the Catholic church located in the Colombian city of Villavicencio,[2] capital of the department of Meta. The temple is dedicated to the Virgin Mary under the invocation of the Virgin of Mount Carmel (_Virgen del Carmen_).[3]

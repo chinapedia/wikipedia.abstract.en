@@ -1,0 +1,1 @@
+MILES GREENWOOD (born 30 August 1987, in Oldham, Greater Manchester) is an English former rugby league footballer who played for Leigh Centurions, Halifax, Batley Bulldogs and Rochdale Hornets in the Championship. His position was fullback or wing.[1]

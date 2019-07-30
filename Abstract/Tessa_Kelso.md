@@ -1,0 +1,1 @@
+TESSA KELSO (May 1863 – August 14, 1933) was an American publicist, journalist, and head librarian of the Los Angeles Public Library. A local Methodist minister accused her of "sin" when the library stocked a book that offended him. She sued him for malicious slander, and the case was settled in her favor, in 1895. [1]

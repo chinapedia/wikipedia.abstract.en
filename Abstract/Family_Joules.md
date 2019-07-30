@@ -1,0 +1,1 @@
+_FAMILY JOULES_ is the fourteenth studio album by Foghat, released in 2003. It is the first album by the band without founding member, guitarist and singer Dave Peverett and their first album to feature singer/guitarist Charlie Huhn and guitarist Bryan Bassett.

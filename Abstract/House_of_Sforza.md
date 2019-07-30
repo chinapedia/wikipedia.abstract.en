@@ -1,0 +1,1 @@
+The HOUSE OF SFORZA () was a ruling family of Renaissance Italy, based in Milan. They acquired the Duchy of Milan from the previously-ruling Visconti family in the mid-15th century, and lost it to the Spanish Habsburgs about a century later.

@@ -1,0 +1,1 @@
+_ERWIN V. STATE_, 29 Ohio St. 186, 199 (1876), is a criminal case in which the court rejected the duty to retreat when using deadly force in self-defense.[1] The court wrote that a faultless "true man" would not retreat.[2]

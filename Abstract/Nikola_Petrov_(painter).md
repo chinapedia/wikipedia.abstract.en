@@ -1,0 +1,1 @@
+Petrov-Selfportrait.jpg NIKOLA PETROV (Bulgarian: Никола Петров; 19 August 1881, Vidin - 10 December 1916, Sofia) was a Bulgarian landscape painter and graphic artist; also known for his portrait sketches and watercolors.

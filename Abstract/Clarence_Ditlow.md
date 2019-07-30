@@ -1,0 +1,1 @@
+CLARENCE MINTZER DITLOW III (January 26, 1944 – November 11, 2016) was an American consumer advocate, primarily focusing on automotive safety. He was closely associated with Ralph Nader's organizations, and has been given credit for helping to instigate several critical safety changes within the auto industry.

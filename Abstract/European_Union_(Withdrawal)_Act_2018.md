@@ -1,0 +1,1 @@
+The EUROPEAN UNION (WITHDRAWAL) ACT 2018 (c. 16) is an Act of the Parliament of the United Kingdom that provides for repealing the European Communities Act 1972, and for Parliamentary approval of the withdrawal agreement being negotiated between HM Government and the European Union.

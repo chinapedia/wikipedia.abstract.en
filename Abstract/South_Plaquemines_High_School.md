@@ -1,0 +1,1 @@
+SOUTH PLAQUEMINES HIGH SCHOOL (SPHS) is a grade 7–12 junior and senior high school in Buras, a census-designated place in Plaquemines Parish, Louisiana. A part of Plaquemines Parish School Board, it serves Boothville, Buras, Port Sulphur, and Venice. In 2006 Jeré Longman of _The New York Times_ described South Plaquemines High as "one of Louisiana’s smaller high schools".[1]

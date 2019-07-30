@@ -1,0 +1,1 @@
+Statue_of_John_Napier,_Scottish_National_Portrait_Gallery.jpg JOHN NAPIER OF MERCHISTON (;[1] 1550 – 4 April 1617); also signed as Neper, Nepair; nicknamed MARVELLOUS MERCHISTON) was a Scottish landowner known as a mathematician, physicist, and astronomer. He was the 8th Laird of Merchiston. His Latinized name was IOANNES NEPER.

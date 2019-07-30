@@ -1,0 +1,1 @@
+MERE METE WHAANGA (February 15, 1848 – May 11, 1944) was a pioneer and missionary for the Church of Jesus Christ of Latter Day Saints in New Zealand. She was a leader of the Maori Ngati Kahungunu tribe and helped to spread the gospel in her area after being baptized by American missionaries.

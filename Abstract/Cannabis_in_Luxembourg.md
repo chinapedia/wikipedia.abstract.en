@@ -1,0 +1,1 @@
+CANNABIS IN LUXEMBOURG is illegal for recreational use, but possession of personal amounts is decriminalized, and medical use has been legalized. Prosecution depends on the amount of cannabis one possesses. Since 2001, prison penalty has been substituted by a monetary fine ranging from 250 to 2,500 Euros.[1]

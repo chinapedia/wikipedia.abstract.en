@@ -1,0 +1,1 @@
+The 2016 URUGUAY OPEN is a professional tennis tournament played on clay courts. It is the twelfth edition of the tournament which is part of the 2016 ATP Challenger Tour. It takes place in Montevideo, Uruguay between November 14 and November 20, 2016.

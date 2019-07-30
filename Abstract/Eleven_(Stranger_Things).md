@@ -1,0 +1,1 @@
+ELEVEN (born JANE IVES; later JANE HOPPER) is a fictional character of the Netflix science fiction horror series _Stranger Things_. Portrayed by English actress Millie Bobby Brown, she is a girl with psychokinetic and telepathic abilities.[1] She is also the love interest of Mike Wheeler.

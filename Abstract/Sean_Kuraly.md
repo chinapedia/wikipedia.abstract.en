@@ -1,0 +1,1 @@
+SEAN KURALY (born January 20, 1993) is an American professional ice hockey forward currently playing for the Boston Bruins of the National Hockey League (NHL). He was selected by the San Jose Sharks in the fifth round, 133rd overall, in the 2011 NHL Entry Draft.

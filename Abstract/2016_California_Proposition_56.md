@@ -1,0 +1,1 @@
+PROPOSITION 56 is a California ballot proposition that passed on the November 8, 2016 ballot. It increased the cigarette tax by $2.00 per pack, effective April 1, 2017, with equivalent increases on other tobacco products and electronic cigarettes containing nicotine.[1] The bulk of new revenue is earmarked for Medi-Cal.[2]

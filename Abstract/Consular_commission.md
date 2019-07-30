@@ -1,0 +1,1 @@
+A CONSULAR COMMISSION is a document that a government issues to nominate an honorary consul in a different country. The consular commission is usually issued by the Ministry of Foreign Affairs (or comparable department) of the state nominating the consul. Based on the nomination, the receiving state may or may not issue an exequatur - accepting the consul.

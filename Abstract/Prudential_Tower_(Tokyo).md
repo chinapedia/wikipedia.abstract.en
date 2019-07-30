@@ -1,0 +1,1 @@
+The is a skyscraper located in Nagatachō, Tokyo, Japan. It contains offices, residences, and shops, with 38 floors above ground and a total floor area of 76,634 square meters. It is situated on the Sotobori-dōri trunk road, near the National Diet Building and other central government institutions, including the Prime Minister's Official Residence.[1]

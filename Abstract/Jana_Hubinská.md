@@ -1,0 +1,1 @@
+JANA HUBINSKÁ (born 7 June 1964) is a Slovak film and stage actress.[1] She won a Czech Lion for Best Supporting Actress at the 2002 Czech Lion Awards, for her role in the film _Girlie_.[2] She has performed in theatres such as Divadlo West in Bratislava and the Theatre on the Balustrade in Prague.[3]

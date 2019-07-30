@@ -1,0 +1,1 @@
+Air Commodore DAME FELICITY BARBARA HILL, (12 December 1915 – 30 January 2019) was a British Royal Air Force officer. From 1966 to 1969, she served as Director of the Women's Royal Air Force.[1][2] She died in January 2019 at the age of 103.[3]

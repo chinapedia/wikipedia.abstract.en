@@ -1,0 +1,1 @@
+EARL W. KILLIAN (born August 3, 1920)[1] is an American former college sports head coach and athletic director. He coached Towson University's men's soccer, men's basketball, and baseball teams. He was the first head coach of all three teams. As of November 2016, Killian lives in Daytona Beach, Florida.[2][3]

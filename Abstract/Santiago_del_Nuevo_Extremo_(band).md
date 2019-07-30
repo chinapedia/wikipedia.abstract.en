@@ -1,0 +1,1 @@
+SANTIAGO DEL NUEVO EXTREMO is a Chilean band formed in 1978, at Santiago, Chile. It was one of the most important bands of the Canto Nuevo music movement during Pinochet’s dictatorship. The band was named after the original name of Santiago de Chile when it was founded by Pedro de Valdivia on 1541.

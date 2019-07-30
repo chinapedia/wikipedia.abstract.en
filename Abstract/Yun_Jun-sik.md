@@ -1,0 +1,1 @@
+YUN JUN-SIK (born August 9, 1991) is a South Korean freestyle wrestler. He competed in the men's freestyle 57 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by Haji Aliyev.[1][2]

@@ -1,0 +1,1 @@
+NAGYKÁLLÓ () is a district in southern part of Szabolcs-Szatmár-Bereg County. _Nagykálló_ is also the name of the town where the district seat is found. The district is located in the Northern Great Plain Statistical Region. This district is a part of Nyírség geographical region.

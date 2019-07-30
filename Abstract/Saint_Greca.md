@@ -1,0 +1,1 @@
+SAINT GRECA (12 October 284 – 21 January 304, Decimomannu[1]) was a Christian woman who lived on Sardinia. According to tradition she was martyred during the Diocletianic Persecution. She is venerated as a saint by the Roman Catholic Church.

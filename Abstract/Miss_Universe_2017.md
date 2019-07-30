@@ -1,0 +1,1 @@
+MISS UNIVERSE 2017, the 66th Miss Universe pageant, was held on 26 November 2017 at The AXIS at Planet Hollywood in Las Vegas, Nevada, United States. Iris Mittenaere of France crowned her successor Demi-Leigh Nel-Peters of South Africa at the end of the event.

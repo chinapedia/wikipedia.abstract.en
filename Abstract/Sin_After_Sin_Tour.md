@@ -1,0 +1,1 @@
+The _SIN AFTER SIN TOUR_ was a 1977 concert tour by British heavy metal band Judas Priest which was in support of their album _Sin After Sin_. It ran from 22 April until 24 July 1977 venturing through England with a date in Wales plus making their first time visit in the United States.

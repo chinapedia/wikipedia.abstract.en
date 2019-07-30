@@ -1,0 +1,1 @@
+Westminster_Abbey_west_front_August_2014.jpg _CHORAL EVENSONG_ is the BBC's longest-running outside broadcast programme. The programme is a broadcast of an Anglican service of sung evening prayer live from cathedrals, university college chapels and churches throughout the UK.[1]

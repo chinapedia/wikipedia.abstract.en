@@ -1,0 +1,1 @@
+_THE CHESS PLAYER_ () is a 1938 French historical drama film directed by Jean Dréville, released by Compagnie Française Cinématographique in France and Columbia Pictures in the United States and starring Françoise Rosay, Conrad Veidt and Bernard Lancret.[1] It is a remake of the 1927 silent film _The Chess Player_.

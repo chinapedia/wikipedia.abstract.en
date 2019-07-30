@@ -1,0 +1,1 @@
+LLOYD J. TORCHIO II[1][2] (born September 14, 1960[3]) is a former American football quarterback. He played college football at California. He signed as an undrafted free agent with the San Antonio Gunslingers of the United States Football League (USFL).

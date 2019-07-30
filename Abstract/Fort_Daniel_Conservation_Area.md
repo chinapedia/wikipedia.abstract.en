@@ -1,0 +1,1 @@
+FORT DANIEL CONSERVATION AREA is a 200-acre (0.8 km²) park located 4 miles (6.5 km) east of Mount Zion, Illinois. The land preserve protects the site of a ghost town, _Whistleville_. Today, the site centers on hiking and picknicking in the Big Creek watershed southeast of Decatur.[1]

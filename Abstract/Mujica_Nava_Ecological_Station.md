@@ -1,0 +1,1 @@
+The MUJICA NAVA ECOLOGICAL STATION ( is (or was) an ecological station in the state of Rondônia, Brazil. In 2010 it was incorporated into the Mapinguari National Park, but this decision was later challenged.

@@ -1,0 +1,1 @@
+Estonia_1999_CIA_map.jpg Satellite_image_of_Estonia_in_April_2004.jpg Laelatu_puisniit.jpg Between 57.3 and 59.5 latitude and 21.5 and 28.1 longitude, Estonia lies on the eastern shores of the Baltic Sea on the level northwestern part of the rising East European Platform. It borders the Gulf of Finland, between Latvia and Russia. Average elevation reaches only .

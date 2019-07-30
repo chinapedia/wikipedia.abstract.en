@@ -1,0 +1,1 @@
+CHRISTINA LILJENBERG HALSTRØM (born 1977 in Glostrup, Denmark) is a Danish architect and designer. The daughter of a Swedish mother and a Danish father, she has studied design in both Stockholm and in Copenhagen at the Royal Danish Academy of Fine Arts, graduating in 2007.[1] She specializes in furniture design.[2][3]

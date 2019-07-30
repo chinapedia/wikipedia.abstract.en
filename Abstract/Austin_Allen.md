@@ -1,0 +1,1 @@
+AUSTIN ALLEN (born August 21, 1994) is an American football quarterback that is currently a Free Agent. He played college football for the Arkansas Razorbacks and was their starting quarterback from 2016 to 2017. He was signed by the Tampa Bay Buccaneers as an undrafted free agent in 2018.

@@ -1,0 +1,1 @@
+The 2016 HOLLYWOOD CASINO 400 was a NASCAR Sprint Cup Series race held on October 16, 2016, at Kansas Speedway in Kansas City, Kansas. Contested over 267 laps on the 1.5 mile (2.4 km) intermediate speedway, it was the 31st race of the 2016 NASCAR Sprint Cup Series season, fifth race of the Chase and second race of the Round of 12.

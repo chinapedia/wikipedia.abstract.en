@@ -1,0 +1,1 @@
+DALIAN CHANJOY FOOTBALL CLUB () is a professional Chinese football club that currently participates in the China League Two. The team is based in Dalian, Liaoning and their home stadium is the 30,775 capacity Jinzhou Stadium.

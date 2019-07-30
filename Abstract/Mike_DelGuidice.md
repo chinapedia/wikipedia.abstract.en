@@ -1,0 +1,1 @@
+MICHAEL DELGUIDICE is an American musician, multi-instrumentalist, singer, and songwriter, best known as rhythm guitarist and vocalist of Billy Joel's band, and as the lead vocalist and pianist for the Long Island band Big Shot.[1][2] He had played 15 years as a Billy Joel cover artist and later joined Joel's band at Joel's invitation in 2013.[3]

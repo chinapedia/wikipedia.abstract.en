@@ -1,0 +1,1 @@
+_EUCALYPTUS CUPREA_, commonly known as the MALLEE BOX,[1] is a species of mallee that is endemic to the west coast of Western Australia. It has rough, flaky bark on the base of its trunk, smooth coppery-coloured bark above, lance-shaped adult leaves, flower buds in groups of seven, creamy white flowers and conical to cup-shaped fruit.

@@ -1,0 +1,1 @@
+SERGEY IVANOVIСH NEVEROV (; born December 21, 1961, Tashtagol, Kemerovo Oblast) is a Russian state and political figure, deputy chairman of the State Duma of the Federal Assembly of VI[1] and VII convocations. He has been the parliamentary leader of United Russia since 9 October 2017.[2] He was the Secretary of the General Council of the party United Russia from 2011-2017.

@@ -1,0 +1,1 @@
+Abbé NICOLAS-LOUIS DE LACAILLE, formerly sometimes spelled DE LA CAILLE, (; 15 March 1713 – 21 March 1762)[1] was a French astronomer who named 14 out of the 88 constellations. From 1750-1754 he studied the sky at the Cape of Good Hope in present day South Africa. Lacaille observed over 10,000 stars using just a half-inch refractor.[2]

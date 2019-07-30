@@ -1,0 +1,1 @@
+ELLEN GEZINA MARIA VAN LANGEN (born February 9, 1966) is a Dutch former middle distance runner, who specialised in the 800 metres. A talented but injury-ridden athlete, she was the 1992 Olympic Champion for the women's 800 meters. She is now the director of the FBK games (the Hengelo meeting).[1]

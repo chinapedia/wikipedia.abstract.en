@@ -1,0 +1,1 @@
+_COMPOSITION NO. 94 FOR THREE INSTRUMENTALISTS_ is a live album by composer and saxophonist Anthony Braxton featuring two variations of the title piece recorded in Italy in 1980 and first released on the Golden Years of New Jazz label in 1999.[1][2]

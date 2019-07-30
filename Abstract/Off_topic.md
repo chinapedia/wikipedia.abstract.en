@@ -1,0 +1,1 @@
+In the context of mailing lists, discussion groups, discussion forums, bulletin boards, newsgroups, and wikis a contribution is OFF-TOPIC if it is not within the bounds of the current discussion, and ON-TOPIC if it is.

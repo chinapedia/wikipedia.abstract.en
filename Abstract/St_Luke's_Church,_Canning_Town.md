@@ -1,0 +1,1 @@
+Canning_Town,_Former_St_Luke's_Church_-_geograph.org.uk_-_762025.jpg ST LUKE'S CHURCH, CANNING TOWN or ST LUKE'S CHURCH, VICTORIA DOCKS is a Church of England church, originally housed in a building on Boyd Road in the Royal Docks area of West Ham in east London.[1]

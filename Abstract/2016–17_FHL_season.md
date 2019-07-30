@@ -1,0 +1,1 @@
+The 2016–17 FEDERAL HOCKEY LEAGUE SEASON is the seventh season of the Federal Hockey League. The regular season ran from October 28, 2016 to April 2, 2017, with an unbalanced 56-game schedule between the seven teams. The Danville Dashers won their first Commissioner's Cup.

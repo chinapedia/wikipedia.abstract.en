@@ -1,0 +1,1 @@
+IOI_logo.png The INTERNATIONAL OLYMPIAD IN INFORMATICS (IOI) is an annual competitive programming competition for secondary school students. It is the second largest olympiad, after International Mathematical Olympiad, in terms of number of participating countries (83 at IOI 2017). The first IOI was held in 1989 in Pravetz, Bulgaria.

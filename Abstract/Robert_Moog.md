@@ -1,0 +1,1 @@
+ROBERT ARTHUR MOOG ( ; May 23, 1934 – August 21, 2005) was an American engineer and pioneer of electronic music. He was the founder of Moog Music and the inventor of the first commercial synthesizer, the Moog synthesizer. This was followed by a more portable model, the Minimoog, described as the most famous and influential synthesizer in history.

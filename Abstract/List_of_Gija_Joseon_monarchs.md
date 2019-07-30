@@ -1,0 +1,1 @@
+Gija Joseon (12th century BC–2nd century BC) is the name of an ancient Korean kingdom that is first attested in historical works of the 13th century AD and later. The narrative of the Gojoseon dynasty that this list describes, has been challenged by scholars in the 20th century.

@@ -1,0 +1,1 @@
+MR ENTEROGRAPHY is a magnetic resonance imaging technique used to evaluate bowel wall features of both upper and lower gastro-intestinal tract, although it is usually used for small bowel evaluation.[1] It is a less invasive technique with the advantages of no ionizing radiation exposure, multiplanarity and high contrast resolution for soft tissue.

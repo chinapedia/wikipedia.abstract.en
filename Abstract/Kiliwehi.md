@@ -1,0 +1,1 @@
+MARY ANN KILIWEHI KAʻAUWAI ( – November 4, 1873) was a Hawaiian high chiefess and lady-in-waiting of the Kingdom of Hawaii. Alongside her husband William Hoapili Kaʻauwai, she traveled with Queen Emma of Hawaii to Europe between 1865 and 1866, and circumnavigated the globe upon their return eastward via New Zealand.

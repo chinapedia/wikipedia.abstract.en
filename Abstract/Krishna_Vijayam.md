@@ -1,0 +1,1 @@
+_KRISHNA VIJAYAM_ is a 1950 Indian Tamil language film written and directed by Sundar Rao Nadkarni. The film featured Carnatic music singer N. C. Vasanthakokilam in the role of Narada. The film, based on the Epic story of Krishna avatar, featured later day playback singer A. L. Raghavan as the child Krishna. Adult Krishna was played by P. V. Narasimha Bharathi.[1]

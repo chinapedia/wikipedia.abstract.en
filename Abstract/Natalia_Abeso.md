@@ -1,0 +1,1 @@
+NATALIA OBONO ABESO ABUY (born 5 September 1986) is an Equatoguinean footballer who played as a midfielder. for the Equatorial Guinea women's national football team. She was part of the team at the 2011 FIFA Women's World Cup. At the club level, she plays for Inter Continental in Equatorial Guinea.[1]

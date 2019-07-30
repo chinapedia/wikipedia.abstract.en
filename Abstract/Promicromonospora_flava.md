@@ -1,0 +1,1 @@
+_PROMICROMONOSPORA FLAVA_ is a Gram-positive and non-spore-forming bacterium from the genus of _Promicromonospora_ which has been isolated from sediments from the Baltic Sea at the Kiel Bay in Germany.[1][2][3][4]

@@ -1,0 +1,1 @@
+ALFRED HARMSWORTH (3 July 1837 – 16 July 1889) was a British barrister, and the father of several of the United Kingdom's leading newspaper proprietors, five of whom were honoured with hereditary titles – two viscounts, one baron and two baronets. Another son designed the iconic bulbous Perrier mineral water bottle.[1]

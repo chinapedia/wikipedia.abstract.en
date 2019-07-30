@@ -1,0 +1,1 @@
+The MIOCENE () is the first geological epoch of the Neogene Period and extends from about (Ma). The Miocene was named by Charles Lyell; its name comes from the Greek words (__, "less") and (__, "new")See:

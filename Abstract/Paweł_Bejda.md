@@ -1,0 +1,1 @@
+PAWEŁ JAN BEJDA (born 13 October 1962 in Łowicz) is a Polish politician. From 2015 he has served as a member of the _Sejm_, the lower house of the Polish parliament. Previously, from 2012 through 2014, he had been the appointed deputy governor of one of Poland’s 16 provinces, the central _voivodeship_ of Łódź .

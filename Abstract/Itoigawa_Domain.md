@@ -1,0 +1,1 @@
+was a feudal domain under the Tokugawa shogunate of Edo period Japan. It is located in Echigo Province, Honshū. The domain was centered at Itoigawa Jin'ya, located in what is now part of the city of Itoigawa in Niigata Prefecture.[1]

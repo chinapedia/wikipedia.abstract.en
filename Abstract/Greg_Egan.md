@@ -1,0 +1,1 @@
+GREG EGAN (born 20 August 1961)[1] is an Australian science fiction writer and amateur mathematician, best known for his works of hard science fiction. Egan has won multiple awards including the John W. Campbell Memorial Award, the Hugo Award, and the Locus Award.

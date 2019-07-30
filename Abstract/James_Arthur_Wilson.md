@@ -1,0 +1,1 @@
+James_Arthur_Wilson._Mezzotint_by_W._Walker,_1852,_after_Mrs_Wellcome_V0006309.jpg

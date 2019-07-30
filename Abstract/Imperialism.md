@@ -1,0 +1,1 @@
+Punch_Rhodes_Colossus.png and the Cape-Cairo railway project. Rhodes founded the De Beers Mining Company, owned the British South Africa Company and had his name given to what became the state of Rhodesia. He liked to "paint the map British red" and declared: "all of these stars ... these vast worlds that remain out of reach. If I could, I would annex other planets".[1]]]

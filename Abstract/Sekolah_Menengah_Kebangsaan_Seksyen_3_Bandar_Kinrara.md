@@ -1,0 +1,1 @@
+SEKOLAH MENENGAH KEBANGSAAN SEKSYEN 3 BANDAR KINRARA or _SMK Seksyen 3 Bandar Kinrara_ (Chinese:蒲种金銮镇第三区国中, literally meaning Puchong Kinrara Section 3 Secondary School), is a secondary national school located in Jalan Bk 5B, Bandar Kinrara.

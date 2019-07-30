@@ -1,0 +1,1 @@
+Dogs played various roles during the time of the American Revolutionary War. In addition to formal uses like their role in hunting, dogs often accompanied their owners while they were fighting and provided comfort for their owners and those with them in camps. During this time, dogs were being newly studied in science and depicted in art.

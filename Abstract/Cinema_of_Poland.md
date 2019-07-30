@@ -1,0 +1,1 @@
+It is commonly known that the first cinema in Poland was in fact founded in Żywiec, Silesia. Although due to lack of needed documents that disappeared during wars, it is spread that the one in Łódź was first.

@@ -1,0 +1,1 @@
+The 145TH ARMY DIVISION ()(2nd Formation) was formed in November 1969 from detachments of the 47th Army Corps. The division was under direct control of Guangzhou Military Region, while under administrative control from 47th Army Corps.

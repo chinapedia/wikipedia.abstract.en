@@ -1,0 +1,1 @@
+The SANCTUARY OF THE MOST HOLY MARY OF THE HEIGHT (called also the Sanctuary of “Maronna di l'avutu" by people from Alcamo) is a place of Marian devotion, located on the top of Mount Bonifato, in Alcamo in the province of Trapani.

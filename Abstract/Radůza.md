@@ -1,0 +1,1 @@
+RADKA URBANOVÁ ( VRANKOVÁ; born 16 March 1973), known by the stage name RADŮZA,[1] is a Czech award-winning singer and accordionist. She won three awards at the 2003 Anděl Awards.[2] Radůza studied at the Prague Conservatory, from which she graduated in 2001.[3] She had a role in the 2006 film _Beauty in Trouble_.[4] She gave birth to a son in 2007 and a daughter in 2009.[5]

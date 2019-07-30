@@ -1,0 +1,1 @@
+RABBI DR. ARI BERMAN (born 1970) is the fifth and current President of Yeshiva University. His uncle is Julius Berman, who serves on the Board of Trustees of Yeshiva University and is the Chairman Emeritus of the Board of Trustees of Rabbi Isaac Elchanan Theological Seminary.[1]

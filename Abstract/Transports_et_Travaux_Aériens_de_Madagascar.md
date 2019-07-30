@@ -1,0 +1,1 @@
+TRANSPORTS ET TRAVAUX AÉRIENS DE MADAGASCAR (TTAM) was an airline based in Madagascar. It was founded in 1954 and became a subsidiary of Air Madagascar in the early 1960s. It operated Piper aircraft and the ATR 42 on charter flights, on regional flights and for agricultural purposes. TTAM ceased operations in January 2002.

@@ -1,0 +1,1 @@
+The 557TH INDEPENDENT MOONLIGHT BATTERY, ROYAL ARTILLERY was a Searchlight (S/L) unit of the British Army that provided artificial illumination, or 'Monty's Moonlight', for night operations by 21st Army Group during the campaign in North West Europe in 1944–45. Previously, it had served on anti-aircraft (AA) duties in the United Kingdom and Normandy.

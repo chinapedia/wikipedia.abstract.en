@@ -1,0 +1,1 @@
+STAROLASPA (; ; Urum: Эст’и Ласпи) is a village in Boykivske Raion (district) in Donetsk Oblast of eastern Ukraine, at 67.7 km SSE from the centre of Donetsk city, on the right bank of the Kalmius river.

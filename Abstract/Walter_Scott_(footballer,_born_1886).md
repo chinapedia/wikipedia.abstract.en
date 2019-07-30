@@ -1,0 +1,1 @@
+WALTER SCOTT (21 January 1886 – 1955) was an English professional football goalkeeper who played in the Football League for Grimsby Town, Sunderland and Everton.[1][2][3][4] He notably became the first goalkeeper to save three penalties in a single match, versus Burnley in a Second Division fixture in 1909.[5]

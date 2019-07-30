@@ -1,0 +1,1 @@
+The SPA DOVUNQUE 35 PROTTETTO (Italian for anywhere and protected) is a wheeled armored troop carrier, produced in Italy and employed by the Black Brigades of the Italian Social Republic during World War II.

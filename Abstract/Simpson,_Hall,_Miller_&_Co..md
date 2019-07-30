@@ -1,0 +1,1 @@
+_Simpson, Hall, Miller & Co._ was a cutlery and silver hollowware manufacturer in Wallingford, Connecticut, founded in 1866.[1] By c. 1895, the company operated large factories in Wallingford and Montreal, Canada.[2]

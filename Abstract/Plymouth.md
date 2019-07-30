@@ -1,0 +1,1 @@
+PLYMOUTH () is a port city situated on the south coast of Devon, England, approximately south-west of Exeter and west-south-west of London. Enclosing the city are the mouths of the river Plym and river Tamar, which are naturally incorporated into Plymouth Sound to form a boundary with Cornwall.

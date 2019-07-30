@@ -1,0 +1,1 @@
+Vihma_Einar2.jpg EINAR AUGUST VIHMA (until 1936 WICHMANN; 19 September 1893, Kuopio – 5 August 1944, Ihantala) was a Finnish major general. During the Battle of Tali-Ihantala he commanded the 6th Division. He was killed in action during the battle.

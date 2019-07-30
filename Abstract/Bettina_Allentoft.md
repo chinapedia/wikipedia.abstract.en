@@ -1,0 +1,1 @@
+'''Bettina Allentoft ''' (born 16 November 1973) is a Danish footballer who played as a defender for the Denmark women's national football team. She was part of the team at the 1995 FIFA Women's World Cup.[1]

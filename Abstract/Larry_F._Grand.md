@@ -1,0 +1,1 @@
+NCSUPP_20110228_Crop-7837_1600.jpg LARRY F. GRAND (December 30, 1940 – March 14, 2013) was an American mycologist who had a long career focusing on ectomycorrhizal fungi, wood decay fungi and plant pathogenic fungi.

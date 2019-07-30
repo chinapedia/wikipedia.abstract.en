@@ -1,0 +1,1 @@
+ROLLOUT.IO provides a mobile software development kit (SDK) that enables feature flagging for mobile apps, allowing developers to remotely control the deployment of new features. The SDK currently supports native iOS apps written in Swift or Objective-C. It supports continuous deployment, gradual rollouts, A/B testing, and the entire software development lifecycle.[1]

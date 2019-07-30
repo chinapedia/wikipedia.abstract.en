@@ -1,0 +1,1 @@
+LEONOR URUETA (born 22 March 1954) is a Mexican former swimmer. She competed in two events at the 1972 Summer Olympics. She finished third in the 1971 Pan American Games 200 metres breaststroke and third in the 1971 Pan American Games 4×100 metres medley.[1]

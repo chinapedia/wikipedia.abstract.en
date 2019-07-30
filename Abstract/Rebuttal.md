@@ -1,0 +1,1 @@
+In law, REBUTTAL is a form of evidence that is presented to contradict or nullify other evidence that has been presented by an adverse party. By analogy the same term is used in politics and public affairs to refer to the informal process by which statements, designed to refute or negate specific arguments put forward by opponents, are deployed in the media.[1]

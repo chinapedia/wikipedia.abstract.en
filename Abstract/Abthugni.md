@@ -1,0 +1,1 @@
+ABTHUGNI (, , or , ) was an ancient city in Roman North Africa[1] at present day Suwar (Henchir-es-Souar) in Tunisia.[2] It was in Roman times in the province of Africa Proconsularis, Africa, and latter in Byzacena. In late antiquity Abthugni was also the seat of a bishop, and the diocese is a titular see of the Roman Catholic Church to this day.

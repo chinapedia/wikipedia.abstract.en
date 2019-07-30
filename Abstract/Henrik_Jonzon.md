@@ -1,0 +1,1 @@
+HENRIK JONZON (born 15 April 1979) is a Swedish platinum record selling[1] songwriter, producer, musician, and artist. He was born and grew up in Chicago. His music combines indie pop rock with urban, R&B and mainstream pop.[2]

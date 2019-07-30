@@ -1,0 +1,1 @@
+CHALMERS UNIVERSITY OF TECHNOLOGY (, often shortened to CHALMERS) is a Swedish university located in Gothenburg that focuses on research and education in technology, natural science, architecture, maritime and other management areas.[1]

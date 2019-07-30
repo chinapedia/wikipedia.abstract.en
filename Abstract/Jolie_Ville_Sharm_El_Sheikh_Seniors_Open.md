@@ -1,0 +1,1 @@
+The JOLIE VILLE SHARM EL SHEIKH SENIORS OPEN was a men's senior (over 50) professional golf tournament on the European Seniors Tour, held at the Jolie Ville Golf, Sharm El Sheikh, Egypt. It was held just once, in April 2005, and was won by Bob Lendzion who finished a stroke ahead of John Mashego and David J Russell.[1] The total prize fund was US$255,000.

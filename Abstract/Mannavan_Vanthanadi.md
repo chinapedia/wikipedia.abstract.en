@@ -1,0 +1,1 @@
+_MANNAVAN VANTHANADI_ () is an upcoming Tamil romantic drama film written and directed by Selvaraghavan featuring Santhanam and Aaditi Pohankar in the lead roles. The technical team consists of Yuvan Shankar Raja for music, GK Prasanna for editing, Loganathan for cinematography and Shiva as the art director. Production on the film began in December 2016.[1]

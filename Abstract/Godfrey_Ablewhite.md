@@ -1,0 +1,1 @@
+GODFREY ABLEWHITE is a character in Wilkie Collins' 1868 novel _The Moonstone_.[1] A vocal philanthropist, he is one of the rival suitors of Rachel Verinder, to whom he is briefly engaged (before his mercenary motives begin gradually to be uncovered).

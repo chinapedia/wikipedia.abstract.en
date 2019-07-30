@@ -1,0 +1,1 @@
+EDMUND CHARLES "TED" PERCEY (6 April 1929 – 25 May 2014) was an architect with Scherrer and Hicks and later a partner in that firm, who was responsible for the design of several notable concrete constructions for the English water industry as well as the brutalist Mathematics Tower for Manchester University.

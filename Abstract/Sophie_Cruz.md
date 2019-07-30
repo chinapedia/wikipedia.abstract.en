@@ -1,0 +1,1 @@
+SOPHIE CRUZ (born 2010) is an American activist. Her parents are undocumented immigrants from the state of Oaxaca, Mexico; Cruz's activism is geared toward ensuring the continuance of the DAPA (Deferred Action for Parents of Americans) program, which would allow her parents to remain in the United States legally.

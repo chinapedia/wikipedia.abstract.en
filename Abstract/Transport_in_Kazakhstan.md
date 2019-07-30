@@ -1,0 +1,1 @@
+The vast territory of Kazakhstan spans across . The population density is low in Kazakhstan, and the centers of industry and agriculture are spread out and remote from world markets. Therefore, the need for efficient transportation in Kazakhstan is great.

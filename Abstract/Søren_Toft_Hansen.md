@@ -1,0 +1,1 @@
+SØREN TOFT HANSEN (born 24 October 1992) is a Danish male badminton player.[1] He started his badminton career in Nyborg when he was 16.[2] In the men's singles event, he won the 2017 Jamaica International tournament, and in the doubles event, he won the 2014 Mercosul International in Brazil, 2015 Lithuanian International, and also 2017 Eurasia Bulgarian Open.[3]

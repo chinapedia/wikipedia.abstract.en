@@ -1,0 +1,1 @@
+The EMPIRE ZINC STRIKE, also known as the SALT OF THE EARTH STRIKE, was a 15-month-long miners' strike in New Mexico against the Empire Zinc Company for its discriminatory pay and housing practices. The strike drew national attention, and after it was settled in 1952, a movie entitled _Salt of the Earth_ (1954) was released that offered a fictionalized version of events.

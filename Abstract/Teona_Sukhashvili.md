@@ -1,0 +1,1 @@
+TEONA SUKHASHVILI (, born February 6, 1994) is a Georgian football goalkeeper. She is a member of the Georgian national team. Currently, she is playing in the Turkish Women's First Football League for Kdz. Ereğlispor with jersey number 12.[1]

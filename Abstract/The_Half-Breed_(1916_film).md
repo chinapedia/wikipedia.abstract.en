@@ -1,0 +1,1 @@
+_THE HALF-BREED_ is a 1916 film directed by Allan Dwan. It stars Douglas Fairbanks as Lo ("Sleeping Water") Dorman a man competing for the love of the local preacher's daughter (Jewel Carmen) with the local sheriff (Sam De Grasse). The audience, however, knows that Sheriff Dunn is actually Lo's father.

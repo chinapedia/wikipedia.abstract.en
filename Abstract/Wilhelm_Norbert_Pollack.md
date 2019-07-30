@@ -1,0 +1,1 @@
+WILHELM NORBERT POLLACK (1868–1916) was born in Straichingen, Baden-Wurttemberg, Germany before moving with his family to Bradford, England, where there was a substantial German community working in the local textile industry.

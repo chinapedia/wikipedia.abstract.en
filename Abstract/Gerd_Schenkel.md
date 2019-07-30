@@ -1,0 +1,1 @@
+GERD SCHENKEL MS (Robotics), MBA (Columbia) is an Australian business person [1], chairman of Credit Clear [2], and Director and digital practice leader at Partners in Performance, a consultancy.[3] [4]

@@ -1,0 +1,1 @@
+_FOG_ is a 1933 American pre-Code film directed by Al Rogell and produced and distributed by Columbia Pictures. It stars Mary Brian, Donald Cook and Reginald Denny. The Library of Congress holds a print of the film.[1]

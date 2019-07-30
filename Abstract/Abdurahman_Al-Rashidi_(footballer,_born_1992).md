@@ -1,0 +1,1 @@
+ABDURAHMAN AL-RASHIDI (born 18 July 1992) is a Saudi football player who played in the Pro League for Al-Ittihad.[1]

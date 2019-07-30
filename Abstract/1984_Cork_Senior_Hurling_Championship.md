@@ -1,0 +1,1 @@
+The 1984 CORK SENIOR HURLING CHAMPIONSHIP was the 96th staging of the Cork Senior Hurling Championship since its establishment by the Cork County Board in 1887. The championship began on 4 May 1984 and ended on 30 September 1984.

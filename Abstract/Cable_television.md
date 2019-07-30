@@ -1,0 +1,1 @@
+F-Stecker_und_Kabel.jpg used to carry cable television onto subscribers' premises]] Nowtv_settopbox_hd.jpg, an electronic device which cable subscribers use to connect the cable signal to their television set.]]

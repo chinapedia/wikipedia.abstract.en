@@ -1,0 +1,1 @@
+CATHARINA CHRISTINA JOHANNA HERMINA "CATRIEN" BIJLEVELD (born 1958) is a Dutch criminologist. She is a professor of Research Methods in Criminology at the Vrije Universiteit Amsterdam. Since August 2014 she is director of the Netherlands Institute for the Study of Crime and Law Enforcement.[1]

@@ -1,0 +1,1 @@
+VALÉRIE CAZENEUVE called ÈVE DE CASTRO (1961) is a French writer, novelist and screenwriter, a winner of the Prix des libraires in 1992, the Prix des Deux Magots and the Prix Maurice Genevoix in 1996.

@@ -1,0 +1,1 @@
+ALICE BRADLEY SHELDON (August 24, 1915 – May 19, 1987) was an American science fiction author better known as JAMES TIPTREE JR., a pen name she used from 1967 to her death. It was not publicly known until 1977 that James Tiptree Jr. was a woman. From 1974 to 1977 she also used the pen name RACCOONA SHELDON. Sheldon was inducted by the Science Fiction Hall of Fame in 2012.[1]

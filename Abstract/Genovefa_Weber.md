@@ -1,0 +1,1 @@
+GENOVEFA WEBER, née Brenner (2 January 1764 – 13 March 1798) was a German opera singer and actress. She was born in Oberdorf, Allgäu, Germany and died in Salzburg, Austria. She was the mother of composer Carl Maria von Weber.

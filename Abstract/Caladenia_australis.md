@@ -1,0 +1,1 @@
+_CALADENIA AUSTRALIS_, commonly known as SOUTHERN SPIDER ORCHID, is a plant in the orchid family Orchidaceae and is endemic to Victoria, although it was also found on one Bass Strait island on one occasion in 1968. It has a single hairy leaf and usually only one creamy-yellow flower with red streaks, the flower on a hairy stalk.

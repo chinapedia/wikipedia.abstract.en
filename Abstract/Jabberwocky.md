@@ -1,0 +1,1 @@
+Jabberwocky.jpg]] "JABBERWOCKY" is a nonsense poem written by Lewis Carroll about the killing of a creature named "the Jabberwock". It was included in his 1871 novel _Through the Looking-Glass, and What Alice Found There_, the sequel to _Alice's Adventures in Wonderland_. The book tells of Alice's adventures within the back-to-front world of Looking-Glass Land.

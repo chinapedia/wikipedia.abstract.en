@@ -1,0 +1,1 @@
+_LOADSTAR: THE LEGEND OF TULLY BODINE_ (sometimes Loadstar) is a game published by BMG Interactive and Rocket Science Games and developed by Rocket Science Games for the Sega CD in 1994 and MS-DOS computers in 1995.

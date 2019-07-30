@@ -1,0 +1,1 @@
+JOHN NEWLANDS (March 14, 1889 – after 1943) was a salesman and politician in Ontario, Canada. He represented Hamilton Centre in the Legislative Assembly of Ontario from 1938 to 1943 as a Liberal.[1][2]

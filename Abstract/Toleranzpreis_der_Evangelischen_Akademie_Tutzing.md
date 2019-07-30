@@ -1,0 +1,1 @@
+The TOLERANZPREIS DER EVANGELISCHEN AKADEMIE TUTZING (Prize for tolerance) is a prize that has been awarded biennially by the Evangelische Akademie Tutzing to personalities who have been influential towards a dialogue between cultures and religions. From 2012, an additional prize has been given to support moral courage (_Preis zur Förderung der Zivilcourage_).

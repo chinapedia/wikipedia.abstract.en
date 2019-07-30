@@ -1,0 +1,1 @@
+The 2017 AFC CHAMPIONS LEAGUE KNOCKOUT STAGE was played from 22 May to 25 November 2017.[1] A total of 16 teams competed in the knockout stage to decide the champions of the 2017 AFC Champions League.[2]

@@ -1,0 +1,1 @@
+ROBERT "BOB" RUTMAN (born 15 May 1931)[1] is a German-American visual artist, musician, composer, and instrument builder. Best known for his work with homemade idiophones in his Steel Cello Ensemble, Rutman is regarded as a pioneer of multimedia performance in his mixing of music, sculpture, film, and visual art.[2]

@@ -1,0 +1,1 @@
+HARISHCHANDRA (IAST: Harīścandra, r. c. 1194–1197 CE) was an Indian king from the Gahadavala dynasty. The last known king from the family's imperial branch, he probably ruled a part of his ancestral kingdom in present-day Uttar Pradesh.

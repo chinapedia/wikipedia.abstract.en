@@ -1,0 +1,1 @@
+YAN NAING OO (; born 31 March 1996) is a footballer from Burma, and a winger for the Myanmar U-19 football team and Shan United. He was born in North Okkalarpa Township, Yangon Division.[1] He also the key player of Myanmar U-20 National Football Team played in 2015 FIFA U-20 World Cup. He scored opening goal of 2015 FIFA U-20 World Cup.

@@ -1,0 +1,1 @@
+Rittner_Kurt_Georg_Kiesinger_1976.jpg Nixon_kiesinger_berlin.jpg

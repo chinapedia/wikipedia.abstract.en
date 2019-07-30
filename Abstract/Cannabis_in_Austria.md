@@ -1,0 +1,1 @@
+Wien_-_Hanfwandertag_2014.JPG CANNABIS IN AUSTRIA is legal for scientific and medical slag usage, but illegal for recreational usage. Possession of small amounts for personal use was decriminalized in 2016.[1] The sale of cannabis seeds and plants is legal.[2]

@@ -1,0 +1,1 @@
+ALBINA FARIA DE ASSIS PEREIRA AFRICANO best known as ALBINA ASSIS (born June 3, 1945 in Luanda, Portuguese Angola) is an Angolan chemist and politician. She has held many positions including Minister of Oil and Industry in the Angolan government, Special Advisor to the President for Regional Affairs, and Chairman of the Board of Directors of Sonangol.

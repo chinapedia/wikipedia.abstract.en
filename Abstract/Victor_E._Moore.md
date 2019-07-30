@@ -1,0 +1,1 @@
+VictorEMoore.png VICTOR EDWARD MOORE (November 13, 1897 - August 22, 1982) was a Philadelphia businessman and Democratic politician. He served three terms on the Philadelphia City Council and as chairman of the Philadelphia Gas Works.

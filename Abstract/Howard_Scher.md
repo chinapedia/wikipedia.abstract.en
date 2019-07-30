@@ -1,0 +1,1 @@
+HOWARD I. SCHER is the Chief of the Genitourinary Oncology at Memorial Sloan Kettering Cancer Center and Professor of Medicine at the Weill Cornell Medical College. He has a depth of experience in clinical trials for novel types of cancer treatment.[1]

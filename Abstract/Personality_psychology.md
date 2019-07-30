@@ -1,0 +1,1 @@
+PERSONALITY PSYCHOLOGY is a branch of psychology that studies personality and its variation among individuals. It is a scientific study which aims to show how people are individually different due to psychological forces.[1] Its areas of focus include:

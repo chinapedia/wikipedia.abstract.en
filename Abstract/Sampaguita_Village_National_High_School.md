@@ -1,0 +1,1 @@
+SAMPAGUITA VILLAGE NATIONAL HIGH SCHOOL (SVNHS) or Sampaguita National High School (SNHS) is a public secondary high school located at Calendola Village, San Pedro, Laguna, Philippines. It is offering Junior High School (Grades 7-10) at present.[1]

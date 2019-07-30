@@ -1,0 +1,1 @@
+MICRO BUSINESSES IN THE PHILIPPINES can be defined according to the size of assets, size of equity capital, and number of employees. A typical micro business is a business that employs nine people or fewer, with assets of .

@@ -1,0 +1,1 @@
+CHARLES MCNEIL FRCPE FRCP RSE (21 September 1881–27 April 1964) was a physician specialising in paediatrics, in particular neonatal paediatrics. He was a Fellow of the Royal College of Physicians of both London and Edinburgh, and was President of the Royal College of Physicians of Edinburgh from 1940-1943.

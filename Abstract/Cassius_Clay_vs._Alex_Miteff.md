@@ -1,0 +1,1 @@
+Cassius Clay (soon Muhammad Ali) fought Argentine Alex Miteff in a ten-round boxing match in Louisville on October 7, 1961. Clay won the fight through a technical knockout when the referee stopped the fight in the sixth round.[1][2][3][4][5][6][7][8][9] Miteff and Clay would feature in the 1962 film Requiem for a Heavyweight.[10][11][12]

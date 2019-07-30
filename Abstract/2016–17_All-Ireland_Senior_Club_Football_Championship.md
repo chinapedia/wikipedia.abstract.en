@@ -1,0 +1,1 @@
+The 2016–17 ALL-IRELAND SENIOR CLUB FOOTBALL CHAMPIONSHIP was the 47th annual Gaelic football club championship since its establishment in the 1970-71 season. The winners receive The Andy Merrigan Cup.

@@ -1,0 +1,1 @@
+Inside_of_a_London_Underground_carriage.jpg The LONDON UNDERGROUND (also known simply as THE UNDERGROUND, or by its nickname THE TUBE) is a public rapid transit system serving London, England and some parts of the adjacent counties of Buckinghamshire, Essex and Hertfordshire in the United Kingdom.[1]

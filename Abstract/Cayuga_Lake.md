@@ -1,0 +1,1 @@
+CAYUGA LAKE ()  is the longest of central New York's glacial Finger Lakes, and is the second largest in surface area (marginally smaller than Seneca Lake) and second largest in volume. It is just under long. Its average width is 1.7 miles (2.7 km), and it is at its widest point near Aurora. It is approximately at its deepest point.

@@ -1,0 +1,1 @@
+The AZOIC HYPOTHESIS (sometimes referred to as the ABYSSUS THEORY) is a superseded scientific theory proposed by Edward Forbes in 1843, stating that the abundance and variety of marine life decreased with increasing depth and, by extrapolation of his own measurements, Forbes calculated that marine life would cease to exist below .

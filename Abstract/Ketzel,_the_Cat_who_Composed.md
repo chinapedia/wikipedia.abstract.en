@@ -1,0 +1,1 @@
+_KETZEL, THE CAT WHO COMPOSED_ is a children's picture book by Lesléa Newman. Based on a true story, it is about the friendship between Moshe Cotel and a kitten, Ketzel, who composes a musical piece that Cotel enters into a music competition and receives a special mention.

@@ -1,0 +1,1 @@
+O.B. is a brand of tampon, originally developed in Germany in 1950 and manufactured by Carl Hahn GmbH. It is now owned by Edgewell Personal Care. The product was named by the gynecologist Judith Esser-Mittag who also developed it. The initials "o.b." are an abbreviation of the German phrase "ohne binde" ("without napkins").[1]

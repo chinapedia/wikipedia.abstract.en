@@ -1,0 +1,1 @@
+_THE RETURN OF POM POM_ is a 1984 Hong Kong comedy film directed by Philip Chan and starring Richard Ng and John Shum. It is the second film in the _Pom Pom_ film series which is a spin-off the _My Lucky Stars_ series.

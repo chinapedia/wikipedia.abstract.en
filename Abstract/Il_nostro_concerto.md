@@ -1,0 +1,1 @@
+"IL NOSTRO CONCERTO" is a 1960 Italian song composed by Umberto Bindi (music) and Giorgio Calabrese (lyrics). The song premiered at the Italian Music Festival in New York, in which was performed by Miranda Martino and placed third. It eventually was Bindi's major hit, whose version topped the Italian hit parade for several months.[1]

@@ -1,0 +1,1 @@
+JOHN SIGISMUND (; 8 November 1572 – 23 December 1619) was a Prince-elector of the Margraviate of Brandenburg from the House of Hohenzollern. He became the Duke of Prussia through his marriage to Duchess Anna, the eldest daughter of Duke Albert Frederick of Prussia who died without sons. Their marriage resulted in the creation of Brandenburg-Prussia.

@@ -1,0 +1,1 @@
+CHARLES S. TRUMP IV (born October 3, 1960) is an American lawyer and Republican member of the West Virginia Senate. He represents the 15th district, which covers parts of the Eastern Panhandle of West Virginia.

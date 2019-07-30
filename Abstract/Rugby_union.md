@@ -1,0 +1,1 @@
+RUGBY UNION, widely known simply as RUGBY, is a contact team sport which originated in England in the first half of the 19th century. One of the two codes of rugby football, it is based on running with the ball in hand. In its most common form, a game is between two teams of 15 players using an oval-shaped ball on a rectangular field with H-shaped goalposts at each end.

@@ -1,0 +1,1 @@
+JOEL NASCIMENTO (Rio de Janeiro, October 13, 1937) is a musician, mandolin, multi-instrumentalist Brazilian.[1] He toured with John McLaughin, Paco de Lucia, Raphael Rabello and Arthur Moreira Lima.[2][3] He was labeled by historian Paul Sparks "perhaps the leading player of the present day" for his skill as a performance mandolinist.[4]

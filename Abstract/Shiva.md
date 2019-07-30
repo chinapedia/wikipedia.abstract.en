@@ -1,0 +1,1 @@
+_SHIVA_ (; Sanskrit: शिव, , lit. _the auspicious one_) also known as MAHADEVA (lit. _the great god_) is one of the principal deities of Hinduism. He is one of the supreme beings within Shaivism, one of the major traditions within contemporary Hinduism.[1][2]

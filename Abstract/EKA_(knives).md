@@ -1,0 +1,1 @@
+EKA is northern Europe's last folding knife maker. They started making knives in 1882, in the town of Eskilstuna, Sweden. The town of Eskilstuna, has an ancient tradition of working with iron and steel, that goes back to pre-Viking times. The first water driven forge was in existence as long ago as 1485.

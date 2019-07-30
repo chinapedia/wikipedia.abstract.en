@@ -1,0 +1,1 @@
+ROBERT STICKGOLD is an associate professor of psychiatry at Harvard Medical School and Beth Israel Deaconess Medical Center. A sleep researcher, his work focuses on the relationship between sleep and learning. His articles in the popular press are intended to illustrate the dangers of sleep deprivation.

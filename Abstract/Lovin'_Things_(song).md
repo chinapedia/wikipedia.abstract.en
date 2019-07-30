@@ -1,0 +1,1 @@
+"LOVIN' THINGS" is a 1968 song recorded by Scottish group The Marmalade, later covered by The Grass Roots. The song was written by Artie Schroeck and Jet Loring. It was the band's first successful single release, reaching number six on the UK singles chart.[1] Their version was not, however, released in North America.

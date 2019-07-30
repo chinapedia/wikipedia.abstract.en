@@ -1,0 +1,1 @@
+AGBERTO CORREA DE MATOS (born 8 April 1972)[1] is a Brazilian male handball player. He was a member of the Brazil national handball team, playing as a left back.[2] He was a part of the team at the 1996 Summer Olympics and 2004 Summer Olympics.[3][4] He was a member of São Bernardo do Campo from 2003 to 2006.[5]

@@ -1,0 +1,1 @@
+_L'ÉLÈVE DUCOBU_ is a 2011 French children's comedy film directed by Philippe de Chauveron. It is based on the eponymous comic series by Godi and Zidrou. The film features Élie Semoun, Joséphine de Meaux, Vincent Claude and Juliette Chappey. It was released on 22 June 2011.[1][2]

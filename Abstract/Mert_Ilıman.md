@@ -1,0 +1,1 @@
+_' Mert Ilıman_' (born 8 January 1996 in Gaziosmanpaşa, Turkey) is a Turkish football player who plays as left-back for Yeni Çorumspor. He can also play as a midfielder, or winger.[1] He is a product of the Bursaspor youth academy.

@@ -1,0 +1,1 @@
+The 2009 TAÇA DE ANGOLA was the 28th edition of the Taça de Angola, the second most important and the top knock-out football club competition in Angola, following the Girabola. Primeiro de Agosto beat Sagrada Esperança 2–1 in the final, to secure its 3rd title.[1]

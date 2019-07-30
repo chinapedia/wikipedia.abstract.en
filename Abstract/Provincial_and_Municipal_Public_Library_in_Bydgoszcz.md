@@ -1,0 +1,1 @@
+Bydgoszcz PROVINCIAL AND CITY PUBLIC LIBRARY-"Dr. Witold Bełza" is housed in historical buildings located between the Stary Rynek (_Old Market square_) and Długa street. It is the oldest (1903) library in activity in the Kuyavian-Pomeranian Voivodeship, registered on the KUYAVIAN-POMERANIAN VOIVODESHIP HERITAGE LIST. Since 2002, it bears the name of Witold Bełza.

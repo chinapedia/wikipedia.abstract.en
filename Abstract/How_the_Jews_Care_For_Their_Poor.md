@@ -1,0 +1,1 @@
+HowTheJewsCareForTheirPoor-1913.jpg

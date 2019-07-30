@@ -1,0 +1,1 @@
+TANYA GAIL GILMORE (_née_, GODSEY is an American Christian musician and pianist, who primarily plays a style of contemporary worship music. She has released three musical works, _Nothing Less Than Everything_ (2005, 2009), _Telling Time_ (2011) and _Love Lines the Last Horizon_ (2016).

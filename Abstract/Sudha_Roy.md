@@ -1,0 +1,1 @@
+SUDHA ROY (1914–1987) was an Indian communist trade unionist and politician. She was a prominent leader of the Bengal Labour Party, the Bolshevik Party of India and later joined the Communist Party of India.[1] She was one of the most prominent female leaders of the Bengali left.[2]

@@ -1,0 +1,1 @@
+leathertools.jpg LEATHER is a durable and flexible material created by tanning animal rawhides and skins. The most common raw material is cattle hide. It can be produced at manufacturing scales ranging from artisan to modern industrial scale.

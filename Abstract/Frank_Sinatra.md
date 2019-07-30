@@ -1,0 +1,1 @@
+FRANCIS ALBERT SINATRA (; December 12, 1915 – May 14, 1998) was an American singer, actor and producer who was one of the most popular and influential musical artists of the 20th century. He is one of the best-selling music artists of all time, having sold more than 150million records worldwide.[1]

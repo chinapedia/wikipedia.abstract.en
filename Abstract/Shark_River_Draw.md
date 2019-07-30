@@ -1,0 +1,1 @@
+SHARK RIVER DRAW is a moveable bridge over the Shark River Inlet, an inlet at the mouth of the Shark River in the towns of Belmar and Avon-by-the-Sea Monmouth County, New Jersey United States just west of the Atlantic Ocean.[1]

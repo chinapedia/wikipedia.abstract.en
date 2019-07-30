@@ -1,0 +1,1 @@
+FRANCINE HÉRAIL is a French historian specializing in Japan. Former resident at the in Tokyo, she was professor at the Institut national des langues et civilisations orientales until 1981, then director of studies at the École pratique des hautes études (IVe section, chaire d'histoire et philologie japonaises) until 1998.

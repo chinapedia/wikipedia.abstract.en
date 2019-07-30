@@ -1,0 +1,1 @@
+AUGUSTO CÉSAR CARDOSO DE CARVALHO (31 March 1836 – 3 February 1905)[1] was a Portuguese colonial administrator and a general of the Portuguese Army. He was governor of Portuguese Timor from 1880 to 1881,[2] governor-general of Portuguese India from 16 December 1886 until 27 April 1889[3] and governor of Cape Verde from 12 June 1889 until 4 February 1890.[4]

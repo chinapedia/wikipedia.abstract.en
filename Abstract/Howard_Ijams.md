@@ -1,0 +1,1 @@
+HOWARD AIKEN IJAMS (April 10, 1873 – March 7, 1923)[1] was a physician.[2][3] He was the first quarterback in the history of the Tennessee Volunteers football team.[4][5] He played on the team from the 1891 season to the 1893 season.

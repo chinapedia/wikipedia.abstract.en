@@ -1,0 +1,1 @@
+_RUPETTA_ (2013) is a science fiction novel by Australian writer Nike Sulway, who has previously published work under the pseudonym Nicole Bourke.[1] The novel won the 2013 James Tiptree, Jr. Award.[2]

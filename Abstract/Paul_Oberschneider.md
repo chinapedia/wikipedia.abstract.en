@@ -1,0 +1,1 @@
+PAUL OBERSCHNEIDER (born 16 August 1958) is an American-Estonian businessman,[1][2] investor, and property developer.[3][4][5] He is best known for founding real estate companies including :lt:Ober-Haus Real Estate[6] and Hauser-Oberschneider.[7][8][9]

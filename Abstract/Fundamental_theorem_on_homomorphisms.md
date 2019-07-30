@@ -1,0 +1,1 @@
+In abstract algebra, the FUNDAMENTAL THEOREM ON HOMOMORPHISMS, also known as the FUNDAMENTAL HOMOMORPHISM THEOREM, relates the structure of two objects between which a homomorphism is given, and of the kernel and image of the homomorphism.

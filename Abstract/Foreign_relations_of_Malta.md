@@ -1,0 +1,1 @@
+After independence in 1964 Malta followed a policy of close co-operation with NATO countries. Since 1971 the country sought relations with the rest of the World, including communist countries in Eastern Europe and the non-Aligned countries.

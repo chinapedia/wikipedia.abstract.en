@@ -1,0 +1,1 @@
+THAKIN BA HEIN (June 1917 – 20 November 1946)[1] was one of the founding member of the Communist Party of Burma, formed in 1939.[2][3][4] He was considered the father of "true communism" in Burma by the Communist Party of Burma (CPB).[5]

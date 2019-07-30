@@ -1,0 +1,1 @@
+Donald_Trump_star_Hollywood_Walk_of_Fame.JPG|alt=Trump's star]] Before being elected President of the United States, Donald Trump had produced and hosted reality TV shows _The Apprentice_ and _The Celebrity Apprentice_ from 2004 to 2015. He also made dozens of cameo appearances in films, television series, and advertisements since the 1980s.

@@ -1,0 +1,1 @@
+INDIANOLA JUNIOR HIGH SCHOOL is a historic school building located on 19th Avenue in Columbus, Ohio. It opened in 1929 after the school moved out of a previous building on 16th Avenue.[1] It was added to the National Register of Historic Places in 2010.[2]

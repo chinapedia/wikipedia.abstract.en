@@ -1,0 +1,1 @@
+_WHAT WE STARTED_ is an American documentary film that premiered on June 15, 2017, at the Los Angeles Film Festival.[1][2][3][4][5] The film is directed by Bert Marcus and Cyrus Saidi and produced by Bert Marcus, Cassandra Hamar, Cyrus Saidi and Bert Marcus Productions.[6][7][8]

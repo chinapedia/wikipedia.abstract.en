@@ -1,0 +1,1 @@
+SIR RICHARD WALSH was an English politician who served as High Sheriff of Worcestershire and is noted for his role in defeating Robert Catesby's remaining followers at Holbeche House following the failure of the Gunpowder Plot. He came from Shelsley Walsh.[1]

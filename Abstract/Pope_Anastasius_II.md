@@ -1,0 +1,1 @@
+POPE ANASTASIUS II (died 19 November 498) was Pope from 24 November 496 to his death in 498.[1] He was an important figure in trying to end the Acacian schism, but his efforts resulted in the Laurentian schism, which followed his death. Anastasius was born in Rome, the son of a priest,[2] and is buried in St. Peter's Basilica.[3]

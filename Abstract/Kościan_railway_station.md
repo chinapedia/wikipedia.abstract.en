@@ -1,0 +1,1 @@
+KOŚCIAN RAILWAY STATION is a railway station serving the town of Kościan, in the Greater Poland Voivodeship, Poland. The station opened in 1856 and is located on the Wrocław–Poznań railway. The train services are operated by PKP and Przewozy Regionalne.

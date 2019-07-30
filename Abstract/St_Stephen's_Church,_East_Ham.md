@@ -1,0 +1,1 @@
+ST STEPHEN'S CHURCH, EAST HAM, was a church on Green Street in East Ham, east London.[1] Its nave and aisles were completed in 1887 and its chancel, north chapel, south chancel aisle, vestries and choir in 1894. It founded three mission churches - St Alban's Church, St Michael's Church, Rutland Road and St Cuthbert's Church, Florence Road.

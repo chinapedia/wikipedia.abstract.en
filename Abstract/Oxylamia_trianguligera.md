@@ -1,0 +1,1 @@
+_OXYLAMIA TRIANGULIGERA_ is a species of beetle in the family Cerambycidae. It was described by Per Olof Christopher Aurivillius in 1917. It is known from Gabon, the Republic of the Congo, Cameroon, and the Democratic Republic of the Congo.[1]

@@ -1,0 +1,1 @@
+"A TALE OF THREE CITIES" is the season premiere of the eighth season of the American sitcom _Modern Family_. It aired on September 21, 2016 on American Broadcasting Company (ABC). The premiere is directed by Chris Koch and written by Elaine Ko.

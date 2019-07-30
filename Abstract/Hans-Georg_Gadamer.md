@@ -1,0 +1,1 @@
+HANS-GEORG GADAMER (; ; February 11, 1900 – March 13, 2002) was a German philosopher of the continental tradition, best known for his 1960 _magnum opus_ _Truth and Method_ (_Wahrheit und Methode_) on hermeneutics. He was a Protestant Christian.[1]

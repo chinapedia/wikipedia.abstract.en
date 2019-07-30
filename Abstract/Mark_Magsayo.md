@@ -1,0 +1,1 @@
+JESSEL MARK ARAULA MAGSAYO (born May 25, 1995) is a Filipino professional boxer he has previously held the IBF Youth Featherweight title and the current WBO International Featherweight Champion. Magsayo is considered a future Filipino boxing superstar by ALA boxing promotions and some Filipino boxing analysts due to his speed and aggressive style of fighting.[1]

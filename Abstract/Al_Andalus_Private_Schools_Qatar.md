@@ -1,0 +1,1 @@
+AL ANDALUS PRIVATE SCHOOLS QATAR is a group of private schools in Qatar comprising three schools encompassing all three levels of education: elementary, primary, and secondary. Its three schools include Al Andalus Elementary Private School for Boys, Al Andalus Preparatory Secondary Private School for Boys, and Al Andalus Private Girls School.[1][2][3][4]

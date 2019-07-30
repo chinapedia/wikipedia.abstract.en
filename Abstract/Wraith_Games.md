@@ -1,0 +1,1 @@
+WRAITH GAMES, originally known as MIND'S EYE GAMES,[1] is a video game developer based in Hamilton, Ohio. Founded in March 2005 by Jay Kidd, the company is known for creating the puzzle game _Collapsus_.

@@ -1,0 +1,1 @@
+POTASSIUM THIOACETATE is an organosulfur compound and a salt with the formula CH₃COS^(−)K⁺. This white, water-soluble solid is used as a reagent for preparing thioacetate esters and other derivatives.[1]

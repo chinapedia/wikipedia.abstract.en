@@ -1,0 +1,1 @@
+THOMAS "TOMMY" NISBET (March 31, 1916 – April 7, 1963) was an American professional basketball player.[1][2] He played in the National Basketball League for the Hammond Ciesar All-Americans and Oshkosh All-Stars. While playing for Oshkosh he won two league championships, in 1940–41 and 1941–42. For his NBL career, Nisbet averaged 3.1 points per game.[3]

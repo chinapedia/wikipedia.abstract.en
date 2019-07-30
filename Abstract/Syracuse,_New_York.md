@@ -1,0 +1,1 @@
+SYRACUSE ()[1][2][3] is a city in and the county seat of Onondaga County, New York, United States. It is the fifth-most populous city in the state of New York following New York City, Buffalo, Rochester, and Yonkers.

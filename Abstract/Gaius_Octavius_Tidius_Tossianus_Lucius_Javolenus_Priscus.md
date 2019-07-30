@@ -1,0 +1,1 @@
+GAIUS OCTAVIUS TIDIUS TOSSIANUS LUCIUS JAVOLENUS PRISCUS was a Roman senator and jurist who flourished during the Flavian dynasty. Many of his judgments are quoted in the _Digest_. Priscus served as suffect consul for the _nundinium_ (period) September–December 86AD as the colleague of Aulus Bucius Lappius Maximus.[1]

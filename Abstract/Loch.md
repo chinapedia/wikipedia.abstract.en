@@ -1,0 +1,1 @@
+Ben_Lomond_Scotland.jpg, towards Ben Lomond]] LOCH () is the Irish, Scottish Gaelic and Scots word for a lake or for a sea inlet. It is cognate with the Manx LOUGH, Cornish LOGH, and one of the Welsh words for lake, LLWCH.

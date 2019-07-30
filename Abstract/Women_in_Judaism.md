@@ -1,0 +1,1 @@
+The role of WOMEN IN JUDAISM is determined by the Hebrew Bible, the Oral Law (the corpus of rabbinic literature), by custom, and by cultural factors. Although the Hebrew Bible and rabbinic literature mention various female role models, religious law treats women differently in various circumstances.

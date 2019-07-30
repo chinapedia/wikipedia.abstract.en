@@ -1,0 +1,1 @@
+CATHERINE J MARKS is a record producer, mixing engineer and audio engineer.[1] She has worked with such artists as Foals, Manchester Orchestra, The Killers, Local Natives, Wolf Alice, Beware of Darkness, The Big Moon, Frank Carter & The Rattlesnakes, The Amazons, Arno, Howling Bells, Sunset Sons and Eliza Shaddad.[2][3][4][5]

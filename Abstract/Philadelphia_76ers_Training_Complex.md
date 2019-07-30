@@ -1,0 +1,1 @@
+The PHILADELPHIA 76ERS TRAINING COMPLEX AND CORPORATE OFFICES is a 125,000-square-foot Training Complex and office building, which is the largest in the NBA. The Complex houses the team training center and corporate offices. It was opened in September 2016.[1]

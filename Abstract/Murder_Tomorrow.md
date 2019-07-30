@@ -1,0 +1,1 @@
+_MURDER TOMORROW_ is a 1938 British crime film directed by Donovan Pedelty and starring Gwenllian Gill, Jack Livesey and Molly Hamley-Clifford. It was made at Cricklewood Studios as a quota quickie for release by Paramount Pictures.[1]

@@ -1,0 +1,1 @@
+The NORTH ALABAMA–WEST ALABAMA FOOTBALL RIVALRY is a college football rivalry game between two public universities in the U.S. state of Alabama, the University of North Alabama Lions and the University of West Alabama Tigers. The current winner is West Alabama, who won 38–17, on September 23, 2017.[1] North Alabama leads the all-time series, 52–18–1.[2][3][4]

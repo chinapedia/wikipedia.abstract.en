@@ -1,0 +1,1 @@
+Rev. DONALD COZZENS (May 17, 1939) is an American Roman Catholic priest, author and lecturer. He is a former president-rector and professor of pastoral theology at Saint Mary Seminary and Graduate School of Theology in Wickliffe, Ohio.

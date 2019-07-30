@@ -1,0 +1,1 @@
+CAMERON CORNER SURVEY MARKER is a heritage-listed survey marker in the locality of Cameron Corner, Shire of Bulloo, Queensland, Australia. The survey marker is at the border corner of South-West Queensland with New South Wales and South Australia; it was established in 1880. It was added to the Queensland Heritage Register on 9 November 2012.[1]

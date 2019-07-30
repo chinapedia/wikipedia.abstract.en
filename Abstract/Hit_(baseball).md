@@ -1,0 +1,1 @@
+Pete_Rose_2008.jpg is the all-time leader in Major League Baseball hits, recording 4,256.]] Ichiro_Suzuki_on_June_18,_2015.jpg has recorded the most career hits across top tier professional leagues, combining his current Major League hits with his previous 1,278 hits in Nippon Professional Baseball.]]

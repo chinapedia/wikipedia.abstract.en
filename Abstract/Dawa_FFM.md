@@ -1,0 +1,1 @@
+DAWA FFM was an Islamist Salafi organisation based in Frankfurt, Germany that was founded in 2008. The most prominent preacher of the group was Abdellatif Rouali, who was under investigation by German authorities for recruitment of jihadists.[1]

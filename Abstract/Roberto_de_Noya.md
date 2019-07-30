@@ -1,0 +1,1 @@
+ROBERTO DE NOYA, O.P. or ROBERTO DE NOJA (died 1515) was a Roman Catholic prelate who served as Archbishop of Naxos (1504–1515),[1] Bishop of Acerra (1497–1504),[2][3] and Bishop of Minervino Murge (1492–1497).[4]

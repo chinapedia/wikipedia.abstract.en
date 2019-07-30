@@ -1,0 +1,1 @@
+TARRAGON (_Artemisia dracunculus_), also known as ESTRAGON, is a species of perennial herb in the sunflower family. It is widespread in the wild across much of Eurasia and North America, and is cultivated for culinary and medicinal purposes.[1][2][3][4]

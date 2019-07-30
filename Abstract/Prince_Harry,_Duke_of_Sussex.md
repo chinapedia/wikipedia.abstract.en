@@ -1,0 +1,1 @@
+|spouse = |issue = Archie Mountbatten-Windsor |house = Windsor |father = Charles, Prince of Wales |mother = Lady Diana Spencer |signature = File:Prince Harry's signature.png |module = Operation Herrick

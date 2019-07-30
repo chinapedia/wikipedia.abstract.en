@@ -1,0 +1,1 @@
+The MEGA DRUG ABUSE TREATMENT AND REHABILITATION CENTER (MEGA DATRC),[1] also known as the MEGA DRUG TREATMENT AND REHABILITATION CENTER, is a drug rehabilitation center at Fort Magsaysay in Nueva Ecija, Philippines.[2]

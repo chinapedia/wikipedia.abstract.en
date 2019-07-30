@@ -1,0 +1,1 @@
+FRANCIS GARY POWERS (August 17, 1929 – August 1, 1977) was an American pilot whose Central Intelligence Agency (CIA)[1] U-2 spy plane was shot down while flying a reconnaissance mission in Soviet Union airspace, causing the 1960 U-2 incident.

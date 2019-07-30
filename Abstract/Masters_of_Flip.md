@@ -1,0 +1,1 @@
+_MASTERS OF FLIP_ is a Canadian home renovation reality television series, which premiered in 2015 on W.[1] The series centres on Dave and Kortney Wilson, a married Canadian couple who moved to Nashville, Tennessee to pursue careers in country music and then turned to renovating and flipping houses after their musical careers faltered.[2]

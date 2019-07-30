@@ -1,0 +1,1 @@
+Terme_Segestane_02.jpg The SEGESTAN THERMAL BATHS (also called _Polle del Crimiso_)[1] are hydrothermal springs located in Sicily, between Alcamo and Castellammare del Golfo, in the province of Trapani.

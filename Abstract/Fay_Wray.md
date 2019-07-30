@@ -1,0 +1,1 @@
+VINA FAY WRAY (September 15, 1907 – August 8, 2004) was a Canadian-American actress most noted for starring as Ann Darrow in the 1933 film _King Kong_. Through an acting career that spanned nearly six decades, Wray attained international recognition as an actress in horror films. She has been dubbed one of the first "scream queens".

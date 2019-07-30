@@ -1,0 +1,1 @@
+'' THIS TIME IT'S PERSONAL'' is a cover album by the English performance poet Dr. John Cooper Clarke, and the former vocalist of The Stranglers, Hugh Cornwell. It was released on 14 October 2016 It was Clarke's first album release since 1982's _Zip Style Method_.

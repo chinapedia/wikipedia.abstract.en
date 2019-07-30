@@ -1,0 +1,1 @@
+Fleet_5_nations.jpg, , helicopter carrier —and escort vessels, 2002]] Principe-de-Asturias_Wasp_Forrestal_Invincible_1991_DN-ST-92-01129s.jpg carrier _Príncipe de Asturias_, amphibious assault ship , fleet carrier , and light V/STOL carrier , showing size differences of late 20th century carriers, 1991]]

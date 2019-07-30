@@ -1,0 +1,1 @@
+_MEAN STREETS_ is a 1973 American crime film directed by Martin Scorsese and co-written by Scorsese and Mardik Martin. The film stars Harvey Keitel and Robert De Niro. It was released by Warner Bros. on October 2, 1973. De Niro won the National Society of Film Critics award for Best Supporting Actor for his role as "Johnny Boy" Civello.

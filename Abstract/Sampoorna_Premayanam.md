@@ -1,0 +1,1 @@
+_SAMPOORNA PREMAYANAM_ (English: FULL FIEDGED LOVE STORY) is a 1983 Telugu comedy film, produced by Midde Rama Rao under the Sri Rajyalakshmi Art Pictures banner and directed by N. B. Chakravarthy.[1] It stars Sobhan Babu and Jaya Prada in the lead roles, with music composed by Chakravarthy.[2][3]

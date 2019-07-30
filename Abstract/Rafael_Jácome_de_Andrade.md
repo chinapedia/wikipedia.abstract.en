@@ -1,0 +1,1 @@
+RAFAEL JÁCOME LOPES DE ANDRADE[1] (Lisbon, 1 October 1851 — Sintra, 25 July 1900) was a Portuguese military figure and politician. He was also a former Governor or Governor-General of Portuguese Timor, Portuguese Mozambique and Portuguese India.

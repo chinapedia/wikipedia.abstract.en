@@ -1,0 +1,1 @@
+This article discusses the demographic features of the population of Paraguay, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.faces

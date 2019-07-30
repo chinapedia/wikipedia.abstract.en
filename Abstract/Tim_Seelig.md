@@ -1,0 +1,1 @@
+TIM SEELIG is an American conductor, singer, and educator. He is the Artistic Director of the San Francisco Gay Men's Chorus. In addition, he guest-conducts and presents workshops in the US and around the world.[1]

@@ -1,0 +1,1 @@
+PEARL is an unincorporated community in northwest Greene County, in the U.S. state of Missouri.[1] Pearl is located on Missouri Route 123, four miles northwest of Willard. Cave Spring lies approximately one mile to the east.[2]

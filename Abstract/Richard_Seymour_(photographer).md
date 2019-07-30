@@ -1,0 +1,1 @@
+Richard_Seymour_Photographer,_portrait.jpg

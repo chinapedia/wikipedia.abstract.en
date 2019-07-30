@@ -1,0 +1,1 @@
+ERNIE LINDSEY is an American novelist whose novel _Sara's Game_ (2012) became a _USA Today_ and Amazon Kindle bestseller.[1][2] He also writes paranormal suspense novels under the pen name Desmond Doane.

@@ -1,0 +1,1 @@
+_THE 100 YEARS SHOW_ is a 2015 short documentary film that follows the Cuban-American abstract, minimalist painter Carmen Herrera as she celebrates her 100th birthday.[1] The film is directed by Alison Klayman,[2] who also directed _Ai Weiwei: Never Sorry_.[3]

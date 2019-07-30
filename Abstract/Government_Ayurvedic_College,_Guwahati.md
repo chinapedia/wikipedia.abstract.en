@@ -1,0 +1,1 @@
+GOVERNMENT AYURVEDIC COLLEGE is the first and only institute of Ayurveda in the entire North East India. It was established in the year 1948. The college is situated at Jalukbari, Assam. The College was previously affiliated by Gauhati University. Now the college have been brought under Srimanta Sankaradeva University of Health Sciences from 2010.

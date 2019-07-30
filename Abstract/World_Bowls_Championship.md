@@ -1,0 +1,1 @@
+The WORLD BOWLS CHAMPIONSHIP is the premier world bowls competition between national bowls organisations. The premier indoor event is the World Indoor Bowls Championships listed separately and is organised by the World Bowls Tour.[1]

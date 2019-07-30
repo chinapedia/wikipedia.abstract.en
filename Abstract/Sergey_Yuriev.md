@@ -1,0 +1,1 @@
+SERGEY ANDREYEVICH YURIEV (, 25 May 1821, village Voskresenskoye, Tver Governorate, Russian Empire, — 7 January 1889, Moscow, Russian Empire) was a Russian journalist, editor, publisher, translator, theatre critic and essayist, associated with the Slavophile circles.

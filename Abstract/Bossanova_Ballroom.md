@@ -1,0 +1,1 @@
+BOSSANOVA BALLROOM is an event space and former theater building located at 722 East Burnside Street in Portland, Oregon's Buckman neighborhood, in the United States.[1] It features a dance floor, two stages and bars, and a game room.[2] The venue has hosted comedy shows,[3][4] and the queer event Blow Pony since 2016.[5]

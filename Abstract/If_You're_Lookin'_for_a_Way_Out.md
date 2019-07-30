@@ -1,0 +1,1 @@
+"IF YOU'RE LOOKIN' FOR A WAY OUT" is a 1980 song by group Odyssey from their album _Hang Together_. It was the second consecutive UK top 10 single in a row for the band, both gaining a silver certification in the UK. It featured Lillian Lopez on lead vocals and spent a total of fifteen weeks on the chart.

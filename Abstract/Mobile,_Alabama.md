@@ -1,0 +1,1 @@
+MOBILE ( ; ) is the county seat of Mobile County, Alabama, United States. The population within the city limits was 195,111 as of the 2010 United States Census,[1] making it the third most populous city in Alabama, the most populous in Mobile County, and the largest municipality on the Gulf Coast between New Orleans, Louisiana, and St. Petersburg, Florida.

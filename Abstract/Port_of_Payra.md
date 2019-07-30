@@ -1,0 +1,1 @@
+The PORT OF PAYRA is a small seaport in southern Bangladesh. It was established by an Act of Parliament in 2013. The port was officially inaugurated in 2016. It is located on the Ramnabad Channel near the Bay of Bengal.[1]

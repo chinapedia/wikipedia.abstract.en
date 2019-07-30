@@ -1,0 +1,1 @@
+The 2016 ATLANTIC 10 MEN'S SOCCER TOURNAMENT, known as the 2016 ATLANTIC 10 MEN'S SOCCER TOURNAMENT PRESENTED BY AMTRAK for sponsorship reasons, was the nineteenth edition of the tournament. It determined the Atlantic 10 Conference's automatic berth into the 2016 NCAA Division I Men's Soccer Championship. Dayton enter the tournament as the defending champions.

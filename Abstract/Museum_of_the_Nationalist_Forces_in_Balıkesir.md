@@ -1,0 +1,1 @@
+MUSEUM OF THE NATIONALIST FORCES IN BALIKESIR () is a museum in Balıkesir, Turkey, dedicated to the irregular Kuva-yi Milliye (Nationalist Forces) formed as part of the Turkish National Movement during the Turkish War of Independence (1919–1923).

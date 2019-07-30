@@ -1,0 +1,1 @@
+KENNETH MICHAEL HALL (born April 10, 1990) is an American professional basketball player for Al Ahli of the Qatari League. He played college basketball at University of Tennessee with the Tennessee Volunteers from 2009 until 2013. Hall entered the 2013 NBA draft but was not selected in the draft's two rounds.

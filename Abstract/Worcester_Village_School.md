@@ -1,0 +1,1 @@
+The WORCESTER VILLAGE SCHOOL is a historic school building at 17 Calais Road in Worcester, Vermont. It was built in 1892, and is a good early example of a town-wide partially graded school with restrained Queen Anne features. It served as a school until 1979, and is now owned by the local historical society. It was listed on the National Register of Historic Places in 2005.[1]

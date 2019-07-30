@@ -1,0 +1,1 @@
+SHAHID SAYYAD SHIRAZI METRO STATION, also referred to as SAYYAD is a station in line 3 of the Tehran Metro. It is located at an exit from Sayyad Expressway to Masil Bakhtar Avenue, in Tehran's district 7.[1]

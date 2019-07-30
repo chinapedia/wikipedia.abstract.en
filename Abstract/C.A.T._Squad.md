@@ -1,0 +1,1 @@
+_C.A.T. SQUAD_ (also titled _STALKING DANGER_) is a 1986 television film starring Joseph Cortese, Jack Youngblood, Steve James, Bradley Whitford, and Barry Corbin. It is directed by William Friedkin and written by Gerald Petievich, who had collaborated on _To Live and Die in L.A._ the previous year. The original score was composed by Ennio Morricone.

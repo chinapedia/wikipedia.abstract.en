@@ -1,0 +1,1 @@
+Hungary wields considerable influence in Central and Eastern Europe and is a middle power in international affairs.[1][2] The foreign policy of Hungary is based on four basic commitments: to Atlantic co-operation, to European integration, to international development and to international law. The Hungarian economy is fairly open and relies strongly on international trade.

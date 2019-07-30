@@ -1,0 +1,1 @@
+ABAKAN (; Khakas: or ) is the capital city of the Republic of Khakassia, Russia, located in the central part of Minusinsk Depression, at the confluence of the Yenisei and Abakan Rivers. As of the 2010 Census, it had a population of 165,214[1]—a slight increase over 165,197 recorded during the 2002 Census[2] and a further increase from 154,092 recorded during the 1989 Census.[3]

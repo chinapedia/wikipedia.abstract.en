@@ -1,0 +1,1 @@
+NARAYAN SINGH DEWAL (born 5 August 1964) is a Member of the Legislative Assembly (MLA) from Raniwara, in Rajasthan, India.[1] He is a member of the Bharatiya Janata Party and was elected as an MLA in 2013 as a candidate of that party, with a margin of 32,652 votes.[2][3]

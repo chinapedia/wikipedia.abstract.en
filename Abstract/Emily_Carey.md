@@ -1,0 +1,1 @@
+EMILY JOANNA CAREY[1] (born 30 April 2003[2]) is a British actress and model. She is perhaps best known for her role of Grace Beauchamp in BBC One's _Casualty_, which she played from 2014 to 2017.[3][4]

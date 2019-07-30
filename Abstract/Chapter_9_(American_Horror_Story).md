@@ -1,0 +1,1 @@
+"CHAPTER 9" is the ninth episode of the sixth season of the anthology television series _American Horror Story_. It aired on November 9, 2016, on the cable network FX. The episode was written by Tim Minear and directed by Alexis O. Korycinski.

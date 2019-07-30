@@ -1,0 +1,1 @@
+The TRIASSIC () is a geologic period and system which spans 50.6 million years from the end of the Permian Period 251.9 million years ago (Mya), to the beginning of the Jurassic Period Mya.[1] The Triassic is the first and shortest period of the Mesozoic Era. Both the start and end of the period are marked by major extinction events.[2]

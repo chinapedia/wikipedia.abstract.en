@@ -1,0 +1,1 @@
+The WOMEN'S INDIVIDUAL PURSUIT B track cycling event at the 2016 SUMMER PARALYMPICS took place on September 11. This class is for blind and visually impaired cyclists riding with a sighted pilot. Fourteen pairs from 10 different nations compete.[1]

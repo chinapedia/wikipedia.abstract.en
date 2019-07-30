@@ -1,0 +1,1 @@
+AKODARA is a village in Sabarkantha district of Gujarat State, India. It is located away from Himmatnagar, from district headquarter Sabarkantha and from state capital Gandhinagar. The village is administrated by Sarpanch.

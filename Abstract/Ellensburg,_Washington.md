@@ -1,0 +1,1 @@
+ELLENSBURG is a city in and county seat of Kittitas County, Washington, United States. The population was 20,977 in a 2018 census estimate. Located just east of the Cascade Range on Interstate 90, Ellensburg is the most centrally located city in the state, and is the home of Central Washington University (CWU).

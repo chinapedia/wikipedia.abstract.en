@@ -1,0 +1,1 @@
+HAMILTON CITY SOCCER CLUB is a Canadian soccer team founded in 2016. The team is a member of the Canadian Soccer League, and play their home games at Cardinal Newman Secondary School multi-sport athletic field in the community of Stoney Creek, Hamilton.

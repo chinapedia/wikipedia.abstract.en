@@ -1,0 +1,1 @@
+This article is about the list of SPORT LUANDA E BENFICA players. Benfica de Luanda is an Angolan football (soccer) club based in Luanda, Angola and plays at Estádio 11 de Novembro. The club was established in 1922.

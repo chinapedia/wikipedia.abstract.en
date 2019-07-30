@@ -1,0 +1,1 @@
+{{Infobox country | conventional_long_name = Federal Republic of Germany | common_name = Germany | native_name = | image_flag = Flag of Germany.svg | image_coat = Coat of arms of Germany.svg | national_motto =

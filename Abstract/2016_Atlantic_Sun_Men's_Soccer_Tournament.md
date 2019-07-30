@@ -1,0 +1,1 @@
+The 2016 ATLANTIC SUN CONFERENCE MEN'S SOCCER TOURNAMENT is the 38th edition of the tournament. It determines the Atlantic Sun Conference's automatic berth into the 2016 NCAA Division I Men's Soccer Championship..[1]

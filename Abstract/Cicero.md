@@ -1,0 +1,1 @@
+MARCUS TULLIUS CICERO (; ; 106 BC – 7 December 43 BC)[1] was a Roman statesman, orator, lawyer and philosopher, who served as consul in the year 63 BC. He came from a wealthy municipal family of the Roman equestrian order, and is considered one of Rome's greatest orators and prose stylists.[2][3]

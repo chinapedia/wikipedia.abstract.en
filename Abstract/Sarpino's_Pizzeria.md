@@ -1,0 +1,1 @@
+SARPINO'S PIZZERIA is a fast food restaurant chain specializing in pizza, with international operations headquartered in Singapore and U.S. operations headquartered in the Chicago suburb of Lincolnshire, Illinois.

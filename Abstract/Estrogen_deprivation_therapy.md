@@ -1,0 +1,1 @@
+ESTROGEN DEPRIVATION THERAPY, also known as ENDOCRINE THERAPY, is a form of hormone therapy that is used in the treatment of breast cancer. Modalities include antiestrogens or estrogen blockers such as selective estrogen receptor modulators (SERMs) like tamoxifen, selective estrogen receptor degraders like fulvestrant, and aromatase inhibitors like anastrozole and ovariectomy.

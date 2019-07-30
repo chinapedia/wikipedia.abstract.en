@@ -1,0 +1,1 @@
+ALBERT LAVADA DURST (January 12, 1913 – October 31, 1995),[1] known as DR. HEPCAT, was an American blues pianist, singer, and baseball commentator who became the first black radio DJ in Texas, influential in the spread of rhythm and blues and rock and roll music.

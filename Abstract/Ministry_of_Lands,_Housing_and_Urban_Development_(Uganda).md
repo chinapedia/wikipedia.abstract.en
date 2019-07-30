@@ -1,0 +1,1 @@
+The MINISTRY OF LANDS, HOUSING AND URBAN DEVELOPMENT (MLHUD), is a cabinet-level government ministry of Uganda. It is responsible for "policy direction, national standards and coordination of all matters concerning lands, housing and urban development".[1] The ministry is headed by a cabinet minister, currently Betty Amongi.[2]

@@ -1,0 +1,1 @@
+JOSEPH LABATE (born April 16, 1993) is an American professional ice hockey player who is currently playing for the Belleville Senators of the American Hockey League (AHL).[1] He was selected 101st overall by the Vancouver Canucks in the 2011 NHL Entry Draft.

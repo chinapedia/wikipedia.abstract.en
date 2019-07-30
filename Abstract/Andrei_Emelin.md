@@ -1,0 +1,1 @@
+ANDREI EMELIN (Russian: АНДРЕЙ ЕМЕЛИН, born August 4, 1967) of Russia serves as the Chief Executive of Russian Association of Scouts/Navigators,[1] Chairman of the Central Executive Committee of the All-Russian Scout Association[2] and an elected volunteer member of the Eurasia Regional Scout Committee of the World Organization of the Scout Movement (WOSM).[3][4]

@@ -1,0 +1,1 @@
+CANNABIS IN ILLINOIS is legal for medicinal use and will become legal for recreational usage on January 1, 2020. As of July 2019, nearly 79,000 qualifying patients participate in the state's medical cannabis and opioid alternative programs.[1][2] Since legalization in November 2015, retail sales in Illinois have reached nearly $364 million at 55 dispensaries across the state.

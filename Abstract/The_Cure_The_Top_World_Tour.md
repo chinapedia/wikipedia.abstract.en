@@ -1,0 +1,1 @@
+In April 1984, The Cure embark on the Top World Tour following the success of The Caterpillar. Smith, Tolhurst and Anderson bring Phil Thornalley and Porl Thompson on board during the tour. In January to February 1984, The Cure featuring Norman Fisher-Jones (bassist) performed at two venues (Munich & Zurich) prior to the release of the album or single.

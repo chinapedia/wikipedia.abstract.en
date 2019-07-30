@@ -1,0 +1,1 @@
+SHANIA TWAIN, OC (; born EILLEEN REGINA EDWARDS; August 28, 1965) is a Canadian singer, songwriter and actress. She has sold over 100 million records, making her the best-selling female artist in country music history and among the best-selling music artists of all time.[1][2][3] Her success garnered her several honorific titles including the "Queen of Country Pop".[4][5]

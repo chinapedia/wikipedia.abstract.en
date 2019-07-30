@@ -1,0 +1,1 @@
+KASHAN RAILWAY STATION (_Persian:_ايستگاه راه آهن کاشان, _Istgah-e Rah Ahan-e Kashan_) is located in Kashan, Isfahan Province. The station is owned by IRI Railway. The station is also home to a turnaround wye.

@@ -1,0 +1,1 @@
+"NESSUNO" (literally "Nobody") is a 1959 Italian song composed by Antonietta De Simone and Edilio Capotosti. The song premiered at the ninth edition of the Sanremo Music Festival, with a double performance by Wilma De Angelis and Betty Curtis, and placed at the eighth place.[1][2]

@@ -1,0 +1,1 @@
+_DOMESTIC TROUBLES_ is a lost 1928 American comedy film directed by Ray Enright and starring Clyde Cook, Louise Fazenda and Betty Blythe.[1] It was produced and released by Warner Brothers with a Vitaphone musical track.[2][3]

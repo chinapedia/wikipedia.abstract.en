@@ -1,0 +1,1 @@
+BANGPLUB DON ARMY FOOTBALL CLUB (Thai สโมสรฟุตบอลบางพลับ ดอนทหารบก), is a Thai football club based in Nonthaburi, Thailand. The club is currently playing in the 2017 Thailand Amateur League Bangkok Metropolitan Region.

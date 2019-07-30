@@ -1,0 +1,1 @@
+MERGERS AND ACQUISITIONS (M&A) are transactions in which the ownership of companies, other business organizations, or their operating units are transferred or consolidated with other entities. As an aspect of strategic management, M&A can allow enterprises to grow or downsize, and change the nature of their business or competitive position.

@@ -1,0 +1,1 @@
+Johann_Baptist_Reiter,_Selbstbildnis.jpg Johann_Baptist_Reiter_Blumengruß_am_Morgen.jpg JOHANN BAPTIST REITER (28 May 1813, Linz - 10 January 1890, Vienna) was an Austrian portrait and genre painter of the Biedermeier period.

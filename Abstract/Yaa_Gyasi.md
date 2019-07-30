@@ -1,0 +1,1 @@
+YAA GYASI (born 1989) is a Ghanaian-American novelist. Her debut novel, _Homegoing_, published in 2016, won her, at the age of 26, the National Book Critics Circle's John Leonard Award for best first book, the PEN/Hemingway Award for a first book of fiction, the National Book Foundation's "5 under 35" honors for 2016 and the American Book Award.

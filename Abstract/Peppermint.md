@@ -1,0 +1,1 @@
+PEPPERMINT (_MENTHA_ × _PIPERITA_, also known as _Mentha balsamea_ Wild.)[1] is a hybrid mint, a cross between watermint and spearmint.[2] Indigenous to Europe and the Middle East,[3] the plant is now widely spread and cultivated in many regions of the world.[4] It is occasionally found in the wild with its parent species.[5][6]

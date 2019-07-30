@@ -1,0 +1,1 @@
+AEDAN STANLEY (born December 13, 1999) is an American soccer player who currently plays college soccer for Duke Blue Devils, and as a youth United States international with the United States U18 Team.

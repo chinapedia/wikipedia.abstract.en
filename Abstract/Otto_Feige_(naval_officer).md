@@ -1,0 +1,1 @@
+OTTO FEIGE (21 September 1882 in Nysa - 2 January 1951 in Kaufbeuren) was an Admiral of the German _Kriegsmarine_ (War Navy) during World War II. He had initially served in the _Kaiserliche Marine_ (Imperial Navy) of the German Empire. He was born in Neisse in Silesia on 21 September 1882.

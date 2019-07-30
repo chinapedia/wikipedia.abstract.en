@@ -1,0 +1,1 @@
+_THE ABYSS SURROUNDS US_ is a 2016 young adult science fiction novel by Emily Skrutskie. The book features giant sea monsters, pirates, and rising ocean levels. Its plot centers on themes of loyalty, individual choice, and lesbian romance. It is the first in a planned duology.

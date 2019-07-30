@@ -1,0 +1,1 @@
+The ARIA Albums Chart ranks the best-performing albums and extended plays (EPs) in Australia. Its data, published by the Australian Recording Industry Association, is based collectively on the weekly digital sales of albums and EPs.[1]

@@ -1,0 +1,1 @@
+The WOMEN'S QUADRUPLE SCULLS competition at the 1976 Summer Olympics took place at took place at Notre Dame Island Olympic Basin, Canada.[1] It was the first time the event was contested for women.[2]

@@ -1,0 +1,1 @@
+ISLAMIC NATIONS PARTY or PARTY OF ISLAMIC NATIONS () was an Islamic leftist armed group with clandestine system[1] short-lived during 1960s. It was initially a secret society active against Pahlavi dynasty in late 1950s.[2] It consisted of middle-class youth, mostly highschool teachers and university students.[3]

@@ -1,0 +1,1 @@
+MINERVA FABIENNE HASE (born 10 June 1999) is a German pair skater. With her skating partner, Nolan Seegert, she has won eleven international medals, including bronze at two ISU Challenger Series events, and competed at four ISU Championships.

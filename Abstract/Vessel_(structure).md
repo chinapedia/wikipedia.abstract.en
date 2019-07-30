@@ -1,0 +1,1 @@
+_VESSEL_ (TKA) is a structure and landmark which was built as part of the Hudson Yards Redevelopment Project in Manhattan, New York City, New York. Construction began in April 2017; it opened on March 15, 2019.

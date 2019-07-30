@@ -1,0 +1,1 @@
+_IL FANCIULLO DEL WEST_ (English: _THE BOY OF THE WEST_ ) is a 1943 Italian comedy film directed by Giorgio Ferroni and starring Erminio Macario. It is named after Puccini's opera _La fanciulla del West_ (_The Girl of the West_ ) and is considered the first western parody in Italian cinema[1] and the precursor of the spaghetti western genre.[2][3]

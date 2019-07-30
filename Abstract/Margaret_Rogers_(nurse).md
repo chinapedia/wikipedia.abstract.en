@@ -1,0 +1,1 @@
+MARGARET ROGERS (11 December 1887 – 23 October 1915) was a New Zealand nurse who served in the First World War and died when the SS _Marquette_ was torpedoed and sunk in 1915.[1] Nurse_Margaret_Rogers,_1915.jpg

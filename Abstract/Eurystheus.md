@@ -1,0 +1,1 @@
+Daniel_Sarrabat_-_Hercule_apporte_à_Eurysthée_la_ceinture_de_la_reine_des_Amazones.jpg]]

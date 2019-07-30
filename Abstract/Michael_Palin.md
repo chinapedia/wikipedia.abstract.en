@@ -1,0 +1,1 @@
+SIR MICHAEL EDWARD PALIN, (; born 5 May 1943),[1] is an English comedian, actor, writer and television presenter. He was a member of the comedy group Monty Python. Since 1980 he has made a number of travel documentaries.[2]

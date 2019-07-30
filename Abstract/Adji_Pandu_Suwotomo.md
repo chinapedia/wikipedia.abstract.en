@@ -1,0 +1,1 @@
+ADJI PANDU SUWOTOMO or MARET PAMUNGKAS (Born in Kutajaya, Purbalingga[1] - Died on ), better known as SOBRON, was an Indonesian Islamic militant, and also member of the militant group based in Poso, Mujahidin Indonesia Timur (MIT). Sobron is one of those included on the police’s most-wanted list (DPO) by the Indonesian Police, along with 44 other terrorists.

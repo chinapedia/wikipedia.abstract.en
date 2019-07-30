@@ -1,0 +1,1 @@
+Bob_Moog3.jpg, inventor of the Moog synthesizer]] An ELECTRONIC MUSICAL INSTRUMENT is a musical instrument that produces sound using electronic circuitry. Such an instrument sounds by outputting an electrical, electronic or digital audio signal that ultimately is plugged into a power amplifier which drives a loudspeaker, creating the sound heard by the performer and listener.

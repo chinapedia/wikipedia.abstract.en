@@ -1,0 +1,1 @@
+CHAPAGURI (VIDHAN SABHA CONSTITUENCY) is one of the 126 assembly constituencies of Assam Legislative Assembly. Chapaguri forms part of the Kokrajhar Lok Sabha constituency. It is a reserved seat for the Scheduled tribes (ST).[1]

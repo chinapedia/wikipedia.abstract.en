@@ -1,0 +1,1 @@
+The LCDR _ECHO_ CLASS was a class of five steam locomotives, initially of the 4-2-0 wheel arrangement. They were designed by Thomas Russell Crampton for the London, Chatham and Dover Railway (LCDR) as "1st class fast passenger" locomotives.

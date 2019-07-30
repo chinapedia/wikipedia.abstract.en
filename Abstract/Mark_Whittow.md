@@ -1,0 +1,1 @@
+MARK WHITTOW (August 1957 – 23 December 2017) was a British historian, archaeologist, and academic, specialising in the Byzantine Empire. He was a university lecturer at the University of Oxford and a Fellow in Byzantine Studies at Corpus Christi College, Oxford.[1][2][3]

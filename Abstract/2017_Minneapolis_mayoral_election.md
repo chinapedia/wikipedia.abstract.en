@@ -1,0 +1,1 @@
+The 2017 MINNEAPOLIS MAYORAL ELECTION was held on November 7, 2017, to elect the Mayor of Minneapolis. This was the third mayoral election in the city's history to use ranked-choice voting. Municipal elections in Minnesota are nonpartisan, although candidates were able to identify with a political party on the ballot.

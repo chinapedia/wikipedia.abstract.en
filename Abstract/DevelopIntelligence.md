@@ -1,0 +1,1 @@
+DEVELOPINTELLIGENCE is a software training company based out of Boulder, Colorado. It was founded in 2003[1] by Kelby Zorgdrager. The company focuses on delivering software training and learning solutions to companies with a mid-large size developer workforce. Their course catalog features courses on Java, Web Development, Big Data, and DevOps, among other topics.

@@ -1,0 +1,1 @@
+GARRETT ADELSTEIN (born May 16, 1986) is an American professional poker player from Tucson, Arizona who focuses on live no limit hold 'em cash games. He appeared on _Survivor: Cagayan_ where he was the second player voted off.[1]

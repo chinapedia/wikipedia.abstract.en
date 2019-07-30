@@ -1,0 +1,1 @@
+HANS CHRISTIAN ANDERSEN (; ; 2 April 1805 – 4 August 1875) was a Danish author. Although a prolific writer of plays, travelogues, novels, and poems, he is best remembered for his fairy tales. Andersen's popularity is not limited to children; his stories express themes that transcend age and nationality.

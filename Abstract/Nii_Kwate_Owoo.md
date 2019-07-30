@@ -1,0 +1,1 @@
+NII KWATE OWOO (born 1944) is a Ghanaian academic and filmmaker, described by _Variety_ as "one of the first Ghanaians to lense in 35mm".[1] His name has also appeared in film credits as KWATE NEE-OWOO.[2][3]

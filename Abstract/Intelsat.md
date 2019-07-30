@@ -1,0 +1,1 @@
+INTELSAT CORPORATION—formerly INTEL-SAT, INTELSAT, Intelsat—is a communications satellite services provider. Originally formed as International Telecommunications Satellite Organization (_ITSO_, or INTELSAT), it was—from 1964 to 2001—an intergovernmental consortium owning and managing a constellation of communications satellites providing international broadcast services.

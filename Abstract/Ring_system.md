@@ -1,0 +1,1 @@
+Planet Ring}} PIA07712_-_F_ring_animation_videoquality_6_framerate_5.ogv Prometheus (right) and Pandora orbit just inside and outside the F ring of Saturn, but only Prometheus is thought to function as a ring shepherd]]

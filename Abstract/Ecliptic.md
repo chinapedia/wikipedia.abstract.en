@@ -1,0 +1,1 @@
+Ecliptic_with_earth_and_sun_animation.gif, the Sun appears to move with respect to the fixed stars, and the ecliptic is the yearly path the Sun follows on the celestial sphere. This process repeats itself in a cycle lasting a little over 365 days.]]

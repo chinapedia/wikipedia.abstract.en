@@ -1,0 +1,1 @@
+ANGELA YANG is a Chinese-American librarian whose efforts in adult literacy, multicultural services, and outreach services is notable within the library community. She served as president of the Chinese American Librarians Association from 1992 to 1993.[1]

@@ -1,0 +1,1 @@
+ID SOFTWARE LLC () is an American video game developer based in Dallas, Texas. The company was founded on February 1, 1991, by four members of the computer company Softdisk, programmers John Carmack and John Romero, game designer Tom Hall, and artist Adrian Carmack (no relation to John Carmack).[1] Business manager Jay Wilbur was also involved.[2]

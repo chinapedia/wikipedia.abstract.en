@@ -1,0 +1,1 @@
+GNU [1][2] is an operating system and an extensive collection of computer software. [3][4][5][6][7][8] GNU is composed wholly of free software,[9][10][11] most of which is licensed under the GNU Project's own General Public License (GPL).

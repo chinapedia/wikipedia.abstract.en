@@ -1,0 +1,1 @@
+_GUERRA DE ÍDOLOS_ (English title: _Price of Fame_)[1] is an American telenovela created by Mariano Calasso for Telemundo.[2][3] It is the first musical telenovela of Telemundo that will play the genre of Mexican Regional music.[4] It was recorded in Mexico.[5]

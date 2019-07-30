@@ -1,0 +1,1 @@
+GARLAND (also known as HARVEY) is an unincorporated community in Henry County, in the U.S. state of Missouri.[1] The community is on an abandoned railroad line in an old coal mining area, approximately six miles northwest of Clinton, just east of Missouri Route O.[2]

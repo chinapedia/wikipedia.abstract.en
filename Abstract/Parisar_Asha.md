@@ -1,0 +1,1 @@
+PARISAR ASHA is a not-for-profit NGO, registered as public trust based out of Mumbai. It was incepted in 1982 by the Late Gloria De Souza, who died in 2013.[1] The trust aims to serve children through a unique learning approach ‘ESAL’ - The Environmental Studies Approach towards Learning. At present, the CEO of the trust is Ms. Aarati Savur.[2][3][4]

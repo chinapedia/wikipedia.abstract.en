@@ -1,0 +1,1 @@
+The RIGI–SCHEIDEGG RAILWAY (; RSB) is a former railway line built high on the Rigi massif on the cantonal border between Lucerne and Schwyz in Switzerland. Today the line's trackbed, which is in length, and includes a tunnel and several bridges, is a rail trail, which serves as a panoramic footpath in summer, and as a route for cross-country skiing in winter .[1][2]

@@ -1,0 +1,1 @@
+The TAJIKISTAN NATIONAL UNDER-20 FOOTBALL TEAM is a national association football youth team of Tajikistan and is controlled by the Tajikistan Football Federation and represents Tajikistan in international under-20 football competitions.

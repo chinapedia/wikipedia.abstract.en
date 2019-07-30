@@ -1,0 +1,1 @@
+Carl_Offterdinger_-_Peter_Munk_und_das_Glasmaennchen.jpg HEART OF STONE (, literally "The Cold Heart") is a fairy tale written by Wilhelm Hauff. It was published in 1827 in a collection of fairy tales that take place within the narrative of _The Spessart Inn_. It formed the basis for the East German film Heart of Stone, released in 1950.

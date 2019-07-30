@@ -1,0 +1,1 @@
+TVN10 AWARDS is an award ceremony for excellence in television in South Korea, organized by tvN, one of the networks under the umbrella of CJ E&M. It was held at the KINTEX in Ilsanseo-gu, Goyang, Gyeonggi Province and was emceed by Kang Ho-dong and Shin Dong-yup on October 9, 2016.

@@ -1,0 +1,1 @@
+FITZHUGH LEE III (August 19, 1905 – January 20, 1992) was a vice admiral in the United States Navy. A graduate of the United States Naval Academy, he saw combat during World War II, earning the Navy Cross twice while serving as captain of the USS _Manila Bay_ (CVE-61).[1] He was a member of the Lee family.

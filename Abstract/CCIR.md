@@ -1,0 +1,1 @@
+CCIR is a four-letter abbreviation that may stand for:

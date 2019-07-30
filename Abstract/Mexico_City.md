@@ -1,0 +1,1 @@
+MEXICO CITY, or the CITY OF MEXICO (, ;[1] abbreviated as CDMX, ), is the capital of Mexico and the most populous city in North America.[2] It is one of the most important cultural and financial centres in the Americas.[3] It is located in the Valley of Mexico (), a large valley in the high plateaus in the center of Mexico, at an altitude of . The city has 16 boroughs.

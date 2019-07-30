@@ -1,0 +1,1 @@
+MILAN "CIGA" VASOJEVIĆ (; December 27, 1932 – December 24, 1996) was a Serbian basketball coach and administrator. He led the national team of Yugoslavia during the greatest successes of women's basketball.

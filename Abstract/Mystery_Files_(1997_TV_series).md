@@ -1,0 +1,1 @@
+_MYSTERY FILES_ is a 1997 Hong Kong science fiction thriller television series produced by TVB and stars Gallen Lo as a biochemist who advocates scientific methods to refute superstitious theories, utilizing scientific theories to uncover the answers to a series of strange events.

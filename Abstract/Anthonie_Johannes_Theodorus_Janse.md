@@ -1,0 +1,1 @@
+DR ANTHONIE JOHANNES THEODORUS JANSE, also known as ANTONIUS JOHANNES THEODORUS JANSE and by other orthographic variations, was a pioneer of South African entomology who specialised in Lepidoptera. His multi-volumed work, _The Moths of South Africa_ is recognized as a definitive text.

@@ -1,0 +1,1 @@
+SHIVARAM SINGH BASNYAT () was the military commander of Gorkha. After the conquest of Naldum area by the Gorkhalis, he along with Commander Bir Bhadra Thapa conquered Sanga, Panauti, Sankhu and adjacent areas. They received fierce resistance from the Kantipur Kingdom at Sangachok. He died in the defensive battle of Sanga Chowk during Unification of Nepal on 1803 B.S.

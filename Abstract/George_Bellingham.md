@@ -1,0 +1,1 @@
+GEORGE HENRY JOHN BELLINGHAM (15 February 1862 – 28 July 1932) was an Australian politician who was a member of the Legislative Council of Western Australia from 1900 to 1908, representing South Province.

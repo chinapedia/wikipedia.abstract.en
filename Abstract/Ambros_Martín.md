@@ -1,0 +1,1 @@
+AMBROSIO JOSÉ MARTÍN CEDRES (born 30 April 1968) is a Spanish former handball player and current coach. He was named Coach of the Year in the Women's EHF Champions League for the past four years (2015–2018).

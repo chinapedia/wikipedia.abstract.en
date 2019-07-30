@@ -1,0 +1,1 @@
+NATALIYA YURYEVNA IGNATYEVA (Наталья Юрьевна Игнатьева, born 17 August 1978) is a Kazakhstani female water polo player. She was a member of the Kazakhstan women's national water polo team, playing as a driver.

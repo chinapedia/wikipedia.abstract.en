@@ -1,0 +1,1 @@
+CLEVER CREEK is a stream in north central Douglas County the Ozarks of southern Missouri.[1] It is a tributary to Fox Creek. From its source southeast of Tick Ridge, Clever Creek flows southwest to south and passes under Missouri Route 76 at Coldspring. From there the stream flows south to southeast to its confluence with Fox Creek just northeast of Champion.[2]

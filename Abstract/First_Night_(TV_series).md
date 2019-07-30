@@ -1,0 +1,1 @@
+_FIRST NIGHT_ was a BBC 1 series of contemporary television dramas by new writers, which ran from September 1963 to May 1964 and was the forerunner of _The Wednesday Play_. The series was produced by James MacTaggart.[1][2][3]

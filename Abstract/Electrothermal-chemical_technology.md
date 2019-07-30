@@ -1,0 +1,1 @@
+ELECTROTHERMAL-CHEMICAL (ETC) technology is an attempt to increase accuracy and muzzle energy of future tank, artillery, and close-in weapon system[1] guns by improving the predictability and rate of expansion of propellants inside the barrel.

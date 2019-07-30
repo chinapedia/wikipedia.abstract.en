@@ -1,0 +1,1 @@
+HERMANN BRÜCKL (born 3 November 1968) is an Austrian politician who has been a Member of the National Council for the Freedom Party of Austria (FPÖ) since 2015.[1] He is a former Member of the Federal Council.

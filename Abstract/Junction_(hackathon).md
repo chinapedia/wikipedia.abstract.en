@@ -1,0 +1,1 @@
+Junction is a 48-hour international hackathon organized annually in Helsinki, Finland. The event brings together developers, designers, and entrepreneurs from around the world and helps them build solutions to real world challenges from local and multinational companies.[1]

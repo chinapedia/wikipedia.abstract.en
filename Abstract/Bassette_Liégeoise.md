@@ -1,0 +1,1 @@
+The BASSETTE LIÉGEOISE or BASSETTE is a breed of large bantam chicken from Belgium. It is larger than most bantams, but much smaller than full-sized breeds; cocks weigh about and hens about Like most Belgian bantam breeds, it is in danger of extinction. Eighteen colour patterns are officially recognised; many of them are rare.

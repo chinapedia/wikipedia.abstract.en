@@ -1,0 +1,1 @@
+The GYMNOSPHAERIDS (or GYMNOSPHAERIDA)[1] are a small group of heliozoan protists found in marine environments. They tend to be roughly spherical with radially directed axopods, supported by microtubules in a triangular-hexagonal array arising from an amorphous central granule.

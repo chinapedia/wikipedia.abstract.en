@@ -1,0 +1,1 @@
+PROFESSOR ARTHUR CYRIL WILLIAM HUTCHINSON FRSE (1889-1969) was a British professor of dentistry.

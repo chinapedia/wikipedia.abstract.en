@@ -1,0 +1,1 @@
+The 1949-50 season was ABERDEEN'S 38th season in the top flight of Scottish football and their 40th season overall. Aberdeen competed in the Scottish League Division One, Scottish League Cup, and the Scottish Cup.

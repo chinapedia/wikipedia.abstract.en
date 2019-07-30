@@ -1,0 +1,1 @@
+INFINITE DERIVATIVE GRAVITY is a theory of gravity which attempts to remove cosmological and black hole singularities by adding extra terms to the Einstein–Hilbert action, which weaken gravity at short distances.

@@ -1,0 +1,1 @@
+The 43RD PEOPLE'S CHOICE AWARDS, honoring the best in popular culture for 2016, were held on January 18, 2017, at the Microsoft Theater in Los Angeles, California, and were broadcast live on CBS. The ceremony was hosted by Joel McHale.

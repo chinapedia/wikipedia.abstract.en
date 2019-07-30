@@ -1,0 +1,1 @@
+The BAIXO JURUÁ EXTRACTIVE RESERVE () is an extractive reserve in the state of Amazonas, Brazil. It contains an area of almost untouched Amazon rainforest inhabited by communities that rely on manioc farming, small-scale animal husbandry, fishing, hunting and gathering.

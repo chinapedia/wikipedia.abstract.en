@@ -1,0 +1,1 @@
+LIKE CANBERRA is a political party registered for the 2016 Australian Capital Territory general election. It was formally registered on 28 June 2016.[1] It fielded two candidates in each of the five electorates.[2]

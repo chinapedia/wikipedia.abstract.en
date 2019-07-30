@@ -1,0 +1,1 @@
+The BIMAL REVOLT, BIMAL RESISTANCE, MERCA REVOLT or BANADIR RESISTANCE was a guerrilla war against the Italian Somaliland in southern Somalia. It was fought from 1896 to 1926 and largely concentrated in Lower Shebelle, Banadir and Middle Shebelle.

@@ -1,0 +1,1 @@
+PORT BLAIR ISLANDS are a group of islands situated in the sound of the capital Port Blair of the Andaman Islands. They belongs to the South Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands.[1]

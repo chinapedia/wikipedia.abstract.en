@@ -1,0 +1,1 @@
+AMINU MUHAMMAD AHMAD also known as Aminu Saira (born April 20, 1979)[1] is a Nigerian filmmaker, director[2] and story writer. He is regarded as a pioneer revolutionist of today’s Kannywood[3] and the most popular filmmaker in the Kannywood Movie Industry as well as a good role model as he appears to be gentle, highly cultured and well mannered.

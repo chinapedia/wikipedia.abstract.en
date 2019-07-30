@@ -1,0 +1,1 @@
+This is a LIST OF MUSEUMS IN QUEBEC CITY, CANADA. Also included are non-profit art galleries and university art galleries. Museums that exist only in cyberspace (i.e., virtual museums) are not included.

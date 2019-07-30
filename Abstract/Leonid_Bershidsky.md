@@ -1,0 +1,1 @@
+LEONID DAVIDOVICH BERSHIDSKY (; born November 23, 1971, Moscow, Russian SFSR, Soviet Union) is a Russian Berlin-based journalist and columnist for _Bloomberg View_, the editorial division of Bloomberg News.[1]

@@ -1,0 +1,1 @@
+_HAVE HARMONY, WILL TRAVEL_ is an album by singer and songwriter Carla Olson. It was released by Busted Flat Records on April 30, 2013 and marked Olson's first studio album since her 2001 release _The Ring of Truth_ (in between she and her band, the Textones, had produced _Detroit 85: Live and Unreleased_, a live album released in 2008).[1][2]

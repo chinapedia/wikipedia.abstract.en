@@ -1,0 +1,1 @@
+Falkland_Islands_map_shaded_relief-en.svg]] The HISTORY OF THE FALKLAND ISLANDS () goes back at least five hundred years, with active exploration and colonisation only taking place in the 18th century. Nonetheless, the islands have been a matter of controversy, as they have been claimed by the French, British, Spaniards and Argentines at various points.

@@ -1,0 +1,1 @@
+The TEXTILE SOCIETY OF AMERICA (TSA) was founded in 1987 as an international non-profit educational organization for sharing and disseminating information about textiles and fiber media. The society sponsors a bi-annual conference where juried papers are presented on artistic, cultural, economic, historic, social and technical perspectives on textiles from around the world.

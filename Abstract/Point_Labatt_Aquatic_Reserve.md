@@ -1,0 +1,1 @@
+__NOTOC__ POINT LABATT AQUATIC RESERVE is a marine protected area in the Australian state of South Australia located in the waters of the Great Australian Bight adjoining the west coast of Eyre Peninsula at the headland of Point Labatt.[1][2]

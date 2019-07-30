@@ -1,0 +1,1 @@
+The CHELSEA F.C.–TOTTENHAM HOTSPUR F.C. RIVALRY is a rivalry between London-based professional association football clubs Chelsea and Tottenham Hotspur. Chelsea play their home games at Stamford Bridge, while Tottenham Hotspur play their home games at Tottenham Hotspur Stadium.

@@ -1,0 +1,1 @@
+Paul_Valéry_-_photo_Henri_Manuel.jpg AMBROISE PAUL TOUSSAINT JULES VALÉRY (; 30 October 1871 – 20 July 1945) was a French poet, essayist, and philosopher. In addition to his poetry and fiction (drama and dialogues), his interests included aphorisms on art, history, letters, music, and current events. Valéry was nominated for the Nobel Prize in Literature in 12 different years.[1]

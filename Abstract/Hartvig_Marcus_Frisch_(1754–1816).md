@@ -1,0 +1,1 @@
+HARTVIG MARCUS FRISCH (7 September 1754 – 22 August 1816) was a Danish businessman who served as director of the Royal Greenland Trading Department from 1781 to 1816. The Frisch House, his former home in Copenhagen, located at Nytorv 5, was designed by Nicolai Abildgaard. It is listed on the Danish registry of protected buildings and places.

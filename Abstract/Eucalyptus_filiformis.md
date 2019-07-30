@@ -1,0 +1,1 @@
+_EUCALYPTUS FILIFORMIS_ is a species of mallee that is endemic in a small area on the side of a mountain in Victoria, Australia. It has rough fibrous or flaky bark on the trunk, smooth bark above, narrow lance-shaped to narrow elliptical adult leaves, flower buds usually in groups of seven, white flowers and barrel-shaped fruit.

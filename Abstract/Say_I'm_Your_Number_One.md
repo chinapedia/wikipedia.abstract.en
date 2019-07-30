@@ -1,0 +1,1 @@
+"SAY I'M YOUR NUMBER ONE" is a 1985 song by Princess. It was one of many Stock Aitken Waterman produced hits, reaching a peak of No. 7 on the UK Singles Chart and No. 19 on the US Billboard R&B/Hip-Hop Singles Chart.

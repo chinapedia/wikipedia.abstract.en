@@ -1,0 +1,1 @@
+SERBO-CROATIAN (; [1][2] / ; also called SERBO-CROAT , [3] SERBO-CROAT-BOSNIAN [SCB],[4] BOSNIAN-CROATIAN-SERBIAN [BCS], or BOSNIAN-CROATIAN-MONTENEGRIN-SERBIAN [BCMS])[5] is a South Slavic language and the primary language of Serbia, Croatia, Bosnia and Herzegovina, and Montenegro. It is a pluricentric language with four[6] mutually intelligible standard varieties.

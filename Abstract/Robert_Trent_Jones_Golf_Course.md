@@ -1,0 +1,1 @@
+The ROBERT TRENT JONES GOLF COURSE is Cornell University's golf course. Designed by Cornell alumnus Robert Trent Jones and located northeast of North Campus in Ithaca, New York, the first half of the 18 hole course was opened in 1941, and the other 9 holes were added in 1954.[1]

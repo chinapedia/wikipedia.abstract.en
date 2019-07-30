@@ -1,0 +1,1 @@
+The Georgia Department of Corrections operates prisons, transitional centers, probation detention centers, and substance abuse treatment facilities. In addition, state inmates are also housed at private and county correctional facilities.

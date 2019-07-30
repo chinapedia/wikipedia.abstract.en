@@ -1,0 +1,1 @@
+The CASINO THEATRE was a theatre located at Amaliegade 10 in Copenhagen, Denmark. It was built as an entertainment venue by Tivoli Gardens-founder Georg Carstensen but was converted into a theatre in 1848. It closed in 1937 and the building was demolished in 1960.

@@ -1,0 +1,1 @@
+BRIAN JUSTIN CRUM (born May 28, 1988) is an American singer and actor from San Diego, California. In 2016, he competed on the eleventh season of the NBC TV competition show _America's Got Talent_, taking fourth place.[1]

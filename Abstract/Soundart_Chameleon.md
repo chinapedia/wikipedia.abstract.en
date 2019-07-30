@@ -1,0 +1,1 @@
+The SOUNDART CHAMELEON was a hardware synthesizer module, designed by the Spanish company Soundart. The name Chameleon comes from the fact that the machine was able to change its "skins", which are different sound engines. The Chameleons were produced from 2002 to 2004, until the company went bankrupt.

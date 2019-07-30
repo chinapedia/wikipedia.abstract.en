@@ -1,0 +1,1 @@
+The BMW M4 DTM is a DTM touring car constructed by the German car manufacturer BMW. It was developed in 2013 and has been raced in DTM seasons since 2014 through 2018 before being replaced by turbo-updated BMW M4 Turbo DTM. The M4 DTM, which replaced the retired BMW M3 DTM at the end of the 2013 season, is based on the production BMW M4.

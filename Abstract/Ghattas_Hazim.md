@@ -1,0 +1,1 @@
+GHATTAS HAZIM (born 1963, in Mhardeh, Syria) is a Greek Orthodox (Eastern Orthodox) hierarch. Since 2014, he serves as Metropolitan of Baghdad, Kuwait and Dependencies, under the jurisdiction of Greek Orthodox Patriarchate of Antioch and All the East.[1]

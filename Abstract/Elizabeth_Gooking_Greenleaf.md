@@ -1,0 +1,1 @@
+ELIZABETH GOOKING GREENLEAF (November 11, 1681 – November 11, 1762[1]) was the first female apothecary in the Thirteen Colonies.[2] She is considered to be the first female pharmacist in the United States.[3]

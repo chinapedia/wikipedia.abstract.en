@@ -1,0 +1,1 @@
+TRANSPORT IN SRI LANKA is based on its road network, which is centred on the country's capital Colombo. A rail network handles a portion of Sri Lanka's transport needs. There are navigable waterways, harbours and two international airports: in Katunayake, north of Colombo, and in Hambantota.

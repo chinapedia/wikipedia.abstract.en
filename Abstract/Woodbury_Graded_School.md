@@ -1,0 +1,1 @@
+The WOODBURY GRADED SCHOOL is a historic school building at 63 Valley Lake Road in Woodbury, Vermont. Built in 1919, it is a prominent local example of Colonial Revival architecture, and of a period grade school. The building continues to serve its original purpose, now called the WOODBURY ELEMENTARY SCHOOL, and was listed on the National Register of Historic Places in 1993.[1]

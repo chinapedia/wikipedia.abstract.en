@@ -1,0 +1,1 @@
+The BIRIBIRI STATE PARK () is a state park in the state of Minas Gerais, Brazil. It protects a mountainous region of _cerrado_. The park contains an abandoned village, once home to workers in a textile factory, which is now a tourist attraction.

@@ -1,0 +1,1 @@
+The GRIST MILL BRIDGE, DAM AND MILL SITE consists of three structures located along Upton Road between Island Road and the Maple River, one-half mile west of Elsie, Michigan in Duplain Township. The three structures are:

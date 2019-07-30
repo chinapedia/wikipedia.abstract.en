@@ -1,0 +1,1 @@
+JOSHUA PERKINS (born August 5, 1993) is an American football tight end for the Philadelphia Eagles of the National Football League (NFL). He played college football at Washington and was signed by the Atlanta Falcons as an undrafted free agent in 2016.

@@ -1,0 +1,1 @@
+HONEY HOLLOW CAMP is a historic farm and retreat property on Honey Hollow Road in Bolton, Vermont. The property, originally marginal farmland, was developed as a wartime retreat during World War II. It was listed on the National Register of Historic Places in 1994.[1][2]

@@ -1,0 +1,1 @@
+GLEN FALLOCH HALT RAILWAY STATION or GLENFALLOCH PLATFORM RAILWAY STATION was a remote rural railway station in Glen Falloch, Stirlingshire, Scotland. Opened in 1946 by the LNER, it was located in Glen Falloch on the Ardlui side of the viaduct, but reported out of use by around 1948.[1]

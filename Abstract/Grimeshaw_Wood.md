@@ -1,0 +1,1 @@
+GRIMESHAW WOOD is a 16.8 hectare Local Nature Reserve on the western outskirts of Peterborough in Cambridgeshire. It is owned by Peterborough City Council,[1][2] and managed by the council together with the Peterborough Environment City Trust.[3][4]

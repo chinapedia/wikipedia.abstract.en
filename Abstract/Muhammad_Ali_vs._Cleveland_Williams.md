@@ -1,0 +1,1 @@
+Muhammad Ali and Cleveland Williams fought each other in a boxing match at the Astrodome in Houston on November 14, 1966. Ali won the bout through a technical knockout in the third round. Many experts regard Ali's performance in this fight to be the finest of his boxing career. [1][2][3][4]

@@ -1,0 +1,1 @@
+The 2016 CHALLENGER CIUDAD DE GUAYAQUIL was a professional tennis tournament played on clay courts. It was the twelfth edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Guayaquil, Ecuador between October 31 and November 6, 2016.

@@ -1,0 +1,1 @@
+KAREN GLASER was an English actress, who was best known for playing _Madame Chargon_ in ''A Patriotic Offering '' of the first episode of the fourth series of the period drama _Upstairs, Downstairs_. It first aired on 14 September 1974 on ITV.

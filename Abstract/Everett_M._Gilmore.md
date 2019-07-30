@@ -1,0 +1,1 @@
+EVERETT MILLARD "EV" GILMORE, JR. (December 13, 1935 – April 14, 2005) was an American tubist best known for his association with the Dallas Symphony Orchestra, in which he served as principal tubist from 1965 until his retirement in 1995.[1] He was also closely associated with the University of North Texas College of Music and Southern Methodist University.

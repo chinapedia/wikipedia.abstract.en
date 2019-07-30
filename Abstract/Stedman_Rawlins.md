@@ -1,0 +1,1 @@
+Island_of_Saint_Christopher,_1828_(inset).png Hon_Stedman_Rawlins,_Old_Burying_Ground,_Halifax,_Nova_Scotia.jpg]] Prise_des_Iles_de_Saint_Christophe_et_de_Nevis_13_Janvier_1782_Rossel_de_Cercy_1736_1804.jpg Hon. STEDMAN RAWLINS (c.1784–1830) was a slave and sugar plantation owner, and the President of His Majesty's Council, on the Caribbean Island of St. Christopher.

@@ -1,0 +1,1 @@
+The PARTY OF THE BRAZILIAN WOMAN (, PMB) is a political party in Brazil which uses the number 35.[1] Known for its non-feminist and anti-abortion stance, the party is not represented in the National Congress.[2]

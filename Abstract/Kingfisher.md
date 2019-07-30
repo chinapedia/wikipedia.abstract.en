@@ -1,0 +1,1 @@
+Brown-headed_Paradise-Kingfisher.jpgs of New Guinea have unusually long tails for the group.]] Dacelo_novaeguineae_waterworks.jpg has a birdcall which sounds like laughter.]] Syma_torotoro.jpg often nests in arboreal termite nests.]] Ceyx_erithaca.JPG is considered a bad omen by warriors of the Dusun tribe of Borneo.]] Kingfisher_Kakadu.jpg

@@ -1,0 +1,1 @@
+LIMDA is a former non-salute Rajput princely state in Gohilwar prant of Saurashtra peninsula in Gujarat, western India. It was Ruled by Gohil Rajputs Clan and its rulers styled themselves as Darbaar Sahib of Limda. 1901 it comprised the town and four more villages, with a comined population of 2,194, yielding 28,000 Rupees state revenue (1903-4, mostly from land).[1]

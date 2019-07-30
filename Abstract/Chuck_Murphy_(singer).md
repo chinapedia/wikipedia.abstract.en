@@ -1,0 +1,1 @@
+CHUCK MURPHY _Charles Martin Murphy_ (born May 16, 1955) is an American singer, songwriter, and musician. Murphy has written and co-written songs such as _I Know_, _How Many Times_, _Cowgirls_, _Light That Shines_, _Falling Star_ and _Peace Be With You_.[1][2][3][4][5][6]

@@ -1,0 +1,1 @@
+ELIZABETH BARNES is an American philosopher working in feminist philosophy, metaphysics, social philosophy and ethics. Barnes is a professor of philosophy at the Corcoran Department of Philosophy, University of Virginia.[1]

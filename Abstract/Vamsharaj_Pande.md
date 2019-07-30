@@ -1,0 +1,1 @@
+VAMSHARAJ PANDE (a.k.a. BAMSA RAJ PANDE, VANSHA RAJ PANDE, or BANGSHA RAJ PANDE) (; translit. _vaṃśarāja pām̐ḍe_) was a Nepalese politician, military officer and minister of state. He was a significant army commander of Kingdom of Nepal in the second half of 18th century. He was a follower of Bahadur Shah of Nepal and had a significant rivalry with Swaroop Singh Karki.

@@ -1,0 +1,1 @@
+The LIBERAL PARTY ( / _Liberalna stranka_, LS) was a liberal political party active in the Kingdom of Serbia between 1883 and 1895. It was led by historian Jovan Ristić (1831–1899) and then lawyer Jovan Avakumović (1841–1928).

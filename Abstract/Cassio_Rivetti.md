@@ -1,0 +1,1 @@
+CASSIO RIVETTI (, Kassio Rivetti; born 20 February 1980) is a Ukrainian-Brazilian Olympic show jumping rider.[1][2] Representing Ukraine since 2009, he competed at two Summer Olympics (in 2012 and 2016). His best Olympic result is 12th place in the individual jumping from 2012.

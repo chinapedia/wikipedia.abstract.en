@@ -1,0 +1,1 @@
+KERRI ANDERSON is a Canadian pop and rock singer, most prominent in the early 1990s.[1] She is most noted for garnering a Juno Award nomination for Most Promising Female Vocalist at the Juno Awards of 1992.[2]

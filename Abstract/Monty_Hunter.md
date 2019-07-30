@@ -1,0 +1,1 @@
+ORIE MONTGOMERY HUNTER III (born January 21, 1959) is a former American football safety in the National Football League (NFL) for the Dallas Cowboys and St. Louis Cardinals (NFL). He played college football at Salem College.

@@ -1,0 +1,1 @@
+CODEX SINAITICUS (, _Sinaïtikós Kṓdikas_, ; Shelfmarks and references: London, Brit. Libr., Additional Manuscripts 43725; Gregory-Aland nº א [Aleph] or 01, Soden δ 2]) or "Sinai Bible" is one of the four great uncial codices, ancient, handwritten copies of the Greek Bible. The codex is a celebrated historical treasure.[1]

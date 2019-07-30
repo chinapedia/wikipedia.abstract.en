@@ -1,0 +1,1 @@
+Snape_maltings_1975.jpg _THE BUILDING OF THE HOUSE_, op. 79 is an "overture with or without chorus" by Benjamin Britten written in 1967. The overture is notable for the use of Asian-influenced heterophony.[1]

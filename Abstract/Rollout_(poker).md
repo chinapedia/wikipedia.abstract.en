@@ -1,0 +1,1 @@
+ROLLOUT or ROLL 'EM OUT is poker jargon used for a game phase in certain poker variants. It is often incorrectly called "roll your own", to which it has similarities but from which it is fundamentally different.

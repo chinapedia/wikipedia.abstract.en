@@ -1,0 +1,1 @@
+CORINA ȘUTEU was the Culture Minister of Romania. She served from May 2016 to January 2017, following her position as State Secretary within the Ministry of Culture in the cabinet of Dacian Cioloș.[1] from February to April 2016.

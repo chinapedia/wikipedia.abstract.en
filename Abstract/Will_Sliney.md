@@ -1,0 +1,1 @@
+WILL SLINEY is an Irish comic books artist. He is known for his work on comic books such as the ''Marvel's Fearless Defenders '' series as well as the best selling graphic novel _Celtic Warrior: The Legend of Cú Chulainn_ and the monthly series _Spider-Man 2099_.[1][2][3][4]

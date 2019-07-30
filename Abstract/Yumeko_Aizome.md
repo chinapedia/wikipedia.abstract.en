@@ -1,0 +1,1 @@
+is a former Japanese cinema and stage actress. She appeared in 75 movies, in both silent and sound film, her entertainment career spanned the years from 1930 until 1965. Japanese_Girls_at_the_Harbor_Yumeko_Aizome_1.png

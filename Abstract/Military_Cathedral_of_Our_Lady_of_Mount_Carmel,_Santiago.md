@@ -1,0 +1,1 @@
+The MILITARY CATHEDRAL OF OUR LADY OF MOUNT CARMEL[1] () Also MILITARY CATHEDRAL OF SANTIAGO Is a Catholic temple that functions as the episcopal seat of the military bishopric of Chile. It is located in the commune of Providencia, in Santiago[2] the capital of Chile.[3]

@@ -1,0 +1,1 @@
+MARINE HOTEL was one of the former landmark of the Molenvliet, a 17th-century built canal located in Batavia, the Dutch East Indies (now Jakarta, Indonesia). Marine Hotel was located at the south end of Molenvliet West (now Jalan Gajah Mada), approximately at the location of the old building of Bank Tabungan Negara. The building has been demolished.

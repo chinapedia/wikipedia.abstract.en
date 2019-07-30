@@ -1,0 +1,1 @@
+The OLD RED MILL is a historic mill complex at Vermont Route 12 and Lovers Lane in southern Northfield, Vermont. Built in 1898, the building houses a nearly intact water-powered grain grinding mechanism from the period. It was listed on the National Register of Historic Places in 1977.[1]

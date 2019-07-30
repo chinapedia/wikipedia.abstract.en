@@ -1,0 +1,1 @@
+"E LA LUNA BUSSÒ" (also graphically rendered as "...E LA LUNA BUSSÒ") is an Italian reggae ballad written by Mario Lavezzi, Oscar Avogadro and Daniele Pace and performed by Loredana Bertè. One of Bertè's major hits, it stayed on the Italian Singles Chart for 29 weeks.[1]

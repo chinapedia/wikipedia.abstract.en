@@ -1,0 +1,1 @@
+The ELEGIAC COUPLET is a poetic form used by Greek lyric poets for a variety of themes usually of smaller scale than the epic. Roman poets, particularly Propertius, Tibullus, and Ovid, adopted the same form in Latin many years later. As with the English heroic, each couplet usually makes sense on its own, while forming part of a larger work.

@@ -1,0 +1,1 @@
+upright=1.8A CIRCUMESOPHAGEAL or CIRCUMPHARYNGEAL NERVE RING is an arrangement of nerve ganglia around the esophagus/ pharynx of an animal. It is a common feature of nematodes, molluscs, and many other invertebrate animals, though it is absent in all vertebrate animals and is not structurally possible in simpler one such as water bears.

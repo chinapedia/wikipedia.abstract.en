@@ -1,0 +1,1 @@
+ISOPROPENYL ACETATE is an organic compound, which is the acetate ester of the enol tautomer of acetone. This colorless liquid is significant commercially as the principal precursor to acetylacetone. In organic synthesis, it is used to prepare enol acetates of ketones and acetonides from diols.[1]

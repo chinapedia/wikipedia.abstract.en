@@ -1,0 +1,1 @@
+ZACHARY THOMAS GRANITE (born September 17, 1992) is an American professional baseball outfielder for the Texas Rangers of Major League Baseball (MLB). He played in MLB for the Minnesota Twins in 2017.

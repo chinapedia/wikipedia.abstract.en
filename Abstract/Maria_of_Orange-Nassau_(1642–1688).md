@@ -1,0 +1,1 @@
+MARIA OF NASSAU or MARIA OF ORANGE-NASSAU (5 September 1642, The Hague - 20 March 1688, Kreuznach) was a Dutch princess of the house of Orange and by marriage _pfalzgräfin_ or countess of Simmern-Kaiserslautern.

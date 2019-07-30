@@ -1,0 +1,1 @@
+NANCY LUDLOW TUCKERMAN (October 24, 1928 – August 1, 2018) was the White House Social Secretary during the Kennedy administration. After the Kennedy assassination, she remained the personal secretary to Jackie Kennedy until the latter's death in 1994.

@@ -1,0 +1,1 @@
+The ALPHA HELIX (Α-HELIX) is a common motif in the secondary structure of proteins and is a right hand-helix conformation in which every backbone N−H group donates a hydrogen bond to the backbone C=O group of the amino acid located three or four residues earlier along the protein sequence.

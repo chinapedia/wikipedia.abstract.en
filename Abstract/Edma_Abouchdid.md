@@ -1,0 +1,1 @@
+EDMA ABOUCHDID (1909–1992) was a Lebanese obstetrician-gynecologist. She was the first female physician in Lebanon. Abouchdid became a well-regarded specialist in infertility, and her patient base included Middle Eastern royal families. She advocated for family planning at a time when the promotion of contraception in Lebanon was punishable by a jail sentence.

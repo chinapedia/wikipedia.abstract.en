@@ -1,0 +1,1 @@
+RA_Minister_of_Agriculture_Sergo_Karapetyan.jpg

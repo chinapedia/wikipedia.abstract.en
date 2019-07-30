@@ -1,0 +1,1 @@
+ONYEWUCHI FRANCIS EZENWA (Born 1968) is the senator representing Imo East Senatorial in the 9th assembly and the former member of the Nigerian Federal House of Representatives[1] He represented the Owerri-Municipal/Owerri-North/West-Federal Constituency of Imo State under the platform of Peoples Democratic Party in the Federal House of Representatives.

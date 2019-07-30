@@ -1,0 +1,1 @@
+JULIE FINNE-IPSEN (born 22 January 1995) is a Danish badminton player from the Værløse club.[1][2] Finne-Ipsen also plays golf for the Danish national team.[3] She started her badminton career at the Ballerup club at aged six.[4] In 2013, she won silver medal in girls' doubles event and bronze medal in mixed doubles event at the European Junior Badminton Championships.[5]

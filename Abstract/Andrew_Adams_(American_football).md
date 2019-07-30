@@ -1,0 +1,1 @@
+ANDREW ADAMS (born October 28, 1992) is an American football safety for the Detroit Lions of the National Football League (NFL). He played college football for the University of Connecticut Huskies.[1]

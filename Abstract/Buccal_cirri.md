@@ -1,0 +1,1 @@
+BUCCAL CIRRI are feeding structures found in the oral hood of primitive jawless organisms called amphioxus.[1] The word buccal is derived from the term _bucca_ which means "cheek"[2] and cirri is derived from the Latin word _cerrus_ meaning a tendril or a small and flexible appendage.[3]

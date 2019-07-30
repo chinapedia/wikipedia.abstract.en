@@ -1,0 +1,1 @@
+SHUBHAM ROHILLA (born 10 March 1998) is an Indian cricketer.[1] He made his first-class debut for Haryana in the 2014–15 Ranji Trophy on 29 January 2015.[2] He made his Twenty20 debut for Haryana in the 2016–17 Inter State Twenty-20 Tournament on 29 January 2017.[3]

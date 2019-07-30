@@ -1,0 +1,1 @@
+The 2017 FIBA U20 WOMEN'S EUROPEAN CHAMPIONSHIP was the 16th edition of the Women's U-20 European basketball championship. 16 teams participated in the competition, which was played in Matosinhos, Portugal, from 8 to 16 July 2017.[1]

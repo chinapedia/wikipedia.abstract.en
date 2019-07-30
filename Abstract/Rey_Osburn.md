@@ -1,0 +1,1 @@
+REY OSBURN (born REYKA OSBURN) is an American musician best recognized as a founding member and lead vocalist of the bands Tinfed, Death Valley High and Ghostride. He has collaborated with Deathline International, Deftones and Vampire Rodents.

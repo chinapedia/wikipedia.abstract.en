@@ -1,0 +1,1 @@
+MANORBIER NEWTON is a small village in the Pembrokeshire Coast National Park within the parish and community of Manorbier. The Pembroke River rises at nearby Hogeston Hill to flow past Lamphey and Pembroke Castle.

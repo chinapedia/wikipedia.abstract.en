@@ -1,0 +1,1 @@
+BHAGOWAL KALAN () is a village located alongside the Tanda road which linked with two different districts sialkot and gujrat basically situated at district of Gujrat. Bhagowal kalan is historical village. Alshehroz petrolpump is one of most poplar gas station. there also a bachelor college of girls and High school for boys and women.

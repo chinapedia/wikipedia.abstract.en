@@ -1,0 +1,1 @@
+POLITICS OF NIGER takes place in a framework of a semi-presidential representative democratic republic, whereby the President of Niger is head of state and the Prime Minister of Niger head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the National Assembly.

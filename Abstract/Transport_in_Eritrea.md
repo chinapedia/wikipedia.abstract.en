@@ -1,0 +1,1 @@
+Eritrean_Airlines_Boeing_767-300ER_E3-AAO_FCO_2005-6-7.png Boeing 767-366/ER aircraft. The national carrier is based in Asmara.]] TRANSPORT IN ERITREA includes highways, airports and seaports, in addition to various forms of public and private vehicular, maritime and aerial transportation.

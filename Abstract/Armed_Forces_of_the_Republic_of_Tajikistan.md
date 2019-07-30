@@ -1,0 +1,1 @@
+The ARMED FORCES OF THE REPUBLIC OF TAJIKISTAN (Tajik:Қувваҳои Мусаллаҳи Ҷумҳурии Тоҷикистон) is the national military of the Republic of Tajikistan. It consists of National Army, Mobile Forces, Air Force, Presidential National Guard, border and internal troops. There are also significant Russian forces in the country, principally the 201st Motor Rifle Division.

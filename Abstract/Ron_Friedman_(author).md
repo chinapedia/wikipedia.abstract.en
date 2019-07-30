@@ -1,0 +1,1 @@
+RON FRIEDMAN (born 1977) is a psychologist and behavior change expert who specializes in human motivation. He is a frequent contributor to the _Harvard Business Review_, CNN, Fast Company, and _Psychology Today_, as well as the author of the best-selling non-fiction book _The Best Place to Work: The Art and Science of Creating an Extraordinary Workplace_.[1]

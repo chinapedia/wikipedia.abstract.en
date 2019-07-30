@@ -1,0 +1,1 @@
+_PORTRAIT OF MARGARETE BRÖMSEN_ is a painting by the German Baroque painter Michael Conrad Hirt, painted in 1642 and now in St. Anne's Museum.[1] It is considered a wedding portrait, but a pendant of her husband, Diedrich von Brömsen, is unknown.

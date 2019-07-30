@@ -1,0 +1,1 @@
+ICON is a very high-level programming language featuring goal-directed execution and many facilities for managing strings and textual patterns. It is related to SNOBOL and SL5, string processing languages. Icon is not object-oriented, but an object-oriented extension called Idol was developed in 1996 which eventually became Unicon.

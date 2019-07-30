@@ -1,0 +1,1 @@
+The ECONOMY OF GERMANY is a highly developed social market economy. It has the largest national economy in Europe, the fourth-largest by nominal GDP in the world, and fifth by GDP (PPP). In 2017, the country accounted for 28% of the euro area economy according to the IMF.[1] Germany is a founding member of the European Union and the Eurozone.[2][3]

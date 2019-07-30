@@ -1,0 +1,1 @@
+Margarita Gasparyan and Alexandra Panova were the defending champions, but Gasparyan could not participate due to injury. Panova teamed up with Evgeniya Rodina, but they retired in the first round against Demi Schuurs and Renata Voráčová.

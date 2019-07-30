@@ -1,0 +1,1 @@
+VERBLING is an online language learning platform that pairs individuals with language teachers via video chat.[1] The company was created at Y Combinator in 2011.[2] In 2015, Verbling raised $2.7 million in series A round funding.[3]

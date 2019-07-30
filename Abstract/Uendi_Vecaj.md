@@ -1,0 +1,1 @@
+UENDI VECAJ (born 18 February 1997), is an Albanian professional footballer who plays as a right winger for Teuta Durrës on loan from Croatian club Dinamo Zagreb II and the Albania national under-21 football team.[1]

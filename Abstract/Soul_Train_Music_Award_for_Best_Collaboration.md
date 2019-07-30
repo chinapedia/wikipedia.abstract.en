@@ -1,0 +1,1 @@
+This page lists the winners and nominees for the SOUL TRAIN MUSIC AWARD FOR BEST COLLABORATION. This category was created in the 2009 ceremony and since its creation, Chris Brown is the only artist to win the award twice.

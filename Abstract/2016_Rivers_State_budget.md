@@ -1,0 +1,1 @@
+The 2016 RIVERS STATE BUDGET was the financial statement of the Rivers State government presenting its proposed revenues and spending for the 2016 fiscal year. It was presented before the House of Assembly on 18 December 2015 by Governor Ezenwo Nyesom Wike. This was Governor Wike's first budget submitted as governor.[1]

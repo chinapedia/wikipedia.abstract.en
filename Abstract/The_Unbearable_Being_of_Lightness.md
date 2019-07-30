@@ -1,0 +1,1 @@
+_THE UNBEARABLE BEING OF LIGHTNESS_ is a 45-minute documentary film made in 2016 and directed by Ramchandra PN. The documentary documents a workshop that the filmmaker had conducted for a group of students at the University of Hyderabad, immediately after the student protests on the issue of the suicide of Rohith Vemula had ended at the university.

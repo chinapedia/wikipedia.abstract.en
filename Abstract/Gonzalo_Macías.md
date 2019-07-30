@@ -1,0 +1,1 @@
+GONZALO MACÍAS ( 1509, Calamonte, Extremadura, Castile – ?, Tunja, New Kingdom of Granada) was a Spanish conquistador who participated in the expedition from Santa Marta into the Muisca Confederation that was led by Gonzalo Jiménez de Quesada from 1536 to 1538. He settled in Tunja, formerly called Hunza, as seat of the _zaque_.[1]

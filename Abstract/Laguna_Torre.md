@@ -1,0 +1,1 @@
+The LAGUNA TORRE lake is located in the Los Glaciares National Park, Santa Cruz Province, Argentina. It is formed from glacial melt water[1] and is a popular site for hikers and climbers to see surroundings peaks, including the east face of Cerro Torre.

@@ -1,0 +1,1 @@
+KURNOOL FEEDER EXPRESSWAY is a proposed greenfield expressway road in the Indian state of Andhra Pradesh.[1][2] It is being built by the National Highways Authority of India under Phase–VII of National Highways Development Project.

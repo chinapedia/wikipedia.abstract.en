@@ -1,0 +1,1 @@
+R.D. RAJA is an Indian film producer, creative producer, lyricist and movie promotion consultant who primarily works in the Tamil film Industry also known for his films produced in Tamil cinema through his production company, 24AM STUDIOS.

@@ -1,0 +1,1 @@
+_THE SFWA GRAND MASTERS, VOLUME 2_ is an anthology of science fiction short works edited by Frederik Pohl. It was first published in hardcover by Tor Books in April 2000, and in trade paperback by the same publisher in April 2001. It has been translated into Italian.[1]

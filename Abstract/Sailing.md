@@ -1,0 +1,1 @@
+SAILING employs the wind—acting on sails, wingsails or kites—to propel a craft on the surface of the _water_ (sailing ship, sailboat, windsurfer, or kitesurfer), on _ice_ (iceboat) or on _land_ (land yacht) over a chosen course, which is often part of a larger plan of navigation.

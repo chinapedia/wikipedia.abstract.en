@@ -1,0 +1,1 @@
+_MEELO EVARU KOTESWARUDU_ (English: Who is the millionaire among you all?)[1] is a Telugu Film directed by E. Satti Babu and produced by K. K. Radhamohan starring Naveen Chandra,[2] Shruti Sodhi, Prudhviraj and Saloni Aswani among others. The film is set to release in the end of 2016.

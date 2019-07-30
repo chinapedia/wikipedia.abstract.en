@@ -1,0 +1,1 @@
+ROALD HOFFMANN (born ROALD SAFRAN; July 18, 1937)[1] is a Polish-American theoretical chemist who won the 1981 Nobel Prize in Chemistry. He has also published plays and poetry. He is the Frank H. T. Rhodes Professor of Humane Letters, Emeritus, at Cornell University, in Ithaca, New York.[2][3][4][5]

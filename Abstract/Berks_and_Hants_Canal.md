@@ -1,0 +1,1 @@
+The BERKS AND HANTS CANAL, incorporated as the BERKSHIRE AND HAMPSHIRE JUNCTION CANAL COMPANY,[1] was a proposed (but unbuilt) canal in the English counties of Berkshire and Hampshire. Proposals for the waterway originate after the completion of the Kennet and Avon Canal and the Basingstoke Canal in the 1790s, with a view to connecting the two canals.

@@ -1,0 +1,1 @@
+_MULLANEY V. WILBUR_, 421 U.S. 684 (1975), is a criminal case in which a unanimous court struck down a state statute requiring a defendant to prove the defense of provocation to downgrade a murder conviction to manslaughter.[1] Previous common law, such as in _Commonwealth v. York_ (1845), allowed such burden on the defense.[2]

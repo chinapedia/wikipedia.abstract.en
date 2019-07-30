@@ -1,0 +1,1 @@
+SIR CLIVE PHILLIPPS-WOLLEY (born EDWARD CLIVE OLDNALL LONG PHILLIPPS, 3 April 1853 – 8 July 1918) was a British-Canadian official, author and big game hunter.[1][2] His two most famous poems are perhaps _The Sea Queen Wakes_ (1896)[3][4] and _Coronation Hymn_ composed in honour of the coronation of George V.[5][6]

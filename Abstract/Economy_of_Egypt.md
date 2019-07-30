@@ -1,0 +1,1 @@
+The ECONOMY OF EGYPT was a highly centralized economy focused on import substitution under President Gamal Abdel Nasser. In the 1990s, a series of International Monetary Fund arrangements, coupled with massive external debt relief resulting from Egypt's participation in the Gulf War coalition, helped Egypt improve its macroeconomic performance.

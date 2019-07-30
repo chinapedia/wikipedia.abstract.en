@@ -1,0 +1,1 @@
+JULIAN HOPKIN is a physician, researcher and medical teacher. In 2004, he became the founding Head of the new Medical School at Swansea University.[1] He is now Professor of Experimental Medicine at Swansea University Medical School [2] and Honorary Physician at the Abertawe-Bro-Morgannwg (ABM) University Hospital. He was awarded a CBE in 2011 for his services to medicine.[3]

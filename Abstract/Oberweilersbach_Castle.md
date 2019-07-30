@@ -1,0 +1,1 @@
+OBERWEILERSBACH CASTLE () is a levelled mediaeval lowland castle in the northwest of the parish of Oberweilersbach, in the municipality of Weilersbach in the county of Forchheim in the south German state of Bavaria.

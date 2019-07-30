@@ -1,0 +1,1 @@
+The known HISTORY OF MAURITIUS begins with its discovery by Arabs, followed by Europeans and its appearance on maps in the early 16th century. Mauritius was successively colonized by the Dutch, the French and the British, and became independent in 1968.

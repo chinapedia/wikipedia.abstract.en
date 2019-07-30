@@ -1,0 +1,1 @@
+THOMAS SEGUN ILUBE (born July 1963)[1] is a British entrepreneur and educational philanthropist. He is ranked first in the _Powerlist 2017_, an annual listing of the UK's 100 most powerful people with African or Afro-Caribbean heritage.[2]

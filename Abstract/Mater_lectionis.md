@@ -1,0 +1,1 @@
+In the spelling of Hebrew and some other Semitic languages, _MATRES LECTIONIS_ (; from Latin "mothers of reading", singular form: _mater lectionis_, from , 'em k'ri'a) are certain consonants that are used to indicate a vowel. The letters that do this in Hebrew are _aleph_ , _he_ , _waw_ and _yod_ . The yod and waw in particular are more often vowels than they are consonants.

@@ -1,0 +1,1 @@
+"WISH YOU WERE HERE" is the tenth episode of the sixth season of the American fantasy drama series _Once Upon a Time_, which aired on December 4, 2016. In this episode, when The Evil Queen uses Aladdin to make Emma's wish that she wasn't the Savior a reality, Regina tries to save her, while Gold and Belle learn about the dangers awaiting Gideon.

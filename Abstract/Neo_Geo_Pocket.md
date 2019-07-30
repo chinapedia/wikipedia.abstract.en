@@ -1,0 +1,1 @@
+The NEO GEO POCKET is a monochrome handheld game console released by SNK. It was the company's first handheld system and is part of the Neo Geo family. It debuted in Japan in late 1998 but never saw a western release, being exclusive to Japan and smaller Asian markets such as Hong Kong.

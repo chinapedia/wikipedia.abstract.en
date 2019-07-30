@@ -1,0 +1,1 @@
+In telecommunications, ORTHOGONAL FREQUENCY-DIVISION MULTIPLEXING (OFDM) is a method of encoding digital data on multiple carrier frequencies. OFDM has developed into a popular scheme for wideband digital communication, used in applications such as digital television and audio broadcasting, DSL internet access, wireless networks, power line networks, and 4G mobile communications.

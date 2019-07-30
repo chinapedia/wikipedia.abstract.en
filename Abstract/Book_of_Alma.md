@@ -1,0 +1,1 @@
+Moroni_-_Book_of_Mormon.jpg THE BOOK OF ALMA: THE SON OF ALMA (),[1] usually referred to as the BOOK OF ALMA, is one of the books that make up the Book of Mormon. The title refers to Alma the Younger, a prophet and "chief judge" of the Nephites. Alma is the longest book in the Book of Mormon, and consists of sixty three chapters,[2] taking up almost a third of the volume.

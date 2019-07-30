@@ -1,0 +1,1 @@
+_IT ALL STARTED FROM AN INTRO_ () is the fourth studio album by Taiwanese Mandopop singer-songwriter William Wei. It was released digitally on August 16, 2016[1] and physically on August 18, 2016 by Linfair Records. The album consists of 11 tracks and 5 bonus tracks.

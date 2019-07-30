@@ -1,0 +1,1 @@
+WEIGHT OF THE WORLD is a song by alternative rock band Young Guns. Initially recorded and released on their debut EP _Mirors_ in 2009, the band re-recorded it for their debut album, _All Our Kings Are Dead_ the following year, and released as its fourth single. The song was a modest success, peaking at number 27 on the UK Rock Chart.

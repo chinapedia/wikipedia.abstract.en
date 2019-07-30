@@ -1,0 +1,1 @@
+MOROÇOS NATURAL PARK (_Parque Natural de Moroços_), in the middle of the island of Santo Antão, is one of ten "natural parks" in Cape Verde.[1] The protected area is .[2] It covers of the municipality of Ribeira Grande, and of Porto Novo.[3]

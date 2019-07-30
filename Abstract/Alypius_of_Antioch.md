@@ -1,0 +1,1 @@
+ALYPIUS OF ANTIOCH was a geographer and a vicarius of Roman Britain, probably in the late 350s AD. He replaced Flavius Martinus after that vicarius' suicide. His rule is recorded is Ammianus XXIII 1, 3.

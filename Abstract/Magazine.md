@@ -1,0 +1,1 @@
+A MAGAZINE is a publication, usually a periodical publication, which is printed or electronically published (sometimes referred to as an online magazine). Magazines are generally published on a regular schedule and contain a variety of content. They are generally financed by advertising, by a purchase price, by prepaid subscriptions, or a combination of the three.

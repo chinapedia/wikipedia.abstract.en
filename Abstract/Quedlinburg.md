@@ -1,0 +1,1 @@
+QUEDLINBURG () is a town situated just north of the Harz mountains, in the district of Harz in the west of Saxony-Anhalt, Germany. In 1994, the castle, church and old town were added to the UNESCO World Heritage List.

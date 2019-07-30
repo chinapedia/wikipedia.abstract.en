@@ -1,0 +1,1 @@
+IRIX ( ) is a discontinued operating system developed by Silicon Graphics (SGI) to run on the company's proprietary MIPS workstations and servers. It is a variety of UNIX System V with BSD extensions. In IRIX, SGI originated the XFS file system and the universally adopted industry-standard OpenGL graphics system.

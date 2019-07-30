@@ -1,0 +1,1 @@
+The PALACE OF WESTMINSTER serves as the meeting place of the House of Commons and the House of Lords, the two houses of the Parliament of the United Kingdom. Commonly known as the HOUSES OF PARLIAMENT after its occupants, the Palace lies on the north bank of the River Thames in the City of Westminster, in central London, England.

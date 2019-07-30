@@ -1,0 +1,1 @@
+_AZIZA_ is a studio album by English jazz bassist Dave Holland together with saxophonist Chris Potter, guitarist Lionel Loueke, and drummer Eric Harland.[1] The album was released on October 14, 2016 via Holland's own Dare2 Records label.[2]

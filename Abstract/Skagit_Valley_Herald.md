@@ -1,0 +1,1 @@
+_SKAGIT VALLEY HERALD_ is a daily newspaper serving Skagit County, Washington. The paper was founded in 1884 as _The Skagit News_,[1] a weekly newspaper. In 1913, it was renamed _Mount Vernon Herald_ and transitioned to daily delivery in 1922.[2] It has been known as _Skagit Valley Herald_ since 1956.[3][4] The current publisher is Heather Hernandez.[5]

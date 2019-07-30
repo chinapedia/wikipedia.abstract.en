@@ -1,0 +1,1 @@
+The SHARK ANGLING CLUB OF GREAT BRITAIN (SACGB) is headquartered in Looe, Cornwall, and is regarded as the central authority for shark angling in the United Kingdom.[1] Its aims are to promote the sport of shark angling and the conservation of sharks, maintain records of notable shark catches, and foster social links between members.

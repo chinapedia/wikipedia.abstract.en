@@ -1,0 +1,1 @@
+NON-STANDARD FINANCE PLC (NSF) is a UK-based consumer finance company that provides home credit under the brands _Loans at Home_ and '' Everyday Loans''. Loans at Home is the UK's third-largest provider of home credit (home-collected personal loans), and of Everyday Loans, a branch-based provider of unsecured consumer loans.[1][2]

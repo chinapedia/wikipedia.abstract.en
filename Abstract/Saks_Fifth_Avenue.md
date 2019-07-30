@@ -1,0 +1,1 @@
+SAKS FIFTH AVENUE is an American chain of luxury department stores owned, since 2013, by the oldest commercial corporation in North America, the Hudson's Bay Company. Its main flagship store is located on Fifth Avenue in Midtown Manhattan, New York City.[1][2]

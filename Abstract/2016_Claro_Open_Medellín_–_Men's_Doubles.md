@@ -1,0 +1,1 @@
+Nicolás Barrientos and Eduardo Struvay were the defending champions but chose to participate with different partners. Barrientos partnered Ruben Gonzales while Struvay partnered Alejandro Falla. Barrientos lost in the first round to Gonzalo Escobar and Juan Ignacio Londero.

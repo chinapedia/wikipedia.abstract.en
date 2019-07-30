@@ -1,0 +1,1 @@
+_EUCALYPTUS CRETA_, commonly known as the LARGE-FRUITED GIMLET,[1] is a species of mallet or tree that is endemic in Western Australia. It has smooth, shiny bark, lance-shaped adult leaves, flower buds in groups of three in leaf axils, relatively large white to creamy yellow flowers, and broadly hemispherical to bell-shaped fruit.

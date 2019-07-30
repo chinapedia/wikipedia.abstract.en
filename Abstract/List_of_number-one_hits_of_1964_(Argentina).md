@@ -1,0 +1,1 @@
+This is a list of the songs that reached number one in Argentina in 1964, according to _Billboard_ magazine with data provided by Rubén Machado's "Escalera a la fama".[1] Palito_Ortega.JPG Palito Ortega (pictured) had four #1 hits in his country throughout the year.]]

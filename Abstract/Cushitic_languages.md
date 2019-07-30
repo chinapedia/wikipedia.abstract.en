@@ -1,0 +1,1 @@
+The CUSHITIC LANGUAGES are a branch of the Afroasiatic language family. They are spoken primarily in the Horn of Africa (Djibouti, Eritrea, Ethiopia and Somalia), as well as the Nile Valley (Sudan and Egypt), and parts of the African Great Lakes region (Tanzania and Kenya) by Cushitic peoples.

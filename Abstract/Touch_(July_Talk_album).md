@@ -1,0 +1,1 @@
+_TOUCH_ is the second full-length album by Canadian indie rock band July Talk, released September 9, 2016 on Sleepless Records.[1] The album won the Juno Award for Alternative Album of the Year at the Juno Awards of 2017.[2]

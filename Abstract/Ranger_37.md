@@ -1,0 +1,1 @@
+The RANGER 37, also called the RANGER 1 TON, is an American sailboat, designed by Gary Mull as an International Offshore Rule one-ton racer and first built in 1973. The design is out of production.[1][2][3]

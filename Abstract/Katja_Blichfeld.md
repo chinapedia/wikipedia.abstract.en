@@ -1,0 +1,1 @@
+KATJA BLICHFELD (born 1979) is an American writer, director, producer and casting director. She is known for co-creating and directing _High Maintenance_, a Vimeo web series and HBO television series. She won a Primetime Emmy award for Outstanding Casting on a Comedy Series for her work on 30 Rock.[1]

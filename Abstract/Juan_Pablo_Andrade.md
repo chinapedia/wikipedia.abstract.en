@@ -1,0 +1,1 @@
+JUAN PABLO ANDRADE MOYA (born November 29, 1988) is a Chilean footballer who currently plays for Deportes Copiapó in the Primera B de Chile. He has previously played in the Chilean Primera División and Primera B de Chile for Unión San Felipe, A.C. Barnechea and Universidad de Concepción.[1]

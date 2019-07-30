@@ -1,0 +1,1 @@
+JABAL RAM is a mountain in Jordan. Most authorities give its elevation as above sea level. It was once thought to be the highest point in Jordan, but SRTM data shows that Jabal Umm al Dami is [1] above sea level and therefore higher.

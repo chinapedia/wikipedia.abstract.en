@@ -1,0 +1,1 @@
+ANNE-CÉCILE ROBERT is a French journalist specializing in European institutions and Africa, a member of the editorial board and management board of _Le Monde diplomatique_. She is particularly interested in political and institutional systems and democracy, its limitations and operations.

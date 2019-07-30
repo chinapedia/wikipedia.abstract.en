@@ -1,0 +1,1 @@
+WON SHIN-HEE (원 신희, born in Kuchon Dong) is a South Korean male former weightlifter, who competed in the 67.5 category and represented South Korea at international competitions. He won the bronze medal in the clean & jerk at the 1970 World Weightlifting Championships lifting 165.0 kg. He participated at the 1968 Summer Olympics and 1972 Summer Olympics.[1]

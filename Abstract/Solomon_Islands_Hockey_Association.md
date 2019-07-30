@@ -1,0 +1,1 @@
+The SOLOMON ISLANDS HOCKEY ASSOCIATION is the governing body of field hockey in Solomon Islands, Oceania. Its headquarters are in Honiara, Solomon Islands. It is affiliated to IHF International Hockey Federation and OCF Oceania Hockey Federation.

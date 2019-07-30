@@ -1,0 +1,1 @@
+The 1922 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 7, 1922. Incumbent Lieutenant Governor Louis L. Collins of the Republican Party of Minnesota defeated Minnesota Farmer–Labor Party challenger Arthur A. Siegler and Minnesota Democratic Party candidate Silas M. Bryan.

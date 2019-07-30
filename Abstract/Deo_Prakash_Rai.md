@@ -1,0 +1,1 @@
+DEO PRAKASH RAI (December 1926 – 1981) was an Indian politician. A former Gorkha Brigade soldier, he was the general secretary of the All India Gorkha League and named as Minister in the West Bengal state government in 1967, 1969 and 1971.

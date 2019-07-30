@@ -1,0 +1,1 @@
+DAMAGED GOOD is the tenth studio album by Dutch indie rock band Bettie Serveert, released in 2016 on Palomine Records. The CD was released on October 28, 2016, and the LP was released on November 4 of that year.[1]

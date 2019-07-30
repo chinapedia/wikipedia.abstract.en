@@ -1,0 +1,1 @@
+N.W.A (an abbreviation for NIGGAZ WIT ATTITUDES)[1][2][3] was an American hip hop group from Compton, California. They were among the earliest and most significant popularizers and controversial figures of the gangsta rap subgenre, and are widely considered one of the greatest and most influential groups in the history of hip hop music.[4]

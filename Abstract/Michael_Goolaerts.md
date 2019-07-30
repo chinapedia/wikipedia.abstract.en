@@ -1,0 +1,1 @@
+MICHAEL GOOLAERTS (; 24 July 1994 – 8 April 2018) was a Belgian cyclist who rode for .[1] During the 2018 Paris–Roubaix, Goolaerts suffered cardiac arrest. He was airlifted to a hospital in Lille, where he died hours later.[2][3]

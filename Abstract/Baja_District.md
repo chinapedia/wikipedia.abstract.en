@@ -1,0 +1,1 @@
+BAJA (; ) is a district in south-western part of Bács-Kiskun County. _Baja_ is also the name of the town where the district seat is found. The district is located in the Southern Great Plain Statistical Region.

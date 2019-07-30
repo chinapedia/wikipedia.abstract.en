@@ -1,0 +1,1 @@
+ORIGANNA is an unincorporated community in Laclede County, Missouri, United States.[1] The town site lies just north of the Laclede-Wright county line on State Route TT. Competition is approximately six miles to the east.[2]

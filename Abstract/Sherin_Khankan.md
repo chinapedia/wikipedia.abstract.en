@@ -1,0 +1,1 @@
+SHERIN KHANKAN (born ANN CHRISTINE KHANKAN; 13 October 1974) is Denmark's first female imam who has led the foundation of a women-led mosque in Copenhagen called Mariam Mosque. She is also an activist on Muslim issues including female integration and extremism, and has written numerous texts discussing Islam and politics.

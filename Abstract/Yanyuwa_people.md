@@ -1,0 +1,1 @@
+The YANYUWA people are an Indigenous Australian people of the Northern Territory who live in the coastal region inclusive of and opposite to the Sir Edward Pellew Group of Islands in the southern Gulf of Carpentaria.

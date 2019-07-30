@@ -1,0 +1,1 @@
+, is a sumo wrestler from Tokorozawa, Saitama, Japan. His debut in _maezumō_ was in March 2015, and his first _makuuchi_ division _honbasho_ was the Kyūshū tournament in November 2016. His highest rank has been _komusubi_. He has five _kinboshi_ or gold stars for a defeat of a _yokozuna_ and one special prize for Technique.

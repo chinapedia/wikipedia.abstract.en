@@ -1,0 +1,1 @@
+SANGNOKSU (, translated into English as _Evergreen Tree_[1] or just _An Evergreen_[2]) is a 1936 novel by Korean writer Sim Hun on the Korean rural education movement. It is considered his most famous work, and has been described as "one of the most important Korean rural enlightenment novels."

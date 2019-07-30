@@ -1,0 +1,1 @@
+FOAL IMMUNODEFICIENCY SYNDROME (FIS), originally known as FELL PONY SYNDROME, mainly affects two breeds of ponies: the Fell and Dales. FIS is a recessive genetic disease. Affected foals appear normal at birth, but become weak, and either die or are euthanized by three months of age due to persistent infections caused by immunodeficiency.

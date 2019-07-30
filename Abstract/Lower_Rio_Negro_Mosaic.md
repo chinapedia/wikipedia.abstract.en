@@ -1,0 +1,1 @@
+The LOWER RIO NEGRO MOSAIC ( is a protected area mosaic in the state of Amazonas, Brazil. It coordinates between eleven conservation units of different types in the Amazon rainforest to the northwest of the state capital, Manaus.

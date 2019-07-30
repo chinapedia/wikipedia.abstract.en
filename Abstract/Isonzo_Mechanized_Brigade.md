@@ -1,0 +1,1 @@
+The Mechanized Brigade _Isonzo_ was a short-lived brigade of the Italian Army created during the 1975 army reform and renamed _Mantova_ during the 1986 army reform. The name of the brigade was chosen to commemorate the twelve Battles of the Isonzo during World War I.

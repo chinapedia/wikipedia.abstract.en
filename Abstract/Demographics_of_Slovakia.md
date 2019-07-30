@@ -1,0 +1,1 @@
+This article is about the demographic features of the population of Slovakia, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population. The demographic statistics are from the Statistical Office of the SR, unless otherwise indicated.

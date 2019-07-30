@@ -1,0 +1,1 @@
+RUPERT PARKES (born May 13th, 1972), known as PHOTEK, is a Los Angeles–based British record producer, film and TV composer, and electronic music DJ. Photek was born and raised in St Albans, Hertfordshire.

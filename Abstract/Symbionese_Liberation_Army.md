@@ -1,0 +1,1 @@
+The UNITED FEDERATED FORCES OF THE SYMBIONESE LIBERATION ARMY (SLA) was an American left-wing terrorist organization active between 1973 and 1975 that considered itself a vanguard army. The group committed bank robberies, two murders, and other acts of violence.

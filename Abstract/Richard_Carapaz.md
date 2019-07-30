@@ -1,0 +1,1 @@
+RICHARD ANTONIO CARAPAZ MONTENEGRO (born 29 May 1993) is an Ecuadorian cyclist, who currently rides for UCI WorldTeam .[1] In June 2019, Carapaz won the 2019 Giro d'Italia, becoming the first Ecuadorian rider to win the race.[2] He is nicknamed "La Locomotora" (The Locomotive).

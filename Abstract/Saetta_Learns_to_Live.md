@@ -1,0 +1,1 @@
+_SAETTA LEARNS TO LIVE_ (Italian: _SAETTA IMPARA A VIVERE_) is a 1924 Italian silent film directed by Guido Brignone and starring Domenico Gambino and Pauline Polaire.[1] It was made by the Turin-based Fert Film.

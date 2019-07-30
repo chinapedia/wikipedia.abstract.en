@@ -1,0 +1,1 @@
+RAABA-GRAMBACH is a market town in the district Graz-Umgebung in Styria, Austria since 2015. It was created as part of the Steiermärkische Gemeindestrukturreform of Styria[1] at the end of 2014, dissolving the towns Raaba and Grambach.[2] One complaint from both communities against merging was raised at the Constitutional Court but ended unsuccessfully.[3]

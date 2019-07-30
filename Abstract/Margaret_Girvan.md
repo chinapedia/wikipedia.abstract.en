@@ -1,0 +1,1 @@
+MARGARET THERESE GIRVAN (2 October 1932 – 7 January 1979) was a Scottish swimmer. She competed for Great Britain in the 400 m and 4×100 m freestyle events at the 1956 Olympics and reached the final in the relay. She represented Scotland at the British Empire Games in 1950, 1954 and 1958 and won one gold and two bronze medals.[1]

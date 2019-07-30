@@ -1,0 +1,1 @@
+_PONDATTI SONNA KETTUKANUM_ () is a 1991 comedy-drama film written and directed by V. Sekhar. The film was produced by K. Parthiban, Vetriyur K. Sethu and A. Rajendran under Jayalakshmi Art Creations.[1] The film stars Bhanupriya, Chandrasekhar in lead roles with Goundamani, Senthil, Charle and Chinni Jayanth portraying supporting roles.[2][3]

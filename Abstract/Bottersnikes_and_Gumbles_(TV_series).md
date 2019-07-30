@@ -1,0 +1,1 @@
+_BOTTERSNIKES AND GUMBLES_ is a British-Australian-American animated television series which first aired on 7TWO in Australia and CBBC in the United Kingdom. The cast includes Jason Callender, Richard Grieve, Jeff Rawle, Kathryn Drysdale and Miriam Margolyes. It was released on Netflix in North America on 19 August 2016 but was re-dubbed with American accents.

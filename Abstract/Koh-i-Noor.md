@@ -1,0 +1,1 @@
+The KOH-I-NOOR (),[1] (Persian: کوه نور‎ "Mountain of light"); also spelt KOOH-E-NOOR, KOHINOOR and KOH-I-NUR, is one of the largest cut diamonds in the world, weighing , and part of the British Crown Jewels.

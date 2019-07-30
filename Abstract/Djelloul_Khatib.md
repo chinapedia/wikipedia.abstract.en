@@ -1,0 +1,1 @@
+DJELLOUL KHATIB alias commandant Djelloul (8 October 1936 – 6 February 2017)[1][2] was a combatant for the Algerian independence and a public servant. During the war of independence he led the efforts towards the professionalization of the National Liberation Army (NLA). He contributed thereafter to building the civil service of newly independent Algeria.[3]

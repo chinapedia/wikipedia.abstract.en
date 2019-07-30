@@ -1,0 +1,1 @@
+BURY CASTLE near Brompton Regis in the English county of Somerset was an Iron Age univallate hillfort which was reused with the creation of a motte after the Norman Conquest. It has been scheduled as an ancient monument.[1]

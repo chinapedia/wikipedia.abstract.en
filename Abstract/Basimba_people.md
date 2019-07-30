@@ -1,0 +1,1 @@
+The people who currently identify themselves as BASIMBA [1][2] or [3] BASHIMBA for many and MUSIMBA [4] or MUSHIMBA for singular are Bantu speaking, Community that exist in Uganda. Before the 13th Century they did maintain a shared identity as Basimba also defined in Swahili Language, as (a big lion),[5][6][7] associated with either these people or the place which they came from.

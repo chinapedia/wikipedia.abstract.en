@@ -1,0 +1,1 @@
+In the run up to the 2019 PARLIAMENTARY ELECTIONS in Finland, various organizations carry out OPINION POLLING to gauge voting intention in Finland. Results of such polls are displayed in this article.

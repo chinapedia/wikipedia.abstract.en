@@ -1,0 +1,1 @@
+VLADIMIR VOEVODIN (; born May 25, 1962, Moscow) is a computer scientist, professor at Lomonosov Moscow State University, the Faculty of Computational Mathematics and Cybernetics (MSU CMC) , Deputy Director of MSU Research Computing Center, corresponding member of the Russian Academy of Sciences,[1] Professor, Dr.Sc..[2]

@@ -1,0 +1,1 @@
+Palm-sunday.jpg PALM SUNDAY is a Christian moveable feast that falls on the Sunday before Easter. The feast commemorates Jesus' triumphal entry into Jerusalem, an event mentioned in each of the four canonical Gospels.[1]

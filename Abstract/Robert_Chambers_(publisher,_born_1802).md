@@ -1,0 +1,1 @@
+ROBERT CHAMBERS (; 10 July 1802 – 17 March 1871)[1] was a Scottish publisher, geologist, evolutionary thinker, author and journal editor who, like his elder brother and business partner William Chambers, was highly influential in mid-19th century scientific and political circles.

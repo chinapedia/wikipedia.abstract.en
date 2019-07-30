@@ -1,0 +1,1 @@
+The Greece national football team has represented Greece at the FIFA Confederations Cup on one occasion, a sole appearance in 2005. Greece qualified for the 2005 FIFA Confederations Cup as the UEFA representative after winning UEFA Euro 2004.

@@ -1,0 +1,1 @@
+Alexander_Hamilton_portrait_by_John_Trumbull_1806.jpg]]

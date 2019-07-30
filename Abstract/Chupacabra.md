@@ -1,0 +1,1 @@
+The CHUPACABRA or CHUPACABRAS (, literally "goat-sucker"; from _chupar_, "to suck", and _cabra_, "goat") is a legendary creature in the folklore of parts of the Americas, with its first purported sightings reported in Puerto Rico.[1] The name comes from the animal's reported habit of attacking and drinking the blood of livestock, including goats.

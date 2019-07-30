@@ -1,0 +1,1 @@
+_FEARLESS_ is a 1993 American drama film directed by Peter Weir and starring Jeff Bridges, Isabella Rossellini, Rosie Perez and John Turturro. It was written by Rafael Yglesias from his novel of the same name.[1]

@@ -1,0 +1,1 @@
+HENDRA WIJAYA (born 27 December 1985) is a Singaporean male badminton player.[1] Wijaya and his brother, Hendri Saputra, joined the Singapore Badminton Association (SBA) in 2000 and both became Singapore citizens after five years.[2]

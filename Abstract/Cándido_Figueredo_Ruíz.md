@@ -1,0 +1,1 @@
+CÁNDIDO FIGUEREDO RUÍZ is an award-winning journalist for ABC Color from Pedro Juan Caballero, Amambay Department, Paraguay. He has received multiple threats against his life for his work in exposing organized crime, drug smuggling across the Brazilian border, and corruption in Paraguay.[1]

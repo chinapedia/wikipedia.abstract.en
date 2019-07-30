@@ -1,0 +1,1 @@
+The _' SandAce - British Championship_' is an Auto-Cycle Union Motorcycle championship and is run and organised by the Guernsey Motor Cycle & Car Club LBG. It was first run in 2006 as the Guernsey SandAce and became the _' SandAce - British Championship_' in 2012.

@@ -1,0 +1,1 @@
+Utdrag_ur_Gesta_Hammaburgensis_ecclesiae_pontificum.jpg of Adam of Bremen's magnum opus.]] ADAM OF BREMEN (; ) (Before 1050 – 12 October 1081/1085) was a German medieval chronicler. He lived and worked in the second half of the eleventh century. Adamus is most famous for his chronicle _Gesta Hammaburgensis Ecclesiae Pontificum_ (_Deeds of Bishops of the Hamburg Church_).

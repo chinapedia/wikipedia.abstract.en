@@ -1,0 +1,1 @@
+_KARMAPHAL DAATA SHANI_ ( Shani, the divine judge of deeds) is an Indian Hindi-language mythological television series, which aired from 7 November 2016 to 9 March 2018 on Colors TV. The series was produced by Swastik Productions of Siddharth Kumar Tewary.[1].

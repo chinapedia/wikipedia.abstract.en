@@ -1,0 +1,1 @@
+COLEBROOKE ISLAND is an island of the Andaman Islands. It belongs to the North and Middle Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands.[1] The island lies north from Port Blair. It is named after Robert Hyde Colebrooke who surveyed the region along with Archibald Blair.

@@ -1,0 +1,1 @@
+PROTEIN SECONDARY STRUCTURE is the three dimensional form of _local segments_ of proteins. The two most common secondary structural elements are alpha helices and beta sheets, though beta turns and omega loops occur as well. Secondary structure elements typically spontaneously form as an intermediate before the protein folds into its three dimensional tertiary structure.

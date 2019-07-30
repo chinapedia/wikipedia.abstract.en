@@ -1,0 +1,1 @@
+ALEXANDER I JAGIELLON (; ) (5 August 1461 – 19 August 1506) of the House of Jagiellon was the Grand Duke of Lithuania and later also King of Poland.[1] He was the fourth son of Casimir IV Jagiellon. He was elected Grand Duke of Lithuania on the death of his father (1492), and King of Poland on the death of his brother John I Albert (1501).

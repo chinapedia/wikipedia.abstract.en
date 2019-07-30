@@ -1,0 +1,1 @@
+POPE STEPHEN V (; died 14 September 891) was Pope from September 885 to his death in 891.[1] He succeeded Pope Adrian III, and was in turn succeeded by Pope Formosus. In his dealings with Constantinople in the matter of Photius, as also in his relations with the young Slavic Orthodox church, he pursued the policy of Pope Nicholas I.

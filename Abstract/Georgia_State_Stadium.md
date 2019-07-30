@@ -1,0 +1,1 @@
+GEORGIA STATE STADIUM is a college football stadium in Atlanta, Georgia. The stadium is the home of the Georgia State University Panthers football team as of the 2017 season, replacing the Georgia Dome which had served as their home stadium from the program's inception in 2010 until 2016.[1] It was also the home of the Atlanta Legends of the Alliance of American Football (AAF).

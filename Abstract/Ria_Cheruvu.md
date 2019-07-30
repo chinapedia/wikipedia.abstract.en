@@ -1,0 +1,1 @@
+RIA CHERUVU is an American child prodigy from Gilbert, Arizona. She graduated from high school in May 2015 at age 11.[1] The same year, she enrolled in online courses in neural cryptography at Harvard University's Division of Continuing Education.[2] She is also an actress and has appeared in stage and film productions in the United States and India.

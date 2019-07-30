@@ -1,0 +1,1 @@
+_BEAVIS AND BUTT-HEAD_ is an American adult animated sitcom created by Mike Judge.[1] The series originated from _Frog Baseball_, a 1992 short film by Judge originally aired on _Liquid Television_. After seeing the short, MTV signed Judge to develop the short into a full series.[2][3] The series originally ran for seven seasons from March 8, 1993 to November 28, 1997.

@@ -1,0 +1,1 @@
+_KING OF THE BELGIANS_ is a 2016 mockumentary comedy film produced, written and directed by Peter Brosens and Jessica Woodworth. It premiered in the Horizons section at the 73rd edition of the Venice Film Festival.[1][2][3] It received five nominations at the 8th Magritte Awards, including Best Flemish Film.[4]

@@ -1,0 +1,1 @@
+_BOUND FOR GLORY_ is a 1956 album by Woody Guthrie and Will Geer. It consists of a selection of songs from Guthrie's _Dust Bowl Ballads_ of 1940 and his Asch recordings of 1944-45, each introduced briefly by Geer with spoken relevant extracts from Guthrie's writings.

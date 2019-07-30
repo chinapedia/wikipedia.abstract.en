@@ -1,0 +1,1 @@
+OHIO is a Midwestern state in the Great Lakes region of the United States. Of the fifty states, it is the 34th largest by area, the seventh most populous, and the tenth most densely populated. The state's capital and largest city is Columbus.

@@ -1,0 +1,1 @@
+The POLITICS OF CAMEROON takes place in a framework of a unitary presidential republic, whereby the President of Cameroon is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the National Assembly of Cameroon.

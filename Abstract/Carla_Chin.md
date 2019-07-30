@@ -1,0 +1,1 @@
+'''Carla Chin ''' (born 10 May 1966) is a Jamaica-born Canadian footballer who played as a goalkeeper for the Canada women's national soccer team. She was part of the team at the 1995 FIFA Women's World Cup.[1]

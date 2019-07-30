@@ -1,0 +1,1 @@
+EXAPT-logo.png EXAPT ("EXtended Subset of APT") is a production oriented programming language to generate NC programs with control information for machining tools and enables to consider production-related issues of various machining processes.

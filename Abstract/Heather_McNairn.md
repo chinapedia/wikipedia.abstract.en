@@ -1,0 +1,1 @@
+HEATHER MCNAIRN, is a federal research scientist at the Ottawa Research and Development Centre, Agriculture and Agri-Food Canada.[1] She specializes in remote sensing technology, and her research focuses on the use of Synthetic Aperture Radar satellites (SARs) to monitor the condition of crops and soils.[2][3]

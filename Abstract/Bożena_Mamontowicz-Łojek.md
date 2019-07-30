@@ -1,0 +1,1 @@
+Bożena_Mamontowicz_Łojek_grób.JPG]] BOŻENA MAMONTOWICZ-ŁOJEK (22 December 1937 – 10 April 2010) was a Polish historian and activist. She studied history of Polish theater and ballet. She was President of the Polish Katyn Foundation. She was wife of Jerzy Łojek, historian.

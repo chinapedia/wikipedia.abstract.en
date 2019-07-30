@@ -1,0 +1,1 @@
+JESSICA COON is an associate professor of linguistics at McGill University and Canada Research Chair in syntax and indigenous languages.[1] She was the linguistics expert consultant for the 2016 film _Arrival_.[2][3]

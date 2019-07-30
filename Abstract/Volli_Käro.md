@@ -1,0 +1,1 @@
+VOLLI KÄRO (born 13 December 1940)[1] is an Estonian actor who is possibly best known for his long engagement as a stage actor at the Rakvere Teater in Lääne-Viru County, Estonia. He has also appeared in several film and television roles.

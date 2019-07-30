@@ -1,0 +1,1 @@
+HEATHER CANNING (HEATHER JOAN CANNING) (5 January 1933 – 30 May 1996) was an English actress, who is best known for her television roles. She played Isabel Rockmetteller in "The Full House", the second episode of the third series of the 1990s British comedy television series _Jeeves and Wooster_.

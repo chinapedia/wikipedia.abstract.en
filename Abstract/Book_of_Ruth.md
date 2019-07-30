@@ -1,0 +1,1 @@
+The BOOK OF RUTH (abbreviated RTH) (, _Megilath Ruth_, "the Scroll of Ruth", one of the Five Megillot) is included in the third division, or the Writings (Ketuvim), of the Hebrew Bible; in most Christian canons it is treated as a history book and placed between Judges and 1 Samuel, as it is set "in the days when the judges judged",[1]

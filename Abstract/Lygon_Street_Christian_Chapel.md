@@ -1,0 +1,1 @@
+LYGON STREET CHRISTIAN CHAPEL is an Evangelical church in the inner-city suburb of Carlton, Melbourne, Victoria, Australia, built in 1865, and designed by architect W.M. Moore.[1] The services were led by a 'preacher'. The preacher prior to February 1867 was American Reverend H.S. Earl. He was replaced by fellow Americans T.J. Gore and G.L. Surben.[2][3]

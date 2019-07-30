@@ -1,0 +1,1 @@
+_MR. DONKEY_ is a 2016 Chinese comedy-drama film directed by Zhou Shen and Liu Lu and starring Ren Suxi, Da Li, Liu Shuailiang, Pei Kuishan, Ke Runa, Han Yanbo, Bu Guanjin and Wang Kun.[1] It was released in China by Tianjin Maoyan Media and Huaxia Film Distribution on October 28, 2016.[2]

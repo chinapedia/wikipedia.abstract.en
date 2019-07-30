@@ -1,0 +1,1 @@
+is the capital city of Kagoshima Prefecture at the south western tip of the island of Kyushu in Japan, and the largest city in the prefecture by some margin. It has been nicknamed the "Naples of the Eastern world" for its bay location (Aira Caldera), hot climate, and emblematic stratovolcano, Sakurajima. The city was officially founded on April 1, 1889.

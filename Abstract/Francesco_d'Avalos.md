@@ -1,0 +1,1 @@
+FRANCESCO D'AVALOS (11 April 1930 in Naples – 26 May 2014 in Naples) was an Italian conductor and composer. Holder of the aristocratic titles of Prince d'Avalos and Marquis of Vasto and Pescara, d'Avalos was also a descendant of the uncle of Maria d'Avalos, the murdered first wife of Carlo Gesualdo.

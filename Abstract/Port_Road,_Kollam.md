@@ -1,0 +1,1 @@
+KOLLAM PORT ROAD () or PORT ROAD, KOLLAM is a four lane road in the city of Kollam, India. The road connects historic Port of Quilon'' (Kollam Port)'' and Vaddy with Kochupilamoodu in the city through Kollam Beach.[1]

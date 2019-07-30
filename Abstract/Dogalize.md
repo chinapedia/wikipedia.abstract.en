@@ -1,0 +1,1 @@
+DOGALIZE is a social network dedicated to pet animals based in Milano, Italy.[1] The network allows users to geo-locate other pet owners and find pet-friendly places. Currently the site has around 350,000 users.[2][3] The site received the Innovation IT award 2016 from the president of Italy.[4]

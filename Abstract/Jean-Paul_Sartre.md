@@ -1,0 +1,1 @@
+Simone_de_Beauvoir_&_Jean-Paul_Sartre_in_Beijing_1955.jpg

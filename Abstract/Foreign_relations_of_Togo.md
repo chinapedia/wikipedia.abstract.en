@@ -1,0 +1,1 @@
+Although TOGO'S FOREIGN POLICY is nonaligned, it has strong historical and cultural ties with western Europe, especially France and Germany. Togo recognizes the People's Republic of China, North Korea, and Cuba. It re-established relations with Israel in 1987.

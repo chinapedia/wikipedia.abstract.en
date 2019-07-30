@@ -1,0 +1,1 @@
+On November 10, 2016, three days of protests in Portland, Oregon, turned into a riot, when a group of anarchists[1][2] broke off from a larger group of peaceful protesters who were opposed to the election of Donald Trump as president of the United States.

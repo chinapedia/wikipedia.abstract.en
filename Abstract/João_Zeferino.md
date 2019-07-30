@@ -1,0 +1,1 @@
+JOÃO ZEFERINO[1] (born January 15, 1986) is a Brazilian mixed martial artist who currently competes for the Professional Fighters League in the Welterweight division. A professional since 2005, he has also competed for the UFC.

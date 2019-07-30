@@ -1,0 +1,1 @@
+The 2016 WORLD SERIES OF DARTS was a series of non-televised darts tournaments organised by the Professional Darts Corporation. There were 6 World Series events and one Final event being held – one in the United Arab Emirates, one in New Zealand, one in China, one in Japan, two in Australia, with the finals being held in Scotland.

@@ -1,0 +1,1 @@
+A BY-ELECTION FOR THE ZLÍN SENATE SEAT was held in the Czech Republic on 10–11 January and 17–18 January. The election was held after Tomio Okamura was elected member of Chamber of Deputies.[1] The election was won by Patrik Kunčar who faced Libor Lukáš in second round. Okamura's candidate Pavel Talaš was eliminated in the first round.[2]

@@ -1,0 +1,1 @@
+LISA SCHACK IVERSEN (born 21 June 1997) is an Italian badminton player.[1][2] She won her first senior international title at the 2016 Ethiopia International tournament in the women's doubles event partnered with Silvia Garino.[3][4] Played for the Italian Air Force team, she claimed the women's doubles National Championships title in 2017 with Garino.[5]

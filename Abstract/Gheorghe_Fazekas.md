@@ -1,0 +1,1 @@
+GHEORGHE (or GYÖRGY) FAZEKAS (born 2 January 1958) is a Romanian former figure skater. He represented Romania at the 1972 Winter Olympics in Sapporo, Japan.[1] He also competed at multiple World and European Championships.[2]

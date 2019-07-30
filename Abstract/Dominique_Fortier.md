@@ -1,0 +1,1 @@
+DOMINIQUE FORTIER (born 1972) is a Canadian novelist and translator from Quebec, who won the Governor General's Award for French-language fiction at the 2016 Governor General's Awards for her novel _Au péril de la mer_.[1]

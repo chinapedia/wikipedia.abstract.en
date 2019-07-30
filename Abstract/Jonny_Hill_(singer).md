@@ -1,0 +1,1 @@
+Olympialotterie_mit_dem_Schlagersänger_Jonny_Hill_(Kiel_48.585).jpg

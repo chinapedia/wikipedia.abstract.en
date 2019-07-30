@@ -1,0 +1,1 @@
+NADIA MIN DERN HENG (; born January 1, 1985 in Negeri Sembilan, Malaysia) is a Malaysian beauty pageant titleholder and model who won Miss World Malaysia 2010 and represented Malaysia at Miss World 2010 on October 30 in China.

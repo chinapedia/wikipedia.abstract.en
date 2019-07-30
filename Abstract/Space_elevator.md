@@ -1,0 +1,1 @@
+Space_elevator_structural_diagram--corrected_for_scale+CM+etc.svg well above geostationary orbit level. This produces enough upward centrifugal force from Earth's rotation to fully counter the downward gravity, keeping the cable upright and taut. Climbers carry cargo up and down the cable.]] thumbtime=28

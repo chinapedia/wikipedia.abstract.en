@@ -1,0 +1,1 @@
+DRUM AND BASS (also written as "DRUM 'N' BASS" or "DRUM & BASS"; commonly abbreviated as "D&B", "DNB" or "D'N'B"), is a genre and branch of electronic music characterised by fast breakbeats (typically 160–180 beats per minute[1]) with heavy bass and sub-bass lines,[2] sampled sources, and synthesizers.

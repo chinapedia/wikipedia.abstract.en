@@ -1,0 +1,1 @@
+CHRIS STEEL (born 15 May 1986) is an Australian politician. He has been a Labor member of the Australian Capital Territory Legislative Assembly since 2016, representing the electorate of Murrumbidgee and currently serves as a Cabinet Minister in the ACT Government. Before his election, Steel was an education advocate working in the early childhood sector.[1]

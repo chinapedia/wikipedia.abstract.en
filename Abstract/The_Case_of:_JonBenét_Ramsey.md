@@ -1,0 +1,1 @@
+_THE CASE OF: JONBENÉT RAMSEY_ is a 2016 documentary miniseries about the murder of JonBenét Ramsey in Boulder, Colorado on December 25, 1996.[1][2] The miniseries aired on CBS on September 18, and 19, 2016.[3][4]

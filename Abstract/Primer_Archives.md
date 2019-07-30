@@ -1,0 +1,1 @@
+PRIMER ARCHIVES is a New York City-based fine art software company established in 2014 that created Primer, an art inventory database solution for art galleries and art collections. Primer is a Filemaker Pro-based application, and Primer Archives is a member of the Filemaker Business Alliance.

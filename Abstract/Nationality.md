@@ -1,0 +1,1 @@
+NATIONALITY is a legal relationship between an individual person and a state.[1] Nationality affords the state jurisdiction over the person and affords the person the protection of the state. What these rights and duties are varies from state to state.[2]

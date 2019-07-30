@@ -1,0 +1,1 @@
+EDUARD ALBERTI (11 March 1827 – 28 February 1898) was a German literary historian and philosopher. His surviving published output includes approximately twenty biographical entries in _Allgemeine Deutsche Biographie_.[1]

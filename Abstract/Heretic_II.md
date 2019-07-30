@@ -1,0 +1,1 @@
+_HERETIC II_ is a dark fantasy action-adventure game developed by Raven Software and published by Activision in 1998 continuing the story of Corvus, the main character from its predecessor, _Heretic_. It is the fourth game in the Hexen/Heretic series and comes after the "Serpent Rider" trilogy.

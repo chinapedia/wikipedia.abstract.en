@@ -1,0 +1,1 @@
+_TRACES OF TIME IN LOVE_ () is the tenth Mandarin studio album by Taiwanese Mandopop artist Rainie Yang. It was released on 30 September 2016 through EMI, her second album on the sublabel of Universal Music Taiwan.[1]

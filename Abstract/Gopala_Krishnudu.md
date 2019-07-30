@@ -1,0 +1,1 @@
+_GOPALA KRISHNUDU_ is a 1982 Telugu drama film, produced by Bhimavarapu Bhuchchi Reddy under the Jyothi Art Creations banner[1] and directed by A. Kodandarami Reddy.[2] It stars Akkineni Nageswara Rao, Jayasudha, Radha in the lead roles[3] and music composed by Chakravarthy.[4]

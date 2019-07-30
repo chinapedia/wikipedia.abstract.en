@@ -1,0 +1,1 @@
+EDWARD A. ALLWORTH was an American historian specializing in Central Asia. Allwarth is widely regarded as the West’s leading scholar on Central Asian studies.[1] He extensively studied the various ethnic groups of the region, including Uzbeks, Tajiks, and Bukharan Jews. He wrote numerous books on the history of Central Asia.

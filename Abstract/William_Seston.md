@@ -1,0 +1,1 @@
+WILLIAM SESTON (2 June 1900 – 2 October 1983) was a 20th-century French historian and epigrapher, a specialist of the history of the Roman Empire. He was professor at the Sorbonne and a member of the Académie des Inscriptions et Belles-Lettres.

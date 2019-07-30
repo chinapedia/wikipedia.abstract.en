@@ -1,0 +1,1 @@
+ATHELAS is a serif typeface designed by Veronika Burian and Jose Scaglione and intended for use in body text.[1] Released by their company TypeTogether in 2008, Burian and Scaglione described Athelas as inspired by British fine book printing.[2][3][4]

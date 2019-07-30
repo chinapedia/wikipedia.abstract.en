@@ -1,0 +1,1 @@
+_POWER PLAY_ is the sixth studio album recorded by Australian-New Zealand group Dragon, released in September 1979. _Power Play_ peaked at number 64 on the Australian Kent Music Report. It was the group's final studio album for five years with the band splitting up in December 1979. [1]

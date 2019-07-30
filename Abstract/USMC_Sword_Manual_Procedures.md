@@ -1,0 +1,1 @@
+USMC SWORD MANUAL PROCEDURES are commonly used in the Marine Corps. Marines considered Non-commissioned Officers (NCO) as well as Staff Non-Commissioned Officers (SNCO) may find themselves having to perform "Sword Manual", which is a stationary drill.

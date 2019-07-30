@@ -1,0 +1,1 @@
+{{Infobox language family |name=Finno-Ugric |altname=Finno-Ugrian |region=Eastern, Central and Northern Europe, North Asia |familycolor=Uralic |child1=Ugric (Ugrian) |child2=[[Finno-Permic_languages|Finno-Permic

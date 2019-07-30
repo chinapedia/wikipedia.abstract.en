@@ -1,0 +1,1 @@
+BAYESIAN PROBABILITY is an interpretation of the concept of probability, in which, instead of frequency or propensity of some phenomenon, probability is interpreted as reasonable expectation[1] representing a state of knowledge[2] or as quantification of a personal belief.[3]

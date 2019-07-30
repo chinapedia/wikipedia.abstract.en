@@ -1,0 +1,1 @@
+The 2008 BREEDERS' CUP CLASSIC was the 25th running of the Breeders' Cup Classic, part of the 2008 Breeders' Cup World Thoroughbred Championships program. It was run on October 25, 2008 at Santa Anita Park in Arcadia, California over a synthetic dirt surface.

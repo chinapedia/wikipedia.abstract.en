@@ -1,0 +1,1 @@
+The 2016–17 SEASON was 16th season in the top Ukrainian football league for ZORYA LUHANSK. Zorya competed in Premier League, Ukrainian Cup and UEFA Europa League. Finishing on third place in Preimer League Zorya qualified to Europa League group stage for next season.

@@ -1,0 +1,1 @@
+_EUCALYPTUS BAKERI_, commonly known as BAKER'S MALLEE[1] or the MALLEE BOX, is a eucalypt that is endemic to eastern Australia. It has fibrous bark on the trunk and smooth white or grey bark above, narrow lance-shaped leaves, flower buds in groups of between seven and thirteen, white flowers and hemispherical or shortened spherical fruit.

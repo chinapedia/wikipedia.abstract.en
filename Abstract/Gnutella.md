@@ -1,0 +1,1 @@
+GNUTELLA is a large peer-to-peer network. It was the first decentralized peer-to-peer network of its kind, leading to other, later networks adopting the model.[1] It celebrated a decade of existence on March 14, 2010, and has a user base in the millions for peer-to-peer file sharing.

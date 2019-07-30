@@ -1,0 +1,1 @@
+An INTERNATIONAL REPLY COUPON (IRC) is a coupon that can be exchanged for one or more postage stamps representing the minimum postage for an unregistered priority airmail letter of up to twenty grams sent to another Universal Postal Union (UPU) member country. IRCs are accepted by all UPU member countries.

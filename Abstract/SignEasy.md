@@ -1,0 +1,1 @@
+SIGNEASY is a cloud-based solution to sign and fill documents or get documents signed from phone, tablet or computer. Signatures done with SignEasy are compliant with the ESIGN Act as well as the eIDAS and the European Directive (EC/1999/93). [1][2][3][4]

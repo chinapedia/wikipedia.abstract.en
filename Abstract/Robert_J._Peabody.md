@@ -1,0 +1,1 @@
+ROB PEABODY is the president and CEO of Husky Energy Inc., one of Canada’s largest integrated energy companies. The company is headquartered in Calgary, Alberta, and listed on the Toronto Stock Exchange. In 2015, Husky produced an average of 346,000 barrels of oil equivalent per day.[1]

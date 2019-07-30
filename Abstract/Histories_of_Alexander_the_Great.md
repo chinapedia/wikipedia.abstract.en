@@ -1,0 +1,1 @@
+HISTORIES OF ALEXANDER THE GREAT () is a biography of Alexander the Great written by Roman historian Quintus Curtius Rufus, dating to the 1st century. More fully title is _Historiarum Alexandri Magni Macedonis Libri Qui Supersunt_, "All the Books That Survive of the Histories of Alexander the Great of Macedon".

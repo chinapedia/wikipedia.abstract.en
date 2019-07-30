@@ -1,0 +1,1 @@
+COLDEAST is a former manor house and former psychiatric hospital between Park Gate and Sarisbury in Hampshire, England. The house is used today as a wedding and conference venue and much of the former grounds are being redeveloped for housing and the construction of a new leisure centre.

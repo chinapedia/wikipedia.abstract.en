@@ -1,0 +1,1 @@
+_PATISSERIE FIGHTING_ (Chinese: 我的甜蜜革命) is a 2017 Singaporean web-drama series by Mediacorp Toggle. An eight-episode drama about baking, it stars Singaporean singer-actress Kit Chan and Taiwanese actor Chris Lee.[1]

@@ -1,0 +1,1 @@
+The CANADIAN SOCIETY OF SOIL SCIENCE (CSSS) is a non-governmental, non-profit organization for scientists, engineers, technologists, administrators and students involved in professional soil science.[1][2] Its goal is to nurture the discipline of soil science in Canada and ensure its relevance in the future. It works to achieve this goal by:

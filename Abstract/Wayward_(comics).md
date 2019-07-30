@@ -1,0 +1,1 @@
+_WAYWARD_ is an ongoing comic book series written by Jim Zub, colored by Tamra Bonvillain, with flats by Ludwig Olimba, and letters by Marshall Dillon. Its publication, by Image Comics, began in 2014.

@@ -1,0 +1,1 @@
+The HISTORY OF THE COMOROS goes back some 1,500 years. The Comoros have been inhabited by various groups throughout this time. France colonised the islands in the 19th century, and they became independent in 1975.

@@ -1,0 +1,1 @@
+A RELAY LEAGUE is a chain of message forwarding stations in a system of optical telegraphs, radio telegraph stations, or riding couriers. Early 19th century methods of this type evolved into the electrical telegraph networks of the mid-to-late 19th century.[1]

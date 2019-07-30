@@ -1,0 +1,1 @@
+The ROTHENBACHKOPF is a mountain, 1,315 metres high, in the High Vosges. Only a few metres to the west of the summit runs the Route des Crêtes heading south from the Col de la Schlucht. Several Vosges Club hiking trails run over the top. A few kilometres north of the Rothenbachkopfs the border between Alsace and Lorraine turns and heads southwest.

@@ -1,0 +1,1 @@
+LAINE COURTNEY MCDONALD is an Australian politician. She was a Labor member of the Western Australian Legislative Council for North Metropolitan from 27 September 2016, when she was elected in a countback following the resignation of Ken Travers,[1] to 21 May 2017, when her term concluded following her defeat at the 2017 state election.

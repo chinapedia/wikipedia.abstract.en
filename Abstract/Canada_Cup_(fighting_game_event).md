@@ -1,0 +1,1 @@
+The CANADA CUP is an annual fighting game event held in Toronto, Ontario, Canada. Launched as the CALGARY CUP in 2009, the event, organized by Lap Chi Duong, has been a major _Street Fighter_ tournament and is part of the Capcom Pro Tour.

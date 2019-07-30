@@ -1,0 +1,1 @@
+OriginalBroadwayCast-1.jpg _RENT_ is a rock musical with music, lyrics, and book by Jonathan Larson,[1] loosely based on Giacomo Puccini's opera _La Bohème_. It tells the story of a group of impoverished young artists struggling to survive and create a life in Lower Manhattan's East Village in the thriving days of Bohemian Alphabet City , under the shadow of HIV/AIDS.

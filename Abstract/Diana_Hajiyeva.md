@@ -1,0 +1,1 @@
+DIANA HAJIYEVA (, , ; born 13 June 1989) is an Azerbaijani singer and songwriter. She is a member and the lead vocalist of the group Dihaj. She represented Azerbaijan in the Eurovision Song Contest 2017 with the song "Skeletons" finishing in 14th place.[1]

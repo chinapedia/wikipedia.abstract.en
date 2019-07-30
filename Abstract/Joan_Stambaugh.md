@@ -1,0 +1,1 @@
+JOAN STAMBAUGH (born 10 June 1932 ; † 7. July 2013) was an American philosopher and professor of philosophy at City University of New York. She was an interpreter and translator of Martin Heidegger's writings, specifically known for her translation of Being and Time into English.[1][2]

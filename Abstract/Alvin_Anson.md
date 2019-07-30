@@ -1,0 +1,1 @@
+ALVIN LORENZ ANSON is a Filipino actor, producer, director, TV host & musician. He has done various TV shows and over 50 feature films throughout his career, both local and foreign. His most recent recognizable works would be his portrayal in Filipino Film Heneral Luna where he played as General José Alejandrino[1] & TV series Dolce Amore as Favio De Luca.

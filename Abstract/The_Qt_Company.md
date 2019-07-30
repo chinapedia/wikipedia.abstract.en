@@ -1,0 +1,1 @@
+THE QT COMPANY (pronounced "cute"; formerly TROLLTECH) is a software company based in Espoo, Finland. It oversees the development of its Qt application framework within the Qt Project. It was formed following the acquisition of Qt by Digia, but was later spun off into a separate, publicly traded company.

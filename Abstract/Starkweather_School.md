@@ -1,0 +1,1 @@
+STARKWEATHER SCHOOL is an educational building located at 550 North Holbrook Street in Plymouth, Michigan. It was listed on the National Register of Historic Places in 2016.[1] It is the only school from its time still extant in Plymouth, and the only school in Plymouth designed by Malcomson and Higginbotham, who designed numerous schools for the Detroit school district.[2]

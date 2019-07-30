@@ -1,0 +1,1 @@
+ELECTIONS TO COLCHESTER BOROUGH COUNCIL took place on 3 May 2018. Seventeen members of the council (one-third of the whole) were elected, one from each of the 17 wards. It was the first standard election to take place following comprehensive boundary changes in 2016.

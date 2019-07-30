@@ -1,0 +1,1 @@
+The COCOROBÓ DAM () is a dam in the state of Bahia, Brazil. It provides a reservoir of water for irrigation and drinking in the arid _caatinga_ environment of the Raso da Catarina. The reservoir covers the ruins of the city of Canudos, scene of the War of Canudos in 1896–97.

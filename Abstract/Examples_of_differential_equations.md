@@ -1,0 +1,1 @@
+DIFFERENTIAL EQUATIONS arise in many problems in physics, engineering, and other sciences. The following examples show how to solve differential equations in a few simple cases when an exact solution exists.

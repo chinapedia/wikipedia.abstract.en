@@ -1,0 +1,1 @@
+GYMNOPLEURINI is a tribe of scarab beetles, in the dung beetle subfamily (Scarabaeinae).[1] The side edge of each elytron (hardened fore-wing protecting the hind-wing) has a characteristic shape that exposed the underlying pleural sclerites (side plates of the abdomen). Relative to other dung beetles they are of moderate size (10–18 mm long).[2]

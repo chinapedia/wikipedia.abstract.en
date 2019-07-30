@@ -1,0 +1,1 @@
+The CAIUÁ ECOLOGICAL STATION () is an ecological station in the state of Paraná, Brazil. It was created as compensation for flooding caused by the Rosana dam on the Paranapanema River, and protects an area of Atlantic Forest to the south of the dam.

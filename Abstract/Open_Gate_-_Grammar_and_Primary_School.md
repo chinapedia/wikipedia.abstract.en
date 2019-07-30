@@ -1,0 +1,1 @@
+OPEN GATE – GRAMMAR AND PRIMARY SCHOOL is a private school, located in the hamlet of Babice outside Prague, comprising both Primary and Grammar schools, the latter offering boarding facilities for the students during their eight year course of study.

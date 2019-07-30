@@ -1,0 +1,1 @@
+WILLIAM CABRERA JOSÉ (born 16 October 1992) is a Dominican Republic badminton player.[1][2] He was the bronze medalist at the XVII Pan American Games in the men's doubles event.[3] Cabrera also competed in three consecutives Central American and Caribbean Games in 2010, 2014, and 2018.[4]

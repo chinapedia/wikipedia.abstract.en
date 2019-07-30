@@ -1,0 +1,1 @@
+Georg_Vilhelm_Arnold_Groth_by_Peter_Most.jpg Vilhelm_Groth_-_Hede_med_en_mose_-_KMS1070_-_Statens_Museum_for_Kunst.jpg GEORG VILHELM ARNOLD GROTH (9 March 1842, Copenhagen - 14 September 1899, Copenhagen) was a Danish landscape painter. [1]

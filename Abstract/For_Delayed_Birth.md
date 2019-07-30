@@ -1,0 +1,1 @@
+The so-called "FOR DELAYED BIRTH" is an Old English poetic medical text found in the manuscript London, British Library, Harley 585, ff. 185r-v, in a collection of medical texts known since the nineteenth century as _Lacnunga_ (‘remedies’). The manuscript was probably copied in the early eleventh century, though its sources may have been older.

@@ -1,0 +1,1 @@
+ARCADIA 2001 is a second-generation 8-bit console released by Emerson Radio in May 1982, several months before the release of ColecoVision. It was discontinued only 18 months later, with a total of 35 games having been released.[1] Emerson licensed the Arcadia 2001 to Bandai, which released it in Japan.[2] Over 30 Arcadia 2001 clones exist.

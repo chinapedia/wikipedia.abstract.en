@@ -1,0 +1,1 @@
+Frk-Jensen-med-kogebogen.jpg KRISTINE MARIE JENSEN, better known in Denmark as FRØKEN JENSEN, (1858–1923) was a Danish housekeeper and cookbook writer. She is remembered in particular as the author of the early Danish cookbook _Frøken Jensens Kogebog_ ("Miss Jensen's Cookbook"), which has been popular for its traditional recipes since its publication in 1901.[1][2]

@@ -1,0 +1,1 @@
+"CAMPAIGN SPEECH" is a freestyle rap song by American rapper Eminem, released on October 19, 2016, the same day of the third presidential debate, and 19 days before the 2016 presidential election. It was then released on October 22, 2016 on iTunes and streaming services such as Spotify.[1]

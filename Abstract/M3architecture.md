@@ -1,0 +1,1 @@
+M3ARCHITECTURE (stylised m3architecture) is an Australian architecture firm based in Brisbane.[1] The practice was founded in 1997 and is run by Directors Michael Banney, Ben Vielle, Michael Christensen and Michael Lavery.[2]

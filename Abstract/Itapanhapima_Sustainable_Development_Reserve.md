@@ -1,0 +1,1 @@
+The ITAPANHAPIMA SUSTAINABLE DEVELOPMENT RESERVE () is a sustainable development reserve in the state of São Paulo, Brazil. It protects an area of mangrove forests and supports a traditional extractive population.

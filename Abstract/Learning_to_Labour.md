@@ -1,0 +1,1 @@
+_LEARNING TO LABOUR: HOW WORKING CLASS KIDS GET WORKING CLASS JOBS_ is a 1977 book on education, written by British social scientist and cultural theorist Paul Willis. A Columbia University Press edition, titled the "Morningside Edition," was published in the United States shortly after its reception.[1]

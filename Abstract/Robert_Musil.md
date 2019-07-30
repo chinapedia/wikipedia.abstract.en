@@ -1,0 +1,1 @@
+ROBERT MUSIL ( or ; 6 November 1880 – 15 April 1942) was an Austrian philosophical writer. His unfinished novel _The Man Without Qualities_ () is generally considered to be one of the most important and influential modernist novels.

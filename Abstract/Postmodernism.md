@@ -1,0 +1,1 @@
+POSTMODERNISM is a broad movement that developed in the mid- to late 20th century across philosophy, the arts, architecture, and criticism, marking a departure from modernism. The term has been more generally applied to the historical era following modernity and the tendencies of this era.

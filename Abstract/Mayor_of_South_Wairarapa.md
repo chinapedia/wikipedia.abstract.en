@@ -1,0 +1,1 @@
+The MAYOR OF SOUTH WAIRARAPA is the head of municipal government for South Wairarapa District of New Zealand, which is administered by a district council. The office has existed since the 1989 local government reforms, when the Featherston County, Greytown Borough, Featherston Borough and Martinborough Borough were amalgamated.

@@ -1,0 +1,1 @@
+TMA PAI INTERNATIONAL CONVENTION CENTRE located in MG Road, Mangalore is one of the biggest convention centers in India with a seating capacity for more than 4000 guests, the convention centre is dispersed across a surface area of 16730 square meters.[1]

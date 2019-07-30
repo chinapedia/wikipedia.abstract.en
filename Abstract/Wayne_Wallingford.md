@@ -1,0 +1,1 @@
+WAYNE WALLINGFORD (born July 11, 1946) is an American politician. He is a Republican member of the Missouri State Senate, having served since 2013.[1] Because of term limits, he is not eligible to run for reelection in 2020.[2]

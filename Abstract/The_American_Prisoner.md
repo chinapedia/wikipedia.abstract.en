@@ -1,0 +1,1 @@
+TheAmericanPrisoner.jpg)]] _THE AMERICAN PRISONER_ is a British novel written by Eden Phillpotts and published in 1904[1] and adapted into a film by the same name in 1929. The story concerns an English woman who lives at Fox Tor farm, and an American captured during the American Revolutionary War and held at the prison at Princetown on Dartmoor.

@@ -1,0 +1,1 @@
+The CHIESA DELLA MADONNA DEL VALLONE is a Roman Catholic church or sanctuary located in a rural site in the frazione of Piedicolle in Acquacanina, province of Macerata, in the region of Marche, Italy.[1] It is located within the Parco Nazionale dei Monti Sibillini.

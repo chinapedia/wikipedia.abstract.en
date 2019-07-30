@@ -1,0 +1,1 @@
+Elections were held in the Australian state of Western Australia in late 1908 to elect 50 members to the state's Legislative Assembly. The main polling day was 11 September, although five remote electorates went to the polls at later dates.

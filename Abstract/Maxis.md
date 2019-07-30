@@ -1,0 +1,1 @@
+MAXIS is an American video game developer and a division of Electronic Arts (EA). The studio was founded in 1987 by Will Wright and Jeff Braun, and acquired by EA in 1997. Maxis is best known for its simulation games, including _The Sims_.

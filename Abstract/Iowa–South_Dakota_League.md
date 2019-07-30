@@ -1,0 +1,1 @@
+The IOWA–SOUTH DAKOTA LEAGUE was a Minor League Baseball circuit that operated from 1902 to 1903 in the states of Iowa and South Dakota. The league was assigned the classification of D, the lowest level of professional baseball.

@@ -1,0 +1,1 @@
+Wolfgang_dietrich_vfb.jpg WOLFGANG DIETRICH (born 24 July 1948 in Stetten im Remstal) is a German businessman. From 2010 to 2015 he was spokesman for Stuttgart 21 and the Wendlingen–Ulm high-speed railway.[1]

@@ -1,0 +1,1 @@
+KOREAN FORTRESSES are fortifications constructed by Koreans since the Three Kingdoms of Korea period. Koreans developed a unique and distinct fortress tradition.[1] Korea, beginning with Goguryeo,[2][3][4] has been called "a country of fortresses";[5][6][7][8] almost 2,400 mountain fortress sites have been found in Korea.[9][10]

@@ -1,0 +1,1 @@
+is the second studio album of Japanese singer Shiori Niiyama. [1] It was released on 17 June 2015 under Being label. Album includes previous 2 released singles. The album reached #32 rank first week. Album charted for 3 weeks.[2]

@@ -1,0 +1,1 @@
+The 2017 AFC CHAMPIONS LEAGUE QUALIFYING PLAY-OFFS were played from 24 January to 8 February 2017.[1] A total of 23 teams competed in the qualifying play-offs to decide eight of the 32 places in the group stage of the 2017 AFC Champions League.[2]

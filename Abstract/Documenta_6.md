@@ -1,0 +1,1 @@
+DOCUMENTA 6 was the sixth edition of documenta, a quinquennial contemporary art exhibition. It was held between 24 June and 2 October 1977 in Kassel, Germany. The artistic director was Manfred Schneckenburger.[1] The title of the exhibition was: INTERNATIONALE AUSSTELLUNG – INTERNATIONAL EXHIBITION.[2]

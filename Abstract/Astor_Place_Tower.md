@@ -1,0 +1,1 @@
+ASTOR PLACE TOWER (also known as SCULPTURE FOR LIVING) is a 21-story residential building located on Astor Place in Manhattan. The building was developed by The Related Companies and designed by architect Charles Gwathmey. The building was panned by architectural critics as a symbol of gentrification, and sales of the building's condos were slow.[1][2][3]

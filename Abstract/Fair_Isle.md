@@ -1,0 +1,1 @@
+FAIR ISLE (IPA: /fɛəraɪ̯l/; ; ) is an island in Shetland, in northern Scotland. It lies about halfway between mainland Shetland and Orkney. It is known for its bird observatory and a traditional style of knitting.

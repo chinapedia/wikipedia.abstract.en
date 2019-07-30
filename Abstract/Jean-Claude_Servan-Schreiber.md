@@ -1,0 +1,1 @@
+JEAN-CLAUDE SERVAN-SCHREIBER (11 April 1918 – 11 April 2018) was a French journalist and politician. He served as a member of the National Assembly from 1965 to 1967, representing Seine.[1] He was a member of the Union for the New Republic,[2] a center-right political party. He died on April 11, 2018 in Paris on his 100th birthday.[3][4]

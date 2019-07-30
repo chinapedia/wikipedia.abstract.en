@@ -1,0 +1,1 @@
+CONCHI REYES RÍOS (born 11 March 1991) is a Spanish bullfighter. In 2011, she was the first woman to take two ears off a bull. In 2015, she was featured on a Spanish national list of bullfighters, one of six women out of 825.

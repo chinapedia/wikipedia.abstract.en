@@ -1,0 +1,1 @@
+Steuben_Monument.jpg, Drillmaster of the Continental Army during the American War of Independence]] MAGDEBURG (; Low Saxon: _Meideborg_, ) is the capital city and the second largest city of the state of Saxony-Anhalt, Germany. It is situated on the Elbe River.

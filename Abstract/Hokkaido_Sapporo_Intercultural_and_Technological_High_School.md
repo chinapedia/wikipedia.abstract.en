@@ -1,0 +1,1 @@
+HOKKAIDO SAPPORO INTERCULTURAL AND TECHNOLOGICAL HIGH SCHOOL (北海道札幌国際情報高等学校, _Hokkaidō Sapporo Kokusai Jōhō Kōtō Gakkō_) is a high school in Sapporo, Hokkaidō, Japan, founded in 1995. Hokkaido Sapporo Intercultural and Technological High School is one of high schools administrated by Hokkaido.

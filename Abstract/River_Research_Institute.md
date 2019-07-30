@@ -1,0 +1,1 @@
+RIVER RESEARCH INSTITUTE or BPI is an autonomous national research institute working as a statutory organization that carries out research and plans water resource management projects in Bangladesh and is located in Faridpur, Bangladesh.[1][2]

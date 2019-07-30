@@ -1,0 +1,1 @@
+SEDNA was an alcoholic beverage made in Belfast, Ireland and sold as a "tonic". In its earlier days it was made from port wine with the addition of extracts of coca leaf, kola nut and beef. From around 1923 its only advertised additive was the kola extract. The brand name was later used in Australia for a similar product, locally produced.

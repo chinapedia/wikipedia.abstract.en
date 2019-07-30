@@ -1,0 +1,1 @@
+CZESŁAW MIŁOSZ (; 30 June 1911 – 14 August 2004) was a Polish-American[1] poet, prose writer, translator, and diplomat. Regarded as one of the great poets of the twentieth century, he won the 1980 Nobel Prize in Literature. The Swedish Academy, in its Nobel citation, described Miłosz as a writer who "voices man’s exposed condition in a world of severe conflicts".[2]

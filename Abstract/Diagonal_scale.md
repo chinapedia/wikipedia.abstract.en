@@ -1,0 +1,1 @@
+Diagonal_Scale_instrument.jpg DIAGONAL SCALE is an engineering measuring instrument which is composed of a set of parallel straight lines which are obliquely crossed by another set of straight lines. Diagonal scales are used to measure small fractions of the unit of measurement.[1]

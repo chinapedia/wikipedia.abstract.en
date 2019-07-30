@@ -1,0 +1,1 @@
+GLEB ANATOLYEVICH SKOROKHODOV (; April 23, 1930,[1][2] Grozny[3][4] – 10 October 2012, Moscow) was a Soviet and Russian writer, playwright, journalist and film critic. He was also given the title Honored Artist of Russia in 2000.[5]

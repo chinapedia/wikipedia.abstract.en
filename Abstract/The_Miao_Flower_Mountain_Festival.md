@@ -1,0 +1,1 @@
+The MIAO FLOWER MOUNTAIN FESTIVAL (), also known as the TREADING ON FLOWER FESTIVAL, is a traditional occasion for the Miao, a Chinese ethnic group. It represents a chance for the youth to express love and a chance for middle-aged and older people to bless each other.

@@ -1,0 +1,1 @@
+Las_Violetas_Medrano.JPG The CAFÉ LAS VIOLETAS () building includes a restaurant and cafe on the corner of Avenida Medrano and Avenida Rivadavia in the Almagro neighborhood of Buenos Aires, Argentina.

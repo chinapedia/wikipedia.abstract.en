@@ -1,0 +1,1 @@
+RØA CHURCH (Norwegian: _Røa kirke_) is a church center in Oslo, Norway.[1] The church room has 300 seats, but this can be increased to 500 by opening the sliding doors to the parish hall. The church building also includes offices, a wing of verger housing and daycare. There is an almost separate bell tower (a campanile).[2]

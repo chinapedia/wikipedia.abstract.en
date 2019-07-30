@@ -1,0 +1,1 @@
+CATENA MEDIA is a lead generation company based in Ta’ Xbiex, Malta. The company was founded in 2012 and employs 390 people in Malta, the United Kingdom, Serbia, Italy, Sweden, the US, Australia and Japan.

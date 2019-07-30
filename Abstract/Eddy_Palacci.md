@@ -1,0 +1,1 @@
+EDMOND VITA PALACCI (1931–2016), generally known as "EDDY PALACCI," was a French-Israeli chemical engineer and author, whose memoirs recount his survival in Occupied France during World War II and help for the French Resistance.[1][2][3][4][5]

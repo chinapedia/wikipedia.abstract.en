@@ -1,0 +1,1 @@
+Founded in 2012, (UNICAF; /ˈjuːnᵻkɑːf/) is an online platform in sub-Saharan Africa that is dedicated to making higher education of international standard accessible to African professionals and young school leavers.

@@ -1,0 +1,1 @@
+The MANGROVE SWIMMING CRAB (_Thalamita crenata_), also called the CRENATE SWIMMING CRAB or SPINY ROCK CRAB,[1] is a swimming crab species in the genus _Thalamita_.[2] Distributed all over marine and brackish waters of Indo-West Pacific regions. It is widely used as an edible crab in many countries.

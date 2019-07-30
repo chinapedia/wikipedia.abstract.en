@@ -1,0 +1,1 @@
+The _BALTIMORE GAZETTE_, also known as the _BALTIMORE DAILY GAZETTE_ and _THE GAZETTE_, was a daily newspaper published in Baltimore, Maryland between 1862 and 1875.[1][2] It broke some high-profile stories including the fact that The Turk, allegedly a chess playing machine, worked because a human chess master was operating it from the inside.

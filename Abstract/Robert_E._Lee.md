@@ -1,0 +1,1 @@
+ROBERT EDWARD LEE (January 19, 1807 – October 12, 1870) was an American and Confederate soldier, best known as a commander of the Confederate States Army. He commanded the Army of Northern Virginia in the American Civil War from 1862 until its surrender in 1865.

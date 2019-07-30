@@ -1,0 +1,1 @@
+[1][2]ADARSH VIDYA NIKETAN is a higher secondary school located at Bhimduttnagar, Kanchanpur District, Nepal. Shortly known as AVN, it is a school in Far-western Development Region. It conducts various programs every week, including social awareness programs. Dr. Bhoj Raj Pant is the principal of AVN. Mrs. Seema Joshi is the coordinator.[3]

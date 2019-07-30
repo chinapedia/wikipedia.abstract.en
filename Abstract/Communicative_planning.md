@@ -1,0 +1,1 @@
+COMMUNICATIVE PLANNING is an approach to urban planning that gathers stakeholders and engages them in a process to make decisions together in a manner that respects the positions of all involved.[1] It is also sometimes called collaborative planning among planning practitioners or collaborative planning model.

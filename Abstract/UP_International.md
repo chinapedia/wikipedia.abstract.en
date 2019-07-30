@@ -1,0 +1,1 @@
+UP INTERNATIONAL GMBH is a German aircraft manufacturer based in Garmisch-Partenkirchen. The company specializes in the design and manufacture of paragliders in the form of ready-to-fly aircraft. The company started business as a hang glider manufacturer based in the United States.[1][2]

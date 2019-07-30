@@ -1,0 +1,1 @@
+_THE MONSTER_ is a 2016 American horror film written and directed by Bryan Bertino. It stars Zoe Kazan and Ella Ballentine. The film was released through DirecTV Cinema on October 6, 2016, before opening in a limited release on November 11, 2016, via A24.[1]

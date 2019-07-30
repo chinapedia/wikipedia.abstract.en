@@ -1,0 +1,1 @@
+VALERIE HUNTER GORDON (née VALERIE ZIANI DE FERRANTI; 7 December 1921 – 16 October 2016) was the British inventor of PADDI, a sustainable nappy system considered to be the world's first disposable nappy, and Nikini, an early sanitary towel system.

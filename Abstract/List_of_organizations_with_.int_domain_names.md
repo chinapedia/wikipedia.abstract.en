@@ -1,0 +1,1 @@
+This is a LIST OF ORGANIZATIONS WITH INT DOMAIN NAMES, in alphabetical order of the second-level domain name. The list is not comprehensive. As of June 2012, the INT domain consists of 166 subdomain delegations.[1]

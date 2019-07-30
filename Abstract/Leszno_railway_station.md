@@ -1,0 +1,1 @@
+LESZNO RAILWAY STATION is a railway station serving the town of Leszno, in the Greater Poland Voivodeship, Poland. The station opened in 1856 and is located on the Łódź–Forst (Lausitz) railway, Wrocław–Poznań railway and Leszno–Zbąszyń railway. The train services are operated by PKP, Przewozy Regionalne, Koleje Wielkopolskie and Koleje Dolnośląskie.

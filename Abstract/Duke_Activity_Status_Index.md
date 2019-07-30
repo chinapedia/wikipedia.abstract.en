@@ -1,0 +1,1 @@
+The DUKE ACTIVITY STATUS INDEX (DASI) is an assessment tool used to evaluate the functional capacity of patients with cardiovascular disease (CVD), such as coronary artery disease, myocardial infarction, and heart failure.[1]

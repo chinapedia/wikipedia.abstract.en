@@ -1,0 +1,1 @@
+PYONG GAP MIN is a sociologist, currently a Distinguished Professor of Sociology at City University of New York,[1][2] Director of the Research Center for Korean Community at Queens College and also a published author.[3] In 2012, he was awarded the Distinguished Career Award by the American Sociological Association.[4]

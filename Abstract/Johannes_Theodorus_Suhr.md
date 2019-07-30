@@ -1,0 +1,1 @@
+J._P._Suhr_&_Søn_-_Jbill_of_loading_1813.jpg from J. P. Suhr & Søn with a drawing of coal loading in an English port]] JOHANNES THEODOR(US) SUHR (2 April 1792 – 10 November 1858) was a Danish merchant and industrialist . He owned the Suhr House at Gammeltorv in Copenhagen as well as Sølyst north of the city and was the founder of foundation, Den Suhrske Stiftelse. [1]

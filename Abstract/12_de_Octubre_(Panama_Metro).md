@@ -1,0 +1,1 @@
+12 DE OCTUBRE is a Panama Metro station on Line 1. Construction of the station began on 17 March 2012[1][2] and it was one of the first 11 stations when the metro began operations on 6 April 2014.[3] It is the first of six elevated stations when travelling towards the terminus of San Isidro.[4]

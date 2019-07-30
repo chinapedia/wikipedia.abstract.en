@@ -1,0 +1,1 @@
+CHRIS HAMMONS (born April 1, 1978), is an American lawyer best known for competing on the reality competition shows _Survivor and The Amazing Race_. In his college days, he played football for the University of Oklahoma.

@@ -1,0 +1,1 @@
+KATHERINE GILI is a British sculptor. Born in Oxford in 1948, she graduated from Bath Academy of Art in 1970 and then studied for two years at St Martin's School of Art. Gili subsequently taught at a number of art schools; most notably St Martin's and Norwich between 1972 and 1985.

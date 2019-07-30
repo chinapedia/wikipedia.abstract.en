@@ -1,0 +1,1 @@
+DAVID ABERCROMBY was a 17th-century Scottish physician and writer, thought to have died in 1702.[1] Brought up at Douai as a Roman Catholic by Jesuit priests, he was converted to Protestantism in 1682 and came to abjure popery, and published _Protestancy proved Safer than Popery_ (1686).

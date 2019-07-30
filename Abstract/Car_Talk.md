@@ -1,0 +1,1 @@
+_CAR TALK_ is a Peabody Award-winning radio talk show that was broadcast weekly on NPR stations and elsewhere. Its subjects were automobiles and automotive repair, discussed often in a humorous way. It was hosted by brothers Tom and Ray Magliozzi, known also as "Click and Clack, the Tappet Brothers".

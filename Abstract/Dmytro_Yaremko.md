@@ -1,0 +1,1 @@
+DMYTRO YAREMKO (; 6 October 1879 – 3 October 1916) was a Ukrainian Greek Catholic clandestine hierarch. He was an auxiliary bishop of the Ukrainian Catholic Archeparchy of Lviv and titular bishop of Ostroh from 1914 to 1916.

@@ -1,0 +1,1 @@
+A PHANTOM KANGAROO is a report of kangaroos, wallabies, or their accompanying footprints in areas where there is no native population.[1] Some explanations put forth are escaped zoo or circus animals (as in the UK), or publicity stunts by local businesses using photographs from Australia. Others suggest outbreaks of such sightings are a form of mass hysteria.

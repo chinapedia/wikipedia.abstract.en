@@ -1,0 +1,1 @@
+JOHN EDWARD MASEFIELD (; 1 June 1878 – 12 May 1967) was an English poet and writer and the Poet Laureate of the United Kingdom from 1930 until 1967. Among his best known works are the children's novels _The Midnight Folk_ and _The Box of Delights_, and the poems "The Everlasting Mercy" and "Sea-Fever".

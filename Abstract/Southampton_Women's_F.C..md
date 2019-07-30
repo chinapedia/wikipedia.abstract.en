@@ -1,0 +1,1 @@
+SOUTHAMPTON WOMEN'S FC is a women's football club based in Totton, Hampshire, England. The club is affiliated to the Women's Football League and is an FA Charter Standard club. They are currently members of the and also have an U16 Youth Squad.

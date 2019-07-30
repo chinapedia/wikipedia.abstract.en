@@ -1,0 +1,1 @@
+ARNOLD WINDOM JACOBSEN (May 9, 1892 – March 22, 1970) was an officer of the United States Marine Corps with the rank of major general, who served as commanding officer of the Marine Corps Supplies Depots during World War II and was responsible for the equipment and supplies of the Marine Corps units overseas.

@@ -1,0 +1,1 @@
+CHIPMAN'S POINT is a historic 19th-century ferry complex on Chipman Point Road in Orwell, Vermont. The complex includes two early 19th-century stone warehouses, a former Lake Champlain ferry landing site (used until 1975), and the foundational remains of the Chipman Point Hotel. It was listed on the National Register of Historic Places in 1996.[1]

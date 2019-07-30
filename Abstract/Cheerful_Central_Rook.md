@@ -1,0 +1,1 @@
+In shogi, CHEERFUL CENTRAL ROOK (ゴキゲン中飛車 _gokigen nakabisha_, also GOKIGEN CENTRAL ROOK or GO-AS-YOU-PLEASE CENTRAL ROOK) is a type of Central Rook opening in which the Central Rook player's bishop diagonal remains open.

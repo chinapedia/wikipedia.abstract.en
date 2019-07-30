@@ -1,0 +1,1 @@
+SMARTBEAR SOFTWARE is a privately-held information technology company that delivers tools for application performance monitoring (APM), software development, software testing and API management. The company is based in Assembly Square in Somerville in the Greater Boston Area. The current SmartBear company was founded in 2009.

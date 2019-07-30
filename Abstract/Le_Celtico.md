@@ -1,0 +1,1 @@
+LE CELTICO is a football match contested between French clubs Guingamp and Rennes. The name of the derby derives from the fact that Guingamp and Rennes are the two major clubs that are situated in Brittany, a land emotionally attached to the Celtic culture.

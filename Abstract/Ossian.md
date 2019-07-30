@@ -1,0 +1,1 @@
+Ossian._Den_gamle_blinde_skotske_barde_synger_til_harpen_sin_svanesang.jpg, 1787]]

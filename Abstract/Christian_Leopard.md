@@ -1,0 +1,1 @@
+CHRISTIAN LEOPARD (born 17 September 1997) is a New Zealand cricketer.[1] He made his first-class debut for Central Districts on 5 November 2016 in the 2016–17 Plunket Shield season.[2] Prior to his debut, he was part of New Zealand's squad for the 2016 Under-19 Cricket World Cup.[3]

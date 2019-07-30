@@ -1,0 +1,1 @@
+SOLOMON SCHECHTER (‎; 7 December 1847 – 19 November 1915) was a Moldavian-born American rabbi, academic scholar and educator, most famous for his roles as founder and President of the United Synagogue of America, President of the Jewish Theological Seminary of America, and architect of American Conservative Judaism.

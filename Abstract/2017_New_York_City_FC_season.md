@@ -1,0 +1,1 @@
+The 2017 NEW YORK CITY FC SEASON was the club's third season of competition and their third in the top tier of American soccer, Major League Soccer (MLS). New York City FC played their home games at Yankee Stadium in the New York City borough of The Bronx.

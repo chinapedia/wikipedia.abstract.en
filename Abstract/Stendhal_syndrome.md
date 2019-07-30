@@ -1,0 +1,1 @@
+STENDHAL SYNDROME, STENDHAL'S SYNDROME or FLORENCE SYNDROME is a psychosomatic condition involving rapid heartbeat, dizziness, fainting, confusion and even hallucinations, allegedly occurring when individuals become exposed to objects or phenomena of great beauty.[1]

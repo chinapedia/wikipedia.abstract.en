@@ -1,0 +1,1 @@
+STEVE WARNER (born May 24, 1978) is a retired American rower who won a world title in 2000 in the lightweight eights.[1] He competed at the 2004 Summer Olympics, where his team placed ninth in the lightweight coxless four.[2]

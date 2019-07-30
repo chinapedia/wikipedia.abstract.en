@@ -1,0 +1,1 @@
+A SHORT STORY is a piece of prose fiction that typically can be read in one sitting and focuses on a self-contained incident or series of linked incidents, with the intent of evoking a "single effect" or mood, however there are many exceptions to this.

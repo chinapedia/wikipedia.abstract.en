@@ -1,0 +1,1 @@
+Kraftkar_and_Edel_Bla.jpg TINGVOLLOST (established in 2003) is a Norwegian cheesemaker in Tingvoll, making blue cheese and white mold cheeses from cow's milk. Annual production in 2014 was 21 tons of cheese based on 200 000 liters milk.

@@ -1,0 +1,1 @@
+KAYODE EMMANUEL ODUOYE, often referred to as ‘Superkay’, is a Nigerian politician, lawyer, businessman and philanthropist. He is a member of the People's Democratic Party and was the party's candidate for House of Representatives in 2015.

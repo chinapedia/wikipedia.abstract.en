@@ -1,0 +1,1 @@
+HARWICH is a town in Essex, England and one of the Haven ports, located on the coast with the North Sea to the east. It is in the Tendring district. Nearby places include Felixstowe to the northeast, Ipswich to the northwest, Colchester to the southwest and Clacton-on-Sea to the south. It is the northernmost coastal town within Essex.

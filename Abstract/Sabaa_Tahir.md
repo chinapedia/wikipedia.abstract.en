@@ -1,0 +1,1 @@
+SABAA TAHIR is a Pakistani-American[1] young-adult fiction writer, who is best known for her young-adult series the "Ember Quartet," including 2015 _New York Times_ bestselling novel _An Ember in the Ashes_, the 2016 novel _A Torch Against the Night,_ and the 2018 novel _A Reaper at the Gates._ Her novels are published through Razorbill, an imprint of Penguin Random House.[2]

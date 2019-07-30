@@ -1,0 +1,1 @@
+The ESSENES (; Modern Hebrew: , _Isiyim_; Greek: Ἐσσηνοί, Ἐσσαῖοι, or Ὀσσαῖοι, _Essenoi, Essaioi, Ossaioi_) were a Jewish sect during the Second Temple period that flourished from the 2nd century BCE to the 1st century CE.

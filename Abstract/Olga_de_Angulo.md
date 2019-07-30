@@ -1,0 +1,1 @@
+OLGA DE ANGULO (26 November 1955 – 9 February 2011) was a Colombian swimmer. She competed at the 1968 Summer Olympics and the 1972 Summer Olympics. She finished third in the 1971 Pan American Games 200 metres freestyle.[1] De Angulo had lived in Vancouver, Canada since 1998.[2]

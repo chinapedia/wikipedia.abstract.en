@@ -1,0 +1,1 @@
+LIZ LAMANCHE (born ELIZABETH MANICATIDE, December 29, 1967) is an American artist based in Somerville, Massachusetts.,[1] known for creating large scale, public installations and street art in the Boston and Washington, DC areas.

@@ -1,0 +1,1 @@
+Ernst-von-Hülsen-Haus-ba.jpg]] The BILDINDEX DER KUNST UND ARCHITEKTUR is an open online database of 2.2 million photographs of 1.7 million artworks and architectural objects. The owner/operator of this database is the German Documentation Center for Art History known formally as Bildarchiv Foto Marburg.

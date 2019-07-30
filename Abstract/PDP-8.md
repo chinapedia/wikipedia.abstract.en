@@ -1,0 +1,1 @@
+PDP-8.jpg's National Museum of American History in Washington, D.C.. This example is from the first generation of PDP-8s, built with discrete transistors and later known as the _Straight 8_.]] PDP-8e,_inside,_2.jpg drive at the top]]

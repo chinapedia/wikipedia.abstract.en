@@ -1,0 +1,1 @@
+RYAN O'KANE is a New Zealand actor. His roles include Rhys Levitt in the Australian police drama _City Homicide_, Prince Frederik in the telemovie _Mary: The Making of a Princess_, and Riley Hawkins in _Home and Away_. In 2018, O'Kane portrayed Dylan Reinhart and his twin brother Daniel Reinhart in _Shortland Street_.

@@ -1,0 +1,1 @@
+The GANGGALIDA are an Indigenous Australian people who traditionally lived on the gulf coast west of :sv:Moonlight Creek and the Mingginda. Many of their descendants now dwell in and around Mungubie (Burketown) in northern Queensland.

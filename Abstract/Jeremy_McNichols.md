@@ -1,0 +1,1 @@
+JEREMY THERON MCNICHOLS (born December 26, 1995) is an American football running back for the Tennessee Titans of the National Football League (NFL). He played college football at Boise State, and was drafted by the Tampa Bay Buccaneers in the fifth round of the 2017 NFL Draft.

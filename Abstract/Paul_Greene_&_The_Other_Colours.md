@@ -1,0 +1,1 @@
+PAUL GREENE & THE OTHER COLOURS is an Australian roots band fronted by Paul Greene. Their album _Behind The Stars_ was nominated for a 2012 ARIA Award for Best Blues & Roots Album.[1] Previously a solo artist Paul Greene now works with a backing band the Other Colours.

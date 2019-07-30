@@ -1,0 +1,1 @@
+'''Malin Allberg ''' (born 5 May 1975) is a Swedish footballer who played as a midfielder for the Sweden women's national football team. She was part of the team at the UEFA Women's Euro 1997. On club level she played for Älvsjö AIK in Sweden.[1]

@@ -1,0 +1,1 @@
+The following is a list of series currently or formerly broadcast by Investigation Discovery (ID), a channel dedicated to true crime documentaries that launched in 2008. Most of ID's programs are original productions, but it also airs re-titled off-network reruns, including ABC's _20/20_, CBS' _48 Hours, and NBC's_ Dateline_._

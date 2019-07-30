@@ -1,0 +1,1 @@
+This LIST OF BIRDS OF DELAWARE includes species credibly documented in the U.S. state of Delaware and accepted by the Delaware Bird Records Committee (DBRC). As of September 2018 there were 420 species on the official list.[1] Of them, 93 are classed as accidental and six were introduced to North America. One species whose record is under review by the DBRC is not included.

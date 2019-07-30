@@ -1,0 +1,1 @@
+The FIRST MINNESOTA TERRITORIAL LEGISLATURE first convened on September 3, 1849. The 9 members of the Minnesota Territorial Council and the 18 members of the Minnesota House of Representatives were elected during the General Election of August 1, 1849.

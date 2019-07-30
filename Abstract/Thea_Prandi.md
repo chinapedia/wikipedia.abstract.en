@@ -1,0 +1,1 @@
+ENRICHETTA THEA PRANDI (1922-1961), known as THEA PRANDI, was an Italian actress and singer who was active in the 1940s and 1950s. She is known for her roles in _Una famiglia impossibile_ (1940) and _L'allegro fantasma_ (1941), and as the narrator in _Neapolitans in Milan_ (1953).

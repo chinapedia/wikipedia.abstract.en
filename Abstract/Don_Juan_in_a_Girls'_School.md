@@ -1,0 +1,1 @@
+_DON JUAN IN A GIRLS' SCHOOL_ (German: _DON JUAN IN DER MÄDCHENSCHULE_) is a 1928 German silent comedy film directed by and starring Reinhold Schünzel.[1] It is based on Hans Stürm's play _The Unfaithful Eckehart_.

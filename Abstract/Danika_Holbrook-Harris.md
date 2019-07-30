@@ -1,0 +1,1 @@
+DANIKA HOLBROOK-HARRIS (born September 15, 1972) is an American competitive rower. She competed at the 2004 Summer Olympics in Athens, in the women's quadruple sculls. She was born in Durham, New Hampshire.[1]

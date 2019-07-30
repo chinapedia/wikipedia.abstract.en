@@ -1,0 +1,1 @@
+PEPSI is a carbonated soft drink manufactured by PepsiCo. Originally created and developed in 1893 by Caleb Bradham and introduced as BRAD'S DRINK, it was renamed as PEPSI-COLA on August 28, 1898,[1] and then as Pepsi in 1961.

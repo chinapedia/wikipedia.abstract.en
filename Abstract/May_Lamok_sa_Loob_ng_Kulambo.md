@@ -1,0 +1,1 @@
+_MAY LAMOK SA LOOB NG KULAMBO_ is a 1984 Philippine comedy film directed by, and produced by Hirene Lopez and Danny L. Zialcita as the film's executive producer. The film stars Gloria Diaz, Eddie Garcia, Amy Austria, and Tommy Abuel.

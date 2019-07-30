@@ -1,0 +1,1 @@
+The following is A LIST OF UNPRODUCED JAMES CAMERON PROJECTS in roughly chronological order. During his long career, Canadian film director James Cameron has worked on a number of projects which never progressed beyond the pre-production stage under his direction. Some of these projects fell into development hell or are officially cancelled.

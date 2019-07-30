@@ -1,0 +1,1 @@
+EDGAR PELTENBURG (28 May 1942 – 14 August 2016) was a Canadian archaeologist who specialised in excavations in Scotland, Syria and Cyprus. He was emeritus professor of archaeology at the University of Edinburgh.[1][2]

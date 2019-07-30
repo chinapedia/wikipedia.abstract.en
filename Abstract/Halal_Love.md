@@ -1,0 +1,1 @@
+_LOVE HALAL_, also called _(HALAL LOVE (AND SEX))_, is an international film from 2015, written and directed by Assad Fouladkar. The film premiered on December 13, 2015, at the Dubai International Film Festival and had its international premiere at the Sundance Film Festival in 2016 in the World Cinema Dramatic Competition.[1]

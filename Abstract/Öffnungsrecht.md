@@ -1,0 +1,1 @@
+_ÖFFNUNGSRECHT_ in the Middle Ages was the right of a liege lord, more specifically a territorial lord or protective lord, in the Holy Roman Empire to have gratuitous use of a vassal's castle, fortified house or fortified town as a fighting base in the event of a conflict (e.g. war or feud).[1] [2] It is a form of right of access.

@@ -1,0 +1,1 @@
+JANA BURČESKA (, , born 6 July 1993) is a Macedonian singer. She represented Macedonia in the Eurovision Song Contest 2017 in Ukraine, with the song "Dance Alone". Burčeska first came to prominence in her native country in 2011 after competing in _Macedonian Idol_.

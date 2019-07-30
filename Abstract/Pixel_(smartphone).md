@@ -1,0 +1,1 @@
+PIXEL and PIXEL XL are Android smartphones designed, developed and marketed by Google. They were announced during a press event on October 4, 2016, and serve as the first smartphones in the Google Pixel hardware line, succeeding the Nexus line of smartphones. On October 4, 2017, they were succeeded by the Pixel 2 and later by the Pixel 3.

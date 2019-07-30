@@ -1,0 +1,1 @@
+PROPYLENE CHLOROHYDRIN usually refers to the organic compound with the formula CH₃CH(OH)CH₂Cl. A related compound, an isomer, is CH₃CH(Cl)CH₂OH. Both isomers are colorless liquids that are soluble in organic solvents. They are classified as chlorohydrins. Both are generated on a large scale as intermediates in the production of propylene oxide.[1]

@@ -1,0 +1,1 @@
+_CAR MECHANIC SIMULATOR 2014_ is a simulation video game depicting the work of an automotive mechanic. It was released in January 2014 on for Windows and macOS,[1] and for iOS and Android.[2] The game has a sequel, _Car Mechanic Simulator 2015_.

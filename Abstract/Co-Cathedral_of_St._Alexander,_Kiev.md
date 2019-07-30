@@ -1,0 +1,1 @@
+Олександрівський_костел._Київ.JPG The CO-CATHEDRAL OF ST. ALEXANDER [1] ( ) also called CATHEDRAL OF ST. ALEXANDER OF KIEV is the name given to a religious building affiliated with the Catholic Church located in the city of Kiev in Ukraine.[2][3]

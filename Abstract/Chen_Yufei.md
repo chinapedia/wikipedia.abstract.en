@@ -1,0 +1,1 @@
+CHEN YUFEI (; born 1 March 1998) is a Chinese badminton player. In 2016, she won the girls' singles junior titles at the Asia Junior Championships and the World Junior Championships.[1][2] At the same year, she also won her first senior title at the 2016 Macau Open Grand Prix Gold.[3] In 2017, she was awarded as the Eddy Choong Most Promising Player of the Year.[4][5]

@@ -1,0 +1,1 @@
+World map highlighting countries visited by Dmitry Medvedev during his presidency. This is a list of INTERNATIONAL TRIPS MADE BY DMITRY MEDVEDEV, during his presidency, he made 102 international trips to different countries. Dmitry_Medvedev_in_Turkmenistan_4-5_July_2008-7.jpg

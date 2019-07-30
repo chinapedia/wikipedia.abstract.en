@@ -1,0 +1,1 @@
+GA-RAMELA (formerly called TENERIFFE) is a large village in Ga-Matlala in the Mogalakwena Local Municipality of the Waterberg District Municipality of the Limpopo province of South Africa. It is located 80 km northwest of Polokwane on the Matlala Road.

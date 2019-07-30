@@ -1,0 +1,1 @@
+CHIOS (; ) is the fifth largest of the Greek islands, situated in the Aegean Sea, off the Anatolian coast. The island is separated from Turkey by the Chios Strait. Chios is notable for its exports of mastic gum and its nickname is "the Mastic Island". Tourist attractions include its medieval villages and the 11th-century monastery of _Nea Moni_, a UNESCO World Heritage Site.

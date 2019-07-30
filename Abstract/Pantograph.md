@@ -1,0 +1,1 @@
+Pantograph_in_action.svg Pantograph_animation.gif Pantograph01.jpg

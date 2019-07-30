@@ -1,0 +1,1 @@
+_WE ALL GOT TOGETHER AND..._ is a 1972 album by Tom T. Hall released on Mercury Records. All songs except "High Steppin' Proud" were written by Tom T. Hall. The album reached number 12 on Billboard Country Charts.

@@ -1,0 +1,1 @@
+SOVEREIGN IMMUNITY, or CROWN IMMUNITY, is a legal doctrine by which the sovereign or state cannot commit a legal wrong and is immune from civil suit or criminal prosecution, strictly speaking in modern texts in its own courts. A similar, stronger rule as regards foreign courts is named state immunity.

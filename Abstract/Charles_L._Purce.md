@@ -1,0 +1,1 @@
+CHARLES L. PURCE (July 4, 1856 – August 7, 1905) was an educator in Louisville, Kentucky and Selma, Alabama. He was a leader in the Baptist church and president of Selma University and Simmons College of Kentucky, both Baptist institutions.

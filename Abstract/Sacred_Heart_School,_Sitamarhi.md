@@ -1,0 +1,1 @@
+SACRED HEART SCHOOL‚ SITAMARHI is an educational institution in Bihar, India, located at Anand Nagar Thalakhapur Dumra, Sitamarhi. It is a co-educational school. The School was founded in 1991.[1] [2]

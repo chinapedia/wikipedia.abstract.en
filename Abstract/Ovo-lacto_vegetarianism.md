@@ -1,0 +1,1 @@
+An OVO-LACTO VEGETARIAN or LACTO-OVO VEGETARIAN is a vegetarian who consumes some animal products, such as eggs and dairy. Unlike pescatarians, they do not consume fish or other seafood. A typical ovo-lacto vegetarian diet may include fruits, vegetables, grains, nuts, seeds, herbs, roots, fungi, milk, cheese, yogurt, kefir, and eggs.[1]

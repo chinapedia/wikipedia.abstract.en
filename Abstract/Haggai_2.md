@@ -1,0 +1,1 @@
+HAGGAI 2 is the second chapter of the Book of Haggai in the Hebrew Bible or the Old Testament of the Christian Bible. This book contains the prophecies spoken by the prophet Haggai, and is a part of the Book of the Twelve Minor Prophets.[1][2]

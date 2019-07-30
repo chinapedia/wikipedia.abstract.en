@@ -1,0 +1,1 @@
+JAMIA AL-HUDAA () is an Islamic dar-ul-uloom boarding school for girls in Mapperley Park, Nottingham, England.[1] The school was opened on 17 August 1996 by Maulana Sayyed Abul Hasan Ali Nadvi.[2] It was one of the first Islamic boarding school for girls in the British Midlands.[3] It uses the Deobandi form of Islam as its ideology.[4]

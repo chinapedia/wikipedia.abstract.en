@@ -1,0 +1,1 @@
+_MICROBACTERIUM OXYDANS_ is a Gram-positive bacterium from the genus of Microbacterium which occurs in human clinical specimens.[1][2][3][4] _Microbacterium oxydans_ has the ability to degrade alginate and laminarin.[5][6]

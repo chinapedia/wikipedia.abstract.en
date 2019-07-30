@@ -1,0 +1,1 @@
+The 1989 MEN'S HOCKEY CHAMPIONS TROPHY was the 11th edition of the Hockey Champions Trophy, an international men's field hockey tournament. It took place from 10 until 18 June 1989 in West Berlin, West Germany. Australia won the tournament for the fourth time by finishing first in the round-robin tournament. West Germany were the defending champions, but finished third.

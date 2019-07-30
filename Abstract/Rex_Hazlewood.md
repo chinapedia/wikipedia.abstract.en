@@ -1,0 +1,1 @@
+REX D. M. HAZLEWOOD (22 August 1903 –) was a long-serving official of The Scout Association, as its editor of _The Scout_ and _The Scouter_ magazines[1] and author of articles, pamphlets and books on Scouting.

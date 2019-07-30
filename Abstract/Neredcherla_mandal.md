@@ -1,0 +1,1 @@
+NEREDCHERLA MANDAL is one of the 23 mandals in Suryapet district of the Indian state of Telangana.[1] It is under the administration of Suryapet revenue division with its headquarters at Neredcherla. It is bounded by Penpahad mandal towards North, Garidepally mandal towards East, Palakeedu mandal towards South, Nalgonda district towards West.

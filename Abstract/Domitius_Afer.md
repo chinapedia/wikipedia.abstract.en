@@ -1,0 +1,1 @@
+GNAEUS DOMITIUS AFER (died 59) was a Roman orator and advocate, born at Nemausus (Nîmes) in Gallia Narbonensis. He flourished in the reigns of Tiberius, Caligula, Claudius and Nero.[1] He was suffect consul in the _nundinium_ of September-December 39 as the colleague of Aulus Didius Gallus.[2]

@@ -1,0 +1,1 @@
+LOIS AUTA was born on 29 April 1980. She hails from Kaduna State, Nigeria[1]. Lois Auta is the founder and chief executive officer of Cedar Seed Foundation. She has received awards for her role in promoting disabled sport globally in the U.S.[2] She was hosted among 30 Nigerians by President Mohammadu Buhari for technology innovation and creativity.[3]

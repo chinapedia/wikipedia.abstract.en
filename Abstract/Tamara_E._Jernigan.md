@@ -1,0 +1,1 @@
+TAMARA ELIZABETH "TAMMY" JERNIGAN, PH.D. (born May 7, 1959, in Chattanooga, Tennessee) is an American scientist and former NASA astronaut and a veteran of five shuttle missions. She currently serves as Deputy Principal Associate Director in the Weapons and Complex Integration (WCI) organization at Lawrence Livermore National Laboratory.[1].

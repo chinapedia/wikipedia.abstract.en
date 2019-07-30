@@ -1,0 +1,1 @@
+Bundesarchiv_B_145_Bild-F071430-0017,_Bonn,_Bundesrat,_Bundesratspräsident_Albrecht.jpg, by the German Wine Queen, Mechthild Meyer from Waldrach (centre) and her two wine princesses, Monika Kram (l) from Franconia and Barbara Laurenstein (r) from the Nahe. 1985]]

@@ -1,0 +1,1 @@
+Bagot_Community_Sign.jpg BAGOT COMMUNITY is an Aboriginal community in Darwin in the Northern Territory of Australia. It was formerly known as the Bagot Aboriginal Reserve. It is now the largest Aboriginal community in Darwin, home to nearly 400 Aboriginal people.

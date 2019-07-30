@@ -1,0 +1,1 @@
+GUY II THE RED DE MONTLHÉRY (died 1108), son of Guy I, Seigneur de Montlhéry, and Hodierne de Gometz-la-Ferté. Count of Rochefort-en-Yvelines. Châtelain of Châteaufort and of Gometz. Seneschal of France under Philip I the Amorous, 1104-1106.

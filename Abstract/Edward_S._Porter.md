@@ -1,0 +1,1 @@
+EDWARD S. PORTER (October 19, 1848 – June 13, 1902) was a physician in Louisville, Kentucky. He was a physician for the Louisville city sanitary force, the Orphan's home, at the nearby insane asylum, and at Simmons College of Kentucky.

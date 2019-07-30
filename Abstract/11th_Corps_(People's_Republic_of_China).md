@@ -1,0 +1,1 @@
+The 11TH CORPS (later the 11TH ARMY CORPS) () was a military formation of the Chinese People's Liberation Army. It was active from 1949 to 1952, with a six month break; and from 1969 to the end of 1985. It is currently inactive. In 1979 the corps took part in the Sino-Vietnamese War. In 1984 it again fought in Vietnam. It was stationed in the Kunming Military Region.

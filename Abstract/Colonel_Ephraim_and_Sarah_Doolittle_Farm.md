@@ -1,0 +1,1 @@
+The COLONEL EPHRAIM AND SARAH DOOLITTLE FARM is a historic farm property on Doolittle Road in Shoreham, Vermont. It is one of the oldest colonial farm properties in western Vermont, established in 1766 by Colonel Ephraim Doolittle, a veteran of the French and Indian War and the American Revolutionary War. It was listed on the National Register of Historic Places in 1995.[1]

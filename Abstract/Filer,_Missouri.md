@@ -1,0 +1,1 @@
+FILER is an unincorporated community in northern Douglas County, in the Ozarks of southern Missouri.[1] The community is located on Tick Ridge along Missouri Route C approximately south of the Douglas - Wright county line.[2]

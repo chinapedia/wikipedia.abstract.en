@@ -1,0 +1,1 @@
+_DICERATIAS BISPINOSUS_, commonly known as the TWO-ROD ANGLER, is a species of double angler, a type of anglerfish. The fish is bathypelagic and has been found at depths ranging from . It is endemic to the Indian and Pacific Oceans.[1]

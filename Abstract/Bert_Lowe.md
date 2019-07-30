@@ -1,0 +1,1 @@
+ALBERT SIDNEY "BERT" LOWE (31 May 1912 – 23 October 1933) was a New Zealand boxer who represented his country at the 1932 Olympic Games in Los Angeles. He subsequently turned professional, winning the national professional middleweight title in 1933.

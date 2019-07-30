@@ -1,0 +1,1 @@
+GIULIA GUARINO or JULIA GUARINO FIECHTER (born 17 July 1897; died 31 July 1985[1]) was an Italian/Uruguayan architect.[2] She was the first Latin American woman to graduate with a degree in architecture in 1923.[3]

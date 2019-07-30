@@ -1,0 +1,1 @@
+CONCEPCIÓN BONA HERNÁNDEZ (December 6, 1824 - July 2, 1901) was a nursery school teacher and a campaigner for the independence of the Dominican Republic. Together with María Trinidad Sánchez, Isabel Sosa and María de Jesús Pina, she took part in designing the Dominican flag.[1][2][3][4]

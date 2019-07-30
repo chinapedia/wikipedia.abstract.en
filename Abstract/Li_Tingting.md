@@ -1,0 +1,1 @@
+LI TINGTING (), aka LI MAIZI (), is a Chinese campaigner and activist for gender equality and sexuality. She was detained by police on the eve of International Women's Day, along with four other activists, for protesting sexual harassment on public transport.[1][2]

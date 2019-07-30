@@ -1,0 +1,1 @@
+Ofrenda_floral_a_los_restos_de_José_Martí_(9373169315).jpg in Santa Ifigenia Cemetery]] Tumba_de_Fidel_Castro_Ruz_CF9A1523.jpg in Santa Ifigenia Cemetery]] Cemetry_Santa_Ifigenia_Santiago_de_Cuba_-_Changing_of_the_Guards.jpg

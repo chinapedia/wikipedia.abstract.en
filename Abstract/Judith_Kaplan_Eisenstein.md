@@ -1,0 +1,1 @@
+Juilliard_School_-_Alice_Tully_Hall.jpg JUDITH KAPLAN (September 10, 1909 – February 14, 1996) was an author, musicologist, composer, theologian and the first person to celebrate a Bat Mitzvah publicly in America (see below).

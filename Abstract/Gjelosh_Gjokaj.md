@@ -1,0 +1,1 @@
+Gjelosh_Gjokaj_portrait.jpg

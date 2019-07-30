@@ -1,0 +1,1 @@
+_IN TRANSIT_ is a musical with book, music and lyrics by Kristen Anderson-Lopez, James-Allen Ford, Russ Kaplan and Sara Wordsworth. The musical, performed entirely a cappella, ran Off-Broadway in 2010, and on Broadway in 2016.

@@ -1,0 +1,1 @@
+Chowgalla.jpg CHOWGALLA is known as the center of Dera Ismail Khan, Pakistan, and it is also the gate for four major bazaars of Dera Ismail Khan.There are markets and shops of all types for the needs of Derawal people.Its also called/known as Chogallia in local area.

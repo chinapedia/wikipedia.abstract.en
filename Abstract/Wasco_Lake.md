@@ -1,0 +1,1 @@
+WASCO LAKE is a glacially formed alpine lake located in Jefferson County, Oregon, United States. A part of the Mount Jefferson Wilderness Area, Wasco Lake is a popular hiking destination and can be accessed via the Pacific Crest Trail.Final Environmental Impact Statement - Land and Resource Management Plan - Willamette National Forest p.144

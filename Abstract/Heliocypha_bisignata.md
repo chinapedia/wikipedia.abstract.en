@@ -1,0 +1,1 @@
+_HELIOCYPHA BISIGNATA_,[1] STREAM RUBY,[2][3] is a species of damselfly in the family Chlorocyphidae. It is endemic to South India where it breeds in hill streams in the southern part of the country.[4]

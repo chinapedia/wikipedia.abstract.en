@@ -1,0 +1,1 @@
+AUTOMOBILI LAMBORGHINI S.P.A. () is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese and tractors Lamborghini Trattori in Pieve di Cento, Italy. The company is owned by the Volkswagen Group through its subsidiary Audi.

@@ -1,0 +1,1 @@
+The PORTUGUESE WOMEN'S BASKETBALL CUP is the top women’s basketball cup in Portugal, which is also called (Portuguese: "Taça de Portugal de Basquetebol Feminino") and it is organized by the FPB (Portuguese: Federação Portuguesa de Basquetebol) The cup start in 1963/64 with a designation of "Taça Regina Peyroteo", for the first 4 years and in 1967/1968 renamed "Taça de Portugal".

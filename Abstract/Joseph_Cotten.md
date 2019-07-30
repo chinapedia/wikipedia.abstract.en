@@ -1,0 +1,1 @@
+JOSEPH CHESHIRE COTTEN JR. (May 15, 1905 – February 6, 1994) was an American film, stage, radio and television actor. Cotten achieved prominence on Broadway, starring in the original stage productions of _The Philadelphia Story_ and _Sabrina Fair_.

@@ -1,0 +1,1 @@
+A FALSE ETYMOLOGY (FAKE ETYMOLOGY, POPULAR ETYMOLOGY, ETYMYTHOLOGY,[1] PSEUDO-ETYMOLOGY, or PAR(A)ETYMOLOGY), sometimes called FOLK ETYMOLOGY – although the last term is also a technical term in linguistics – is a popularly held but false belief about the origin or derivation of a specific word.

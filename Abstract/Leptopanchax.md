@@ -1,0 +1,1 @@
+_LEPTOPANCHAX_ is a genus of small fish, up to long, in the family Aplocheilidae. They are found in southeastern Brazil from Paraná to Rio de Janeiro.[1][2] Depending on the exact species, they inhabit small seasonal channels in the Atlantic rainforest or temporary pools in open habitats.[3]

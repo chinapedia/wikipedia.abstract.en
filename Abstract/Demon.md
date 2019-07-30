@@ -1,0 +1,1 @@
+PazuzuDemonAssyria1stMil_2.jpg demon king Pazuzu, circa 800 BC – circa 700 BC, Louvre]] Mephistopheles2.jpg (A Medieval demon from German folklore) flying over Wittenberg, in a lithograph by Eugène Delacroix.]]

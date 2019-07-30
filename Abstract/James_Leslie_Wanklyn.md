@@ -1,0 +1,1 @@
+JAMES LESLIE WANKLYN (14 April 1860 – 6 July 1919) was a Liberal Unionist Member of Parliament for Bradford Central, elected at the 1895 general election[1] and again at the following general election in 1900[2] He did not stand at the 1906 election.

@@ -1,0 +1,1 @@
+_HOLLYWOOD SEVEN_ is the third studio album by Australian musician, Jon English. The album was released in Australia in August 1976. Three singles were released from the album, including "Hollywood Seven", which peaked at number 13 on the Kent Music chart and number 18 in Sweden.

@@ -1,0 +1,1 @@
+'''Claudia Reichler ''' (born 10 October 1963) is a German former footballer. She was a member of the Germany women's national football team from 1982–1985.[1] On club level she played for BV 08 Lüttringhausen and KBC Duisburg.

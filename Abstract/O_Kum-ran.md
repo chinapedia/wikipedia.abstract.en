@@ -1,0 +1,1 @@
+'''O Kum-ran ''' (born 18 September 1981) is a North Korean women's international footballer who plays as a midfielder. She is a member of the North Korea women's national football team. She was part of the team at the 2003 FIFA Women's World Cup.[1]

@@ -1,0 +1,1 @@
+_HIS MAJESTY, BUNKER BEAN_ is a 1925 silent film comedy directed by Harry Beaumont and starring Matt Moore. It is based on a 1916 play, _His Majesty, Bunker Bean_ by Lee Wilson Dodd, taken from a novel _Bunker Bean_ by Harry Leon Wilson. It was produced and distributed by Warner Brothers.[1][2]

@@ -1,0 +1,1 @@
+The suicide of TYRONE UNSWORTH (August 16, 2003 – November 22, 2016) occurred on November 22, 2016, in Brisbane, Australia. Unsworth, a 13-year-old boy, committed suicide after years of bullying motivated by his homosexuality.[1] His death garnered considerable national attention in Australia, as well as international attention.

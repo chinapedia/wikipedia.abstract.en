@@ -1,0 +1,1 @@
+_DARWINIA ACEROSA_, commonly known as the FINE-LEAVED DARWINIA, is a plant in the myrtle family Myrtaceae and is endemic to a small area in south-west of Western Australia. It is a densely branched, heath-like shrub with crowded, finely pointed leaves and drooping heads of forty to fifty yellowish-green flowers.

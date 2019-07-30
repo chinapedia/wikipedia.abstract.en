@@ -1,0 +1,1 @@
+Maestro_di_san_verecondo,_madonna_col_cristo_morto,_1415-30_ca.jpg]] The MASTER OF SAN VERECONDO (active first half of 15th century) was an anonymous painter active in the towns of Fabriano and Gualdo Tadino in the Marche.

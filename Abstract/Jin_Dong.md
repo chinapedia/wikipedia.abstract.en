@@ -1,0 +1,1 @@
+JIN DONG (, born 22 December 1976) is a Chinese actor. He is known for his television roles in _Legend of Entrepreneurship_ (2012), _The Disguiser_ (2015), _Candle in the Tomb_ (2016), _Surgeons_ (2017) and _The First Half of My Life_ (2017).

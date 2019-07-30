@@ -1,0 +1,1 @@
+5and10stringkantele.jpg A KANTELE ()[1] is a traditional Finnish and Karelian plucked string instrument (chordophone) belonging to the south east Baltic box zither family known as the Baltic psaltery along with Estonian kannel, Latvian kokles, Lithuanian kanklės and Russian gusli.[2]

@@ -1,0 +1,1 @@
+JOSEPH "JOE" DORSEY JR. (January 10, 1935 to October 20, 2004) was an American professional boxer, ending with a 29-6 record, who won a court case in the 1950s against Louisiana's law banning interracial boxing matches.[1] The New Orleans-born Dorsey began boxing at 16 and retired from the sport at age 31.[2]

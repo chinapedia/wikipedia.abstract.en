@@ -1,0 +1,1 @@
+FAIR OAK PARK was a country house located to the east of the original village of Fair Oak in Hampshire, England. It was home to two sheriffs of Hampshire: Sir Samuel Raymond Jarvis, who sold it to James Edward Bradshaw. Subsequently, it was owned by Justice of the Peace George Herbert Pember.

@@ -1,0 +1,1 @@
+_PALADINS: CHAMPIONS OF THE REALM_ is a free-to-play online Hero shooter video game by Hi-Rez Studios. The game was developed by Evil Mojo Games, an internal studio of Hi-Rez, and was released in 2018 for Microsoft Windows, PlayStation 4, Xbox One, and Nintendo Switch.

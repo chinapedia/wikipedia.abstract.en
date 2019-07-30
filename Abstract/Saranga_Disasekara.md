@@ -1,0 +1,1 @@
+SARANGA DISASEKARA () (born 31 January 1983) is an award-winning Sri Lankan actor, singer, model and a host by profession. Saranga was awarded the most popular television actor in sri lanka award at Sumathi Awards, Raigam Tele'es and SLIM Nielson People's Awards in several times.[1] Saranga made his acting debut with Nil Diya Yahana[2](2008)

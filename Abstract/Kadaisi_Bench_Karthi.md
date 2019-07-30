@@ -1,0 +1,1 @@
+_KADAISI BENCH KARTHI_ (English: Last Bench Karthi) is a 2017 Indian Tamil comedy film directed by Ravi Bhargavan. The film features Bharath, Ruhani Sharma and Angana Roy in the lead roles. The venture began production in July 2016 and had a theatrical release on 27 October 2017.

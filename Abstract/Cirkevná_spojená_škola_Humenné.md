@@ -1,0 +1,1 @@
+CIRKEVNÁ SPOJENÁ ŠKOLA HUMENNÉ is a Roman catholic school.[1] The institution comprises three schools: Nursery school of St. Thérèse of Lisieux , Primary school of Sts. Cyril and Methodius and Grammar school of Sts. Cyril and Methodius (a four-year study programme and an eight-year study programme).[2]

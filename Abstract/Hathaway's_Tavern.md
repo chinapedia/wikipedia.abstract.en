@@ -1,0 +1,1 @@
+HATHAWAY'S TAVERN is a historic public accommodation at 255 North Main Street in the city of St. Albans, Vermont, United States. Built in 1793, it is the city's oldest surviving building, and was briefly used as the seat of the Franklin County government. A private residence since 1805, it was listed on the National Register of Historic Places in 1983.[1]

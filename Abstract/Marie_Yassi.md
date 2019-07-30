@@ -1,0 +1,1 @@
+'''Marie Yassi ''' (born 7 November 1985) is an Ivorian footballer who plays as a midfielder for the Ivory Coast women's national football team. She was part of the team at the 2014 African Women's Championship. On club level she played for Atlas 5 FC in Morocco.[1]

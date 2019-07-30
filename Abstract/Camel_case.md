@@ -1,0 +1,1 @@
+CamelCase.png 1859_Kierch_Elveng.jpgs, where roman numerals adding up in sum to the date to be memorialised were shown taller than the surrounding letters, which might be regarded as a form of camel case. Here memorialising the date "1859", Church of St Jean, Elvange, Luxembourg]]

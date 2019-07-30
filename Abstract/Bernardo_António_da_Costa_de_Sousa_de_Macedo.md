@@ -1,0 +1,1 @@
+BERNARDO ANTÓNIO DA COSTA DE SOUSA DE MACEDO (16 September 1863 – 16 June 1947)[1] was a Portuguese colonial administrator, a Vice-Admiral and a politician. He was a son of Luís António da Costa de Sousa de Macedo e Albuquerque, Count of Mesquitela, and Mariana Carolina da Mota e Silva.[2] He was married to Maria Adelaide Pinto Barbosa Cardoso.[3]

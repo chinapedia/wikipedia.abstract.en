@@ -1,0 +1,1 @@
+The first BOLIVIANO was the currency of Bolivia from 1864 to 1963. Due to rising inflation, it was replaced with the _peso boliviano_ at an exchange rate of bolivianos to peso. The peso was later replaced by the second Bolivian boliviano.

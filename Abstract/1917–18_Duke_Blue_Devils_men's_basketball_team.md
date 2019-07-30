@@ -1,0 +1,1 @@
+The 1917–18 DUKE BLUE DEVILS MEN'S BASKETBALL TEAM represented Duke University during the 1917–18 men's college basketball season. The head coach was Charles Doak, coaching his second season with the Blue Devils. The team finished with an overall record of 10–5.[1]

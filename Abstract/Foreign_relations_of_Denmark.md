@@ -1,0 +1,1 @@
+President_George_W._Bush_and_Danish_Prime_Minister_Anders_Fogh_Rasmussen_hold_a_joint_press_conference.jpg and former Prime Minister Anders Fogh Rasmussen hold a joint press conference outside Marienborg, July 2005.]] Dmitry_Medvedev_in_Denmark_28_April_2010-8.jpeg and current Danish Prime Minister Lars Lokke Rasmussen hold a joint press conference, April 2010.]]

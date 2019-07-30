@@ -1,0 +1,1 @@
+The 2017 KAZAKHSTAN PREMIER LEAGUE was the 26th season of the Kazakhstan Premier League, the highest football league competition in Kazakhstan. Astana are the defending champions having won their third league championship the previous year.

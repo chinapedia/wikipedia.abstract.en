@@ -1,0 +1,1 @@
+_THE THIRD PARTY_ is a 2016 Filipino romantic comedy drama film starring Angel Locsin, Sam Milby and Zanjoe Marudo. It is directed by Jason Paul Laxamana from a screenplay written by Charlene Sawit-Esguerra and Patrick John Valencia.[1][2]

@@ -1,0 +1,1 @@
+MANDREM VIDHAN SABHA CONSTITUENCY is one of the 40 legislative assembly constituencies of the state of Goa in southern India. Mandrem is also one of the 20 constituencies falling under the North Goa Lok Sabha constituency.

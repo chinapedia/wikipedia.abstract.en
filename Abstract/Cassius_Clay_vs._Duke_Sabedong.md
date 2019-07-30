@@ -1,0 +1,1 @@
+Cassius Clay (soon Muhammad Ali) fought Duke Sabedong in a ten-round boxing match in Las Vegas on June 26, 1961. The fight went the full distance with Clay winning comfortably on points, despite Sabedong's usage of roughhouse tactics.

@@ -1,0 +1,1 @@
+The MATI KE otherwise known as the _Magatige,_ are an indigenous Australian people, whose traditional lands are located in the Wadeye area in the Northern Territory, Their language is in danger of extinction.

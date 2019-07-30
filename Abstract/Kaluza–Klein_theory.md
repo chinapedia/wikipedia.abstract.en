@@ -1,0 +1,1 @@
+In physics, KALUZA–KLEIN THEORY (KK THEORY) is a classical unified field theory of gravitation and electromagnetism built around the idea of a fifth dimension beyond the usual four of space and time and considered an important precursor to string theory.

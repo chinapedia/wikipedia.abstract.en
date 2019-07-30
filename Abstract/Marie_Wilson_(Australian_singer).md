@@ -1,0 +1,1 @@
+MARIE WILSON (born 20 April 1974) is an Australian singer and songwriter.[1] She was nominated for ARIA Awards in 1998 for Best New Talent and Breakthrough Artist – Single[2] and in 1999 for Breakthrough Artist – Album.[3][4][5]

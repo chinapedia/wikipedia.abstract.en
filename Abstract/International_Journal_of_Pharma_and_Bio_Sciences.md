@@ -1,0 +1,1 @@
+The _INTERNATIONAL JOURNAL OF PHARMA AND BIO SCIENCES_ is a quarterly scientific journal covering research in pharmaceutical and biological sciences. It was established in 2010 and the editor-in-chief is Guru Prasad Mohanta (Annamalai University).

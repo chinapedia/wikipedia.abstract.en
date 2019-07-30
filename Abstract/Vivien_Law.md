@@ -1,0 +1,1 @@
+VIVIEN ANNE LAW, LADY SHACKLETON, (22 March 1954 – 19 February 2002) was a British linguist and academic, who specialised in grammar. Over her lifetime, she "acquired a grammatical knowledge of over a hundred languages".[1] She spent all her academic career at the University of Cambridge.

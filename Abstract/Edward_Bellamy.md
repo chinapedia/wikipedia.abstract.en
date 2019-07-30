@@ -1,0 +1,1 @@
+EDWARD BELLAMY (March 26, 1850 – May 22, 1898) was an American author, journalist, and political activist most famous for his utopian novel, _Looking Backward_. Bellamy's vision of a harmonious future world inspired the formation of numerous "Nationalist Clubs" dedicated to the propagation of Bellamy's political ideas.

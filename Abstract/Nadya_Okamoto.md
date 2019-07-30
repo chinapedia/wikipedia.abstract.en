@@ -1,0 +1,1 @@
+NADYA OKAMOTO is a social entrepreneur and activist, known as the Founder and Executive Director of the non-profit organization PERIOD.[1] She is the author of _Period Power: A Manifesto for the Menstrual Movement,_ which came out in October 2018 (published by Simon & Schuster).[2] In 2017, Nadya launched an unsuccessful bid for a seat on the Cambridge City Council.[3]

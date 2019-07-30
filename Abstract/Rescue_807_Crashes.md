@@ -1,0 +1,1 @@
+The RESCUE 807 CRASHES refers to three related aircraft accidents in Kananaskis Country, Alberta on 6 and 14 June 1986. Two aircraft crashed on separate days while searching for the first aircraft.[1] All 13 people on board the three aircraft were killed and subsequently three mountain lakes were named Memorial Lakes in remembrance of those who lost their lives.[2]

@@ -1,0 +1,1 @@
+MARLENE DAYMAN (born 14 October 1949) is an Australian former swimmer. She competed in the women's 100 metre backstroke at the 1964 Summer Olympics.[1] Earlier she had defied an instruction from the Australian Swimming Union not to march in the opening ceremony.[2]

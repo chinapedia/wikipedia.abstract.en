@@ -1,0 +1,1 @@
+OSCAR GREELEY CLENDENNING RITTER VON HAMMERSTEIN II (; July 12, 1895 – August 23, 1960) was an American librettist, theatrical producer, and (usually uncredited) theatre director of musicals for almost 40 years. He won eight Tony Awards and two Academy Awards for Best Original Song. Many of his songs are standard repertoire for vocalists and jazz musicians. He co-wrote 850 songs.

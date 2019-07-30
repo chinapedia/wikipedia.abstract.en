@@ -1,0 +1,1 @@
+JOHN MANSON MUNRO HOUSE is a historic home located at Cuba, Crawford County, Missouri. It was built about 1888, and is a 2 1/2-story, irregular shaped, Queen Anne style red brick dwelling. It has multiple projecting bays and features a wraparound porch.[1]

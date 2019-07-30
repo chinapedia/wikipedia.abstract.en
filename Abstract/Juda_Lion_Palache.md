@@ -1,0 +1,1 @@
+JUDA LION PALACHE (October 26, 1886 – October 18, 1944) was a professor of Semitic languages (Hebrew, Arabic, Aramaic) at the University of Amsterdam and a leader of the Portuguese Jewish community in that city. He came from the Pallache family.[1][2][3][4][5][6]

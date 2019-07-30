@@ -1,0 +1,1 @@
+POLITICS OF THE UNION OF THE COMOROS takes place in a framework of a federal presidential republic, whereby the President of the Comoros is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government. Federal legislative power is vested in both the government and parliament.

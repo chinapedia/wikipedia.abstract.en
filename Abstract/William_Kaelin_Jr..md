@@ -1,0 +1,1 @@
+WILLIAM "BILL" G. KAELIN JR. (born 1957 in New York City) is a professor of medicine at Harvard University. Kaelin is a 2016 recipient of the Lasker Award for Basic Medical Research. He also has won the 2016 ASCO Science of Oncology Award, and 2016 AACR Princess Takamatsu Award.[1][2] His laboratory studies tumor suppressor proteins.

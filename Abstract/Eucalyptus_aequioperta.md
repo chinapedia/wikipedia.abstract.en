@@ -1,0 +1,1 @@
+_EUCALYPTUS AEQUIOPERTA_, commonly known as the WELCOME HILL GUM,[1] is a mallee, sometimes a tree and is endemic to Western Australia. It has rough bark on the lower half of the trunk, lance-shaped leaves, flower buds in groups of between seven and fifteen, white flowers and more or less cup-shaped fruit.Eucalyptus_aequioperta_buds.jpg

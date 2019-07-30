@@ -1,0 +1,1 @@
+GORZÓW WIELKOPOLSKI RAILWAY STATION is a railway station serving the town of Gorzów Wielkopolski, in the Lubusz Voivodeship, Poland. The station opened on 12 October 1857 and is located on the Tczew–Kostrzyn railway, Zbąszynek-Gorzów Wielkopolski railway and Gorzów Wielkopolski–Myślibórz railway. The train services are operated by PKP, Przewozy Regionalne, and Arriva.

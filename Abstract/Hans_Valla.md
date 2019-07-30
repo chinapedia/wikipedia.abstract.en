@@ -1,0 +1,1 @@
+HANS VALLA (born ) was an Austrian male former weightlifter, who competed in the middleweight class and represented Austria at international competitions. He won the bronze medal at the 1937 World Weightlifting Championships in the 75 kg category.[1]

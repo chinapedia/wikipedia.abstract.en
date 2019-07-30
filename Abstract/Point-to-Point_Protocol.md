@@ -1,0 +1,1 @@
+In computer networking, POINT-TO-POINT PROTOCOL (PPP) is a data link layer (layer 2) communications protocol used to establish a direct connection between two nodes. It connects two routers directly without any host or any other networking device in between. It can provide connection authentication, transmission encryption,[1] and compression.

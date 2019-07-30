@@ -1,0 +1,1 @@
+LIESBETH VERNOUT (born 1958) is a Dutch former cricketer. She played eight Women's One Day International matches for the Netherlands women's national cricket team.[1][2] She was part of the Netherlands squad for the 1988 Women's Cricket World Cup.[3]

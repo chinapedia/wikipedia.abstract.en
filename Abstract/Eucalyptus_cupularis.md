@@ -1,0 +1,1 @@
+_EUCALYPTUS CUPULARIS_, commonly known as the HALLS CREEK WHITE GUM,[1] or in the local indigenous Djaru peoples' language as WAWULINGGI,[2] is a species of small tree that is endemic in an area in north-western Australia. It has smooth, powdery white bark, lance-shaped or curved adult leaves, flower buds in groups of seven, white flowers and cup-shaped to conical fruit.

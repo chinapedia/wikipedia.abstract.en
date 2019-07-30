@@ -1,0 +1,1 @@
+The CENTRE FOR THE HISTORY OF SCIENCE, TECHNOLOGY AND MEDICINE (CHSTM) at the University of Manchester is one of the largest groups in Britain researching and teaching the History of Science, Technology and Medicine (HSTM) as one integrated field of study.[1]

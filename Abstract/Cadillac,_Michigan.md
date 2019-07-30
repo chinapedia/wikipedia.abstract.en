@@ -1,0 +1,1 @@
+CADILLAC is a city in the U.S. state of Michigan, located in Haring Township. The city is the county seat of Wexford County.[1][2] The population was 10,355 at the 2010 census. Today US 131, M-55 and M-115 have a junction at this city. The geographic center of Michigan is approximately five miles (8.05 km) north-northwest of Cadillac.[3]

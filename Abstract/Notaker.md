@@ -1,0 +1,1 @@
+DAVID NOTHAKER (born September 23, 1989), better known by his stage name NOTAKER (stylized as И O T A K E R), is an American DJ and producer based in St. Louis, Missouri.[1][2] He is best known for his midtempo-progressive style and for breakout singles like "Infinite" and "Shimmer" which have amassed over 8 million and 1 million streams on Spotify respectively.

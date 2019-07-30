@@ -1,0 +1,1 @@
+The third season of the reality television series _Love & Hip Hop: New York_ aired on VH1 from January 7, 2013 until April 15, 2013. The show was primarily filmed in New York City, New York. It was executively produced by Mona Scott-Young for Monami Entertainment, Toby Barraud and Stefan Springman for NFGTV, and Shelly Tatro, Brad Abramson, Danielle Gelfand and Jeff Olde for VH1.

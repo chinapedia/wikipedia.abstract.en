@@ -1,0 +1,1 @@
+_CASHMERE_ is the debut studio album by Swet Shop Boys.[1] It was released via Customs on October 14, 2016.[2] It peaked at number 45 on _Billboard_{{'}}s Top R&B/Hip-Hop Albums chart.[3] Redinho handled the production,[4] while rappers Heems and Riz MC shared vocal duties.[5] Music videos were created for "T5",[6] "Zayn Malik",[7] and "Aaja".[8]

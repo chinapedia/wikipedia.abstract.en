@@ -1,0 +1,1 @@
+PROTON-PUMP INHIBITORS (PPIS) are a group of drugs whose main action is a pronounced and long-lasting reduction of stomach acid production. Within the class of medications, there is no clear evidence that one agent works better than another.[1][2]

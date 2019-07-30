@@ -1,0 +1,1 @@
+ENRICO JAMES (born 12 April 1985) is a South African badminton player.[1] In 2011, he won the bronze medal at the All-Africa Games in the mixed doubles event partnered with Stacey Doubell.[2] In 2012, he won the bronze and silver medal in the men's and mixed doubles respectively at the African Championships in Addis Ababa, Ethiopia.[3]

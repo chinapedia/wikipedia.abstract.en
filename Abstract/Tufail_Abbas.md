@@ -1,0 +1,1 @@
+TUFAIL ABBAS (born c. 1928[1]) is a Pakistani trade unionist and communist politician. He was a veteran labour leader in the airline industry, heading the Airways Employees Union.[2][3] In later years he served as chairman of the Pakistan Mazdoor Mahaz ('Pakistan Workers Front') and chief editor of the Urdu monthly _Awami Manshoor_.[4]

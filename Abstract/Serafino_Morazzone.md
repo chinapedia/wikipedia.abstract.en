@@ -1,0 +1,1 @@
+Blessed SERAFINO MORAZZONE (1 February 1747 - 13 April 1822) was an Italian Roman Catholic priest. Morazzone served as a simple parish priest in Lecco from his ordination as a priest in 1773 until his death and became noted amongst the faithful for his personal holiness and dedication to the sacraments.[1][2]

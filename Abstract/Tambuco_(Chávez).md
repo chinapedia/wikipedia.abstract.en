@@ -1,0 +1,1 @@
+_TAMBUCO_ is a percussion-ensemble work for six players, written by the Mexican composer Carlos Chávez in 1964. The score is dedicated to Clare Boothe Luce, and a performance of it lasts approximately thirteen minutes.

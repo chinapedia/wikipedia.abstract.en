@@ -1,0 +1,1 @@
+PLEASANT VALLEY is a small locality near the town of Geraldine in the Canterbury Region of the South Island of New Zealand. The area is boarded by the Geraldine Downs to the north and Gapes Valley to the south. The Hae Hae Te Moana River runs through the valley.

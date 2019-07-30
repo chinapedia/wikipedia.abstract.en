@@ -1,0 +1,1 @@
+In 1945, CHINA COFOUNDED THE INTERNATIONAL MONETARY FUND (IMF) with 34 other nations. In April 1980, the People’s Republic of China, established a formal relationship with the IMF. The Chinese-IMF relationship mainly operates around affairs associated with IMF governance and the IMF Special Drawing Rights (SDR).[1][2]

@@ -1,0 +1,1 @@
+JOHN TOBIN (born 1952) is an Irish retired Gaelic football manager and former player. His league and championship career with the Galway senior team spanned twelve seasons from 1971 until 1983. Tobin served as manager of the team from 1989 until 1993 before taking charge of Roscommon from 2000 to 2001.[1]

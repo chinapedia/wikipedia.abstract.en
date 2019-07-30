@@ -1,0 +1,1 @@
+The WILSON ALWYN "SNOWFLAKE" BENTLEY HOUSE is a historic house on Nashville Road in Jericho, Vermont. Built about 1860, it was the lifelong home of Wilson Bentley (1865-1931), the town's best known resident and one of world's innovators in the photography of snowflakes. The house was listed on the National Register of Historic Places in 1980.[1]

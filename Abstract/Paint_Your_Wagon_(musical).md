@@ -1,0 +1,1 @@
+_PAINT YOUR WAGON_ is a Broadway musical comedy, with book and lyrics by Alan J. Lerner and music by Frederick Loewe. The story centers on a miner and his daughter and follows the lives and loves of the people in a mining camp in Gold Rush-era California. Popular songs from the show included "Wand'rin' Star", "I Talk to the Trees" and "They Call the Wind Maria".

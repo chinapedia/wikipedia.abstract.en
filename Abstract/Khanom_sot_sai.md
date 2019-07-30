@@ -1,0 +1,1 @@
+_KHANOM SOT SAI_ (, ), also known as _KHANOM SAI SAI_ (, ), is a Thai dessert with a sweet filling. It is made up of coconut and palm sugar, and the filling is covered with steamed flour mixed with coconut cream. It was used at Thai wedding ceremonies in ancient times. It is traditionally packed by wrapping in a banana leaf.

@@ -1,0 +1,1 @@
+'''Elena Denchtchik ''' (born 11 November 1973) is a Russian women's international footballer who plays as a midfielder. She is a member of the Russia women's national football team. She was part of the team at the 2003 FIFA Women's World Cup.[1]

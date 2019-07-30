@@ -1,0 +1,1 @@
+ARES (; , _Áres_ ) is the Greek god of war. He is one of the Twelve Olympians, the son of Zeus and Hera.[1] In Greek literature, he often represents the physical or violent and untamed aspect of war, in contrast to his sister, the armored Athena, whose functions as a goddess of intelligence include military strategy and generalship.[2]

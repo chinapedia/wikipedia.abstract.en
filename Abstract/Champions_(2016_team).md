@@ -1,0 +1,1 @@
+THE CHAMPIONS are a team of superheroes appearing in American comic books published by Marvel Comics. The team first appears in _Champions_ #1 (October 2016) and was created by writer Mark Waid and artist Humberto Ramos.

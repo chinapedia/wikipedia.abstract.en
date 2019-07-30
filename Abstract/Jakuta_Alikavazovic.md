@@ -1,0 +1,1 @@
+JAKUTA ALIKAVAZOVIC (born October 6, 1979 in Paris) is a French woman of letters. Her novel _Corps volatils_, published by Éditions de l'Olivier in 2007, was awarded the prix Goncourt du premier roman.

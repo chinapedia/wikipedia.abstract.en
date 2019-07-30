@@ -1,0 +1,1 @@
+SEMRA ERTAN (31 May 1956 – 26 May 1982) was a Turkish migrant worker and writer in Germany who, in protest against xenophobia, specifically, the treatment of Turks in Germany, set herself on fire in a Hamburg marketplace.

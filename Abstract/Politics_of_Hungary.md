@@ -1,0 +1,1 @@
+POLITICS OF HUNGARY takes place in a framework of a parliamentary representative democratic republic. The Prime Minister is the head of government of a pluriform multi-party system, while the President is the head of state and holds a largely ceremonial position.

@@ -1,0 +1,1 @@
+The following is a comprehensive discography of Swedish DJ and producer, Eric Prydz. His discography comprises one studio album, one compilation album, three extended plays, eighteen singles, and other releases under various aliases.

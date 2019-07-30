@@ -1,0 +1,1 @@
+_PRINCESS JASNENKA AND THE FLYING SHOEMAKER_ () is a 1987 Czechoslovak fantasy film directed by Zdeněk Troška and starring Michaela Kuklová and Jan Potměšil. It is based on a fairy tale by Czech writer Jan Drda.

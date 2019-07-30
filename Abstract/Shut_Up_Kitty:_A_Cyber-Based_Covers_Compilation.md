@@ -1,0 +1,1 @@
+_SHUT UP KITTY: A CYBER-BASED COVERS COMPILATION_ is a various artists compilation album released on November 5, 1993 by Re-Constriction Records.[1] _Aiding & Abetting_ gave it a somewhat positive review, saying "a lot of this is pretty cool, especially when songs are just completely deconstructed" while criticizing some lackluster material.[2]

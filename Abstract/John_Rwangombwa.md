@@ -1,0 +1,1 @@
+JOHN RWANGOMBWA, is a Rwandan accountant, politician and banker. He is the governor of the National Bank of Rwanda, the central bank and national banking regulator. He was appointed to that position on 25 February 2013.[1]

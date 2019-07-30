@@ -1,0 +1,1 @@
+_OUT OF NOWHERE_ is a live album by saxophonist James Carter's Organ Trio with guests James Blood Ulmer and Hamiet Bluiett recorded at the Blue Note Jazz Club, and released on the Half Note Records label in 2005.[1]

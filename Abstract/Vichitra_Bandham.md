@@ -1,0 +1,1 @@
+_VICHITRA BANDHAM_ (English: STRANGE RELATION) is a 1972 Telugu drama film, produced by D. Madhusudhana Rao under the Annapurna Pictures banner[1] and directed by Adurthi Subba Rao.[2] It stars Akkineni Nageswara Rao, Vanisri in the lead roles and music composed by K. V. Mahadevan.[3] The film was based on the Yaddanapudi Sulochana Rani novel _Vijetha_.

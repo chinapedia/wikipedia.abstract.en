@@ -1,0 +1,1 @@
+OLIVE CHRISTELLE NGO NYEPEL (born 16 January 1995) is a Cameroonian-born naturalised Equatoguinean footballer who plays as a midfielder for the Equatorial Guinea women's national football team. She was part of the team at the 2011 FIFA Women's World Cup, making three appearances. At the club level she plays for Waiso Ipola in Equatorial Guinea.[1][2]

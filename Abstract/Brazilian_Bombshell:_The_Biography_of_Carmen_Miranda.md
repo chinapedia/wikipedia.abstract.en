@@ -1,0 +1,1 @@
+_BRAZILIAN BOMBSHELL: THE BIOGRAPHY OF CARMEN MIRANDA_ is a 1989 biographical book written by Martha Gil-Montero. It was published by Penguin Publishing and released in the United States on March 25, 1989.[1]

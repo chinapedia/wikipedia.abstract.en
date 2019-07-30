@@ -1,0 +1,1 @@
+BUDDHAFIELD is a cult mainly known for its coverage in the documentary film Holy Hell (2016 film) directed by Will Allen. It began in the 1980s in Hollywood, and continues in Hawaii today, often recruiting through yoga studios.[1]

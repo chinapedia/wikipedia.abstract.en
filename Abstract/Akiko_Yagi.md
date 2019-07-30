@@ -1,0 +1,1 @@
+[1] is a Japanese free announcer, _tarento_, television presenter, newscaster, and actress. She is represented with Phonics. She is a former Fuji Television announcer from 1988 to 2000. She is the ambassador of Kanagawa Tourism.

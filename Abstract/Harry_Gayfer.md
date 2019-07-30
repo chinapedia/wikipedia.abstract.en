@@ -1,0 +1,1 @@
+HARRY WALTER GAYFER (born 12 August 1925) is a former Australian politician who served in both houses of the Parliament of Western Australia. He was a member of the Legislative Assembly from 1962 to 1974, and then a member of the Legislative Council from 1974 to 1989.

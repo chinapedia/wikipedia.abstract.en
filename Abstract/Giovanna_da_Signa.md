@@ -1,0 +1,1 @@
+Blessed GIOVANNA DA SIGNA (1245 – 9 November 1307) was an Italian Roman Catholic from Florence and a recluse with a reputation for being a miracle worker.[1] Her life was spent in silent solitude dedicated to God and she remained a virgin her life as part of her consecration to God.[2]

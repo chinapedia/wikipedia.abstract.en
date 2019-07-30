@@ -1,0 +1,1 @@
+FIFTH BRIDGE () is a bridge in the city of Mosul, located in the province of Nineveh Governorate in Iraq over the Tigris River. The bridge was constructed in the 1980s and links the east and west sides of the city.[1]

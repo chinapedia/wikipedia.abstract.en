@@ -1,0 +1,1 @@
+_LOVE THY NEIGHBOR_ is a 1984 American made-for-television romantic comedy film starring John Ritter, Penny Marshall, Cassie Yates, Bert Convy and Constance McCashin. It originally premiered as an "ABC Movie Special" on May 23, 1984.

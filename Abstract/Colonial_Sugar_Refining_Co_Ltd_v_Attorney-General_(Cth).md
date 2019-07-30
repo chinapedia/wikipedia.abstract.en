@@ -1,0 +1,1 @@
+_COLONIAL SUGAR REFINING CO LTD V ATTORNEY-GENERAL (CTH)_,[1] is the only case in which the High Court issued a certificate under section 74 of the Constitution to permit an appeal to the Privy Council on a constitutional question. The Privy Council did not answer the question asked by the High Court,[2] and the court never issued another certificate of appeal.[3]

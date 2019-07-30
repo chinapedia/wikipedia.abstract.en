@@ -1,0 +1,1 @@
+The MARRAKESH AGREEMENT, manifested by the MARRAKESH DECLARATION, was an agreement signed in Marrakesh, Morocco, by 123 nations on 15 April 1994, marking the culmination of the 8-year-long Uruguay Round and establishing the World Trade Organization, which officially came into being on 1 January 1995.[1]

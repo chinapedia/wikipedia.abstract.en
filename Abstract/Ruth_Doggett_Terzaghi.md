@@ -1,0 +1,1 @@
+RUTH DOGGETT TERZAGHI (October 14, 1903 – March 3, 1992) was both a Geologist and a professor of Geology. She worked with her husband Karl Terzaghi on many engineering projects, as well as completed many papers and research projects of her own.

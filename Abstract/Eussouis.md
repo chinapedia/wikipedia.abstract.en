@@ -1,0 +1,1 @@
+EUSSOUIS is a character featured in an epic Roman poem passed on via the oral tradition [1] that was all but lost following the fall of the Roman Empire in the 5th century A.D. Some believe the poem was originally of ancient Greek origin due to the nature of the subject matter, and suggest that it should be included in the Epic Cycle [2] as an essential albeit incomplete work.

@@ -1,0 +1,1 @@
+JUDEO-CHRISTIAN is a term grouping Christianity and Judaism together, either in reference to Christianity's derivation from Judaism, both religions' common use of the Bible, or due to perceived parallels or commonalities and shared values between the two religions.

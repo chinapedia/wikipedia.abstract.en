@@ -1,0 +1,1 @@
+TOPON KUMAR GOGOI is a Bharatiya Janata Party politician from Assam. He has been elected in Assam Legislative Assembly election in 2016 from Sonari constituency.[1][2][3] Currently he also holds the Ministry of Power( independent) in Government of Assam.

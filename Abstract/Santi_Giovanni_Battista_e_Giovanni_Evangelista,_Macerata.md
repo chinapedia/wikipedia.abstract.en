@@ -1,0 +1,1 @@
+SANTI GIOVANNI BATTISTA E GIOVANNI EVANGELISTA, also called simply San Giovanni, is a Baroque-style, Roman Catholic church located on Via Giovanni Maria Crescimbeni #6, facing Piazza Vittorio Veneto, in the town of Macerata, region of Marche, Italy.

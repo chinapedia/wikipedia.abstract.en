@@ -1,0 +1,1 @@
+The ECONOMY OF LIBYA depends primarily upon revenues from the petroleum sector, which represents over 95% of export earnings and 60% of GDP.[1] These oil revenues and a small population have given Libya one of the highest nominal per capita GDP in Africa.[2][3]

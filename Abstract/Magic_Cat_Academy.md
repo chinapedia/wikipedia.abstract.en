@@ -1,0 +1,1 @@
+_MAGIC CAT ACADEMY_ is a browser game created as a Google Doodle and released on October 30, 2016.[1] The game, made playable in place of the logo on the Google website, was created in celebration of Halloween.

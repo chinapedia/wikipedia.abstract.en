@@ -1,0 +1,1 @@
+Most of the sketches in the TV series _Portlandia_ feature Fred Armisen and Carrie Brownstein playing one of a variety of pairs of characters, unless noted below. Some frequently appearing characters are:

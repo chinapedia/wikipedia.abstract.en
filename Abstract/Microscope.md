@@ -1,0 +1,1 @@
+A MICROSCOPE (from the , _mikrós_, "small" and , _skopeîn_, "to look" or "see") is an instrument used to see objects that are too small to be seen by the naked eye. Microscopy is the science of investigating small objects and structures using such an instrument. Microscopic means invisible to the eye unless aided by a microscope.

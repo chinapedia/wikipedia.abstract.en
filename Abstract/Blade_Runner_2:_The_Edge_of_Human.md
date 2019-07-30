@@ -1,0 +1,1 @@
+_BLADE RUNNER 2: THE EDGE OF HUMAN_ (1995) is a science fiction novel by American writer K. W. Jeter. It is a continuation of both the film _Blade Runner_ and the novel upon which the film was based, Philip K. Dick's _Do Androids Dream of Electric Sheep?_

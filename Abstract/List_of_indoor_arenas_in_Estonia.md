@@ -1,0 +1,1 @@
+The following is a LIST OF INDOOR ARENAS IN ESTONIA, ordered by capacity. The venues are by their final capacity after construction for seating-only events. There is more capacity if standing room is included (e.g. for concerts) or extra seats added.

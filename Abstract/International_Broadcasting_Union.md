@@ -1,0 +1,1 @@
+The INTERNATIONAL BROADCASTING UNION (IBU; official name in , modern translation in ) was an alliance of European radio broadcasters, established on April 3–4, 1925. The union had its headquarters in Geneva. The UIR aimed to resolve international problems of broadcasting.

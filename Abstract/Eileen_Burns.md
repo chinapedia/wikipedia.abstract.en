@@ -1,0 +1,1 @@
+EILEEN BURNS (born 17 February 1989)[1] is an Irish female track cyclist, representing Ireland or Northern Ireland at international competitions. She competed at the 2016 UEC European Track Championships in the individual pursuit event and team pursuit event.[2]

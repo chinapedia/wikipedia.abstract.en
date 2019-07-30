@@ -1,0 +1,1 @@
+The DELAWARE GENERAL CORPORATION LAW (Title 8, Chapter 1 of the Delaware Code) is the statute governing corporate law in the U.S. state of Delaware.[1] It has been the most important jurisdiction in United States corporate law since the early 20th century. Over 50% of publicly traded corporations in the United States and 60% of the Fortune 500 are incorporated in the state.[2]

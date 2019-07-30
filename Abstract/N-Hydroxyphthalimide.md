@@ -1,0 +1,1 @@
+_N_-HYDROXYPHTHALIMIDE is the _N_-hydroxy derivative of phthalimide. The compound is used, _inter alia_, as catalyst for oxidation reactions, in particular for the selective oxidation (e. g. alkanes to alcohols) with molecular oxygen under mild conditions.[1][2]

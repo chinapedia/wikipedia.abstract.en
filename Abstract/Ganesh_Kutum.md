@@ -1,0 +1,1 @@
+GANESH KUTUM is an Asom Gana Parishad politician from Assam. He was the twelfth Speaker of the Assam Legislative Assembly from June 1996 to May 2001.[1] He was elected in Assam Legislative Assembly election in 1985 and 1996 from Gohpur constituency.[2][3][4]

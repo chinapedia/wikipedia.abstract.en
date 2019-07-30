@@ -1,0 +1,1 @@
+WOLMYEONG DONG PARK, WOLMYEONGDONG PARK, or WOLMYEONG PARK (Hangul: 월명공원; lit. bright moon park) is a popular tourist destination in the city of Gunsan, South Korea. It is an intersecting point where five mountains connect. The total size of the park is , and its longest walking trail is . It is open year-round.

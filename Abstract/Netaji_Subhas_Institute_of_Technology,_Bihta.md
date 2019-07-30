@@ -1,0 +1,1 @@
+NETAJI SUBHAS INSTITUTE OF TECHNOLOGY (NSIT), is a private engineering college located in Bihta, Patna, India[1] offering B.Tech & diploma courses. It is affiliated to Aryabhatta Knowledge University, Patna.[2]

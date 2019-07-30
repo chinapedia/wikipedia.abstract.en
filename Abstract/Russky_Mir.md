@@ -1,0 +1,1 @@
+_RUSSKY MIR_ (, Russian World)[1] was a daily Russian newspaper published in Saint Petersburg in 1871-1880. Its publishers Mikhail Chernyayev, Vissarion Komarov, Pavel Viskovatov, and Fyodor Berg were also its co-editors, alongside Dmitry Stakheyev and later Evgeny Rapp.[2]

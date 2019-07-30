@@ -1,0 +1,1 @@
+_CAUGHT UP IN THE GEARS OF APPLICATION_ is the third and final album by sludge metal band Superjoint. It was released on November 11, 2016 on Phil Anselmo's own Housecore Records.[1] _Caught Up in the Gears of Application_ is the first full-length studio album put out by the band in over 13 years.

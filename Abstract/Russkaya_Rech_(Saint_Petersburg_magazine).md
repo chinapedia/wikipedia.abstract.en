@@ -1,0 +1,1 @@
+russkajaRech.jpg _RUSSKAYA RECH_ (, Russian Speech) was a Russian quarterly political and literary magazine published in Saint Petersburg in 1879–1882 by the poet, novelist and playwright Alexander Navrotsky, who was also its editor-in-chief.[1]

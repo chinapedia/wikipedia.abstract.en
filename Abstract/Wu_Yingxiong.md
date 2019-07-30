@@ -1,0 +1,1 @@
+WU YINGXIONG (; 1634 – 18 May 1674) was a Chinese aristocrat and the eldest son of Chinese military general Wu Sangui who was instrumental in the fall of the Ming Dynasty and the establishment of the Qing Dynasty in 1644.

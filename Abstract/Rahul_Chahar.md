@@ -1,0 +1,1 @@
+RAHUL DESRAJ CHAHAR (born 4 August 1999) is an Indian first-class cricketer who plays for Rajasthan. He plays for the Indian national Under 19 and Under 23 Team, as well as India A.[1] He made his first-class debut for Rajasthan in the 2016–17 Ranji Trophy on 5 November 2016.[2] He made his List A debut for Rajasthan in the 2016–17 Vijay Hazare Trophy on 25 February 2017.[3]

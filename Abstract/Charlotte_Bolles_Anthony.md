@@ -1,0 +1,1 @@
+CHARLOTTE BOLLES ANTHONY (August 18, 1841 – July 8, 1877), also known as Lottie B. Anthony, was one of the 14 women arrested with Susan B. Anthony after they illegally voted in Rochester, N.Y. on November 5, 1872.[1][2]

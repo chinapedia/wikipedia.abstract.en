@@ -1,0 +1,1 @@
+ULIANA YURYEVNA VASILYEVA (; born 31 July 1995) is a Russian curler. She played third for the Russian national women's curling team at the 2016 European Curling Championships, where she won a gold medal.

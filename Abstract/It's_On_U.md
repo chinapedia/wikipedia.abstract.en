@@ -1,0 +1,1 @@
+IT'S ON U was a campaign launched in 2015 in order to draw attention to ISIS's crimes against the Yazidis and bring ISIS before the International Criminal Court (ICC) so it could be charged with genocide.

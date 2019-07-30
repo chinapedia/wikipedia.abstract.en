@@ -1,0 +1,1 @@
+AVERY is an extinct town in eastern Crawford County, in the U.S. state of Missouri.[1] The townsite lies above Avery Hollow about two miles west of Onondaga Cave State Park. Missouri Route MM is adjacent to the site and the Avery cemetery lies between route MM and Avery Hollow.[2][3]

@@ -1,0 +1,1 @@
+BRUCE RIGSBY (born 1937) is an American-Australian anthropologist specializing in the languages and ethnography of native peoples on both continents. He is now professor emeritus at Queensland University, and a member of both the Australian Anthropological Society and the American Anthropological Association.

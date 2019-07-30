@@ -1,0 +1,1 @@
+_TORBAAZ_ is an upcoming Indian Bollywood action thriller film directed by Girish Malik. The film is presented by Waves Cinemas Ponty Chadha in association with Raju Chadha and produced by Raju Chadha, Rahul Mittra, Girish Malik and Puneet Singh.[1][2][3]

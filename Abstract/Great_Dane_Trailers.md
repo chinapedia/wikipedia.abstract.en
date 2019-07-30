@@ -1,0 +1,1 @@
+GREAT DANE, formerly known as GREAT DANE TRAILERS, is a Chicago, Illinois based manufacturer of truck dry van, refrigerated van and flatbed semi-trailers. Established in 1900 by J.P. Wheless and T.H. McMillan as the SAVANNAH BLOWPIPE COMPANY[1] in Savannah, Georgia, it has gone on to become the world's largest manufacturer of commercial truck trailers.[2][3]

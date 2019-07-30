@@ -1,0 +1,1 @@
+The HARRINGTON RESEARCH CENTRE is a government-run facility that is part of the AAFC umbrella of the agricultural sector. Located in Harrington, Prince Edward Island, the centre's resources are focused on the advancements of Canadian agriculture.[1]

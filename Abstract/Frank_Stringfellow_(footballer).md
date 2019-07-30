@@ -1,0 +1,1 @@
+FRANK STRINGFELLOW (March 1888 – 1948) was an English professional football inside forward who played in the Football League for Bournemouth & Boscombe Athletic, Portsmouth and The Wednesday.[1][2][3][4][5]

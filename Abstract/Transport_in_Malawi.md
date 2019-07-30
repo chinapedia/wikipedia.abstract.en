@@ -1,0 +1,1 @@
+Baobab_trees_likoma_island.jpgTRANSPORTATION IN MALAWI is poorly developed. The country of almost 14 million has 39 airports, 6 with paved runways and 33 with unpaved runways. It has of railways, all narrow-gauge and about 45 percent of its roads are paved. Though it is landlocked, Malawi also has of waterways on Lake Malawi and along the Shire River.[1]

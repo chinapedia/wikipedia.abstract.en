@@ -1,0 +1,1 @@
+'''Nina Power ''' is a cultural critic, social theorist, philosopher and translator. She is a Senior Lecturer in Philosophy at Roehampton University and the author of _One-Dimensional Woman_.[1] She served as both editor and translator (with Alberto Toscano) of Alain Badiou's _On Beckett_.

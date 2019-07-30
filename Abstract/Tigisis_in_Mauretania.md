@@ -1,0 +1,1 @@
+Peutinger-Bida.jpg showing "Tigisi"]] __NOTOC__ TIGISIS, also known as TIGISIS IN MAURETANIA to distinguish it from another Tigisis in Numidia, was an ancient Berber town (__) in the province of Mauretania Caesariensis. It was mentioned in the Antonine Itinerary.[1]

@@ -1,0 +1,1 @@
+Berzitturm_Kahla.jpg

@@ -1,0 +1,1 @@
+The Republic of EQUATORIAL GUINEA is located in west central Africa. Bioko Island lies about from Cameroon. Annobón Island lies about southwest of Bioko Island. The larger continental region of Rio Muni lies between Cameroon and Gabon on the mainland; it includes the islands of Corisco, Elobey Grande, Elobey Chico, and adjacent islets.

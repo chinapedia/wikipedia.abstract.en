@@ -1,0 +1,1 @@
+ISAIAH 16 is the sixteenth chapter of the Book of Isaiah in the Hebrew Bible or the Old Testament of the Christian Bible. This book contains the prophecies attributed to the prophet Isaiah, and is a part of the Book of the Prophets. This chapter continues the proclamation concerning Moab commenced in the previous chapter.

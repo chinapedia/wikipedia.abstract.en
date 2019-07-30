@@ -1,0 +1,1 @@
+_CALADENIA AURANTIACA_, commonly known as ORANGETIP FINGERS, is a plant in the orchid family Orchidaceae and is endemic to Victoria, although it is also found on one Bass Strait island. It is a slender ground orchid with a single hairy leaf and one or two short-lived, orange-tipped, white flowers on a thin, wiry spike.

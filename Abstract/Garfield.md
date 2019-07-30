@@ -1,0 +1,1 @@
+_GARFIELD_ is an American comic strip created by Jim Davis. Published since 1978, it chronicles the life of the title character, Garfield, the cat; Jon Arbuckle, the human; and Odie, the dog. As of 2013, it was syndicated in roughly 2,580 newspapers and journals, and held the Guinness World Record for being the world's most widely syndicated comic strip.[1]

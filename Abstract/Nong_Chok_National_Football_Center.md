@@ -1,0 +1,1 @@
+NONG CHOK NATIONAL FOOTBALL CENTER () is the Football Association of Thailand's national football centre.[1] It rests on an site in Nong Chok, Bangkok.[2] The center officially opened on 16 September 2009 by Sepp Blatter, a former president of FIFA.[3]

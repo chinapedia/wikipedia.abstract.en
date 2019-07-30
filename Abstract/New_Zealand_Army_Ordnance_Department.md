@@ -1,0 +1,1 @@
+The NEW ZEALAND ARMY ORDNANCE DEPARTMENT (NZAOD) was the organisation of commissioned officers who were responsible for the supply, maintenance and repair of equipment, small arms and all stores required for the Defence Force from 1917 to 1923.[1]

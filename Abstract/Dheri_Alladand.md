@@ -1,0 +1,1 @@
+Pinjanrh_2,_Dheri_Alladhand,_village_near_river_swat,_in_the_district_Malakand,_KPK.JPG DHERI ALLADAND is a village which consists of two union councils Dheri and Alladand respectively in the Swat Ranizai Tehsil of Malakand District of Pakistan.

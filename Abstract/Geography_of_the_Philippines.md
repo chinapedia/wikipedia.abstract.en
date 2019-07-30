@@ -1,0 +1,1 @@
+The PHILIPPINES is an archipelago that comprises over 7,000 islands with a total land area of .[1][2] The eleven largest islands contain 95% of the total land area. The largest of these islands is Luzon at about . The next largest island is Mindanao at about . The archipelago is around from the Asian mainland and is located between Taiwan and Borneo.

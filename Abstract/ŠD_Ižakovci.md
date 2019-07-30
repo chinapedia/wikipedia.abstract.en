@@ -1,0 +1,1 @@
+ŠPORTNO DRUŠTVO IŽAKOVCI, commonly referred to as ŠD IŽAKOVCI or simply IŽAKOVCI, is a Slovenian football club that plays in the village of Ižakovci. Their main colours are yellow and green. They currently play in the 1. MNL, the fifth tier of the Slovenian football pyramid. They are currently named NK AQUA IŽAKOVCI due to sponsorship reasons.

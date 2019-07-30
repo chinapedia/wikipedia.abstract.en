@@ -1,0 +1,1 @@
+DUNAKESZI () is a district in central-northern part of Pest County. _Dunakeszi_ is also the name of the town where the district seat is found. The district is located in the Central Hungary Statistical Region.

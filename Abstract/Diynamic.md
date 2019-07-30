@@ -1,0 +1,1 @@
+DIYNAMIC is an underground electronic music label based in Hamburg, Germany. The DJ, producer and three time DJ Awards winner for Best Producer and Best Deep House DJ, Mladen Solomun is one of the founders along with Adriano Trolio.[1][2][3]

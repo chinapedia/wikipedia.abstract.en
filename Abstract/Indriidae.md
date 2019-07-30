@@ -1,0 +1,1 @@
+The INDRIIDAE (sometimes incorrectly spelled INDRIDAE[1]) are a family of strepsirrhine primates. They are medium- to large-sized lemurs, with only four teeth in the toothcomb instead of the usual six. INDRIIDS, like all lemurs, live exclusively on the island of Madagascar.

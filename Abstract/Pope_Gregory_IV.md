@@ -1,0 +1,1 @@
+POPE GREGORY IV (; died 25 January 844) was Bishop of Rome and ruler of the Papal States from October 827 to his death in 844.[1] His pontificate was notable for the papacy’s attempts to intervene in the quarrels between the emperor Louis the Pious and his sons. It also saw the breakup of the Carolingian Empire in 843.

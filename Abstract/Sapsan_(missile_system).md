@@ -1,0 +1,1 @@
+Sapsan_(missile_system).jpg SAPSAN () is a mobile short-range ballistic missile system under development by Yuzhnoye Design Office and A.M. Makarov Southern Machine-Building Plant for Armed Forces of Ukraine. The Sapsan should combine the features of tactical missile system and multiple rocket launcher. Stated missile range is up to 280 kilometers.[1]

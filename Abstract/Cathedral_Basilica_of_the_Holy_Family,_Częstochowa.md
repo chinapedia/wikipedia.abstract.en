@@ -1,0 +1,1 @@
+The CATHEDRAL BASILICA OF THE HOLY FAMILY [1] ( ) also called CZĘSTOCHOWA CATHEDRAL is a religious building that is affiliated with the Catholic Church and was built in the neo-Gothic style, it is a three-nave church following the Roman or Latin rite and is located on the street Krakowska in the city of Częstochowa[2][3] in Poland.[4]

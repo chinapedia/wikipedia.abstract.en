@@ -1,0 +1,1 @@
+SINGAPORE SAVINGS BONDS (SSBs) are a type of Singapore Government Securities that are issued for Singaporeans who want to participate in the Singapore Government Securities (SGSs) market but in smaller denominations.[1][2][3]

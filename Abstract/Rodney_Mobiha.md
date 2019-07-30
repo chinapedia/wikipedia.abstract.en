@@ -1,0 +1,1 @@
+RODNEY MOBIHA (born 1 February 1994) is a Papua New Guinean footballer who plays as a midfielder for Birkenhead United and the Papua New Guinea national football team. He made his debut for the national team on 12 October 2014 in a 5–0 loss against the Philippines.[1]

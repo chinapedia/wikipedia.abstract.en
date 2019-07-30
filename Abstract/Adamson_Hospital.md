@@ -1,0 +1,1 @@
+ADAMSON HOSPITAL is a small community hospital in Cupar, Fife which was established in 1904. It was expanded in the 1930s and again in the 1970s when a health centre and two GP practices were added. A redevelopment project began in 2009 which further expanded the hospital and was finished in 2012.[1] It is managed by NHS Fife.

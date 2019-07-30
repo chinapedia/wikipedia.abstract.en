@@ -1,0 +1,1 @@
+_UBIK_ ( ) is a 1969 science fiction novel by American writer Philip K. Dick. The story is set in a future 1992 where psychic powers are common and utilized in corporate espionage.[1] It follows Joe Chip, a technician at a psychic agency who begins to experience strange alterations in reality that can be temporarily reversed by a mysterious store-bought substance called Ubik.[2]

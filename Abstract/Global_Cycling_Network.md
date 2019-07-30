@@ -1,0 +1,1 @@
+GLOBAL CYCLING NETWORK (GCN) is a cycling-related YouTube channel which was launched in 2013. It is run by the multi-channel network Play Sports Network. The channel is presented by Daniel Lloyd, Tom Last, Under-23 British National Mountain Biking champion Simon Richardson[1] and Jon Cannings. The channel is headquartered in Bath, Somerset under its parent company.

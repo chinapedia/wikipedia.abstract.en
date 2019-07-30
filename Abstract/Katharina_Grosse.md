@@ -1,0 +1,1 @@
+KATHARINA GROSSE (born 2 October 1961) is a German artist. As an artist, Grosse's work employs a use of architecture, sculpture and painting. She often uses bright, unmixed sprayed-on acrylic paints to create both large-scale sculptural elements and smaller wall works.

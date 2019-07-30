@@ -1,0 +1,1 @@
+ANTONIO VIEIRA COLLEGE is an educational institution founded by the Society of Jesus in Salvador, Brazil, in 1911. It has about 5,000 students enrolled in grades one through eleven, and also gives night classes for youth and adults.[1]

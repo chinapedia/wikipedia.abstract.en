@@ -1,0 +1,1 @@
+THE ROYAL HOP POLE is a listed public house in Tewkesbury, Gloucestershire. Located on Church Street, it is an English Heritage hotel.[1] It has recently been converted into a part of the Wetherspoons pub chain. It is famous for being mentioned in Charles Dickens' The Pickwick Papers.

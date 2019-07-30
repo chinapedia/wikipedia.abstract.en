@@ -1,0 +1,1 @@
+The GENERAL ASSOCIATION OF KOREANS IN CHINA is a pro-DPRK group of ethnic Koreans in the People's Republic of China. The organization is led by Chairwoman Choe Un-bok and held its sixth congress in Shenyang, China, on August 10, 2016. At that time it had been seven years since their fifth congress.[1]

@@ -1,0 +1,1 @@
+The TABLE TENNIS WORLD MASTERS or TABLE TENNIS NORWICH UNION MASTERS was held annually between 1979 and 1984. The competitions were sanctioned by Norwich Union. Like the early years of the Table Tennis World Cup, There had been only men's singles competition in the tournament.

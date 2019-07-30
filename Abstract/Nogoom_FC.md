@@ -1,0 +1,1 @@
+NOGOOM FOOTBALL CLUB (, formerly NOGOOM EL MOSTAKBAL FOOTBALL CLUB (, is an Egyptian football club based in October, Giza, Egypt. The club currently plays in the Egyptian Premier League, the highest league in the Egyptian football league system.

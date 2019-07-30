@@ -1,0 +1,1 @@
+ZACHARY BRAITERMAN is an American philosopher, best known for writing on the topics of Holocaust theology, Jewish thought, aesthetics, and Jewish art. He is also a professor of religion at Syracuse University.

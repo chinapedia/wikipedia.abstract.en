@@ -1,0 +1,1 @@
+LIU KUO-TSAI (; 1911–1993) was a Taiwanese politician. Elected to the Legislative Yuan in 1969, he was named deputy speaker in 1972. In 1988, he became the acting President of the Legislative Yuan. The interim designation was removed early next year and Liu stepped down from the position in 1990.

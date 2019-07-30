@@ -1,0 +1,1 @@
+_ERETMOCERA DIOCTIS_ is a moth of the Scythrididae family. It was described by Edward Meyrick in 1897. It is found in Australia, where it has been recorded from Queensland, New South Wales and Western Australia.[1]

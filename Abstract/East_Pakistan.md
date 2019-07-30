@@ -1,0 +1,1 @@
+EAST PAKISTAN was the eastern provincial wing of Pakistan between 1955 and 1971, covering the territory of the modern country Bangladesh. Its land borders were with India and Myanmar, with a coastline on the Bay of Bengal.

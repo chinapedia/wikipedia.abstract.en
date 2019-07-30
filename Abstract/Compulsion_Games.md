@@ -1,0 +1,1 @@
+COMPULSION GAMES INC. is a Canadian video game developer known for _Contrast_ and _We Happy Few_. The studio is located in a former gramophone factory in the Saint-Henri district of Montreal.[1] In 2018, Compulsion Games became part of Microsoft Studios (now known as Xbox Game Studios).

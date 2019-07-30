@@ -1,0 +1,1 @@
+GERTRUD ALEXANDER (born GERTRUD GAUDIN: 7 January 1882 - 22 March 1967) was a communist activist and politician, originally from Germany. She also made her mark as an author, a political journalist and art critic.[1]

@@ -1,0 +1,1 @@
+_RAMANIYECHIYUDE NAMATHIL_ is a 2015 Malayalam short film directed by Liju Thomasstarring Arun Kumar and Para Babu. The film was screened at various festivals such as FEFKA short film festival and received many accolades.[1] It won the first prize in the Shoot an Idea competition organised by Kappa TV.[2]

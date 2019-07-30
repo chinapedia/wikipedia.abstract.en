@@ -1,0 +1,1 @@
+THODANNUR is a village in thiruvallur grama panchayath, Vatakara taluk, Kozhikode district of Kerala in India. Thodannur block panchayath consists of Ayanchery, Maniyur, palayad, kottappalli, thiruvallur, and villiappally villages.[1]

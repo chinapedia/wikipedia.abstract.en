@@ -1,0 +1,1 @@
+is a Japanese badminton player from the Saishunkan team.[1][2] She was the girls' doubles gold medalist at the 2016 World Junior Championships in Bilbao, Spain partnered with Sayaka Hobara.[3] Matsuyama won her first senior international title in Thailand at the 2017 Smiling Fish International tournament with Chiharu Shida.[4]

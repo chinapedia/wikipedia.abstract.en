@@ -1,0 +1,1 @@
+LocationMorocco3.svg]] Tajines_in_a_pottery_shop_in_Morocco.jpg

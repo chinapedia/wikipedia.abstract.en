@@ -1,0 +1,1 @@
+Anderson,_Alexander_–_Supplementum_Apollonii_redivivi,_1612_–_BEIC_17635.jpg

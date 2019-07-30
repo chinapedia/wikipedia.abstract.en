@@ -1,0 +1,1 @@
+SUPER NOIRE is a collection of crime fiction, subsidiary of the Série noire, published by Éditions Gallimard from July 1974 to April 1979. Unlike books of the Série noire of the time, the covers of the Super noire are illustrated with a black and white photograph.

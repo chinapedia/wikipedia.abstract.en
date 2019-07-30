@@ -1,0 +1,1 @@
+GERMAN NEW ZEALANDERS () are New Zealand residents of ethnic German ancestry. The German community constitute one of the largest European ethnic groups in New Zealand, numbering 12,810 in the 2013 census.

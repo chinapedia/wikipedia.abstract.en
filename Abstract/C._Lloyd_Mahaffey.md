@@ -1,0 +1,1 @@
+C. LLOYD MAHAFFEY (born December 31, 1954) is an American computer executive, who led the Apple Education division,[1] and then Apple’s Federal Systems Group in Washington, D.C., which concentrated on the U.S. Department of Defense, civilian and intelligence agencies.

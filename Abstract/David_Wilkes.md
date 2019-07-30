@@ -1,0 +1,1 @@
+DAVID EDWARD WILKES, (born 7 June 1947) is a British Methodist minister and military chaplain. From 2004 to 2008, he served as Chaplain-General to the Land Forces and was therefore head of the Royal Army Chaplains' Department.[1]

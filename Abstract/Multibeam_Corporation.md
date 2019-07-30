@@ -1,0 +1,1 @@
+MULTIBEAM is an American corporation that engages in the design of semiconductor processing equipment used in the fabrication of integrated circuits. Based in Santa Clara, in the Silicon Valley, Multibeam is led by Dr. David K. Lam, the founder and first CEO of Lam Research.

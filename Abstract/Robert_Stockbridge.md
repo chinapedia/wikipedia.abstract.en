@@ -1,0 +1,1 @@
+ROBERT STOCKBRIDGE[1](born 1901), is a fictional character in _Noblesse Oblige_, the fourteen episode of the fifth series of the period drama _Upstairs, Downstairs_. He was portrayed by Anthony Andrews.

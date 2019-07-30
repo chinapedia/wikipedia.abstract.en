@@ -1,0 +1,1 @@
+_HYDNELLUM DIANTHIFOLIUM_ is a species of tooth fungus found in the Mediterranean basin. Described as new to science in 2016, this rare species appears to form ectomycorrhizal associations with _Pinus brutia_ and often grows entirely concealed under its thick litter.[1]

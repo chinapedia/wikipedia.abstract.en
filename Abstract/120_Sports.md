@@ -1,0 +1,1 @@
+120 SPORTS is an internet television service, operated as a joint venture between Time Inc., Silver Chalice, MLB Advanced Media, and the National Hockey League. The service produces and streams sports news and highlight content catered towards digital platforms and a young adult audience

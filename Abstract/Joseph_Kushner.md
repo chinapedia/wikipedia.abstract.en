@@ -1,0 +1,1 @@
+JOSEPH KUSHNER (né BERKOWITZ;[1] October 10, 1922[2] – October 5, 1985) was an American real estate magnate, the father of Murray Kushner and Charles Kushner, grandfather of Jared Kushner, Joshua Kushner, and Marc Kushner. At the end of his career, he owned over 4,000 apartments, houses, and properties, which he willed to his family.

@@ -1,0 +1,1 @@
+The 2016–17 SEASON OF FLAMENGO BASKETBALL is the 97th season of the club, and the club's 9th in the Novo Basquete Brasil (NBB). They played the season as the defending champions of the league, holding four consecutive titles.

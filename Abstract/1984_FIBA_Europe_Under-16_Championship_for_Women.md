@@ -1,0 +1,1 @@
+The 1984 FIBA EUROPE UNDER-16 CHAMPIONSHIP FOR WOMEN (known at that time as 1984 EUROPEAN CHAMPIONSHIP FOR CADETTES) was the fifth edition of the FIBA Europe Under-16 Championship for Women. 12 teams featured in the competition, held in Perugia and Marsciano, Italy, from 8 to 15 July 1984.

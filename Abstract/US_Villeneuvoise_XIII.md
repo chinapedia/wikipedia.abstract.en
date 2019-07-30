@@ -1,0 +1,1 @@
+UNION SPORTIVE VILLENEUVOISE XIII are a French Rugby league club based in Villeneuve-de-Riviere in the region of Haute-Garonne in the south of France. The club was founded in 1965 and currently plays in the Midi-Pyrenees regional National Division 2 league which is the 4th tier of rugby league in France. Home games are played at the _Stade Municipal_.

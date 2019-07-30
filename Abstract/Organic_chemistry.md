@@ -1,0 +1,1 @@
+Ch4-structure.png, CH₄; the line-angle structural formula shows four carbon-hydrogen single bonds (σ, in black), and the typical 3D shape of tetrahedral molecules, with ~109° interior bond angles (in dashed-green).]]

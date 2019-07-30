@@ -1,0 +1,1 @@
+PAUL SÉGUIER (born 8 September 1997) is a French rugby league footballer who plays as a for the Catalans Dragons in the Super League.[1] He has spent time on loan at Saint-Esteve in the Elite One Championship and Toulouse Olympique in the Betfred Championship.

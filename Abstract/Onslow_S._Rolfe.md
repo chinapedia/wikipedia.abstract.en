@@ -1,0 +1,1 @@
+ONSLOW S. ROLFE (January 16, 1895 – January 29, 1985) was a career officer in the United States Army. He attained the rank of brigadier general during World War II as commander of the Mountain Training Center at Camp Hale, Colorado, and the 71st Infantry Division.

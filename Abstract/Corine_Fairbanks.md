@@ -1,0 +1,1 @@
+CORINE FAIRBANKS is an Oglala Lakota writer, educator and activist.[1][2] As a spokesperson for Native American rights, Fairbanks is currently one of the Lead Organizers for the American Indian Movement of Southwestern Ohio. She was formerly the Director of the American Indian Movement of Southern California.

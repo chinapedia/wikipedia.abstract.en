@@ -1,0 +1,1 @@
+| birth_place = Nashville, Tennessee | death_date = | death_place = Tucson, Arizona | occupation = | years_active = 18601930 }} JAMES "JIM" YOUNG (1844-1935)[1] was an African-American boxer, Arizona pioneer, trailblazer, Buffalo Soldier, Indian Scout, and miner for several years in Tombstone, Arizona. His claim to fame was as a boxer[2] during the mid 1880s.

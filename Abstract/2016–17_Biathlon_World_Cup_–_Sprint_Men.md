@@ -1,0 +1,1 @@
+The 2016–17 BIATHLON WORLD CUP – SPRINT MEN started on Saturday 3 December, 2016 in Östersund and finished on Friday 17 March, 2017 in Oslo Holmenkollen. The defending titlist was Martin Fourcade of France.

@@ -1,0 +1,1 @@
+JOHN GREEN WILLIAMS (1796 – December 15, 1833) was a nineteenth century politician and lawyer from Virginia.[1] He was the father of the missionary Episcopal Bishop for China and Japan, Channing Moore Williams.

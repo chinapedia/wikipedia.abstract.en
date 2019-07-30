@@ -1,0 +1,1 @@
+The KENTS CORNER HISTORIC DISTRICT encompasses a well-preserved 19th-century crossroads hamlet in Calais, Vermont. Centered on the junction of Kent Hill Road, Old West Church Road, and Robinson Cemetery Road, it developed as a stagecoach stop with a small industrial presence. It was listed on the National Register of Historic Places in 1973, and substantially enlarged in 2006.[1]

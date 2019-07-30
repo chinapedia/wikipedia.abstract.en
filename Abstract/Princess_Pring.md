@@ -1,0 +1,1 @@
+_PRINCESS PRING_ (; also known as _PRINCESS PRING IN THE BIRTHDAY KINGDOM_) is a Korean Media franchise created in 2012 by Korean toy company Loco Entertainment. The franchise features the titular character Princess Pring, a Rabbit Girl who cheers up children during their birthdays, sometimes helping them with their problems in the most fun of ways.

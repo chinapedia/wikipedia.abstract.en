@@ -1,0 +1,1 @@
+_OFFICE UPRISING_ is an American horror comedy directed by Lin Oeding and written by Peter Gamble Robinson and Ian Shorr that premiered on July 19, 2018, on Sony Crackle. The film stars Brenton Thwaites, Jane Levy, Alan Ritchson, Zachary Levi, Karan Soni and Ian Harding.

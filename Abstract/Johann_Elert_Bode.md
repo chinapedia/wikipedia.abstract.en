@@ -1,0 +1,1 @@
+JOHANN ELERT BODE (; 19 January 1747 – 23 November 1826) was a German astronomer known for his reformulation and popularisation of the Titius–Bode law. Bode determined the orbit of Uranus and suggested the planet's name.

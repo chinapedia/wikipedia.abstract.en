@@ -1,0 +1,1 @@
+Church_of_St_Mary_the_Virgin,_Washfield_(geograph_2447762).jpg WASHFIELD is a village, parish and former manor in Devon, England, situated about 2 miles north-west of Tiverton. The parish church is dedicated to St Mary the Virgin. It was within the jurisdiction of the historic West Budleigh Hundred.

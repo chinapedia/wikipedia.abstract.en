@@ -1,0 +1,1 @@
+SMANGALISO NHLEBELA (born 2 June 1994) is a South African first-class cricketer.[1] He was included in KwaZulu-Natal's squad for the 2016 Africa T20 Cup.[2] He made his Twenty20 debut for KwaZulu-Natal against Boland in the 2016 Africa T20 Cup on 23 September 2016.[3]

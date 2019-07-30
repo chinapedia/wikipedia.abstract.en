@@ -1,0 +1,1 @@
+The 1907–08 DUKE BLUE DEVILS MEN'S BASKETBALL TEAM represented Duke University during the 1907-08 men's college basketball season. The head coach was Wilbur Wade Card and the team finished with an overall record of 2–3.[1]

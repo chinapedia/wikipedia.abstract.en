@@ -1,0 +1,1 @@
+The VANUATU HOCKEY FEDERATION is the governing body of field hockey in Vanuatu, Oceania. Its headquarters were earlier in St. Tusmore, South Australia, Australia, but now have been moved to Port Vila, Vanuatu. It is affiliated to IHF International Hockey Federation and OCF Oceania Hockey Federation.

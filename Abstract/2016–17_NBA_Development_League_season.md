@@ -1,0 +1,1 @@
+The 2016–17 NBA DEVELOPMENT LEAGUE SEASON was the 16th season of the NBA Development League (NBA D-League). The NBA D-League is the official minor league basketball organization owned by the National Basketball Association (NBA). The following season, the league was rebranded to NBA G League as part of multi-year partnership with Gatorade and its parent company, PepsiCo.[1]

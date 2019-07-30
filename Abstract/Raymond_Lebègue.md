@@ -1,0 +1,1 @@
+RAYMOND LEBÈGUE (16 August 1895 – 21 November 1984) was a 20th-century French literary historian. The son of palaeographer Henri Lebègue, he was elected a member of the Académie des Inscriptions et Belles-Lettres in 1955.

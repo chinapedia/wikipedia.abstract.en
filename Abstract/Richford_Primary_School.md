@@ -1,0 +1,1 @@
+The RICHFORD PRIMARY SCHOOL is a historic school building at 140 Intervale Avenue in Richford, Vermont. Built in 1903 to address an overcrowding problem in the local schools, it served the town until 1968, and has since been converted into residential use. It was listed on the National Register of Historic Places in 2004.[1]

@@ -1,0 +1,1 @@
+The MICO LEÃO PRETO ECOLOGICAL STATION () is an Ecological station in the state of São Paulo, Brazil. It protects four fragments of Atlantic Forest in a region that has lost most of its forest coverage over the last century, and protects the endemic endangered black lion tamarin (), which gives the reserve its name.

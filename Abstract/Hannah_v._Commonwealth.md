@@ -1,0 +1,1 @@
+_HANNA V. COMMONWEALTH_, 153 Va. 863, 149 S.E. 419 (1929) is a Supreme Court of Virginia case that is often cited for distinguishing the "heat of passion" from malice as the motive in a crime.[1] The formulation is:

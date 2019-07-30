@@ -1,0 +1,1 @@
+Gerard Granollers and Adrián Menéndez-Maceiras were the defending champions but only Menéndez-Maceiras defended his title, partnering John Paul Fruttero. Ménendez-Maceiras lost in the first round to Luca Margaroli and Hugo Nys.

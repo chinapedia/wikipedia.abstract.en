@@ -1,0 +1,1 @@
+_MOTU PATLU: KING OF KINGS_ is a 2016 Indian 3D computer-animated adventure comedy film directed by Suhas Kadav and produced by Ketan Mehta.[1] The film was inspired by the popular TV series _Motu Patlu_, which itself adapted from the characters published by Lotpot magazine. It is the first feature-length film based on the characters. The film was released on 14 October 2016.

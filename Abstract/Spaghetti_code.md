@@ -1,0 +1,1 @@
+SPAGHETTI CODE is a pejorative phrase for unstructured and difficult-to-maintain source code. Spaghetti code can be caused by several factors, such as volatile project requirements, lack of programming style rules, and insufficient ability or experience.[1]

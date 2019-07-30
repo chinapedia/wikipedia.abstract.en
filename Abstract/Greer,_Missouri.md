@@ -1,0 +1,1 @@
+GREER is an unincorporated community in Oregon County, in the U.S. state of Missouri.[1] Greer lies on Missouri Route 19 between Alton to the south-southwest and Winona to the north.[2] Route 19 crosses the Eleven Point River at Greer Crossing about three miles northeast of the village.[3] Greer Spring lies just to the north of the community.[4]

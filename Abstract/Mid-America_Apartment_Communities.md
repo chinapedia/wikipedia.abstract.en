@@ -1,0 +1,1 @@
+MID-AMERICA APARTMENT COMMUNITIES is a publicly traded real estate investment trust based in Memphis, Tennessee that invests in apartments in the Southeastern United States and the Southwestern United States.[1]

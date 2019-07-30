@@ -1,0 +1,1 @@
+Frankel_synagogue_01.jpg

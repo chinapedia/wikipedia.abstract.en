@@ -1,0 +1,1 @@
+LUCENA LINES INC. (LLI), is a subsidiary of JAC Liner Inc. and commenced its own operations back in December 2004.[1][2] It has operations from Manila to Lucena and Mauban in the province of Quezon, and to the province of Marinduque.

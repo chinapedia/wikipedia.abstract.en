@@ -1,0 +1,1 @@
+YVONNE NDUOM (born 9 July 1953) is a Ghanaian public figure known chiefly as the wife of the leader of the Progressive People's Party.[1][2][3] She is currently the Executive Chairperson of Coconut Grove Hotels.[4][5][6]

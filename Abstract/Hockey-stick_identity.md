@@ -1,0 +1,1 @@
+Pascal_triangle_small.png

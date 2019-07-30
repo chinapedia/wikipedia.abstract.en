@@ -1,0 +1,1 @@
+MAKSUM-UL-HAKIM was a jurist, diplomat and justice of Dhaka High Court in Bangladesh.[1] He was an Advocate General for the government. He was an elected member of the Geneva-based UN Human Rights Committee for Prevention of Discrimination of Minorities. He was one of the judge of famous Agartala Conspiracy Case.[2]

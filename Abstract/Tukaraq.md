@@ -1,0 +1,1 @@
+TUKARAQ is a small village in the East of the Sool region disputed between the unrecognized states of Somaliland and Puntland.[1] The town is located on the road between Las Anod and Garowe in Las Anod District.[2]

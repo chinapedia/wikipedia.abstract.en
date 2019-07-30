@@ -1,0 +1,1 @@
+LEOTA is an unincorporated community in southwestern Howell County, in the U.S. state of Missouri.[1] The community is located on Missouri Route 142 and is about two miles north of the Missouri - Arkansas state line.[2]

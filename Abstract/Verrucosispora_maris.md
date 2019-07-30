@@ -1,0 +1,1 @@
+_VERRUCOSISPORA MARIS_ is a bacterium from the genus of _Verrucosispora_ which has been isolated from deep-sea sediments from the Sea of Japan near Japan.[1][2][3][4] _Verrucosispora maris_ produces abyssomicins and proximicins.[5][6][7]

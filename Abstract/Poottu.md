@@ -1,0 +1,1 @@
+_POOTTU_ () is a Malayalam movie directed by Rajeevnath.[1] The story is based on U. K. Kumaran’s short story, _Koodaram_ and depicts the life in an apartment complex when the lock system suddenly malfunctions.[2] The movie had its world premiere in Dubai on Saturday, 28 January 2017.

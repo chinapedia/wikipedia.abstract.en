@@ -1,0 +1,1 @@
+DMAX is a TV channel in the Middle East and North Africa. beIN Media Group and Discovery Communications announced in February 2016, that they would launch a version of DMAX in the MENA market. The channel was launched on 1 August 2016 and broadcast on beIN Network.[1]

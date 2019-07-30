@@ -1,0 +1,1 @@
+The King Carl XVI Gustaf Professorship in Environmental Science is a prestigious, selective appointment awarded by the Royal Swedish Academy of Sciences, to one or two people annually. it began in 1996. Elected Professors spend one year at a Swedish University.

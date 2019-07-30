@@ -1,0 +1,1 @@
+RUBÉN ALONSO CASTELLANOS ESPAÑA (born 18 January 1997) is a Guatemalan male badminton player.[1][2] Partnered with Aníbal Marroquín, he clinched the men's doubles bronze medal at the 2017 Pan Am Championships.[3] He also part of the national team that won the bronze medal at the 2018 Central American and Caribbean Games in Barranquilla, Colombia.[4]

@@ -1,0 +1,1 @@
+The 2017 SEGUNDA DIVISIÓN season, also known as COPA BEST CABLE PERÚ 2017 for sponsorship reasons,[1] was the 72nd edition of the second tier of Federación Peruana de Futbol. The tournament will be played on a home-and-away round-robin basis. The tournament started on 22 April 2017 and it ended in November 2017. The fixtures were drawn on 6 April 2017.

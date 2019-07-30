@@ -1,0 +1,1 @@
+GUINIO GOCHEV GANEV (; 2 March 1928 – 18 December 2016) was a prominent Bulgarian politician, MP and national ombudsman. He is known as "Man-Parliament" as a deputy in 8 consecutive National Assemblies (3 before 10 November 1989 and 5 thereafter). On 13 April 2005 he was selected from the 39 National Assembly for the first National Ombudsman of the Republic of Bulgaria.[1]

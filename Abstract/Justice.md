@@ -1,0 +1,1 @@
+Iustitia_van_Heemskerck.png, 1556. ‘’Justitia’’carries symbolic items such as: a sword, scales and a blindfold[1]]] Justice_Alberi_Palazzo_Altemps.jpg, by Vitruvio Alberi, 1589–1590. Fresco, corner of the vault, studiolo of the Madonna of Mercy, Palazzo Altemps, Rome]]

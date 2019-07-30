@@ -1,0 +1,1 @@
+_EUCALYPTUS CLIVICOLA_, commonly known as GREEN MALLET,[1] is a species of eucalypt that is endemic in Western Australia. It has smooth bark, linear to lance-shaped adult leaves, flower buds in groups of between nine and thirteen, pale yellow flowers and barrel-shaped, conical or cylindrical fruit.Eucalyptus_clivicola_buds.jpgEucalyptus_clivicola_fruit.jpg

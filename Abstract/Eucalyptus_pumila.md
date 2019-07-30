@@ -1,0 +1,1 @@
+_EUCALYPTUS PUMILA_, known as the POKOLBIN MALLEE is a rare plant that is native to New South Wales. Found in skeletal dry soils on sloping ground near Pokolbin. The form is a multi-stemmed mallee, up to 6 metres tall with smooth grey or grey brown bark, shedding in short ribbons.[1]

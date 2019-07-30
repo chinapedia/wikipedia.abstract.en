@@ -1,0 +1,1 @@
+The SCHÄFFER HOUSE is an 18th-century, bourqoise townhouse located at Magstræde 6 in the Old Town of Copenhagen, Denmark. The building is also called '''Hofsnedkerens Gård ''' after Diderich Schäffer for whom it was built. Schäffer's interior Rococo decorations from the first floor are now on display in the National Museum as part of the Magstræde Apartment.

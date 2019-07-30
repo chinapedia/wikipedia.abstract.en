@@ -1,0 +1,1 @@
+MAHMUDUN NABI (16 December 1936 – 20 December 1990)[1][2] was a Bangladeshi playback singer. He was awarded Bangladesh National Film Award for Best Male Playback Singer for his performance in the film _The Rain_ (1976).[3]

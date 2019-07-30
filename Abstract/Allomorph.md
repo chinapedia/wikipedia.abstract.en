@@ -1,0 +1,1 @@
+In linguistics, an _' allomorph_' is a variant form of a morpheme, that is, when a unit of meaning varies in sound without changing the meaning. The term _allomorph_ explains the comprehension of phonological variations for specific morphemes.

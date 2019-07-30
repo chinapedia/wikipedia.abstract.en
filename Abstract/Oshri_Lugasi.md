@@ -1,0 +1,1 @@
+Tahal_oshri_lugasi.jpg

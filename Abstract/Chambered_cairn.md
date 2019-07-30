@@ -1,0 +1,1 @@
+Maes_Howe_Cross_Sections.gif]] A CHAMBERED CAIRN is a burial monument, usually constructed during the Neolithic, consisting of a sizeable (usually stone) chamber around and over which a cairn of stones was constructed. Some chambered cairns are also passage-graves. They are found throughout Britain and Ireland, with the largest number in Scotland.

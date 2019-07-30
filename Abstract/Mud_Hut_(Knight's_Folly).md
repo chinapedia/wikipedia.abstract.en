@@ -1,0 +1,1 @@
+The MUD HUT was the name of an historic building in Darwin in the Northern Territory of Australia. It was officially known as ASPENDALE and by derogatory name of KNIGHT'S FOLLY. It was located between Hughes Avenue and Kitchener Drive on the escarpment below Darwin and is now a symbol of innovative tropical architecture.

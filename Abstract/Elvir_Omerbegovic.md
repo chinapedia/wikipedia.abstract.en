@@ -1,0 +1,1 @@
+ELVIR OMERBEGOVIC (* 1979 in Mettmann) is a German entrepreneur of Bosnian descent, who is mainly known as the founder and CEO of the Hip Hop label _Selfmade Records_ and as _President of Rap of Universal Music Germany_. Furthermore, he is the founder of the clothing label _Pusher Apparel_ and the co-founder of _Suckit_.

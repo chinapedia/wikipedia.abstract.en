@@ -1,0 +1,1 @@
+MERRY JANE (stylized MERRY JANE) is a cannabis-focused digital media platform launched by rapper Snoop Dogg in 2015, with media entrepreneur Ted Chung.[1] The site features editorial content on the business and politics of the cannabis industry, original video series as well as a database for identifying cannabis strains and dispensaries.[2]

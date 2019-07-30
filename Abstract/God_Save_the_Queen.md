@@ -1,0 +1,1 @@
+"GOD SAVE THE QUEEN" (alternatively "GOD SAVE THE KING", depending on the gender of the reigning monarch) is the royal anthem in a number of Commonwealth realms, their territories, and the British Crown dependencies.[1][2] The author of the tune is unknown, and it may originate in plainchant; but an attribution to the composer John Bull is sometimes made.

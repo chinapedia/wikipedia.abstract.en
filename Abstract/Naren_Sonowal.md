@@ -1,0 +1,1 @@
+NAREN SONOWAL (born February 10, 1960 in Dighola Pather, Naharkatia) is an Asom Gana Parishad politician from Assam. He is 5th Standard Pass. He has been elected in Assam Legislative Assembly election in 2016 from Naharkatia.[1][2][3]

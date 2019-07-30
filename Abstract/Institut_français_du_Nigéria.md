@@ -1,0 +1,1 @@
+The FRENCH INSTITUTE IN NIGERIA (in French: INSTITUT FRANÇAIS DU NIGÉRIA) (IFN) is part of the worldwide organisation of Instituts français (French Institutes). The Abuja institute is the only in the country.[1]

@@ -1,0 +1,1 @@
+DéTANGER_Germain_Artiste_Peintre_Décorateur_(1846-1902).jpg DéTANGER_Germain_Tableau_Le_Fauconnier_1882.jpg]] GERMAIN DÉTANGER (27 July 1846, Lyon - 25 January 1902, Lyon) was a French painter, known primarily for his decorative work.

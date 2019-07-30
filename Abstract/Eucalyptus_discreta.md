@@ -1,0 +1,1 @@
+_EUCALYPTUS DISCRETA_ is a species of shrub or mallee that is endemic to Western Australia. It has smooth creamy brown and pale grey bark, narrow-lance-shaped adult leaves, flower buds in groups of seven or nine, creamy-white flowers and barrel-shaped fruit.Eucalyptus_discreta_buds.jpgEucalyptus_discreta_flowers.jpgEucalyptus_discreta_fruit.jpg

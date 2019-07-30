@@ -1,0 +1,1 @@
+In astronomy, DECLINATION (abbreviated DEC; symbol _Δ_) is one of the two angles that locate a point on the celestial sphere in the equatorial coordinate system, the other being hour angle. Declination's angle is measured north or south of the celestial equator, along the hour circle passing through the point in question.[1]

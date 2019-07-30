@@ -1,0 +1,1 @@
+PRIMARK TOWN CENTER is engaged in the development of Public Market and Town Center of LKY Group, one of the Philippines' largest land developers.[1] The management is handled by Philippine Primark Properties, Inc., and headed by Wilbert T. Lee as the company's President and CEO.[2]

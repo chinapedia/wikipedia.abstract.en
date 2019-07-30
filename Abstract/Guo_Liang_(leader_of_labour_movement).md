@@ -1,0 +1,1 @@
+GUO LIANG (; December 3, 1901 - March 29, 1928; born in Wenjiaba, Tongguan, Changsha) was a communist, one of famous leaders of the early worker's movement in Hunan. Guo was Mao Zedong's revolutionary fellower and was killed by the Hunan Kuomintang authority on March 29, 1928.[1]

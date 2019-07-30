@@ -1,0 +1,1 @@
+RYE VALLEY is an unincorporated community in Baker County, in the U.S. state of Oregon.[1] It lies along Dixie Creek, a tributary of the Burnt River, about southeast of Baker City.[2] It is slightly west of Interstate 84 near Weatherby and Dixie.[3]

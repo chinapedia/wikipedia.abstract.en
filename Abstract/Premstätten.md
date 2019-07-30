@@ -1,0 +1,1 @@
+PREMSTÄTTEN is since January 2016 a new market town with 5,784 residents (as of 1 January 2016) in Graz-Umgebung District of Styria, Austria. However, it was previously founded in January 2015 as the town name "_Unterpremstätten-Zettling_".

@@ -1,0 +1,1 @@
+FOREIGN RELATIONS OF THE ITALIAN REPUBLIC are the Italian government's external relations with the outside world. Located in Europe, Italy has been considered a major Western power since its unification in 1861.[1] Its main allies are the NATO countries and the EU states, two entities of which Italy is a founding member.

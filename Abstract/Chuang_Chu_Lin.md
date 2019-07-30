@@ -1,0 +1,1 @@
+CHUANG CHU LIN (27 July 1900 – 4 January 1973), also spelled as ZHUANG ZHULIN, was a pioneer educator in Singapore. He is the founding principal for Chung Cheng High School, and vice-chancellor of Nanyang University, the first Chinese university in Southeast Asia.[1][2]

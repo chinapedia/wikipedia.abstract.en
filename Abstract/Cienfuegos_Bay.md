@@ -1,0 +1,1 @@
+CIENFUEGOS BAY () is a bay in the Caribbean Sea located in Cienfuegos Province on the southern coast of Cuba. It has served as a refuge for boats for many years. It has two of the most important ports in the country, one of which is the city of Cienfuegos, the capital of the province.

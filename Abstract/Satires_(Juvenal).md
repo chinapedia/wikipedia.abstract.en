@@ -1,0 +1,1 @@
+The _SATIRES_ are a collection of satirical poems by the Latin author Juvenal written in the early 2nd century AD. Juvenalcrowned.gif depicting Juvenal and Persius, from a volume translated by John Dryden in 1711]]

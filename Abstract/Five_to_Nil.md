@@ -1,0 +1,1 @@
+_FIVE TO NIL_ (Italian: _CINQUE A ZERO_) is a 1932 Italian sports comedy film directed by Mario Bonnard and starring Angelo Musco, Milly and Osvaldo Valenti.[1] It was inspired by a 5-0 victory by A.S. Roma against their rivals Juventus in 1931. It was shot at the studios of Caesar Film and included scenes featuring the real-life Roma players.

@@ -1,0 +1,1 @@
+媽祖銅像.JPG The TIANHOU or MAZU TEMPLE is a temple to the Chinese sea goddess Mazu, the deified form of Lin Moniang, a medieval Fujianese shamaness. It is located in Xinwu District, Taoyuan City, Taiwan.

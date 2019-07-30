@@ -1,0 +1,1 @@
+LITERARY HUB is a daily literary website that launched in 2015[1] by Grove Atlantic president and publisher Morgan Entrekin, American Society of Magazine Editors Hall of Fame editor Terry McDonell, and Electric Literature founder Andy Hunter.

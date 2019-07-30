@@ -1,0 +1,1 @@
+EUREKA ROADHOUSE is a census-designated place (CDP) in the Matanuska-Susitna Borough in the U.S. state of Alaska. It is part of the Anchorage, Alaska Metropolitan Statistical Area. The population was 29 at the 2010 census.

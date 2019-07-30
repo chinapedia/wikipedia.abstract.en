@@ -1,0 +1,1 @@
+SIR JOHN CAREW ECCLES [1] (27 January 1903 – 2 May 1997) was an Australian neurophysiologist and philosopher who won the 1963 Nobel Prize in Physiology or Medicine for his work on the synapse. He shared the prize with Andrew Huxley and Alan Lloyd Hodgkin.

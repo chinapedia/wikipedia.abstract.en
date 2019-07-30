@@ -1,0 +1,1 @@
+VOSKEVAZ WINERY ( (_Voskevazi Ginu Gortsaran_)), is one of the oldest enterprises of Armenia for the production of wine. The winery was opened in 1932 in Voskevaz during the Soviet period, to process the grapes of the fertile vineyards in Aragatsotn, at the foothills of Mount Aragats.

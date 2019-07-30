@@ -1,0 +1,1 @@
+The NAMIBIAN ECONOMY has a modern market sector, which produces most of the country's wealth, and a traditional subsistence sector. Although the majority of the population engages in subsistence agriculture and herding, Namibia has more than 200,000 skilled workers and a considerable number of well-trained professionals and managerials.[1]

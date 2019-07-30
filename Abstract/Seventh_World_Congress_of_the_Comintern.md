@@ -1,0 +1,1 @@
+Dom_Soyuzov_B-Dmitrovka_Moscow.jpg

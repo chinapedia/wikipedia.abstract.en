@@ -1,0 +1,1 @@
+The WAITSFIELD VILLAGE HISTORIC DISTRICT encompasses much of the main village center of Waitsfield, Vermont. Extending along Vermont Route 100 on either side of Bridge Street, it is a well-preserved example of a 19th-century village, with only a few sympathetic 20th-century additions. It was listed on the National Register of Historic Places in 1983.[1]

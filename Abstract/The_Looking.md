@@ -1,0 +1,1 @@
+_' The Looking_' is the current musical project of American singer, songwriter and producer Todd Carter. Carter has described the band’s music as “indie pop meets Americana”[1] with influences ranging through “opera, punk rock, traditional folk, and psychedelic soul.”

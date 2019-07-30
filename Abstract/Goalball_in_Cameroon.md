@@ -1,0 +1,1 @@
+GOALBALL IN CAMEROON is one of several sports available to people with vision impairments to participate in. It arrived late to the blind sports community in Cameroon, with torball arriving first. It has subsequently been supported domestically by clubs such as Club for the Blind Youth of Cameroon (CJARC) and PROMHANDICAM Yaounde.

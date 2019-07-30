@@ -1,0 +1,1 @@
+LISA JOY is an American screenwriter, director and television producer. She is co-creator and executive producer of the HBO series _Westworld._ Her work also includes writing for the television series _Burn Notice_ (for which she also served as a co-producer) and _Pushing Daisies_. Lisa Joy received an Emmy nomination for her writing on _Westworld_ in July 2017.[1]

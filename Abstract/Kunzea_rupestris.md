@@ -1,0 +1,1 @@
+_KUNZEA RUPESTRIS_, the ROCKY KUNZEA, is a rare Australian plant in the myrtle family. There are some 20 known populations, all just north of Sydney, including Ku-ring-gai Chase National Park and Marramarra National Park. Threats to this species include track maintenance, invasive weeds, removal of rocks and sand, fire management and the cut flower industry.[1]

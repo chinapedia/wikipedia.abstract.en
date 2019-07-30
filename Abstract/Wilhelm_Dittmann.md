@@ -1,0 +1,1 @@
+Bundesarchiv_Bild_102-10129,_Reichstagsabgeordnete_Dittmann_und_Crispien.jpg in 1930]] WILHELM DITTMANN (1 November 1874, Eutin – 7 August 1954, Bonn), was a German Social Democratic politician. From 1917 to 1922 was secretary to the Central Committee of the Independent Social Democratic Party of Germany (USPD).

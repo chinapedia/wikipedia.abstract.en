@@ -1,0 +1,1 @@
+Dollarnote_siegel_hq.jpg, or the all-seeing eye of God, seen here on the US$1 bill, has been taken by some to be evidence of a conspiracy involving the founders of the United States and the Illuminati.[1]]]

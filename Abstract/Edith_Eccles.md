@@ -1,0 +1,1 @@
+EDITH ECCLES (born 1910 in Liverpool; died 1977) was a British classical archaeologist who did work at the British School at Athens and worked with Sir Arthur Evans at Knossos on Crete in the 1930s.[1] She studied at Royal Holloway, University of London.[2]

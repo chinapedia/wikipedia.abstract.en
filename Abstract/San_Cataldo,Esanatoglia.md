@@ -1,0 +1,1 @@
+The EREMO DI SAN CATALDO (Hermitage of San Cataldo) is a Roman Catholic church and hermitage complex perched on a steep rocky outcropping outside of the town of Esanatoglia, province of Macerata, in the region of Marche, Italy. The site is dedicated to St Catald.

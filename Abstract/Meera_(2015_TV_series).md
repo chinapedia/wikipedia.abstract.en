@@ -1,0 +1,1 @@
+_MEERA_ is an Indian Bengali-language television soap opera that premiered on October 12, 2015 and aired on Colors Bangla. It was produced by Grassroot Entertainment and starred Jasmine Roy and Rehaan Roy in lead roles.

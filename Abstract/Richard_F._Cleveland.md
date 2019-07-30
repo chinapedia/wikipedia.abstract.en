@@ -1,0 +1,1 @@
+RICHARD FOLSOM "DICK" CLEVELAND[1] (October 28, 1897 – January 10, 1974) was an American lawyer and civic leader who spent his career with the law firm of Semmes, Bowen & Semmes.[2][3] He was the son of President Grover Cleveland. Whittaker Chambers considered him critical to successful outcome of the Hiss Case.

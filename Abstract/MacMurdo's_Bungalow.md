@@ -1,0 +1,1 @@
+MacMurdo's_Bungalow_-_Anjar.jpg MACMURDO'S BUNGALOW is a bungalow in Anjar town of Kutch district, Gujarat, India. It was built in 1818 by James MacMurdo, the first political resident of British East India Company to Cutch State during his stay in Anjar.[1][2]

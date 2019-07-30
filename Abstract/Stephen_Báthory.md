@@ -1,0 +1,1 @@
+STEPHEN BÁTHORY (; ; ; Lithuanian: ; 27 September 1533 – 12 December 1586) was Voivode of Transylvania (1571–1576), Prince of Transylvania (1576–1586), from 1576 Queen Anna Jagiellon's husband and _jure uxoris_ King of Poland and Grand Duke of Lithuania (1576–1586).

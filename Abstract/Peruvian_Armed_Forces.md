@@ -1,0 +1,1 @@
+The PERUVIAN ARMED FORCES () are the military services of Peru, comprising independent Army, Navy and Air Force components. Their primary mission is to safeguard the country's independence, sovereignty and territorial integrity against any threat. As a secondary mission they participate in economic and social development as well as in civil defense tasks.[1]

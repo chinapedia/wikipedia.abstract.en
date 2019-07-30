@@ -1,0 +1,1 @@
+INFLIBNET CENTRE (Information and Library Network Centre) is an autonomous Inter-University Centre of the University Grants Commission (UGC) of India under Ministry of HRD (MHRD) located in Gandhinagar, Gujarat. The centre was initially started as a national project under IUCAA in March, 1991. It became an independent Inter-University Centre in June 1996.

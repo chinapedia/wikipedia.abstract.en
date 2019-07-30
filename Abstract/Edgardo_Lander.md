@@ -1,0 +1,1 @@
+EDGARDO LANDER (born 1942) is a Venezuelan sociologist and left-wing intellectual. A professor emeritus of the Central University of Venezuela and fellow of the Transnational Institute, he is the author of numerous books and research articles on democracy theory, the limits of industrialization and economic growth, and left-wing movements in Latin America.

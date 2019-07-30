@@ -1,0 +1,1 @@
+GOTHAM CITY ( ), or simply GOTHAM, is a fictional city appearing in American comic books published by DC Comics, best known as the home of Batman. The city was first identified as Batman's place of residence in _Batman_ #4 (December 1940) and has since been the primary setting for stories featuring the character.

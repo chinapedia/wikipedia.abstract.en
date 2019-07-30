@@ -1,0 +1,1 @@
+QUEEN INSU (7 October 1437 - 11 May 1504) (소혜왕후 한씨) was the only wife of Crown Prince Uigyeong of Joseon. She was given the title honorary Queen Insu when her son became king in 1469. 'Queen Sohye' is her posthumous name. She was co-regent of Korea during the minority of her sons alongside her mother-in-law Queen Jeonghui.

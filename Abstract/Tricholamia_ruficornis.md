@@ -1,0 +1,1 @@
+_TRICHOLAMIA RUFICORNIS_ is a species of beetle in the family Cerambycidae. It was described by Hintz in 1911, originally under the genus _Moechopsis_. It is known from Tanzania and the Democratic Republic of the Congo.[1]

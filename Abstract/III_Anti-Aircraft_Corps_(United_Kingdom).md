@@ -1,0 +1,1 @@
+III ANTI-AIRCRAFT CORPS was a high-level formation of Britain's Anti-Aircraft Command from 1940 to 1942. It defended Scotland, Northern Ireland and North East England during the Blitz and the middle years of World War II.

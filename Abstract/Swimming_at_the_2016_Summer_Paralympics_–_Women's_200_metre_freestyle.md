@@ -1,0 +1,1 @@
+The WOMEN'S 200 METRE FREESTYLE swimming events for the 2016 Summer Paralympics take place at the Rio Olympic Stadium from 8 to 15 September. A total of two events were contested for two different classifications.

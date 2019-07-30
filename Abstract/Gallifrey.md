@@ -1,0 +1,1 @@
+GALLIFREY () is a fictional planet in the long-running British science fiction television series _Doctor Who_. It is the original home world of the Time Lords, the civilisation to which the main character, the Doctor, belongs. It is located in a binary star system[1] 250 million light years from Earth.[2]

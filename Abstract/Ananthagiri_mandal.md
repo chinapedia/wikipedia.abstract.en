@@ -1,0 +1,1 @@
+ANANTHAGIRI MANDAL is one of the 23 mandals in Suryapet district of the Indian state of Telangana.[1] It is under the administration of Kodad revenue division with its headquarters at Ananthagiri. It is carved out from Kodad and Nadigudem mandals. It is bounded by Nadigudem in the west , Kodad mandal in the south and Khammam district towards north.

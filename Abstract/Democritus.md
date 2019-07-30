@@ -1,0 +1,1 @@
+DEMOCRITUS (; , _Dēmókritos_, meaning "chosen of the people"; 460 – 370 BC) was an Ancient Greek pre-Socratic philosopher primarily remembered today for his formulation of an atomic theory of the universe.[1]

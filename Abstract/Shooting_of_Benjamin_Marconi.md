@@ -1,0 +1,1 @@
+On November 20, 2016, Benjamin Marconi, a detective with the San Antonio Police Department, was shot to death in San Antonio, Texas. In the shooting, a motorist stopped his car, got out, and shot and wounded Marconi while the latter was sitting in his marked patrol car in front of the department's headquarters, writing a ticket for another driver during a routine traffic stop.

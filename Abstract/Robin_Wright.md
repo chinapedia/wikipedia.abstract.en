@@ -1,0 +1,1 @@
+ROBIN GAYLE WRIGHT[1] (born April 8, 1966) is an American actress. She is the recipient of seven Primetime Emmy Award nominations and has earned a Golden Globe Award and a Satellite Award for her work in television.

@@ -1,0 +1,1 @@
+BJARNE STROUSTRUP (; ;[1][2] born 30 December 1950) is a Danish computer scientist, who is most notable for the creation and development of the C++ programming language.[3] He is a visiting professor at Columbia University, and works at Morgan Stanley as a Managing Director in New York.[4][5][6][7][8]

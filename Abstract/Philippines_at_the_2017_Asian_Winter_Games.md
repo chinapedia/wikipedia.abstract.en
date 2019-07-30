@@ -1,0 +1,1 @@
+The PHILIPPINES competed in the 2017 ASIAN WINTER GAMES in Sapporo and Obihiro, Japan from February 19 to 26.[1][2][3] The team consisted of 29 athletes in three sports (four disciplines) and nine officials, which represented the largest Filipino delegation at the Asian Winter Games compared to the delegations sent in previous editions the Philippines participated in.[4][5]

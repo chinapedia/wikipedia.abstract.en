@@ -1,0 +1,1 @@
+Lars_Magnus_Ericsson_statue_Telefonplan_Midsomarkransen_Stockholm_2005-08-13.JPG in Stockholm]]

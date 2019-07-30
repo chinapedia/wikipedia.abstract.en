@@ -1,0 +1,1 @@
+ANDRIY CHESNOKOV (, ) PhD of Bryanka, Ukraine, is chairman and former president of the National Council of the National Organization of Scouts of Ukraine,[1] as well as a member of the Eurasia Regional Scout Committee of the World Organization of the Scout Movement (WOSM).[2]

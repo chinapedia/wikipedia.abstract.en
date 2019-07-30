@@ -1,0 +1,1 @@
+The CONVENTION ON FISHING AND CONSERVATION OF LIVING RESOURCES OF THE HIGH SEAS is an agreement that was designed to solve through international cooperation the problems involved in the conservation of living resources of the high seas, considering that because of the development of modern technology some of these resources are in danger of being overexploited.

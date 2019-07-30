@@ -1,0 +1,1 @@
+MOORKHOUN also _Mourkhoun_, is a small village on the Karakoram Highway, beside the Hunza River about 180 km upriver from Gilgit city. It is the eighth village from Gulmit towards the Pak-China border at the Khunjerab Pass in the Gilgit-Baltistan region of Pakistan.

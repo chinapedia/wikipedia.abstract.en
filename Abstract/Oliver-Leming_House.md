@@ -1,0 +1,1 @@
+OLIVER-LEMING HOUSE, also known as the HOME OF THE MISSOURI STATE FLAG, is a historic home located at Cape Girardeau, Missouri. It was designed by J.B. Legg, and built in 1898-1899. It is a 2 1/2-story, red brick dwelling. It features a full-width, two-story front portico supported by Corinthian order columns and added in 1915.[1]

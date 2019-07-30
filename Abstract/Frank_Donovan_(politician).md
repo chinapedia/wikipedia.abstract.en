@@ -1,0 +1,1 @@
+FRANCIS ANTHONY "FRANK" DONOVAN (born 28 January 1947) is a former Australian politician who was a member of the Legislative Assembly of Western Australia from 1987 to 1993. A Vietnam veteran, Donovan worked as a social worker before entering politics. He was a member of the Labor Party until 1991, when he resigned to sit as an independent.

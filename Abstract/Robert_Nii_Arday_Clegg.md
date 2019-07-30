@@ -1,0 +1,1 @@
+ROBERT NII ARDAY CLEGG SNR (born 22 June 1976) is a Ghanaian lawyer, television and radio journalist. He last worked at Starr 103.5 FM Ghana as a _Morning Show_ host. Robert left Starr 103.5 FM Ghana in February 2017.[1][2][3][4][5]

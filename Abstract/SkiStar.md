@@ -1,0 +1,1 @@
+Maskoten_Valle.jpg.]] Gondolen_på_åreskutan.jpg, Åre, Sweden.]] SKISTAR AB (marketed as SKISTAR) is a Swedish leisure, tourism, property and retail company, listed on the Stockholm Stock Exchange. The core business is alpine skiing in Sweden and Norway, and the associated accommodation, ski schools and rental services.[1]

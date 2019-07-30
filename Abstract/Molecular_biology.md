@@ -1,0 +1,1 @@
+MOLECULAR BIOLOGY is a branch of biology that concerns the molecular basis of biological activity between biomolecules in the various systems of a cell, including the interactions between DNA, RNA, proteins and their biosynthesis, as well as the regulation of these interactions.[1] Writing in _Nature_ in 1961, William Astbury described molecular biology as:

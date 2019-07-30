@@ -1,0 +1,1 @@
+-AllPdCl-2.png]] TRANSITION-METAL ALLYL COMPLEXES are coordination complexes with allyl and its derivatives as ligands. Allyl is the radical with the connectivity CH₂CHCH₂, although as a ligand it is usually viewed as an allyl anion CH₂=CH−CH₂^(−), which is usually described as two equivalent resonance structures.

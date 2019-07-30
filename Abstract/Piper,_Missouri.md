@@ -1,0 +1,1 @@
+PIPER is an unincorporated community in Henry County, in the U.S. state of Missouri.[1] The community is on Missouri Route K and the northeast side of Granddaddy Creek. Clinton is approximately 12 miles to the east and Montrose Lake and the Montrose Consevation Area is two miles to the southeast on the Deepwater River.[2]

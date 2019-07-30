@@ -1,0 +1,1 @@
+The UNIVERSITY OF SOUTH DAKOTA SANFORD SCHOOL OF MEDICINE is the medical school of the University of South Dakota. It offers the Doctor of Medicine, master's and PhD degrees in biomedical sciences, and an MD–PhD. The dean of the school is Dr. Mary Nettleman.[1]

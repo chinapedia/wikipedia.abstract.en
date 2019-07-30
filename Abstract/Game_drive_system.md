@@ -1,0 +1,1 @@
+Itasca_Bison_Site.JPG, Minnesota]] A GAME DRIVE SYSTEM was a prehistoric hunting strategy where game were herded into areas where they could be hunted in groups. Once a site was identified or manipulated to be used as a game drive site, it would be well-used over the years as temporary, seasonal hunting camps.[1]

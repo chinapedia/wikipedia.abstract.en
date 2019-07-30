@@ -1,0 +1,1 @@
+"COME ON OVER" is a song written by Deborah Andrews, Martin Harrington and Ash Howes[1] for former Hear'say member Kym Marsh's debut album _Standing Tall_. It was released as second solo single on 7 July 2003 in the United Kingdom. It charted at a peak position of number ten in the UK Singles Chart.

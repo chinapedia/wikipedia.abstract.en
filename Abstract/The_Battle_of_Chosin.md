@@ -1,0 +1,1 @@
+_THE BATTLE OF CHOSIN_ is a 2016 American documentary film about the Battle of Chosin Reservoir during the Korean War.[1] The film is directed by Randall MacLowry and was distributed on the PBS network. It premiered on November 1, 2016 as part of the _American Experience_ series.[2]

@@ -1,0 +1,1 @@
+The IBIZAN HOUND (, ) is a lean, agile dog of the hound family. There are two hair types of the breed: smooth and wire. The more commonly seen type is the smooth. Some consider there to be a third type, long, but the longhair is most likely a variation of the wire.

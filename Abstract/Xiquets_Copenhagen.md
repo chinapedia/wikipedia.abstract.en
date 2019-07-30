@@ -1,0 +1,1 @@
+XIQUETS COPENHAGEN is an international in Copenhagen, Denmark with an interest in building and promoting human towers (), a tradition originating in Catalonia and recognised as a UNESCO Masterpieces of the Oral and Intangible Heritage of Humanity.[1] The team is run by its members () and is directed by the management committee () and technical team ().

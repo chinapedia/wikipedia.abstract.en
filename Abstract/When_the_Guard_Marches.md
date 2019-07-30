@@ -1,0 +1,1 @@
+_WHEN THE GUARD MARCHES_ or _THE GIRL FROM THE SPREE WOODS'' (GERMAN:_DAS SPREEWALDMÄDEL'') is a 1928 German silent comedy film directed by Hans Steinhoff and starring Claire Rommer, Fred Solm and Wera Engels.[1]

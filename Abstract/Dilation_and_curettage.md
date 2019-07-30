@@ -1,0 +1,1 @@
+DILATION (or DILATATION) AND CURETTAGE (D&C) refers to the dilation (widening/opening) of the cervix and surgical removal of part of the lining of the uterus and/or contents of the uterus by scraping and scooping (curettage). It is a therapeutic gynecological procedure as well as the most often used method of first trimester miscarriage or abortion.[1][2][3]

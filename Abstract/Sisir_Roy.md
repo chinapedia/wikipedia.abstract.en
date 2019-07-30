@@ -1,0 +1,1 @@
+SISIR ROY (1912 – 1960[1]) (_Bengali_: শিশির রায়) was an Indian communist politician and trade unionist. He served as general secretary of the Bolshevik Party of India and the United Trade Union Congress, and was active in organizing dock workers in Calcutta.

@@ -1,0 +1,1 @@
+NEIL GORDON KINNOCK, BARON KINNOCK, (born 28 March 1942) is a British Labour Party politician. He served as a Member of Parliament from 1970 until 1995, first for Bedwellty and then for Islwyn. He was the Leader of the Labour Party and Leader of the Opposition from 1983 until 1992.

@@ -1,0 +1,1 @@
+MICHAEL GEORGE FINDLAY (born November 6, 1963) is a Canadian soccer coach who was the interim head coach of the Canadian men's national team, having previously served as an assistant under former head coach Benito Floro.

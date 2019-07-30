@@ -1,0 +1,1 @@
+POPE ALEXANDER I (died c. 115) was the Bishop of Rome from c. 107 to his death c. 115. The Holy See's _Annuario Pontificio_ (2012) identifies him as a Roman who reigned from 108 or 109 to 116 or 119. Some believe he suffered martyrdom under the Roman Emperor Trajan or Hadrian, but this is improbable.[1]

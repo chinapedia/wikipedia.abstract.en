@@ -1,0 +1,1 @@
+LI LIANJIE (, born 26 April 1963),[1] better known by his stage name JET LI, is a Chinese film actor, film producer, martial artist, and retired Wushu champion who was born in Beijing. He is a naturalized Singaporean citizen.[2]

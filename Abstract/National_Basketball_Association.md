@@ -1,0 +1,1 @@
+The NATIONAL BASKETBALL ASSOCIATION (NBA) is a men's professional basketball league in North America, composed of 30 teams (29 in the United States and 1 in Canada). It is one of the four major professional sports leagues in the United States and Canada, and is widely considered to be the premier men's professional basketball league in the world.

@@ -1,0 +1,1 @@
+CHOI SOON-SIL (; born June 23, 1956) is the prime person of interest in the 2016 South Korean political scandal involving her influence over the 11th President of South Korea, Park Geun-hye.[1][2][3][4][5]

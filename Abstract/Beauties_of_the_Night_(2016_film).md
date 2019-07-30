@@ -1,0 +1,1 @@
+_BEAUTIES OF THE NIGHT_ (in Spanish _BELLAS DE NOCHE_) is a 2016 Mexican documentary film. It is the first production of the filmmaker María José Cuevas. The film shows a glimpse of the glory, sunset and resurgence of five of the main showgirls (vedettes) that triumphed in Mexico in the decades of the 1970s and 1980s.

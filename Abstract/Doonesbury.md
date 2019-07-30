@@ -1,0 +1,1 @@
+_DOONESBURY_ is a comic strip by American cartoonist Garry Trudeau that chronicles the adventures and lives of an array of characters of various ages, professions, and backgrounds, from the President of the United States to the title character, Michael Doonesbury, who has progressed from a college student to a youthful senior citizen over the decades.

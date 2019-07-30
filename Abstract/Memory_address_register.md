@@ -1,0 +1,1 @@
+In a computer, the MEMORY ADDRESS REGISTER (MAR)[1] is the CPU register that either stores the memory address from which data will be fetched from the CPU, or the address to which data will be sent and stored.

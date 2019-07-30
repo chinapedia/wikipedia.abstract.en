@@ -1,0 +1,1 @@
+KENT LEONHARDT (born April 2, 1954) is the West Virginia Commissioner of Agriculture, having been elected in November 2016, he took office January 2017. He is a member of the United States Republican Party.

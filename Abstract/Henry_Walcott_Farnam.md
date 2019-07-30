@@ -1,0 +1,1 @@
+HENRY WALCOTT FARNAM (November 6, 1853 – September 5, 1933) was an American economist. He was professor of political economy at Yale University from 1880 to 1918. In 1911, he served as president of the American Economic Association.

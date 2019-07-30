@@ -1,0 +1,1 @@
+SAMANTHA WAN is a Canadian actress, screenwriter, producer, and web series creator. She is known for co-creating, writing, and starring in the City television series _Second Jen_.[1][2][3] Since 2017, she has starred in the Global Television Network series _Private Eyes_.[4]

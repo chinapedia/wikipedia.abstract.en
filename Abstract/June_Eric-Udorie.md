@@ -1,0 +1,1 @@
+JUNE ERIC-UDORIE (born 18 June 1998) is a writer and feminist campaigner based in Great Britain. She is a journalist and blogger for _The Guardian_ and the _New Statesman_ as well as _Cosmopolitan_.[1][2][3] In 2016, the BBC included her in the list of 100 Women for "inspirational and influential women for 2016".[4]

@@ -1,0 +1,1 @@
+A WARM COMPRESS is a method of applying heat to the body.[1] Heating sources can include warm water, microwaveable pads, and electrical or chemical pads. Some more unorthodox methods include warmed potatoes, uncooked rice, and hard-boiled eggs. The most common method is a warm, wet washcloth. [2]

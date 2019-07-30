@@ -1,0 +1,1 @@
+The HOLY CROSS CATHEDRAL [1] ( ) also called SANTA CRUZ DEL QUICHÉ CATHEDRAL is a religious building that is located in the town of Santa Cruz del Quiché,[2] in the Department of Quiché in the west of the Central American country of Guatemala.[3]

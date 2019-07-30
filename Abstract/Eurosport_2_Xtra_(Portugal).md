@@ -1,0 +1,1 @@
+EUROSPORT 2 XTRA was a premium sports channel in Portugal aimed at broadcasting events whose rights are exclusive to the Portuguese market, such as Formula One. The channel ceased to broadcast on February 28, 2017, after it failed to attract enough subscribers to break even.[1]

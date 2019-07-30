@@ -1,0 +1,1 @@
+FILTHY FRIENDS is a rock supergroup based in Portland, Oregon. The band is fronted by Corin Tucker (of Sleater-Kinney) and guitarist Peter Buck (formerly of R.E.M. and Tired Pony). The other members of the band include alumni from bands such as the Minus 5, King Crimson, The Baseball Project and Steve Wynn & the Miracle 3.

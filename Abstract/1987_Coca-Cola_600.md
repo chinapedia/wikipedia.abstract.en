@@ -1,0 +1,1 @@
+The 1987 COCA-COLA 600, the 28th running of the event, was a NASCAR Winston Cup Series race held on May 24, 1987 at Charlotte Motor Speedway in Charlotte, North Carolina. Contested over 400 laps on the 1.5 mile (2.4 km) speedway, it was the 10th race of the 1987 NASCAR Winston Cup Series season. Kyle Petty of Wood Brothers Racing won the race.

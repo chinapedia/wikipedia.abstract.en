@@ -1,0 +1,1 @@
+EDUARDO DAMO "ED" DAQUIOAG JR. is a Filipino professional basketball player for the Rain or Shine Elasto Painters of the Philippine Basketball Association (PBA). He also played collegiate basketball with the UST Growling Tigers.

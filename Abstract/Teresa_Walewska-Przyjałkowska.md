@@ -1,0 +1,1 @@
+Prof._Teresa_Walewska_-_Przyjałkowska.jpg Teresa_Walewska_Przyjałkowska_grób.jpg TERESA WALEWSKA-PRZYJAŁKOWSKA (10 September 1937 – 10 April 2010) was a Polish activist. She was Deputy President of the Golgotha of the East Foundation.

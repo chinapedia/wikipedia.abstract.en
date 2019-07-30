@@ -1,0 +1,1 @@
+_SKAM_ (; ) is a Norwegian teen drama web series about the daily life of teenagers at the Hartvig Nissen School, a gymnasium in the wealthy borough of Frogner in West End Oslo. It was produced by NRK P3, which is part of the Norwegian government-owned NRK.

@@ -1,0 +1,1 @@
+Since 1848 the Swiss Confederation has been a federal state of relatively autonomous cantons, some of which have a history of confederacy that goes back more than 700 years, putting them among the world's oldest surviving republics.

@@ -1,0 +1,1 @@
+The 2016–17 CERH EUROPEAN LEAGUE was the 52nd season of Europe's premier club roller hockey tournament organised by CERH, and the 20th season since it was renamed from European Champion Clubs' Cup to the CERH Champions League/European League.

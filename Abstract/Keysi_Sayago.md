@@ -1,0 +1,1 @@
+KEYSI MAIRÍN SAYAGO ARRECHEDERA (born 6 October 1993) is a Venezuelan model, TV host and beauty pageant titleholder who won Miss Venezuela 2016. She represented the state of Monagas at the pageant and represented Venezuela at the Miss Universe 2017.[1]

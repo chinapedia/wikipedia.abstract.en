@@ -1,0 +1,1 @@
+Odone_Belluzzi_ritratto.jpg ODONE BELLUZZI (Bologna, 1 Feb 1892 – Bologna, 24 Aug 1956) was an Italian engineer. His contributions were fundamental to the development and teaching of building science in the twentieth century.

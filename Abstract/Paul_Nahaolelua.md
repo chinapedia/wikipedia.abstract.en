@@ -1,0 +1,1 @@
+PAUL NAHAOLELUA (September 11, 1806 – September 5/15, 1875) was a Hawaiian high chief who served many political posts in the Kingdom of Hawaii, including Governor of Maui from 1852 to 1874. In his long political career, Nahaolelua served under the reigns of five monarchs: Kamehameha III, Kamehameha IV and Kamehameha V, Lunalilo and Kalākaua.

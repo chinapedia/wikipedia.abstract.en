@@ -1,0 +1,1 @@
+VINNIE FAVORITO (born August 23, 1960) is an American stand-up comedian. He is known for high-profile celebrity roasts of notable figures in American culture and sports, as well as his 20-year history as a headlining comedian in Las Vegas.[1] He currently performs five nights a week in the show "Vinnie Favorito Unfiltered" at the Westgate Las Vegas Resort & Casino.[2]

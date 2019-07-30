@@ -1,0 +1,1 @@
+DALKEY is a locality in the Mid North of South Australia. It was established as a private subdivision of section 171 in the Hundred of Dalkey on the main road from Adelaide to Balaklava. It is named for the Hundred of Dalkey which in turn was named after Dalkey in Ireland.[1] The boundaries of the locality were defined in 2000 for the long-established name.

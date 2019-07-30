@@ -1,0 +1,1 @@
+USS-Tripoli-mined.jpg ARAB SHIPBUILDING AND REPAIR YARD COMPANY (ASRY),[1] () is a Multinational Arab company based in Al Hidd, Bahrain.[2] The company was founded in 1977, by seven OAPEC member countries: Bahrain, Kuwait, United Arab Emrates, Iraq, Qatar, Saudi Arabia and Libya.[3]

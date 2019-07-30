@@ -1,0 +1,1 @@
+This is a LIST OF ANIMAL AND PLANT SYMBOLS of the Canary Islands as a whole and each of the islands. These species were established as symbols by Decree Law of April 30, 1991 by the Government of the Canary Islands.[1]

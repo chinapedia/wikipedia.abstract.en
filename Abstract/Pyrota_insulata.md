@@ -1,0 +1,1 @@
+_PYROTA INSULATA_, sometimes known by the common name YELLOW-CRESCENT BLISTER BEETLE, is a blister beetle, so called because if squeezed, it can produce an irritant called cantharidin that causes a blister on exposed human skin.

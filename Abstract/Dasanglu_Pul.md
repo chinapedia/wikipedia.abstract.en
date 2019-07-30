@@ -1,0 +1,1 @@
+DASANGLU PUL is a Bharatiya Janata Party politician from Arunachal Pradesh. She has been elected in Arunachal Pradesh Legislative Assembly election in 2016 from Hayuliang.[1][2][3] She is wife of Kalikho Pul, former Chief Minister of the north-eastern state of Arunachal Pradesh for a brief time in 2016.[4][5]

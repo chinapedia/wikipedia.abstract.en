@@ -1,0 +1,1 @@
+Anita_Bryant_Billboard_1971.jpg

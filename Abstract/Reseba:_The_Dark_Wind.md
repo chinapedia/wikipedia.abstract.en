@@ -1,0 +1,1 @@
+_RESEBA: THE DARK WIND_ () is a 2016 Iraqi film directed by Kurdish director Hussein Hassan. It made its world premiere as the opening film of the 4th Duhok International Film Festival on September 2016 and its international premiere as the closing film of the 21st Busan International Film Festival on October 15, 2016.[1][2][3][4]

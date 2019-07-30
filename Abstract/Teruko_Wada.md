@@ -1,0 +1,1 @@
+(born October 31, 1969, Nagano, Nagano prefecture),[1] Japan is an attorney and former President of the Girl Scouts of Japan, a member of the World Board of the World Association of Girl Guides and Girl Scouts since 2011, and Senior Manager at the Japan Business Federation.[2]

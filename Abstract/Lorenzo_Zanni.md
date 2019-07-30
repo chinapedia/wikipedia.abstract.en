@@ -1,0 +1,1 @@
+LORENZO ZANNI or LORENZO ZANE (died 1485) was a Roman Catholic prelate who served as Bishop of Brescia (1478–1480),[1] Titular Patriarch of Antioch (1473–1478),[2] Bishop of Treviso (1473–1478),[3] Titular Patriarch of Jerusalem (1458–1473),[4] and Archbishop of Split (1452–1458).[5]

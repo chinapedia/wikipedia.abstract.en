@@ -1,0 +1,1 @@
+Huntingdon_wheelpit2.jpg The INDUSTRIAL ARCHAEOLOGY OF DARTMOOR covers a number of the industries which have, over the ages, taken place on Dartmoor, and the remaining evidence surrounding them. Currently only three industries are economically significant, yet all three will inevitably leave their own traces on the moor: china clay mining, farming and tourism.

@@ -1,0 +1,1 @@
+Palatka_Depot04.jpg The SANFORD SUBDIVISION is a railroad line owned by CSX Transportation in Florida. The line runs along CSX's A Line from St. Johns (near Jacksonville) south through Palatka to Deland. At its north end it continues south from the Jacksonville Terminal Subdivision on the A Line and at its south end it continues south as the Central Florida Rail Corridor. [1]

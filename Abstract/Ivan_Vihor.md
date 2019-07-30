@@ -1,0 +1,1 @@
+IVAN VIHOR KRSNIK COHAR (born 22 January 1997), known also as only IVAN VIHOR,[1] is a Croatian classical pianist and chess player.He is the winner of the 2017 "Premio delle Arti", the most important Italian piano competition.[2]

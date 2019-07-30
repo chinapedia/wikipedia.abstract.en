@@ -1,0 +1,1 @@
+_THE HIGH LIFE_ is the fifth studio album by the close harmony trio The Puppini Sisters, through Millionaire Records on 5 March 2016. The album is the trio's first album with new member Emma Smith, replacing Stephanie O'Brien who departed the group in 2012. It is also their first album since leaving their major label Universal Classics and Jazz and Verve.

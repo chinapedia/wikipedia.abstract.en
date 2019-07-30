@@ -1,0 +1,1 @@
+ROSALIE VAN DER GUCHT (27 October 1908 – 31 October 1985) was an English theatre director and head of the speech and drama department at the University of Cape Town, recalled as "one of the great figures in the history of South African theatre" by a newspaper critic.[1]

@@ -1,0 +1,1 @@
+SWEDEN is an unincorporated community in Douglas County, Missouri, United States.[1] Sweden lies in the south-central part of the county. The former Sweden store is located on Missouri Route 14, one-half mile east of the intersection of Route 14 and State Route P. Sweden community church and cemetery lie one-quarter mile north of the former store location on a county road.[2]

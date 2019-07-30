@@ -1,0 +1,1 @@
+TESSA BLANCHARD (born July 26, 1995) is an American professional wrestler signed with Impact Wrestling, Lucha Libre AAA Worldwide in Mexico,[1] and Women of Wrestling (WOW). She also appears in numerous independent promotions across the United States.

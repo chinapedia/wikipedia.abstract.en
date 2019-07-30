@@ -1,0 +1,1 @@
+PATRICK WARREN AND DAVID SPENCER were two English schoolboys who disappeared on Boxing Day 1996 in the town of Solihull, near Birmingham. Despite numerous appeals from both families, including a BBC _Crimewatch_ special report, the case remains unsolved.[1]

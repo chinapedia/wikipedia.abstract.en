@@ -1,0 +1,1 @@
+RONALD L. NICOL (born 1952/53)[1] is an American management consultant and senior advisor for the Boston Consulting Group. As of 2016, he is the director of the agency action team in President-elect Donald J. Trump's transition.

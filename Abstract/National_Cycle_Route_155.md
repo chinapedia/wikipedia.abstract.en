@@ -1,0 +1,1 @@
+NATIONAL CYCLE NETWORK (NCN) Route 155 is a Sustrans regional route in Northumberland. Running from the North Sea coast at Newbiggin due west to Morpeth. The 90% of this 8 mile route uses shared cycle/pedstrian verge-side paths. There is a small on road section in Ashington.[1] The route is fully signed and open.[2]

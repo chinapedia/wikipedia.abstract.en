@@ -1,0 +1,1 @@
+Eagle_nebula_pillars.jpg" from the Eagle Nebula. Evidence from the Spitzer Telescope suggests that the pillars may already have been destroyed by a supernova explosion, but the light showing us the destruction will not reach the Earth for another millennium.[1]]]

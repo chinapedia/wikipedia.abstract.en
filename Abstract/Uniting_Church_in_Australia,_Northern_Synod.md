@@ -1,0 +1,1 @@
+The NORTHERN SYNOD is a regional council of the Uniting Church in Australia having responsibility for the congregations and presbyteries in the Northern Territory and the northern parts of Western Australia and South Australia. The moderator since 20 June 2015 is Rev Thresi Mauboy Wohangara.[1] She succeeded Stuart McMillan in that role.[2]

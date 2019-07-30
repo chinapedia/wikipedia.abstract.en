@@ -1,0 +1,1 @@
+SAN GIUSTO is a Romanesque-style, Roman Catholic church located in the frazione of San Maroto outside the town of Pievebovigliana, province of Macerata, region of Marche, Italy. Paolo_Monti_-_Servizio_fotografico_(Pievebovigliana,_1969)_-_BEIC_6331206.jpg

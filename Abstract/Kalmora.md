@@ -1,0 +1,1 @@
+_KALMORA, OR THE PATERNAL RIGHT OF THE AMERICANS_[1] () – Polish opera (melodrama) in 2 acts by Karol Kurpiński. Libretto was written by Kazimierz Brodziński. Its first performance took place on 10 March 1820.[2][3]

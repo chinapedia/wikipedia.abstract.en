@@ -1,0 +1,1 @@
+Knitting_demo_of_two_stitches.webm Close_up_of_multi-coloured_knitting_slip-stitches.jpg.]] Ibarra_(Aramayona),_yarn_bombing_2.JPG (or knitted graffiti) in Ibarra de Aramayona (Aramaio).]] Knitted_Sampler,_ca._1800.jpg]]

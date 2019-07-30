@@ -1,0 +1,1 @@
+SALIM OSMAN is a Bangladesh Jatiya Party politician and the member of parliament from Narayanganj, the constituency of his deceased elder brother.[1][2] In his early life, he was selling poultry from home to home.

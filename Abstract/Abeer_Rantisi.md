@@ -1,0 +1,1 @@
+'''Abeer Rantisi ''' (born 12 July 1987) is a Jordanian former footballer who played as a midfielder for the Jordan women's national football team and was one of its original members.[1][2] She competed with the team at the 2006 Asian Games. At the club level, she played for Orthodox in Jordan.

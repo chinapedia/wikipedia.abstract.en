@@ -1,0 +1,1 @@
+ANTHONNY SITRAKA RALEFY (born July 10, 1995) is a Malagasy swimmer. He competed at the 2016 Summer Olympics in the men's 100 metre butterfly event; his time of 54.72 seconds in the heats did not qualify him for the semifinals.[1][2]

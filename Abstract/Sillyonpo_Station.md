@@ -1,0 +1,1 @@
+SILLYŎNP'O STATION is a railway station in Sil-li, Sunch'ŏn city, South P'yŏngan province, North Korea, on the P'yŏngra Line of the Korean State Railway. It is also the starting point of the Taegŏn Line to Oedong via Taegŏn, where it connects to the Ŭnsan Line.[1]

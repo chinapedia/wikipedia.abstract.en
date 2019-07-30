@@ -1,0 +1,1 @@
+ROBERT ABRAHAM (1410–1470) was a Member of Parliament for Portsmouth. Parliamentary historian J.C. Wedgwood has suggested he was the son of an earlier MP for the same constituency, Henry Abraham[1][2]

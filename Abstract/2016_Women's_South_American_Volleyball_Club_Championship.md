@@ -1,0 +1,1 @@
+The 2016 WOMEN'S SOUTH AMERICAN VOLLEYBALL CLUB CHAMPIONSHIP was the eighth official edition of the women's volleyball tournament, played by six teams from 24 – 28 February 2016 in La Plata, Argentina.[1] The Brazilian club Rexona Ades claimed their third title defeating the Universidad San Martín, from Peru, by 3–0 in the final match.[2]

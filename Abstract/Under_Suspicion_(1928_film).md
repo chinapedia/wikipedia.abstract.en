@@ -1,0 +1,1 @@
+_UNDER SUSPICION_ (German title: _VOM TÄTER FEHLT JEDE SPUR_) is a 1928 German silent crime film directed by Constantin J. David and starring Hanni Weisse, Gritta Ley and Kurt Gerron.[1] After the owner of an amusement park if found murdered, police investigate the principal suspects.

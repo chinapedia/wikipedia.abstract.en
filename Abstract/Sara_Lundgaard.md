@@ -1,0 +1,1 @@
+SARA LUNDGAARD (born 26 June 1997) is a Danish badminton player.[1][2] Lundagaard started her junior career at the Lillerød club, and she moved to Værløse.[3] In 2015, she won the silver medal at the European Junior Championships in the mixed doubles event.[4]

@@ -1,0 +1,1 @@
+Sarah_G_Dubai_2011.jpg (_pictured_) held the top spot for Myx Hit Chart Year-Ender 2016, after spending four weeks atop, making her first video to reach the milestone.]] Myx is a music channel in the Philippines that shows different music videos, domestically and internationally. Every week, its MYX Hit Chart presents the Top 20 favorite music videos voted by People's choice.

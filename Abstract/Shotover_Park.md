@@ -1,0 +1,1 @@
+SHOTOVER PARK (also called SHOTOVER HOUSE) is an 18th-century country house and park in Wheatley, Oxfordshire, England. The house, garden and park are Grade I-listed with English Heritage, and 18 additional structures on the property are also listed. The house is privately owned; the surrounding parkland is open to the public as SHOTOVER COUNTRY PARK.[1][2]

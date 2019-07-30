@@ -1,0 +1,1 @@
+_LONGBRANCH PENNYWHISTLE_ is an early-in-genre country rock album by Longbranch Pennywhistle, a duo featuring the then-little-known Glenn Frey and John David Souther.[1] It also contains strains of folk rock.[2] It was released in 1970; the duo split up shortly afterwards.

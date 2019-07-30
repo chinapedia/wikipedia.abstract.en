@@ -1,0 +1,1 @@
+The SPIROGYRA BUTTERFLY FARM PARK GARDEN, (), located in San Francisco de Goicoechea, on the edge of Rio Torres,[1] north of Zoológico Simón Bolívar, in Barrio Amon, Carmen District, San José, Costa Rica, is a butterfly house that houses from 50-60 different species of live butterflies from around the country in a climate-controlled, glass-enclosed habitat.

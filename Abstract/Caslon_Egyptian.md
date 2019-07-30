@@ -1,0 +1,1 @@
+Caslon_Egyptian.jpg The TWO LINES ENGLISH EGYPTIAN typeface is a font created by the Caslon foundry of Salisbury Square, London around or probably slightly before 1816, that is the first general-purpose sans-serif typeface in the Latin alphabet known to have been created.[1][2][3][4]

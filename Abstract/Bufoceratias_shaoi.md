@@ -1,0 +1,1 @@
+_BUFOCERATIAS SHAOI_ is a species of double angler, a type of anglerfish. The fish is bathypelagic and has been found at depths ranging from . It has been found in the western Indian Ocean and western Pacific Ocean.[1]

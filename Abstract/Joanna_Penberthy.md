@@ -1,0 +1,1 @@
+JOANNA SUSAN PENBERTHY (born 1960) is a Welsh Anglican bishop. Since November 2016, she has served as the Bishop of St David's in the Church in Wales. She was the first woman to become a bishop in the Church in Wales, when she was consecrated a bishop on 21 January 2017.

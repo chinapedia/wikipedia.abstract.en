@@ -1,0 +1,1 @@
+The KADDISH or QADDISH (, _qaddiš_ "holy"; alternative spelling: ḲADDISH) is a hymn of praises to God found in Jewish prayer services. The central theme of the _Kaddish_ is the magnification and sanctification of God's name. In the liturgy, different versions of the Kaddish are used functionally as separators between sections of the service.

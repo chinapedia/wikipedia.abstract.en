@@ -1,0 +1,1 @@
+ANAHILLA (IAST: Aṇahilla, r. c. 1024-1055 CE) was an Indian king belonging to the Naddula Chahamana dynasty. He ruled the area around Naddula (present-day Nadol in Rajasthan). He defeated the Chaulukya king Bhima I, defeated a general of the Paramara king Bhoja, and also defended his territory against the Ghaznavids.

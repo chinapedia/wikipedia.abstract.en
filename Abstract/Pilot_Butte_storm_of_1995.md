@@ -1,0 +1,1 @@
+The PILOT BUTTE STORM OF 1995 was a powerful storm and tornado that devastated Pilot Butte, Saskatchewan, Canada, on August 26, 1995. At about 4:40 p.m., a major wind and hailstorm started in the town. The storm later developed into a tornado, which touched down at the west edge of the town limits, demolishing a farmyard and cement plant.

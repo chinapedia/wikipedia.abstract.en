@@ -1,0 +1,1 @@
+LIMAN KATI is a village on the outskirts of Kuala Kangsar, outside Perak, Malaysia. The primary livelihood is from rubber plantations. The community is mostly made up of Malays, Chinese, and Indians, with the majority of Chinese descent who work as rubber tappers and grocers.

@@ -1,0 +1,1 @@
+DEFAMATION, CALUMNY, VILIFICATION, or TRADUCEMENT is the communication of a false statement and in Korea and some other countries, even a true statement, that harms the reputation of, depending on the law of the country, an individual, business, product, group, government, religion, or nation.[1]

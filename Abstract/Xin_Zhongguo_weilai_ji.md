@@ -1,0 +1,1 @@
+_XIN ZHONGGUO WEILAI JI_ ( "The Future of New China") is an unfinished 1902 novel by Liang Qichao. Liang described a China in 1962 that was a utopia,[1] a world power,[2] wealthy,[3] Confucian, and a constitutional monarchy.[4] He believed that it would be in a "perfect mood".[5]

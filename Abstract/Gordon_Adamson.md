@@ -1,0 +1,1 @@
+GORDON SINCLAIR ADAMSON (19 May 1904 - 8 January 1986) was a Canadian architect. Practising from 1928 to 1971 and working mainly in Toronto, he operated his own practice from 1934 until his retirement. Adamson's major contribution to architecture came following World War II when his firm became one of the leaders in the development of the Mid-Century Modern style in Canada.

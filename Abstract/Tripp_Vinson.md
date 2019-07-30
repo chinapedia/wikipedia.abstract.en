@@ -1,0 +1,1 @@
+TRIPP VINSON is an American film and television producer, best known for his films _Baywatch, San Andreas, Journey 2: The Mysterious Island, The Guardian, The Number 23, Red Dawn, and Hansel & Gretel: Witch Hunters._ [1]

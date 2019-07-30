@@ -1,0 +1,1 @@
+SHIMANTO BANK is a schedule commercial bank in Bangladesh.[1][2] The bank was founded to provide financial services to the paramilitary Border Guards Bangladesh members and is run by the paramilitary.[3][4]

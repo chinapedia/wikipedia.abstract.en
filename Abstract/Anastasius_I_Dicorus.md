@@ -1,0 +1,1 @@
+ANASTASIUS I (; ; 9 July 518) was Byzantine Emperor from 491 to 518. He made his career as a government administrator. He came to the throne in his sixties after being chosen by the wife of his predecessor, Zeno. His religious tendencies caused tensions throughout his reign.

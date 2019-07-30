@@ -1,0 +1,1 @@
+DANIEL RALPH DIMICCO (born 1950) is an American businessman who is the former CEO and chairman of Nucor steel company. He served as a trade advisor to Donald Trump during Trump's 2016 presidential campaign.[1]

@@ -1,0 +1,1 @@
+MOSES KUNITZ (1887-1978) was a Russian-American biochemist who spent most of his career at Rockefeller University. He is best known for a series of experiments in purification and crystallization of proteins, contributing to the determination that enzymes are proteins.

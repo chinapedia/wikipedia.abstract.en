@@ -1,0 +1,1 @@
+PANDURICA () is an ancient castle in Montenegro to the south of Nikšić town. It is situated in a hilly area of the same name[1] on the bank of the river Zeta. It is a cultural monument of national significance.

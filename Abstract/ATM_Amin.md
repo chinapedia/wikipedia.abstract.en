@@ -1,0 +1,1 @@
+ATM AMIN is a retired General of the Bangladesh Army. He is a former Director General of Forces Intelligence, and a former Director General of Ansar and VDP.[1] He was forced into retirement in 2009.[2]

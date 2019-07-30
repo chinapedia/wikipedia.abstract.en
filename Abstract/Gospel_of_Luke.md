@@ -1,0 +1,1 @@
+The GOSPEL ACCORDING TO LUKE ([1]), also called the GOSPEL OF LUKE, or simply LUKE, is the third of the four canonical Gospels. It tells of the origins, birth, ministry, death, resurrection, and ascension of Jesus Christ.

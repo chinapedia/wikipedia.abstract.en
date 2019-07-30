@@ -1,0 +1,1 @@
+3G_speed_brussel_sept_2012_IMG_2886.JPG data network speed test in downtown Brussels, September 2012. After 2 years of bans on new mobile basestations, the mobile network download speed is down at 0.25 Mbit/s.]]

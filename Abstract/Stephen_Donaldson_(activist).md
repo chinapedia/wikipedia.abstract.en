@@ -1,0 +1,1 @@
+STEPHEN DONALDSON (July 27, 1946 – July 18, 1996), born ROBERT ANTHONY MARTIN JR and also known by the pseudonym DONNY THE PUNK, was an American bisexual political activist. He is best known for his pioneering activism in LGBT rights and prison reform, and for his writing about punk rock and subculture.

@@ -1,0 +1,1 @@
+THAI LEAGUE 3 (Thai: ไทยลีก 3), commonly known as the T3, is the Third level of Thai football. It was started in 2017 First season. In 2017, the League is divided in 2 regions and participated by 32 clubs 1st-4th clubs from 8 regions which are former members Regional League Division 2 and debutants in the season.[1]

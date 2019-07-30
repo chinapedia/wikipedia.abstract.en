@@ -1,0 +1,1 @@
+AURELIO "DONG" DUEÑAS GONZALES JR. (born October 27, 1964) is the congressman of the 3rd District of Pampanga in the Philippines. He was formerly a member of Lakas-Kampi-CMD but switched to PDP-LABAN during the 2016 Philippine general elections.[1]

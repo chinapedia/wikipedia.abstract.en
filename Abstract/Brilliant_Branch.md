@@ -1,0 +1,1 @@
+The BRILLIANT BRANCH, also known as the BRILLIANT CUTOFF, is a railway line in Pittsburgh and Aspinwall, Pennsylvania. It connects the Pittsburgh Line to the Conemaugh Line and to Allegheny Valley Railroad's Allegheny Subdivision.

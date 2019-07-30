@@ -1,0 +1,1 @@
+WALTER F. CRAIG (December 20, 1854 – February 8, 1933) was a violin soloist and orchestra director in New York City. His career started in 1870 and continued until the 1930s. He was known for his performance and interpretation of classical music, but he also was popular performing at dances.

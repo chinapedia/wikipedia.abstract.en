@@ -1,0 +1,1 @@
+ROSANNA OSTERMAN (née DYER, February 26, 1809 - February 2, 1866) was a Civil War nurse, philanthropist and pioneer of Galveston, Texas. Overall, she distributed approximately $75,000 to different charitable causes.[1]

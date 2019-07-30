@@ -1,0 +1,1 @@
+VIRAJ (also credited as HARI PRASHANTH) is an Indian film actor, who has appeared in Tamil language films. The son of dubbing artiste S. N. Surendar, Viraj made his debut as a child actor by appearing in _Uyirile Kalanthathu_ (2000), before working in _Anniyan_ (2005) and _Chennai 600028_ (2007) in supporting roles.[1][2]

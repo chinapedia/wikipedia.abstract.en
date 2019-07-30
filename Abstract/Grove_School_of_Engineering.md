@@ -1,0 +1,1 @@
+City_College_of_New_St._Paul's_Chapel_(Columbia_University)_-_Grove_School_of_Engineering_(48170351541).jpg The GROVE SCHOOL OF ENGINEERING (GSOE) is one of the five schools that make the City College of New York, and it is also CUNY's primary school of engineering. Dr. Gilda A. Barabino, who is Berg Professor at The Grove School of Engineering, is also the school's dean.[1]

@@ -1,0 +1,1 @@
+_PHYLLIDIOPSIS KREMPFI_ is a species of sea slug, a dorid nudibranch, a shell-less marine gastropod mollusk in the family Phyllidiidae.[1] This species was named to honour Armand Krempf, a French marine biologist and director of the Nha Trang Institute of Oceanography (Vietnam) from 1921.

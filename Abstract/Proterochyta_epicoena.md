@@ -1,0 +1,1 @@
+_PROTEROCHYTA EPICOENA_ is a moth of the Scythrididae family, and the only species in the genus _PROTEROCHYTA_. It was described by Meyrick in 1914.[1] It is found in Mozambique, Namibia, South Africa (Gauteng) and Zimbabwe.[2]

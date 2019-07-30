@@ -1,0 +1,1 @@
+LUCIE MONCION (born October 25, 1958) is a Canadian banker, who was appointed to the Senate of Canada on October 30, 2016.[1] She sits in the Senate as an independent, representing the province of Ontario.[2]

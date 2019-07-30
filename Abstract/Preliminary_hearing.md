@@ -1,0 +1,1 @@
+Within some criminal justice systems, a PRELIMINARY HEARING, PRELIMINARY EXAMINATION, EVIDENTIARY HEARING or PROBABLE CAUSE HEARING is a proceeding, after a criminal complaint has been filed by the prosecutor, to determine whether there is enough evidence to require a trial. At such a hearing, the defendant may be assisted by lawyer.

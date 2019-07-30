@@ -1,0 +1,1 @@
+ENTHALPY , a property of a thermodynamic system, is equal to the system's internal energy plus the product of its pressure and volume.[1][2] In a system enclosed so as to prevent matter transfer, for processes at constant pressure, the heat absorbed or released equals the change in enthalpy.

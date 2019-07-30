@@ -1,0 +1,1 @@
+_EUROPE RAIDERS_ () is a 2018 action thriller film from. It the third film in the Jingle Ma-directed Hong Kong cinema franchise, following _Tokyo Raiders_ (2000) and _Seoul Raiders_ (2006).[1] The film was released on August 17, 2018.[2]

@@ -1,0 +1,1 @@
+In law, INTERROGATORIES (also known as REQUESTS FOR FURTHER INFORMATION)[1] are a formal set of written questions propounded by one litigant and required to be answered by an adversary in order to clarify matters of fact and help to determine in advance what facts will be presented at any trial in the case.[2]

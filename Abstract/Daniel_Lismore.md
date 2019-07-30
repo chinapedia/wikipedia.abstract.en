@@ -1,0 +1,1 @@
+DANIEL LISMORE (born December 24, 1984 in Bournemouth, United Kingdom) is a British fabric sculptor, designer, and campaigner.[1] Described by Vogue Magazine as _""England's Most Eccentric Dresser"_[2] he is best known for his flamboyant dress sense serving a form of statement, sculpture and even armor.[3]

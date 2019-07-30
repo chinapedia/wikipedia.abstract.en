@@ -1,0 +1,1 @@
+OMBA is an historic town in eastern Douglas County, Missouri, United States. The GNIS classifies it as a populated place.[1] The townsite is located along State Route AA between Missouri Route 181 and the North Fork River.[2]

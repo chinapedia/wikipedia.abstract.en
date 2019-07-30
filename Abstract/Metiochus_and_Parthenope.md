@@ -1,0 +1,1 @@
+_METIOCHUS AND PARTHENOPE_ (, _Mētiokhos kai Parthenopē_) is an Ancient Greek novel that, in a translation by the eleventh-century poet ‘Unṣurī, also became the Persian romance epic _VĀMIQ U ‘ADHRĀ_, and the basis for a wide range of stories about the 'lover and the virgin' in medieval and modern Islamicate cultures.

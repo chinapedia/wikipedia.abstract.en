@@ -1,0 +1,1 @@
+Tennant_Creek_Catholic_Church.jpg Interior_of_the_Tennant_Creek_Catholic_Church.jpg

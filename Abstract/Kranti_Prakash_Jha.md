@@ -1,0 +1,1 @@
+KRANTI PRAKASH JHA (born 17 November 1985) is a Bollywood actor and model from Darbhanga, Bihar, best known for his roles of Santosh Lal in the 2016 Indian biographical sports film _M.S. Dhoni: The Untold Story_.[1]

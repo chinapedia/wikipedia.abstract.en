@@ -1,0 +1,1 @@
+Rocky Marciano fought two celebrated boxing matches with Ezzard Charles. The first match took place on 17 June, 1954; and the second on 17 September, 1954. The first fight went the distance with Marciano winning on points through a unanimous decision. In the second bout Marciano knocked out Charles in the eighth round.[1][2][3][4][5][6][7]

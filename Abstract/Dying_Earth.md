@@ -1,0 +1,1 @@
+_DYING EARTH_ is a fantasy series by the American author Jack Vance, comprising four books originally published from 1950 to 1984.[1] Some have been called picaresque. They vary from short story collections to a fix-up (novel created from older short stories), perhaps all the way to novel.[2]

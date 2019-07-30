@@ -1,0 +1,1 @@
+San_Marion-Railway-19.jpg San Marino is a small European republic, with limited public transport facilities. It is an enclave in central Italy. The principal public transport links involve buses, helicopters, and an aerial tramway. There was a public rail network, a small part of which is preserved.

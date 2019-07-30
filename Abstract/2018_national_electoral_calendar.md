@@ -1,0 +1,1 @@
+This NATIONAL ELECTORAL CALENDAR FOR THE YEAR 2018 lists the national/federal direct elections to be held in 2018 in all sovereign states and their dependent territories. By-elections are excluded, though national referendums are included. Specific dates are given where they have been known.

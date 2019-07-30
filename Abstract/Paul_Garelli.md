@@ -1,0 +1,1 @@
+PAUL GARELLI (23 April 1924[1] – 8 July 2006) was a French Assyriologist, directeur de recherche au CNRS, professor at the Sorbonne and the l'EPHE, a member of the Académie des inscriptions et belles-lettres and professor at the Collège de France.

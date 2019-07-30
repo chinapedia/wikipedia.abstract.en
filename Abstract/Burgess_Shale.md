@@ -1,0 +1,1 @@
+The BURGESS SHALE is a fossil-bearing deposit exposed in the Canadian Rockies of British Columbia, Canada.[1] It is famous for the exceptional preservation of the soft parts of its fossils. At (middle Cambrian) old,[2] it is one of the earliest fossil beds containing soft-part imprints.

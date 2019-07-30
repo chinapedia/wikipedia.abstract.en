@@ -1,0 +1,1 @@
+TAN THUAN HENG (born 14 July 1948) is a Malaysian and Singaporean former swimmer and water polo player. He competed in four swimming events at the 1964 Summer Olympics for Malaysia.[1] Later, he competed in the 1966 Asian Games and 1970 Asian Games for Singapore.

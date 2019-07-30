@@ -1,0 +1,1 @@
+GEMMA LIENAS MASSOT (born 16 January 1951) is a Spanish writer, feminist activist, and politician.[1] In October 2015, she became one of Barcelona's deputies for Catalunya Sí que es Pot. She is a recipient of the medal Francesc Macia al Treball.[2]

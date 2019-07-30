@@ -1,0 +1,1 @@
+"BRAVE-ISH HEART" is the fifth episode of the British science fiction television series _Class_. It was released online by BBC Three on 12 November 2016. The episode was written by series creator Patrick Ness and directed by Philippa Langdale. It forms a two-part story with the previous episode, "Co-Owner of a Lonely Heart".

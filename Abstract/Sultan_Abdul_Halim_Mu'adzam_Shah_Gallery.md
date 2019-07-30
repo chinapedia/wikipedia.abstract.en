@@ -1,0 +1,1 @@
+The SULTAN ABDUL HALIM MU'ADZAM SHAH GALLERY (Malay: _Galeri Sultan Abdul Halim Mu'adzam Shah_) is a museum in Alor Setar, Kedah, Malaysia showcasing the history and artifacts of Kedah Sultan Abdul Halim ibni Almarhum Sultan Badlishah.

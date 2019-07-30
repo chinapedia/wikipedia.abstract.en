@@ -1,0 +1,1 @@
+Advaita Vedanta and Mahayana Buddhism share significant similarities. Those similarities have attracted Indian and Western scholars attention, and have also been criticised by concurring schools. The similarities have been interpreted as Buddhist influences on Advaita Vedanta, though some deny such influences, or see them as expressions of the same eternal truth.[1]

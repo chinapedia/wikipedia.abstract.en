@@ -1,0 +1,1 @@
+_ZELOTES SUBTERRANEUS_ is a species of ground spider from the family Gnaphosidae which has a Palearctic distribution. it is the type species of the genus _Zelotes_.[1] Its distribution may be somewhat masked by the difficulty of distinguishing this species from _Zelotes apricorum_[2] and _Zelotes latreillei_.[3]

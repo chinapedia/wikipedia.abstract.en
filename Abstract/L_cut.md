@@ -1,0 +1,1 @@
+An L CUT is a variant of a split edit film editing technique in which the audio from preceding scene overlaps the picture from the following scene, so that the audio cuts after the picture, and continues playing over the beginning of the next scene.[1][2]

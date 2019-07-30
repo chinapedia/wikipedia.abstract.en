@@ -1,0 +1,1 @@
+CHRIS TOMIC (born 1978) is a German computer scientist, inventor, entrepreneur and a reality TV personality. He has featured in several television shows, mostly on the German news channel N-TV Television.[1][2][3][4]

@@ -1,0 +1,1 @@
+SARAH ANN LACINA is an American police officer best known for competing on the American reality show _Survivor_. She came in 11th place and was the first jury member in the show's 28th season, _Survivor: Cagayan_, in 2014.[1] Lacina was voted the winner of the show's 34th season, _Survivor: Game Changers_ in 2017.

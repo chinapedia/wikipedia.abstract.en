@@ -1,0 +1,1 @@
+YANGSAN FAULT is a seismic fault in southeastern Korea[1][2][3][4][5] which was responsible for the 5.7 M_(w) Gyeongju earthquake in 2016. It is located between Yeongdeok County and Busan with Yangsan.

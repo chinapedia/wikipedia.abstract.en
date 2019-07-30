@@ -1,0 +1,1 @@
+PROTEOBACTERIA is a major phylum of gram-negative bacteria. They include a wide variety of pathogens, such as _Escherichia_, _Salmonella_, _Vibrio_, _Helicobacter_, _Yersinia_, _Legionellales_ and many other notable genera.[1] Others are free-living (non-parasitic) and include many of the bacteria responsible for nitrogen fixation.

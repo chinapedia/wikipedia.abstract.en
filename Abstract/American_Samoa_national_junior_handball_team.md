@@ -1,0 +1,1 @@
+The AMERICAN SAMOA NATIONAL JUNIOR HANDBALL TEAM is the national men's junior handball team of American Samoa.Controlled by the American Samoa Handball Federation it represents American Samoa in international matches.

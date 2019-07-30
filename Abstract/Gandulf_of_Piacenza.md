@@ -1,0 +1,1 @@
+Italy_in_the_10th-11th_centuries.png GANDULF or GANDOLF (; 907–31) was a Frankish nobleman in the medieval kingdom of Italy. He rose from relatively low rank to become the count of Piacenza and finally a _marchio_ (marquis). He is an ancestor of the Da Palazzo family.

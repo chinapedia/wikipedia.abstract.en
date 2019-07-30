@@ -1,0 +1,1 @@
+MARTIN SCHMEDING (born 1975) is a German church musician, concert organist and academic teacher, who has made recordings of the complete organ works by composers such as Brahms, Mendelssohn, Franz Schmidt, Max Reger and Tilo Medek.

@@ -1,0 +1,1 @@
+JONATHAN SACERDOTI is a British journalist, based in the United Kingdom. He covers stories relating to the UK and Europe, as well as terrorism and extremism[1] stories and Middle East analysis.[2] He is also an anti-racism campaigner.[3][4]

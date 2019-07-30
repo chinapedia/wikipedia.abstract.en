@@ -1,0 +1,1 @@
+WILLIE J. HAGAN is an American educator and public university administrator. He is the 10th president of California State University, Dominguez Hills, a public university located in the city of Carson, California in the South Bay region of Los Angeles County.[1]

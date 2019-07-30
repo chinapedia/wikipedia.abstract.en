@@ -1,0 +1,1 @@
+Arms_of_Chichester.svg SIR JOHN CHICHESTER (died 31 March 1586) lord of the manor of Raleigh in the parish of Pilton, near Barnstaple, North Devon, was Sheriff of Devon in 1576/7[1] and/or in 1585[2] and died of gaol fever contracted whilst acting as a magistrate at the Lent Black Assizes of Exeter in 1586.

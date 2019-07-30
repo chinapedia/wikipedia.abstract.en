@@ -1,0 +1,1 @@
+The LEE BUSINESS SCHOOL is the graduate business school at the University of Nevada, Las Vegas (UNLV). It holds international dual accreditation in business and accounting by the Association to Advance Collegiate Schools of Business.[1] The Lee Business School is the largest college at UNLV and offers nine undergraduate and five graduate programs.[2]

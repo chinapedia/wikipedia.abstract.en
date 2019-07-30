@@ -1,0 +1,1 @@
+The Rev. JAMES A. BURNS, C.S.C. (February 13, 1867; September 9, 1940) was an American priest and President of the University of Notre Dame from 1919 to 1922. He was crucial in transforming Notre Dame into a national research university. He was professor of chemistry at Notre Dame from 1895 to 1900. He was a theorist of education, and wrote numerous books on the topic.

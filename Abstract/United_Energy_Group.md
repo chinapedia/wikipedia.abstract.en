@@ -1,0 +1,1 @@
+The UNITED ENERGY GROUP (UEG) () is a Chinese oil & gas exploration and production company. The company pursues projects in Pakistan and Indonesia and is looking into further investment options in South East Asia and the Americas.

@@ -1,0 +1,1 @@
+CHRISTOPHER MATTHEW KERZE (born February 19, 1973) is a missing American teenager from Eagan, Minnesota, who was last seen on April 20, 1990. His abandoned vehicle was found two days after his disappearance. He is featured in Soul Asylum's music video for Runaway Train.[1]

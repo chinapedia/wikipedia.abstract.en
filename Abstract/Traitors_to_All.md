@@ -1,0 +1,1 @@
+_TRAITORS TO ALL_ () is a 1966 detective novel by the Italian writer Giorgio Scerbanenco. It is known as _BETRAYAL_ in the United Kingdom. It tells the story of a former medical doctor who becomes involved in a criminal plot involving a mysterious suitcase left with him. It is the second installment of Scerbanenco's Milano Quartet and follows _A Private Venus_.

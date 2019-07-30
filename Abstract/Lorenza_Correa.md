@@ -1,0 +1,1 @@
+LORENZA CORREA (1773–1831) was a Spanish stage actress and opera singer. She had a successful national and international career in Spain, France and Italy in the period 1790-1810 which made her famous in her time.

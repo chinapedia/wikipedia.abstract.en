@@ -1,0 +1,1 @@
+MUHANNAD BIN JIBRAEL BIN KAHLEEL ABU DIAH, is a Saudi inventor from Jazan region which is in the southwestern of Saudi Arabia. He was born in Jeddah city on 14 January 1987 Jumadal-Awwal14,1407 AH. He graduated from King Fahd University of Petroleum and Minerals, specialised in industrial engineering with a class of honor. His father is the well-known Jibrael Abu Diah.

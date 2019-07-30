@@ -1,0 +1,1 @@
+STANLEY MILGRAM (August 15, 1933 – December 20, 1984) was an American social psychologist, best known for his controversial experiment on obedience conducted in the 1960s during his professorship at Yale.[1] Milgram was influenced by the events of the Holocaust, especially the trial of Adolf Eichmann, in developing the experiment.

@@ -1,0 +1,1 @@
+Aleafinthestormtv.jpg _A LEAF IN THE STORM_ is a 2003 Chinese television drama series based on Lin Yutang's 1941 novel of the same name, which was first published in English in the United States. The TV series was first shown on CCTV-8 on 12 August 2003.[1] In Taiwan, the series was first shown on Public Television Service on 20 July 2005.[2]

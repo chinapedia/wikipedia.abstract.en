@@ -1,0 +1,1 @@
+MOHAMMAD ABDULLAH (born October 16, 1997) is an association football player from Sirajganj, Bangladesh and also plays as midfielder for Arambagh Krira Sangha and the Bangladesh national football team.[1]

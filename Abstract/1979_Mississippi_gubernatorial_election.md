@@ -1,0 +1,1 @@
+The 1979 MISSISSIPPI GUBERNATORIAL ELECTION took place on November 7, 1979, in order to elect the Governor of Mississippi. Incumbent Democrat Cliff Finch was term-limited, and could not run for reelection to a second term.

@@ -1,0 +1,1 @@
+GAYATHRI KHEMADASA is a Sri Lankan composer and contemporary classical pianist. Born in 1976 in Colombo, she is the daughter of Premasiri Khemadasa. She was educated at Ladies College, Colombo and studied music at the Prague Conservatory and the Academy of Early Music, Czech Republic.

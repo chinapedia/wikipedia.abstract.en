@@ -1,0 +1,1 @@
+The PAPUA NEW GUINEA HOCKEY FEDERATION is the governing body of field hockey in Papua New Guinea, Oceania. Its headquarters are in Boroko, NCD, Port Moresby. It is affiliated to IHF International Hockey Federation and OCF Oceania Hockey Federation.

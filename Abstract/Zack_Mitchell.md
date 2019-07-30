@@ -1,0 +1,1 @@
+ZACHERY "ZACK" MITCHELL (born January 7, 1993) is a Canadian professional ice hockey forward. He is currently playing with HC Neftekhimik Nizhnekamsk in the Kontinental Hockey League (KHL). He has previously played in the National Hockey League (NHL) with the Minnesota Wild.

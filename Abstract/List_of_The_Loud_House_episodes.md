@@ -1,0 +1,1 @@
+_The Loud House_ is an American animated comedy television series created by Chris Savino that premiered on Nickelodeon on May 2, 2016. The series focuses on Lincoln Loud, the middle and only male child in a house full of girls, who is often breaking the fourth wall to explain to viewers the chaotic conditions and sibling relationships of the household.

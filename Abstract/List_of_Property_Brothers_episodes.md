@@ -1,0 +1,1 @@
+_Property Brothers_ is a Canadian reality television series that features identical twin brothers Jonathan Scott and Drew Scott (born April 28, 1978) who help home buyers to purchase and renovate "fixer-uppers."[1] It was produced by Cineflix, until it was acquired by Scott Brothers Entertainment in 2019.

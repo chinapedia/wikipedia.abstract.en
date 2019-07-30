@@ -1,0 +1,1 @@
+VALÉRIE PLANTE (born June 14, 1974) is a Canadian politician serving as the 45th and current Mayor of Montreal since 2017.[1] First elected to Montreal City Council in the 2013 election, she has served as leader of the Projet Montréal party since December 2016.

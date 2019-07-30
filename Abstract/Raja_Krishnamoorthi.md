@@ -1,0 +1,1 @@
+SUBRAMANIAN RAJA KRISHNAMOORTHI[1] ( born July 19, 1973) is an American businessman and politician who is the U.S. Representative for . He was first elected in 2016 to succeed Tammy Duckworth, who gave up the seat to successfully run for the U.S. Senate. He is a member of the Democratic Party.

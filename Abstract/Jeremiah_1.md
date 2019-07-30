@@ -1,0 +1,1 @@
+JEREMIAH 1 is the first chapter of the Book of Jeremiah in the Hebrew Bible or the Old Testament of the Christian Bible. This book, one of the Nevi'im or Books of the Prophets, contains the prophecies attributed to the prophet Jeremiah. This chapter serves as an introduction to the Book of Jeremiah and relates Jeremiah's calling as a prophet.

@@ -1,0 +1,1 @@
+FRANKEL APPLIANCE or Frankel Functional Regulator is an orthodontic functional appliance which was developed by Rolf Frankel in 1950s. This appliance primarily focused on the modulation of neuromuscular activity in order to produce changes in jaw and teeth. The appliance was opposite to the Bionator appliance and Activator appliance.[1][2]

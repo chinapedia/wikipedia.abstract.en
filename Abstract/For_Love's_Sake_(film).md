@@ -1,0 +1,1 @@
+is a 2012 Japanese musical romance film directed by Takashi Miike based on the manga series _Ai to Makoto_ by Ikki Kajiwara and Takumi Nagayasu. It was released in the United States on June 17, 2012.[1] Previous adaptations of the manga series had been titled _Love and Truth_ in English but this 2012 film version was alternatively titled _For Love's Sake_[2] in English.

@@ -1,0 +1,1 @@
+DIANE GIFFORD-GONZALEZ is an American archaeologist who specializes in the field of zooarchaeology. Her research has included fieldwork near Lake Turkana, northwestern Kenya, and her research often touches on the question of animal domestication and the origins and development of African pastoralism.[1]

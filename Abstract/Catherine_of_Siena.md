@@ -1,0 +1,1 @@
+SAINT CATHERINE OF SIENA (25 March 1347 – 29 April 1380), a laywoman associated with the Dominican Order, was a mystic, activist, and author who had a great influence on Italian literature and the Catholic Church. Canonized in 1461, she is also a doctor of the Church.

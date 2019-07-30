@@ -1,0 +1,1 @@
+The _JOURNAL OF GLOBAL INFORMATION MANAGEMENT_ is a quarterly peer-reviewed academic journal covering information management. It was established in 1993 and is published by IGI Global. The editor-in-chief is Justin Zhang of (University of North Florida).

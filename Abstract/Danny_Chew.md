@@ -1,0 +1,1 @@
+DANIEL PAUL "DANNY" CHEW (born August 26, 1962) is an American former professional road racing and ultramarathon cyclist who twice won the Race Across America.[1] He is also co-founder and promoter of the Dirty Dozen, an annual road bicycle race over Pittsburgh's thirteen steepest hills.[2] Chew is a 2014 inductee into the UltraCycling Hall of Fame.[3]

@@ -1,0 +1,1 @@
+DURLABHA-RAJA (r. c. 1008–1022 CE) was an Indian king who ruled parts of present-day Gujarat from his capital at Anahilapataka (modern Patan). He was a member of the Chaulukya (also called Chalukya or Solanki) dynasty.

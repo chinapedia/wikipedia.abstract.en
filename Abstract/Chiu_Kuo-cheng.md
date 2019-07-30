@@ -1,0 +1,1 @@
+CHIU KUO-CHENG (; born 12 April 1953) is a Taiwanese politician and military general officer. He is the current Minister of Veterans Affairs Council since 26 February 2018. He was the Chief of General Staff of the Republic of China Armed Forces from 1 December 2016 to 28 April 2017,[1] and is a former Vice Minister of National Defense for Armaments.

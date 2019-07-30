@@ -1,0 +1,1 @@
+Frama_AssSC032.JPG and Philip Neri'' by Cesare Sermei (1630-50), fragment of a fresco in the Sacro Convento, Assisi]] S.M.degli.Angeli031kopie.jpg CESARE SERMEI (Città della Pieve, c.1581 – Assisi, 1668) was an Italian painter. Son of painter Fernando Sermei, he learned to paint in the workshop of Cesare Nebbia, primarily moving between Orvieto and Rome.

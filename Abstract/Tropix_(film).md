@@ -1,0 +1,1 @@
+_TROPIX_ is a 2002 independent film directed by Costa Rica-based Americans Percy Angress and Livia Linden. The film is one of the few independent films made in Costa Rica. It was released in the US on DVD in 2004.[1] It was filmed in Guápiles, and San José.[2][3] The film stars Danielle Bisutti, Ryan Barton-Grimley, and Keith Brunsmann.[4]

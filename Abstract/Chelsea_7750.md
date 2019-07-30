@@ -1,0 +1,1 @@
+_CHELSEA 7750_ is a surviving 1913 American silent crime drama film directed by J. Searle Dawley and starring Henry E. Dixey (from the stage), Laura Sawyer, and House Peters. It was the fourth of six “Kate Kirby's Cases" detective stories made in 1913, the first produced by the Famous Players Film Company after Dawley and Sawyer left Edison for Famous Players.[1][2]

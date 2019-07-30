@@ -1,0 +1,1 @@
+The MIDLANDS COMEDY AWARDS are an annual awards ceremony for live comedy performers and comedy clubs based in The Midlands region of England. It also recognises achievement in online comedy. They were founded in 2014 and give out awards in eleven categories every year.

@@ -1,0 +1,1 @@
+DAVA SOBEL (born June 15, 1947)[1] is an American writer of popular expositions of scientific topics. Her books include _Longitude_, about English clockmaker John Harrison, and _Galileo's Daughter_, about Galileo's daughter Maria Celeste, and _The Glass Universe: How the Ladies of the Harvard Observatory Took the Measure of the Stars_.

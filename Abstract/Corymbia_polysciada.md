@@ -1,0 +1,1 @@
+_CORYMBIA POLYSCIADA_, commonly known as the APPLE GUM or the PAPER-FRUITED BLOODWOOD, is a member of the genus _Corymbia_ native to the Northern Territory. The Wagiman peoples know the tree as BOLOMIN.[1]

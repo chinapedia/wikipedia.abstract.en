@@ -1,0 +1,1 @@
+The ENDANGERED LANGUAGES PROJECT (ELP) is a worldwide collaboration between indigenous language organizations, linguists, institutions of higher education, and key industry partners to strengthen endangered languages. The foundation of the project is a website, which launched in June 2012.[1]

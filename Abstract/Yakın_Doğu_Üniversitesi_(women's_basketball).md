@@ -1,0 +1,1 @@
+NEAR EAST UNIVERSITY () is a university in Northern Cyprus.[1] The university's women's basketball team is a Turkish Cypriot team that competes in the Turkish Women's Basketball League and represents Northern Cyprus.[2][3] The club is based in Istanbul, Turkey.

@@ -1,0 +1,1 @@
+Jean_Huber_-_Voltaire's_Morning_-_WGA11784.jpg JEAN-LOUIS WAGNIÈRE (15 October 1739, Rueyres, Vaud, Switzerland7 April 1802, Ferney-Voltaire) was Voltaire's secretary from 1756 to 1778, when Voltaire died.

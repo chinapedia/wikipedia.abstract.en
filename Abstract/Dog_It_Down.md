@@ -1,0 +1,1 @@
+_DOG IT DOWN_ is a 2012 award-winning short film directed by Mark Haapala and produced by Kevin Connolly. It is based on the true story of three US Navy Sailors who were trapped under water for 17 days in an air-tight compartment aboard the during the Japanese attack on Pearl Harbor.

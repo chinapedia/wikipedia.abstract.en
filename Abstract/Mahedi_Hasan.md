@@ -1,0 +1,1 @@
+MAHEDI HASAN (born 12 December 1994) is a Bangladeshi first-class cricketer who plays for Khulna Division.[1] He made his Twenty20 (T20) debut on 8 November 2016 playing for Barisal Bulls in the 2016–17 Bangladesh Premier League.[2]

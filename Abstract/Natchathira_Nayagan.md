@@ -1,0 +1,1 @@
+_NATCHATHIRA NAYAGAN_ () is a 1992 Tamil language action film directed by Senthilnathan. The film features R. Sarathkumar and Rohini in the lead roles, with Jaishankar, Kavitha, Goundamani, Senthil, Rocky, Ashok Sundaram and Nalinikanth playing supporting roles. The film had musical score by Deva and was released on 4 December 1992.[1]

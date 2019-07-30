@@ -1,0 +1,1 @@
+_TREMBLE_ is a debut extended play by Australian pop singer Nicole Millar. It was released on 5 February 2016. The EP was written between Australia and the USA and sees Millar working with an array of after writers including Alexander Burnett, Dennis Dowlut, Kristy Lee Peters, Louis Schoorl, Loston and Dan Farber.

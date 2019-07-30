@@ -1,0 +1,1 @@
+LEE B. LASKIN (born June 30, 1936) is an American attorney, politician and judge who served in both houses of the New Jersey Legislature before being appointed to serve on the New Jersey Superior Court.

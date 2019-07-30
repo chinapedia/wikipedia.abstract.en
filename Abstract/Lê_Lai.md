@@ -1,0 +1,1 @@
+LÊ LAI was a subordinate commander of Lê Lợi's army during the Lam Sơn uprising against Ming Rule in Vietnam from 1418-1427. He is known for sacrificing himself to help Lê Lợi and the Vietnamese army escape from the Ming's blockade, a story that was later known as "LE LAI RESCUED LORD" (_Lê Lai cứu chúa_ 黎來救主).

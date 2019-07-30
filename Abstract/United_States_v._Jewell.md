@@ -1,0 +1,1 @@
+_UNITED STATES V. JEWELL_, 532 F.2d 697 (9th Cir. 1976), is a criminal case in which the court held that willful ignorance satisfied the requirements of knowledge of a fact.[1] The holding gave rise to the jury instruction known as the ostrich instruction.[2]

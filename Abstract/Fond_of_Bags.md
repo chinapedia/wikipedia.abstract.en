@@ -1,0 +1,1 @@
+FOND OF GMBH, marketed as FOND OF, is a German manufacturer of sustainable, ergonomic backpacks. The startup company was founded by Sven-Oliver Pink, Florian Michajlezko, Oliver Steinki and Juliaan Cazin in 2010 and is based in Cologne.[1]

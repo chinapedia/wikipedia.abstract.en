@@ -1,0 +1,1 @@
+KVÅS is a former municipality in Vest-Agder county, Norway. The municipality existed from 1909 until its dissolution in 1963. The municipality today makes up the northern third of the present-day municipality of Lyngdal. The administrative centre of Kvås was the village of Kvås where Kvås Church is located. Other villages in the Kvås area are Birkeland and Moi.[1]

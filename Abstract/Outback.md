@@ -1,0 +1,1 @@
+Yalgoo_Shire.jpg sign post in Yalgoo, Western Australia]] The OUTBACK is the vast, remote interior of Australia. "The Outback" is more remote than those areas named "the bush", which include any location outside the main urban areas.

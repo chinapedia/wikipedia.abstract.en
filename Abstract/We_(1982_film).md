@@ -1,0 +1,1 @@
+_WE_ () is a 1982 German science fiction film written by Claus Hubalek, directed by Vojtěch Jasný and produced by German TV network ZDF. The film presents a world of harmony and conformity within a united state of technocratic progressivism.[1] It is based on the 1921 novel _We_ by the Russian writer Yevgeny Zamyatin.

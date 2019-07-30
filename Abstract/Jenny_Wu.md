@@ -1,0 +1,1 @@
+JENNY WU is an Asian-American lawyer, fashion blogger, TV personality, and actress best known for her fashion blog, Good, Bad, and Fab, and her appearance on Season 26 of _The Amazing Race_ on CBS.[1]

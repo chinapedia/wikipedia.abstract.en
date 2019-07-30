@@ -1,0 +1,1 @@
+NICOLA JANE COFFEY (born 27 May 1982) is an Irish former cricketer. She played nineteen Women's One Day International matches for Ireland women's national cricket team.[1] She was part of Ireland's squad for the 2005 Women's Cricket World Cup.

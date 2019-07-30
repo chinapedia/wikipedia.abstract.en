@@ -1,0 +1,1 @@
+DOVE INTERNATIONAL is a Christian ministry founded by Larry and Laverne Kreider involved with churches and ministries in five continents. DOVE is an acronym which states “Declaring Our Victory Emmanuel". Prominent Christian publisher, Baker Book group has published President Kreider's book, "The Cry for Spiritual Mothers and Fathers".".[1]

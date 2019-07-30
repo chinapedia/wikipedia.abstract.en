@@ -1,0 +1,1 @@
+VERENA EBERHARDT (born 6 December 1994) is an Austrian female track cyclist, representing Austria at international competitions. She competed at the 2016 UEC European Track Championships in the points race event and scratch event.[1]

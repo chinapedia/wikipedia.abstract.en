@@ -1,0 +1,1 @@
+Swedish DJ Axwell, best known as a member of the Swedish DJ supergroup Swedish House Mafia, has received numerous awards and nominations. Among them include a nomination at the Grammis Awards, three nominations at the Grammy Awards, two Best House DJ awards won at the DJ Awards. He has appeared on the DJ Mag Top 100 DJs poll from 2006 to 2014.

@@ -1,0 +1,1 @@
+BHUPAL RAI() is a poet, lyricist,writer and editor. He has voiced for the rights of the marginalised people through his writings. His writings carry the organic essence of the Kirati people and their culture. His writings carry the blend of marxist philosophy and socio-cultural pragmatism of the indigenous people. [1]

@@ -1,0 +1,1 @@
+The HAWKINS–SIMON CONDITION refers to a result in mathematical economics, attributed to David Hawkins and Herbert A. Simon,[1] that guarantees the existence of a non-negative output vector that solves the equilibrium relation in the input–output model where demand equals supply. More precisely, it states a condition for [I − A] under which the input–output system

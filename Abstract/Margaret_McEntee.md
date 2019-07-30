@@ -1,0 +1,1 @@
+'''Margaret C. McEntee SR. SC., ''' also known by her confirmation name MARITA JAMES, (born July 10, 1935)[1] is an American Catholic religious sister and educator who is known as being the inspiration for the character of Sister James in the Pulitzer Prize and Tony Award-winning play _Doubt: A Parable_ by John Patrick Shanley. The 2008 film adaptation is dedicated to her.[2][3]

@@ -1,0 +1,1 @@
+WILLIAM GOURLAY WEBSTER (September 25, 1884 – February 18, 1965) was a civil engineer, land surveyor and politician in Ontario, Canada. He represented London in the Legislative Assembly of Ontario from 1943 to 1948 as a Progressive Conservative.

@@ -1,0 +1,1 @@
+FYODOR FYODOROVICH BUCHHOLZ (Russian: Фёдор Фёдорович Бухгольц), born TEODOR BUCHHOLZ (9 June 1857, Włocławek - 7 May 1942, Saint Petersburg) was a Polish-born Russian painter, graphic artist and art teacher of German ancestry. He specialized in genre and historical scenes. Some of his works became popular postcards.

@@ -1,0 +1,1 @@
+IAN JAMES MARSDEN (born 25 January 1972 in Stafford[1]) is a British paracanoeist, hand cyclist and was previously a champion powerlifter.[2] He won a bronze medal in the 2016 Summer Paralympics in the Men's KL1 200m.[3]

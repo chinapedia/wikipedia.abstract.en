@@ -1,0 +1,1 @@
+DOMEN NOVAK (born 12 July 1995) is a Slovenian cyclist, who currently rides for UCI WorldTeam .[1] He was named in the startlist for the 2017 Vuelta a España.[2] In May 2018, he was named in the startlist for the 2018 Giro d'Italia.[3]

@@ -1,0 +1,1 @@
+Crossfireguns.svg A CROSSFIRE (also known as INTERLOCKING FIRE) is a military term for the siting of weapons (often automatic weapons such as assault rifles or sub-machine guns) so that their arcs of fire overlap.[1] This tactic came to prominence in World War I.

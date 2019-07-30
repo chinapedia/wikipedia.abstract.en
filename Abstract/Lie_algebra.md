@@ -1,0 +1,1 @@
+In mathematics, a LIE ALGEBRA (pronounced "Lee") is a vector space 𝔤 together with a non-associative operation called the LIE BRACKET, an alternating bilinear map 𝔤 × 𝔤 → 𝔤, (x, y) ↦ [x, y], satisfying the Jacobi identity.

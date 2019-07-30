@@ -1,0 +1,1 @@
+The GRAND ISLE COUNTY COURTHOUSE is located at 3677 United States Route 2 in the center of North Hero, the county seat of Grand Isle County, Vermont. Built in 1824, it is one of the oldest surviving courthouses in the state, and the only surviving one built out of stone. It was listed on the National Register of Historic Places in 1996.[1]

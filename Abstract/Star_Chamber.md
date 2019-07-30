@@ -1,0 +1,1 @@
+Old_and_new_London_-_a_narrative_of_its_history,_its_people,_and_its_places_(1873)_(14598096217).jpg Royal_Charity_Performance.jpg sitting in the Star Chamber and receiving William Warham, Archbishop of Canterbury, Richard Foxe, Bishop of Winchester, and clerics associated with Westminster Abbey and St Paul's Cathedral, as well as the Mayor of London.]]

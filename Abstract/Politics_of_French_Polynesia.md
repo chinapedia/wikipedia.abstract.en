@@ -1,0 +1,1 @@
+POLITICS OF FRENCH POLYNESIA takes place in a framework of a parliamentary representative democratic French overseas collectivity, whereby the President of French Polynesia is the head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the Assembly of French Polynesia.

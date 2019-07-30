@@ -1,0 +1,1 @@
+Holy_Trinity_-_East_Finchley_-_geograph.org.uk_-_159373.jpg HOLY TRINITY EAST FINCHLEY is a Church of England church in Church Lane, East Finchley, London. It is a grade II listed building with Historic England.[1]

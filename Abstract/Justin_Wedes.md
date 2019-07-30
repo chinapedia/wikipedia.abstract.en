@@ -1,0 +1,1 @@
+JUSTIN WEDES (born March 20, 1986) is an entrepreneur, community organizer and social justice activist. He is a former member of the Occupy Wall Street movement,[1] founding member of the Detroit Water Brigade[2] and CEO of The Liberati Group, a strategic communications firm.

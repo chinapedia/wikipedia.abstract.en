@@ -1,0 +1,1 @@
+_GASTRODIA KUROSHIMENSIS_ is an unusual species of plant that was discovered in April 2016.[1] It is mycoheterotrophic, meaning that it does not engage in photosynthesis like most plants but obtains energy from its host fungi. It is also cleistogamous, meaning that it produces flowers that never open. Since its flowers never open, it is self-fertilizing.[2]

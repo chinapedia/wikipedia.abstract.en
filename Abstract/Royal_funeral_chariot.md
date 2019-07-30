@@ -1,0 +1,1 @@
+Phra_Maha_Phichai_Ratcharot_carried_Bejaratana_Rajasuda's_royal_urn.JPG in 2012]] A ROYAL FUNERAL CHARIOT is a wheeled vehicle traditionally used to transport the bodies of royalty during funeral processions in some cultures of Mainland Southeast Asia. Today, they remain in use in Thailand and Cambodia.

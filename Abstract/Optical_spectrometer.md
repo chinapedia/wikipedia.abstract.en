@@ -1,0 +1,1 @@
+Spectrometer_schematic.gif Simple_grating_spectrometer_inside.jpg

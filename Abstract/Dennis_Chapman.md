@@ -1,0 +1,1 @@
+DENNIS CHAPMAN (1911–2003) was a social psychologist best known for his book _The Home and Social Status_, published in 1955, which investigated the British working class domesticity in the mid-twentieth century. His research focuses mainly on two primary aspects of society: domestic housing and provision, and the sociology of crime.[1]

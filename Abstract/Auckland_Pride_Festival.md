@@ -1,0 +1,1 @@
+The AUCKLAND PRIDE FESTIVAL is an annual festival held in Auckland, New Zealand. It began in 2013[1] and is New Zealand's largest Pride Festival.[2] The Auckland Pride Festival is overseen by a board of nine community members, there is also a Festival Director and a Parade Director who respectively organise the Festival and Parade.

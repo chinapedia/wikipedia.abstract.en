@@ -1,0 +1,1 @@
+The following is A LIST OF UNPRODUCED GUILLERMO DEL TORO PROJECTS in roughly chronological order. During his decades-long career, Mexican film director Guillermo del Toro has worked on a number of projects that never progressed beyond the pre-production stage. Some of these projects fell into development hell and are presumably canceled.

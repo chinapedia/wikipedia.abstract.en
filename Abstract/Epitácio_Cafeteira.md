@@ -1,0 +1,1 @@
+EPITÁCIO CAFETEIRA AFONSO PEREIRA (June 27, 1924 – May 13, 2018)[1] was a Brazilian politician. He was federal deputy (1975–1987), governor of Maranhão (1987–1990) and senator (1991–1999, 2007–2015).[2]

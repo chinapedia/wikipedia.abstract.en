@@ -1,0 +1,1 @@
+ALEXANDER OLEINIK (; born March 8, 1986) is a Ukrainian professional Kickboxing and Muay Thai fighter who competes in the middleweight, light heavyweight and cruiserweight divisions. He has begun practicing Kyokushin Karate in early childhood at the age of six. Shortly he became a Ukrainian champion in the youth division. At the age of 17 he started practicing Muay Thai.

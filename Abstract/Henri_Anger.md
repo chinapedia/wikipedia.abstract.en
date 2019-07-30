@@ -1,0 +1,1 @@
+HENRI ANGER (8 June 1907 – 1989) was a French journalist and writer. Entered at _Télégramme de Brest et de l'Ouest_ in 1944, he became its chief editor in 1965. He used to sign his columns under the pseudonym KERDANIEL.

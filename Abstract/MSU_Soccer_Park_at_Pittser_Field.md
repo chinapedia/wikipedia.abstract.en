@@ -1,0 +1,1 @@
+MSU SOCCER PARK AT PITTSER FIELD is a soccer-specific stadium on the campus of Montclair State University in Montclair, New Jersey. Built on the site of a former baseball field, MSU Soccer Park opened in 1998[1] as the home of the Montclair State Red Hawks men's and women's soccer teams.[2]

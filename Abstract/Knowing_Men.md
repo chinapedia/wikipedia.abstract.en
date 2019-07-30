@@ -1,0 +1,1 @@
+_KNOWING MEN_ is a 1930 British romantic comedy film directed by Elinor Glyn and starring Carl Brisson, Elissa Landi and Helen Haye. It was made at Elstree Studios[1] and based on one of Glyn's own novels. Originally shot using an experimental colour system, it was eventually released in plain black-and-white.

@@ -1,0 +1,1 @@
+OSCAR BROADY (1832–1922), was a petty officer in the Swedish navy who emigrated to the United States. During the Civil War he rose to the command of a brigade in the Union Army. After returning to Sweden as a Baptist missionary, he became the first president of the Swedish Baptist Bethel Seminary.

@@ -1,0 +1,1 @@
+_SEALED CARGO_ () is a 2015 Bolivian drama film directed by Julia Vargas-Weise. It was selected as the Bolivian entry for the Best Foreign Language Film at the 89th Academy Awards but it was not nominated.[1][2]

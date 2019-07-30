@@ -1,0 +1,1 @@
+SATISH CHANDRA ROY is a Bangladesh Awami League politician and the former State Minister of Fisheries and Livestock and Minister of Primary and Mass Education.[1][2] He is a member of Awami League presidium council.[3][4]

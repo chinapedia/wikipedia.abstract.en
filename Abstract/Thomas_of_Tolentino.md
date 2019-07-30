@@ -1,0 +1,1 @@
+THOMAS OF TOLENTINO ([1] or __;[2] 8 April 1321) was a medieval Franciscan missionary who was martyred with his three companions in Thane, India, for "blaspheming" Muhammad. His relics were removed to Quanzhou, China, and Tolentino, Italy, by Odoric of Pordenone. He is now venerated as a saint[3] by the Roman Catholic Church, with his feast day on April 9.

@@ -1,0 +1,1 @@
+BEST MĀORI ARTIST is a New Zealand Music Award that honours New Zealand music artists for outstanding recordings which reflect a unique Maori identity and/or are an expression of an artist’s Maori culture. The nominated work can be in te reo Maori, English or be bilingual.[1] The award is presented annually at the New Zealand Music Awards where the winner receives a Tui trophy.

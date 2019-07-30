@@ -1,0 +1,1 @@
+HARRY CLEMENT STUBBS (May 30, 1922 – October 29, 2003), better known by the pen name HAL CLEMENT, was an American science fiction writer and a leader of the hard science fiction subgenre. He also painted astronomically oriented artworks under the name GEORGE RICHARD.[1]

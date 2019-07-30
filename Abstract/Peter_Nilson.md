@@ -1,0 +1,1 @@
+PETER NILSON (17 October 1937 – 8 March 1998) was a Swedish astronomer and novelist. Active at Uppsala University, he compiled a catalogue of galaxies. He was appreciated for a number of essay books (primarily about science) and for a number of science fiction novels like _Rymdväktaren_, or "The Space Guardian" and _Nyaga_.

@@ -1,0 +1,1 @@
+ARIEL SALAS (born October 9, 1976 in Chile) is a former Chilean footballer who played for clubs of Chile. He played for Chile in the FIFA U-17 World Championship 1993 in Japan and the FIFA World Youth Championship 1995 in Qatar.

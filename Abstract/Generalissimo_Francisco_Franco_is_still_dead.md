@@ -1,0 +1,1 @@
+"GENERALISSIMO FRANCISCO FRANCO IS STILL DEAD" is a catchphrase that originated in 1975 during the first season of _NBC's Saturday Night_ (now called _Saturday Night Live_, or _SNL_) and which mocked the weeks-long media reports of the Spanish Caudillo's impending death. It was one of the first catchphrases from the series to enter the general lexicon.

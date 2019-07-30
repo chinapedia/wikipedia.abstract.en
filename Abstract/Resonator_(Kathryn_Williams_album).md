@@ -1,0 +1,1 @@
+RESONATOR is Kathryn Williams 13th studio album and a collaboration with jazz musician and vibraphone player, Anthony Kerr. The album is a set of jazz standards that the pair worked on over a six-year period [1]

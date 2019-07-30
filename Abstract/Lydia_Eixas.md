@@ -1,0 +1,1 @@
+'''Lydia Eixas ''' (born 7 November 1986) is a Namibian women's international footballer who plays as a goalkeeper. She is a member of the Namibia women's national football team. She was part of the team at the 2014 African Women's Championship.[1][2]

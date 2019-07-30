@@ -1,0 +1,1 @@
+ABIJAH PERKINS MARVIN (February 1, 1813 - October 19, 1889) was an American minister, writer, and teacher. He was a member of the Massachusetts Constitutional Convention of 1853, and a member of the New England Historic Genealogical Society.

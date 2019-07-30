@@ -1,0 +1,1 @@
+Koppen-Geiger_Map_GAB_present.svg GABON is a country in Central Africa, lying along the Atlantic Ocean, just south of the Bight of Biafra.

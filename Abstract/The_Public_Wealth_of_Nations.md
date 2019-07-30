@@ -1,0 +1,1 @@
+_THE PUBLIC WEALTH OF NATIONS: HOW MANAGEMENT OF PUBLIC ASSETS CAN BOOST OR BUST ECONOMIC GROWTH_ (Palgrave, 2015)[1] is a non-fiction book, co-authored by Dag Detter and Stefan Fölster, stating that governments have trillions of dollars in commercial assets, from companies and forests to real estate, but they are often poorly managed.

@@ -1,0 +1,1 @@
+NINA ALEKSANDROVNA ALESHINA (, IPA: []; 1924–2012) was a Russian architect and head of the design department __ for the Moscow Metro for a decade. Nineteen stations of the subway system were projects she participated in or led. She was honored with many awards during her career, including the designation in 1985 of

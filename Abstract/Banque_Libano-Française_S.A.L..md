@@ -1,0 +1,1 @@
+BANQUE LIBANO-FRANÇAISE (BLF) is a Lebanese bank holding number 10 on Banque du Liban List of Banks. It has a total of 60 branches and more than 176 ATMs, the second largest network of ATMs in Lebanon in 2018.

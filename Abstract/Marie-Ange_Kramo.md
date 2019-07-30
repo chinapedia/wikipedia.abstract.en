@@ -1,0 +1,1 @@
+'''Marie-Ange Kramo ''' (born 20 February 1979 in Toulouse) is a French women's international footballer who plays as a forward. She is a member of the France women's national football team. She was part of the team at the 2003 FIFA Women's World Cup.[1]

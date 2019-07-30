@@ -1,0 +1,1 @@
+KEVIN WARWICK FIET, FCGI, (born 9 February 1954) is a British engineer and Deputy Vice-Chancellor (Research) at Coventry University in the United Kingdom.[1] He is known for his studies on direct interfaces between computer systems and the human nervous system, and has also done research concerning robotics.[2][3]

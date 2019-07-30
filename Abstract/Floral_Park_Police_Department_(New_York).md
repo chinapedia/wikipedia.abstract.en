@@ -1,0 +1,1 @@
+FLORAL PARK POLICE DEPARTMENT is a community-oriented police department in Floral Park, New York. Its jurisdiction covers approximately and over 16,000 residents. The Department employs two lieutenants, six sergeants, two detectives and 25 officers and is commanded by a Police Commissioner.[1]

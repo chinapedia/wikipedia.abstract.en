@@ -1,0 +1,1 @@
+GABRIEL MARTÍNEZ-ÁBREGO (born 16 September 1998) is a Mexican motorcycle racer. He currently rides in the FIM CEV Moto3 Junior World Championship aboard a KTM RC 250 GP. He is the first Mexican-born rider to ever take part in a World Championship race during the Gran Premio Movistar de Aragón.

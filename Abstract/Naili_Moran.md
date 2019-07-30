@@ -1,0 +1,1 @@
+NAILI MORAN (4 February 1908 - 14 March 1968) was a Turkish male basketball player. He was a member of the Turkey men's national basketball team. He competed with the team at the 1936 Summer Olympics.[1]

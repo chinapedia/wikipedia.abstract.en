@@ -1,0 +1,1 @@
+LOUISE KERR HINES (born Louise Lyles Kerr) (born March 15, 1916 – April 9, 2007) was an African American Civil Rights activist. In 1945, Hines, along with her father, Dr. T. Henderson Kerr, were plaintiffs in a lawsuit against the Enoch Pratt Free Library for their denial of her application for their library training course.

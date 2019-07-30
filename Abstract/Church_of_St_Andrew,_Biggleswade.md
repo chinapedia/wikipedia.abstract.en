@@ -1,0 +1,1 @@
+St_Andrew's,_Biggleswade.jpg ST ANDREW'S CHURCH is the Anglican parish church for the town of Biggleswade in Bedfordshire, England. The church is Grade II* listed[1] and comes under the Diocese of St Albans. The church is noted for its monumental brass of John Rudying of 1481 featuring the Figure of Death.

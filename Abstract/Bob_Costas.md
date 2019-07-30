@@ -1,0 +1,1 @@
+ROBERT QUINLAN COSTAS (born March 22, 1952) is an award-winning American sportscaster, who is employed by MLB Network, where he does play-by-play and hosts an interview show called _Studio 42 with Bob Costas_. He is known for his long tenure with NBC Sports from 1980 through 2018, and for many Emmy awards.[1] He was the prime-time host of 11 Olympic Games from 1992 until 2016.

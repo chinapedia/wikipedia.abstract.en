@@ -1,0 +1,1 @@
+_THE HURT BUSINESS_ (stylized as _THE HURT BUSINE$$_) is a 2016 American documentary film about mixed martial arts, its history, and rise from a stigmatized, fringe event to a mainstream sport. It is directed by Vlad Yudin and narrated by Kevin Costner.

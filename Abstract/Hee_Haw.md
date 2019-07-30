@@ -1,0 +1,1 @@
+_HEE HAW_ was an American television variety show featuring country music and humor with the fictional rural "Kornfield Kounty" as a backdrop. It aired first-run on CBS from 1969 to 1971, in syndication from 1971 to 1993, and on TNN from 1996 to 1997. RFD-TV began airing reruns in 2008, where it currently remains.

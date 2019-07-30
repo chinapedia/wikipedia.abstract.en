@@ -1,0 +1,1 @@
+JOHN GAMBLE (1762–1811) was a British Anglican clergyman and military chaplain. From 1796 to 1810, he served as the first Chaplain General to the Forces and head of the Army Chaplains' Department.[1][2][3]

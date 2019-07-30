@@ -1,0 +1,1 @@
+OSCAR RAY CAULDWELL (August 24, 1892 – September 8, 1959) was an officer of the United States Marine Corps with the rank of major general, who served as assistant division commander of 3rd Marine Division and later as commanding general of the Training Command, Fleet Marine Force, San Diego, during World War II.

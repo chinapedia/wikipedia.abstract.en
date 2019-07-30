@@ -1,0 +1,1 @@
+FREEDO (FRIDOLIN WALCHER) is a songwriter, record producer, and DJ, originally from Glarus, Switzerland. He often works with German producer Shuko (Christoph Bauss). Freedo is known for producing Zara Larsson's single "Lush Life", and remixing Coldplay's "Up & Up".[1][2][3][4]

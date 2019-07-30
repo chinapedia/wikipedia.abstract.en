@@ -1,0 +1,1 @@
+The 2016 OPEN ENGIE DE TOURAINE was a professional tennis tournament played on indoor hard courts. It was the 12th edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $50,000 in prize money. It took place in Joué-lès-Tours, France, on 17–23 October 2016.

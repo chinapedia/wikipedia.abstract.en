@@ -1,0 +1,1 @@
+_TALES BY LIGHT_ is an Australian documentary reality television series airing on National Geographic. The program is branded content and a joint venture between National Geographic and Canon[1] which follows a number of professional photographers travelling around the world to capture images which tell a story.[2]

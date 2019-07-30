@@ -1,0 +1,1 @@
+IEEE 802.15 is a working group of the Institute of Electrical and Electronics Engineers (IEEE) IEEE 802 standards committee which specifies wireless personal area network (WPAN) standards. There are 10 major areas of development, not all of which are active.

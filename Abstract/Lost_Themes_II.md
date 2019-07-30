@@ -1,0 +1,1 @@
+_LOST THEMES II_ is the second studio album by American film director and composer John Carpenter. It was released on April 15, 2016, through Sacred Bones Records.[1] The album was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.[2]

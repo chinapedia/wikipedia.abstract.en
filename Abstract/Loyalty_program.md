@@ -1,0 +1,1 @@
+Kundenkarten.JPG LOYALTY PROGRAMS are structured marketing strategies designed by merchants to encourage customers to continue to shop at or use the services of businesses associated with each program.[1] These programs exist covering most types of commerce, each one having varying features and rewards-schemes.

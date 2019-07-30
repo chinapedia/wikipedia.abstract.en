@@ -1,0 +1,1 @@
+_ZANAKA_ is the first studio album by French singer-songwriter Jain, released on 6 November 2015. The album's title means "child" in Malagasy, and is a tribute to her mother who is of Franco-Malagasy origin.

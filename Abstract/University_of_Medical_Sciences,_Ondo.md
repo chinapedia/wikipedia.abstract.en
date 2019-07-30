@@ -1,0 +1,1 @@
+UNIVERSITY OF MEDICAL SCIENCES, ONDO (UNIMED) is a university of medical sciences in Ondo City, Nigeria, owned by the Ondo State Government, established in 2015. It is the third specialized medical university in Africa and Nigeria’s first specialized medical university to be accredited by the National Universities Commission.[1]

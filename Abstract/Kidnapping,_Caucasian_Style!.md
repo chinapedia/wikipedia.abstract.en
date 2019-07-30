@@ -1,0 +1,1 @@
+KIDNAPPING, CAUCASIAN STYLE! (; informally referred to as the KIDNAPPING, CAUCASIAN STYLE 2) is a Russian comedy film by director Maxim Voronkov. A remake of the 1967 film of the same name, it has a humorous plot revolving around bride kidnapping, an old tradition that used to exist in certain regions of the Northern Caucasus.

@@ -1,0 +1,1 @@
+SLOVENE ( or ) or SLOVENIAN (; _slovenski jezik_ or _slovenščina_) belongs to the group of South Slavic languages. It is spoken by approximately 2.5 million speakers worldwide, the majority of whom live in Slovenia. It is the first language of about 2.1 million Slovenian people and is one of the 24 official and working languages of the European Union.

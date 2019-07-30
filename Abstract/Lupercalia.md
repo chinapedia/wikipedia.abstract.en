@@ -1,0 +1,1 @@
+LUPERCALIA was an ancient, possibly pre-Roman pastoral annual festival,[1] observed in the city of Rome between February 13 and February 15, to avert evil spirits and purify the city, releasing health and fertility. Lupercalia was also called _dies Februatus_, after the instruments of purification called _februa_, which gave February _(Februarius)_ its name.

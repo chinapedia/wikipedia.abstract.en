@@ -1,0 +1,1 @@
+THALTHANA (Arabic: ثلثانة ) is a village in the north of Syria, about 40 km north east of Aleppo and part of the Aleppo Governorate, near the Turkish border. Kurds are the majority of the population of the village.[1]

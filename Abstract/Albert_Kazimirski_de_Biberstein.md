@@ -1,0 +1,1 @@
+ALBERT Félix Ignace KAZIMIRSKI or ALBIN DE BIBERSTEIN (20 November 1808 – 22 June 1887) was a French orientalist and Arabist of Polish origin, author of an Arabic-French dictionary and a number of Arab-French translations, including the Quran.

@@ -1,0 +1,1 @@
+"THE ALLIANCE" is the eighth episode of the eighth season of the American sitcom _Modern Family_. It aired on November 30, 2016 on American Broadcasting Company (ABC). The episode is directed by James Bagdonas and written by Andy Gordon and Ryan Walls.

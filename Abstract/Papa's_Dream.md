@@ -1,0 +1,1 @@
+_PAPA'S DREAM_ is a children's album by Los Lobos with Lalo Guerrero and the Children's Coro of Los Cenzontles Musical Arts Center of San Pablo, California, released on Music for Little People / Warner Bros. Records, 1995.[1][2][3]

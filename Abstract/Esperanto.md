@@ -1,0 +1,1 @@
+border |imagesize = 140px |imagecaption = Esperanto flag |sign = Signuno |glotto = espe1235 |glottorefname = Esperanto | map = Number of Esperanto association members by country.svg | mapcaption = Esperantujo: 120 countries worldwide | mapsize = 260px | notice = IPA }}

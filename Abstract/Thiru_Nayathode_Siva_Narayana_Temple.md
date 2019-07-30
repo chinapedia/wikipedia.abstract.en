@@ -1,0 +1,1 @@
+THIRU NAYATHODE SIVA NARAYANA TEMPLE is located at Nayathod, a small village in Ernakulam District, Kerala, India. The temple is located 3 km from Cochin International Airport. This temple is a protected monument by Archeological Department, Kerala.[1] The deity at this temple is Lord Shiva and Lord Vishnu.

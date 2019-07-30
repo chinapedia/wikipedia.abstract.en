@@ -1,0 +1,1 @@
+Lieutenant-Colonel N. A. BARBER, MBE, TD (1906–1994)[1] was a British Army officer who served in Singapore during the Second World War and was captured by the Japanese. His diary of his time as a prisoner of war in Changi Camp is held by the Liddell Hart Centre for Military Archives, King's College London.

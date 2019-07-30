@@ -1,0 +1,1 @@
+The DEAD & COMPANY SUMMER TOUR 2017 was a concert tour by the rock band Dead & Company during May, June, and July 2017. It was the band’s third tour, following their 2016 tour. The Dead & Company Summer Tour 2017 took place between May 27 and July 1, 2017, comprising a total of 20 concerts in 15 different cities.[1]

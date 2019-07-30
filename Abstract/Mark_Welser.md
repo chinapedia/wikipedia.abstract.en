@@ -1,0 +1,1 @@
+MarkusWelser.jpg MARK WELSER (1558–1614)[1] was a German banker, politician, and astronomer, who engaged in learned correspondence with European intellectuals of his time. Of particular note is his exchange with Galileo Galilei, regarding sunspots.

@@ -1,0 +1,1 @@
+The 2016 MANIPUR STATE LEAGUE was the 11th season of the Manipur State League, the top-division football league in the Indian state of Manipur. The league began on 24 August 2016 and ended on 25 November with the final. NEROCA emerged as champions.[1]

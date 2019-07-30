@@ -1,0 +1,1 @@
+FINGRINGHOE WICK is a 48.6 hectare nature reserve in Fingringhoe in Essex. It is managed by the Essex Wildlife Trust, which runs a visitor centre on the site.[1] It is part of the Colne Estuary Site of Special Scientific Interest,[2] Ramsar site[3] and Nature Conservation Review site.[4]

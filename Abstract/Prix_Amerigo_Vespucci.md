@@ -1,0 +1,1 @@
+The PRIX AMERIGO-VESPUCCI is a French literary award established in 1990, during the first (IFG) at Saint-Dié-des-Vosges. It rewards works on the theme of adventure and travel and refers to the Italian navigator Amerigo Vespucci.

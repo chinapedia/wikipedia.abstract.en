@@ -1,0 +1,1 @@
+MADWALA WILDLIFE SANCTUARY is a 102 hectare nature reserve in Assagay, Outer West Durban, South Africa.[1] The reserve is managed by the eThekwini Municipality and is home to a number of mammals and birds.[2]

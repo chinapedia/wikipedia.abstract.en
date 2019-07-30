@@ -1,0 +1,1 @@
+CHADWICK MICAH BELL (born February 28, 1989) is an American professional baseball pitcher for the Hanwha Eagles of the KBO League. He has previously played in Major League Baseball (MLB) for the Detroit Tigers.

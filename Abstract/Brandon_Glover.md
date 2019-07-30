@@ -1,0 +1,1 @@
+BRANDON DALE GLOVER (born 3 April 1997) is a South African-born cricketer who represents the Netherlands.[1] He made his first-class debut for Boland in the 2016–17 Sunfoil 3-Day Cup on 20 October 2016.[2] He made his List A debut for Boland in the 2016–17 CSA Provincial One-Day Challenge on 26 March 2017.[3]

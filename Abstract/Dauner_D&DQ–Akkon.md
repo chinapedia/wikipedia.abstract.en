@@ -1,0 +1,1 @@
+Akkon | image = | code = | registered = Germany | founded = | disbanded = | generalmanager = | teammanager =Marion Zimmermann | discipline = Road | status = UCI Continental | season = 2017– | oldname = Dauner D&DQ {{!}} Akkon }} TEAM DAUNER | AKKON is a German UCI Continental team founded in 2017.[1]

@@ -1,0 +1,1 @@
+_TOKYO DEBUT_ is a live album by saxophonist Art Pepper recorded in Japan in 1977 by TBS Radio and originally released on the Japanese Polydor label in 1990 as _First Live in Japan_ before being rereleased on the Galaxy label in 1995.[1]

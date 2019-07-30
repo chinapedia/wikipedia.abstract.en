@@ -1,0 +1,1 @@
+SAN TELMO MUSEUM is located on the plaza side of Mount Urgull in San Sebastian in the Basque region of Spain, The Spanish resort at about twenty kilometers from the French border. This is an ethnographic museum, historical and paintings.

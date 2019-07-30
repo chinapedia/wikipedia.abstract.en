@@ -1,0 +1,1 @@
+Polish |rels = Predominantly Roman Catholic |related = }} POLISH NEW ZEALANDERS refers to New Zealand citizens or residents of full or partial Polish ancestry, or Polish citizens living in New Zealand. The 2013 census counted 2,166 New Zealanders who claim Polish ancestry.[1]

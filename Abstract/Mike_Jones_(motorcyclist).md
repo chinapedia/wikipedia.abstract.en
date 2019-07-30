@@ -1,0 +1,1 @@
+MIKE JONES (born 25 February 1994) is an Australian motorcycle racer. He currently competes in the RFME Superstock 1000 Championship aboard a Kawasaki ZX-10R, he was Australian Superbike Champion in 2015.[1]

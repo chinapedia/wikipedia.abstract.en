@@ -1,0 +1,1 @@
+The HARLIE WHITCOMB FARM is a historic farm property on George Street in Orange, Vermont. The property, which includes a pre-1869 farmhouse, was listed on the National Register of Historic Places in 1979, because the property also included an octagonal three-story barn, one of a very few known in the state.[1] The barn has since been demolished.

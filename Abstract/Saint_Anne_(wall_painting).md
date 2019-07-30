@@ -1,0 +1,1 @@
+SAINT ANNE is a Makurian wall painting estimated to have been painted between the 8th and 9th centuries,[1] painted al secco with tempera on plaster.[2] The anonymous work was found at the Faras Cathedral within old Nubia in present-day Sudan.[3]

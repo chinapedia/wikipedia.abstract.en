@@ -1,0 +1,1 @@
+PROCESS THEOLOGY is a type of theology developed from Alfred North Whitehead's (1861–1947) process philosophy, most notably by Charles Hartshorne (1897–2000) and John B. Cobb (b. 1925). Process theology and process philosophy are collectively referred to as "process thought".

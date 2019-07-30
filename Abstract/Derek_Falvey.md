@@ -1,0 +1,1 @@
+DEREK FALVEY (born March 19, 1983) is an American baseball executive who is currently the Executive Vice President and Chief Baseball Officer for the Minnesota Twins of Major League Baseball (MLB). Prior to joining the Twins, Falvey was an executive for the Cleveland Indians.

@@ -1,0 +1,1 @@
+Siemiradzki_Christian_Dirce.jpg. A Christian woman is martyred under Nero in this re-enactment of the myth of Dirce (painting by Henryk Siemiradzki, 1897, National Museum, Warsaw).]] Kharput_Greek-Orthodox_refugees_-_C.D.Morris_-_National_Geographic,_Nov._1925.jpg. In the 1910s and 1920s the Armenian, Greek, and the Assyrian genocides occurred.]]

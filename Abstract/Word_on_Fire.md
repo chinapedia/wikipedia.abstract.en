@@ -1,0 +1,1 @@
+WORD ON FIRE is a Catholic media organization that uses digital and traditional media to introduce Catholicism to the broader world, founded by bishop Robert Barron.[1] Word on Fire rose to prominence through Barron's work as a priest that engages with new media, and has been noted as an effective model for sharing information about Catholicism to the public.[2]

@@ -1,0 +1,1 @@
+ELLIS NATHANIEL JONES (March 16, 1921 – February 24, 2002) was an American professional football player who appeared in eight games for the Boston Yanks of the National Football League in 1945.[1] He only had one arm.[2]

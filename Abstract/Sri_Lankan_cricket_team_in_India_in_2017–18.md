@@ -1,0 +1,1 @@
+The Sri Lanka cricket team toured India in November and December 2017.[1][2] The original schedule had the tour consisting of three Tests, five One Day Internationals (ODIs) and one Twenty20 International (T20I) match starting in February 2018.[3]

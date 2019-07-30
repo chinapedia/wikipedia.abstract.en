@@ -1,0 +1,1 @@
+Perihelion, the point during the year when the Earth is closest to the Sun, occurs around this date.

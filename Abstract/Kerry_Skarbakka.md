@@ -1,0 +1,1 @@
+KERRY SKARBAKKA is an American artist and an Assistant Professor of Photography at Oregon State University.[1] He is most known for his photographed images of himself apparently falling. One of his well-known images shows him apparently about to fall from the Vance Creek Bridge in Washington State timber country.[2][3]

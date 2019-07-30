@@ -1,0 +1,1 @@
+MICHAEL HIGH SCHOOL is located in Kurla, a suburb of Mumbai, India. It prepares students for the Secondary School Leaving Certificate examinations conducted by the Maharashtra State Board of Secondary and Higher Secondary Education.[1]

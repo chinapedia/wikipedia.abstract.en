@@ -1,0 +1,1 @@
+CHEUNG KIN MAN (born 15 June 1932) is a Hong Kong former swimmer. He competed at the 1952, 1956 and the 1960 Summer Olympics. He finished fifth in the 1954 British Empire and Commonwealth Games 110 yards freestyle and was eliminated in the heats of the 110 yards backstroke.[1]

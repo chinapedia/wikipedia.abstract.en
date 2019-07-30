@@ -1,0 +1,1 @@
+LocationKazakhstan.png]]

@@ -1,0 +1,1 @@
+Wooden toy-making is a traditional craft in the Varanasi district of Uttar Pradesh, India. Bright and colourful lacquered toys are made by clusters of skilled craftsmen. These toys were given the Geographical Indication tag in 2014, along with other lacquer ware produced in this region.[1]

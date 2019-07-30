@@ -1,0 +1,1 @@
+MOSBY HILL is a summit in Oregon County in the U.S. state of Missouri with an elevation of .[1] The peak rises about 455 ft above the junction of Hurricane Creek and the Eleven Point River.[2] The community of Greer lies about 3.5 miles to the southwest on Missouri Route 19.[3]

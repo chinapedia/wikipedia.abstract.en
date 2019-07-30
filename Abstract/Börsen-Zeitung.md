@@ -1,0 +1,1 @@
+The BÖRSEN-ZEITUNG is the main daily newspaper in Germany exclusively focused on the financial markets. The Börsen-Zeitung's headquarters is in Frankfurt, with editorial offices in Berlin, Düsseldorf, Hamburg, Munich and Stuttgart, as well as Brussels, London, New York, Madrid, Milan, Paris, Shanghai, Tokyo, Washington, DC, and Zurich.[1][2]

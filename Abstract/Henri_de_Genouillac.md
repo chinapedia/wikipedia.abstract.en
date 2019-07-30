@@ -1,0 +1,1 @@
+HENRI Pierre Louis DU VERDIER DE GENOUILLAC, called Abbé Henri de Genouillac, (15 March 1881, Rouen – 20 November 1940, in his clergy house in Villennes-sur-Seine) was a French Roman catholic priest, epigrapher and archaeologist specializing in Assyriology.

@@ -1,0 +1,1 @@
+_CRUCIFIXION_ is a 1543 polyptych by the Dutch Golden Age artist Maarten van Heemskerck in the Linköping Cathedral consisting of a taller triptych above a shorter triptych, resulting in 6 panels in the front and 4 in the back.[1]

@@ -1,0 +1,1 @@
+Lieutenant-General ISHFAQ NADEEM AHMAD (Urdu: اشفاق ندیم احمد) HI(M), is retired Pakistani army general who held command of the II Corps of the Pakistan Army.[1] He previously served as Chief of General Staff[2] and Director-General of Military Operations.[3]

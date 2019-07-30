@@ -1,0 +1,1 @@
+CAMPEONATO PARAENSE SECOND DIVISION is the second level of the Pará state professional football championship, one of the Brazilian state championships. This tournament is played by 10 teams, in which the two best teams are promoted to Campeonato Paraense.

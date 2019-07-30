@@ -1,0 +1,1 @@
+Tour_de_France_1907_map-fr.svg The 1908 Tour de France was the 5th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris on 13 July and Stage 7 occurred on 25 July with a flat stage to Nîmes. The race finished in Paris on 9 August.

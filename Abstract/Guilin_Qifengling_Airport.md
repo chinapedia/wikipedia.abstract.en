@@ -1,0 +1,1 @@
+GUILIN QIFENGLING AIRPORT is a military airport in Guilin, Guangxi, China. Built in 1958, the airport originally served all commercial traffic to Guilin. It was poorly equipped to handle the rapid increase in tourism to the city during the 1990s. As a result, Liangjiang International Airport was opened in 1996 and all commercial flights shifted to it.

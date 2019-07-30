@@ -1,0 +1,1 @@
+Cache is a memory which holds the recently utilized data by the processor. A block of memory cannot be placed randomly in the cache and is restricted to a single cache line[1] by the “Placement Policy[2][3]”. In other words, Placement Policy determines where a particular memory block can be placed when it goes into the cache.

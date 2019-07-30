@@ -1,0 +1,1 @@
+HAMPSHIRE (, ; postal abbreviation HANTS.) is a county on the southern coast of England. The county town is the city of Winchester. Its two largest cities, Southampton and Portsmouth, are administered separately as unitary authorities; the rest of the county is governed by Hampshire County Council.

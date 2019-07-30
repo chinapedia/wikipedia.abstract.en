@@ -1,0 +1,1 @@
+JULIANA HATFIELD (born July 27, 1967) is an American musician and singer-songwriter from the Boston area, formerly of the indie rock bands Blake Babies, The Juliana Hatfield Three, Some Girls,[1] and The Lemonheads.

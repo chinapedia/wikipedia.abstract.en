@@ -1,0 +1,1 @@
+FIRST NATIONAL BANK BUILDING commonly referred to as PENN TOWER is a low-rise commercial building located in downtown Williamsport, Pennsylvania. It was built in 1913 and at the time it was the tallest in the city and second tallest in the state.

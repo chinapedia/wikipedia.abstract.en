@@ -1,0 +1,1 @@
+CHARLES EDWARD KING (January 29, 1874 – February 27, 1950) was an educator, Hawaii territorial legislator, and a songwriter who is most widely known as the composer of "Ke Kali Nei Au". King was inducted into the Hawaiian Music Hall of Fame in 1995.[1]

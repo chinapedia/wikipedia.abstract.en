@@ -1,0 +1,1 @@
+The 1988 GREENLANDIC MEN'S FOOTBALL CHAMPIONSHIP was the 18th edition of the Greenlandic Men's Football Championship. The final round was held in Aasiaat. It was won by Kissaviarsuk-33 for the fifth time in its history.[1]

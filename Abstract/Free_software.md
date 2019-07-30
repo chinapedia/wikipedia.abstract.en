@@ -1,0 +1,1 @@
+Example of a modern free-software operating system running some representative applications. Shown are the Xfce desktop environment, the Firefox web browser, the Vim text editor, the GIMP image editor, and the VLC media player.

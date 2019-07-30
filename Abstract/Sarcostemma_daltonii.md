@@ -1,0 +1,1 @@
+_SARCOSTEMMA DALTONII_ is a species of flowering plants of the Apocynaceae family. The species is endemic to Cape Verde.[1] The specific name refers to Joseph Dalton Hooker. The species was named by Joseph Decaisne in 1849. Its local name is _gestiba_.[2] The plant is used in traditional medicine to relieve and treat dental problems.[3]

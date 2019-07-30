@@ -1,0 +1,1 @@
+LUDWIG JOSEF JOHANN WITTGENSTEIN (;[1] ; 26 April 1889 – 29 April 1951) was an Austrian philosopher who worked primarily in logic, the philosophy of mathematics, the philosophy of mind, and the philosophy of language.[2]

@@ -1,0 +1,1 @@
+ANNE DAY-HELVEG (12 November 1898 – 14 September 1975) was an Austrian dancer, dance teacher, and romance writer. One of her novels was made into a film titled _Liane, das Mädchen aus dem Urwald_ (Liane, Jungle Goddess). Her younger brother was the famous philosopher Karl Raimund Popper.[1]

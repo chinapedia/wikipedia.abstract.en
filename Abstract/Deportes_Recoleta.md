@@ -1,0 +1,1 @@
+CLUB DEPORTES RECOLETA is an association football club of Chile of the commune of Recoleta, situated in the town of Santiago. It is the current champion of the Tercera División B 2015 and at present contests the Tercera División A, fourth level of Chilean football.

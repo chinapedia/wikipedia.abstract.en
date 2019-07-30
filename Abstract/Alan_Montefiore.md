@@ -1,0 +1,1 @@
+ALAN CLAUDE ROBIN GOLDSMID MONTEFIORE (born 29 December 1926, London) is a British philosopher and Emeritus Fellow of Balliol College, Oxford.[1] He has been President of the Forum for European Philosophy;[2] Joint President of the Wiener Library, and a former Chair of Council of the Froebel Educational Institute.[3]

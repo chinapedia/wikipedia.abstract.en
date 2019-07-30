@@ -1,0 +1,1 @@
+This is a list of companies based in Redmond, Washington. Although Redmond is a metonym for Microsoft,[1][2] the city's largest employer,[3] it has many other businesses as well. Aerial_Microsoft_West_Campus_August_2009.jpg

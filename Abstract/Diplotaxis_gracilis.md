@@ -1,0 +1,1 @@
+_DIPLOTAXIS GRACILIS_ is a species of wall rockets that belong to the _Brassicaceae_ family. The species is endemic in Cape Verde and is listed as endangered by the IUCN.[1] The plant was named by Otto Eugen Schulz in 1916. The local name of the plant is _mostarda-brabo_ (wild mustard).[2]

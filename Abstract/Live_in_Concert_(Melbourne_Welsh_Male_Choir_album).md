@@ -1,0 +1,1 @@
+_LIVE IN CONCERT_ is a live album credited to Melbourne Welsh Male Choir with Judith Durham. The album was recorded in Melbourne Concert Hall in March 2002 under the direction of Doug Heywood with a 70-man Melbourne Welsh Choir and the 50-piece Camerata symphony orchestra. Excerpts of the concert were released on CD in September 2002.[1][2]

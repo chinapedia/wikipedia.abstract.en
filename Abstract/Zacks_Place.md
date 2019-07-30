@@ -1,0 +1,1 @@
+ZACKS PLACE SPORTS BAR & GRILL was the first ever sports bar located in Little Rock, Arkansas, launched in 1988. The restaurant is known for being 7th in the CNN top 101 Best Sports Bars in the U.S.[1]

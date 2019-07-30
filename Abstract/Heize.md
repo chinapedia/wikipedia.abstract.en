@@ -1,0 +1,1 @@
+JANG DA-HYE (; born August 9, 1991),[1][2] better known by her stage name HEIZE, is a South Korean singer, rapper, songwriter and composer signed to Stone Music Entertainment.[3] After making her debut in 2014 with the EP _Heize_, she gained attention after appearing on the second season of South Korean reality show _Unpretty Rapstar_.[4]

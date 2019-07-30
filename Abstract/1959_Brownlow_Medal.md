@@ -1,0 +1,1 @@
+The 1959 BROWNLOW MEDAL was the 32nd year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Bob Skilton of the South Melbourne Football Club and Verdun Howell of the St Kilda Football Club both won the medal by polling twenty votes during the 1959 VFL season.[2]

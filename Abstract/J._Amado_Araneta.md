@@ -1,0 +1,1 @@
+'''J. Amado Araneta ''' was a Filipino businessman. He was initially involved in sugar plantations, but invested in commercial real estate following the Second World War. He is best known for the development of the Araneta Center in Quezon City and for his influence in the Philippines both before and after the Second World War.

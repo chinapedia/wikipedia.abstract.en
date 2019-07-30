@@ -1,0 +1,1 @@
+Lajla_Mattsson_Magga_Tråante_2017.jpg LAJLA MATTSSON MAGGA (born 4 November 1942) is a Southern Sami teacher, children's writer and lexicographer. Married to fellow Sami linguist Ole Henrik Magga (born 1947), she lives in Kautokeino in the far northern Norwegian county of Finnmark.[1][2]

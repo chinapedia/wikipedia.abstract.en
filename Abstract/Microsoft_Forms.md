@@ -1,0 +1,1 @@
+MICROSOFT FORMS (formerly OFFICE FORMS) is an online survey creator, part of Office 365.[1] Released by Microsoft in June 2016, Forms allow educators to create surveys and quizzes with automatic marking.[2] The data can be exported to Microsoft Excel.[3]

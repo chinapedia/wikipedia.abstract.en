@@ -1,0 +1,1 @@
+RAHEENDUFF is a small hamlet situated between Oulart, Ballyedmond and Boolavogue in County Wexford, Ireland. It is in the Civil parish of Kilcormick, in the Barony of Ballaghkeen North and comprises 160.73 hectares.[1]

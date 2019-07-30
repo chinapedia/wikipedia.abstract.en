@@ -1,0 +1,1 @@
+This article is about the list of GRUPO DESPORTIVO SAGRADA ESPERANÇA players. G.D. Sagrada Esperança is an Angolan football (soccer) club based in Dundo, Lunda Norte, Angola and plays at Estádio Sagrada Esperança. The club was established in 1976.

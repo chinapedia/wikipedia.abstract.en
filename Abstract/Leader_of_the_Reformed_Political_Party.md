@@ -1,0 +1,1 @@
+SGP_logo.png

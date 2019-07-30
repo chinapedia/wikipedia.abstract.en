@@ -1,0 +1,1 @@
+ROBERT GORDIS (February 6, 1908 – 1992) was an American leading Conservative rabbi. He founded the first Conservative Jewish day school, served as President of the Rabbinical Assembly and the Synagogue Council of America, and was a professor at Jewish Theological Seminary of America from 1940 to 1992.

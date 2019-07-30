@@ -1,0 +1,1 @@
+"TI LASCERÒ" is a 1989 song composed by Franco Fasano, Fausto Leali, Franco Ciani, Fabrizio Berlincioni and Sergio Bardotti, arranged by Fio Zanotti and performed by Anna Oxa and Fausto Leali. The song won the 39th edition of the Sanremo Music Festival, and the duo Oxa-Leali was subsequently chosen to represent Italy at the Eurovision Song Contest 1989.[1][2]

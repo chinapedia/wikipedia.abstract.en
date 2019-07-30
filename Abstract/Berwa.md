@@ -1,0 +1,1 @@
+The BAIRWA (Bairwa) are a scheduled caste from Indian state Rajasthan. Their main occupations are animal husbandry and agriculture. They are small landowners in hadoti region of rajasthan . But mostly are agriculture laboures in other areas .

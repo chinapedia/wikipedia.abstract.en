@@ -1,0 +1,1 @@
+_NEPENTHES MINIMA_ is a tropical pitcher plant native to Central Sulawesi, Indonesia.[1] It grows in seasonally dry grasslands at elevations of 1000–1700 m above sea level, and has a number of adaptations to survive wildfires. It is the only pyrophytic _Nepenthes_ species known from outside Indochina and the Philippines.[2]

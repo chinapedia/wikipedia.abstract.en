@@ -1,0 +1,1 @@
+The QUANTUM COMMUNICATIONS HUB is a quantum technology research hub established as part of the UK National Quantum Technologies Programme. The hub is a consortium of 8 UK universities and 13 industrial partners, which received funding of £24m over a 5-year period.[1]

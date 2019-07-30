@@ -1,0 +1,1 @@
+_MONOCHAMUS SUBFASCIATUS_ is a species of beetle in the family Cerambycidae. It was described by Henry Walter Bates in 1873.[1] It is recorded from Japan where it infests Japanese red pine and is a vector of the nematode _Bursaphelenchus doui_.[2]

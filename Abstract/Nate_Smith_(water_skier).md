@@ -1,0 +1,1 @@
+NATE SMITH (born 29 November 1990) is an American professional water skier.[1] Skiing professionally since 2010, Smith is the current slalom world record holder, setting the record on May 14, 2017.[2] In addition to holding the world record, Smith has won eight major championships.

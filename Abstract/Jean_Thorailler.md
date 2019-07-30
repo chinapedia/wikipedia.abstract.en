@@ -1,0 +1,1 @@
+JEAN RAYMOND HENRI THORAILLER (7 January 1888 – 1956) was a French male water polo player. He was a member of the France men's national water polo team. He competed with the team at the 1912 Summer Olympics and 1920 Summer Olympics.[1] Thorailler was the flag bearer for France during the opening ceremony of the 1928 Summer Olympics in Amsterdam.

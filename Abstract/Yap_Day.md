@@ -1,0 +1,1 @@
+Yapese_women_dancers_in_traditional_dress_celebrating_Yap_Day.jpg YAP DAY is a legal holiday in Yap State, one of the four states of the Federated States of Micronesia (FSM), held annually on March 1.[1] It is a celebration of traditional Yapese culture. Common activities held during this time include competitions and traditional dances.

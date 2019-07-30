@@ -1,0 +1,1 @@
+YUN ZHU or WANGLAN YUN ZHU aka ADEPT OF THE LOTUS LAKE (29 July 1771 – 1 June 1833) was a Qing dynasty poet, painter, anthologist and moralist.[1] She gathered together thousands of poems written by hundreds of women.[2]

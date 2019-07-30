@@ -1,0 +1,1 @@
+RHTX is a small peptide toxin from _Scolopendra subspinipes mutilans_, also called the Chinese red-headed centipede. RhTx binds to the outer pore region of the temperature regulated TRPV1 ion channel, preferably in activated state, causing a downwards shift in the activation threshold temperature, which leads to the immediate onset of heat pain.[1]

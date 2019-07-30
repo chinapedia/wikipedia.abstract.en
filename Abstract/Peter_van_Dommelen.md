@@ -1,0 +1,1 @@
+PETER ALEXANDER RENÉ VAN DOMMELEN (born 1966, Terneuzen) is a Dutch archaeologist and academic, who specialises in the archaeology of the Western Mediterranean and Phoenician-Punic archaeology.[1][2] Since July 2015, he has been Director of the Joukowsky Institute for Archaeology and the Ancient World at Brown University.

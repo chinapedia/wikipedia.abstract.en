@@ -1,0 +1,1 @@
+_THE WORDS TO SAY IT_ was an autobiographical novel by Marie Cardinal, first published in French as _Les Mots pour le dire_ in 1976. The novel dealt with Cardinal's childhood in Algeria, her sense of loss on leaving, her relationship with her mother, mental illness, and recovery through psychoanalysis.[1]

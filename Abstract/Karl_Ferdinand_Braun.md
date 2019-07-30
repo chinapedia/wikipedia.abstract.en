@@ -1,0 +1,1 @@
+KF_Braun.png KARL FERDINAND BRAUN (6 June 1850 – 20 April 1918) was a German inventor, physicist and Nobel laureate in physics. Braun contributed significantly to the development of radio and television technology: he shared the 1909 Nobel Prize in Physics with Guglielmo Marconi "for their contributions to the development of wireless telegraphy".

@@ -1,0 +1,1 @@
+_MONOCHAMUS MUTATOR_, the SPOTTED PINE SAWYER,[1] is a species of beetle in the family Cerambycidae. It was described by John Lawrence LeConte in 1850. It is known from Canada and the United States.[2]

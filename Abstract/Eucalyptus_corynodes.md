@@ -1,0 +1,1 @@
+_EUCALYPTUS CORYNODES_ is a species of tree that is endemic in Queensland. It has hard, dark grey "ironbark", lance-shaped to curved adult leaves, flower buds usually on a branching inflorescence, the buds in groups of seven, white flowers and barrel-shaped to cup-shaped fruit.

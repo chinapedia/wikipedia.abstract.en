@@ -1,0 +1,1 @@
+MARGARET ASCHAM (_nee_ Harleston;  – ), was a sixteenth century English writer. Margaret was the daughter of Sir Clement Harleston. She was married to the humanist writer Roger Ascham, who was tutor to the young Elizabeth I.

@@ -1,0 +1,1 @@
+The MEN'S INDIVIDUAL TABLE TENNIS – CLASS 6 tournament at the 2016 SUMMER PARALYMPICS[1] in Rio de Janeiro took place from 7 to 18 September 2016 at Riocentro Pavilion 3. Classes 6–10 are for athletes with a physical impairment who compete from a standing position; the lower the number, the greater the impact the impairment has on an athlete’s ability to compete.

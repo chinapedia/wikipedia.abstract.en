@@ -1,0 +1,1 @@
+DEEPA SHREE NIRAULA is Nepalese actress, comedian, and radio personality best known for her role in the Nepali television serial _Tito Satya_.[1] She gained prominence among the Nepali audience after her well-known role of Dhaniya in the radio show _Dhaniya ko Duniya_.[2] She is the director of the highest grossing Nepali film franchise _Chhakka Panja_.

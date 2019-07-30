@@ -1,0 +1,1 @@
+'''Anneli Olsson ''' (born 7 February 1967) is a Swedish footballer who played as a midfielder for the Sweden women's national football team. She was part of the team at the 1995 FIFA Women's World Cup. On club level she played for Hammarby IF in Sweden.[1]

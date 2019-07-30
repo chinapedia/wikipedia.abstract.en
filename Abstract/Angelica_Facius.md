@@ -1,0 +1,1 @@
+ANGELICA FACIUS (1806 – 1887) was a German sculptor, gem engraver and medallist. Angelica_Facius_Maria_Pawlowna_1854.jpg]] Facius was born in Weimar and was educated at Weimar Princely Free Drawing School. Her works include several Portraits of Goethe and a bust of Grand Duke Karl Friedrich.[1]

@@ -1,0 +1,1 @@
+_GASTONE_ is a 1960 Italian comedy film co-written and directed by Mario Bonnard and starring Alberto Sordi, Anna Maria Ferrero and Vittorio De Sica. It is loosely based on the Ettore Petrolini's character and comedy play with the same name.[1][2]

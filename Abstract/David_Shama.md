@@ -1,0 +1,1 @@
+DAVID SHAMA (born February 3, 1977) is a Swiss photographer living in New York City. He is most known for his art and fashion work. David began taking photographs in 2005 and quickly gained recognition with his documentary style and narrative cinematic portraiture.

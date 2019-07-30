@@ -1,0 +1,1 @@
+_THE DAUGHTER OF THE HILLS_ is a lost[1] 1913 silent film historical drama directed by J. Searle Dawley and starring Laura Sawyer and Wellington Playter. Daniel Frohman and Adolph Zukor produced with distribution through the State Rights system.[2]

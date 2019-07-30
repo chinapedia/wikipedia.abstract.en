@@ -1,0 +1,1 @@
+LARRY LOUPOLOVER (born April 8, 1999) is a figure skater who competes for Azerbaijan. He has won four senior international medals and qualified to the free skate at the 2015 European Championships in Stockholm.

@@ -1,0 +1,1 @@
+The ENGLISH CHANNEL (, "The Sleeve"; , "Sleeve Channel"; , "Sea of Brittany"; ; , "British Sea"; , "The Channel"), also called simply THE CHANNEL, is the body of water that separates Southern England from northern France and links the southern part of the North Sea to the Atlantic Ocean. It is the busiest shipping area in the world.[1]

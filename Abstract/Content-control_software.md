@@ -1,0 +1,1 @@
+CONTENT-CONTROL SOFTWARE, commonly referred to as an INTERNET FILTER, is software that restricts or controls the content an Internet user is capable to access, especially when utilised to restrict material delivered over the Internet via the Web, e-mail, or other means. Content-control software determines what content will be available or be blocked.

@@ -1,0 +1,1 @@
+BUNDLE THEORY, originated by the 18th century Scottish philosopher David Hume, is the ontological theory about objecthood in which an object consists only of a collection (_bundle_) of properties, relations or tropes.

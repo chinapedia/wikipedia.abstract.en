@@ -1,0 +1,1 @@
+Major General ELBRIDGE GERRY CHAPMAN, JR. (20 November 1895 – 6 July 1954)[1] was a senior United States Army officer who served in both World War I and World War II.[2] During the latter he commanded the 13th Airborne Division,[3] but saw no action. General Chapman was portrayed in the television miniseries Band of Brothers by David Andrews.

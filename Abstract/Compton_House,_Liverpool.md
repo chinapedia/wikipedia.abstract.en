@@ -1,0 +1,1 @@
+Compton House is a grade II listed department store building located on Church Street in Liverpool, England. The building is noted as being one of the first purpose built department stores in Europe.[1] As of today it forms part of Liverpool's biggest retail areas centred around Church Street.[2]

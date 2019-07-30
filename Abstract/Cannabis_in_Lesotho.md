@@ -1,0 +1,1 @@
+CANNABIS IN LESOTHO is illegal for any use, but largely tolerated.[1] Cannabis is widely produced in the country, being the nation's most significant cash-crop.[2] In the 2000s it was estimated that 70% of the cannabis in South Africa originated in Lesotho.[3] In 2017 Lesotho became the first African nation to grant a license for the cultivation of medical cannabis.

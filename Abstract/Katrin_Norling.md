@@ -1,0 +1,1 @@
+KATRIN NORLING (born 4 April 1979 in Ödeshög, Sweden) is a Swedish Olympic eventing rider.[1][2] Representing Sweden, she competed at the 2008 Summer Olympics where she placed 4th in team and 18th in the individual eventing.

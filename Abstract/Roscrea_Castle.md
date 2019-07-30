@@ -1,0 +1,1 @@
+Roscrea_Castle_Plan_norm.png ROSCREA CASTLE is a 13th-century motte castle in the town of Roscrea, Ireland. The Castle consists of a walled courtyard, gate block, and angled towers. Along with 18th century Damer House and gardens, the Castle forms part of Roscrea Heritage Centre.[1][2]

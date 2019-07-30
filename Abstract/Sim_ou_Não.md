@@ -1,0 +1,1 @@
+"SIM OU NÃO" () is a song by Brazilian singer Anitta featuring Colombian singer Maluma, released on July 28, 2016 by Warner Music.[1] It was composed by Anitta, Umberto Tavares and Jefferson Junior, with additional lyrics in Spanish written by Maluma.[2] A Spanish version of the song, entitled "SÍ O NO" ("Yes or No"), was also recorded by the singer.[3]

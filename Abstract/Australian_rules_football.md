@@ -1,0 +1,1 @@
+AUSTRALIAN RULES FOOTBALL, officially known as AUSTRALIAN FOOTBALL,[1] or simply called AUSSIE RULES, FOOTBALL or FOOTY, is a contact sport played between two teams of eighteen players on an oval-shaped field, often a modified cricket ground. Points are scored by kicking the oval-shaped ball between goal posts (worth six points) or between behind posts (worth one point).

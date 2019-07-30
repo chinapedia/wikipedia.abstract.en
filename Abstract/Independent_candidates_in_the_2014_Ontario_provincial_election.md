@@ -1,0 +1,1 @@
+There were a number of INDEPENDENT CANDIDATES in the 2014 ONTARIO PROVINCIAL ELECTION, none of whom were elected. Some of these candidates have their own biography pages; information on others may be found here.

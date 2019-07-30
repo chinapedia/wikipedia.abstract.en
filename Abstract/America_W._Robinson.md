@@ -1,0 +1,1 @@
+AMERICA W. ROBINSON (January 1855 – 23 April 1912) was an African-American educator. Robinson was in the first graduating class of Fisk University and sang as a contralto with the Fisk Jubilee Singers. She was the first woman to graduate from Fisk University.[1]

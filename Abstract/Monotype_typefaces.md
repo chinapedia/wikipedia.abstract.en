@@ -1,0 +1,1 @@
+MONOTYPE FONTS were developed by the Monotype company. This name has been used by three firms. Two of them had their roots in "hot metal" or lead type in the printing industry. They could not adapt when the market changed as computer, offset and photographic systems became dominant. These were

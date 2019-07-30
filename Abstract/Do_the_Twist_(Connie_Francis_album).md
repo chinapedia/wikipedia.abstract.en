@@ -1,0 +1,1 @@
+_DO THE TWIST!_ is a studio album recorded in late 1961/early 1962 by U. S. Entertainer Connie Francis. It was released in early 1962 on MGM Records. Later that same year it was repackackaged and re-released under a new title, _Dance Party_.[1]

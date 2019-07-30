@@ -1,0 +1,1 @@
+LI RUIJUN (, born 1983) is a Chinese film director and screenwriter. A rising star of China's independent cinema, Li has made films, including _The Old Donkey_ (2010), _Fly with the Crane_ (2012) and _River Road_ (2014), which were nominated or won awards at various film festivals

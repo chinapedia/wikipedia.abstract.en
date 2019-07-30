@@ -1,0 +1,1 @@
+VillesavinKarte.jpg CHÂTEAU DE VILLESAVIN is a 16th-century country house in the Tour-en-Sologne commune in Loir-et-Cher, Centre-Val de Loire, France. The château is a designated historical monument of France. It is privately owned and contains several museums open to the public.

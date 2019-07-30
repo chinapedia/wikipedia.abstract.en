@@ -1,0 +1,1 @@
+SAFAR SHAKEYEV was a Kazakh filmmaker, director, screenwriter, producer and actor. He was born on 2 September 1991 in the city of Kokshetau of Kokshetau region. His father is composer and singer Yerkesh Shakeyev.

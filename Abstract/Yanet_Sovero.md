@@ -1,0 +1,1 @@
+YANET SOVERO (born May 2, 1983) is a Peruvian freestyle wrestler. She competed in the women's freestyle 58 kg event at the 2016 Summer Olympics, in which she was eliminated in the round of 16 by Jackeline Rentería.[1][2]

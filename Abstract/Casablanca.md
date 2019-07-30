@@ -1,0 +1,1 @@
+CASABLANCA (; ; local informal name: _Kaẓa_), located in the central-western part of Morocco and bordering the Atlantic Ocean, is the largest city in Morocco. It is also the largest city in the Maghreb region, as well as one of the largest and most important cities in Africa, both economically and demographically.

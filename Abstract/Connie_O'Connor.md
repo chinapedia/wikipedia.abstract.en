@@ -1,0 +1,1 @@
+CONLON CECIL O'CONNOR (February 21, 1923 – January 15, 2014) was an American professional basketball player and minor league baseball player.[1][2] He played in the National Basketball League for the Detroit Gems in 1946–47 and averaged 5.4 points per game.[3] In baseball, he played for the Newark Moundsmen in the Ohio State League in 1944 and 1945.[4]

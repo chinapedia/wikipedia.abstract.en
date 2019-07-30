@@ -1,0 +1,1 @@
+Ion_Vinokur.jpg ION (SRULIEVICH/ ISRAELIVICH) VINOKUR (4 July 1930 - 19 September 2006) was a Ukrainian archaeologist, historian, professor, academician, known for his research of Chernyakhiv (Chernyakhov) culture and the history of the ancient Slavs. Within his academic career he had written around 40 books and over 400 further scientific articles and materials.

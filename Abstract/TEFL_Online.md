@@ -1,0 +1,1 @@
+TEFL ONLINE is a teacher training certificate in Teaching English as a Foreign Language (TEFL) in the field of English language learning and teaching. A TEFL certificate prepares individuals at all experience levels to instruct students in English in the foreign language classroom. TEFL Online is one of various TEFL certificates available.

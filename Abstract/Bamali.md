@@ -1,0 +1,1 @@
+BAMALI village is one of the four villages that make up Ndop Central sub division and one of the thirteen villages of Ngoketunjia division of the North West region of Cameroon. Bamali village is located partly along the ring road from Bamenda some 40 km away from Bamenda town on the Bamenda-Nkambe stretch of the ring road just before reaching Bamunka (Ndop town).

@@ -1,0 +1,1 @@
+THE PRESIDENT'S EDUCATION AWARDS PROGRAM (PEAP) is awarded on behalf of the President of the United States and the United States Secretary of Education. PEAP was founded in 1983. The purpose of the program is to recognize American students in elementary, middle and high school for their educational achievements.

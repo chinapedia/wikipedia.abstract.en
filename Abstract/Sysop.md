@@ -1,0 +1,1 @@
+A SYSOP (; an abbreviation of SYSTEM OPERATOR) is an administrator of a multi-user computer system, such as a bulletin board system (BBS) or an online service virtual community.[1] The phrase may also be used to refer to administrators of other Internet-based network services.[2]

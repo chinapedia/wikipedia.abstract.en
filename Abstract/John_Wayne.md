@@ -1,0 +1,1 @@
+MARION MITCHELL MORRISON (born MARION ROBERT MORRISON;[1] May 26, 1907 – June 11, 1979), known professionally as JOHN WAYNE and nicknamed DUKE, was an American actor, filmmaker, and Presidential Medal of Freedom recipient.[2][3] He was among the top box office draws for three decades.[4][5]

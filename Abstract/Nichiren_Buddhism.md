@@ -1,0 +1,1 @@
+Nichiren_statue_Japan.jpg in the Honnoji Temple of Nichiren Shu in Teramachi Street, Kyoto, Japan]] Sugawara_Mitsushige_Lotus_Sutra,_01.jpg, which is highly revered in Nichiren Buddhism. From the Kamakura period, circa 1257. Ink, color, and gold leaf on paper.]]

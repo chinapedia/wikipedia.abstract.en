@@ -1,0 +1,1 @@
+NIASONY OKOMO (born 1973) is a Congolese singer, model and dancer born ALEXANDRINE SEVERINE NIASONY OKOMO in Republic of the Congo. Known for her smooth voice and message-based music, she currently lives and works in Germany.[1]

@@ -1,0 +1,1 @@
+HUHN-HARRISON HOUSE is a historic home located at Cape Girardeau, Missouri. It was built in 1905-1906, and is a 1 1/2-story, free classic Queen Anne style brick dwelling. It features a wrap-around porch with classical columns for porch supports and a rounded corner.[1]

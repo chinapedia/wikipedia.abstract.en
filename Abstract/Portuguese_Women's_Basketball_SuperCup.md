@@ -1,0 +1,1 @@
+The PORTUGUESE WOMEN'S BASKETBALL SUPERCUP is the Final between winner Championship and winner/finalist of the Portuguese Cup, which is also called (Portuguese: "Supertaça de Portugal de Basquetebol Feminino") and it is organized by the FPB (Portuguese: Federação Portuguesa de Basquetebol)

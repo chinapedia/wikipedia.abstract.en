@@ -1,0 +1,1 @@
+_THE RHYTHM & THE TIDE_ _(Liverpool, The La's And Ever After)_ is the title of the 2015 book chronicling the early years of band The La's and the City of Liverpool in the 1980s, as well as being an autobiography of Mike Badger's life and career.[1] Co-written by Tim Peacock the book was released October 16, 2015 in Liverpool.[2]

@@ -1,0 +1,1 @@
+GIRLYBOI are an American folk pop duo originally from Chicago, Illinois. Formed in 2015, Girlyboi started recording and performing in Europe as an "act of love".[1] After releasing three singles - "Actual Woman", "Whole", and "Bedside", Girlyboi released its debut EP, _Actual Woman_, on December 17, 2015 at Rough Trade Records in New York City.[2][3]

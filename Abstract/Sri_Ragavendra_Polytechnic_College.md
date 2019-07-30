@@ -1,0 +1,1 @@
+SRI RAGAVENDRA POLYTECHNIC COLLEGE was established in the year 1997 at Komarapalayam, Namakkal, Tamil Nadu, India. It is an ISO 9001:2015 CERTIFIED INSTITUTION. It is affiliated to All India Council for Technical Education (New Delhi) & Directorate of Technical Education (Tamil Nadu).

@@ -1,0 +1,1 @@
+In mathematics and computing, HEXADECIMAL (also BASE 16, or HEX) is a positional numeral system with a radix, or base, of 16. It uses sixteen distinct symbols, most often the symbols "0"–"9" to represent values zero to nine, and "A"–"F" (or alternatively "a"–"f") to represent values ten to fifteen.

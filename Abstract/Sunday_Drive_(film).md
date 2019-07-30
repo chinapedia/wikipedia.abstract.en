@@ -1,0 +1,1 @@
+_SUNDAY DRIVE_ is a 1986 American made-for-television family comedy film produced by Walt Disney Television starring Tony Randall, Carrie Fisher, Audra Lindley and Ted Wass. The film originally premiered as part of _The Disney Sunday Movie_ on ABC on November 30, 1986.

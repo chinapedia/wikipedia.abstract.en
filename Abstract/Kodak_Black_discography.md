@@ -1,0 +1,1 @@
+The discography of American hip hop recording artist Kodak Black consists of two studio album, seven mixtapes and twenty singles (including six singles as a featured artist), and eighteen music videos. His highest charting song is "Zeze", which debuted and peaked at number 2, becoming Black's second top 10 hit on the US _Billboard_ Hot 100.

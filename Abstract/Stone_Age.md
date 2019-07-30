@@ -1,0 +1,1 @@
+Ggantija_Temples,_Xaghra,_Gozo.jpg temples in Gozo, Malta, some of the world's oldest free-standing structures]] The STONE AGE was a broad prehistoric period during which stone was widely used to make implements with an edge, a point, or a percussion surface. The period lasted roughly 3.4 million years[1] and ended between 8700 BCE and 2000 BCE with the advent of metalworking.

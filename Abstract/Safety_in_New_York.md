@@ -1,0 +1,1 @@
+"SAFETY IN NEW YORK" is the first episode of the third series of the 1990s British comedy television series _Jeeves and Wooster_.[1] It is also called "Bertie Sets Sail". It first aired in the UK on on ITV.

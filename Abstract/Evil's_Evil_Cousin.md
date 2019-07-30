@@ -1,0 +1,1 @@
+_EVIL'S EVIL COUSIN_ is a 2016 short film, written and directed by Richard Peter Hunter. It stars Lionel Blair as The Dapper Man, a singing and dancing character who serves as the narrator of the film and Jonathan Hansler as Pastor Bob, a preacher who is struggling with religion and has his faith tested by God.

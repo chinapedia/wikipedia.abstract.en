@@ -1,0 +1,1 @@
+GESTATION is the period of development during the carrying of an embryo or fetus inside viviparous animals.[1] It is typical for mammals, but also occurs for some non-mammals. Mammals during pregnancy can have one or more gestations at the same time for example in a multiple birth.

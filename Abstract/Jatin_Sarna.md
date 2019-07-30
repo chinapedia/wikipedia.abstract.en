@@ -1,0 +1,1 @@
+JATIN SARNA (born 2 November 1984) is an Indian film [1] and theatre actor, as well as stage director, best known for his work in _Meeruthiya Gangsters_,[2] _Saat Uchakkey_,[3] _Oass_, _Chor Chor Super Chor_, and _O Teri_. He appears in _Sacred Games_, an original Netflix series directed by Vikramaditya Motwane and Anurag Kashyap.[4]

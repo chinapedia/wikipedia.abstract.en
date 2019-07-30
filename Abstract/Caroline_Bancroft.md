@@ -1,0 +1,1 @@
+Caroline_Bancroft.jpeg CAROLINE BANCROFT (1900–1985) was a journalist and performed in the Ziegfeld Follies.[1] She is known for the books and booklets that she wrote about Colorado's history and its pioneers.[2][3] In 1990, she was inducted into the Colorado Women's Hall of Fame.[4]

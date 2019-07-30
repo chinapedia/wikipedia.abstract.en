@@ -1,0 +1,1 @@
+AUGUSTE AUDOLLENT (14 July 1864 – 7 April 1943) was a French historian, archaeologist and Latin epigrapher, specialist of ancient Rome, in particular the magical inscriptions (_tabellæ defixionum_). His main thesis was devoted to _Roman Carthage_.

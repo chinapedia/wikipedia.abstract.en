@@ -1,0 +1,1 @@
+ElezioneBrunate.jpg PARTY-LIST PROPORTIONAL REPRESENTATION systems are a family of voting systems emphasizing proportional representation (PR) in elections in which multiple candidates are elected (e.g., elections to parliament) through allocations to an electoral list. They can also be used as part of mixed additional member systems.[1]

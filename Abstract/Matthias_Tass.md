@@ -1,0 +1,1 @@
+MATTHIAS TASS (born 23 March 1999) is an Estonian college basketball player for Saint Mary's College in the United States. He has played for TTÜ of the Korvpalli Meistriliiga and the Baltic Basketball League. Before joining TTÜ in December 2017 he played for Kalev/Cramo.[1] He is a 2.08 m (6 ft 10 in) tall power forward. He has signed with St. Mary's in the West Coast Conference.

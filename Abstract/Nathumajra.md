@@ -1,0 +1,1 @@
+NATHUMAJRA is a village located in Malerkotla Tehsil of Sangrur district in Punjab, India. It is situated away from sub-district headquarter Malerkotla and away from district headquarter Sangrur. As per 2016 stats, Nathu Majra village is also a gram panchayat.[1]

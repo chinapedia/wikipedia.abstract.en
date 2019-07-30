@@ -1,0 +1,1 @@
+CLAYTON WESLEY UNITING CHURCH, formerly CLAYTON CONGREGATIONAL CHURCH, is a church building in Beulah Park, South Australia (historically located in Kensington), located on Portrush Road, in a commanding position at the eastern end of The Parade, Norwood.

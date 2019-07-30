@@ -1,0 +1,1 @@
+OBERLAND (), meaning "upper land," is one of the two electoral districts of Liechtenstein.[1] It corresponds to the historic County of Vaduz (), and the administrative seat is the city of Vaduz, the national capital. It has 15 seats in the Landtag.

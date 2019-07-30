@@ -1,0 +1,1 @@
+MAY HARTLEY (née LAFFAN) (3 May 1849 – 23 June 1916) was an Irish realist writer who wrote about Dublin society in the nineteenth century and was considered a pioneer of “slum fiction” in an Irish setting.[1]

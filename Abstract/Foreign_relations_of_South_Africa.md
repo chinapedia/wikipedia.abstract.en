@@ -1,0 +1,1 @@
+The FOREIGN RELATIONS OF SOUTH AFRICA have spanned from the country's time as Dominion of the British Empire to its isolationist policies under Apartheid to its position as a responsible international actor taking a key role in Africa, particularly Southern Africa.

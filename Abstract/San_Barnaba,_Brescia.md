@@ -1,0 +1,1 @@
+San_Barnaba_dettaglio_portale_Brescia.jpg SAN BARNABA is a deconsecrated Baroque-style, Roman Catholic church, located on Corso Magenta #44, near Piazzale Arnaldo, in Brescia, region of Lombardy, Italy. The church in the 20th century became an auditorium (Auditorium San Barnaba) and conference hall, and home of the Conservatorio Luca Marenzio.

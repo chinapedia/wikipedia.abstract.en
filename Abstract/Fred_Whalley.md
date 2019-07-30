@@ -1,0 +1,1 @@
+FREDERICK HOWARD WHALLEY (8 October 1898 – 25 April 1976) was an English professional football goalkeeper who played in the Football League for Leeds United, Grimsby Town, Preston North End and Fulham.[1]

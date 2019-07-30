@@ -1,0 +1,1 @@
+'''Kye Yong-sun ''' (born 27 March 1972) is a North Korean women's international footballer who plays as a goalkeeper. She is a member of the North Korea women's national football team. She was part of the team at the 1999 FIFA Women's World Cup.[1]

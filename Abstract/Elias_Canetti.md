@@ -1,0 +1,1 @@
+ELIAS CANETTI (;[1] ; 25 July 1905 – 14 August 1994) was a German-language author, born in Ruse, Bulgaria to a merchant family. They moved to Manchester, England, but his father died in 1912, and his mother took her three sons back to the continent. They settled in Vienna.

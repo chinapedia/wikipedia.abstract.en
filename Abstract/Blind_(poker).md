@@ -1,0 +1,1 @@
+Texas_Hold'em_Poker_Table_with_Blinds.svg The BLINDS are forced bets posted by players to the left of the dealer button in flop-style poker games. The number of blinds is usually two, but it can range from none to three.

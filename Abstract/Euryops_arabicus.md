@@ -1,0 +1,1 @@
+_EURYOPS ARABICUS_ is a species of flowering plant in the Asteraceae family that grows in the form of a bush. It is found on the Arabian Peninsula, Socotra, Somalia and Djibouti. Its natural habitat is subtropical or tropical dry shrubland.

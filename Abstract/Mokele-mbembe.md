@@ -1,0 +1,1 @@
+Mokele-mbembe_ill_artlibre_jnl.png In Congo River Basin mythology, MOKELE-MBEMBE (Lingala: , "one who stops the flow of rivers"[1]) is a water-dwelling entity, sometimes described as a living creature, sometimes as a spirit.

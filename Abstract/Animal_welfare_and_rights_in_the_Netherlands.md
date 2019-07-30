@@ -1,0 +1,1 @@
+ANIMAL WELFARE AND RIGHTS IN THE NETHERLANDS is about the treatment of and laws concerning non-human animals in the Netherlands. The Netherlands has moderately strong animal protections by international standards.[1]

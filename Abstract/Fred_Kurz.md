@@ -1,0 +1,1 @@
+FREDERICK J. KURZ (3 September 1918 – 28 November 1978)[1] was an English retired professional footballer who played as a forward. He made 148 appearances in the English Football League for Crystal Palace and also played for Grimsby Town. He concluded his career in non-league football with Boston United F.C..

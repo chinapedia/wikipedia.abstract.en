@@ -1,0 +1,1 @@
+Poultry_of_the_world.jpg POULTRY () are domesticated birds kept by humans for their eggs, their meat or their feathers. These birds are most typically members of the superorder Galloanserae (fowl), especially the order Galliformes (which includes chickens, quails, and turkeys).

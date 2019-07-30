@@ -1,0 +1,1 @@
+SAM LEUII (born 4 June 1969) is a retired professional boxer from New Zealand. In his career he has held the IBF Pan Pacific Title and has fought for the Commonwealth title.[1] Leuii is also a two time New Zealand professional National Champion and a five time New Zealand Amateur National Champion.

@@ -1,0 +1,1 @@
+_LOVE DUETS_ is a 2014 classical and crossover album that features the American opera singers Stephen Costello (tenor) and Ailyn Perez (soprano). Released on Warner Classics, the BBC Symphony Orchestra and conductor Patrick Summers accompany Costello and Perez,[1][2][3] who were married at the time of the album.

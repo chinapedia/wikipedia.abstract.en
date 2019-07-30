@@ -1,0 +1,1 @@
+PHILOSOPHY OF RELIGION is "the philosophical examination of the central themes and concepts involved in religious traditions".[1] Philosophical discussions on such topics date from ancient times, and appear in the earliest known texts concerning philosophy. The field is related to many other branches of philosophy, including metaphysics, epistemology, and ethics.[2]

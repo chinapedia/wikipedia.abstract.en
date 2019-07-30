@@ -1,0 +1,1 @@
+The PORSCHE 356 is a sports car which was first produced by Austrian company Porsche Konstruktionen GesmbH (1948–1949), and then by German company Dr. Ing. h. c. F. Porsche GmbH (1950–1965). It was Porsche's first production automobile. Earlier cars designed by the Austrian company include Cisitalia Grand Prix race car, the Volkswagen Beetle, and Auto Union Grand Prix cars.

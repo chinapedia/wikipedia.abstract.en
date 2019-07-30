@@ -1,0 +1,1 @@
+BOUDICA or BOUDICCA (; also BOADICEA or BOUDICEA , and known in Welsh as )[1][2] was a queen of the British Celtic Iceni tribe who led an uprising against the occupying forces of the Roman Empire in AD 60 or 61. She died shortly after its failure and was said to have poisoned herself. She is considered a British folk hero.[3]

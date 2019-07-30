@@ -1,0 +1,1 @@
+WUHAN CHOW TAI FOOK FINANCE CENTRE () is a megatall skyscraper under construction in the business district of Wuhan, Hubei province, China.[1] The tower was originally set to be China's tallest, surpassing Shanghai Tower when completed in 2022, but its height is later reduced to 475 meters.[2]

@@ -1,0 +1,1 @@
+Bundesarchiv_B_145_Bild-F031748-0006,_Frankfurt-Main,_Kenneth_Kaunda_bei_Hoechst.jpg, West Germany in 1970]] KENNETH DAVID BUCHIZYA KAUNDA (born 28 April 1924),[1] also known as KK, is a Zambian former politician who served as the first President of Zambia from 1964 to 1991.

@@ -1,0 +1,1 @@
+MARY TYLER MOORE (December 29, 1936 – January 25, 2017) was a noted American stage, film and television actress, as well as a producer and social advocate. She was widely known for her prominent television sitcom roles in _The Dick Van Dyke Show_ (1961–1966) and _The Mary Tyler Moore Show_ (1970–1977).[1][2][3][4]

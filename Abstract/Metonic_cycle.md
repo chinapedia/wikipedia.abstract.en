@@ -1,0 +1,1 @@
+CLM_14456_70v71r.jpg (Clm 14456, fol. 71r)]] Christmas_full_moons_1711-2300.gif between 1711 and 2300.[1][2] A small horizontal libration is visible comparing their appearances. A red color shows full moons that are also lunar eclipses.]]

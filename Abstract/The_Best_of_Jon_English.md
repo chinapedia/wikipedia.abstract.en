@@ -1,0 +1,1 @@
+_THE BEST OF JON ENGLISH_ is a compilation album released in Australian by RCA Records/BMG. The album was released in May 1993, celebrating the 20th anniversary of his first solo album, _Wine Dark Sea_. The album peaked at number 68 on the Australian ARIA Charts.

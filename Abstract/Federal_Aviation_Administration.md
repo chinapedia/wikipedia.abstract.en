@@ -1,0 +1,1 @@
+border | logo_width = 200 | logo_caption = Flag of the Federal Aviation Administration | seal = US-FederalAviationAdmin-Seal.svg | seal_width = 200 | seal_caption = Seal of the Federal Aviation Administration | formed = | preceding1 = Civil Aeronautics Administration | jurisdiction = U.S. federal government | headquarters = Orville Wright Federal Building

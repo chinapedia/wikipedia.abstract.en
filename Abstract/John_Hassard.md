@@ -1,0 +1,1 @@
+JOHN HASSARD (born 1953 Manchester, UK) is a British social scientist specialising in organization theory. He is known for conducting a ‘multiple paradigm’ (multiple theory and method) case study investigation in organizational research.[1]

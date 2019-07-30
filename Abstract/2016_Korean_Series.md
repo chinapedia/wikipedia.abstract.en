@@ -1,0 +1,1 @@
+The 2016 KOREAN SERIES was the championship series of the 2016 KBO League season. The Doosan Bears, as the regular season champions, automatically advanced to the Korean Series.[1] They played against the winner of the playoff series, the NC Dinos, who defeated the LG Twins.[2][3]

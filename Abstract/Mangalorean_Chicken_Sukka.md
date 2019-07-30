@@ -1,0 +1,1 @@
+Chicken_Sukka_Mangalorean_Cusine.JPG MANGALOREAN CHICKEN SUKKA or KORI SUKKA/KORI AJADINA(Tulu) is an Indian Dish of Chicken native to Mangalore and Udupi region. "Kori Sukka" literally means "Chicken Semi-Dry gravy" in Tulu, sometimes also called as "_Kori Ajadina_". However it can be prepared in two variations Dry and semi gravy.[1]

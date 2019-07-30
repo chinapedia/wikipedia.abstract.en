@@ -1,0 +1,1 @@
+MUḤAMMAD IBN AL-QĀSIM AL-THAQAFĪ (691/96–715 CE) was a general of the Umayyads, noted for leading the Arabic conquest of Sind. He is one of the main characters of the _Chach Nama_, which is in turn the main source for his life.

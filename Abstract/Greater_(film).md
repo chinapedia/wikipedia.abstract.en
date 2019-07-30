@@ -1,0 +1,1 @@
+_GREATER_ is a 2016 American biographical sports film directed by David Hunt and starring Christopher Severio as American football player Brandon Burlsworth.[1][2] The film was released on August 26, 2016.[3]

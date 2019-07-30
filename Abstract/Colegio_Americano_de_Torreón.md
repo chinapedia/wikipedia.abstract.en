@@ -1,0 +1,1 @@
+COLEGIO AMERICANO DE TORREÓN, A.C. (CAT) or the AMERICAN SCHOOL OF TORREÓN is an American international school in Torreón, Coahuila, Mexico.[1] It serves grade levels K-12.[2] it has over 1300 students.[3]

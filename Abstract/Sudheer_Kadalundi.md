@@ -1,0 +1,1 @@
+SUDHEER KADALUNDI is a traditional Indian musician, best known for setting world records for his marathon performances of the tabla. He played the tabla non-stop for 10 hours on June 14, 2003, and for 13 hours on August 15, 2004. He then beat his own record by playing for 56 hours in 2005,[1][2] then for 102 hours and 45 minutes in 2008.[3]

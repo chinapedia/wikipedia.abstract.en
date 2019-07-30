@@ -1,0 +1,1 @@
+_AQUIMARINA INTERMEDIA_ is a Gram-negative, heterotrophic, aerobic bacterium from the genus of Aquimarina which has been isolated from the sea urchin Strongylocentrotus intermedius from the Peter the Great Gulf in Russia.[1][2][3][4]

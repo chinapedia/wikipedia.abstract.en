@@ -1,0 +1,1 @@
+JAIME R. HARRISON (born February 5, 1976) is an American politician who served as the chair of the South Carolina Democratic Party from 2013 to 2017, and is an associate chairman of the Democratic National Committee.

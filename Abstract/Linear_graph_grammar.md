@@ -1,0 +1,1 @@
+In computer science, a LINEAR GRAPH GRAMMAR (also a CONNECTION GRAPH REDUCTION SYSTEM or a PORT GRAPH GRAMMAR[1]) is a class of graph grammar on which nodes have a number of ports connected together by edges and edges connect exactly two ports together. Interaction nets are a special subclass of linear graph grammars in which rewriting is confluent.

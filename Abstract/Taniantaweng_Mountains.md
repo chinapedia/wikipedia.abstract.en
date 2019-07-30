@@ -1,0 +1,1 @@
+TANIANTAWENG SHAN is a mountain range in the Tibet Autonomous Region of China, near the border with Qinghai. Its elevation is .[1] It lies approximately from Lhasa[2] and approximately from Beijing.[3]

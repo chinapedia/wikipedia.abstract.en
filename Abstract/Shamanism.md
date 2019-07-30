@@ -1,0 +1,1 @@
+SHAMANISM is a practice that involves a practitioner reaching altered states of consciousness in order to perceive and interact with what they believe to be a spirit world and channel these transcendental energies into this world.[1]

@@ -1,0 +1,1 @@
+CHARLES PIERRE DE FRÉDY, BARON DE COUBERTIN (; born PIERRE DE FRÉDY; 1 January 1863 – 2 September 1937, also known as Pierre de Coubertin and Baron de Coubertin) was a French educator and historian, founder of the International Olympic Committee, and its second President. He is known as the father of the modern Olympic Games.

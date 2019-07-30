@@ -1,0 +1,1 @@
+JUAN MANUEL GONZÁLEZ MASCÍAS (born February 14, 1952) better known as MIKI GONZÁLEZ, is a Peruvian musician, composer, and producer born in Madrid, Spain.[1] He is recognized as one of the musical icons of the twentieth century, and his songs (such as "Akundún", "Dímelo, Dímelo" and "Vamos a Tocahe) are frequently ranked among the best songs in popular music peruvian history.[2]

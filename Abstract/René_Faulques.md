@@ -1,0 +1,1 @@
+RENÉ FAULQUES (14 December 1924 – 6 November 2011[1]), known as RENÉ FAULQUES, was a French Army Colonel, a graduate of the École spéciale militaire de Saint-Cyr, a paratrooper officer of the French Foreign Legion, and a mercenary.

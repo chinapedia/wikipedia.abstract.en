@@ -1,0 +1,1 @@
+GERARD RONALD VAUGHAN (born 27 September 1953) is an Australian art historian and curator. He was director of the National Gallery of Victoria from 1999 to 2012, and was director of the National Gallery of Australia from 2014 to 2018.

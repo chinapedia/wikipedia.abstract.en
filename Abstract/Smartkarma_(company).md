@@ -1,0 +1,1 @@
+SMARTKARMA is a FinTech company servicing the global asset management industry. It owns and operates a digital marketplace that provides investment insight into Asian markets. Smartkarma is currently the world’s only investment research provider to offer a streaming service.[1]

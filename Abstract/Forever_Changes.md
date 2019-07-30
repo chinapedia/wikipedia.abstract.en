@@ -1,0 +1,1 @@
+_FOREVER CHANGES_ is the third studio album by the American psychedelic rock band Love.[1] It was released by Elektra Records in November 1967 and would be the final album by the original band, as subsequent albums featured leader Arthur Lee backed by a variety of new players.

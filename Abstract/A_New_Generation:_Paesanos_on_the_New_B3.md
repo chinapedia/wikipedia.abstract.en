@@ -1,0 +1,1 @@
+_A NEW GENERATION: PAESANOS ON THE NEW B3_ is an album by jazz organist Tony Monaco in collaboration with Joey DeFrancesco. The album was released in 2003 on Summit Records and was produced by Monaco, DeFrancesco, and Kip Sullivan. _A New Generation_ reached #18 on _Jazzweek's Top 100_ in 2003. [1]

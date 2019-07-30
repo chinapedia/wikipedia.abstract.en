@@ -1,0 +1,1 @@
+NIRVANA are an English pop rock band, formed in London, England in 1965.[1][2] Though the band achieved only limited commercial success, they were acclaimed both by music industry professionals and by critics.[3] In 1985, the band reformed. The members of the original Nirvana took Kurt Cobain to court over the name, eventually reaching a settlement.

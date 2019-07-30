@@ -1,0 +1,1 @@
+YENISEY RAILWAY STATION (Russian: ) is a railway station on the Krasnoyarsk Railway in Krasnoyarsk. It is located on the Trans-Siberian Railway, east of Moscow and east of Krasnoyarsk Railway station.

@@ -1,0 +1,1 @@
+THOMAS R. HILLS (born February 10, 1939) is an American former politician. He has served as a Republican member for the 31st district in the South Dakota House of Representatives from 2005 to 2008.[1][2][3]

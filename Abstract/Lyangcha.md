@@ -1,0 +1,1 @@
+LYANGCHA or LANGCHA or LEMCHA () is an Indian sweet dish prepared in Jharkhand, West Bengal, Odisha, Assam and in the eastern regions of India. It is made from flour and milk powder by frying it and dipping it into sugar syrup for a long time. The origin of the Bengali sweet is in Bardhaman, West Bengal, India.

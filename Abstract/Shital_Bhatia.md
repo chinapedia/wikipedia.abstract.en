@@ -1,0 +1,1 @@
+SHITAL BHATIA is an Indian film producer and co-founder of Friday Filmworks,[1] best known for his movies like _A Wednesday!_ (2008), _Special 26_ (2013), _Baby_ (2015), _M.S. Dhoni: The Untold Story_ (2016), _Rustom_ (2016) and _Toilet: Ek Prem Katha_ (2017).

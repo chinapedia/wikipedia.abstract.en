@@ -1,0 +1,1 @@
+POZNAŃ WOLA RAILWAY STATION is a railway station serving the city of Poznań, in the Greater Poland Voivodeship, Poland. The station opened in 1902 and is located on the Poznań–Szczecin railway. The train services are operated by Przewozy Regionalne.

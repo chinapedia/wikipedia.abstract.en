@@ -1,0 +1,1 @@
+Sophiapolder_Oostburg_Oktober_2016_02.jpg Bonnekaart_-_Sophiapolder_(Zeeuws-Vlaanderen).PNG The SOPHIA POLDER is a polder to the south of Oostburg. It is one of a group of polders in the Ottevaere en Van Damme polder complex. A refuge for water birds, it has been a designated nature reserve since 2006.[1]

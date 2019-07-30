@@ -1,0 +1,1 @@
+SUSAN FUNAYA IDEH (born 5 May 1987) is a Nigerian female badminton player.[1] She competed at the 2010 Commonwealth Games in New Delhi, India.[2] In 2015, she won the women's singles gold at the All-Africa Games In Maputo, Mozambique.[3]

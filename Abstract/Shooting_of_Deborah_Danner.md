@@ -1,0 +1,1 @@
+DEBORAH DANNER, 66, was fatally shot by New York Police Department Sgt. Hugh Barry on October 18, 2016, in her home in the Bronx, New York. According to police sources, she was armed with first a pair of scissors and then a baseball bat. According to an emergency medical technician, she had put the scissors down, and never picked up a baseball bat.

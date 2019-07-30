@@ -1,0 +1,1 @@
+RAYNARD VAN TONDER (born 26 September 1998) is a South African cricketer.[1] He made his first-class debut for Free State in the 2016–17 Sunfoil 3-Day Cup on 6 October 2016.[2] He made his List A debut for Free State in the 2016–17 CSA Provincial One-Day Challenge on 9 October 2016.[3] He made his Twenty20 debut for Free State in the 2017 Africa T20 Cup on 8 September 2017.[4]

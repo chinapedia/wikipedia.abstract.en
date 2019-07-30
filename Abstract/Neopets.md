@@ -1,0 +1,1 @@
+_NEOPETS_ (originally stylized _NEOPETS,_ and currently _NEOPETS_) is a virtual pet website. Users can own virtual pets ("Neopets"), and buy virtual items for them using one of two virtual currencies. One currency, called Neopoints, can be earned within the site, and the other, Neocash, can either be purchased with real-world money, or won by chance in-game.

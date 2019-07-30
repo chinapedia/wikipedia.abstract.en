@@ -1,0 +1,1 @@
+The 2016 SWISS INDOORS was a men's tennis tournament played on indoor hard courts. It was the 47th edition of the event, and part of the 500 series of the 2016 ATP World Tour. It was held at the St. Jakobshalle in Basel, Switzerland, from 24 October through 30 October 2016. Marin Čilić won the singles title.

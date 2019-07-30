@@ -1,0 +1,1 @@
+The KUWAIT MILITARY FORCES consists of several joint forming defense forces. The governing bodies are the Kuwait Ministry of Defense,[1] the Kuwait Ministry of Interior,[2] the Kuwait National Guard[3] and the Kuwait Fire Service Directorate.[4] The Emir of Kuwait is the commander-in-chief of all defense forces and the Crown Prince is the deputy commander.

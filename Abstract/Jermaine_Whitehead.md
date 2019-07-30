@@ -1,0 +1,1 @@
+JERMAINE RASHEED WHITEHEAD (born March 12, 1993) is an American football free safety for the Cleveland Browns of the National Football League (NFL). He played college football at Auburn, and was signed by the San Francisco 49ers as an undrafted free agent in 2015. He has also been a member of the Baltimore Ravens and Green Bay Packers.

@@ -1,0 +1,1 @@
+_LOVE IT OR LIST IT_ is a television franchise of television programs created by Maria Armstrong and Catherine Fogarty. Each series follows a format, with a current homeowning couple or family to deciding between keeping their newly renovated current home (known on the show as "Love It") or buying a new home and selling their current one (known on the show as "List It").

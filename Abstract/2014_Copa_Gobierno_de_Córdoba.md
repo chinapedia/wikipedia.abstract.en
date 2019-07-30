@@ -1,0 +1,1 @@
+The 2014 COPA GOBIERNO DE CÓRDOBA was a professional tennis tournament played on clay courts. It is the only edition of the tournament which was part of the 2014 ATP Challenger Tour. It took place in Córdoba, Argentina between 20 and 26 October 2014.

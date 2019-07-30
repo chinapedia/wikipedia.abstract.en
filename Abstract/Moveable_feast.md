@@ -1,0 +1,1 @@
+Moveable Feast}} A MOVEABLE FEAST or MOVABLE FEAST is an observance in a Christian liturgical calendar that occurs on a different date (relative to the dominant civil or solar calendar) in different years.[1]

@@ -1,0 +1,1 @@
+JOHN JACOB ASTOR (born JOHANN JAKOB ASTOR; July 17, 1763 – March 29, 1848) was a German–American businessman, merchant, real estate mogul and investor who mainly made his fortune in fur trade and by investing in real estate in or around New York City.

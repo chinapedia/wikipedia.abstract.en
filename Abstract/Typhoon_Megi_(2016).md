@@ -1,0 +1,1 @@
+Typhoon Megi|the 2016 typhoon}} TYPHOON MEGI (), known in the Philippines as TYPHOON HELEN, was a large and powerful tropical cyclone which affected Taiwan and eastern China in late September 2016. It is the seventeenth named storm and the seventh typhoon of the annual typhoon season.

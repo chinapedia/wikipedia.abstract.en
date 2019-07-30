@@ -1,0 +1,1 @@
+HANS KARL PETERLINI (born 12 March 1961) is an author, journalist, university professor and educational researcher originally from South Tyrol (Südtirol/Alto Adige), an autonomous, mostly German speaking province in Northern Italy.[1][2][3]

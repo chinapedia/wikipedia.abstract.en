@@ -1,0 +1,1 @@
+_AACHENER ZEITUNG_ (lit. Aachen Newspaper, AZ) is a daily newspaper published in Aachen, Germany. It is printed, alongside the daily _Aachener Nachrichten_ (AN), by the Zeitungsverlag Aachen in the Rhenish format.

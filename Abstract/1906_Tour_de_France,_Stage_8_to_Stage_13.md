@@ -1,0 +1,1 @@
+Tour_de_France_1906_map-fr.svg The 1906 Tour de France was the 4th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris on 4 July and Stage 8 occurred on 18 July with a flat stage from Toulouse. The race finished in Paris on 29 July.

@@ -1,0 +1,1 @@
+'''Giulia Perelli ''' (born 23 April 1982 in Livorno) is an Italian women's international footballer who plays as a defender. She is a member of the Italy women's national football team. She was part of the team at the UEFA Women's Euro 2001 and UEFA Women's Euro 2005.[1]

@@ -1,0 +1,1 @@
+CHARLES EVANS HUGHES SR. (April 11, 1862 – August 27, 1948) was an American statesman, Republican Party politician, and the 11th Chief Justice of the United States. He was also the 36th Governor of New York, the Republican presidential nominee in the 1916 presidential election, and the 44th United States Secretary of State.

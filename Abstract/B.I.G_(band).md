@@ -1,0 +1,1 @@
+B.I.G (; also known as BOYS IN GROOVE), is a six member South Korean boy group formed by GH Entertainment in Seoul, South Korea.[1] They debuted on July 9, 2014, with their first digital single "Hello".[2]

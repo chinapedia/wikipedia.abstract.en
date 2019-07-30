@@ -1,0 +1,1 @@
+SPRING GROVE is an unincorporated community in Dallas County, in the U.S. state of Missouri.[1] The community is situated on Missouri Route H and the Niangua River flows past, about 1.5 miles to the east. Buffalo is approximately six miles to the north-northwest.[2]

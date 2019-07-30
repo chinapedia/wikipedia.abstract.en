@@ -1,0 +1,1 @@
+The HISTORY OF LEBANON covers the history of the modern Republic of Lebanon and the earlier emergence of Greater Lebanon under the French Mandate for Syria and the Lebanon, as well as the previous history of the region, covered by the modern state.

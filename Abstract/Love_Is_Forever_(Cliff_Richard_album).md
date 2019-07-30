@@ -1,0 +1,1 @@
+_LOVE IS FOREVER_ is the ninth studio album by Cliff Richard released in 1965 (sixteenth album overall).[1] The album reached number 19 in the UK Album Charts[2] and is primarily made up of pop standards such as "Long Ago (And Far Away)", "Have I Told You Lately That I Love You", and "Someday (You'll Want Me To Want You)".

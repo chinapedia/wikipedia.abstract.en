@@ -1,0 +1,1 @@
+Perchs_Thehandel_Copenhagen.jpg A.C. PERCH'S THEHANDEL is a tea shop opened in 1835 by Niels Brock Perch at Kronprinsensgade 5 in Copenhagen, Denmark. It opened an English-style tearoom on the first floor in 2005 The company has also opened tea houses in Aarhus and Oslo and operates a web shop. The company is Purveyor to the Court of Denmark.

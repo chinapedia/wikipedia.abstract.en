@@ -1,0 +1,1 @@
+GUANINE (; or G, GUA) is one of the four main nucleobases found in the nucleic acids DNA and RNA, the others being adenine, cytosine, and thymine (uracil in RNA). In DNA, guanine is paired with cytosine. The guanine nucleoside is called guanosine.

@@ -1,0 +1,1 @@
+BENJAMIN ROBERT LUCAS (born 1965) is a New Zealand sports administrator and retired wheelchair racer. He has represented his country at the 1994 Commonwealth Games, and the 1996 and 2000 Summer Paralympics. He was chef de mission for the New Zealand 2016 Summer Paralympics team.

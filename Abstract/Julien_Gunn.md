@@ -1,0 +1,1 @@
+JULIEN GUNN (July 1, 1877 – February 1, 1948) was an American lawyer and Democratic politician who served as a member of the Virginia Senate and Virginia House of Delegates.[1][2] In 1920, he was appointed by President Woodrow Wilson to be United States Attorney for the Eastern District of Virginia.

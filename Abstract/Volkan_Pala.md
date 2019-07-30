@@ -1,0 +1,1 @@
+VOLKAN PALA (born 24 February 1997) is a Turkish professional footballer who plays as a striker for Ankara Adliyespor on loan from Turkish Süper Lig club Galatasaray. He made his professional debut for Galatasaray in a 4-3 loss to Eskişehirspor 2 April 2016.[1][2]

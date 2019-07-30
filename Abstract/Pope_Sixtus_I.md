@@ -1,0 +1,1 @@
+POPE SIXTUS I (42 – 124, 125, 126 or 128), a Roman of Greek descent,[1] was the Bishop of Rome from c. 115 to his death c. 124.[2] He succeeded Pope Alexander I and was in turn succeeded by Pope Telesphorus. His feast is celebrated on 6 April.[3]

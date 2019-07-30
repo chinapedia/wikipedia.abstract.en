@@ -1,0 +1,1 @@
+IAN FRASER "LEMMY" KILMISTER (24 December 1945 – 28 December 2015), was an English singer, songwriter, and musician, best known as the founder, lead singer, bassist, and primary songwriter of the rock band Motörhead.

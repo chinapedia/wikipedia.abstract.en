@@ -1,0 +1,1 @@
+The HYUNDAI I20 COUPE WRC[1] (originally known as the HYUNDAI NEW GENERATION I20 WRC) is a World Rally Car built by Hyundai for use in the World Rally Championship starting in 2017.[2] It is based on the Hyundai i20 subcompact car, and is the successor to the Hyundai i20 WRC used between 2014 and 2015.

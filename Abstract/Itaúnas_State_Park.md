@@ -1,0 +1,1 @@
+The ITAÚNAS STATE PARK () is a state park in the state of Espírito Santo, Brazil. It protects the lower reaches of the Itaúnas River and a strip of marshes, dunes and beaches along the Atlantic coast of the north of the state.

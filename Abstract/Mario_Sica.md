@@ -1,0 +1,1 @@
+MARIO SICA (Rome, December 4, 1936) is an Italian retired diplomat and served as the International Commissioner of the Italian Scout Federation. Sica edited the Italian editions of the works of Robert Baden-Powell and wrote, among other things, the _History of Scouting in Italy_.

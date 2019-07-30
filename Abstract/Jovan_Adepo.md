@@ -1,0 +1,1 @@
+JOVAN ADEPO is an English-born American actor. He is best known for playing Michael Murphy in the HBO television series _The Leftovers_ and for his role as Cory Maxson in the film adaptation of August Wilson's play, _Fences_ (2016).

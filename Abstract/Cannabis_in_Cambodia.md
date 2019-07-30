@@ -1,0 +1,1 @@
+CANNABIS IN CAMBODIA is illegal.[1] This prohibition is enforced opportunistically.[2][3][4] Many "Happy" restaurants located in Phnom Penh, Siem Reap and Sihanoukville publicly offer food cooked with marijuana, or as a side garnish.[5]

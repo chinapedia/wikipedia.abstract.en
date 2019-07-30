@@ -1,0 +1,1 @@
+GDAŃSK PORT LOTNICZY RAILWAY STATION is a railway station serving the Gdańsk Lech Wałęsa Airport in the city of Gdańsk, in the Pomeranian Voivodeship, Poland. The station opened on 1 September 2015 and is located on the Gdańsk Wrzeszcz–Gdańsk Osowa railway. The train services are operated by SKM Tricity as part of the Pomorska Kolej Metropolitalna (PKM).

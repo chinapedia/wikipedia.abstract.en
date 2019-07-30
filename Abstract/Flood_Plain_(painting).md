@@ -1,0 +1,1 @@
+_FLOOD PLAIN_ is a 1986 painting by the American artist Andrew Wyeth. It depicts a part of the artist's family's land in Chadds Ford, Pennsylvania in the winter, with patches of ice in the grass. In the foreground is a pile of hay with the remnants of an old hay wagon. Two icy wheel tracks lead to a mill and a granary in the background.

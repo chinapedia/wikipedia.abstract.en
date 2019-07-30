@@ -1,0 +1,1 @@
+Opus 70 is a set of two PIANO TRIOS by Ludwig van Beethoven, written for piano, violin, and cello. Both trios were composed during Beethoven's stay at Countess Marie von Erdödy's estate, and both are dedicated to her for her hospitality. They were published in 1809.

@@ -1,0 +1,1 @@
+_IN THE BEGINNING_ is the 1975 fourth novel by Chaim Potok. The novel tells the story of David Lurie, an Orthodox Jewish boy from the Bronx growing up in the Great Depression of the 1930s up to the revealing of the fate of the Lurie family's relatives in Poland at the end of World War I.[1]

@@ -1,0 +1,1 @@
+Cameri_SanRocco.jpg SAN ROCCO is a Roman Catholic oratory or small church located on Piazza Dante Alighieri, along with the parish church of San Michele and the church of the Santissimo Sacramento, in the center of Cameri, province of Novara, Piedmont, Italy.

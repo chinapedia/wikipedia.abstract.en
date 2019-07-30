@@ -1,0 +1,1 @@
+_DAFFEDAR_ is a 2016 Indian Malayalam-language drama film directed by Johnson Esthappan, starring Tini Tom as Daffadar and Malavika Nair in lead roles.[1] Ilaiyaraaja is the music director and the film's audio was launched by Kerala chief minister Pinarayi Vijayan.[2]

@@ -1,0 +1,1 @@
+Signal_processing_system.pngs convert signals from other physical waveforms to electric current or voltage waveforms, which then are processed, transmitted as electromagnetic waves, received and converted by another transducer to final form.]]

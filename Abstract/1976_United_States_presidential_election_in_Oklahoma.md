@@ -1,0 +1,1 @@
+The 1976 UNITED STATES PRESIDENTIAL ELECTION IN OKLAHOMA took place on November 2, 1976. All fifty states and The District of Columbia were part of the 1976 United States presidential election. Oklahoma voters chose eight electors to the Electoral College, who voted for president and vice president.

@@ -1,0 +1,1 @@
+KEMAL YILDIRIM (born 15 May 1958) is a retired Turkish professional footballer and former manager of Adanaspor and amateur team Yıldırımspor. He is one of the most capped players in Süper Lig history.

@@ -1,0 +1,1 @@
+The SLOVENIAN ARMED FORCES or SLOVENIAN ARMY (; SAF/SV) are the armed forces of Slovenia. Since 2003, it is organized as a fully professional standing army. The Commander-in-Chief of the SAF is the President of the Republic of Slovenia (Borut Pahor), while operational command is in the domain of the Chief of the General Staff of the Slovenian Armed Forces.

@@ -1,0 +1,1 @@
+JohnHancocksSignature.svg's signature is the most prominent on the United States Declaration of Independence and the Articles of Confederation. The name "John Hancock" has become a synonym for "signature" in the United States.[1]]]

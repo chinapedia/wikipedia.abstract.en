@@ -1,0 +1,1 @@
+Margaret_Elizabeth_Leigh_circa_1919.jpg MiddletonStoney_GravesJersey.JPG, Oxfordshire - Margaret is buried with her husband.]] MARGARET ELIZABETH LEIGH CHILD-VILLIERS, COUNTESS OF JERSEY, DBE, JP (née LEIGH; 29 October 1849 – 22 May 1945) was an English noblewoman, activist, writer and hymn-writer.

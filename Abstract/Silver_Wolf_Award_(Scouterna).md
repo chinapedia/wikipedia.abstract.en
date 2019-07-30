@@ -1,0 +1,1 @@
+The SILVER WOLF (Swedish: SILVERVARGEN) is the highest award made by Swedish Scouting, to active leaders at the national level for exceptionally meritorious work. The award consists of a stylized silver wolf with a fleur-de-lis with the words "Scouterna", suspended from a turquoise neck ribbon. The Silver Wolf will be distributed by someone who already holds the award.

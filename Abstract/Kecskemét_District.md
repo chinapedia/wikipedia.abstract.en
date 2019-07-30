@@ -1,0 +1,1 @@
+KECSKEMÉT () is a district in northern part of Bács-Kiskun County. _Kecskemét_ is also the name of the town where the district seat is found. The district is located in the Southern Great Plain Statistical Region.

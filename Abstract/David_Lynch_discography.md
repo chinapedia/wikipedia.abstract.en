@@ -1,0 +1,1 @@
+The DISCOGRAPHY OF DAVID LYNCH, an American director and musician, consists of three studio albums, two collaborative studio albums, six soundtrack albums, two spoken-word albums, one extended play, twenty singles and six music videos.

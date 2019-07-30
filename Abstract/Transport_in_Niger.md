@@ -1,0 +1,1 @@
+SNTVbus-Ouagadougou-Niamey.jpg coach running between Ouagadougou (Burkina Faso) and Niamey, Niger. Road transport is the major form of travel across the huge distances between Nigerien population centers, though most Nigeriens do not own vehicles.]] Transport_in_Niger.jpg in far southeastern Niger.]]

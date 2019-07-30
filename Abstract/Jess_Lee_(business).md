@@ -1,0 +1,1 @@
+TNW_USA_2013_-_Day_1_(10327066784)_(cropped).jpg JESS LEE (born 1982) is an American venture capitalist. She is a partner at Sequoia Capital[1] and the former chief executive officer of Polyvore.[2][3]

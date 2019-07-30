@@ -1,0 +1,1 @@
+__ (Law French for "hard and forceful punishment") was a method of torture formerly used in the common law legal system, in which a defendant who refused to plead ("stood mute") would be subjected to having heavier and heavier stones placed upon his or her chest until a plea was entered, or he/she died.

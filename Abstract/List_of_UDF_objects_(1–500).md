@@ -1,0 +1,1 @@
+Hubble_ultra_deep_field_high_rez_edit1.jpg.]] This is a LIST OF UDF OBJECTS 1-500 from the Hubble Ultra Deep Field (UDF). The Hubble Ultra Deep Field is a small region of the sky in the constellation of Fornax. The data in these tables is from the SIMBAD Astronomical Database,[1] and the apparent magnitude data is from Wikisky.[2]

@@ -1,0 +1,1 @@
+HUGH DAVID GRAHAM CARRITT (15 April 1927 – 3 August 1982) was a British art historian, dealer and critic, who was described by _The New York Times_ as being "responsible for more sensational discoveries in the field of Old Master painting since World War II than any other man".[1]

@@ -1,0 +1,1 @@
+The 2017 MICHELIN LE MANS CUP was the 2nd season of the Michelin Le Mans Cup. It began on 13 May at the Autodromo Nazionale Monza and finished on 21 October at the Algarve International Circuit. The series featured LMP3 and GT3 category cars competing in their respective class.[1]

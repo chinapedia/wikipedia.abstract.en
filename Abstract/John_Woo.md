@@ -1,0 +1,1 @@
+JOHN WOO SBS (; born May 1, 1946)[1] is a Chinese-born Hong Kong filmmaker, writer, and actor.[2] He is considered a major influence on the action genre, known for his highly chaotic action sequences, stylized imagery, Mexican standoffs, frequent use of slow motion and allusions to neo-noir, ‘’wuxia’’ and Western cinema.[3]

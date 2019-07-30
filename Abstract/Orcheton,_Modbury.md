@@ -1,0 +1,1 @@
+Great_Orcheton_-_geograph.org.uk_-_273348.jpg ORCHETON (anciently _Orcharton_, etc.) is an historic estate in the parish of Modbury in Devon. The present house, known as _Great Orcheton Farm_ is situated 1 1/2 miles south-west of Modbury Church.

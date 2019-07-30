@@ -1,0 +1,1 @@
+Coat_of_arms_of_the_House_of_Welf-Brunswick_(Braunschweig).svg Arms_of_Otto_IV,_Holy_Roman_Emperor.svg Coat_of_arms_of_Otto_IV_of_Brunswick_as_Holy_Roman_Emperor_(Chronica_Maiora).svg

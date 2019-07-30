@@ -1,0 +1,1 @@
+SAMANTHA LO, also known by the moniker SKL0, is a Singaporean contemporary artist. Dubbed the "Sticker Lady", Lo became a household name in Singapore after she was arrested for spray painting on public road in 2012. Her arrest sparked an outcry online on whether it was a work of art or vandalism.[1][2][3][4][5][6]

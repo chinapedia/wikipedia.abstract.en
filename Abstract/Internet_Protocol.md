@@ -1,0 +1,1 @@
+The INTERNET PROTOCOL (IP) is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet.

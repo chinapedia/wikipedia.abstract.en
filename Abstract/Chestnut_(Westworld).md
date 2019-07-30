@@ -1,0 +1,1 @@
+"CHESTNUT" is the second episode of the HBO science fiction thriller television series _Westworld_. The episode aired on October 9, 2016, but was released two days prior online by HBO.[1] The episode received positive reviews from critics.

@@ -1,0 +1,1 @@
+Vereenigde_Oostindische_Compagnie_spiegelretourschip_Amsterdam_replica.jpg of the Dutch East India Company/United East Indies Company (VOC).]] DejimaInNagasakiBay.jpg Nagasaki_bay_siebold.jpg Dutch_personnel_and_Japanese_women_watching_an_incoming_towed_Dutch_sailing_ship_at_Dejima_by_Kawahara_Keiga.jpg Nagasaki_Dejima_C1771.jpg

@@ -1,0 +1,1 @@
+_PUTHAN PANAM_ (English:New Money) is a 2017 Indian Malayalam film written, directed and co-produced by Ranjith, based on the issue of black money and demonetisation. It stars Mammootty, Baiju, Mamukkoya, Hareesh Perumanna, Nirmal Palazhi and Swaraj Gramika in prominent roles.

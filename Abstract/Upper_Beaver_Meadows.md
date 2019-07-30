@@ -1,0 +1,1 @@
+Longs_Peak_and_Upper_Beaver_Meadows.jpg UPPER BEAVER MEADOWS is a montane meadow and visitor attraction in Rocky Mountain National Park in Colorado.[1] The area is known as a good bird-watching spot and its trail leads to a number of other trails within the park. The trails may be used for hiking, snowshoeing, or cross-country skiing.

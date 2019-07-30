@@ -1,0 +1,1 @@
+The GARABÍ-PANAMBI HYDROELECTRIC COMPLEX () is a planned pair of hydroelectric dams and generating stations on the Uruguay River between Argentina and Brazil. There is controversy over the environmental impact on the fast-flowing river. The prime contractors are trying to avoid public image problems and delays such as those with other recent dams.

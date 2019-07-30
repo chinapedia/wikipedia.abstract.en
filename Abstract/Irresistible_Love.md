@@ -1,0 +1,1 @@
+_IRRESISTIBLE LOVE_ () also known as, _UNCONTROLLED LOVE_), is a 2016 Chinese movie starring Meng Rui and Wang Bowen. The movie was directed by Sun Cheng Zhi and Meng Rui, and its novel was written by Lan Lin. The novel is also known by another name "Force Majeure".

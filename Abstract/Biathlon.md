@@ -1,0 +1,1 @@
+The BIATHLON is a winter sport that combines cross-country skiing and rifle shooting. It is treated as a race where the contestant with the shortest total time wins. Depending on the competition, missed shots result in extra distance or time being added to the contestant's total.

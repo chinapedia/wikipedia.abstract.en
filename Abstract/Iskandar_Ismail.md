@@ -1,0 +1,1 @@
+ISKANDAR MIRZA ISMAIL (23 July 1956 – 1 November 2014) was a prominent Singaporean musician who worked as a composer, arranger, conductor, music director, recording producer, performer and educator in his long career. In recognition of his extensive contributions to the music scene of Singapore, he was awarded the Cultural Medallion in 2008.[1]

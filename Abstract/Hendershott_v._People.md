@@ -1,0 +1,1 @@
+_HENDERSHOTT V. PEOPLE_, Supreme Court of Colorado, 653 P.2d. 385 (1982), is a criminal case that a defendant who was not excused by being legally insane, might still be exculpated because he lacked a guilty mind (mens rea) due to a mental disease.[1]

@@ -1,0 +1,1 @@
+{{ infobox football league season | image = | caption = | competition = BVIFA National Football League | season = 2016–17 | winners = Islanders | relegated = Virgin Gorda United | continentalcup1 = CFU Club Championship | continentalcup1 qualifiers = Islanders

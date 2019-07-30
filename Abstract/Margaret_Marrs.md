@@ -1,0 +1,1 @@
+MARGARET MARRS (née LEWIN; born 1929) is an English computer programmer who was the Senior Operator of the original Electronic delay storage automatic computer (EDSAC). EDSAC was an early British computer constructed at the University of Cambridge Mathematical Laboratory in England, and the second electronic digital stored-program computer to go into regular service.

@@ -1,0 +1,1 @@
+CECIL J. WILLIAMS (born November 26, 1937) is an American photographer, publisher, author and inventor best known for his photography documenting the civil rights movement in South Carolina beginning in the 1950s.

@@ -1,0 +1,1 @@
+OSCAR EFRÉN REYES (June 13, 1896, Baños – December 6, 1966, Quito), was a historian, journalist, politician, researcher and an Ecuadorian teacher. He is remembered for his teachings as well as his historic research of Ecuador and America.

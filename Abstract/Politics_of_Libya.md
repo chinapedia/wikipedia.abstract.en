@@ -1,0 +1,1 @@
+The POLITICS OF LIBYA is in an uncertain state due to the collapse of the Libyan Arab Jamahiriya in 2011 and an ongoing civil war between the Council of Deputies in Tobruk and its supporters, the New General National Congress in Tripoli and its supporters, and various jihadists and tribal elements controlling parts of the country.[1]

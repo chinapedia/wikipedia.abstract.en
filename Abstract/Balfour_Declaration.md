@@ -1,0 +1,1 @@
+The BALFOUR DECLARATION was a public statement issued by the British government in 1917 during the First World War announcing support for the establishment of a "national home for the Jewish people" in Palestine, then an Ottoman region with a small minority Jewish population. It read:

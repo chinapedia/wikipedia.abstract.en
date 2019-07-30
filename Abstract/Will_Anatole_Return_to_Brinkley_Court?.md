@@ -1,0 +1,1 @@
+"WILL ANATOLE RETURN TO BRINKLEY COURT?" is the fifth episode of the first series of the 1990s British comedy television series _Jeeves and Wooster_. It is also called "Brinkley Manor" or "The Matchmaker".[1] It first aired in the UK on on ITV. The episode aired in the US on 9 December 1990 on _Masterpiece Theatre_.[2]

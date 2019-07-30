@@ -1,0 +1,1 @@
+LUKE O'SULLIVAN is an Australian politician. He was a Nationals member of the Victorian Legislative Council for Northern Victoria from 2016, when he was appointed to a casual vacancy following Damian Drum's resignation, until 2018, when he was defeated.

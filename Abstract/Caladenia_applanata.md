@@ -1,0 +1,1 @@
+_CALADENIA APPLANATA_ is a plant in the orchid family Orchidaceae and is endemic to the south-west of Western Australia. It has a single erect, hairy leaf and up to three flowers. The species was first described in 2001 by Stephen Hopper and Andrew Brown and the description was published in _Nuytsia_.[1] In the same paper, Hopper and Brown described two subspecies:

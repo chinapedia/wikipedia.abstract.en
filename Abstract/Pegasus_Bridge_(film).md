@@ -1,0 +1,1 @@
+PEGASUS BRIDGE is an upcoming British war film based on Operation Deadstick, the mission to capture the Bénouville Bridge across the Caen Canal on 6 June 1944 as part of the Normandy landings of World War II. Directed by Lance Nielsen, filming was due to be completed by the end of 2017.[1][2]

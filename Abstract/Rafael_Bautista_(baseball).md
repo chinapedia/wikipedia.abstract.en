@@ -1,0 +1,1 @@
+RAFAEL DARWING BAUTISTA RODRIGUEZ (born March 8, 1993) is a Dominican professional baseball outfielder in the Washington Nationals organization. He has played for the Washington Nationals in Major League Baseball (MLB).

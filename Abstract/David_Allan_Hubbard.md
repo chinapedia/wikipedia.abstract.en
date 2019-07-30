@@ -1,0 +1,1 @@
+'''David Allan Hubbard '''(April 8, 1928–June 7, 1996) was the 3rd President of Fuller Theological Seminary and an Old Testament scholar. Under his leadership, Fuller became the world's largest multidenominational seminary and an important center for mainstream evangelical thought.[1]

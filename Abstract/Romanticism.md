@@ -1,0 +1,1 @@
+Caspar_David_Friedrich_032.jpg, _Wanderer Above the Sea of Fog_, 1818]] Delacroix_-_La_Mort_de_Sardanapale_(1827).jpg, _Death of Sardanapalus_, 1827, taking its Orientalist subject from a play by Lord Byron]] Philipp_Otto_Runge_001.jpg, _The Morning_, 1808]]

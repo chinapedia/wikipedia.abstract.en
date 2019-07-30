@@ -1,0 +1,1 @@
+Daniel_McNaughton,_Insane_Murderer,_in_Illus._Lond._News._Wellcome_L0000720.jpg Daniel_McNaughton_c_1856.jpg The M'NAGHTEN RULE (pronounced, and sometimes spelled, MCNAUGHTON) is any variant of the 1840s jury instruction in a criminal case when there is a defense of insanity:

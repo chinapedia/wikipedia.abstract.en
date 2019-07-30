@@ -1,0 +1,1 @@
+In electronics and telecommunications, MODULATION is the process of varying one or more properties of a periodic waveform, called the _carrier signal_, with a modulating signal that typically contains information to be transmitted. Most radio systems in the 20th century used frequency modulation (FM) or amplitude modulation (AM) for radio broadcast.

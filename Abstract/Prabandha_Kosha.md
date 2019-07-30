@@ -1,0 +1,1 @@
+_PRABANDHA-KOSHA_ (IAST: Prabandhakośa) is an Indian Sanskrit-language collection of _prabandha_s (legendary biographical narratives). It was compiled by the Jain scholar Rajashekhara Suri in 1349 CE. It describes the lives of 24 people, including 10 Jain scholars, 4 Sanskrit poets, 7 kings and 3 Jain householders. It is also known as _Chaturvinshati Prabandha_.

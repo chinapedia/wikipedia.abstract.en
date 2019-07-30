@@ -1,0 +1,1 @@
+LUKE EDWARD WALTON (born May 29, 1979) is an American rower. He competed at the 2004 Summer Olympics in Athens, where he placed 11th in the men's coxless pair, along with Artour Samsonov. Walton was born in Poway, California.[1]

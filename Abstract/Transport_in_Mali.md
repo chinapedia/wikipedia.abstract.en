@@ -1,0 +1,1 @@
+Mali_highway.jpg, Mali.]] Mali's transportation infrastructure is regarded as poor, even by regional standards, and deficiencies have limited economic growth and development. Nevertheless, improvements have been noted in the early 2000s. Most of the transportation in Mali consists of cars, planes, and boats.[1]

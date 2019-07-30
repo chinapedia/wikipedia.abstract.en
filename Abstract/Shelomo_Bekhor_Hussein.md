@@ -1,0 +1,1 @@
+RABBI SHELOMO BEKHOR HUSSEIN (Rashba"h, 1843-1892; sometimes written "Hotzin" due to Modern Hebrew pronunciation norms) was a legal decisor, liturgical poet, journalist, translator, and printing house owner who was one of the outstanding Babylonian rabbis in the second half of the 19th century.

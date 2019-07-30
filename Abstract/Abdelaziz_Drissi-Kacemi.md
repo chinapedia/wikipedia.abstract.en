@@ -1,0 +1,1 @@
+ABDELAZIZ DRISSI-KACEMI (; ) served as President of the Fédération Nationale du Scoutisme Marocain, as well as the President of the Moroccan Scout Association and the Chairman of the international symposium _Scouting: Youth Without Borders_.

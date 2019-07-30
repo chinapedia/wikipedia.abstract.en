@@ -1,0 +1,1 @@
+The SHAOLIN MONASTERY (), also known as the SHAOLIN TEMPLE, is a Chan ("Zen") Buddhist temple in Dengfeng County, Henan Province, China. Believed to have been founded in the 5th century CE, the Shaolin Temple is the main temple of the Shaolin school of Buddhism to this day.

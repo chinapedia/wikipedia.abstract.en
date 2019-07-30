@@ -1,0 +1,1 @@
+The 86TH (HONOURABLE ARTILLERY COMPANY) HEAVY ANTI-AIRCRAFT REGIMENT, ROYAL ARTILLERY (86th (HAC) HAA Rgt) was an air defence unit of Britain's Territorial Army (TA) that served throughout World War II. It defended London during The Blitz, landed on Juno Beach on D-Day, and defended the cities of Belgium against V-1 flying bombs.

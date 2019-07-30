@@ -1,0 +1,1 @@
+The MONKTON WINDMILL,[1] or MONKTON DOVECOTE,[2] was originally an early 18th century vaulted tower windmill located on the outskirts of the village of Monkton on the site of an Iron Age hillfort in South Ayrshire, Scotland. It was later converted into a dovecote[3] and stood on the lands of the old Orangefield Estate.

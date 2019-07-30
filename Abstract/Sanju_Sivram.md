@@ -1,0 +1,1 @@
+SANJU SIVRAM (born 5 September 1984) is an Indian film actor who predominantly appears in Malayalam cinema.[1] He is best known for his roles in 1983 (2014), _Hello Namasthe_ (2016), and _Nee Ko Njaa Cha_ (2013). He made his Telugu debut through _Raktham_.

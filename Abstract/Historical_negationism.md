@@ -1,0 +1,1 @@
+HISTORICAL NEGATIONISM,[1][2] or denialism, is an illegitimate distortion of the historical record. It is often imprecisely or intentionally incorrectly referred to as _historical revisionism_, but that term also denotes a legitimate academic pursuit of re-interpretation of the historical record and questioning the accepted views.[3]

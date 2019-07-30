@@ -1,0 +1,1 @@
+_DOLOMEDES SCHAUINSLANDI_ or the RANGATIRA SPIDER is a large spider of the family Pisauridae. It is only found on South East Island (Rangatira), Houruakopara and Mangere Islands in the Chatham Islands, New Zealand. It is one of New Zealand's largest and rarest spiders.[1]

@@ -1,0 +1,1 @@
+The SALTO MORATO PRIVATE NATURAL HERITAGE RESERVE ( is a private natural heritage reserve in the state of Paraná, Brazil. It protects an area of Atlantic Forest that is home to many endemic bird species.

@@ -1,0 +1,1 @@
+ANGELA BEARD (born 16 August 1997) is an Australian soccer player, who currently plays for Melbourne Victory in the Australian W-League. She has represented Australia on the under-17 and under-20 national teams.

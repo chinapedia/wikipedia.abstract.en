@@ -1,0 +1,1 @@
+Bodleian_Libraries,_Oxonia_antiqua_instaurata_46.jpg, the current plot of the Lighthouse pub]] THE LIGHTHOUSE is a public house in central Oxford, England. The pub is located at 1 Park End Street, next to the Castle Mill Stream and close to the end of the Oxford Canal.

@@ -1,0 +1,1 @@
+MARY BLANCHE O'SULLIVAN (born April 30, 1860 in Saint John, New Brunswick[1]) in was a Canadian teacher, writer, and editor. She taught in public schools for 10 years; served as editor-in-chief of _Donahoe's Magazine_ for 12 years, and was a contributor to the same. She was also a member the New England Woman's Press Association.

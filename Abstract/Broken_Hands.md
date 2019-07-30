@@ -1,0 +1,1 @@
+BROKEN HANDS are an English rock band formed in 2012 in Canterbury, Kent, UK.[1] The band's line-up includes Dale Norton (lead vocals), Jamie Darby (lead guitar), Thomas Ford (bass), Callum Norton (drums, backing vocals) and David Hardstone (guitar, keyboards).[2]

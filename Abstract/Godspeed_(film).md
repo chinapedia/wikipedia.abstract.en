@@ -1,0 +1,1 @@
+_GODSPEED_ is a 2016 Taiwanese black comedy road caper film written and directed by Chung Mong-hong and starring Michael Hui and Nadow. The film had its world premiere at the 2016 Toronto International Film Festival on 14 September 2016[1] and was theatrically released in Taiwan on 18 November.

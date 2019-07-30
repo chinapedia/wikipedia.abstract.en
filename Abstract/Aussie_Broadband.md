@@ -1,0 +1,1 @@
+AUSSIE BROADBAND is an Australian telecommunications carrier (ISP) that provides internet, web hosting, mobile and other telephony services. The company was formed in 2008 after the merger of Wideband Networks and Westvic Broadband.[1]

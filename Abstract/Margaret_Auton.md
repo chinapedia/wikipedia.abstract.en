@@ -1,0 +1,1 @@
+MARGARET AUTON (born 9 February 1951) is a British former swimmer. She competed in three events at the 1968 Summer Olympics.[1] She was in the medley relay and they were placed sixth. She competed with Dorothy Harrison, Wendy Burrell and Alexandra Jackson.[2]

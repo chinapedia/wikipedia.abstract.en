@@ -1,0 +1,1 @@
+T.J. BERRY (born September 11, 1965) is an American politician. He is a former member of the Missouri House of Representatives, having served from 2012 to 2019. He is a member of the Republican party.[1][2]

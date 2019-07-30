@@ -1,0 +1,1 @@
+GINO GIAROLI (27 June 1924, Reggio Emilia – 23 May 1991, Reggio Emilia) was an Italian footballer, active mainly during the 1950s. He is the second all-time capped player of Palermo in Serie A, with 151 caps, many as club captain.

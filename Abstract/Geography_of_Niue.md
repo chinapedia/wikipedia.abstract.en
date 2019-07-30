@@ -1,0 +1,1 @@
+Avatele_Niue.jpg NIUE is a small island in the South Pacific Ocean, to the east of Tonga. It has an area of 260 square kilometres, and a coastline of 64 km. It claims an exclusive economic zone of 200 nm, and a territorial sea of 12 nm. It is one of world's largest coral islands.

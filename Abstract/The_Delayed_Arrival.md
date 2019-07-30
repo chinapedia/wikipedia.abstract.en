@@ -1,0 +1,1 @@
+"THE DELAYED ARRIVAL" is the fourth episode of the fourth series of the 1990s British comedy television series _Jeeves and Wooster_. It is also called "Arrested in a Night Club". It first aired in the UK on on ITV.[1]

@@ -1,0 +1,1 @@
+TAYMURAZ (TEYMURAZ) APKHAZAVA (; born 21 April 1955) is a Soviet former Greco-Roman wrestler, and Olympic gold medalist. He started to train in 1969, and took part in nine USSR championships and won some international tournaments.

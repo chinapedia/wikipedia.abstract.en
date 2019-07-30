@@ -1,0 +1,1 @@
+SAMSUNG Z2 is a smartphone produced by Samsung. It is the third smartphone to be shipped with the Tizen operating system, after the Samsung Z1 and Samsung Z3.[1] It was released on August 29, 2016.[2]

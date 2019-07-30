@@ -1,0 +1,1 @@
+PAKISTAN SECRETARIAT (, _Diwan-e-Insha Pakistan_) serves as the headquarters for the Cabinet and Government of Pakistan. It is located on Constitution Avenue in Islamabad, Capital Territory, Pakistan. Sometimes is it also referred to as PAK SECRETARIAT.[1]

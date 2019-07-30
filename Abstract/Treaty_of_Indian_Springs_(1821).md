@@ -1,0 +1,1 @@
+The TREATY OF INDIAN SPRINGS, also known as the FIRST TREATY OF INDIAN SPRINGS and the TREATY WITH THE CREEKS, is a treaty concluded between the Muscogee and the United States on January 8, 1821 at what is now Indian Springs State Park.

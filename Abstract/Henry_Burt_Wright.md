@@ -1,0 +1,1 @@
+HENRY BURT WRIGHT (1877–1923) was an American professor from Yale University whose writings influenced, among others, Frank Buchman, and subsequently the work he developed under the name of Oxford Group, later Moral Rearmament.

@@ -1,0 +1,1 @@
+FIESTA PARK was a grandstand and sports and entertainment venue in South Park, Los Angeles, California. From 1894 to 1916, it served as venue for various exhibitions and festivals, as well as a field for USC Trojans football games.

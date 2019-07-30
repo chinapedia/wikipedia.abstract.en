@@ -1,0 +1,1 @@
+The WORLD MOTORCYCLE TEST CYCLE (WMTC) is a system of driving cycles used to measure fuel consumption and emissions in motorcycles. The methods are stipulated as part of the Global Technical Regulation established under the United Nations’ World Forum for Harmonisation of Vehicle Regulations, also known as WP.29.[1]

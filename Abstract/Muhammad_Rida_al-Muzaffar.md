@@ -1,0 +1,1 @@
+MUHAMMAD RIDA AL-MUZAFFAR ()was a Shia Marja',[1] philosopher and jurist. His eminent book in Islamic sciences is _Usul al-Fiqh_ or the principles of jurisprudence written according to the thought school of Agha Shaykh Muhammad Hosein Isfahani, one of the eminent Shia Marja's.

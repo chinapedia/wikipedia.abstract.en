@@ -1,0 +1,1 @@
+Hugh_Dillman_McGaughey,_1918_(4368435583).jpg HUGH DILLMAN (born HUGH DILLMAN MCGAUGHY, 8 February 1885 in Chesterville, Ohio – died 7 July 1956 in Columbus, Ohio) was a Broadway and silent film actor.[1] Dillman served as a Navy recruiter during World War I. His first marriage was to actress Marjorie Rambeau in 1919.[2] They divorced in 1923.

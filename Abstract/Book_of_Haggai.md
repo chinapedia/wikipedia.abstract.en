@@ -1,0 +1,1 @@
+The BOOK OF HAGGAI is a book of the Hebrew Bible or Tanakh, and has its place as the third-to-last of the Minor Prophets. It is a short book, consisting of only two chapters. The historical setting dates around 520 BCE before the Temple has been rebuilt.[1]

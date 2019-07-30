@@ -1,0 +1,1 @@
+Dnp_ukr2013_08.JPG The MENORAH CENTER (, ) is a cultural and business center of the Jewish community in Dnipro in Eastern Ukraine. Some sources declare it to be the biggest multifunctional Jewish community center in Europe[1] or in the world.[2] The heart of the complex is the historic Golden Rose central synagogue, built in the 19th century.

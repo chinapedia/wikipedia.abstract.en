@@ -1,0 +1,1 @@
+The CORNET (,[1] ) is a brass instrument similar to the trumpet but distinguished from it by its conical bore, more compact shape, and mellower tone quality. The most common cornet is a transposing instrument in B, though there is also a soprano cornet in E and a cornet in C. All are unrelated to the renaissance and early baroque cornett.

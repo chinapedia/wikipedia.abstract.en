@@ -1,0 +1,1 @@
+FRANK E. CHILDS (December 27, 1887 – January 10, 1973) was an American Thoroughbred racehorse trainer. He was the trainer of Tomy Lee who won the 1959 Kentucky Derby. He was inducted into the National Museum of Racing and Hall of Fame in 1968.[1]

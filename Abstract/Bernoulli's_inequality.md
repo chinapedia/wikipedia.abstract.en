@@ -1,0 +1,1 @@
+Bernoulli_inequality.svg

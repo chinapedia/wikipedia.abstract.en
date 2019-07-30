@@ -1,0 +1,1 @@
+"WE ARE NUMBER ONE" is a song from the English language Icelandic children's television series _LazyTown_, composed by Máni Svavarsson. The song was featured in the twelfth episode of the show's fourth season, entitled "Robbie's Dream Team", which is the 103rd episode overall.[1]

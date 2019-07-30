@@ -1,0 +1,1 @@
+_LA JETÉE_ () ("The Jetty", here referring to the publicly accessible top of an infrastructural pier or jetty at an airport) is a 1962 French Left Bank science fiction featurette by Chris Marker. Constructed almost entirely from still photos, it tells the story of a post-nuclear war experiment in time travel. It is 28 minutes long and shot in black and white.

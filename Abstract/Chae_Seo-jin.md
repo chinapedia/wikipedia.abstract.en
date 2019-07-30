@@ -1,0 +1,1 @@
+CHAE SEO-JIN (born ) is a South Korean actress. She started her career as a young actress in _Over the Rainbow_ (2006). She is known to be Kim Ok-vin's sister.[1] In May 2016, Chae decided to use Chae Seo-jin as her stage name instead of her birth name, Kim Go-un.[2]

@@ -1,0 +1,1 @@
+CrokerArms.png of Croker of Lyneham: _Argent, a chevron engrailed gules between three crows proper_[1]]] RICHARD CROCKER (fl.1335) of Devon, England, was a Member of Parliament for Tavistock in Devon in 1335.[2] His descendants were the prominent Crocker family of _Crocker's Hele_ in the parish of Meeth, Devon, later seated at Lyneham in the parish of Yealmpton, Devon until 1740.

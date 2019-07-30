@@ -1,0 +1,1 @@
+Oman is a country in the Middle East. Current GDP per capita has expanded continuously in the past 50 years. It grew 339% in the 1960s reaching a peak growth of 1,370% in the 1970s scaling back to modest 13% growth in the 1980s and rising again to 34% in the 1990s.[1]

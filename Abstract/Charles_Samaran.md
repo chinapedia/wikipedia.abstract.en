@@ -1,0 +1,1 @@
+CHARLES SAMARAN (28 October 1879 – 15 October 1982) was a 20th-century French historian and archivist, who was born in Cravencères (in the Gers) and died at Nogaro (also in the Gers), shortly before his 103rd birthday.

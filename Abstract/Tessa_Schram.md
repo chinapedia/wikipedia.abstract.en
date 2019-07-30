@@ -1,0 +1,1 @@
+TESSA SCHRAM (born 18 October 1988) is a Dutch actress and director. She is the daughter of film producer and director Dave Schram and Maria Peters. While she is the sister of an actor Quinten Schram.[1]

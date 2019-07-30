@@ -1,0 +1,1 @@
+François PHILIPPE SARCHI originally SAMUEL MORPURGO, born in Gradisca d'Isonzo in Italy in 1764 and died in Paris in 1830, was a lawyer, linguist, philologist of Illyrian origin, specializing in Italian and Hebrew.

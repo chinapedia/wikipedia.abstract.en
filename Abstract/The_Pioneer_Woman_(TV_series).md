@@ -1,0 +1,1 @@
+_THE PIONEER WOMAN_ is a US cooking show that airs on Food Network. It is presented by Ree Drummond. The series features Drummond cooking for her family and friends, primarily at her ranch in Pawhuska, Oklahoma.[1][2] The title of the series is taken from Drummond's blog of the same name.[3][4]

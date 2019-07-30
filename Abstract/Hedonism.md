@@ -1,0 +1,1 @@
+HEDONISM is a school of thought that argues that the pursuit of pleasure and intrinsic goods are the primary or most important goals of human life.[1] A hedonist strives to maximize net pleasure (pleasure minus pain). However upon finally gaining said pleasure, happiness may remain stationary.

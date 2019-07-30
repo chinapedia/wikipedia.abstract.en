@@ -1,0 +1,1 @@
+_LALLEMANTIA ROYLEANA_ is a species of flowering plant in the mint family, Lamiaceae. In Iran it is known as _BALANGU SHIRAZI_ and it is used as a folk medicine treatment for fever and coughs.[1] Its seeds are a good source of polysaccharides, fibre, oil and protein.[2]

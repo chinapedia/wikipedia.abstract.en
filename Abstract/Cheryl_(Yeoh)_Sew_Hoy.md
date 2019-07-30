@@ -1,0 +1,1 @@
+CHERYL (YEOH) SEW HOY (born May 31, 1983) is an entrepreneur, speaker and angel investor, best known for being the Founding CEO of the Malaysian Global Innovation and Creativity Centre (MaGIC),[1] a government-funded agency to support entrepreneurship in Malaysia and ASEAN.

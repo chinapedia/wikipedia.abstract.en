@@ -1,0 +1,1 @@
+_MANUAL SAMUEL_ is an adventure video game by Perfectly Paranormal.[1] It was released on PlayStation 4 on October 11 2016 and on Xbox One and Microsoft Windows on October 14 2016.[2] The Nintendo Switch version was released on August 16 2018.[3]

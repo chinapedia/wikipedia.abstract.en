@@ -1,0 +1,1 @@
+This is a list of television programs broadcast by Bang Bang in Albania and Kosovo. The channel was launched on December 17, 2004, and airs a mix of animated TV series and live-action Albanian originals.

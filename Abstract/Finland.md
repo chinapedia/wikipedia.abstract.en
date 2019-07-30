@@ -1,0 +1,1 @@
+FINLAND ( ; ), officially the REPUBLIC OF FINLAND (, ), is a Nordic country in Northern Europe bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, between Norway to the north, Sweden to the northwest, and Russia to the east. The capital and largest city is Helsinki. Other major cities are Espoo, Vantaa, Tampere, Oulu and Turku.

@@ -1,0 +1,1 @@
+Aguilon,_François_d'_–_Opticorum_libri,_1613_–_BEIC_1321020.jpg FRANÇOIS D'AGUILON (also d'Aguillon or in Latin FRANCISCUS AGUILONIUS) (4 January 1567 – 20 March 1617) was a Belgian Jesuit mathematician, physicist and architect.

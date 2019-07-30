@@ -1,0 +1,1 @@
+Hurlburt_Hurricane_midget_racer,_NX1223.jpg MARGE HURLBURT (Dec. 30, 1914 – July 4, 1947)[1] was an American aviator who flew with the Womens Air Service Pilots (WASP) during World War II and set a women's international air speed record in 1947.

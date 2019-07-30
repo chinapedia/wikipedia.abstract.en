@@ -1,0 +1,1 @@
+_ZOOM! THE BEST OF 1995–2016_ is a compilation album by the Welsh alternative rock band Super Furry Animals, released on 4 November 2016.[1] It is the band's third compilation album, after the B-sides/rarities collection _Out Spaced_ (1998), and _Songbook: The Singles, Vol. 1_ (2004).

@@ -1,0 +1,1 @@
+_SEVEN DOORS_ () is a 1988 play by the German writer Botho Strauß. It consists of eleven darkly comedic sketches on the subject of social decline. The play premiered on 20 November 1988 at the Stockholm City Theatre.[1]

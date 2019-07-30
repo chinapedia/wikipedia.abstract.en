@@ -1,0 +1,1 @@
+HARRY JOSEPH BRUNT ( – ) was a Canadian cartoonist who made significant humorous contributions during the era of the Canadian Whites. He is the father of Stephen Brunt, a sports columnist for _The Globe and Mail_.[1]

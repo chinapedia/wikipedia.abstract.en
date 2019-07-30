@@ -1,0 +1,1 @@
+PHILIP RANDOLPH LEE (born April 17, 1924) is an American physician who served as the United States Assistant Secretary for Health and Human Services under President Lyndon B. Johnson from 1965 to 1969 and President Bill Clinton from 1993 to 1998.

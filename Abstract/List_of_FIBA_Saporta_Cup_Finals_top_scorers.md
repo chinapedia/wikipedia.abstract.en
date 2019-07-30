@@ -1,0 +1,1 @@
+The FIBA SAPORTA CUP FINALS TOP SCORER was the individual award for the player that was the highest points scorer of the FIBA Saporta Cup Finals. Which was the championship Finals of the European-wide second-tier level professional club basketball competition, the FIBA Saporta Cup.

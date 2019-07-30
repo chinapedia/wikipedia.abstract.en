@@ -1,0 +1,1 @@
+OLAV ASPHEIM (24 November 1921 – 9 March 1948) was a Norwegian member of the fascist party Nasjonal Samling, volunteer front fighter for the 5th SS Panzer Division Wiking and Statspolitiet constable who was sentenced to death and shot after World War II.

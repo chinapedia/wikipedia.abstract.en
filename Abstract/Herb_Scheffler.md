@@ -1,0 +1,1 @@
+HERBERT GENE SCHEFFLER (November 5, 1917 – January 20, 2001) was an American professional basketball player.[1][2] He played in the National Basketball League for the Detroit Gems in 1946–47. In 33 career games he averaged 3.8 points per contest.[3]

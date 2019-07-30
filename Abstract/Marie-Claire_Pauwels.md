@@ -1,0 +1,1 @@
+MARIE-CLAIRE PAUWELS (3 September 1945, 15th arrondissement of Paris[1] – 22 May 2011) was a French journalist, the daughter of Suzanne Brégeon and Louis Pauwels. In April 1980, she launched the magazine _Madame Figaro_ of which she became the first editor-in-chief and received the Prix Roger Nimier in 2003 for her autobiographical work _Fille à papa_.[2]

@@ -1,0 +1,1 @@
+In physics and computer science, QUANTUM INFORMATION is the information of the state of a quantum system. It is the basic entity of study in QUANTUM INFORMATION THEORY,[1] and can be manipulated using quantum information processing techniques. Quantum information refers to both the technical definition in terms of Von Neumann entropy and the general computational term.

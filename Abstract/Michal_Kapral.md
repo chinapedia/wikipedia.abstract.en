@@ -1,0 +1,1 @@
+MICHAL KAPRAL (born 1972)[1] is a Canadian joggler based in Toronto, Ontario. He owns the world records for running the fastest marathon and half-marathon while juggling, for the fastest 10-kilometer run while juggling without a drop, and formerly held the world record for fastest marathon while pushing a stroller.

@@ -1,0 +1,1 @@
+NICHOLAS S. HASHU (February 1, 1917 – April 28, 2012) was an American professional basketball player.[1][2] He played in the National Basketball League for the Hammond Ciesar All-Americans and Chicago American Gears. He averaged 2.2 points per game.[3]

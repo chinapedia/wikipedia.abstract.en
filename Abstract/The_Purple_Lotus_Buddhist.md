@@ -1,0 +1,1 @@
+"THE PURPLE LOTUS BUDDHIST" () is a short story by Pu Songling collected in _Strange Stories from a Chinese Studio_ or _Liaozhai Zhiyi_ (1740). It revolves around a Chinese man battling a life-threatening illness. The tale was included in the fourth volume of Sidney Sondergard{{'s}} translation of _Liaozhai_ published in 2010.

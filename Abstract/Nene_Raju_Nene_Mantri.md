@@ -1,0 +1,1 @@
+_NENE RAJU NENE MANTRI_ (_I'm the King and I'm the Minister_) is a 2017 Indian Telugu-language political action thriller film written and directed by Teja, featuring Rana Daggubati in the lead role along with Kajal Aggarwal, Catherine Tresa, and Navdeep are the supporting role.[1]

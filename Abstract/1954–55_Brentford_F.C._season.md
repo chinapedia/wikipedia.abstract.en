@@ -1,0 +1,1 @@
+During the 1954–55 English football season, Brentford competed in the Football League Third Division South. In the club's first season back in the third-tier since 1932–33, the Bees finished in mid-table. The campaign was memorable for the debuts of youth products Jim Towers and George Francis, who would dominate Brentford's goalscoring charts until 1961.

@@ -1,0 +1,1 @@
+BMW-FIZ_(Muenchen).JPG The BMW GROUP FORSCHUNGS- UND INNOVATIONSZENTRUM (BMW FIZ) is the main engineering and development campus of the BMW Group. It is located in Milbertshofen-Am Hart, a district in northern Munich.

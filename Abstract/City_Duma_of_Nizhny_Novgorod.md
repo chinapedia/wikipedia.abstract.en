@@ -1,0 +1,1 @@
+NIZHNY NOVGOROD CITY DUMA () — the municipal legislative body in Nizhny Novgorod[1]. It consists of 47 deputies elected by citizens in municipal elections for a term of 5 years on a mixed electoral system[2]. The status and powers of the Duma determined by the articles of Charter of Nizhny Novgorod[3].

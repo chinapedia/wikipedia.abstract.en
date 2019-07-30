@@ -1,0 +1,1 @@
+The 2016 ATLANTIC COAST CONFERENCE MEN'S SOCCER TOURNAMENT is the 30th edition of the ACC Men's Soccer Tournament. The tournament decides the Atlantic Coast Conference champion and guaranteed representative into the 2016 NCAA Division I Men's Soccer Championship.

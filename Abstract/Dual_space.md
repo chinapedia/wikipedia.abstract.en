@@ -1,0 +1,1 @@
+In mathematics, any vector space _V_ has a corresponding DUAL VECTOR SPACE (or just DUAL SPACE for short) consisting of all linear functionals on _V_, together with the vector space structure of pointwise addition and scalar multiplication by constants.

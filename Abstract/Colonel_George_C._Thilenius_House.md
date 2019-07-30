@@ -1,0 +1,1 @@
+COLONEL GEORGE C. THILENIUS HOUSE, also known as LONGVIEW, is a historic home located at Cape Girardeau, Missouri. It was built between 1870 and 1873, and is a 2 1/2-story, painted red brick dwelling with Greek Revival style design elements. It sits on a stuccoed sandstone foundation and has a cross-gable roof. Also on the property are the remains of the old Thilenius Winery.[1]

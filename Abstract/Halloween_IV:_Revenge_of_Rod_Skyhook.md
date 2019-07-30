@@ -1,0 +1,1 @@
+"HALLOWEEN 4: THE REVENGE OF ROD SKYHOOK" is the fifth episode of the eighth season of the American sitcom _Modern Family_. It aired on October 26, 2016 on American Broadcasting Company (ABC). The episode is directed by Chris Koch and written by Stephen Lloyd.

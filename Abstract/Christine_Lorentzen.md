@@ -1,0 +1,1 @@
+CHRISTINE GYRSTING LORENTZEN (born January 13, 1979), also known as LORE, is a Danish singer-songwriter, project manager and former television presenter, best known as the lead vocalist of the rock band Cryoshell. Prior to joining the band, she competed in _Scenen er din_ and later co-presented the third series of _Vild med dans_ with Claus Elming.

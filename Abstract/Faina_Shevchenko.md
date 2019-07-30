@@ -1,0 +1,1 @@
+FAINA VASILYEVNA SHEVCHENKO (, born 17 July 1893, Voronezh, Imperial Russia, — died 10 May 1971, Moscow, Soviet Union) was a Russian and Soviet stage and film actress, the People's Artist of the USSR (1948) and the recipient of several high-profile state awards (including the Order of Lenin, 1938) and twice the Stalin Prize laureate (1943, 1946).[1]

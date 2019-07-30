@@ -1,0 +1,1 @@
+NONET, subtitled "Impressão rápida de todo o Brasil" (A rapid impression of the whole of Brazil) is a chamber-music work (with mixed choir) by the Brazilian composer Heitor Villa-Lobos, written in 1923. It is number W191 in the catalogue of works compiled by David .

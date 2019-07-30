@@ -1,0 +1,1 @@
+SIMBA (PTY) LTD. (commonly referred to as SIMBA) is a South African snack food manufacturer mainly operating in South Africa. It was founded in 1957 by Leon Greyvensteyn, and acquired by PepsiCo in 1999. It is best known for manufacturing potato and maize-based snack foods. They hold 63 percent of the South African crisps market.[1]

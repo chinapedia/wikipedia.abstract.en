@@ -1,0 +1,1 @@
+VALENTINA GRIGORYEVNA VORONTSOVA (Валентина Григорьевна Воронцова, born 26 July 1982) is a Russian female water polo player. She was a member of the Russia women's national water polo team, playing as goalkeeper.

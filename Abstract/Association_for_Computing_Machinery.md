@@ -1,0 +1,1 @@
+The ASSOCIATION FOR COMPUTING MACHINERY (ACM) is an international learned society for computing. It was founded in 1947, and is the world's largest scientific and educational computing society.[1] The ACM is a non-profit professional membership group,[2] claiming nearly 100,000 student and professional members .[3] Its headquarters are in New York City.[4]

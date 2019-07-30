@@ -1,0 +1,1 @@
+Diving}} Zweefduik_Swallow_dive.jpg DIVING is the sport of jumping or falling into water from a platform or springboard, usually while performing acrobatics. Diving is an internationally recognized sport that is part of the Olympic Games. In addition, unstructured and non-competitive diving is a recreational pastime.

@@ -1,0 +1,1 @@
+Glen_or_Glenda_(1953).webm _GLEN OR GLENDA_ is a 1953 American drama film written, directed by and starring Ed Wood (credited in his starring role as "Daniel Davis"), and featuring Bela Lugosi and Wood's then-girlfriend Dolores Fuller. It was produced by George Weiss who also made the exploitation film _Test Tube Babies_ that same year.[1]

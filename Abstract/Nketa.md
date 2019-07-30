@@ -1,0 +1,1 @@
+NKETA is a high-density suburb in the city of Bulawayo, Zimbabwe. The suburb is divided into sections from Nketa 6 to Nketa 9. It started its development in the early 1990s and the major portion of the suburb was built using loans. It boasts of a library and clinic and a good number of primary and high schools.

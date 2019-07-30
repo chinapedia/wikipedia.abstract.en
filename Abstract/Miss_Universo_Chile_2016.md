@@ -1,0 +1,1 @@
+MISS UNIVERSO CHILE 2016, the 53rd Miss Universo Chile pageant, was held on November 9, 2016. María Belén Jerez Spuler crowned Catalina Cáceres at end of the event. Cáceres represented Chile at Miss Universe 2016 pageant.

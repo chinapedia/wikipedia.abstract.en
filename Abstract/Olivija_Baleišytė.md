@@ -1,0 +1,1 @@
+OLIVIJA BALEIŠYTĖ (born 3 September 1998) is a Lithuanian female track cyclist, representing Lithuania at international competitions. She competed at the 2016 UEC European Track Championships in the elimination race event and individual pursuit event.[1]

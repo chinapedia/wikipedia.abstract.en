@@ -1,0 +1,1 @@
+The KRAG–JØRGENSEN is a repeating bolt action rifle designed by the Norwegians Ole Herman Johannes Krag and Erik Jørgensen in the late 19th century. It was adopted as a standard arm by Denmark, the United States and Norway. About 300 were delivered to Boer forces of the South African Republic.

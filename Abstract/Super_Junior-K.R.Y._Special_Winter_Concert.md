@@ -1,0 +1,1 @@
+SUPER JUNIOR-K.R.Y. SPECIAL WINTER CONCERT is Japan tour concert held by sub-group South Korean boyband Super Junior,SUPER JUNIOR-K.R.Y. to promote their Japanese single "Promise You". The Japan tour commenced with three shows in Yokohama and end in Tokyo gathering over 72,000 fans.

@@ -1,0 +1,1 @@
+SERIES (singular) is anything that is presented itself in a serial form. It is important to note that when we are talking about literary or media series, the only possible way to know the future/ending of them is by waiting for the next chapters/episodes to get released. It may refer to:

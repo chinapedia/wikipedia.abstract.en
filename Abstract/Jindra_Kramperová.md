@@ -1,0 +1,1 @@
+JINDRA "JINDŘIŠKA" KRAMPEROVÁ (born 28 September 1940) is a Czech figure skater and pianist. A three-time national champion in ladies' singles, she represented Czechoslovakia at the 1956 Winter Olympics and placed as high as fifth at the European Championships (1958).

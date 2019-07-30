@@ -1,0 +1,1 @@
+BRUNO JESI (Udine, 11 January 1916 - Turin, 11 January 1943) was an Italian military man. Descended from an ancient family of Jewish rabbis and father of the Italian historian, writer, archaeologist and philosopher Furio Jesi, he was a cavalry officer awarded of the Gold Medal of Military Valor for particular heroism.[1]

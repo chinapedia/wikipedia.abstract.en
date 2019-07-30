@@ -1,0 +1,1 @@
+Malachite_Kolwezi_Katanga_Congo.jpg specimen, showing the original botryoidal form & a polished face of the opposite half of the specimen. Mines in the vicinity of Kolwezi supply much of the polishing-grade malachite in the world.]] Malachite_Katanga_ROM.jpg.]]

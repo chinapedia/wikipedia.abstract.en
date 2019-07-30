@@ -1,0 +1,1 @@
+ALFAZ-E-MEWAT FM 107.8 (Rural Voices of Mewat) is a community radio station established in 2012 by S M Sehgal Foundation with seed funding from the Ministry of Agriculture, Government of India, under its Agricultural Technology Management Agency scheme.[1][2][3] The radio station is located in a community center in the village of Ghaghas in Haryana, India.

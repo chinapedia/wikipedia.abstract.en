@@ -1,0 +1,1 @@
+HILTON is a locality in the Canterbury Region of the South Island of New Zealand. It is located about south west of Geraldine and boarded by Gapes Valley and Pleasant Valley to the north, Kakahu Bush to the west and Geraldine Flat to the east. The Kakahu River flows through the area.

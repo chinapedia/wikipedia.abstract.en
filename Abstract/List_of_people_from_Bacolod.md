@@ -1,0 +1,1 @@
+The following is a list of notable people who were either born in, lived in, are current residents of, or are otherwise closely associated with or around the city of Bacolod, in Negros Occidental of the Negros Island, Philippines. Those not born in Bacolod have their places/province/countries of birth listed instead.

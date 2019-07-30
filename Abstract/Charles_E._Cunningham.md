@@ -1,0 +1,1 @@
+CHARLES E. CUNNINGHAM (July 1, 1823 – April 21, 1895) was an American politician who is best known for being the Union Labor Party's nominee for Vice President of the United States in the 1888 election.

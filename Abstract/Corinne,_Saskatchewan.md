@@ -1,0 +1,1 @@
+CORINNE, is an unincorporated community in Bratt's Lake Rural Municipality No. 129, Saskatchewan, Canada. The community is located at the intersections of Highway 6, Highway 39 and Highway 334 about 11 km north of Milestone.

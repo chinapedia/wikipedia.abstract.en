@@ -1,0 +1,1 @@
+RaniaKurdi.jpg RANIA KURDI (; born June 20, 1974) is a Jordanian-British actress, singer and TV presenter[1]. She has had a diverse career in the Middle East spanning over 20 years in TV, film, voice overs, theatre and where she topped the Arab pop music charts.[2][3]

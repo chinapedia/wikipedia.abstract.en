@@ -1,0 +1,1 @@
+Dr THEOPHILUS (THEO) BULKELEY HYSLOP FRSE MRCPE (1865-12 February 1933) was a British physician specialising in mental health and overseeing, in various medical capacities, the notorious Bethlem Royal Hospital in London (commonly known as Bedlam) from 1888 to 1911.[1] He was a exponent of eugenics.[2] He was also interested in the use of hypnotism in treating mental illness.[3]

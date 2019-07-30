@@ -1,0 +1,1 @@
+The PREMIER OF WESTERN AUSTRALIA is the head of the executive branch of government in the Australian state of Western Australia. The Premier has similar functions in Western Australia to those performed by the Prime Minister of Australia at the national level, subject to the different Constitutions.

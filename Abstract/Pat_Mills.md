@@ -1,0 +1,1 @@
+PAT EAMON MILLS[1] (born 1949) is a British comics writer and editor who, along with John Wagner, revitalised British boys comics in the 1970s, and has remained a leading light in British comics ever since. He has been called "the godfather of British comics".[2]

@@ -1,0 +1,1 @@
+SIGGI'S DAIRY (stylized as siggi's dairy) is an American brand of skyr an Icelandic version of yogurt that is owned by Icelandic Milk & Skyr Corporation and was launched in Whole Foods Market stores across the United States in 2008. The company was founded by Icelandic native Siggi Hilmarsson, who had previously sold his yogurt locally in New York.

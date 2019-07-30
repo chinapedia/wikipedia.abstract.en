@@ -1,0 +1,1 @@
+PAINTSHOP PRO (PSP) is a raster and vector graphics editor for Microsoft Windows. It was originally published by Jasc Software. In October 2004, Corel purchased Jasc Software and the distribution rights to Paint Shop Pro. PSP functionality can be extended by Photoshop-compatible plugins.

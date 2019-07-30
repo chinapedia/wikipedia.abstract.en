@@ -1,0 +1,1 @@
+GILLES DELOUCHE (3 August 1948 in Orléans), is a French scholar of classical literature of the Rattanakosin Kingdom (Thai language), Professor at the Institut national des langues et civilisations orientales (INALCO) since 1987, having taught from 1971 to 1987 at the Faculty of Arts, Silpakorn University (Thailand), which awarded him an honorary degree.

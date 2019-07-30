@@ -1,0 +1,1 @@
+PIERS ANTHONY DILLINGHAM JACOB (born 6 August 1934 in Oxford, England)[1] is an English-American author in the science fiction and fantasy genres, publishing under the name PIERS ANTHONY. He is most famous for his long-running novel series set in the fictional realm of Xanth.

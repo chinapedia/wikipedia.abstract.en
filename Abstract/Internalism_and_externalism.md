@@ -1,0 +1,1 @@
+INTERNALISM AND EXTERNALISM are two opposing ways of explaining various subjects in several areas of philosophy. These include human motivation, knowledge, justification, meaning, and truth. The distinction arises in many areas of debate with similar but distinct meanings.

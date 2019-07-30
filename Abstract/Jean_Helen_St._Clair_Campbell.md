@@ -1,0 +1,1 @@
+JEAN HELEN ST. CLAIR CAMPBELL, LADY STRATHEDEN AND CAMPBELL CBE (?–9 August 1956) served as the Girl Guide Chief Commissioner for the British Commonwealth. She was a recipient of the Silver Fish Award, the highest adult award in Girlguiding, awarded for outstanding service to Girlguiding combined with service to world Guiding.[1]

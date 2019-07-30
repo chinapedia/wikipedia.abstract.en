@@ -1,0 +1,1 @@
+CHLORIDE is an unincorporated community in Iron County, in the U.S. state of Missouri.[1] Chloride is located on Big Creek along Missouri Route 49. The community is approximately 1.5 miles south of the lead smelter at Glover.[2]

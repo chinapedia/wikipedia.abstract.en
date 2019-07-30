@@ -1,0 +1,1 @@
+KARL ALONZO POWE (born January 17, 1962) is a former American football wide receiver in the National Football League (NFL) for the Dallas Cowboys. He played college football at Alabama State University.

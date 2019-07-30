@@ -1,0 +1,1 @@
+The SAVAGE LAND is a hidden prehistoric land appearing in American comic books published by Marvel Comics. It is a tropical preserve hidden in Antarctica. It has appeared in many story arcs in _Uncanny X-Men_ as well as related books.

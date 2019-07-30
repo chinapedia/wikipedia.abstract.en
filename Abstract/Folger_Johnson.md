@@ -1,0 +1,1 @@
+FOLGER JOHNSON (July 4, 1882 – November 4, 1970) was an architect who practiced in Portland, Oregon. Several of his works are listed on the U.S. National Register of Historic Places for their architecture.

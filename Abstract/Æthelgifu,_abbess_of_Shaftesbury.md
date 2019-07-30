@@ -1,0 +1,1 @@
+ÆTHELGIFU (), was a daughter of King Alfred the Great, an Anglo-Saxon king of the 9th century. She was the third of Alfred and his wife Ealhswith's five children and the second eldest daughter. She was likely born sometime in the 870s.[1]

@@ -1,0 +1,1 @@
+_MYSTIC MESSENGER_ (, lit. "Mysterious Messenger") is a South Korean female oriented visual novel game developed by Cheritz.[1] It was released on July 8, 2016 for Android and August 18, 2016 for iOS. The game is described as "storytelling messenger game" and is available in Korean, English and Spanish.[2]

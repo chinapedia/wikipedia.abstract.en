@@ -1,0 +1,1 @@
+MANDROID ECHOSTAR is a six-piece heavy metal band from Guelph, Ontario, Canada. The band's sound has been described as a combination of melodic technical guitars, progressive metal, and heavy metal. The band won the Juno Award for Metal/Hard Music Album of the Year at the Juno Awards of 2017 for their album _Coral Throne_.[1]

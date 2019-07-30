@@ -1,0 +1,1 @@
+_HIMANTOLOPHUS COMPRESSUS_ is a species of footballfish, a type of anglerfish. The fish is bathypelagic and non-migratory; it can be found in the Atlantic Ocean off the coast of Madeira and southern Portugal.[1]

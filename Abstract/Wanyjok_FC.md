@@ -1,0 +1,1 @@
+WANYJOK FOOTBALL CLUB is a South Sudanese sports club homed in Wanyjok. The team was founded on eight February 2010 by Wanyjok youths. The team is nicknamed THE LIONS. Their home ground is Lions Ground.[1]

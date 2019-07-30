@@ -1,0 +1,1 @@
+SANGSUL YI (Jincheon County, January 27, 1871 (7 December 1870 of the lunar calendar) – Ussuriysk, March 2, 1917[1]), also known as YI SANG-SEOL, was a Korean a civil servant and independence activist.

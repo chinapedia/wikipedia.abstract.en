@@ -1,0 +1,1 @@
+GAZPROM-UGRA () is a Russian men's volleyball club from Surgut. It was founded in 1996.[1] Previously he performed under the names _Gazovik_ (1996-1997), _Gazovik-ZSK_ (1997-2000), _ZSK-Gazprom_ (2000-2007). Basic colors - white and blue.[2]

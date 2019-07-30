@@ -1,0 +1,1 @@
+JOHN M. AND LILLIAN SOMMERER HOUSE is a historic home located in Jefferson City, Cole County, Missouri. It was built in 1929, and is a 2 1/2-story Italian Renaissance style yellow brick dwelling. It has a low hipped clay tile roof with overhanging eaves. It features a one-story front porch and porte cochere.[1]

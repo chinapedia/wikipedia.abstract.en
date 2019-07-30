@@ -1,0 +1,1 @@
+VALENTINE PYNE (1603-1677) was master gunner of England, a companion of Prince Rupert of the Rhine following Royalist service in the English Civil War, and Lieutenant of the garrison at the Tower of London.[1]

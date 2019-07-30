@@ -1,0 +1,1 @@
+NICHOLAS "NICK" O'BANNON is a fictional character and the protagonist and visionary of _The Final Destination_. He is one of the survivors of the McKinley Speedway crash, and the tenth and final survivor to die.

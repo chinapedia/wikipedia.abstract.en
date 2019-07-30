@@ -1,0 +1,1 @@
+JANNEKE ELLEN RAAIJMAKERS (born 28 June 1973, in Hilversum)[1] is a Dutch historian of the Middle Ages who specializes in the formation of monastic communities and the role of religious objects in the cult of the saints, with a particular focus on Fulda and the Fulda monastery, founded by Saint Boniface.

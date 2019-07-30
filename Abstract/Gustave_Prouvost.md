@@ -1,0 +1,1 @@
+GUSTAVE PROUVOST (born 25 March 1887) is a French male former water polo player. He was a member of the France men's national water polo team. He competed with the team at the 1912 Summer Olympics.[1]

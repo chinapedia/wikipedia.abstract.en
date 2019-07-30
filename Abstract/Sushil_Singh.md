@@ -1,0 +1,1 @@
+SUSHIL SINGH () is an Indian politician and a member of the 17th Legislative Assembly of Uttar Pradesh of India. He represents the Saiyad Raja Assembly constituency in Chandauli district of Uttar Pradesh and is a member of the Bhartiya Janta Party.[1][2] [3][4]

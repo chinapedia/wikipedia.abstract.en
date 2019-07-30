@@ -1,0 +1,1 @@
+"OH! HARK!" is a song performed and written by Australian singer–songwriter Lisa Mitchell. The song was released in April 2010 as the third and final single from her debut studio album, _Wonder_ (2009). The track peaked at number 71 on the ARIA Chart.

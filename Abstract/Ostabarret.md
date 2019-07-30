@@ -1,0 +1,1 @@
+OSTABARRET (, ) is a central region of the traditional province of Basse-Navarre in the far south of France. It corresponds to the valley of the upper reaches of the river Bidouze. It is hilly, open country, characterized by low mountains and round hills between 160 and 650 metres in elevation. The region takes its name from the village of Ostabat.

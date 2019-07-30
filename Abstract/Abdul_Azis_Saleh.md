@@ -1,0 +1,1 @@
+Dr. ABDUL AZIS SALEH, a specialist in anthropology and education, was a leader of Indonesian Scouting and served as a member of the World Scout Committee and President of the World Organization of the Scout Movement Asia-Pacific Region.[1]

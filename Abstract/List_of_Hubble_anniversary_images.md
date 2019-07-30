@@ -1,0 +1,1 @@
+LIST OF HUBBLE ANNIVERSARY IMAGES is a list of images released to celebrate the Hubble Space Telescope anniversaries. They celebrate its "birthday" when it was launched into orbit on April 24, 1990 by the Space Shuttle with its crew.[1]

@@ -1,0 +1,1 @@
+The 1944–45 DREXEL DRAGONS MEN'S BASKETBALL TEAM represented Drexel Institute of Technology during the 1944–45 men's basketball season. The Dragons, led by 1st year head coach Maury McMains, played their home games at Curtis Hall Gym.[1]

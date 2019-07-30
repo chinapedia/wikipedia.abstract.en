@@ -1,0 +1,1 @@
+DANNY KAYE (born DAVID DANIEL KAMINSKY; ; January 18, 1911 – March 3, 1987) was an American actor, singer, dancer, comedian, musician, and philanthropist. His performances featured physical comedy, idiosyncratic pantomimes, and rapid-fire novelty songs.

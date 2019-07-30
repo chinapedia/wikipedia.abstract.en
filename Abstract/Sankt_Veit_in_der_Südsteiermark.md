@@ -1,0 +1,1 @@
+Pfarrkirche_Sankt_Veit_am_Vogau_02.jpg

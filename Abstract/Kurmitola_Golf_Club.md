@@ -1,0 +1,1 @@
+KURMITOLA GOLF CLUB is a golf club in Dhaka Cantonment, Bangladesh. Operated by Bangladesh Army. The president of the club is the present Bangladesh army chief general Aziz Ahmed[1][2] The club has been described as "prestigious".[3][4]

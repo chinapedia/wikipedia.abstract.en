@@ -1,0 +1,1 @@
+"WHITE LOVE" is a single by Japanese girl group Speed. It was released on October 15, 1997.[1] It was number-one on the _Oricon_ Weekly Singles Chart.[2] It was the 10th best-selling single in Japan in 1997, with 1.164 million copies sold[3] and it has sold a total of 1.845 million copies.[4]

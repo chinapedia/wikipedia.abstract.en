@@ -1,0 +1,1 @@
+THE BRITISH PACKET, AND ARGENTINE NEWS was an English newspaper, edited for the British and American community of Buenos Aires.[1] The journal was founded by Thomas George Love in 1826,[2] and published until 1859.[3]

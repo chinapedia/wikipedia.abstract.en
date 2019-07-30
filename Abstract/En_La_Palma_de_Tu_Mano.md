@@ -1,0 +1,1 @@
+_EN LA PALMA DE TU MANO_ (_In the Palm of Your Hand_) is a 1951 Mexican crime drama film directed by Roberto Gavaldón. The film received eleven nominations and won eight Ariel Awards in 1952, including Best Picture and Best Director.[1]

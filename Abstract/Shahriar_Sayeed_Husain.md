@@ -1,0 +1,1 @@
+SHAHRIAR SAYEED HUSAIN is a Bangladeshi businessman, who owned; including his business partner Abul Hashem Fakir ;Shahriar Fabrics and Spectrum Sweater Industries[1] which collapsed in Savar, a sub-district near Dhaka, Bangladesh

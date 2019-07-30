@@ -1,0 +1,1 @@
+DAFYDD TREFOR (d. 1528?) was a Welsh cleric and bard. He is known to have been born in the parish of Llanddeiniolen, Caernarfonshire. Bangor parish records for 1504 refer to him as rector of Llanygrad (i.e. Llaneugrad-cum-Llanallgo, Anglesey), and as a canon.

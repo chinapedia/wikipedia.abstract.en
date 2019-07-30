@@ -1,0 +1,1 @@
+TUNG SING FOOTBALL CLUB () is a Hong Kong football club currently playing in the Hong Kong Second Division. Nicknamed the "Troops" (), the club was founded by former Hong Kong Football Association president Henry Fok in 1959 and wears orange as their primary colour.[1] Fok's grandson, Fok Kai Shan, is the current president of the club.

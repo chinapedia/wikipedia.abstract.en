@@ -1,0 +1,1 @@
+The de Havilland Propellers BLUE STREAK was a British medium-range ballistic missile (MRBM), and later the first stage of the Europa satellite launch vehicle. Blue Streak was cancelled without entering full production.[1]

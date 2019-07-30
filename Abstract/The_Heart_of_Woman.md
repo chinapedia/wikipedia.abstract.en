@@ -1,0 +1,1 @@
+_THE HEART OF WOMAN_ (; Pe̍h-ōe-jī: Thian-hā Lú-jîn-sim), also known as _WOMEN_, is a Taiwanese Hokkien television series that began airing on SET Taiwan in Taiwan on 21 November 2012, from Mondays to Fridays, and ends on 21 November 2013, lasting one year with a total of 262 episodes.[1]

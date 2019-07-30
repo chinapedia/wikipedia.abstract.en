@@ -1,0 +1,1 @@
+Route_of_the_1993_Tour_de_France.png The 1993 Tour de France was the 80th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Le Puy du Fou with a prologue individual time trial on 3 July and Stage 11 occurred on 15 July with a mountainous stage from Serre Chevalier. The race finished on the Champs-Élysées in Paris on 25 July.

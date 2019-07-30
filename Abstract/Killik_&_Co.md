@@ -1,0 +1,1 @@
+KILLIK & CO is a British retail investment company and independent Partnership, providing advice on savings, planning and investment to retail investors through a network of branches in the UK, managing assets on behalf of 27,000 clients.[1]

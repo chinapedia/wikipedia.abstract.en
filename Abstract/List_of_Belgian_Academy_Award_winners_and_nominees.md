@@ -1,0 +1,1 @@
+This is a LIST OF BELGIAN ACADEMY AWARD WINNERS AND NOMINEES. This list details the performances of Belgian actors, actresses, and films that have either been nominated for, or have won an Academy Award (The Oscars). This list is current as of the 91st Academy Awards ceremony held on February 24, 2019.

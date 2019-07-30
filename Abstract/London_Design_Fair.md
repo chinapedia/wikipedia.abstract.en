@@ -1,0 +1,1 @@
+The LONDON DESIGN FAIR is an international trade show that occurs during the London Design Festival. It takes place in the Old Truman Brewery, on Brick Lane in East London over four days every September.

@@ -1,0 +1,1 @@
+_NATPUDAN APSARA_ (; is a Tamil Celebrities Talk Show that aired every Saturday on Thanthi TV from 13 July 2013 to 1 January 2014 at 8:00PM IST for 26 episode. The show is hosted by Apsara 2356,[1] This is the Second TV show in India hosted by a transgender person.[2]

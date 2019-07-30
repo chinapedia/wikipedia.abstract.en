@@ -1,0 +1,1 @@
+LISA JONES SMOKSTAD (born September 6, 1969) is an American tire specialist. She has been employed by multiple-champion NASCAR race car team Hendrick Motorsports since 1999, and has worked for various drivers.

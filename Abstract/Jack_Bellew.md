@@ -1,0 +1,1 @@
+JACK WELDON BELLEW (1901 – 1957) was an Australian journalist and publisher. He was a former chief of staff of _The Daily Telegraph_ and the Sydney _Daily News_ and one of the three founders of Atlas Publications.

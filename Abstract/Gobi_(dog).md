@@ -1,0 +1,1 @@
+Dion_and_Gobi.jpg, near Urumqi, China. ]] GOBI is a small, female border terrier mix dog that began following ultra marathon runner Dion Leonard at the beginning of Stage II of the Gobi Desert Run in China in June 2016.[1] Some vets have now told Dion that the dog could be a mix of Shih Tzu, and Chihuahua.[2]

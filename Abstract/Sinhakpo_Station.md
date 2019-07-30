@@ -1,0 +1,1 @@
+SINHAKP'O STATION is a railway station in Hakp'o-ri, Hoeryŏng county, North Hamgyŏng province, North Korea. It is the starting point of the Sechŏn branch Hambuk Line of the Korean State Railway to Chungbong Station.[1]

@@ -1,0 +1,1 @@
+'''Sasa Palamarevic ''' (born 16 July 1986) is a Bosnian Serb born[1] Canadian male water polo player. He was a member of the Canada men's national water polo team, playing as a centre forward. He was a part of the team at the 2008 Summer Olympics.[2][3] On club level he played for Hull in Canada.

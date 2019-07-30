@@ -1,0 +1,1 @@
+_FEIJÃO MARAVILHA_ was a Brazilian telenovela produced and broadcast by Rede Globo. It premiered on 19 March 1979 and ended on 3 August 1979, with a total of 125 episodes. It's the twenty third "novela das sete" to be aired at the timeslot. It is created by Bráulio Pedroso and directed by Paulo Ubiratan.[1][2]

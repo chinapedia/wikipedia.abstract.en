@@ -1,0 +1,1 @@
+Gustaf_Lundberg_-_Portrait_of_Adolf_Frederick,_King_of_Sweden_-_WGA13779.jpg DECEMBER CRISIS (1768) () was a political crisis which occurred in Sweden in December 1768 when Adolf Frederick, King of Sweden, demonstrated against his limited powers by refusing to sign state documents, thereby paralyzed the government and bringing about a new Riksdag of the Estates.

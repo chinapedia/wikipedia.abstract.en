@@ -1,0 +1,1 @@
+SIMHARAJA (IAST: Siṃharāja, r. c. 944-971 CE ) was an Indian king belonging to the Shakambhari Chahamana dynasty. He ruled the Sapadalaksha country, which included parts of present-day Rajasthan in north-western India. He was the first Chahamana ruler to assume the title Maharajadhiraja.

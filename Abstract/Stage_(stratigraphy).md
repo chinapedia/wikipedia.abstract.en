@@ -1,0 +1,1 @@
+In chronostratigraphy, a STAGE is a succession of rock strata laid down in a single age on the geologic timescale, which usually represents millions of years of deposition. A given stage of rock and the corresponding age of time will by convention have the same name, and the same boundaries.

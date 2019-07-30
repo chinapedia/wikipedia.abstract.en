@@ -1,0 +1,1 @@
+_KID ICARUS_, known in Japan as _LIGHT MYTHOLOGY: PALUTENA'S MIRROR_, is an action platform video game for the Family Computer Disk System in Japan and the Nintendo Entertainment System in Europe and North America. It was released in Japan in December 1986, in Europe in February 1987, and in North America in July 1987.

@@ -1,0 +1,1 @@
+REBECCA COBB is a British children's book illustrator. She grew up in Buckinghamshire and Somerset and now lives in Falmouth. Along with writing and illustrating her own books, she has also collaborated with other authors including Julia Donaldson, Richard Curtis[1] and Helen Dunmore.[2]

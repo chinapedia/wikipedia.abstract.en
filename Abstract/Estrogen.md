@@ -1,0 +1,1 @@
+ESTROGEN, or OESTROGEN, is the primary female sex hormone. It is responsible for the development and regulation of the female reproductive system and secondary sex characteristics. There are three major endogenous estrogens in females that have ESTROGENIC hormonal activity: estrone, estradiol, and estriol. The estrane steroid estradiol is the most potent and prevalent of these.

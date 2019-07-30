@@ -1,0 +1,1 @@
+Chinese Taipei competed at the 1994 Asian Games in Hiroshima, Japan. This was their 6th appearance in the Asian Games. They won at total of 7 gold, 13 silver, and 24 bronze medals, or 44 medals in total. They improved from the previous Asian Games in 1990, where they won a total of 31 medals. They won the most medals in Judo, where they got a total of 1 silver and 5 bronze.[1]

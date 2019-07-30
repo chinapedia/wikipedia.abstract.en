@@ -1,0 +1,1 @@
+Muhammad Ali and Jimmy Young fought a boxing match on April 30, 1976. Ali won the bout through a unanimous decision on points. This bout was aired live in primetime on ABC with Howard Cosell calling the action from the Capitol Centre in Landover, Maryland.

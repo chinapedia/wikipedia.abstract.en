@@ -1,0 +1,1 @@
+ANDREW TURZILLI (born October 13, 1991) is an American football wide receiver. He played college football at the University of Kansas before transferring to Rutgers. He was signed by the Tennessee Titans as an undrafted free agent in 2015.

@@ -1,0 +1,1 @@
+MARK DAOUD is a Lebanese rugby league player who has played for the Parramatta Eels in the New South Wales Cup.[1]. Daoud also played 1 match for The North Sydney Bears in The NSW Cup[2]. Daoud currently plays for The Asquith Magpies [3].

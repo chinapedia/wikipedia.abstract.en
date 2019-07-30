@@ -1,0 +1,1 @@
+COURT VISION (foaled March 27, 2005 in Kentucky) is a retired racehorse who was a five time Grade I winner including the Breeders' Cup Mile. Upon retirement to stud in 2012, he first stood in Ontario, then was moved to Kentucky for 2016 then Louisiana for 2017.

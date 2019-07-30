@@ -1,0 +1,1 @@
+This is a list of the 44 species of Nemertea (ribbon worms, proboscis worms) found in Ireland.[1] [2] 1, 2 _Euborlasia elizabethae_ (Lineidae);3 _Micrura purpurea_ (Lineidae); 4 _Leucocephalonemertes aurantiaca_ (Lineidae);5 _Carinella annulata_ (Tubulanidae);6 _Emplectonema neesii_ (Örsted, 1843)

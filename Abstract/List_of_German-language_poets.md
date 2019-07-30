@@ -1,0 +1,1 @@
+This list contains the names of individuals (of any ethnicity or nationality) who wrote poetry in the German language. Most are identified as "German poets", but some are not German.

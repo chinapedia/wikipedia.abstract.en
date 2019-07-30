@@ -1,0 +1,1 @@
+"THE CELL" is the third episode of the seventh season of the post-apocalyptic horror television series _The Walking Dead_, which aired on AMC on November 6, 2016. The episode was written by Angela Kang and directed by Alrick Riley.

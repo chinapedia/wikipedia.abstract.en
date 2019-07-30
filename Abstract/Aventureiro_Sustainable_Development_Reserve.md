@@ -1,0 +1,1 @@
+The AVENTUREIRO SUSTAINABLE DEVELOPMENT RESERVE (), formerly the AVENTUREIRO MARINE STATE PARK, is a sustainable development reserve in the state of Rio de Janeiro, Brazil. It supports artisanal fishing by a small traditional community on the Ilha Grande, an island off the southwest coast of the state.

@@ -1,0 +1,1 @@
+The 1976 BOISE STATE BRONCOS FOOTBALL TEAM represented Boise State University in the 1976 NCAA Division II football season. The Broncos competed in the Big Sky Conference and played their home games on campus at Bronco Stadium in Boise, Idaho. Led by first-year head coach Jim Criner, the Broncos were overall and in conference.

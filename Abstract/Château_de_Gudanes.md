@@ -1,0 +1,1 @@
+The CHÂTEAU DE GUDANES is an 18th-century neoclassical château in the commune of Château-Verdun, in the southern French department of Ariège. It is built on the site of an older castle destroyed in 1580. The château has been a designated _monument historique_ since 1994,[1] but fell into ruin in the late 20th century. It was purchased in 2013 and is currently being restored.[2]

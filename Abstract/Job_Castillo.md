@@ -1,0 +1,1 @@
+JOB CASTILLO GALINDO (born 1 November 1992) is a Mexican badminton player.[1] He competed at the 2010 Summer Youth Olympics in Singapore.[2] He was the bronze medalist at the 2015 Pan American Games in the men's doubles event with his partner Lino Muñoz.[3]

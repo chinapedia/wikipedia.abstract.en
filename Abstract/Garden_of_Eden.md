@@ -1,0 +1,1 @@
+Hieronymus_Bosch_-_The_Garden_of_Earthly_Delights_-_The_Earthly_Paradise_(Garden_of_Eden).jpg's _The Garden of Earthly Delights_ triptych. The panel includes many imagined and exotic African animals.[1]]]

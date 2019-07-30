@@ -1,0 +1,1 @@
+The HEPWORTH PRIZE FOR SCULPTURE is a biennial prize for sculpture named for Barbara Hepworth and awarded by The Hepworth Wakefield. The prize seeks to recognise "a British or UK-based artist of any age, at any stage in their career, who has made a significant contribution to the development of contemporary sculpture".[1]

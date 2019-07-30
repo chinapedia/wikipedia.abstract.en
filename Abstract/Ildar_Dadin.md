@@ -1,0 +1,1 @@
+ILDAR ILDUSOVICH DADIN (, , born April 14, 1982) is a Russian activist, accused of violent acts and derailing during demonstrations and hence constantly receiving increased attention from the authority. He is the first person to spend 1 year in a penal colony solely for his activity.

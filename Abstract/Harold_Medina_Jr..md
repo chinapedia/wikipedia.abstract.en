@@ -1,0 +1,1 @@
+HAROLD RAYMOND MEDINA JR. (October 19, 1912 – February 17, 1991) was an American trial lawyer and expert in libel, privacy, and copyright, who spent his career with the law firm of Cravath, Swaine & Moore.[1][2]

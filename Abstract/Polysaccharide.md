@@ -1,0 +1,1 @@
+Cellulose-Ibeta-from-xtal-2002-3D-balls.png, a beta-glucan polysaccharide.]] amylose_3Dprojection.corrected.png is a linear polymer of glucose mainly linked with α(1→4) bonds. It can be made of several thousands of glucose units. It is one of the two components of starch, the other being amylopectin.]]

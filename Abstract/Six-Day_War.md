@@ -1,0 +1,1 @@
+The SIX-DAY WAR (, _Milhemet Sheshet Ha Yamim_; Arabic: , _an-Naksah_, "The Setback" or , _Ḥarb 1967_, "War of 1967"), also known as the JUNE WAR, 1967 ARAB–ISRAELI WAR, or THIRD ARAB–ISRAELI WAR, was fought between 5 and 10 June 1967 by Israel and the neighboring states of Egypt (known at the time as the United Arab Republic), Jordan, and Syria.

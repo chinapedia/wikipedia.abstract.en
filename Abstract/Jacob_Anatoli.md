@@ -1,0 +1,1 @@
+JACOB BEN ABBA MARI BEN SIMSON[1] ANATOLI (c. 1194 – 1256) was a translator of Arabic texts to Hebrew. He was invited to Naples by Frederick II. Under this royal patronage, and in association with Michael Scot, Anatoli made Arabic learning accessible to Western readers. Among his most important works were translations of texts by Averroes.[2]

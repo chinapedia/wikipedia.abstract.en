@@ -1,0 +1,1 @@
+Teatro_Estatal_Ruso,_Tallinn,_Estonia,_2012-08-05,_DD_01.JPG The RUSSIAN THEATRE (, ) is a Russian-language theatre in Tallinn, Estonia. It is housed in a building that was originally built as a cinema in 1926 and is in Art Deco style.[1][2][3]

@@ -1,0 +1,1 @@
+Albert Ernest Pickard (1874-1964) was a showman and eccentric. He was responsible for saving the flagging Britannia Music Hall in Glasgow by turning it into the Britannia Panopticon (known as the Pots and Pans locally[1]).

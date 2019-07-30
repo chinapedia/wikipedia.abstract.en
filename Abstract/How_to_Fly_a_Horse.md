@@ -1,0 +1,1 @@
+_HOW TO FLY A HORSE: THE SECRET HISTORY OF CREATION, INVENTION, AND DISCOVERY_ is a 2015 non-fiction book by the technology pioneer Kevin Ashton. In the book, Ashton debunks many common myths about creativity and proposes that hard work, rather than creative genius, is the true source of innovation.[1]

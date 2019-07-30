@@ -1,0 +1,1 @@
+ARMOURED TROOPS () are the corps in the Ukrainian Ground Forces, the main striking force of ground troops. They are used primarily in conjunction with mechanized forces in key areas and perform the following tasks:

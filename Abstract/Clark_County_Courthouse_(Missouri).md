@@ -1,0 +1,1 @@
+CLARK COUNTY COURTHOUSE was a historic courthouse located at Kahoka, Clark County, Missouri. It was built in 1871, and was a two-story, cross-plan, brick building sheathed in stucco. The building featured quoins, bracketed eaves, and an octagonal cupola.[1] It was demolished following a 2010 vote.[2]

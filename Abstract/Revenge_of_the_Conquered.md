@@ -1,0 +1,1 @@
+_REVENGE OF THE CONQUERED_ (, literally "Drakut the Avenger") is a 1961 Italian epic adventure film directed by Luigi Capuano and starring Burt Nelson and Wandisa Guida. It grossed 244 million lire at the Italian box office.[1][2]

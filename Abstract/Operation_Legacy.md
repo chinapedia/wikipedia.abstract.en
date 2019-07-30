@@ -1,0 +1,1 @@
+OPERATION LEGACY was a British Colonial Office (later Foreign Office) program to destroy or hide files, to prevent them being inherited by its ex-colonies.[1][2] It ran from the 1950s until the 1970s, when the decolonisation of the British Empire was at its height.[3]

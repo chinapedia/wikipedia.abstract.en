@@ -1,0 +1,1 @@
+The TUNISIAN SENIORS OPEN was a senior (over 50s) men's professional match play golf tournament played on the European Seniors Tour. It was played in late 1992 and then from 2001 to 2003. It was held at Port El Kantaoui Golf Club, Port El Kantaoui, Tunisia which had previously hosted the Tunisian Open from 1982 to 1985.

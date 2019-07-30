@@ -1,0 +1,1 @@
+These lists include all players who have made at least one appearance in a competitive match for the Bethlehem Steel FC since the team's first USL season in 2016. Players who have been listed on the team's roster but have not made any appearances are not listed.

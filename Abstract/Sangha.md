@@ -1,0 +1,1 @@
+RatoMonks.jpg monastery, Rato Dratsang, India, January 2015|right]] {{ Infobox Buddhist term | title = Sangha | en = | pi = संघ | pi-Latn = saṅgha | sa = संघ | sa-Latn = saṃgha | bn = | my = သံဃာ | my-Latn = θaɴɡà | zh = 僧伽 | zh-Latn = sēngjiā[1] | ja = 僧 | ja-Latn = sō | km = សង្ឃ, ព្រះសង្ឃ

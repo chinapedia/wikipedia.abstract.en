@@ -1,0 +1,1 @@
+The PHILIPPINE SPAN ASIA CARRIER CORPORATION (PSACC) formerly named SULPICIO LINES currently holds the world record for the worst peacetime maritime disaster due to the sinking MV Doña Paz which is said to have claimed more than 5,000 lives in the Philippines.[1][2]

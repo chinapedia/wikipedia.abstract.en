@@ -1,0 +1,1 @@
+EDMOND DESTAING (19 January 1872 – 27 December 1940) was a French orientalist Arabist, Berberologist, and first holder of the Chair of Berber at the Institut national des langues et civilisations orientales.

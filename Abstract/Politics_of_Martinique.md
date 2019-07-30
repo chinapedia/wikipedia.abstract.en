@@ -1,0 +1,1 @@
+Martinique is an overseas Territorial collectivity of France, with the same political status as regions and departments in mainland France. The administrative centre of Martinique is located in Fort-de-France.

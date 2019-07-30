@@ -1,0 +1,1 @@
+The 2016 RAN WOMEN'S SEVENS CHAMPIONSHIP was the twelfth tournament of the RAN Women's Sevens, the official rugby sevens continental championships organized by RAN. Both the women's and men's competitions were held at Saint Mary's College, Trinidad and Tobago in Port of Spain on 12–13 November 2016.[1]

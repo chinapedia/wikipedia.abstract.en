@@ -1,0 +1,1 @@
+GOINGBACK CHILTOSKEY (April 20, 1907 – November 12, 2000), also written GOINGBACK CHILTOSKIE, was an American Cherokee woodcarver and model maker, "one of the most celebrated Cherokee woodcarvers of the Craft Revival era."[1]

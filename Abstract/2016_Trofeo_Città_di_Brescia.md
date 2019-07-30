@@ -1,0 +1,1 @@
+The 2016 TROFEO CITTÀ DI BRESCIA is a professional tennis tournament played on carpet courts. It is the third edition of the tournament which was part of the 2016 ATP Challenger Tour. It takes place in Brescia, Italy between November 14 and November 20, 2016.

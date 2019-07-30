@@ -1,0 +1,1 @@
+EUREKA is a city located in St. Louis County, Missouri, United States, adjacent to the cities of Wildwood and Pacific, along Interstate 44. It is in the extreme southwest of the Greater St. Louis metro area. As of the 2010 census, the city had a population of 10,189.[1] Since 1971, Eureka has been known as the home of the amusement park Six Flags St. Louis.

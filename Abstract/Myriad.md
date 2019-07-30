@@ -1,0 +1,1 @@
+A MYRIAD (from Ancient Greek ) is technically the number ten thousand; in that sense, the term is used almost exclusively in translations from Greek, Latin, or Chinese, or when talking about ancient Greek numbers. More generally, a myriad may be an indefinitely large number of things.[1]

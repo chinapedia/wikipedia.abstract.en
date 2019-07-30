@@ -1,0 +1,1 @@
+RICHARD JEFFREY SALTER (Hindhead, Surrey, on November 12, 1943 – Karlsruhe, February 1, 2009) was an English baritone, known as a founder member of The Kings Singers before moving to Austria and Germany to take leading roles in many contemporary operas.[1]

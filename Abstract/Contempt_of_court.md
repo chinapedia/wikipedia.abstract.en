@@ -1,0 +1,1 @@
+CONTEMPT OF COURT, often referred to simply as "CONTEMPT", is the offense of being disobedient to or disrespectful toward a court of law and its officers in the form of behavior that opposes or defies the authority, justice and dignity of the court.[1][2] A very similar attitude towards a legislative body is termed contempt of Parliament or contempt of Congress.

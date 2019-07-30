@@ -1,0 +1,1 @@
+HARRY ALLAN STEWART (July 11, 1892 – 1970) was a dentist and politician in Ontario, Canada. He represented Kingston in the Legislative Assembly of Ontario from 1943 to 1951 as a Progressive Conservative.[1]

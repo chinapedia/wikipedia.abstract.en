@@ -1,0 +1,1 @@
+JOHAN BERNHARDT SCHOTTMANN (2 November 1734 – 1786) was a German-Danish master builder who worked in Copenhagen, where he was an early proponent of the Neoclassical style. The Schottmann House at Strandgade 10 in Christianshavn is named after him.

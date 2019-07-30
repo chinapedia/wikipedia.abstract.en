@@ -1,0 +1,1 @@
+PARLIAMENTARY ELECTIONS were held in Belarus in 1990 to elect the twelfth Supreme Council of Belarus. A total of 1,427 candidates contested the 310 seats, while a further 50 members were appointed by organizations of veterans and invalids.

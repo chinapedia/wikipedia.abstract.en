@@ -1,0 +1,1 @@
+'''Vasilijus Lendel ''' (born ) is a Lithuanian male track cyclist, representing Lithuania at international competitions. He competed at the 2014 UEC European Track Championships and 2015 UEC European Track Championships in the sprint and keirin event. He won the silver medal at the 2016–17 UCI Track Cycling World Cup, Round 1 in Glasgow in the keirin.[1][2]

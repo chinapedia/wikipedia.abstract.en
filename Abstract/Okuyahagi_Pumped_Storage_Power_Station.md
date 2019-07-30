@@ -1,0 +1,1 @@
+The is a group of large pumped-storage hydroelectric power plants and smaller conventional plants located in Toyota, Aichi Prefecture, and Ena, Gifu Prefecture, Japan. With a combined installed capacity of , it is among the largest pumped-storage power stations in Japan.

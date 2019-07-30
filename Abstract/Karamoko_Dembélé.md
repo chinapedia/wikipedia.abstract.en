@@ -1,0 +1,1 @@
+KARAMOKO KADER DEMBÉLÉ (born 22 February 2003) is a footballer who plays as a winger for Celtic, and has been called up to represent both Scotland and England at youth level. He attracted media attention in October 2016 when he made his debut for Celtic's under-20 development team at the age of 13.

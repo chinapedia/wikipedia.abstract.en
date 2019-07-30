@@ -1,0 +1,1 @@
+CHRIS PALMER is a Canadian politician, who was elected to the Legislative Assembly of Prince Edward Island in a by-election on October 17, 2016.[1] He represented the electoral district of Summerside-Wilmot as a member of the Prince Edward Island Liberal Party until his defeat in the 2019 Prince Edward Island general election.

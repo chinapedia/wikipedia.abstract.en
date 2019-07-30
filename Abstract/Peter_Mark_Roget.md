@@ -1,0 +1,1 @@
+PETER MARK ROGET ( ; 18 January 1779 – 12 September 1869) was a British physician, natural theologian and lexicographer. He is best known for publishing, in 1852, the _Thesaurus of English Words and Phrases_, a classified collection of related words.

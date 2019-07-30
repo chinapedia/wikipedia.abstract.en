@@ -1,0 +1,1 @@
+GILBERT DAHAN is a French historian of religions, director of research at the CNRS and at the École pratique des hautes études. He is notably a recognized medievalist. His work has renewed studies on the exegesis of the Bible in the Christian West during the Middle Ages.[1]

@@ -1,0 +1,1 @@
+PATRICK JOSHUA CONLON (born November 11, 1993) is an Irish-American professional baseball pitcher in the New York Mets organization. He is the first Irish-born Major League Baseball player since Joe Cleary in 1945.[1]

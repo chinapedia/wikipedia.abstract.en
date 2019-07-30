@@ -1,0 +1,1 @@
+Aichi_Prefectural_Ceramic_Museum_(72).jpg, 19th century]] Aichi_Prefectural_Ceramic_Museum_(47).jpg-Shōwa era, 20th century]] refers to a type of Japanese pottery, stoneware, and ceramics produced in and around the municipality of Inuyama, Owari Province, in central Japan.

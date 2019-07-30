@@ -1,0 +1,1 @@
+The FÉDÉRATION INTERNATIONALE DE FOOTBALL ASSOCIATION (FIFA ; French for INTERNATIONAL FEDERATION OF ASSOCIATION FOOTBALL, , ) is a non-profit organization which describes itself as an international governing body of association football, fútsal, beach soccer, and efootball. It is the highest governing body of football.

@@ -1,0 +1,1 @@
+The is a strait between the Japanese islands of Honshu and Awaji. The strait connects Seto Inland Sea and Osaka Bay. The width of the Akashi Strait is approximately 4 kilometers. Its maximum depth is about 110 meters.[1] The utmost tidal current is about .[2]

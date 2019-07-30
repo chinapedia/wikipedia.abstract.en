@@ -1,0 +1,1 @@
+_THE GIFT OF THE MORNING_ (Italian: _IL DONO DEL MATTINO_) is a 1932 Italian comedy film directed by Enrico Guazzoni and starring Germana Paolieri, Carlo Lombardi and Arturo Falconi.[1] It was based on a play by Giovacchino Forzano. It was made by Caesar Film at the company's Rome studios.

@@ -1,0 +1,1 @@
+MONKEY CHANTING or MONKEY CHANTS are racist chants and calls targeting black sportsmen. The chants imitate "monkey" or "ape" noises. They may be accompanied with "monkey gestures", an imitation scratching the armpits "in a monkey way".[1] The chants are hinting to the ethnic slurs "macaca" and "monkey" against black Africans.

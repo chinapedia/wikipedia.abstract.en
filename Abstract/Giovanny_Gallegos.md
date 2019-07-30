@@ -1,0 +1,1 @@
+GIOVANNY GALLEGOS (born August 14, 1991) is a Mexican professional baseball pitcher for the St. Louis Cardinals of Major League Baseball (MLB). He made his MLB debut in 2017 with the New York Yankees and also pitched for them in 2018 before being traded to the Cardinals.

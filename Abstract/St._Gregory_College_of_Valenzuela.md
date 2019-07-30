@@ -1,0 +1,1 @@
+ST. GREGORY COLLEGE OF VALENZUELA (formerly St. Gregory School of Valenzuela) is a private school in Valenzuela City established in 2007.[1] It is located at #162 P. Faustino St., Punturin, Valenzuela City, Philippines. It cater students from kindergarten, elementary, junior high school, and senior high school.

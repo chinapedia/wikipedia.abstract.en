@@ -1,0 +1,1 @@
+Keltfest_2010_(4610513447).jpg CELTIC MUSIC is a broad grouping of music genres that evolved out of the folk music traditions of the Celtic people of Western Europe.[1][2] It refers to both orally-transmitted traditional music and recorded music and the styles vary considerably to include everything from "trad" (traditional) music to a wide range of hybrids.

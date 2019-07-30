@@ -1,0 +1,1 @@
+PONGCH'ŎN T'AN'GWANG STATION (PONGCH'ŎN COLLIERY STATION) is a railway station in Pongch'ŏn-dong, Kaech'ŏn municipal city, South P'yŏngan province, North Korea. It is the terminus of the Pongch'ŏn Colliery Line of the Korean State Railway, serving a major anthracite mine.[1]

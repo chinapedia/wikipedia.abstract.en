@@ -1,0 +1,1 @@
+AARHUS FIRE STATION (Danish: Aarhus Brandstation) is a fire station in Aarhus, Denmark from 1904 situated on _Ny Munkegade 15_. The station is still in use (2016) and is the oldest fire station in Aarhus.

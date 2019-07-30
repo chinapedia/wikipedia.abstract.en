@@ -1,0 +1,1 @@
+There are a number of common features in many Patience games or solitaire games as they are called in the US, such as "building down" and the "foundations" and "tableau", used to simplify the descriptions of new games.

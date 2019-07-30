@@ -1,0 +1,1 @@
+Sumitomo_Fudosan_Roppongi_Grand_Tower_Void_2018.jpg Sumitomo_Fudosan_Roppongi_Grand_Tower_Courtyard_2018.jpg Sumitomo_Fudosan_Roppongi_Grand_Tower_Open_space_2018.jpg

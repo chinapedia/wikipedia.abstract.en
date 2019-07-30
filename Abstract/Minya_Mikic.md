@@ -1,0 +1,1 @@
+Minya_Mikic.jpg MINYA MIKIC (born Minja Višekruna, 1975, in Novi Sad, Yugoslavia) is an Italian artist, painter, and graphic designer. She lives and works between Rome and Zurich and regularly exhibits her work in Europe and New York.

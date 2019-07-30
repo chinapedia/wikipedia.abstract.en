@@ -1,0 +1,1 @@
+CARL COPPING PLEHN (January 20, 1867 – July 21, 1945) was an American economist. He was a professor of public finance at the University of California, Berkeley, from 1893 to 1937. In 1923, he served as the 25th president of the American Economic Association.[1]

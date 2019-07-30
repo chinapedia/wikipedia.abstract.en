@@ -1,0 +1,1 @@
+CLARENCE GILBERT TAYLOR (September 8, 1898 — March 29, 1988) was an early aviation entrepreneur and co-founder of the Taylor Brothers Aircraft Corporation in Bradford, Pennsylvania. He was the designer of the Taylor Cub, which led to the creation of the Piper Cub, one of the most popular airplanes in history.[1]

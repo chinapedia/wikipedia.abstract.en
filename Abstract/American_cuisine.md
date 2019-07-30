@@ -1,0 +1,1 @@
+Motherhood_and_apple_pie.jpg, along with baseball, is one of a number of American cultural icons.]] Sirloin_steak.JPG dinner served with sauteed onion, potato fries, broccoli florets, cut carrots, and whole snow peas, then garnished with chives]]

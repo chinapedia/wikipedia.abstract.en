@@ -1,0 +1,1 @@
+KAJANG (Jawi: كاجڠ; ; Tamil: காஜாங்) is a town in southeastern Selangor, Malaysia. It is located 20 km southeast of downtown Kuala Lumpur, in the coterminous mukim (commune) of Kajang in the Hulu Langat District.[1]

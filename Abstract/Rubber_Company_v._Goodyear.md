@@ -1,0 +1,1 @@
+_RUBBER CO. V. GOODYEAR_, 76 U.S. (9 Wall.) 788 (1869),[1] is an early decision of the United States Supreme Court recognizing the right of a patent owner to license another person to practice the invention only in a limited field, and holding that such a licensee committed patent infringement when it made and sold products of the invention outside that field.

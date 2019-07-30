@@ -1,0 +1,1 @@
+DEAN WILLEY (born in Rotherham) is a British male former weightlifter, who competed in the 67.5 kg category and represented Great Britain at international competitions. He won the bronze medal in the snatch at the 1984 World Weightlifting Championships lifting 140.0 kg. He participated at the 1984 Summer Olympics in the 67.5 kg event and also at the 1988 Summer Olympics.[1]

@@ -1,0 +1,1 @@
+Professor NORMAN BOWERY , (1944 – 25 October 2016) was a British pharmacologist and former Head of Division of Neuroscience and Chair of Pharmacology at the University of Birmingham from 1995 to 2004.[1] He was president of the British Pharmacological Society from 1995–1997 and 1999–2000.

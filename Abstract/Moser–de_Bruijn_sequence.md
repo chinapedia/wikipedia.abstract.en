@@ -1,0 +1,1 @@
+Moser–de_Bruijn_addition.svg that connects the sums in numerical order]] In number theory, the MOSER–DE BRUIJN SEQUENCE is an integer sequence named after Leo Moser and Nicolaas Govert de Bruijn, consisting of the sums of distinct powers of 4. It begins

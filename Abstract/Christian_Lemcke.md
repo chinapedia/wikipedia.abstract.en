@@ -1,0 +1,1 @@
+Christian_Lemcke.JPG CHRISTIAN LEMCKE (8 December 1850, in Bergrade – 12 September 1894, in Rostock) was a German otolaryngologist, known for his efforts in the development of otolaryngology as a single specialty at the University of Rostock.[1][2]

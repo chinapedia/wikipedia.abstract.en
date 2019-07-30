@@ -1,0 +1,1 @@
+The SOUTH AMERICAN WOMEN'S VOLLEYBALL CLUB CHAMPIONSHIP is an international women's club volleyball competition organized by the _Confederación Sudamericana de Voleibol_ (CSV), the sport's governing body in South America. The competition was first contested in 2009 in Lima, Peru and tournaments have been held every year since then.

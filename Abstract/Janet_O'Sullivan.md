@@ -1,0 +1,1 @@
+JANET O'SULLIVAN is a pro-choice campaigner in Ireland. She is a former spokesperson for the Abortion Rights Campaign.[1] She publishes under both the Irish version of her name, JANET NÍ SHUILLEABHÁIN, and the English version JANET O'SULLIVAN.[2][3] In 2016, the BBC included her in the list of 100 Women for "inspirational and influential women for 2016"[4]

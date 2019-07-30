@@ -1,0 +1,1 @@
+Sint-Amandsberg_020_Campo_Santo.JPG The CAMPO SANTO of Ghent, Belgium, is a famous Roman Catholic public burial ground in Sint-Amandsberg. The Campo Santo has been declared an historical monument by the government. This cemetery is located in the district of Dampoort.

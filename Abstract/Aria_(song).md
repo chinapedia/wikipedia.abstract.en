@@ -1,0 +1,1 @@
+"ARIA" is a 1975 song composed by Dario Baldan Bembo (music) and Sergio Bardotti (lyrics). The song marked the solo debut as a singer of Dario Baldan Bembo, a former Equipe 84 member already well known as a session-man and a composer. The song was major hit, ranking #2 on the Italian hit parade.[1]

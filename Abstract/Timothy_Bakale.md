@@ -1,0 +1,1 @@
+TIMOTHY BAKALE (born 29 March 1995) is a Solomon Islands footballer who plays as a midfielder for Western United.[1] He was named to the national squad[2] making his debut for the national team on October 8, 2016 in their 1-0 loss against New Caledonia.

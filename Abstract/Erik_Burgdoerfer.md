@@ -1,0 +1,1 @@
+ERIK LAWRENCE BURGDOERFER[1] (born December 11, 1988) is an American professional ice hockey defenceman who is currently playing for the Hershey Bears in the American Hockey League (AHL). He has previously played in the National Hockey League (NHL) with the Buffalo Sabres and the Ottawa Senators.

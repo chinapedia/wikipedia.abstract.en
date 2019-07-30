@@ -1,0 +1,1 @@
+VIKTOR MADIN, originally _Viktor Madincea_, (20 December 1876 – 19 March 1968) was an Austrian opera singer (baritone) of Hungarian descent. He was a member of the ensemble of the Vienna State Opera for more than fifty years.

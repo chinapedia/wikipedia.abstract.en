@@ -1,0 +1,1 @@
+LALITA IYER is a journalist, writer and blogger based in Mumbai, India. She is the author of two books, "_I'm pregnant, not terminally ill, you idiot_" and "_The Boy Who Swallowed A Nail And Other Stories_", as well as writing two blogs: _Chickwit_ and _Mommygolightly_.

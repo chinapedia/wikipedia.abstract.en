@@ -1,0 +1,1 @@
+The REGRESS ARGUMENT (also known as the _DIALLELUS_[1] (Latin) or _DIALLELON_, from Greek _di allelon_ "through or by means of one another") is a problem in epistemology and, in general, a problem in any situation where a statement has to be justified.[2][3][4]

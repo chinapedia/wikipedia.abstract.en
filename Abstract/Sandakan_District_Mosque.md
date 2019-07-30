@@ -1,0 +1,1 @@
+The SANDAKAN DISTRICT MOSQUE (Malay: MASJID DAERAH SANDAKAN or also known as MASJID BESAR SIM-SIM) is a mosque in Sandakan, Sabah, Malaysia. Build in 1985 and completed in 1989, it is the main mosque for the district of Sandakan. The mosque was officially opened in 1990.[1]

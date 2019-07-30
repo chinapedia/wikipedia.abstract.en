@@ -1,0 +1,1 @@
+NICHOLAS BERTHELOT LEMANN is the Joseph Pulitzer II and Edith Pulitzer Moore Professor of Journalism and Dean Emeritus of the Faculty of Journalism at the Columbia University Graduate School of Journalism.[1] He has been a staff writer at _The New Yorker_ since 1999.[2]

@@ -1,0 +1,1 @@
+JOEL LEFTWICH (November 22, 1760 – October 20, 1846) was an American Brigadier General in Virginia in the War of 1812.[1][2] He also took part in the Revolutionary War.[3] His brother was the politician Jabez Leftwich.

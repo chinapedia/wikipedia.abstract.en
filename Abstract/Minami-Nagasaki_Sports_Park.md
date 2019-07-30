@@ -1,0 +1,1 @@
+is a public park in Toshima Ward, Tokyo, Japan. It is the largest public park in Toshima Ward. The total park area includes the area of the Minami-Nagasaki Sports Center building and the football pitch. The area of the grassy section of the park excluding the football pitch is about 3,204 m².

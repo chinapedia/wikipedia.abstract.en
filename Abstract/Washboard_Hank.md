@@ -1,0 +1,1 @@
+HANK FISHER, (born 1954) more commonly known as WASHBOARD HANK is a Canadian musician,[1] songwriter[2][3][4] and stage performer, based in Peterborough, Ontario. He plays a number of instruments, including banjo[5] guitar[6] and percussion. He is known for his unusual performances with self-created instruments.[7] In 2016 he performs with his band, the Wringers.

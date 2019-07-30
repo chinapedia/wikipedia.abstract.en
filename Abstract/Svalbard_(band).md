@@ -1,0 +1,1 @@
+SVALBARD are an English hardcore punk band from Bristol, formed in 2011. Following early material (compiled on the album _Discography 2012–2014_) they have released two studio albums through Holy Roar Records: _One Day All This Will End_ (2015) and _It's Hard to Have Hope_ (2018). Their style integrates disparate influences, including post-rock and black metal.

@@ -1,0 +1,1 @@
+The CEVA–ORMEA RAILWAY is a local railway line of Piedmont in Italy, situated in the province of Cuneo, that connect Ormea to Ceva railway node, crossing the high valley of Tanaro. From 2016 is used only as a tourist railway[1][2]

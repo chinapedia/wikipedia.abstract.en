@@ -1,0 +1,1 @@
+The Richmond Football Club are a professional Australian rules football team based in Richmond, Victoria that competes in the Australian Football League (AFL). Richmond joined the competition in 1908 and has played in each season since. They have won 11 premierships across this time, and competed in another 11 grand finals.

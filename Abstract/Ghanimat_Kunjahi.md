@@ -1,0 +1,1 @@
+MUHAMMAD AKRAM GHANIMAT KUNJAHI (b. Kunjah, d. c. 1695 CE) was a Persian poet in The Mughal Empire. He belongs to the Banu Hashim family. One of his ancestors was Ali's son Imam Abu al-Qasim Muhammad bin Hanffiyah (Alvi.Hashmi), but he used the Kunjahi name in the first half of the seventeenth century CE.[1]

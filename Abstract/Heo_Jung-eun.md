@@ -1,0 +1,1 @@
+HEO JUNG-EUN (; born September 14, 2007) is a South Korean actress. She first drew public attention with her performances in hit dramas, _My Lawyer, Mr. Jo_ (2016) and _Love in the Moonlight_ (2016).[1] At age nine, she took on her first leading role in television as Geum-bi, a girl who has childhood Niemann–Pick disease in'' My Fair Lady'' (2016).[2][3][4][5]

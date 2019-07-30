@@ -1,0 +1,1 @@
+Balkåkragongen_(Montelius,_Sveriges_hednatid_(1877)_sid_151_fig_215).jpg Balkåkra_skiva.jpg The BALKÅKRA RITUAL OBJECT is an item from the Bronze Age found in Balkåkra in Sweden in 1847. Its use and purpose remain unknown.

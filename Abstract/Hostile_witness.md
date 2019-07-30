@@ -1,0 +1,1 @@
+A HOSTILE WITNESS, otherwise known as an ADVERSE WITNESS or an UNFAVORABLE WITNESS, is a witness at trial whose testimony on direct examination is either openly antagonistic or appears to be contrary to the legal position of the party who called the witness.

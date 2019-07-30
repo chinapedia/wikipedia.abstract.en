@@ -1,0 +1,1 @@
+DEEPAK ADHIKARI is a Nepali freelance journalist based in Kathmandu. He has written for AFP,[1] Kantipur Daily and Nepal Magazine[2] and has written for TIME,[3] The Guardian,[4] The Caravan,[5] Pittsburgh Post-Gazette,[6] Anadolu Agency,[7] Al Jazeera English,[8] Outside Magazine,[9] The New York Times,[10] Himal Southasian,[11] among others.

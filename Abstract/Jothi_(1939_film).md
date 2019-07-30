@@ -1,0 +1,1 @@
+_JOTHI_ (alternatively titled _SRI JYOTHI RAMALINGA SWAMIGAL_) is an Indian Tamil language film directed by T. R. Raghunath and was released in 1939. It is the life story of Saint Ramalinga Swamigal popularly known as _Vallalar_. No print of the film is known to survive, making it a lost film.[1]

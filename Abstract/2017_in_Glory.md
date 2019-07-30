@@ -1,0 +1,1 @@
+The year 2017 was the sixth year in the history of the Glory, an international kickboxing event. The year started with Glory 37: Los Angeles. The events are broadcasts through television agreements with ESPN and other regional channels around the world.

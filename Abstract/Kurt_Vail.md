@@ -1,0 +1,1 @@
+KURT VAIL is an American politician and member of the Republican party. He is a current member of the Connecticut House of Representatives representing Connecticut's 52nd assembly district in the General Assembly. The district is made up of all of Stafford and Somers. Vail was first elected in 2014, and re-elected in 2016.

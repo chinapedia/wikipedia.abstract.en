@@ -1,0 +1,1 @@
+GEOFFREY L. HAYES (1947–2017) was an American children's book illustrator and cartoonist. He was the author of over 50 books, including a series of titles with the children's comics publisher Toon Books. He was the brother of underground cartoonist Rory Hayes (1949–1983).

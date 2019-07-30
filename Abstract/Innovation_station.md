@@ -1,0 +1,1 @@
+INNOVATION STATION is a bus stop on Ottawa, Ontario, Canada's transitway served by OC Transpo buses, and is named after nearby Innovation Drive in the Kanata North Technology Park.[1] Its primary purpose is as a park and ride facility for those in north Kanata. It opened in December 2016 for the 2016 winter service change, and is served by routes 63 and 64.[2]

@@ -1,0 +1,1 @@
+GEORGE FRANCIS HOGAN (April 12, 1915 – January 19, 1965) was an American professional basketball player.[1][2] He played in the National Basketball League for the Hammond Ciesar All-Americans, Chicago Bruins, and Chicago American Gears. He averaged 3.1 points per game for his career.[3]

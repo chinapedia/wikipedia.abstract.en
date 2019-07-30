@@ -1,0 +1,1 @@
+ARGYLL FOREST PARK is a forest park located on the Cowal peninsula in Argyll and Bute, Scottish Highlands. Established in 1935, it was the first forest park to be created in the United Kingdom.[1] The park is managed by Forestry and Land Scotland, and covers 211 km² in total.[2]

@@ -1,0 +1,1 @@
+MASBUQ or Masbuk (Arabic: مَسْبُوق) is derived from the word سبق which means 'come ahead of somebody or something'.[1] In Islamic terminology, a Masbuq is a person in Salah, whose Imam has preceded him a few or the whole prayer, or he is a person who has joined the Imam after one or more .[2]

@@ -1,0 +1,1 @@
+BASANTA KUMAR PANDA is a leader of Bharatiya Janata Party from Odisha. He was a member of the Odisha Legislative Assembly for Nuapada and president of state unit of the party. Currently he is elected as a Member of Parliament of Lok Sabha from Kalahandi.

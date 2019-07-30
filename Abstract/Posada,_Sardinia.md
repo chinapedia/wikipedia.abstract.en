@@ -1,0 +1,1 @@
+POSADA (, ),[1] also previously known as _Feronia_ or _Pausata_, is a _comune_ (municipality) in the Province of Nuoro in the Italian region Sardinia. The city sits on the coast of the Tyrrhenian Sea. As of 31 December 2004, it had a population of 2,394 and an area of .[2]

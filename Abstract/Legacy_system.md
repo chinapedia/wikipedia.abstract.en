@@ -1,0 +1,1 @@
+US_Navy_110129-N-7676W-152_Culinary_Specialist_3rd_Class_John_Smith_uses_the_existing_DOS-based_food_service_management_system_aboard_the_aircraft.jpg food service management system.]]

@@ -1,0 +1,1 @@
+LIGA FUTEBOL AMADORA PRIMEIRA DIVISÃO (often referred to as the LFA PRIMEIRA DIVISÃO) is the highest division of the Liga Futebol Amadora and the highest overall in the Timorense football league system.

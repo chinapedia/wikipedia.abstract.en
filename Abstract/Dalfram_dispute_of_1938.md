@@ -1,0 +1,1 @@
+The DALFRAM DISPUTE OF 1938 (15 November 1938 to 21 January 1939) was a political industrial dispute at Port Kembla, New South Wales, protesting the export of pig iron from Australia to Japan. It became famous for providing the nickname of _Pig Iron Bob_ to Attorney General Robert Menzies, later to serve as Prime Minister.[1][2]

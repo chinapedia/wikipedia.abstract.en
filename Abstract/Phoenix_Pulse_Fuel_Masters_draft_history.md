@@ -1,0 +1,1 @@
+The Phoenix Pulse Fuel Masters first participated in the Philippine Basketball Association (PBA) draft on October 30, 2016. The Fuel Masters entered the league before the 2016 Commissioner's Cup when they bought the former franchise of Barako Bull Energy.

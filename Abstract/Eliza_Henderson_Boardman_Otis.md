@@ -1,0 +1,1 @@
+ELIZA HENDERSON BOARDMAN OTIS (alternate spelling, Bordman; pseudonym, ONE OF THE BARCLAYS; 27 July 1796 – 21 January 1873) was an American philanthropist and novelist, and a social leader in Boston, Massachusetts.

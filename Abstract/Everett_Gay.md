@@ -1,0 +1,1 @@
+EVERETT CARLTON GAY (born October 23, 1964) is a former American football wide receiver in the National Football League (NFL) for the Dallas Cowboys and Tampa Bay Buccaneers. He played college football at the University of Texas.

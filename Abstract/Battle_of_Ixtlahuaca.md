@@ -1,0 +1,1 @@
+The BATTLE OF IXTLAHUACA, an episode of the Mexican Reform War, took place on September 18, 1858 in the municipality of Ixtlahuaca in the State of Mexico, between liberal and conservative army forces. The victory was won by the liberal side.

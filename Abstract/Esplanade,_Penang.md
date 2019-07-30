@@ -1,0 +1,1 @@
+The ESPLANADE is a waterfront location in the heart of George Town, Penang, Malaysia. It covers the field adjacent to Fort Cornwallis, known locally as the _Padang_, and the seaside promenade along the edge of the field.

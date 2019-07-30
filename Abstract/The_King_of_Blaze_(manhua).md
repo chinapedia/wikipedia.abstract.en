@@ -1,0 +1,1 @@
+_THE KING OF BLAZE_ or _FIRE KING_ (Chinese: ) is a Taiwanese comic (called manhua in Taiwan) written and illustrated by Taiwanese comic artist , serialized in _Princess Magazine_ from 1991 and published by in 1992. It is the 2nd installment of _The Seven Mirrors' Stories_ (Chinese: ) series, a sequel of _Melancholic Princess_ which is the 1st installment.

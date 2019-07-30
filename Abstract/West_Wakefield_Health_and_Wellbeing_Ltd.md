@@ -1,0 +1,1 @@
+WEST WAKEFIELD HEALTH AND WELLBEING LTD is a Multispecialty community provider established in 2015 based on a federation of six neighbouring GP practices in Wakefield which was initially funded by the Prime Minister’s Challenge Fund to extend GP opening hours.[1] working with Wakefield Clinical Commissioning Group

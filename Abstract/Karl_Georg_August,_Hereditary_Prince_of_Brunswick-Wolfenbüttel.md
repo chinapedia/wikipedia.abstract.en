@@ -1,0 +1,1 @@
+Charles_George_of_Brunswick-Wolfenbüttel.jpg KARL GEORG AUGUST, HEREDITARY PRINCE OF BRUNSWICK-WOLFENBÜTTEL (8 February 1766 in London – 20 September 1806 in Antoinettenruh) was the heir to the Duchy of Brunswick as the eldest son of Charles William Ferdinand, Duke of Brunswick-Wolfenbüttel and Princess Augusta of Great Britain.

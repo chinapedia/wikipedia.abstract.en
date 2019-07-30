@@ -1,0 +1,1 @@
+LUSOVU is a Portuguese startup, founded in 2013 as a spin-off of LusoSpace, a company specialized in satellites components, which operates since 2002. It has prominent clients such as the European Space Agency.[1]

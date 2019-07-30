@@ -1,0 +1,1 @@
+BLACKSKY PATHFINDER-1 is an earth imaging satellite of Spaceflight Industries.[1] The satellite is equipped with payloads from Harris Corporation designed to image an area approximately 4.4 km x 6.6 km at 1-meter resolution.[2]

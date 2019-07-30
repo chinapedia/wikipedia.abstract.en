@@ -1,0 +1,1 @@
+{{ Infobox electronic payment | image= File:Select_charge_card.png | name= Select | location= New York City | launched= | currency= USD | stored_value= | credit_expiry= | maximum_credit= | technology_1= | manager= | homepage= https://www.meetselect.com/ }}

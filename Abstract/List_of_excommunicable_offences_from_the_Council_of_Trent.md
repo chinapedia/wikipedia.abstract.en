@@ -1,0 +1,1 @@
+The Council of Trent was held in several sessions from 1545 to 1563. The council was convoked to help the church respond to the challenge posed by the Protestant Reformation, which had begun with Martin Luther decades earlier.

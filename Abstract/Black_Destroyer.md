@@ -1,0 +1,1 @@
+"BLACK DESTROYER" is a science fiction short story by Canadian-American writer A. E. van Vogt, first published in _Astounding SF_ in July 1939. It has been marked as the story that represents the start of the Golden Age of Science Fiction.

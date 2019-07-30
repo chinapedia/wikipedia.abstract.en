@@ -1,0 +1,1 @@
+The TRANS AMERICA TRAIL or TAT is a roughly cross continent vehicular route, intended to be a way to cross the United States using a minimum of paved roads for leisure, traveled by dual-sport motorcycles, off-road vehicle, or touring bicycle.

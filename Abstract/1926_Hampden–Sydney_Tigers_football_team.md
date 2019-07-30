@@ -1,0 +1,1 @@
+The 1926 HAMPDEN–SYDNEY FOOTBALL TEAM represented Hampden–Sydney College during the 1926 college football season. The 1926 team was coached by Yank Bernier[1] in his ninth season (third consecutive) as the head coach of the Tigers. The squad finished the season with a final record of 5–2–3.[2]

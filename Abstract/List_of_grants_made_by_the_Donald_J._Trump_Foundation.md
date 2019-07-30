@@ -1,0 +1,1 @@
+The Donald J. Trump Foundation was a New York-based charitable foundation founded by Donald Trump, President of the United States. The following is a partial list of grants made by the foundation from 2006 through 2009.

@@ -1,0 +1,1 @@
+ADMIRAL ARTHUR PHILLIP (11 October 1738 – 31 August 1814) was a Royal Navy officer and the first Governor of New South Wales who founded the British penal colony that later became the city of Sydney, Australia.[1]

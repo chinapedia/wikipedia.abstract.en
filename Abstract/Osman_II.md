@@ -1,0 +1,1 @@
+OSMAN II ( _‘Osmān-i sānī_; 3 November 1604 – 20 May 1622), commonly known in Turkey as GENÇ OSMAN ("Osman the Young" in English), was the Sultan of the Ottoman Empire from 1618 until his death by regicide on 20 May 1622.

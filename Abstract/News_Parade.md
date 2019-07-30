@@ -1,0 +1,1 @@
+_NEWS PARADE_ is a 1928 American comedy film directed by David Butler and starring Nick Stuart, Sally Phipps and Brandon Hurst. The film portrays the adventures of a newsreel cameraman. Despite poor reviews and only a modest box office performance it was followed by several similar films including _Chasing Through Europe_ (1929).[1]

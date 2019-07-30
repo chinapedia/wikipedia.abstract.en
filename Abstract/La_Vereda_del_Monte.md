@@ -1,0 +1,1 @@
+LA VEREDA DEL MONTE (Spanish for "The Mountain Trail") was a backcountry route through remote regions of the Diablo Range, one of the California Coast Ranges.[1][2] La Vereda del Monte was the upper part of La Vereda Caballo, (Spanish for "The Horse Trail"), used by mesteñeros from the early 1840s to drive Alta California horses to Sonora for sale.[3]

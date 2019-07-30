@@ -1,0 +1,1 @@
+JUMO is a mobile financial services platform for mobile network operators and banks.[1] The platform facilitates digital financial services such as credit and savings in emerging markets by way of USSD short codes.

@@ -1,0 +1,1 @@
+POPE STEPHEN II ( (or III); 714 – 26 April 757[1] a Roman aristocrat[2] was Bishop of Rome from 26 March 752 to his death in 757. He succeeded Pope Zachary following the death of Pope-elect Stephen (sometimes called Stephen II). Stephen II marks the historical delineation between the Byzantine Papacy and the Frankish Papacy.

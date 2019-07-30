@@ -1,0 +1,1 @@
+JOYCE K. REYNOLDS (? – December 28, 2015) was an American computer scientist who played a significant role in developing protocols underlying the Internet.[1] She authored or co-authored many RFCs, most notably those introducing and specifying the Telnet, FTP, and POP protocols.[2]

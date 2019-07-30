@@ -1,0 +1,1 @@
+CURIOSITY is an online education website. The site aggregates content from various online educational and instructional resources (such as courses, articles, and videos), which can be filtered by subjects and topics, course cost, and other factors.

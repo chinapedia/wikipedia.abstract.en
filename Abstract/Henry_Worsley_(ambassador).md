@@ -1,0 +1,1 @@
+Lieutenant-Colonel HENRY WORSLEY (1672 – 15 March 1740), of Compton, Hampshire, was an English Army officer, diplomat and politician who sat in the English and British House of Commons from 1705 to 1715, initially as a Whig, and later as a Tory. He was ambassador to Portugal from 1714 to 1722 and Governor of Barbados from 1722 to 1731.

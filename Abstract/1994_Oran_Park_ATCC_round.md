@@ -1,0 +1,1 @@
+The 1994 ORAN PARK ATCC ROUND was the tenth and final round of the 1994 Australian Touring Car Championship. It was held on the weekend of 22 to 24 July at Oran Park Raceway in Sydney, New South Wales.

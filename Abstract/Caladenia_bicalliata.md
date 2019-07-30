@@ -1,0 +1,1 @@
+_CALADENIA BICALLIATA_ is a plant in the orchid family Orchidaceae and is native to the south-west of Western Australia and coastal areas of South Australia. It has a single erect, hairy leaf and one or two cream-coloured flowers. There are two subspecies differing in the size and colour of the flowers.

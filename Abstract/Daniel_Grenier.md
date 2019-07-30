@@ -1,0 +1,1 @@
+DANIEL GRENIER (born 1980) is a Canadian writer from Quebec,[1] who was a shortlisted nominee for the Governor General's Award for French-language fiction at the 2016 Governor General's Awards for his debut novel, _L’année la plus longue_.[2]

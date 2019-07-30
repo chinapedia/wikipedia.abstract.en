@@ -1,0 +1,1 @@
+MOTOBLOT is an annual motorcycle rally held in Chicago, Illinois, for three days and four nights in June.[1] It is the largest vintage motorcycle and scooter rally in the United States.[2] One of the co-producers of the festival was Riot Fest founder Sean McKeough. [3]

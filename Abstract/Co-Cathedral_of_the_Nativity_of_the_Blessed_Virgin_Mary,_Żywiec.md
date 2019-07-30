@@ -1,0 +1,1 @@
+The CO-CATHEDRAL OF THE NATIVITY OF THE BLESSED VIRGIN MARY [1] ( ) also called ŻYWIEC CATHEDRAL[2] It is the main Catholic religious building in the city of Zywiec, Poland,[3] and the co-cathedral of the Diocese of Bielsko-Zywiec.

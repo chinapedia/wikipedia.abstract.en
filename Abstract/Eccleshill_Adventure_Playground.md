@@ -1,0 +1,1 @@
+ECCLESHILL ADVENTURE PLAYGROUND, locally known as THE BIG SWING, is an Adventure playground that has operated in Eccleshill Park, Bradford, West Yorkshire since 2006. It is located beside the Ravenscliffe estate and provides open access adventure play for children and young people from five years to sixteen.[1]

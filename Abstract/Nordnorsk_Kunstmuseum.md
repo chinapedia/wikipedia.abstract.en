@@ -1,0 +1,1 @@
+NordnorskKunstmuseum-Tromsø.jpg, Norway]] NORDNORSK KUNSTMUSEUM is a Norwegian visual arts museum in Northern Norway. It claims to be the country's youngest and geographically northernmost art museum.[1]

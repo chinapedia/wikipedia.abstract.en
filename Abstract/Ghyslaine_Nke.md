@@ -1,0 +1,1 @@
+GHYSLAINE SALOMÉ NKE NOAH (born 8 June 1989) is a Cameroonian-born Equatoguinean-naturalised footballer who plays as a defender for Estrellas de Waiso Ipola, where she serves as its captain, and the Equatorial Guinea women's national team.

@@ -1,0 +1,1 @@
+_ZAGANELLA AND THE CAVALIER_ (Italian: _ZAGANELLA E IL CAVALIERE_) is a 1932 Italian comedy film directed by Giorgio Mannini and Gustavo Serena and starring Arturo Falconi, Marcella Albani and Carlo Lombardi.[1] It is also known as _ZAGANELLA AND THE HONORABLE GENTLEMAN_.[2]

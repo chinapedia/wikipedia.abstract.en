@@ -1,0 +1,1 @@
+In poker, a STEAL is a type of a bluff, a raise during the first betting round made with an inferior hand and meant to make other players fold superior hands because of shown strength. A steal is normally either an "ante steal" or "blind steal" (depending on whether the game being played uses antes or blinds).

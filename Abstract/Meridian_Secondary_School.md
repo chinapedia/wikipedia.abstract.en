@@ -1,0 +1,1 @@
+MERIDIAN SECONDARY SCHOOL is a government co-educational secondary school in Pasir Ris, Singapore. It was formed by a merger between two secondary schools – Coral Secondary and Siglap Secondary in 2017.

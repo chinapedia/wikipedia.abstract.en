@@ -1,0 +1,1 @@
+_GORIBER BOU_ () is a Bangladeshi social-drama film directed by Kamal Ahmed.[1] Renowned film actress Shabana produced the film her own banner SS Productions.[2] The film stars Alamgir, Shabana, Manna, Aruna Biswas leading role and more. In 1991, this film received the National Film Award for the best film award including other five categories.[3]

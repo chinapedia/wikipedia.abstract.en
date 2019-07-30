@@ -1,0 +1,1 @@
+_CRISTÓBAL COLÓN, DE OFICIO... DESCUBRIDOR_ ("Christopher Columbus, by profession...discoverer") is a Spanish comedy film, released on 8 September 1982. It is a comic interpretation of the preparations of Columbus before making the discovery of the Americas.

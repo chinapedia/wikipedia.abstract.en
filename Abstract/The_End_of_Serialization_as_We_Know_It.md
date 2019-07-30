@@ -1,0 +1,1 @@
+"THE END OF SERIALIZATION AS WE KNOW IT" is the tenth episode and the season finale in the twentieth season of the American animated television series _South Park_. The 277th episode of the series overall, it first aired on Comedy Central in the United States on December 7, 2016.

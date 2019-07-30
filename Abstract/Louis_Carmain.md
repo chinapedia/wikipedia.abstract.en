@@ -1,0 +1,1 @@
+LOUIS CARMAIN is a Canadian writer.[1] His debut novel _Guano_, published in 2013, won the 2014 Prix des collégiens,[2] and its English translation by Rhonda Mullins was a shortlisted finalist for the Governor General's Award for French to English translation at the 2016 Governor General's Awards.[3]

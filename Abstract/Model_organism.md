@@ -1,0 +1,1 @@
+E_coli_at_10000x,_original.jpg'' is a gram-negative prokaryotic model organism]] Drosophila_melanogaster_-_side_(aka).jpg_, one of the most famous subjects for genetics experiments]] S_cerevisiae_under_DIC_microscopy.jpg_, one of the most intensively studied eukaryotic model organisms in molecular and cell biology]]

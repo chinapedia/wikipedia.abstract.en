@@ -1,0 +1,1 @@
+_MAGICATS!_ is a themed anthology of fantasy short works edited by Jack Dann and Gardner Dozois. It was first published in paperback by Ace Books in June 1984. It was reissued as an ebook by Baen Books in March 2013. It has also been translated into Dutch.[1]

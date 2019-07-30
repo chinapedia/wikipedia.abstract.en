@@ -1,0 +1,1 @@
+CANNABIS IN ALGERIA is illegal.

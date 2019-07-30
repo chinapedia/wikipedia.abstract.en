@@ -1,0 +1,1 @@
+Spitzhacke_(Claes_Oldenburg)_02.JPG DOCUMENTA 7 was the seventh edition of documenta, a quinquennial contemporary art exhibition. It was held between 19 June and 28 October 1982 in Kassel, Germany. The artistic director was Rudi Fuchs.[1]

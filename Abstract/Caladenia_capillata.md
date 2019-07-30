@@ -1,0 +1,1 @@
+_CALADENIA CAPILLATA_, commonly known as WHITE DADDY LONG LEGS or WISPY SPIDER ORCHID, is a plant in the orchid family Orchidaceae and is endemic to Victoria and South Australia. It is a ground orchid with a single hairy leaf and up to three cream-coloured to yellowish flowers with long, thread-like petals and sepals and a very small labellum.

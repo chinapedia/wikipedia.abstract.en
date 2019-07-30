@@ -1,0 +1,1 @@
+MBARARA CITY FC is a football club in Mbarara, Uganda. The team plays in the top division of Ugandan professional football, the Star Times Uganda Premier League where they qualified on 5 May 2017, after defeating Synergy FC. Mbarara City FC has the highest number of fans in Uganda. [1]

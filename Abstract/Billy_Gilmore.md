@@ -1,0 +1,1 @@
+WILLIAM GILMORE, also known as BILL, BILLY, and SHAKIN' BILL (because he stood still onstage) was an American musician who played the bass and the keyboard. He grew up in Sarasota, FL before settling down in Atlanta, GA. He played with The Webs,[1] The Candymen, The Classics IV, and the Atlanta Rhythm Section.[2]

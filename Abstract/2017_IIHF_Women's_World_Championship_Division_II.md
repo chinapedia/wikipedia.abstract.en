@@ -1,0 +1,1 @@
+THE 2017 IIHF WOMEN'S WORLD CHAMPIONSHIP DIVISION II was an international Ice hockey tournament run by the International Ice Hockey Federation. Group A was contested in Gangneung, South Korea, from 2 to 8 April 2017, Group B in Akureyri, Iceland from 27 February to 5 March 2017 and the qualification in Taipei City, Chinese Taipei from 12 to 17 December 2016.[1]

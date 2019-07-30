@@ -1,0 +1,1 @@
+GEREJA BETHANY INDONESIA (also called BETHANY CHURCH OF INDONESIA in English) is an Evangelical, Neo-charismatic Christian Church with its international headquarters in Surabaya, Indonesia. It is led by Abraham Alex Tanuseputra.

@@ -1,0 +1,1 @@
+LÝ THỊ NGỌC KIỀU (, 1041 – 1113), dharma name DIỆU NHÂN[1] (妙因) was a princess during the Lý Dynasty in Vietnamese history. She was the 17th leader of the Vietnamese Vinītaruci school of Buddhism.[2] __TOC__

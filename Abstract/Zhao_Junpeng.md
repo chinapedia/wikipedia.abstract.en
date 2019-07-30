@@ -1,0 +1,1 @@
+ZHAO JUNPENG (, born 2 February 1996) is a Chinese badminton player.[1][2] In 2016 and 2017, he became the runner-up at the China International Challenge tournament in the men's singles event.[3][4] He won his first senior international title at the 2016 Macau Open Grand Prix Gold defeated Chou Tien-chen of Chinese Taipei in the final.[5]

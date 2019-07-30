@@ -1,0 +1,1 @@
+_BROWN NATION_ is an American comedy-drama series directed by Abi Varghese and written by Matt Grubb, George Kanatt and Varghese. The series is shot in New York City and the first season of the show consists of ten episodes that are 20–25 minutes long. _Brown Nation_ released in all 190 countries offering Netflix on November 15, 2016.[1][2]

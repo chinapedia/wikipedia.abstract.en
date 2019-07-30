@@ -1,0 +1,1 @@
+LI LIU (; born December 12, 1953) is a Chinese-American archaeologist most well known for her work on Neolithic and Bronze Age Chinese archaeology. She is Sir Robert Ho Tung Professor in Chinese Archaeology at Stanford University.[1]

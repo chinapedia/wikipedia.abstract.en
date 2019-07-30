@@ -1,0 +1,1 @@
+Jersey_Telecom_switchboard_and_operator.jpg

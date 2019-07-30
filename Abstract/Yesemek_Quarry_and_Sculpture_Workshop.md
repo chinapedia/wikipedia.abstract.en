@@ -1,0 +1,1 @@
+YESEMEK QUARRY AND SCULPTURE WORKSHOP is an open-air museum and archaeological site in Gaziantep Province, Turkey. The site was a quarry in Hittite times and occupies a 100000 m² area, making it the largest known stonemasonry workshop from the ancient Near East.[1]

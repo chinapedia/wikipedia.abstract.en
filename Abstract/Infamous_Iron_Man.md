@@ -1,0 +1,1 @@
+_INFAMOUS IRON MAN_ is a 12 issue American comic book miniseries featuring the Marvel Comics character Doctor Doom. Written by comic veteran Brian Michael Bendis, and drawn by Alex Maleev, the series began publication in October 2016. _Infamous Iron Man_ follows Doctor Doom as he takes on the persona of Iron Man after "Civil War II".[1]

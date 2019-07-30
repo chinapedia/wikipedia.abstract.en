@@ -1,0 +1,1 @@
+The following table summarizes the all-time record for the NIGERIA NATIONAL FOOTBALL TEAM. Nigeria has played matches against 92 current and former national teams, with the latest result, a loss against on June 26, 2018.

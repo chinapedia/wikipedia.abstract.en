@@ -1,0 +1,1 @@
+EUROPA ISLAND () is a low-lying tropical atoll in the Mozambique Channel, about a third of the way from southern Madagascar to southern Mozambique. The island had never been inhabited until 1820, when the French family _Rosier_ moved to it. The island officially became a possession of France in 1897.

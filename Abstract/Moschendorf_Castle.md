@@ -1,0 +1,1 @@
+MOSCHENDORF CASTLE () is a levelled mediaeval hill castle at a height of about 50 metres east of the village of Moschendorf, in the market municipality of Gößweinstein in the Franconian county of Forchheim in the south German state of Bavaria.

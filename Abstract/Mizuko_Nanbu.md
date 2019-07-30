@@ -1,0 +1,1 @@
+was a Japanese member of the Nanbu clan from Morioka Domain. The eldest daughter of Toshiatsu Nanbu, the 43rd daimyō of Morioka Domain, and wife of Toshihide Nanbu, the 44th head, she served as the Director of the Girl Scouts of Japan from 1955.[1]

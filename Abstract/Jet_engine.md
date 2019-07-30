@@ -1,0 +1,1 @@
+F100_F-15_engine.JPG turbofan engine for the F-15 Eagle being tested in the hush house at Florida Air National Guard base. The tunnel behind the engine muffles noise and allows exhaust to escape.]] Airstrikes_in_Syria_140923-F-UL677-654.jpgs]] Jet_engine_simulation.jpg 20140308-Jet_engine_airflow_during_take-off.jpg Airbus A319)]]

@@ -1,0 +1,1 @@
+Yoshioka_Tatsuya.jpg YOSHIOKA TATSUYA is a Japanese civil society leader and activist. Over three decades, Yoshioka has been involved in education, peace and conflict resolution. He is the co-founder and the director of Peace Boat.[1]

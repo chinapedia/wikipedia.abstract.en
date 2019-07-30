@@ -1,0 +1,1 @@
+_POPPETS TOWN_, French title: _LES POPILOUS_[1] (also styled as POPPETSTOWN; POPILOUVILLE in French) is a Canadian-Japanese-Catalan animated children's television series produced by DHX Media and Terrassa-based studio Neptuno Films, based on the characters created by Japanese author Jun Ichihara. The series aired on Knowledge Network and TVOKids in Canada in 2008.[2][3][4]

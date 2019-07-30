@@ -1,0 +1,1 @@
+is a Tongan-born, Japanese international rugby union player who plays as a lock or flanker.[1] He currently plays for in Super Rugby and Yamaha Júbilo in Japan's domestic Top League.[2][3]He received Japanese Citizenship in 2016.

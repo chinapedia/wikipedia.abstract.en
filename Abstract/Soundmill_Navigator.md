@@ -1,0 +1,1 @@
+_SOUNDMILL NAVIGATOR_ is a remixed live album by Tangerine Dream. It is their sixty-ninth overall. Released in April 2000, it is sourced from the 27 June 1976 concert at the Berliner Philharmonie.[1] It is the second in the Tangerine Dream Classics Edition series, following _Sohoman_ and preceding _Antique Dreams_.

@@ -1,0 +1,1 @@
+The film industry in Germany can be traced back to the late 19th century. GERMAN CINEMA made major technical and artistic contributions to early film, broadcasting and television technology. Babelsberg became a household synonym for the early 20th century film industry in Europe, similar to Hollywood later.

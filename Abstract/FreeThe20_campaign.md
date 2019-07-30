@@ -1,0 +1,1 @@
+Samantha_Power_Speaking_in_Geneva.jpg FREETHE20 is a campaign to call attention to women who are political prisoners around the world. The campaign names twenty women who are imprisoned unjustly.[1] Samantha Power, the U.S. Ambassador to the United Nations, started the campaign for the twentieth anniversary of the Beijing Declaration.[2]

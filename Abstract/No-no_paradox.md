@@ -1,0 +1,1 @@
+The NO–NO PARADOX is a distinctive paradox belonging to the family of the semantic paradoxes (like the Liar paradox). It derives its name from the fact that it consists of two sentences each simply denying what the other says.

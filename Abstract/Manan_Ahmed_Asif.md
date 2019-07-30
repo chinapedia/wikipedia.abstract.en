@@ -1,0 +1,1 @@
+MANAN AHMED ASIF is a Muslim historian of Pakistani heritage and professor at Columbia University in New York City.[1][2] He is the founder of the South Asia blog Chapati Mystery featuring Muslim Pakistani writers.

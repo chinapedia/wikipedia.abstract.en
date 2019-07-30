@@ -1,0 +1,1 @@
+}} It is known by a collection of names including: Saint Sylvester's Day, New Year's Eve or Old Years Day/Night, as the following day is New Year's Day. It is the last day of the year. The following day is January 1 of the following year.

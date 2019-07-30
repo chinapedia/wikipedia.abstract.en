@@ -1,0 +1,1 @@
+Pennsylvania_State_Capitol_Lit_to_Celebrate_Passing_of_Medical_Marijuana_Legislation_in_the_House_(25227768464).jpg lit in green to celebrate passage of medical cannabis legislation by the House of Representatives in March 2016]] PittsburghSmokeIn3.JPG]]

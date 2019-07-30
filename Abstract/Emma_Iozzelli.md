@@ -1,0 +1,1 @@
+'''Emma Iozzelli ''' (born 12 June 1966) is an Italian footballer who played as a defender for the Italy women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. On club level she played for Reggiana in Italy.[1]

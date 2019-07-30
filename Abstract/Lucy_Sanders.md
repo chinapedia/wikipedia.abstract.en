@@ -1,0 +1,1 @@
+LUCINDA "LUCY" SANDERS (born 1954) is the current CEO and a co-founder of the National Center for Women & Information Technology.[1] She is the recipient of many distinguished honors in the STEM fields, including induction into the US News STEM Leadership Hall of Fame in 2013.[2]

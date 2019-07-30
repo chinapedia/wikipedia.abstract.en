@@ -1,0 +1,1 @@
+thumb LEO SCHWARZ (9 October 1931 in Braunweiler – 26 November 2018)[1] was from 1982 to 2006 the Roman Catholic auxiliary bishop in the diocese of Trier, and was titular bishop of Abbir Germaniciana.

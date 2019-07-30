@@ -1,0 +1,1 @@
+The TRAFFORD PARK LINE is a tram line under construction on the Manchester Metrolink network in Greater Manchester, England, running from Pomona to the Trafford Centre. Its name derives from Trafford Park, an area of the Metropolitan Borough of Trafford, and the first planned industrial estate in the world.

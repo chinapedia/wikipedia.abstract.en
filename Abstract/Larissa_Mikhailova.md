@@ -1,0 +1,1 @@
+LARISA VALERYEVNA MIKHAYLOVA (Лариса Валерьевна Михайлова, born 13 July 1981) is a Russian-born Kazakhstani former water polo player. She was a member of the Kazakhstan women's national water polo team, playing as a driver.

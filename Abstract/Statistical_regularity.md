@@ -1,0 +1,1 @@
+STATISTICAL REGULARITY is a notion in statistics and probability theory that random events exhibit regularity when repeated enough times or that enough sufficiently similar random events exhibit regularity. It is an umbrella term that covers the law of large numbers, all central limit theorems and ergodic theorems.

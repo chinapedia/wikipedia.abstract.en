@@ -1,0 +1,1 @@
+The terms 7TH JULY, JULY 7TH, and 7/7 (pronounced "SEVEN-SEVEN") have been widely used in the Western media as a shorthand for the 7 July 2005 bombings on London's transport system. In the Chinese language, this term is used to denote the Battle of Lugou Bridge started on July 7, 1937, marking the beginning of the Second Sino-Japanese War.

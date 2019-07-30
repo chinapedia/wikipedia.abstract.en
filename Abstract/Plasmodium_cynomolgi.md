@@ -1,0 +1,1 @@
+_PLASMODIUM CYNOMOLGI_ is an apicomplexan parasite that infects mosquitoes and Asian Old World monkeys. This species has been used as a model for human _Plasmodium vivax_ because _Plasmodium cynomolgi_ shares the same life cycle and some important biological features with _P. vivax_.[1]

@@ -1,0 +1,1 @@
+_LISTEN_ is an album by Tim Bowman Jr.,[1] released on May 6, 2016.[2] It reached a peak position of number one on _Billboard_{{'s}} Top Gospel Albums chart,[3] and earned Bowman a Grammy Award nomination for Best Gospel Album.[4]

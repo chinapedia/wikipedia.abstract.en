@@ -1,0 +1,1 @@
+(born 1963)[1] is a Japanese hemp rights advocate, considered "one of Japan’s leading experts on cannabis".[2] He is the curator of the Taima Hakubutsukan (Cannabis Museum) in Nasu, Tochigi Prefecture, which he founded in 2001.[3] He also organizes an annual tour to the legal farms around the museum, and a monthly workshop to teach cannabis fiber weavering.[4]

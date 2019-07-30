@@ -1,0 +1,1 @@
+SCIENCE FICTION FANDOM or SF FANDOM is a community or fandom of people interested in science fiction in contact with one another based upon that interest. SF fandom has a life of its own, but not much in the way of formal organization (although clubs such as the Futurians (1937–1945) are a recognized example of organized fandom).

@@ -1,0 +1,1 @@
+A NUMISMATIST is a specialist in numismatics ("of coins"; from Late Latin _numismatis_, genitive of _numisma_). Numismatists include collectors, specialist dealers and scholars who use coins in object-based research. Although the term numismatics was first coined in English in 1829, people had been collecting and studying coins long before this, all over the world.[1]

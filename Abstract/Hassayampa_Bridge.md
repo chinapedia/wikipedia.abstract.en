@@ -1,0 +1,1 @@
+The HASSAYAMPA BRIDGE is a bridge spanning the Hassayampa River in Hassayampa, Arizona, located in Maricopa County. The bridge was completed in 1929 and was listed on the National Register of Historic Places in 1988.[1] The bridge was scheduled for demolition in 1983.

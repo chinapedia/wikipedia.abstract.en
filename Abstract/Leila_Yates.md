@@ -1,0 +1,1 @@
+LEILA YATES (1899-1996) was a pioneering nurse and midwife from the Cayman Islands. She has been recognized on a stamp in the 2011 series "Pioneers in our History" and in 2015 was posthumously honored with the National Heroes Award. Her home has been the focus of a restoration project for the National Trust’s West Bay Committee.

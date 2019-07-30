@@ -1,0 +1,1 @@
+_ZIERIA TUBERCULATA_, commonly known as WARTY ZIERIA, is a plant in the citrus family Rutaceae and is endemic to a small area on the south coast of New South Wales. It is a shrub with warty, hairy branches and leaves and large groups of creamy-white, four-petalled flowers in late winter to spring.

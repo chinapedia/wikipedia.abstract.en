@@ -1,0 +1,1 @@
+is the debut studio album of Japanese singer-songwriter Shiori Niiyama.[1] It was released on 26 March 2014 under Being label. Album includes previous 5 released singles. The album reached #39 rank first week. Album charted for 4 weeks.[2]

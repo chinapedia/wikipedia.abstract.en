@@ -1,0 +1,1 @@
+Westminster_Palace_Gardens,_Artillery_Row_-_geograph.org.uk_-_1031823.jpg WESTMINSTER PALACE GARDENS (WPG) is a Victorian red brick mansion block with apartments centred around a courtyard. It is located on Artillery Row in the City of Westminster, London. It is listed at grade II.[1]

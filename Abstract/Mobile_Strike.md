@@ -1,0 +1,1 @@
+_MOBILE STRIKE_ is a freemium mobile massively multiplayer online strategy video game developed and published in 2015 by Machine Zone (now known as MZ). The game had a high-profile advertising campaign and became one of the top-grossing apps in 2015 and 2016.

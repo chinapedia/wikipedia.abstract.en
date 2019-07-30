@@ -1,0 +1,1 @@
+PETER SKAARUP (1 May 1964) is a Danish politician and a member of the Danish People's Party. Skaarup has served in the Danish Folketing since 11 March 1998 and has been parliamentary leader since 27 September 2012.[1][2]

@@ -1,0 +1,1 @@
+SAMNANG PRAK (born 1 January 1949) is a Cambodian former swimmer. He competed in three events at the 1972 Summer Olympics.[1] He won a bronze medal in the 4 x 100 metre freestyle relay at the 1970 Asian Games.

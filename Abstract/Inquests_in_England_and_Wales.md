@@ -1,0 +1,1 @@
+INQUESTS IN ENGLAND AND WALES are held into sudden and unexplained deaths and also into the circumstances of discovery of a certain class of valuable artefacts known as "treasure trove". In England and Wales, inquests are the responsibility of a coroner, who operates under the jurisdiction of the Coroners and Justice Act 2009.

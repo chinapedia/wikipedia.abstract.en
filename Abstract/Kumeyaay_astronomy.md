@@ -1,0 +1,1 @@
+KUMEYAAY ASTRONOMY OR COSMOLOGY (Kumeyaay: _My Uuyow_, "sky knowledge") comprises the astronomical knowledge of the Kumeyaay people.[1] A deeply rooted cosmological belief system was developed and followed by the Kumeyaay civilization based on this knowledge including the computing of time (Kumeyaay Mat’taam).[2]

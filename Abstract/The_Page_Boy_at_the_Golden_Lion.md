@@ -1,0 +1,1 @@
+_THE PAGE BOY AT THE GOLDEN LION_ (German: _DER PICCOLO VOM GOLDENEN LÖWEN_) is a 1928 German silent comedy film directed by Carl Boese and starring Fritz Kampers, Gustl Gstettenbaur and Maria Mindzenty.[1]

@@ -1,0 +1,1 @@
+"WHEN YOU'VE GOTTA GO" was written by Lynsey de Paul (credited to her birth name, Lynsey Rubin) and Ron Roker.[1] It was recorded by Solomon King at 10cc's Strawberry Studios and released as a single in 1972.[2] The single was a chart hit in Australia,[3] and also spent four weeks on the Dutch "Tipparade", peaking at #17.[4]

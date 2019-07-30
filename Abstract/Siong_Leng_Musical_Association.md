@@ -1,0 +1,1 @@
+SIONG LENG MUSICAL ASSOCIATION or SIONG LENG is a Nanyin musical group from Singapore.[1] Siong Leng is known for its contribution to preserve and promote Nanyin (or Nan Guan) and Liyuan Opera, the arts of Southern Min people.[2]

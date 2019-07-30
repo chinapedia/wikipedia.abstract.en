@@ -1,0 +1,1 @@
+The NAVAL BATTLE OF ACEH was fought in 1569 off the coast of Sumatra between a lone Portuguese carrack (_nau_, in Portuguese) and an armada of the Sultanate of Aceh, that was about to stage an attack on Portuguese Malacca. It ended in Portuguese victory and the withdrawal of the Aceh fleet after suffering heavy losses.

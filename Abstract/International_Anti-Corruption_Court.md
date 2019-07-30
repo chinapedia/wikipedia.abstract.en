@@ -1,0 +1,1 @@
+An INTERNATIONAL ANTI-CORRUPTION COURT (IACC) is a proposal for the establishment of a court similar to the International Criminal Court or as part of it, for the criminal enforcement of laws prohibiting grand corruption.[1]

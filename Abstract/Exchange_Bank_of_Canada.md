@@ -1,0 +1,1 @@
+EXCHANGE BANK OF CANADA (EBC; ) is a Schedule 1 domestic bank in Canada.[1] EBC is a subsidiary of Currency Exchange International and specializes in wholesale foreign exchange solutions to financial institutions and businesses.[2]

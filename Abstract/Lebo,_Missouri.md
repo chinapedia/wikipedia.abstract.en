@@ -1,0 +1,1 @@
+LEBO is an unincorporated community in southern Howell County, in the U.S. state of Missouri.[1] The community is located south of West Plains at the intersection of Missouri Route 142 and Missouri Route JJ about one mile north of the Missouri - Arkansas state line.[2]

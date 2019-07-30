@@ -1,0 +1,1 @@
+CARMI LE ROUX (born 30 March 1993) is a South African cricketer.[1] He was included in Gauteng's squad for the 2016 Africa T20 Cup.[2] In August 2017, he was named in Benoni Zalmi's squad for the first season of the T20 Global League.[3] However, in October 2017, Cricket South Africa initially postponed the tournament until November 2018, with it being cancelled soon after.[4]

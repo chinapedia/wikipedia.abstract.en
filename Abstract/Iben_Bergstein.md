@@ -1,0 +1,1 @@
+IBEN BERGSTEIN (born 20 May 1995) is a Danish badminton player.[1] Bergstein educated at the Rødovre Gymnasium, and played for the Hvidovre club for 13 years. In 2017, she started to play for Højbjerg.[2][3]

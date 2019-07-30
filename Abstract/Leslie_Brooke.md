@@ -1,0 +1,1 @@
+_' Henry Leslie Brooke_', (12 September 1910 – 9 November 1967[1]) was a British racing driver from England. He competed in various classes of racing, including non-championship Formula One, the Le Mans 24-hour race and the Monte Carlo Rally, in the 1930s, 1940s and 1950s.

@@ -1,0 +1,1 @@
+MARIANA ISABEL PAIZ QUAN (born 4 July 2000) is a Guatemalan badminton player.[1] She competed at the 2015 Pan American Games.[2] Paiz was part of the national team that won the bronze medal at the 2018 Central American and Caribbean Games in Barranquilla, Colombia.[3]

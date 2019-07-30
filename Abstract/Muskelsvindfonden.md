@@ -1,0 +1,1 @@
+MUSKELSVINDFONDEN (Lit. Muscular Dystrophy Foundation) is a Danish non-profit organization that strives to find a cure for neuromuscular disorders. Founded in 1971 volunteers and staff nationwide have helped to provide support and resources to those affected. [1]

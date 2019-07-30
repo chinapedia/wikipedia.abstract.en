@@ -1,0 +1,1 @@
+BETH MARIE SHERBURN (born 11 January 1991) is an English singer and songwriter. Her 2012 cover of Duran Duran's "Ordinary World" charted at No. 8 on the UK Club Charts.[1] In 2013 she performed for Prince Andrew at a live event, performing a mixture of original material and cover songs.[2]

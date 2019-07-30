@@ -1,0 +1,1 @@
+ZETA GLOBAL is customer lifecycle management marketing company which was founded in 2007.[1][2] Zeta helps Fortune 1,000 brands and large middle-market companies create, maintain and monetize customers, using 'people-based, precision marketing' to provide customers with enhanced multichannel marketing solutions to help them manage the full customer life-cycle.[3]

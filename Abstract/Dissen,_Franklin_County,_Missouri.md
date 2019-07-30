@@ -1,0 +1,1 @@
+DISSEN is an unincorporated community in western Franklin County, in the U.S. state of Missouri.[1] The community is located on the north side of Boeuf Creek along Missouri Route Y and four miles southwest of New Haven.[2]

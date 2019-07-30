@@ -1,0 +1,1 @@
+ALBERT ERNEST HOLNESS (born 7 December 1892 (Kingston-upon-Hull), died 20 September 1924 (at sea)) was an English marine engine stoker. He is best known for his service in the Imperial Trans-Antarctic Expedition of 1914–1916.[1]

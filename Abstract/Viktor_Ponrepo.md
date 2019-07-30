@@ -1,0 +1,1 @@
+VIKTOR PONREPO (actual name _Dismas Šlambor_, 6 June 1858 Prague – December 1926 Prague) was a Czech magician and a pioneer of the cinema. He founded the first permanent cinema in Prague in _Karlova ulice_ (Charles street).

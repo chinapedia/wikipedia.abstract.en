@@ -1,0 +1,1 @@
+Residence_of_General_Miller,_H._B._M._Consul_(1853)_(retouched).jpg Below is an _incomplete_ LIST OF DIPLOMATS FROM THE UNITED KINGDOM TO HAWAII dealing with diplomatic representation in the Kingdom of Hawaii and its successor states the Provisional Government of Hawaii and the Republic of Hawaii before annexation to the United States in 1898.

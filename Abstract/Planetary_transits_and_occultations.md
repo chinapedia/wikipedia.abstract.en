@@ -1,0 +1,1 @@
+The word "transit" refers to cases where the nearer object appears smaller than the more distant object. Cases where the nearer object appears larger and completely hides the more distant object are known as _occultations_.

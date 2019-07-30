@@ -1,0 +1,1 @@
+BOUGHALBOUNE (بوغلبون) is a town in Skikda Province, Algeria. The town is on the N3 highway to Skikda and sits on the bank of a tributary of the Oued Ensa River. The topography of the town is mountainous.[1]

@@ -1,0 +1,1 @@
+ESKILSTUNA MUNICIPALITY (_Eskilstuna kommun_) is a municipality in Södermanland County in southeast Sweden, between Lake Mälaren and Lake Hjälmaren. The seat of the municipality is in the city of Eskilstuna.

@@ -1,0 +1,1 @@
+On 10 September 1883 the Bala and Festiniog Railway (B&FR) and the Festiniog Railway (FR) opened what would nowadays be called an interchange station in Blaenau Ffestiniog, Merionethshire, Wales. Merionethshire is now part of the county of Gwynedd.

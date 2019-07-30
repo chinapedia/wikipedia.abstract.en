@@ -1,0 +1,1 @@
+Julius_Roeting,_Porträt_von_Max_Volkhart.jpg MAX VOLKHART (17 October 1848, Düsseldorf - 1924, Düsseldorf) was a German genre painter and etcher; associated with the Düsseldorfer Malerschule. He was heavily influenced by the Dutch Masters and many of his works are set in the 17th and 18th centuries.

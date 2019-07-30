@@ -1,0 +1,1 @@
+The EUROPEAN RADIO AMATEURS' ORGANIZATION (EURAO), established in 2005, is intended to be a meeting point for all those independent radio amateurs' associations around the world, mainly from Europe, interested in sharing their activities and experiences, making up common services, working together in new projects and, of course, lobbying Public Administrations.

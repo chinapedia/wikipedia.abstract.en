@@ -1,0 +1,1 @@
+MARLON BRANDO JR. (April 3, 1924 – July 1, 2004) was an American actor and film director. With a career spanning 60 years, he is well-regarded for his cultural influence on 20th-century film.Aduol, Mark.

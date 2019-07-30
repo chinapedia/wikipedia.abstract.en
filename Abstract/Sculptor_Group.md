@@ -1,0 +1,1 @@
+The SCULPTOR GROUP is a loose group of galaxies[1][2] visible near the south galactic pole.[3] The group is one of the closest groups of galaxies to the Local Group; the distance to the center of the group from the Milky Way is approximately .[4]

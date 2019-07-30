@@ -1,0 +1,1 @@
+DEREK R. EITEL (born November 21, 1987) is an American baseball pitcher who is a free agent. He was originally drafted in the 17th round of the 2010 Major League Baseball draft by the Arizona Diamondbacks.[1]

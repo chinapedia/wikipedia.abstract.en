@@ -1,0 +1,1 @@
+_FLYTRAP_ is the debut studio album by American rapper CJ Fly. It was released on December 9, 2016, by Pro Era and Cinematic Music Group. It features a guest of appearance of Canadian rapper and producer Devontée.[1]

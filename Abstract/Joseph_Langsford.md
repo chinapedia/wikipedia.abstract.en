@@ -1,0 +1,1 @@
+JOSEPH WOOD LANGSFORD (29 July 1865 – 5 April 1957) was an Australian businessman and politician who was a member of the Legislative Council of Western Australia from 1904 to 1911. He ran for parliament eight times in total, but won election only twice.

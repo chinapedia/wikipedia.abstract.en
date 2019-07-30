@@ -1,0 +1,1 @@
+RUBEN HOVSEPYAN (; 5 May 1939 – 27 October 2016) was an Armenian novelist, translator and editor who became politically active in the 1990s, and, as member of the Armenian Revolutionary Federation, served in the National Assembly from 2000 to 2007.

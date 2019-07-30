@@ -1,0 +1,1 @@
+This is a list of the largest cities in Asia ranked according to population within their city limits. It deals exclusively with the areas within city administrative boundaries (municipalities) as opposed to urban areas or metropolitan areas, which are generally larger in terms of population than the main city.

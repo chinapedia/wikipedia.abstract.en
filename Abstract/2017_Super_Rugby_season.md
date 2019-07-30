@@ -1,0 +1,1 @@
+The 2017 SUPER RUGBY SEASON was the 22nd season of Super Rugby, an annual rugby union competition organised by SANZAAR between teams from Argentina, Australia, Japan, New Zealand and South Africa. It was the second season featuring an expanded 18-team format, following the competition's expansion from 15 teams prior to the 2016 season.

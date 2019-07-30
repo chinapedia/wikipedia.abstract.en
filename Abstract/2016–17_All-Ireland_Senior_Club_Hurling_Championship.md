@@ -1,0 +1,1 @@
+The 2016–17 ALL-IRELAND SENIOR CLUB HURLING CHAMPIONSHIP was the 47th staging of the All-Ireland Senior Club Hurling Championship since it began in the 1970-71 season. It is the Gaelic Athletic Association's premier inter-county club hurling tournament. The winners receive the Tommy Moore Cup.

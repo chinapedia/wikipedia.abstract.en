@@ -1,0 +1,1 @@
+_CARRY ON KESAR_ is an Indian Gujarati social comedy film directed by Vipul Mehta. It is a socially relevant film that talks of a traditional elderly childless couple deciding to have a baby.[1] It is a debut Gujarati film of actress Supriya Pathak Kapur.[2] [3] The cast includes Darshan Jariwala, Avani Modi and Rittesh Mobh in the lead roles.

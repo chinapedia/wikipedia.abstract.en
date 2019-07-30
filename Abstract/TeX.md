@@ -1,0 +1,1 @@
+TEX (, see below), stylized within the system as TeX, is a typesetting system (or a "formatting system") which was designed and mostly written by Donald Knuth[1] and released in 1978. TeX is a popular means of typesetting complex mathematical formulae; it has been noted as one of the most sophisticated digital typographical systems.[2]

@@ -1,0 +1,1 @@
+_MONSTER HUNTER_ is an upcoming fantasy action thriller film directed and written by Paul W. S. Anderson. It is loosely based on the video game series of same name, produced by Capcom. The film is being produced by Impact Pictures and Constantin Film. The film stars Milla Jovovich, Tony Jaa, T.I., Ron Perlman, Meagan Good and Diego Boneta.

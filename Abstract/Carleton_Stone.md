@@ -1,0 +1,1 @@
+CARLETON STONE is a Canadian singer-songwriter based in Cape Breton, Nova Scotia. After recording three albums as a solo artist, Stone has most recently joined forces with musicians Dylan Guthro and Breagh Mackinnon to form the pop band Port Cities.

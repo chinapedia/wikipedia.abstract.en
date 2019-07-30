@@ -1,0 +1,1 @@
+VENUS AND THE MOON are an American Galactic country duo, composed of Frally Hynes and Rain Phoenix. Propelled to success by social media, their debut studio album, _Brother, Son_, is a concept album about the important men in their life.[1] It was released on 15 July 2016. Rain engineered and recorded the whole album.

@@ -1,0 +1,1 @@
+_HELL'S KITCHEN AUSTRALIA_ was an Australian cooking reality competition television series which premiered on the Seven Network on 6 August 2017.[1] The series was hosted by British chef Marco Pierre White, who previously hosted two seasons of the British version of the format[2] and appeared on _MasterChef Australia_.[3]

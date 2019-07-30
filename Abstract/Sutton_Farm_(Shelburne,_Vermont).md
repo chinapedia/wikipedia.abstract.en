@@ -1,0 +1,1 @@
+SUTTON FARM is a historic farm property at 4592 Dorset Road in Shelburne, Vermont. Established in 1788, the farm was operated continuously into the late 20th century by a single family, and includes a well-preserved Greek Revival farmhouse. It was listed on the National Register of Historic Places in 2004.[1]

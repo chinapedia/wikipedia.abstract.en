@@ -1,0 +1,1 @@
+'''Jo Marie Lewis ''' (born 11 December 1993) is a Trinidadian footballer who plays as a forward for the Trinidad and Tobago women's national football team. She was part of the team at the 2016 CONCACAF Women's Olympic Qualifying Tournament.[1][2] On club level she plays for St Ann's FC in Trinidad and_Tobago.

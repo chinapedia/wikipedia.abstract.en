@@ -1,0 +1,1 @@
+'''Matthew Bostock ''' (born ) is a Manx born British male track cyclist, representing Great Britain at international competitions. He won the bronze medal at the 2016 UEC European Track Championships in the team pursuit.[1]

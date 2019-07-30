@@ -1,0 +1,1 @@
+_MILLER V. AMERICAN TELEPHONE & TELEGRAPH CO._, 507 F.2d 759 (3d Cir. 1974), is a United States corporate law case that established that a corporate board cannot claim protection of the business judgment rule in a shareholder suit if the decision at issue was a knowing violation of public law.[1]

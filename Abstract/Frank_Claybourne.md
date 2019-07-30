@@ -1,0 +1,1 @@
+FRANK CLAYBOURNE (born CHARLES FRANKLIN CLAYBOURNE; July 7, 1916 – July 28, 2011) was an American jurist, president of the Minnesota State Bar Association, and general counsel of the Republican Party of Minnesota from 1950 to 1974.

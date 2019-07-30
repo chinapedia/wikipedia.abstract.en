@@ -1,0 +1,1 @@
+In mathematics, a CAUCHY SEQUENCE (; ), named after Augustin-Louis Cauchy, is a sequence whose elements become arbitrarily close to each other as the sequence progresses.[1] More precisely, given any small positive distance, all but a finite number of elements of the sequence are less than that given distance from each other.

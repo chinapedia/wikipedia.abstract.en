@@ -1,0 +1,1 @@
+_PHRYNE BEFORE THE AREOPAGUS_ () is an 1861 painting by the French artist Jean-Léon Gérôme. The subject matter is Phryne, a legendary courtesan in ancient Greece who was put on trial for impiety. Phryne was acquitted after her defender Hypereides removed her robe and exposed her naked bosom to the jury.[1]

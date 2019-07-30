@@ -1,0 +1,1 @@
+TUDOR CHIRILĂ (born 28 May 1974 in Bucharest) is a Romanian actor, musician, composer, and producer. He was the lead singer of the band Vama Veche, after which he founded the band Vama. As an actor, he featured in both short and long movies and has played reference roles in plays of some of the most important Romanian directors.

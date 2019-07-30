@@ -1,0 +1,1 @@
+The UT MARTIN SKYHAWKS WOMEN'S BASKETBALL team is the team that represents the University of Tennessee at Martin in Martin, Tennessee, United States. The school's team currently competes in the Ohio Valley Conference.[1]

@@ -1,0 +1,1 @@
+MIGUEL DE CERVANTES SAAVEDRA (;[1] ; ; 29 September 1547 (assumed)22 April 1616 NS)[2] was a Spanish writer who is widely regarded as the greatest writer in the Spanish language and one of the world's preeminent novelists. His novel _Don Quixote_ has been translated into over 140 languages and dialects; it is, after the Bible, the most-translated book in the world.[3]

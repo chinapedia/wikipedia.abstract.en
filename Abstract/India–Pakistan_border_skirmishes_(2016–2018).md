@@ -1,0 +1,1 @@
+On 29 September 2016, BORDER SKIRMISHES BETWEEN INDIA AND PAKISTAN began following reported "surgical strikes" by India against militant launch pads across the Line of Control in Pakistani-administered Azad Kashmir.[1]

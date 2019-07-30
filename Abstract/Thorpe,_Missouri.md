@@ -1,0 +1,1 @@
+THORPE is an unincorporated community in Dallas County, in the U.S. state of Missouri.[1] The community lies just north of the Dallas-Webster county line, with Missouri Route W and the Niangua River passing about one mile to the east. The community lies approximately midway between Buffalo, eleven miles to the northwest and Marshfield, eleven miles to the southeast.[2]

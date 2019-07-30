@@ -1,0 +1,1 @@
+As the only surviving medieval microstate in the Italian peninsula, the HISTORY OF SAN MARINO is intertwined with medieval, renaissance and modern-day history of the Italian peninsula, beginning with independence from the Roman Empire on 257 AD (Diocletian kingdom).

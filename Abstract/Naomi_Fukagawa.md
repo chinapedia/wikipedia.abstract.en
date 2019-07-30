@@ -1,0 +1,1 @@
+NAOMI KAY FUKAGAWA is an American nutrition scientist. She is a professor of medicine at the University of Vermont (UVM), and the director of the United States Department of Agriculture's Beltsville Human Nutrition Research Center in Beltsville, Maryland.[1]

@@ -1,0 +1,1 @@
+ROSEBUD was a schooner originally built at Henry Barrick, Whitby, Yorkshire (England), of oak, coppered and copper-fastened in 1841, the vessel was 21.7 meters (71.1 feet) long, had a breadth of 5.9 meters (19.3 feet), and a depth of 3.8 meters (12.6 feet).[1][2]

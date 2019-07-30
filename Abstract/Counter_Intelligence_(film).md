@@ -1,0 +1,1 @@
+COUNTER-INTELLIGENCE_: Shining a Light on Black Operations_ is a 2013 documentary that discusses how espionage agencies have influenced both governments and societies, domestically and abroad; it is a nonprofit documentary that was produced by Metanoia Films and directed by Scott Noble.[1]

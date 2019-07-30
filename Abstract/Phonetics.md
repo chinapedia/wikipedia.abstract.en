@@ -1,0 +1,1 @@
+PHONETICS is a branch of linguistics that studies the sounds of human speech, or—in the case of sign languages—the equivalent aspects of sign. It is concerned with the physical properties of speech sounds or signs (phones): their physiological production, acoustic properties, auditory perception, and neurophysiological status.

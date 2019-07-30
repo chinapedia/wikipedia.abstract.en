@@ -1,0 +1,1 @@
+The WILLARD MANUFACTURING COMPANY BUILDING is a historic factory building at 25 Stowell Street in the city of St. Albans, Vermont. Built in 1896, the building saw industrial uses continuously until 2006, retaining many original early period features. It was listed on the National Register of Historic Places in 2006.[1]

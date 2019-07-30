@@ -1,0 +1,1 @@
+The PUERTO RICO ISLANDERS are an independent professional baseball team based in Puerto Rico. They currently play in the American Empire Professional Baseball League (which is not affiliated with Major League Baseball), of which they are the incumbent champions.

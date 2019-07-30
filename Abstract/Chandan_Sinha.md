@@ -1,0 +1,1 @@
+CHANDAN SINHA is a Bangladesh playback singer.[1][2] He was awarded 2013 Bangladesh National Film Award for Best Male Playback Singer for his performance in the film _Purno Doirgho Prem Kahini_.[3][4] He was the producer of the sequel _Purno Doirgho Prem Kahini 2_.

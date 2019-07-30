@@ -1,0 +1,1 @@
+was a Japanese journalist, lecturer at Waseda University, and Director of the Boy Scouts of Japan. He also worked with Olave Baden-Powell and Peter Baden-Powell, and contributed greatly to the revival of the Boy Scout movement in Japan after World War II.

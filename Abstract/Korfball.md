@@ -1,0 +1,1 @@
+Outdoor Korfball KORFBALL () is a ball sport, with similarities to netball and basketball. It is played by two teams of eight (8) players with four (4) female players and four (4) male players in each team. The objective is to throw a ball into a netless basket that is mounted on a high pole.

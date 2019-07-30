@@ -1,0 +1,1 @@
+The American cooking-themed television series _THE PIONEER WOMAN_ has aired on Food Network since its inception in 2011. As of November 2016, 180 EPISODES OF THE SERIES have aired over fifteen seasons.[1][2]

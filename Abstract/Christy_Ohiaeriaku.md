@@ -1,0 +1,1 @@
+'''Christy Ohiaeriaku ''' (born 13 December 1996) is a Nigerian women's international footballer who plays as a goalkeeper. She is a member of the Nigeria women's national football team. At a club level she played for Osun Babes and Rivers Angels in Nigeria, and since 2016 for IFK Ostersund in Sweden.

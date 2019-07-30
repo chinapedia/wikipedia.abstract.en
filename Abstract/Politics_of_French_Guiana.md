@@ -1,0 +1,1 @@
+French Guiana is not a separate territory but is both an overseas région and overseas department of France, with the same government institutions as areas on the French mainland. The administrative center is Cayenne.

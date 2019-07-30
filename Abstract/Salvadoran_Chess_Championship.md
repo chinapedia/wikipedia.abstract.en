@@ -1,0 +1,1 @@
+The CHESS CHAMPIONSHIP OF EL SALVADOR is organized by the Salvadoran Chess Federation (), and was first held in 1946. FIDE Master has won the title a record eight times. A separate SALVADORAN WOMEN'S CHESS CHAMPIONSHIP has also been held annually since 1993.

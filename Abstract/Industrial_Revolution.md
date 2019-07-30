@@ -1,0 +1,1 @@
+Powerloom_weaving_in_1835.jpg in a weaving shed in 1835. Textiles were the leading industry of the Industrial Revolution, and mechanized factories, powered by a central water wheel or steam engine, were the new workplace.]]

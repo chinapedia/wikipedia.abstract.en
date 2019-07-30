@@ -1,0 +1,1 @@
+JOHNSON CITY HIGH SCHOOL is a public high school located in Johnson City, New York, a village in Broome County adjacent to Binghamton. The school, originally situated on Main Street in downtown Johnson City, was relocated to where it currently stands on Reynolds Road.

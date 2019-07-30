@@ -1,0 +1,1 @@
+ANTIPOPE FELIX, an archdeacon of Rome, was installed as Pope in 355 AD after the Emperor Constantius II banished the reigning Pope, Liberius, for refusing to subscribe to a sentence of condemnation against Saint Athanasius.[1]

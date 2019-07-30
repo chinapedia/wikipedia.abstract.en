@@ -1,0 +1,1 @@
+Hahn's_shoe_store_at_7th_&_K_Street_NW_circa_1920.jpg

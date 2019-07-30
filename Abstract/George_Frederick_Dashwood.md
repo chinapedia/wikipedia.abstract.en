@@ -1,0 +1,1 @@
+Lieutenant GEORGE FREDERICK DASHWOOD RN (20 September 1806 – 15 March 1881), frequently referred to as "Captain Dashwood", was a naval officer, public servant and politician in South Australia. He was appointed an acting member of the Legislative Council of South Australia, serving from June 1843 to June 1844.

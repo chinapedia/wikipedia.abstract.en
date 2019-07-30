@@ -1,0 +1,1 @@
+_THE MILLION DOLLAR RIP-OFF_ is a 1976 American made-for-television crime comedy film starring Freddie Prinze in his television film debut and his only film role of any kind. Directed by Alexander Singer and written by Andrew Peter Marin based on a screenplay by William Devane and John Pleshette, the film premiered on NBC on September 22, 1976.

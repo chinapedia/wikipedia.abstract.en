@@ -1,0 +1,1 @@
+Ruled_hyperboloid.jpg In three-dimensional space, a REGULUS _R_ is a set of skew lines, every point of which is on a transversal which intersects an element of _R_ only once, and such that every point on a transversal lies on a line of _R_

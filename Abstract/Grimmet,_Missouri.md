@@ -1,0 +1,1 @@
+GRIMMET is an unincorporated community in western Howell County, Missouri.[1] The community is located about one mile north of Tabor Creek, south of Missouri Route 14 and about 3.5 miles east of Siloam Springs.[2]

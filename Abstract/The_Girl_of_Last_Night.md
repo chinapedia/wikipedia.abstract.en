@@ -1,0 +1,1 @@
+_THE GIRL OF LAST NIGHT_ (German: _DAS MÄDCHEN VON GESTERN NACHT_) is a 1938 German comedy film directed by Peter Paul Brauer and starring Willy Fritsch, Georg Alexander and Hans Leibelt.[1] It is set in England.

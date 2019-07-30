@@ -1,0 +1,1 @@
+SHIRAZ RAILWAY STATION (_Persian:_ايستگاه راه آهن شیراز, _Istgah-e Rah Ahan-e Shiraz_) is located in Shiraz, Fars Province. The station is owned by IRI Railway. The station has been criticized for its distance from the city's central parts.

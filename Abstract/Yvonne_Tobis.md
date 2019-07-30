@@ -1,0 +1,1 @@
+YVONNE TOBIS (איבונה טוביס; born February 5, 1948) is an Israeli former Olympic swimmer.[1] Tobis was born in Bratislava, Slovakia, and is Jewish.[2][3] She attended Millfield in Street, Somerset, England, from 1963-66, and is in its Hall of Fame.[4]

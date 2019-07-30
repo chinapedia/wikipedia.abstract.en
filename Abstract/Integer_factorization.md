@@ -1,0 +1,1 @@
+In number theory, INTEGER FACTORIZATION is the decomposition of a composite number into a product of smaller integers. If these integers are further restricted to prime numbers, the process is called PRIME FACTORIZATION.

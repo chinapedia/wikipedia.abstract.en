@@ -1,0 +1,1 @@
+Jamón_de_Guijuelo_004.JPG. In 2007 and 2010, BEHER "Bellota Oro" was chosen as "Best ham in the world" in IFFA Delicat]] Paella_de_marisco_01.jpg mixta]] Barra_de_pintxos_Donosti_07.JPG in San Sebastián]] Plato_de_lechazo,_Valladolid.jpg]]

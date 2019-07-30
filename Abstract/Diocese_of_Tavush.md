@@ -1,0 +1,1 @@
+DIOCESE OF TAVUSH ( _T'avushi t'em_), is one of the newest dioceses of the Armenian Apostolic Church covering the Tavush Province of Armenia. The diocesan headquarters are located in the town of Ijevan. The seat of the bishop is the Surp Nerses Cathedral of Ijevan which was consecrated in 1998.[1]

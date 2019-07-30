@@ -1,0 +1,1 @@
+ETHICS or MORAL PHILOSOPHY is a branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct.[1] The field of ethics, along with aesthetics, concerns matters of value, and thus comprises the branch of philosophy called axiology.[2]

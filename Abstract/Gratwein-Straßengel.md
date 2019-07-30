@@ -1,0 +1,1 @@
+Since 2015 GRATWEIN-STRASSENGEL is a market town in the Graz-Umgebung District of Styria, Austria. The town took effect as part of the Styria municipal structural reform,[1] from the end of 2014 with the merging of the former municipalities Gratwein, Judendorf-Straßengel, Eisbach and Gschnaidt. The merger made the market town population to be the 6th-largest in Styria.[2]

@@ -1,0 +1,1 @@
+SEXISM IN AMERICAN POLITICAL ELECTIONS refers to sexism which is discrimination, prejudice, or stereotyping based on sexual characteristics or perceived sexual characteristics.[1] Sexism is inherently a product of culture, as culture instills a certain set of beliefs or expectations for what constitutes as appropriate behavior, appearance, or mannerisms for a sex.[2]

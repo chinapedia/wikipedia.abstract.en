@@ -1,0 +1,1 @@
+In poetry, a HENDECASYLLABLE is a line of eleven syllables. The term "hendecasyllabic" is used to refer to two different poetic meters, the older of which is quantitative and used chiefly in classical (Ancient Greek and Latin) poetry and the newer of which is accentual and used in medieval and modern poetry.

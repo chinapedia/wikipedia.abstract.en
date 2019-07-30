@@ -1,0 +1,1 @@
+The DEMOGRAPHICS OF MOZAMBIQUE describes the condition and overview of Mozambique's peoples. Demographic topics include basic education, health, and population statistics as well as identified racial and religious affiliations.

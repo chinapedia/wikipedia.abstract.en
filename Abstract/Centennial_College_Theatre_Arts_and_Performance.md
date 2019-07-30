@@ -1,0 +1,1 @@
+THEATRE ARTS AND PERFORMANCE is a professionally oriented acting training program offered within the School of Communications, Media, Arts and Design[1] at Centennial College, in Toronto, Ontario, Canada.

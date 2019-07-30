@@ -1,0 +1,1 @@
+_TIRED OF TOMORROW_ is the second studio album by American shoegaze band Nothing. It was released on May 13, 2016 by Relapse Records.[1] It was the only Nothing album to feature bassist Nick Bassett (also the guitarist of Whirr).

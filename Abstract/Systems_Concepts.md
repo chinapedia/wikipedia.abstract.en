@@ -1,0 +1,1 @@
+SYSTEMS CONCEPTS (now the SC Group) is a company co-founded by Stewart Nelson and Mike Levitt focused on making hardware products related to the DEC PDP-10 series of computers. One of its major products was the SA-10, an interface which allowed PDP-10s to be connected to disk and tape drives designed for use with the channel interfaces of IBM mainframes.

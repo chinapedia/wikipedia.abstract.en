@@ -1,0 +1,1 @@
+LOUISE JORDAN (3 January 1908 – 22 November 1966[1]) was an influential petroleum geologist. Most notably she received an honorary membership to the Oklahoma City Geological Society for her extensive subsurface research in the state of Oklahoma.[2]

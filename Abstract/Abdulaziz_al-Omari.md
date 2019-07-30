@@ -1,0 +1,1 @@
+ABDULAZIZ AL-OMARI (, , also transliterated as ALOMARI or AL-UMARI; May 28, 1979[1] – September 11, 2001) was a Saudi airport security guard and imam who was one of five hijackers of American Airlines Flight 11 as part of the September 11 attacks.

@@ -1,0 +1,1 @@
+HORTON is an unincorporated community in northwest Howell County, in the Ozarks of southern Missouri.[1] The community is within the Mark Twain National Forest west of Missouri Route AP and about one-half mile east of the Douglas - Howell county line. The Noblett Lake recreation area on Noblett Creek is just to the northwest in Douglas County.[2]

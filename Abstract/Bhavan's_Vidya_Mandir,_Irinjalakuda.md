@@ -1,0 +1,1 @@
+BHAVAN'S VIDYA MANDIR, IRINJALAKUDA is a C.B.S.E. affiliated senior secondary school in Irinjalakuda, Thrissur, Kerala, India. It was established in 1992 and is a part of Bharatiya Vidya Bhavan group.[1]

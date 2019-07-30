@@ -1,0 +1,1 @@
+ANNETE STONE (born 1937) is a Brazilian former model famous for being placed second in the Miss Brazil 1955 pageant. The victory went to the candidate from Ceará, Maria Emília Corrêa, the second Northeastern to win the traditional national title. In the contest, Annete represented her state of birth, the Amazonas.

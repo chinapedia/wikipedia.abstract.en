@@ -1,0 +1,1 @@
+The 2016-17 ENGLAND KORFBALL LEAGUE season is played with 8 teams. Trojans KC are the defending champions. As there will be an extension of the league from 8 to 10 teams for the 2017-18 season, the last placed team will not be automatically relegated, instead they will go into the Promotion play-offs to fight for another season in the league.[1]

@@ -1,0 +1,1 @@
+EUGENE PAUL "E. P." WIGNER (; November 17, 1902 – January 1, 1995) was a Hungarian-American theoretical physicist and mathematician. He received the Nobel Prize in Physics in 1963 "for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles".[1]

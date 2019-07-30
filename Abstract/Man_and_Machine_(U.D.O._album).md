@@ -1,0 +1,1 @@
+_MAN AND MACHINE_ is the eighth studio album by heavy metal band U.D.O., released on 24 July 2002. A music video was made for "Dancing with an Angel" featuring a duet performance with Udo Dirkschneider and Warlock vocalist Doro Pesch.[1][2]

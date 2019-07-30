@@ -1,0 +1,1 @@
+_EPEPEOTES LUSCUS_ is a species of beetle in the family Cerambycidae. It was described by Johan Christian Fabricius in 1787. It is known from Malaysia, China, Indonesia, Cambodia, Myanmar, the Nicobar and Solomon Islands, Laos, Thailand, India, and Vietnam. It feeds on _Mangifera indica_.[1]

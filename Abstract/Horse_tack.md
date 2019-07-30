@@ -1,0 +1,1 @@
+TACK is equipment or accessories equipped on horses and other equines in the course of their use as domesticated animals. Saddles, stirrups, bridles, halters, reins, bits, harnesses, martingales, and breastplates are all forms of horse tack. Equipping a horse is often referred to as TACKING UP. A room to store such equipment, usually near or in a stable, is a TACK ROOM.

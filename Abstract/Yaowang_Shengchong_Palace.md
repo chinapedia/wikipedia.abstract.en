@@ -1,0 +1,1 @@
+YAOWANG SHENGCHONG PALACE () is a Taoist temple located on the northeast side of Sunyin Hill (), beside the Liuyang River, in Liuyang, Hunan, China.[1] The temple was first established in Tang dynasty (618-907), and the modern temple was founded in 2001 by the local government. The temple covers a total area of , with more than of floor space.

@@ -1,0 +1,1 @@
+POPE AGAPETUS II (died 8 November 955) was Pope from 10 May 946 to his death in 955. A nominee of the Princeps of Rome, Alberic II, his pontificate occurred during the period known as the Saeculum obscurum.

@@ -1,0 +1,1 @@
+_SHYLOCK_ is a 1940 Indian Tamil-language film directed by Kinema Ramu and Serukalathur Sama (under the name Sama-Ramu) and produced by Bharat Pictures. It is based on William Shakespeare's play _The Merchant of Venice_. The film was a commercial failure, and no print of it has survived, making it a lost film.[1]

@@ -1,0 +1,1 @@
+"MY LOVE FOR YOU" is a song recorded by American R&B singer Sevyn Streeter from her debut studio album, _Girl Disrupted_ (2017). The song was released as the first single on September 16, 2016 through Atlantic Records.[1][2] The song samples "Saving All My Love for You" by Whitney Houston.

@@ -1,0 +1,1 @@
+Spas_vsederzhitel_sinay.jpg'' – Saint Catherine's Monastery. The halo is a representation of the divine Logos of Christ, and the two different facial expressions on either side emphasize Christ's dual nature as both divine and human.[1][2]]]

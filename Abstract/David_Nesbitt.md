@@ -1,0 +1,1 @@
+DAVID AHMAD NESBITT (born February 10, 1991) is a Bahamian professional basketball player that currently plays for Corinthians of the NBB. At a height of 2.05 m (6' 8") tall, and a weight of 106 kg (234 lbs.)[1] he plays at the wing and power forward positions.

@@ -1,0 +1,1 @@
+Ethel_Grodzins_Romm_2017.png ETHEL GRODZINS ROMM (born March 3, 1925) is a retired American author, journalist, project manager, former CEO of an environmental technology company and served as Co-Chair of the Lyceum Society of the New York Academy of Sciences.

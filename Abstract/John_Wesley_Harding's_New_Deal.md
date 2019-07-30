@@ -1,0 +1,1 @@
+_JOHN WESLEY HARDING'S NEW DEAL_ is an album by the folk-rock singer-songwriter John Wesley Harding, released on February 13, 1996 on Forward Records, an imprint of Rhino Records focused on releasing albums by new artists.[1]

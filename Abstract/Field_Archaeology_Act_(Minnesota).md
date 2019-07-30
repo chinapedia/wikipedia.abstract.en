@@ -1,0 +1,1 @@
+The _Field Archaeology Act_ is a state Act legislating the preservation, interpretation and protection of archaeology in the state of Minnesota, United States of America. The Act is divided into twelve sections.

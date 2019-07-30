@@ -1,0 +1,1 @@
+Portrait_of_Lord_Alan_Spencer-Churchill_seated_and_wearing_a_striped_shirt_(31531558393)_(cropped).jpg LORD ALAN SPENCER-CHURCHILL DL (b. 25 July 1825 – 19 April 1873) was an officer in the British Army, Deputy Lieutenant of Oxfordshire, a lieutenant in the Oxfordshire Yeomanry and a businessman. He was a great uncle of Sir Winston Churchill.

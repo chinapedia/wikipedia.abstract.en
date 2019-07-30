@@ -1,0 +1,1 @@
+_STATE LIKE SLEEP_ is a 2018 American drama film written and directed by Meredith Danluck. It stars Katherine Waterston, Michael Shannon, Luke Evans, and Michiel Huisman. It premiered at the 2018 Tribeca Film Festival,[1] and was released released on January 4, 2019, by The Orchard.

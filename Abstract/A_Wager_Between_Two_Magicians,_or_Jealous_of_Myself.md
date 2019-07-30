@@ -1,0 +1,1 @@
+_MATCH DE PRESTIDIGITATION_ (literally "conjuring contest"),[1] released in the United States as _A WAGER BETWEEN TWO MAGICIANS, OR JEALOUS OF MYSELF_, and in the United Kingdom as _A JUGGLING CONTEST BETWEEN TWO MAGICIANS_, is a 1904 French short silent film directed by Georges Méliès.[2]

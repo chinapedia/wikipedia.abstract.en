@@ -1,0 +1,1 @@
+MIGUEL ÁNGEL OLIVO (born June 19, 1988) is a Mexican professional wrestler, better known by the ring name DAGA. He is best known for his work in AAA, where he is a former AAA World Cruiserweight Champion. He is currently working in Japan for the promotion Dragon Gate, where he is a member of the villainous R.E.D. stable. He has also worked for Lucha Underground.

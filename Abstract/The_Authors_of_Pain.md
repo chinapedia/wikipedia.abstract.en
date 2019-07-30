@@ -1,0 +1,1 @@
+AOP (originally known as THE AUTHORS OF PAIN) is a professional wrestling tag team performing on WWE's Raw branded shows. The team is composed of Akam, Rezar and their manager Drake Maverick. They are former Raw Tag Team Champions and NXT Tag Team Champions.

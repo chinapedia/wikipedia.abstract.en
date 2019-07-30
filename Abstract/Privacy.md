@@ -1,0 +1,1 @@
+Surveillance_cameras.jpg – in this case through CCTV.]] PRIVACY is the ability of an individual or group to seclude themselves, or information about themselves, and thereby express themselves selectively. The boundaries and content of what is considered private differ among cultures and individuals.

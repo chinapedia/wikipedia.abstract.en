@@ -1,0 +1,1 @@
+_LIVE AT MONTREUX_ is a posthumous live album released by Irish blues guitarist Rory Gallagher in 2006. It is a live collection recorded at the Montreux Jazz Festival in 1975, 1977, 1979 and 1985. The CD contains the 12 highlights from those shows.[1]

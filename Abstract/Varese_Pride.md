@@ -1,0 +1,1 @@
+VARESE PRIDE is a pride parade in Varese, Italy. The first event was held in 2016. It is managed and controlled by Arcigay Varese. It is one of the three Pride Parades in Lombardy and one of the 20 Pride Parades in Italy.[1]

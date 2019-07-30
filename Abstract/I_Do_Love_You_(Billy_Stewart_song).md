@@ -1,0 +1,1 @@
+"I DO LOVE YOU" is a song written and performed by Billy Stewart. It reached #6 on the U.S. R&B chart and #26 on the _Billboard_ Hot 100 in 1965.[1] The song was featured on his 1965 album, _I Do Love You_.[2]

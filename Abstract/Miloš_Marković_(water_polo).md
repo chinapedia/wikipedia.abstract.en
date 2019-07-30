@@ -1,0 +1,1 @@
+MILOŠ MARKOVIC (Милош Марковић, 27 January 1947 - 25 February 2010) was a Yugoslavian male water polo player. He was a member of the Yugoslavia men's national water polo team. He competed with the team at the 1972 Summer Olympics and 1976 Summer Olympics.[1]

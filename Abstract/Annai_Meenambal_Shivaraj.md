@@ -1,0 +1,1 @@
+ANNAI MEENAMBAL SHIVARAJ (26 December 1904 – 30 November 1992) was the first Scheduled Caste women president of the South India Scheduled Castes Federation (SCF). She presided over the SCF Women's Conference held at Madras, in 1944, which was attended by B. R. Ambedkar. She also presided over the All India SCF Women's Conference held at Bombay, on 6 May 1945.[1]

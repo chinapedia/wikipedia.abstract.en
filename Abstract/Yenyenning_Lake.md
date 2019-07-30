@@ -1,0 +1,1 @@
+YENYENNING LAKE, also often spelt YENYENING LAKES,[1] and associated lakes[2] are in the upper Avon River catchment area, and the source of the Western Australian Avon River and Swan River systems. It is situated in the Wheatbelt region of Western Australia approximately north east of Brookton.[3]

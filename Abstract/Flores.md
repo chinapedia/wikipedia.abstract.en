@@ -1,0 +1,1 @@
+FLORES (Indonesian: _PULAU FLORES_) is one of the Lesser Sunda Islands, a group of islands in the eastern half of Indonesia. The population was 1,931,000 in the 2010 census and the largest town is Maumere. The name _Flores_ is derived from the Portuguese for "flowers".

@@ -1,0 +1,1 @@
+The '''Battle of Calpulalpan '''took place on December 22, 1860 during the War of Reform in the vicinity of the community of San Miguel de la Victoria in the municipality of Jilotepec de Abasolo in the State of Mexico, Mexico. It would be the last battle of the War of Reform (1858-1860).

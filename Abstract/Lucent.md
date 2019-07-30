@@ -1,0 +1,1 @@
+LUCENT TECHNOLOGIES, INC., was an American multinational telecommunications equipment company headquartered in Murray Hill, New Jersey, in the United States. It was established on September 30, 1996, through the divestiture of the former AT&T Technologies business unit of AT&T Corporation, which included Western Electric and Bell Labs.[1]

@@ -1,0 +1,1 @@
+Nevada_Senate,_District_3.png with District 3 colored blue]] Nevada_Senate_District_3.png The current DISTRICT 3 OF THE NEVADA SENATE contains a part of Las Vegas, including a small section of Downtown, and small parts of Paradise and Spring Valley in Clark County. The inhabitants of the district are represented by senator Tick Segerblom.[1]

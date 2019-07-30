@@ -1,0 +1,1 @@
+A. PRATT KESSLER (April 26, 1905 – October 13, 1984) was an American politician who served as the United States Attorney for the District of Utah from 1953 to 1961 and as the Attorney General of Utah from 1961 to 1965.[1]

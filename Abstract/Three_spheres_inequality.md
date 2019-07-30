@@ -1,0 +1,1 @@
+In mathematics, the THREE SPHERES INEQUALITY bounds the L² norm of a harmonic function on a given sphere in terms of the L² norm of this function on two spheres, one with bigger radius and one with smaller radius.

@@ -1,0 +1,1 @@
+KanishkaCasket.JPG in Shah-ji-ki-Dheri.]] Mauryan_remains_of_wooden_palissade_at_Bulandi_Bagh_site_of_Pataliputra_ASIEC_1912-13.jpg remains of a wooden palissade at the Bulandi Bagh site, 1912-13.]] DAVID BRAINERD SPOONER (February 7, 1879 - January 30, 1925) was an American archaeologist and linguist. He was born at Vernon, Vermont.[1]

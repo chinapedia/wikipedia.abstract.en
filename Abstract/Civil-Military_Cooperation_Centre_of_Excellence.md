@@ -1,0 +1,1 @@
+The CIVIL-MILITARY COOPERATION CENTRE OF EXCELLENCE (CCOE) is an international military organization founded to support NATO's transformation program. As part of the NATO Centres of Excellence programme the CCOE was established in 2001.

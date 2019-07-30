@@ -1,0 +1,1 @@
+THE HISTORY OF SAUDI ARABIA in its current form as a state began with its foundation in 1744, although the human history of the region extends as far as 20,000 years ago. The region has had a global impact twice in world history:

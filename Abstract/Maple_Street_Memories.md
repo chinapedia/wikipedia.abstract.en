@@ -1,0 +1,1 @@
+_MAPLE STREET MEMORIES_ is the thirtieth studio album by American country music group The Statler Brothers. It was released in 1987 via Mercury Records. The album peaked at number 9 on the _Billboard_ Country Albums chart.[1]

@@ -1,0 +1,1 @@
+MARC BOURCIER is a Canadian politician, who was elected to the National Assembly of Quebec in a by-election on December 5, 2016.[1] He represents the electoral district of Saint-Jérôme as a member of the Parti Québécois caucus. Prior to his by-election in the legislature, he was a city councillor for Saint-Jérôme City Council.

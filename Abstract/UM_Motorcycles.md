@@ -1,0 +1,1 @@
+UM-MOTORCYCLES (United Motors) is an American motorcycle manufacturer headquartered in Miami. UM was formed in the early 2000s by Octavio Villegas Llano. The company has a distribution network in 25 nations with 1200 outlets. It also entered the European market during the 2016 Intermot, and its European operations are based out of Porto.[1][2][3][4][5][6]

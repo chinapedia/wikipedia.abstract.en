@@ -1,0 +1,1 @@
+MONCTON (; ) is the largest city in the Canadian province of New Brunswick. Situated in the Petitcodiac River Valley, Moncton lies at the geographic centre of the Maritime Provinces. The city has earned the nickname "Hub City" due to its central inland location in the region and its history as a railway and land transportation hub for the Maritimes.

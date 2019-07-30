@@ -1,0 +1,1 @@
+BEST NODE SEARCH (BNS) is a minimax search algorithm, developed in 2011. Experiments with random trees show it to be the most efficient minimax algorithm. This algorithm does tell which move leads to minmax, but does not tell the evaluation of minimax.[1]

@@ -1,0 +1,1 @@
+MARY WELLECK GARRETSON (December 16, 1896 - May 8, 1971) was a geology teacher and a consultant in the fields of paleontology and stratigraphy. She received a degree in 1919 from Barnard College in New York, studying zoology, stratigraphy and sedimentation.[1]

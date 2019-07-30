@@ -1,0 +1,1 @@
+JADAVPUR UNIVERSITY is a public state university located in Kolkata, West Bengal, India.The National Institutional Ranking Framework has ranked it 14th among engineering institutes in India in 2019, 13th overall and 6th among universities. The University achieved complete academic autonomy status from the UGC in 2018.

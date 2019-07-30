@@ -1,0 +1,1 @@
+Moses_inwang.jpg Born in 1978, in the city of Lagos, Nigeria, MOSES INWANG[1][2] is a Nigerian film director, editor, screenwriter and producer. With a career spanning over a decade and half, Inwang got his first movie credit in 1998 when he co-produced _Two Good Men_.

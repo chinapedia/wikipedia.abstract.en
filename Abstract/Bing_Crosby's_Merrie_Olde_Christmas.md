@@ -1,0 +1,1 @@
+_BING CROSBY'S MERRIE OLDE CHRISTMAS_ is a posthumous 1977 Christmas television special starring Bing Crosby and his family with special guests Twiggy, David Bowie, Ron Moody, Stanley Baxter and Trinity Boys Choir. It includes a duet by the unusual pairing of Crosby and Bowie on "Peace on Earth/Little Drummer Boy".

@@ -1,0 +1,1 @@
+SAMARITAN AVIATION is a 501 C-3 non-profit Christian organization that serves the population in the East Sepik Province of Papua New Guinea through emergency evacuation flights, the delivery of medical supplies, and continued community outreach and health programs.[1] The non-profit is funded by the Papua New Guinea government and individual donations.[2]

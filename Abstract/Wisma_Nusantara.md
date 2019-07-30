@@ -1,0 +1,1 @@
+WISMA NUSANTARA is an office highrise building located in Jalan M.H. Thamrin, Jakarta, Indonesia. Constructed from 1964 to 1969, Wisma Nusantara was amongst the first highrise buildings in Indonesia[1]. The building complex included the Pullman Hotel.

@@ -1,0 +1,1 @@
+Bonawe_-_07062009_-_01.jpg The BONAWE IRON FURNACE (also called the LORN FURNACE),[1] was an industrial complex located in Bonawe, Lorn District, Scotland. It operated in the middle of the eighteenth century, with the aim of producing pig iron. Central to this complex was a charcoal fired blast furnace.

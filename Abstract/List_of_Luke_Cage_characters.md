@@ -1,0 +1,1 @@
+_Luke Cage_ is an American web television series created for Netflix by Cheo Hodari Coker, based on the Marvel Comics character of the same name. It is set in the Marvel Cinematic Universe (MCU), sharing continuity with the films of the franchise, and is the third in a series of shows that connect with the crossover miniseries _The Defenders_.

@@ -1,0 +1,1 @@
+ABRAHAM J. ISSERMAN (May 11, 1900 – April 22, 1988) was an American lawyer and activist who defended Gerhart Eisler in 1947 and CPUSA leaders in the Foley Square trial (1949): he was found in contempt of court by Judge Harold Medina, sentenced to four months in jail (1952), and disbarred.[1][2]

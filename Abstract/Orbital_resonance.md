@@ -1,0 +1,1 @@
+Galilean_moon_Laplace_resonance_animation_2.gif. Conjunctions are highlighted by brief color changes. There are two Io-Europa conjunctions (green) and three Io-Ganymede conjunctions (grey) for each Europa-Ganymede conjunction (magenta).]]

@@ -1,0 +1,1 @@
+In computing, the INSTRUCTION REGISTER (IR) or CURRENT INSTRUCTION REGISTER (CIR) is the part of a CPU's control unit that holds the instruction currently being executed or decoded.[1] In simple processors each instruction to be executed is loaded into the instruction register which holds it while it is decoded, prepared and ultimately executed, which can take several steps.

@@ -1,0 +1,1 @@
+MW POLYOMAVIRUS (MWPYV, also known as HUMAN POLYOMAVIRUS 10 and briefly as MXPYV) is a virus of the polyomavirus family that infects human hosts. It was discovered in 2012 and reported independently by several research groups.[1][2][3] It has been identified mostly in stool samples from children and has been detected in a variety of geographic locations.[4]

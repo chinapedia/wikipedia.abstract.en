@@ -1,0 +1,1 @@
+SLANG is language (words, phrases, and usages) of an informal register that members of particular in-groups favor (over the common vocabulary of a standard language) in order to establish group identity, exclude outsiders, or both.

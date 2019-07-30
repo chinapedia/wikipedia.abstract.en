@@ -1,0 +1,1 @@
+The 2016–17 NCAA DIVISION I MEN'S ICE HOCKEY SEASON began in October 2016 and ended with the 2017 NCAA Division I Men's Ice Hockey Tournament's championship game in April 2017.[1] This was the 70th season in which an NCAA ice hockey championship will be held, and the 122st year overall in which an NCAA school has iced a team.

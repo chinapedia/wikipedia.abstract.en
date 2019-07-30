@@ -1,0 +1,1 @@
+FRANKVILLE is an unincorporated community in southern Howell County, in the U.S. state of Missouri.[1] The community is located at the intersection of U.S. Route 60 and county road 8660 about two miles southeast of West Plains.

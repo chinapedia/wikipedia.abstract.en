@@ -1,0 +1,1 @@
+RPG-7_detached.jpg launcher. For use, the thinner cylinder part of the rocket-propelled grenade is inserted into the muzzle of the launcher.]] 2011._День_защиты_детей_в_Донецке_046.jpg, RPG-22, RPG-26, RPG-18. ]]

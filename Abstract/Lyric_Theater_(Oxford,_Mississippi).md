@@ -1,0 +1,1 @@
+Lyric_at_Oxford.jpg THE LYRIC is a historical theater located in Oxford, Mississippi at 1006 Van Buren Avenue. It is one of North Mississippi's premiere live music venues, hosting a wide variety of acts.

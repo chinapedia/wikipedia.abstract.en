@@ -1,0 +1,1 @@
+Plaque_to_Louisa_Stevenson_and_Christian_Guthrie_Wright_at_5_Atholl_Crescent,_Edinburgh.jpg CHRISTIAN EDINGTON GUTHRIE WRIGHT (19 April 1844 – 24 February 1907) was a Scottish campaigner for women's higher education, co-founder of the Edinburgh School of Cookery.[1]

@@ -1,0 +1,1 @@
+Translatio_nummorum_-_27_-_François_de_Callataÿ_(cropped).jpg FRANÇOIS DE CALLATAŸ (born 1961) is a Belgian ancient historian, professor at the École pratique des hautes études (Paris/Sorbonne), who has written significant studies of coinage and finance in the ancient Mediterranean world.[1]

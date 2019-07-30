@@ -1,0 +1,1 @@
+1,1-DIMETHYLETHYLENEDIAMINE is the organic compound with the formula (CH)N)CHCHNH. It is a colorless liquid with a fishy odor. It features one primary amine and a tertiary amine. It is used to prepare a chelating diamine-containing ligands for the preparation of metal catalysts.[1][2] It is a precursor to the drug chloropyramine.

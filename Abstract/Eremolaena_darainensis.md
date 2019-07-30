@@ -1,0 +1,1 @@
+_EREMOLAENA DARAINENSIS_ is a tree in the family Sarcolaenaceae. It is endemic to Madagascar. It is named for its native commune of Daraina.

@@ -1,0 +1,1 @@
+WENDY BURRELL (born 16 May 1952) is a British former swimmer. She competed in three events at the 1968 Summer Olympics.[1] In the medley relay she competed with Margaret Auton, Dorothy Harrison and Alexandra Jackson and they came sixth.[2]

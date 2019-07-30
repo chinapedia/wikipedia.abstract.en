@@ -1,0 +1,1 @@
+PARIS is a city and county seat of Lamar County, Texas, United States. As of the 2010 census, the population of the city was 25,171. It is situated in Northeast Texas at the western edge of the Piney Woods, and northeast of the Dallas–Fort Worth Metroplex. Physiographically, these regions are part of the West Gulf Coastal Plain.[1]

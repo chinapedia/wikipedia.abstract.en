@@ -1,0 +1,1 @@
+In the English language, a SPLIT INFINITIVE or CLEFT INFINITIVE is a grammatical construction in which a word or phrase comes between the _to_ and the bare infinitive of the _to_ form of the infinitive verb. Usually an adverb or adverbial phrase comes between them.

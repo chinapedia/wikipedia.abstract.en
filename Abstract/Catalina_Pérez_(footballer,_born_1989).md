@@ -1,0 +1,1 @@
+CATALINA ITATÍ PÉREZ CASTAÑO (born 16 February 1989) is an Argentine footballer who plays as a defender for River Plate.[1] She is a former member of the Argentina women's national team. She was part of the team at the 2007 FIFA Women's World Cup.

@@ -1,0 +1,1 @@
+OLIVIA JAYNE BARTLEY (born 1982, Wollongong),[1] who also performs as OLYMPIA, is an Australian art-pop singer-songwriter-guitarist.[2] She released her debut studio album _Self Talk_ in April 2016 which received an ARIA Award nomination at the ARIA Music Awards of 2016.

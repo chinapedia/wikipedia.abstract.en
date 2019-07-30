@@ -1,0 +1,1 @@
+_SKELETOCUTIS AFRICANA_ is a species of poroid crust fungus in the family Polyporaceae. Described as new to science in 2006 by mycologists Leif Ryvarden and Peter Roberts, the fungus is found in Cameroon, where it grows on logs in tropical lowland rainforest environments. The type collection was made in Korup National Park, in South West Province.[1]

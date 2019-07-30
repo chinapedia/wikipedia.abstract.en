@@ -1,0 +1,1 @@
+_VISHWANATH_ is a 1996 Tamil thriller film directed by K. Goutham. The film features Saravanan, Mohini and Swathi in the lead roles, with Radha Ravi, Prakash Raj, Manivannan, Senthil and Sindhu playing supporting roles. The film, produced by P. Veeramuthu, had musical score by Deva and was released on 16 August 1996.[1][2]

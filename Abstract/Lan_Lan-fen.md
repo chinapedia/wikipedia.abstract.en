@@ -1,0 +1,1 @@
+'''Lan Lan-fen ''' (born 22 November 1973) is a Taiwanese footballer who played as a defender for the Chinese Taipei women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. On club level she played for Ming Chuan University in Taiwan.[1]

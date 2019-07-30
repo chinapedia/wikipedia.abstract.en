@@ -1,0 +1,1 @@
+The NEXT NATIONAL ASSEMBLY FOR WALES ELECTION is due to be held on Thursday 6 May 2021[1] to elect 60 members to the Welsh Assembly. It would be the sixth general election since the assembly was established in 1999.

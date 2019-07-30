@@ -1,0 +1,1 @@
+SANTA MARIA IN PIAZZA, and the adjacent ORATORY OF THE MADONNA DELLA MISERICORDIA is a Roman Catholic church complex located on Via Roma 62, flanking Piazza Garibaldi, in the center of the town of Mogliano, province of Macerata, in the region of Marche, Italy.

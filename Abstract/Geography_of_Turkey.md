@@ -1,0 +1,1 @@
+TURKEY is situated in Anatolia (97%) and the Balkans (3%),[1] bordering the Black Sea, between Bulgaria and Georgia, and bordering the Aegean Sea and the Mediterranean Sea, between Greece and Syria. The geographic coordinates of the country lie at:

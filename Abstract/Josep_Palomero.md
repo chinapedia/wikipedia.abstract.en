@@ -1,0 +1,1 @@
+Josep_Palomero.jpg

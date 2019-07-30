@@ -1,0 +1,1 @@
+Manuil.jpg Pogrom'd_(Manuil_Shechtman).jpg]] MANUIL IOSIPOVICH SHECHTMAN (Ukrainian: Мануїл Йосипович Шехтман; 2 February 1900, Lipinki, Zhytomyr Oblast - late 1941, near Moscow) was a Ukrainian-born painter of Jewish ancestry.

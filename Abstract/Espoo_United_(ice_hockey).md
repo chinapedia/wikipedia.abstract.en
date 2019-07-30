@@ -1,0 +1,1 @@
+ESPOO UNITED was a Finnish semi-professional ice hockey team that played in the Mestis. The team was formed by Jussi Salonoja after the Espoo Blues went bankrupt in 2016. United went bankrupt themselves after the 2017–18 season.

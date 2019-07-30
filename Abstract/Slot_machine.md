@@ -1,0 +1,1 @@
+Las_Vegas_slot_machines.jpg

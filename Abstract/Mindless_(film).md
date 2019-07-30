@@ -1,0 +1,1 @@
+_MINDLESS_ () is a 2006 Estonian comedy film directed by Elmo Nüganen and starring Rain Simmul. It tells the story of a 40-year-old businessman who moves to the countryside. It is based on the play with the same name by Jaan Tätte.[1]Ian Haydn Smith TCM International Film Guide 2008 1905674619

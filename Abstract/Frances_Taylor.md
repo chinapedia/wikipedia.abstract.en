@@ -1,0 +1,1 @@
+FRANCES FINK TAYLOR (born PEARL FRANCES FINKELSTEIN, July 10, 1909 – December 8, 1979) was a New York music and film critic and a lyricist whose best-known song, "Those Three Are on My Mind" (with music by Pete Seeger) was a lament for the murdered civil rights workers - James Chaney, Andrew Goodman, and Michael Schwerner.

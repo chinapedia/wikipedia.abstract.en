@@ -1,0 +1,1 @@
+Papyrus.jpg PAPYRUS is a material similar to thick paper that was used in ancient times as a writing surface. It was made from the pith of the papyrus plant, _Cyperus papyrus_, a wetland sedge.[1] _Papyrus_ (plural: _papyri_) can also refer to a document written on sheets of such material, joined together side by side and rolled up into a scroll, an early form of a book.

@@ -1,0 +1,1 @@
+"MEDUSA" is the eighth episode of the second season from The CW television series _Supergirl_, which aired on November 28, 2016. The episode features a minor tie-in with the Arrowverse crossover event "Invasion!"

@@ -1,0 +1,1 @@
+LOEL ELIJAH PASSE (; May 29, 1917 – July 15, 1997) was an American sports broadcaster. After working for a radio station in Alabama, Passe was a baseball broadcaster for the Houston Buffaloes beginning in 1950. When Houston was awarded a major league franchise, the Houston Colt .45s (later renamed the Houston Astros), Passe was one of the team's broadcasters from 1962 to 1976.

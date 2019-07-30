@@ -1,0 +1,1 @@
+NATIONAL HIGHWAY 313 (NH 313) is a National Highway in North East India that connects Meka, near Roing and Anini in Arunachal Pradesh. [1] It is a spur road of National Highway 13.[2] NH-313 traverses the state of Arunachal Pradesh in India.[3] This highway connects remotely located town of Anini, which is the headquarter of Dibang Valley district.[4]

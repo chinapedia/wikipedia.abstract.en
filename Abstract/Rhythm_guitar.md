@@ -1,0 +1,1 @@
+Guitar_strum_on_open_G_chord_common_pattern.png : pattern created by subtracting the second and fifth (of eight) eighth notes from a pattern of straight eighth notes.]] Power_chord_on_E.svg in eighth notes ]] NOT_Travis_picking.PNG.[1] ]]

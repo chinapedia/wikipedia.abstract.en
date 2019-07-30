@@ -1,0 +1,1 @@
+SF-Marin-Pt_Reyes_aerial_panorama.jpg, and Marin Headlands on a clear morning. November 2014 photo by Doc Searls.]] SAN FRANCISCO BAY is a shallow estuary in the US state of California. It is surrounded by a contiguous region known as the San Francisco Bay Area (often simply "the Bay Area"), and is dominated by the large cities of San Jose, San Francisco and Oakland.

@@ -1,0 +1,1 @@
+Seal Bay}} __NOTOC__ SEAL BAY is a bay in the Australian state of South Australia located on the south coast of Kangaroo Island about southwest of the state capital of Adelaide and about south of the municipal seat of Kingscote.[1][2]

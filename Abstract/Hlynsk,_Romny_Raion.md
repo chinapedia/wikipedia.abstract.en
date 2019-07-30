@@ -1,0 +1,1 @@
+Glynsk_s.png HLYNSK () is a village of Romny Raion, Sumy Oblast. The village is administered by its own rural council. The population is about 1.5 thousand. The settlement is known for its ties with Mamai descendants and representatives of the Glinski family. Until the 19th century it was a city with its own rathaus.

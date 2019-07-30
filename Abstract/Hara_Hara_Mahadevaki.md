@@ -1,0 +1,1 @@
+_HARA HARA MAHADEVAKI_ is 2017 Indian Tamil language adult comedy film written and directed by Santhosh P. Jayakumar and Produced By Thangam Cinemas. The film features Gautham Karthik and Nikki Galrani in the lead roles, while Balamurali Balu composes the film's music. Produced by Thangam Cinemas and released by Blue Ghost Pictures, the venture began production in November 2016.

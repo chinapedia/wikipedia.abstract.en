@@ -1,0 +1,1 @@
+PLAYING or LEARNING BY EAR is the ability of a performing musician to reproduce a piece of music they have heard, without having seen it notated in any form of sheet music.[1] It is considered to be a desirable skill among musical performers.[2]

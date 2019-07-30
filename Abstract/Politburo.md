@@ -1,0 +1,1 @@
+Execute_346_Politburo_passes.jpg and the Soviet Government"'' who led _"counter-revolutionary, pro-trotskyist, plotting and spying activities"_, signed by secretary Stalin, 17 January 1940]] A POLITBURO () or POLITICAL BUREAU is the executive committee for communist parties.[1]

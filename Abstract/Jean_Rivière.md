@@ -1,0 +1,1 @@
+JEAN RIVIÈRE (born July 2, 1971) is a Canadian former Kyokushin karateka, kickboxer and mixed martial artist. A heavyweight competitor fighting out of Montreal, Rivière reached the semi-finals at the 5th Kyokushin World Open in 1991 and later embarked on a career in the K-1 kickboxing promotion and the burgeoning MMA scene of the mid-1990s.

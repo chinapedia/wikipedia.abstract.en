@@ -1,0 +1,1 @@
+_DODGY BASTARDS_ is the twenty-third studio album by British folk rock band Steeleye Span. It was released in October 2016. It is the band's first studio album to feature the line-up of Maddy Prior, Julian Littman, Rick Kemp, Spud Sinclair, Jessie May Smart and Liam Genockey.

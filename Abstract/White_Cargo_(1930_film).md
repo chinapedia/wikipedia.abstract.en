@@ -1,0 +1,1 @@
+_WHITE CARGO_ is a 1930 British drama film directed by J.B. Williams and starring Leslie Faber, John F. Hamilton and Maurice Evans. Originally made at Twickenham Studios as a silent film, it had sound sequences added at Elstree Studios.[1]

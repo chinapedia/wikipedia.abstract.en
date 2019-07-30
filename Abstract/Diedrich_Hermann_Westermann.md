@@ -1,0 +1,1 @@
+Westermann_1911_Sudansprachen_cover.jpg''.]]DIEDRICH HERMANN WESTERMANN (June 24, 1875–May 31, 1956) was a German missionary, Africanist, and linguist. He substantially extended and revised the work of Carl Meinhof, his teacher, although he rejected some of Meinhof's theories only implicitly. Westermann is seen as one of the founders of modern African linguistics.

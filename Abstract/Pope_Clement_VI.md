@@ -1,0 +1,1 @@
+POPE CLEMENT VI (; 1291 – 6 December 1352), born PIERRE ROGER,[1] was Pope from 7 May 1342 to his death in 1352. He was the fourth Avignon pope. Clement reigned during the first visitation of the Black Death (1348–1350), during which he granted remission of sins to all who died of the plague.

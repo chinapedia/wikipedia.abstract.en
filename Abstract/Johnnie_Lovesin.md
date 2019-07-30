@@ -1,0 +1,1 @@
+JOHNNIE LOVESIN (May 22, 1949 – February 23, 2019) was a Canadian musician, most noted as a two-time Juno Award nominee for Most Promising Male Vocalist at the Juno Awards of 1984[1] and the Juno Awards of 1985.[2]

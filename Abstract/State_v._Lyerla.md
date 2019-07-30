@@ -1,0 +1,1 @@
+_STATE V. LYERLA_, Supreme Court of South Dakota, 424 N.W.2d 908 (1988), is a criminal case in which it was found that an attempt to commit a crime with an element of recklessness is a logical impossibility; specifically that attempted second degree murder is logically impossible.[1]

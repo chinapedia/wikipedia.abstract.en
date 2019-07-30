@@ -1,0 +1,1 @@
+EDWARD SMITH LEES (30 March 1783 – 24 September 1846) usually known simply as Edward Lees was Secretary to the Postmasters General of Ireland and later to the Post Office for Scotland remaining in public service for 45 years. He was knighted by King George IV.

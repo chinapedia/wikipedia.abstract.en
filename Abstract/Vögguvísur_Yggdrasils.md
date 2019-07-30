@@ -1,0 +1,1 @@
+_VÖGGUVÍSUR YGGDRASILS_ (_"Yggdrasil's lullabyes"_ in Icelandic) is the fourth full-length studio album by the Icelandic viking/folk metal band Skálmöld, released on September 30, 2016 via Napalm Records.

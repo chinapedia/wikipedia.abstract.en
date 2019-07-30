@@ -1,0 +1,1 @@
+Woman_on_Poäng_chair.jpg The POÄNG () is a wooden armchair that has been sold by the Swedish furniture retailer IKEA since 1978. As of 2016, about one-and-a-half million Poängs are sold annually, and a total of 30 million have been produced.[1][2]

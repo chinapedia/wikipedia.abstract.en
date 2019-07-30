@@ -1,0 +1,1 @@
+In cryptography, SHA-1 (SECURE HASH ALGORITHM 1) is a cryptographic hash function which takes an input and produces a 160-bit (20-byte) hash value known as a message digest – typically rendered as a hexadecimal number, 40 digits long. It was designed by the United States National Security Agency, and is a U.S. Federal Information Processing Standard.[1]

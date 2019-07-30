@@ -1,0 +1,1 @@
+SOUTH CAROLINA () is a state in the Southeastern United States and the easternmost of the Deep South. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia across the Savannah River.

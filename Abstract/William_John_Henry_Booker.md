@@ -1,0 +1,1 @@
+WILLIAM JOHN HENRY BOOKER, M.D. (April 29, 1882 – August 24, 1921) was a prominent African- American physician situated in Oxford, North Carolina. He became a First Lieutenant Medical Officer following the United States's entry into World War I.

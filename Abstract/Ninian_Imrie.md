@@ -1,0 +1,1 @@
+Lieutenant Colonel NINIAN IMRIE OF DENMUIR (died 1820) was a Scottish army officer and geologist. He gave the first wholly geological description of the Rock of Gibraltar.[1] He stirred the Plutonist versus Neptunist debate during the Scottish Enlightenment.[2]

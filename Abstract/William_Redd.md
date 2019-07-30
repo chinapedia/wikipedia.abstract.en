@@ -1,0 +1,1 @@
+WILLIAM REDD, also known as SI REDD (1911-2003) was an American businessman and philanthropist. He was the founder of International Game Technology, a slot machine manufacturer and distributor. He was the owner of the Oasis, a hotel and casino in Mesquite, Nevada. He was the rightsholder of video poker, and he became known as the "king of slot machines".[1]

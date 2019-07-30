@@ -1,0 +1,1 @@
+POPE STEPHEN VII (; died 15 March 931)[1] was Pope from February 929 to his death in 931. A candidate of the infamous Marozia, his pontificate occurred during the period known as the Saeculum obscurum.

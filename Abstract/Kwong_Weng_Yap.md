@@ -1,0 +1,1 @@
+YAP KWONG WENG (born November 11, 1977) is a Singaporean author, business executive and former soldier.[1][2] He is Principal Advisor of KPMG Singapore[3] and co-founder of Triip, a Vietnam-based travel tech company.[4][5]

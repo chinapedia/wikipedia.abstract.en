@@ -1,0 +1,1 @@
+The 2ND GLOBES DE CRISTAL AWARD ceremony honoured the best French movies, actors, actresses, plays, concerts, novels, singers, TV series, exhibitions and fashion designers of 2006 and took place on 5 February 2007 at Le Lido in Paris. The ceremony was chaired by Pierre Lescure.

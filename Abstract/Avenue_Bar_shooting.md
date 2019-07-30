@@ -1,0 +1,1 @@
+On 15 May 1988, the Ulster Volunteer Force launched a gun attack on the Avenue Bar on Union Street in the city centre of Belfast, Northern Ireland, killing three Catholic civilians and wounding six others. The bar was close to the Unity Flats complex and as a result was frequented mostly by Catholics.

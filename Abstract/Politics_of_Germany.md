@@ -1,0 +1,1 @@
+Germany is a democratic, federal parliamentary republic, where federal legislative power is vested in the Bundestag (the parliament of Germany) and the Bundesrat (the representative body of the Länder, Germany's regional states).

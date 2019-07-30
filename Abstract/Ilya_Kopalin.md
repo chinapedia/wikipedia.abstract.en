@@ -1,0 +1,1 @@
+ILYA PETROVICH KOPALIN (1900-1976) was a Russian film director remembered for his documentaries. His most famous footage is that of Stalin, Churchill and Roosevelt at the Yalta Conference and that of Yuri Gargarin's space flight.

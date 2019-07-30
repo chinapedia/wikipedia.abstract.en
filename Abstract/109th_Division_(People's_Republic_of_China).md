@@ -1,0 +1,1 @@
+The 109TH DIVISION () was created in February 1950 under _the Regulation of the Redesignations of All Organizations and Units of the Army_, issued by Central Military Commission on November 1, 1948,[1] basing on the 7th Independent Division of Republic of China Army defected on September 19, 1949 during the Chinese Civil War.

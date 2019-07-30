@@ -1,0 +1,1 @@
+QUARLES is an unincorporated community in Henry County, in the U.S. state of Missouri.[1] The community is located at the intersection of Missouri routes 13 and N, approximately six miles north of Clinton.[2]

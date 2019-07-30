@@ -1,0 +1,1 @@
+_UDEA RUCKDESCHELI_ is a species of moth in the family Crambidae. It was described from specimens collected on Crete, formerly identified as respectively _Udea fulvalis_ and _Udea languidalis_ ab _veneralis_.[1]

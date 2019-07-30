@@ -1,0 +1,1 @@
+Ren_Yuandao.jpg'']] REN YUANDAO (, 1890–1980) was a Chinese general of the Republic of China, who held military posts in the collaborationist Reformed Government of the Republic of China and later the Wang Jingwei Government during the Second Sino-Japanese War.

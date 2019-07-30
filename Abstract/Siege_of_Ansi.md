@@ -1,0 +1,1 @@
+The SIEGE OF ANSI was a battle between Goguryeo and Tang forces in Ansi, a fortress in the Liaodong Peninsula, and a part of the First campaign in the Goguryeo–Tang War. The confrontation had lasted for about 3 months from 20 June 645 to 18 September 645.[1]

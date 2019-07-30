@@ -1,0 +1,1 @@
+ROUTE 18, also known as CAPE BEAR ROAD, is a , two-lane, uncontrolled-access, secondary highway in eastern Prince Edward Island. Its southern terminus is at Route 4 in High Bank and its northern terminus is at Route 4 in Murray River. The route is entirely in Kings County.

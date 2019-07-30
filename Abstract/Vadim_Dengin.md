@@ -1,0 +1,1 @@
+VADIM YEVGENYEVICH DENGIN (; born September 23, 1980, Obninsk, Russia) is a Russian politician and deputy of the State Duma of the Russian Federation. He is a member of the Liberal Democratic Party of Russia.[1]

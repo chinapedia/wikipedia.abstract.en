@@ -1,0 +1,1 @@
+CHURNSIKE LODGE is an early Victorian hunting lodge situated in the parish of Greystead, West Northumberland, England. Constructed in 1850 by the Charlton family, descendants of the noted Border Reivers family of the English Middle March, the lodge formed part of the extensive Hesleyside estate, located some 10 miles from Hesleyside Hall itself.[1]

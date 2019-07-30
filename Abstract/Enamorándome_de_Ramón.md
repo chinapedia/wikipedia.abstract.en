@@ -1,0 +1,1 @@
+_ENAMORÁNDOME DE RAMÓN_ is a Mexican telenovela produced by Lucero Suárez for Televisa.[1] It is based on the Venezuelan telenovela written by Doris Seguí, _Tomasa Tequiero_ produced in 2009.[2] Filming began on December 1, 2016 at Televisa San Ángel.[3]

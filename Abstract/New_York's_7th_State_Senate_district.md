@@ -1,0 +1,1 @@
+NEW YORK'S 7TH STATE SENATE DISTRICT is one of 63 districts in the New York State Senate. It has been represented by Democratic Senator Anna Kaplan since 2019. Kaplan defeated Republican Senator Elaine Phillips in the 2018 midterm elections; Phillips herself succeeded retiring Republican Senator Jack Martins in 2016.

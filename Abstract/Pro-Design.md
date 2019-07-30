@@ -1,0 +1,1 @@
+PRO-DESIGN GMBH is an Austrian aircraft manufacturer based in Innsbruck. It was founded in 1986, in Natters. The company specializes in the design and manufacture of paragliders and powered parachute canopies, in the form of ready-to-fly aircraft.[1]

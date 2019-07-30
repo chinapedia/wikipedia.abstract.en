@@ -1,0 +1,1 @@
+ELEANOR SLEATH (15 October 1770, Loughborough – 5 May 1847, Sileby)[1] was an English novelist, best known for her 1798 gothic novel, _The Orphan of the Rhine_, which was listed as one of the seven "horrid novels" by Jane Austen in her novel _Northanger Abbey_.[2]

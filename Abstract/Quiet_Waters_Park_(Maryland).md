@@ -1,0 +1,1 @@
+QUIET WATERS PARK is a park located in eastern Anne Arundel County, Maryland, USA. The park contains and is operated by the Anne Arundel Recreation and Parks. It is open year-round. Organizations using the park include The Friends of Quiet Waters Park.[1] As of 2010, it attracts 700,000 visitors a year.[2]

@@ -1,0 +1,1 @@
+GLIESE 536 B also known as GJ 536 B[1][2][3] is a nearby[4][5][6] Super-Earth sized exoplanet orbiting within the circumstellar habitable zone of the red dwarf (M1)[7] star Gliese 536 every 8.7 days. Due to its short orbital period it could help with future studies of biological activity on exoplanets.[8]

@@ -1,0 +1,1 @@
+_EUCALYPTUS GIGANTANGION_, commonly known as KAKADU WOOLLYBUTT,[1] is a species of tree that is endemic in the Northern Territory. It has soft, fibrous bark most of the trunk, smooth white bark above, narrow lance-shaped adult leaves, flower buds in groups of seven, orange-coloured flowers and ribbed, urn-shaped fruit.

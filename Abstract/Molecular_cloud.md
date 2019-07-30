@@ -1,0 +1,1 @@
+"Finger_of_God"_Bok_globule_in_the_Carina_Nebula.jpg. Newly formed stars are visible nearby, their images reddened by blue light being preferentially scattered by the pervasive dust. This image spans about two light-years and was taken by the Hubble Space Telescope in 1999.]]

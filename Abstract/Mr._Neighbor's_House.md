@@ -1,0 +1,1 @@
+_MR. NEIGHBOR'S HOUSE_ is a series of TV specials created by Brian Huskey, Jason Mantzoukas, and Jesse Falcon.[1] It is a parody of _Mister Rogers' Neighborhood_ and premiered on December 2, 2016 on Adult Swim.[2] The puppets for the characters were created by Viva la Puppet.[3] The specials are produced by Alive and Kicking, Inc.

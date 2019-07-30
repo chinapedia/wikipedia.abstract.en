@@ -1,0 +1,1 @@
+_KEVIN HART: WHAT NOW? (THE MIXTAPE PRESENTS CHOCOLATE DROPPA)_ is a rap mixtape album hosted by Chocolate Droppa, the musical alter ego of actor and comedian Kevin Hart. The album was released on October 14, 2016, by Motown Records.[1] The album features many guest vocalists.[2]

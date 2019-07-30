@@ -1,0 +1,1 @@
+AMELIA THRIPURA HENDERSON (born October 20, 1995), better known as AMELIA HENDERSON is a Malaysian actress, model and television presenter. She was the host and face of the GOASEAN channel, a joint-venture of Astro and Association of Southeast Asian Nations (ASEAN).

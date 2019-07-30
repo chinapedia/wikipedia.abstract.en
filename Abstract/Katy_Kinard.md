@@ -1,0 +1,1 @@
+KATHRYN MICHELLE "KATY" KINARD (born September 16, 1980) is an American Christian musician and pianist, who primarily plays a style of contemporary worship music and Christian pop music. She has released four musical works, _Headed Back_ (2005), _You're Still Better_ (2007), _Lullaby Hymns_ (2010), and _God of Fireflies_ (2016).

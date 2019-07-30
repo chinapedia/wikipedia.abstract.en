@@ -1,0 +1,1 @@
+SATIPO AIRPORT is an airstrip adjacent to the town of Satipo in the Junín Region of Peru. The runway parallels highway 24A as it enters the southwestern edge of town. The location is in the valley of the Satipo River, with nearby mountainous terrain to the north and south.

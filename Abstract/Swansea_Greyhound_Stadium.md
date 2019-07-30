@@ -1,0 +1,1 @@
+SWANSEA GREYHOUND STADIUM was a greyhound racing track on Ystrad Road in Fforestfach, north-west of Swansea, Wales. It is not to be confused with the Fforestfach track called White City that was built earlier and had closed by the time Swansea Greyhound Stadium opened.

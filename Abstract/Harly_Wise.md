@@ -1,0 +1,1 @@
+HARLY JOHN WISE is an English professional footballer who plays as a defender for Hendon;[1] he departed League Two side Hartlepool United in February 2017. He was previously a player at Queens Park Rangers.

@@ -1,0 +1,1 @@
+Minnesota_NORML_—_Don't_Hate,_Educate,_Legalize_-_Twin_Cities_Pride_Parade_(9179211415).jpg CANNABIS IN MINNESOTA is illegal for recreational use, but permitted for medical use. Possession of personal amounts was decriminalized in 1976.

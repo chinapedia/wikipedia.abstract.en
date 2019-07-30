@@ -1,0 +1,1 @@
+KYRA LAMBERINK (born 15 April 1996) is a Dutch female track cyclist, representing Netherlands at international competitions. As a junior, she won the bronze medal at the 2013 European Track Championships (under-23 & junior). She competed at the 2016 UEC European Track Championships finishing fourth in the team sprint event and eight in the 500m time trial event.[1]

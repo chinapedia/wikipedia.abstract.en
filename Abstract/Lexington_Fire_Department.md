@@ -1,0 +1,1 @@
+The LEXINGTON FIRE DEPARTMENT provides fire prevention, firefighting, emergency medical services, technical rescue, hazardous materials, aircraft firefighting, and dive rescue operations to the 325,000+ people who live in the 284 square miles of Fayette County, Kentucky. All of LFD's firefighters are at least EMTs, and more than 200 of them are Paramedics.

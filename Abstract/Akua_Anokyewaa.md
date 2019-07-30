@@ -1,0 +1,1 @@
+'''Akua Anokyewaa ''' (born 15 October 1984) is a Ghanaian women's international footballer who plays as a forward. She is a member of the Ghana women's national football team. She was part of the team at the 2003 FIFA Women's World Cup.[1]

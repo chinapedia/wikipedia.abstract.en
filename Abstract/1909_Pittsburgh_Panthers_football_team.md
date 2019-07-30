@@ -1,0 +1,1 @@
+The 1909 PITTSBURGH PANTHERS FOOTBALL TEAM was an American football team that represented the University of Pittsburgh as an independent during the 1909 college football season. In its first season under head coach Joseph H. Thompson, the team compiled a 6–2–1 record and outscored opponents by a total of 94 to 26.[1][2]

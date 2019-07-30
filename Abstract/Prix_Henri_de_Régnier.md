@@ -1,0 +1,1 @@
+The PRIX HENRI DE RÉGNIER awarded by the Académie française is an annual prize to support literary creation established in 1994 by grouping of the prizes of the foundations Aubry-Vitet, Bonardi, Pierre de Régnier, Xavier Marnier, Monbinne, Pierre Villey et de Vismes. It is currently endowed with 5,000 euros, the highest sum of the prizes of the foundations.

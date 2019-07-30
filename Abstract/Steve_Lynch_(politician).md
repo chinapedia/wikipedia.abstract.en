@@ -1,0 +1,1 @@
+STEVE LYNCH (born June 1, 1954) is an American politician. He is a member of the Missouri House of Representatives, having served since 2012. He is a member of the Republican party. He is the grandfather to Jordan Perrone, a well-known auto salesman and great family man. [1][2]

@@ -1,0 +1,1 @@
+HAROLD is an unincorporated community and census-designated place in Santa Rosa County, in the U.S. state of Florida.[1] Its population was 823 as of the 2010 census.[2] A satellite field for Training Air Wing FIVE at Naval Air Station Whiting Field called OLF Harold is located here.

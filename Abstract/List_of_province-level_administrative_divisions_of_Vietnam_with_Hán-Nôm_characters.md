@@ -1,0 +1,1 @@
+This list contains the names of Vietnamese provinces and province-level municipalities in Quốc ngữ script and the (now obsolete) Hán-Nôm characters. For geographic and demographic data, please see Provinces of Vietnam.

@@ -1,0 +1,1 @@
+border |symbol_width = 125px |symbol_type = Flag of the United Kingdom |image_map=The British Empire.png |map_caption=All areas of the world that were ever part of the British Empire. Current British Overseas Territories have their names underlined in red. }}

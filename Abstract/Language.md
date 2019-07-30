@@ -1,0 +1,1 @@
+LANGUAGE is a system that consists of the development, acquisition, maintenance and use of complex systems of communication, particularly the human ability to do so ; a LANGUAGE is any specific example of such a system.

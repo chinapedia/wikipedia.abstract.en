@@ -1,0 +1,1 @@
+Solastranda.jpg SOLASTRANDA or SOLASTRANDEN (English: _The Sola Beach_) is a long sandy beach in Norway, located from Stavanger Airport, Sola and from Stavanger. The beach is a popular beach for swimming and sunbathing in the summer.[1] Windsurfing and surfing are popular all-year-round activities at Solastranden.

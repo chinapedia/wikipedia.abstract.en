@@ -1,0 +1,1 @@
+Japan Open |before_name=AIG Japan Open Tennis Championships |after_name=AIG Japan Open Tennis Championships }} Shinobu Asagoe and Katarina Srebotnik were the defending champions, but Srebotnik did not compete this year. Asagoe teamed up with María Vento-Kabchi and lost in the final 7–5, 4–6, 6–3 against Gisela Dulko and Maria Kirilenko.

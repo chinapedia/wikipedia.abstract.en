@@ -1,0 +1,1 @@
+The RUSSO–KHIVAN WAR OF 1839–1840 was a failed Russian attempt to conquer the Khanate of Khiva. Vasily Perovsky set out from Orenburg with 5,000 men, met an unusually cold winter, lost most of his camels, and was forced to turn back after going halfway.

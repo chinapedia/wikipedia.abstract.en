@@ -1,0 +1,1 @@
+_DOE V. COMMONWEALTH'S ATTORNEY OF RICHMOND_, 425 U.S. 901 (1976), is a decision by the Supreme Court of the United States which gave summary affirmation of a lower court ruling which upheld the U.S. state of Virginia{{'s}} ban on homosexual sodomy.

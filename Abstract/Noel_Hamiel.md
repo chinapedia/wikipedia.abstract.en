@@ -1,0 +1,1 @@
+NOEL L. HAMIEL (born December 24, 1947) is an American former politician. He has served as a Republican member for the 20th district in the South Dakota House of Representatives from 2009 to 2010. He was a career newspaperman who was elected to the South Dakota Newspaper Hall of Fame in 2012.[1][2]

@@ -1,0 +1,1 @@
+_EUCALYPTUS GLOMERICASSIS_, commonly known as SCARP WHITE GUM,[1] is a species of small tree that is endemic in the Northern Territory. It has smooth bark, lance-shaped to curved adult leaves, flower buds in groups of seven, white flowers and conical fruit.

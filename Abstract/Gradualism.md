@@ -1,0 +1,1 @@
+GRADUALISM, from the Latin _gradus_ ("step"), is a hypothesis, a theory or a tenet assuming that change comes about gradually or that variation is gradual in nature and happens over time as opposed to in large steps.[1] Uniformitarianism, incrementalism, and reformism are similar concepts.

@@ -1,0 +1,1 @@
+The 2016–17 REGIONAL SUPER50 was the 43rd edition of the Regional Super50, the domestic limited-overs cricket competition for the countries of the West Indies Cricket Board (WICB). The tournament was held in Antigua and Barbuda.[1][2]

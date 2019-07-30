@@ -1,0 +1,1 @@
+The EAST SHOREHAM COVERED RAILROAD BRIDGE is a historic covered bridge spanning the Lemon Fair River near East Shoreham, Vermont. Built in 1897 by the Rutland Railroad Company, it is the state's only surviving example of a wooden Howe truss railroad bridge. It was listed on the National Register of Historic Places in 1974.[1]

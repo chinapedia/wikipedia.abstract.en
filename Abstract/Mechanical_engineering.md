@@ -1,0 +1,1 @@
+MECHANICAL ENGINEERING is the discipline that applies engineering, physics, engineering mathematics, and materials science principles to design, analyze, manufacture, and maintain mechanical systems. It is one of the oldest and broadest of the engineering disciplines.

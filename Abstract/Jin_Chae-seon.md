@@ -1,0 +1,1 @@
+JIN CHAE-SEON (born 1842[1] or 1847[2]) was a Korean pansori singer, widely regarded as the first female master of a male dominated genre, although she was probably not the first woman to perform pansori, as gisaeng courtesans might have performed it before her.[3][4] She was a master of performing _Chunhyangga_ and _Simcheongga_.[5]

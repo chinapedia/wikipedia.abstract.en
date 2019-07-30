@@ -1,0 +1,1 @@
+LOUIS-CLÉMENT PICALAUSA (1898 – 19 November 1969) was one of Belgium's first Scouts and a Scout novelist, chief scout of the Boy-Scouts van België until 1940. The landscape of the Belgian Ardennes inspired him in the writing of his scout novels.

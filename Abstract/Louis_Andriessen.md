@@ -1,0 +1,1 @@
+Louis_Andriessen,_Bestanddeelnr_932-5716.jpg Louis_Andriessen_at_the_Roundhouse.jpg LOUIS ANDRIESSEN (; born 6 June 1939) is a Dutch composer and pianist based in Amsterdam. He is a lecturer at the Royal Conservatory of The Hague. He was recipient of the Gaudeamus International Composers Award in 1959.

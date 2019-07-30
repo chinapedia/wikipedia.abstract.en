@@ -1,0 +1,1 @@
+|seats4 = |seats5_title = Local government in the Republic of Ireland |seats5 = }} FIANNA FÁIL (, meaning 'Soldiers of Destiny' or 'Warriors of Fál'),[1] officially FIANNA FÁIL – THE REPUBLICAN PARTY[2] (),[3][4][5][6][7] is a conservative political party in Ireland.

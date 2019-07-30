@@ -1,0 +1,1 @@
+STRADA STATALE 4 _VIA SALARIA_ is an Italian state highway, linking Rome to the Adriatic sea passing through Rieti and Ascoli Piceno. Its route retraces that of the ancient Via Salaria Roman road. It is a single carriageway highway for most of its route.

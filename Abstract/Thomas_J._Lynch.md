@@ -1,0 +1,1 @@
+THOMAS JOSEPH LYNCH (9 December 1916 – 8 March 1944) was a United States Army Air Forces lieutenant colonel and a flying ace of World War II. After joining the United States Army Air Corps in 1940, Lynch flew the Bell P-39 Airacobra with the 39th Pursuit Squadron. After the attack on Pearl Harbor, the squadron was deployed to Australia and then to Port Moresby in early 1942.

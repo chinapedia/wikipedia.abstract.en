@@ -1,0 +1,1 @@
+EDGAR G. H. EMERY (born May 25, 1950) is an American businessman and Republican member of the Missouri Senate, representing parts of southwestern Missouri. He is also a former state representative, serving from 2003 until 2011.

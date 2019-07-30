@@ -1,0 +1,1 @@
+Hrastovlje_Dans3.jpg Charnier_at_Saints_Innocents_Cemetery.jpg at Holy Innocents' Cemetery, Paris. The mural of a Danse Macabre is visible at the wall.]] Nuremberg_chronicles_-_Dance_of_Death_(CCLXIIIIv).jpg, from the _Nuremberg Chronicle_ of Hartmann Schedel]]

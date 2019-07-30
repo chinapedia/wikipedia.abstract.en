@@ -1,0 +1,1 @@
+Kenneth_Rowe_(philatelist).jpg KENNETH ROWE (22 December 1924 – 5 July 2014) was a British philatelist who in 1995 was invited to sign the Roll of Distinguished Philatelists.[1][2] He was a specialist in the history of forwarding agents, intermediaries who facilitated the routing of international mail before the development of the modern postal system.

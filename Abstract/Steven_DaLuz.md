@@ -1,0 +1,1 @@
+Window_final_fb.jpg STEVEN DALUZ (born 1953) is a contemporary American Neoluminist artist known for using chemically induced patinas on metal leaf and mixed media to produce figurative works and imagined landscapes often reflecting upon the sublime as a pictorial theme.[1][2]

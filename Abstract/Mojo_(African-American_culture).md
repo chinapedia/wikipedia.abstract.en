@@ -1,0 +1,1 @@
+MOJO , in the African-American folk belief called hoodoo, is an amulet consisting of a flannel bag containing one or more magical items. It is a "prayer in a bag", or a spell that can be carried with or on the host's body.

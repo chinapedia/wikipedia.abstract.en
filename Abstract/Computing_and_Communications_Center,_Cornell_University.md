@@ -1,0 +1,1 @@
+The COMPUTING AND COMMUNICATIONS CENTER is a building of Cornell University, located in Ithaca, New York. It was built in 1911 and listed on the National Register of Historic Places in 1984.[1] It was designed by Green & Wicks.

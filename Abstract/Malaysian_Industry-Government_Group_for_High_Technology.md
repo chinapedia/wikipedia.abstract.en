@@ -1,0 +1,1 @@
+The MALAYSIAN INDUSTRY-GOVERNMENT GROUP FOR HIGH TECHNOLOGY or better known as MIGHT is an independent non-profit technology think tank under the purview of the Prime Minister's Department.[1] It was established in 1993 to support the Science Advisor to the Prime Minister and leverage on the multi-disciplinary and inter-ministerial synergies from both the industry and Government.

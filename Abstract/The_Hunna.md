@@ -1,0 +1,1 @@
+THE HUNNA are an English rock band from Hertfordshire in England formed in 2015. The band members are singer/guitarist Ryan (Tino) Potter, lead guitarist Daniel (Dan, BD) Dorney, bassist Junate (Prince) Angin, and drummer Jack (IK) Metcalfe.[1] The band takes inspiration from a wide range of sources, including bands like Kings Of Leon, Foals, The 1975, You Me at Six and Queen.[2]

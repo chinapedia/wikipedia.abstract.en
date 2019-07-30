@@ -1,0 +1,1 @@
+_EUCALYPTUS DEPAUPERATA_ is a species of mallee that is endemic to the south-west of Western Australia. It has spindly stems with smooth bark, linear to narrow elliptic adult leaves, flower buds in groups of seven, usually lemon-yellow flowers and conical to cup-shaped fruit. It is most common near Lake King.

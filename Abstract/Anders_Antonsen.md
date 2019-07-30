@@ -1,0 +1,1 @@
+ANDERS ANTONSEN (born 27 April 1997) is a Danish badminton player. he won the gold medal at the 2015 European Junior Championships in the boys singles event. Antonsen was the gold medalist at the 2019 Minsk European Games

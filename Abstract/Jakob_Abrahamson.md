@@ -1,0 +1,1 @@
+JAKOB ABRAHAMSON is a Swedish poet. His three poetry collections are published by the publishing house Ristaros in Täby, which only have published two other titles. Possibly, the name Jakob Abrahamson is a pseudonym for Svante Erhardson (born 1933).

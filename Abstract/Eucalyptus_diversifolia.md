@@ -1,0 +1,1 @@
+_EUCALYPTUS DIVERSIFOLIA_, commonly known as the SOAP MALLEE, COASTAL WHITE MALLEE, SOUTH AUSTRALIAN COASTAL MALLEE, or COAST GUM[1] is a species of mallee that is endemic to an area along the southern coast of Australia. It has smooth bark, lance-shaped adult leaves, flower buds in groups of between seven and eleven, white to creamy yellow flowers and cup-shaped fruit.

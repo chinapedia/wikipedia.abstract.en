@@ -1,0 +1,1 @@
+In mathematics, a METRIC SPACE is a set together with a metric on the set. The metric is a function that defines a concept of _distance_ between any two members of the set, which are usually called points. The metric satisfies a few simple properties. Informally:

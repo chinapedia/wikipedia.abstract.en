@@ -1,0 +1,1 @@
+CECILIA BEAUX (May 1, 1855 – September 17, 1942) was an American society portraitist, in the manner of John Singer Sargent. She was a near-contemporary of American artist Mary Cassatt and also received her training in Philadelphia and France. Her sympathetic renderings of the American ruling class made her one of the most successful portrait painters of her era.

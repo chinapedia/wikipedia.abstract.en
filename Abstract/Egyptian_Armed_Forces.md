@@ -1,0 +1,1 @@
+The EGYPTIAN ARMED FORCES are the state military organisation responsible for the defense of Egypt. They consist of the Egyptian Army, Egyptian Navy, Egyptian Air Force and Egyptian Air Defense Forces.[1]

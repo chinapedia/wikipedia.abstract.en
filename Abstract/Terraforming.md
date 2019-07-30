@@ -1,0 +1,1 @@
+MarsTransitionV.jpg in four stages of development.]] TERRAFORMING or TERRAFORMATION (literally, "Earth-shaping") of a planet, moon, or other body is the hypothetical process of deliberately modifying its atmosphere, temperature, surface topography or ecology to be similar to the environment of Earth to make it habitable by Earth-like life.

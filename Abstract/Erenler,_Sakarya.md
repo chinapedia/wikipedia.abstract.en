@@ -1,0 +1,1 @@
+Sakarya_districts.png ERENLER is a municipality and district governorate in Greater Sakarya, Turkey. Sakarya is one of the 30 metropolitan centers in Turkey with more than one municipality within city borders. Now in Sakarya city (former Adapazarı) there are four second-level municipalities in addition to Greater Sakarya (büyükşehir) municipality.

@@ -1,0 +1,1 @@
+DICK SCESNIAK (June 28, 1940 – April 1, 1986) was an American football coach. He served as the head football coach at Kent State University from 1983 to 1985, compiling a record of 8–25. Scesniak died of an apparent heart attack on April 1, 1986 after he collapsed while exercising at Dix Stadium in Kent, Ohio.[1]

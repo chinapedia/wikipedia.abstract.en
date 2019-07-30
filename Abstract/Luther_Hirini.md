@@ -1,0 +1,1 @@
+LUTHER HIRINI (born 27 July 1996) is a New Zealand rugby union player. He currently plays for in the Mitre 10 Cup. He generally plays in the wing or fullback positions but can also play as a centre.[1]

@@ -1,0 +1,1 @@
+_FUTURE ROAD_ is a studio album credited to Australian recording artist Judith Durham and The Seekers. It is Durham's eighth studio album and The Seekers' eleventh. The album was released in Australia in October 1997 and peaked at number 4 on the ARIA Charts and by Christmas was certified platinum.

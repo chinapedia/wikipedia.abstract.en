@@ -1,0 +1,1 @@
+CLARENCE MANION (July 7, 1896 – July 29, 1979) was an American conservative radio talk show host and dean of the Notre Dame Law School. He hosted the radio show _Manion Forum_ which later aired on television.

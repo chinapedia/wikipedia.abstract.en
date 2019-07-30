@@ -1,0 +1,1 @@
+The Boston University Terriers represented Boston University in Women's Hockey East Association during the 2015–16 NCAA Division I women's ice hockey season. The Terriers, defending WHEA Champions, finished 23-14-2 overall, and 17-5-2 in WHEA play.

@@ -1,0 +1,1 @@
+SEKOLAH MENENGAH KEBANGSAAN DATUK PATINGGI HAJI ABDUL GAPOR (SMK DPHA GAPOR) is a public secondary school located in Kuching, Sarawak, Malaysia. The school was named after the Sarawakian hero Datu Patinggi Abdul Gapur.

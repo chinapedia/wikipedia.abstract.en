@@ -1,0 +1,1 @@
+EUSEBIUS OF NICOMEDIA (died 341) was the man who baptised Constantine the Great. He was a bishop of Berytus (modern-day Beirut) in Phoenicia. He was later made the Bishop of Nicomedia, where the imperial court resided. He lived finally in Constantinople from 338 up to his death.

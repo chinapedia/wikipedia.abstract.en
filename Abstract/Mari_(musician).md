@@ -1,0 +1,1 @@
+MARI BURELLE-VALENCIA (born April 4, 1985, as MARI JACQUELINE BURELLE), who goes by the stage name stylized as MARI, is an American Christian musician and pianist, who primarily plays a style of Christian EDM music. She has released one musical work, _Treasure_ (2016).

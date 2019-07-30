@@ -1,0 +1,1 @@
+JOSH WHITE (born May 7, 1991) is an American professional stock car racing driver and lance corporal in the United States Marine Corps Reserve. He is believed to be the second U.S. Marine to compete in a NASCAR national series event.

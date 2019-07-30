@@ -1,0 +1,1 @@
+In mathematics, specifically in measure theory, a BOREL MEASURE on a topological space is a measure that is defined on all open sets (and thus on all Borel sets).[1] Some authors require additional restrictions on the measure, as described below.

@@ -1,0 +1,1 @@
+EMERGENCY CONTRACEPTION (EC) are birth control measures that may be used after sexual intercourse to prevent pregnancy. Emergency contraception has not been shown to affect the rates of abortion within a country.[1]

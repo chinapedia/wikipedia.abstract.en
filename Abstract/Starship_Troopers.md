@@ -1,0 +1,1 @@
+_STARSHIP TROOPERS_ is a military science fiction novel by American writer Robert A. Heinlein. Written in a few weeks in reaction to the U.S. suspending nuclear tests,[1] the story was first published as a two-part serial in _The Magazine of Fantasy & Science Fiction_ as _STARSHIP SOLDIER_, and published as a book by G. P. Putnam's Sons in December 1959.

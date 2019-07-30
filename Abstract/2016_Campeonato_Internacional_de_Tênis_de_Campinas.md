@@ -1,0 +1,1 @@
+The 2016 CAMPEONATO INTERNACIONAL DE TÊNIS DE CAMPINAS was a professional tennis tournament played on clay courts. It was the sixth edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Campinas, Brazil between 3 and 9 October 2016.

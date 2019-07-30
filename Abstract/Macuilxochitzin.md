@@ -1,0 +1,1 @@
+MACUILXOCHITZIN (c. 1435 - ?) was a poet during the peak years of the Aztec civilization. She was the daughter of Tlacaélael, a counselor to the Aztec kings. She lived through the height of the Aztec civilization's expansion.[1] Her life and works are an example of gender parallelism in pre-Hispanic Mexico, where women were given the same opportunities enjoyed by men.[2]

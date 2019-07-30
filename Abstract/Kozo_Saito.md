@@ -1,0 +1,1 @@
+KOZO SAITO is a mechanical engineer, currently the Tennessee Valley Authority Professor in Mechanical Engineering[1] and also the Director of the Institute of Research for Technology Development, at the University of Kentucky,[2] and also a published author.[3][4]

@@ -1,0 +1,1 @@
+The FUJIFILM GFX 50S is a mirrorless medium format camera produced by Fujifilm. It was announced by Fujifilm during the photokina 2016 exhibition in Cologne, Germany, and production began at the start of 2017.The camera was available for sale from February 28, 2017.[1]

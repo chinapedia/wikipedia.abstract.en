@@ -1,0 +1,1 @@
+FRANÇOIS III DE LONGUEVILLE (1535–1551) was the eldest son of Louis II d'Orléans, Duke of Longueville and Marie de Guise. He succeeded his father, who died on 9 June 1537, to the duchy of Longueville.

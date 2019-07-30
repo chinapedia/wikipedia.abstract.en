@@ -1,0 +1,1 @@
+The CACHEU AND CAPE VERDE COMPANY (Portuguese: _Companhia de Cacheu e Cabo Verde_) was a Portuguese chartered company created by Portugal and served the colonies of Cacheu and Cape Verde It was created under the economic reforms of Luís de Meneses, 3rd Count of Ericeira under King Peter II.

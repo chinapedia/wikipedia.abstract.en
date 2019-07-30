@@ -1,0 +1,1 @@
+_HUNTER'S ROOM_ () is a 2007 painting by the German artist Neo Rauch. It depicts a group of people carrying crossbows in a room with a map on the back wall and birds hanging from the roof. The painting was part of the exhibition _Para_ which was made for the Metropolitan Museum of Art and shown there in 2007.[1][2]

@@ -1,0 +1,1 @@
+HEINRICH LUITPOLD HIMMLER (; 7 October 1900 – 23 May 1945) was _Reichsführer_ of the _Schutzstaffel_ (Protection Squadron; SS), and a leading member of the Nazi Party (NSDAP) of Germany. Himmler was one of the most powerful men in Nazi Germany and a main architect of the Holocaust.

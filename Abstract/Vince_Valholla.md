@@ -1,0 +1,1 @@
+VINCE EYMA, otherwise known as Vince Valholla[1] and formally known as Vince The Prince,[2] is a Haitian American[3] record producer,[4][5] arranger,[6] manager, and entrepreneur. Vince is most known for founding Florida-based entertainment company, Valholla Entertainment which he also serves as chairman and chief executive officer.

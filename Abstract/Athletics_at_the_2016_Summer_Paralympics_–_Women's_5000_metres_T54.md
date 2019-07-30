@@ -1,0 +1,1 @@
+The WOMEN'S 5000 METRES T54 event at the 2016 Summer Paralympics took place at the Rio Olympic Stadium on 14 and 15 September.It featured 14 athletes from 8 countries and was open to both T54 and T53 classification athletes. The United States took all three medals, while eventual winner Tatyana McFadden broke the Paralympic record during the heat stages.

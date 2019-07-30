@@ -1,0 +1,1 @@
+DENNIS EUGENE HEDKE (born October 1, 1952) is an American politician. He has served as a Republican member for the 99th district in the Kansas House of Representatives since 2011. The American Conservative Union gave him a lifetime rating of 88%. [1][2]

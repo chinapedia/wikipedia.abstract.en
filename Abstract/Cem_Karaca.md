@@ -1,0 +1,1 @@
+MUHTAR CEM KARACA (5 April 1945 – 8 February 2004) was a prominent Turkish rock musician and one of the most important figures in the Anatolian rock movement.[1] He was a graduate of Robert College. He worked with various Turkish rock bands such as Apaşlar, Kardaşlar, Moğollar and Dervişan. With these bands, he brought a new understanding and interpretation to Turkish rock.[2]

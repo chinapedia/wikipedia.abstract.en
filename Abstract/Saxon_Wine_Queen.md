@@ -1,0 +1,1 @@
+Sächsischeweinkönigin2014.JPG, Kati Hoffmann (l) and Jana Jordan (r)]] The SAXON WINE QUEEN () is a woman from the wine industry who is chosen for a year to represent the wine region of Saxony in Germany. In the year following her 'reign' she is entitled to run for election as the German Wine Queen.

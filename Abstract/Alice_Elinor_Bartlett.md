@@ -1,0 +1,1 @@
+Alice_E_Bartlett.png ALICE ELINOR BARTLETT (sometimes, ALICE ELOISE BARTLETT, née Bowen; pen name, BIRCH ARNOLD and MRS. J. M. D. BARTLETT; September 4, 1848 – 1920) was an American author. She published novels, wrote for newspapers, and penned lyrics, essays and miscellaneous writings.

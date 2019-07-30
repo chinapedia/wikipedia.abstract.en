@@ -1,0 +1,1 @@
+NICOLE JOSEPH-CHIN is the Chief Innovator, Founder and CEO of Ms. Brafit Limited, a globally respected and recognized Social Enterprise focused on healthy breasts as a catalyst for social impact.[1] She is a Vital Voices #VV100 Women and 2015 Vital Voices VV Lead Fellow.[2]

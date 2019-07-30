@@ -1,0 +1,1 @@
+LIECHTENSTEIN ( ; ), officially the PRINCIPALITY OF LIECHTENSTEIN (),[1] is a doubly landlocked German-speaking microstate in Alpine Central Europe.[2] The principality is a constitutional monarchy headed by the Prince of Liechtenstein.

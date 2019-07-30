@@ -1,0 +1,1 @@
+JAMES SHANES (born 17 March 1997) is a British Motorcycle Racer[1] and competes in Grasstrack, Longtrack and Speedway. He has won British Masters Grasstrack Championship, European Grasstrack Championship and rides for the Swindon Robins in the Premiership.

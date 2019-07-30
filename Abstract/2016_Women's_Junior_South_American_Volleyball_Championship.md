@@ -1,0 +1,1 @@
+The 2016 WOMEN'S JUNIOR SOUTH AMERICAN VOLLEYBALL CHAMPIONSHIP was the 23rd edition of the tournament, organised by South America's governing volleyball body, the Confederación Sudamericana de Voleibol (CSV). The champion will qualify for the 2017 Junior World Championship.

@@ -1,0 +1,1 @@
+COBURG HIGH SCHOOL is a medium-sized, co-educational public high school located in Coburg, Victoria, Australia. In 2016 there are approximately 400 students enrolled at Coburg High School and with each new intake of Year 7 students, the school is projected to continue to grow in enrolments and to reach capacity by 2020.[1]

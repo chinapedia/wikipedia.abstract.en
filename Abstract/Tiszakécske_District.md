@@ -1,0 +1,1 @@
+TISZAKÉCSKE () is a district in north-eastern part of Bács-Kiskun County. _Tiszakécske_ is also the name of the town where the district seat is found. The district is located in the Southern Great Plain Statistical Region.

@@ -1,0 +1,1 @@
+MICHAEL CERNOVICH (born November 17, 1977) is a right-wing American social media personality, anti-feminist, men's rights activist, and conspiracy theorist.[1][2] He has been characterized as a part of the alt-right,*

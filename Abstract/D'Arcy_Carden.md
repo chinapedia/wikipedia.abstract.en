@@ -1,0 +1,1 @@
+D'ARCY BETH CARDEN (born DARCY BETH EROKAN, January 4, 1980)[1] is an American actress and comedian. She is best known for her starring role as Janet on the NBC sitcom _The Good Place_ (2016–present).

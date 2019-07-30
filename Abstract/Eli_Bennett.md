@@ -1,0 +1,1 @@
+ELI BENNETT is a notable jazz saxophonist and the first born son of Powder Blues Band drummer Daryl Bennett.[1][2] He is considered an emerging talent, and has gained recognition in Canada's jazz scene.[3][4] He was also a Fraser Valley Music Awards nominee in 2016.[5]

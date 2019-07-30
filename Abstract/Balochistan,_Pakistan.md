@@ -1,0 +1,1 @@
+BALOCHISTAN (; ) is one of the four provinces of Pakistan. It is the largest province in terms of land area, forming the southwestern region of the country, but is the least populated. Its provincial capital and largest city is Quetta.

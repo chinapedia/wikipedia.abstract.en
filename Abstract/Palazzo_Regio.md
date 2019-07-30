@@ -1,0 +1,1 @@
+The PALAZZO REGIO[1] (_Royal palace_), also known as VICEREGIO (_Viceroyal palace_), is a historic building in Cagliari, the ancient residence of the representative of the king of Sardinia during the Aragonese, Spanish and Savoy domination and now the seat of the Metropolitan City of Cagliari. It is located in the historical Castello district.

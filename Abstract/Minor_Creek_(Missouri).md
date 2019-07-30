@@ -1,0 +1,1 @@
+MINOR CREEK is a stream in Iron County in the U.S. state of Missouri.[1] It is a tributary of Big Creek. Routes 72 and 21 pass through the lower stream valley southwest of Ironton. Minor Creek passes through Royal Gorge just before it reaches its confluence with Big Creek.[2]

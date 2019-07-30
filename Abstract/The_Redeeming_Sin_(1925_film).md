@@ -1,0 +1,1 @@
+_THE REDEEMING SIN_ is a lost[1][2] American 1925 silent film directed by J. Stuart Blackton an starring Alla Nazimova. It was produced and distributed by the Vitagraph Company of America.[3][4] The story was refilmed as _The Redeeming Sin_ in 1929 by Warner Brothers (purchasers of Vitagraph) starring Dolores Costello.

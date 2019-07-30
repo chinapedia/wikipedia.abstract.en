@@ -1,0 +1,1 @@
+In chemical physics and physical chemistry, CHEMICAL AFFINITY is the electronic property by which dissimilar chemical species are capable of forming chemical compounds.[1] Chemical affinity can also refer to the tendency of an atom or compound to combine by chemical reaction with atoms or compounds of unlike composition.

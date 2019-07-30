@@ -1,0 +1,1 @@
+LIAO MIN-CHUN (; born 27 January 1988) is a Taiwanese badminton player.[1] In 2013, he won the men's doubles title at the Vietnam International tournament partnered with Yang Po-han.[2] Teamed-up with Su Cheng-heng in the men's doubles, he won the International Challenge title at the 2016 Welsh International, 2017 Orleans International, and 2017 Finnish Open tournament.[3][4][5]

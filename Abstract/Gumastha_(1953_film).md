@@ -1,0 +1,1 @@
+_GUMASTHA_ (English: Government Clerk) is a Tamil language film released in 1953 with Chittor V. Nagaiah, R. S. Manohar and Pandari Bai in the lead roles. The film was produced in Tamil and Telugu under the same title.[1][2]

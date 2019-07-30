@@ -1,0 +1,1 @@
+CHRISTIAN WAAGEPETERSEN (6 September 1787 – 23 November 1840) was a Danish wine merchant and patron of the arts. The Waagepetersen House, his home in Copenhagen on Store Strandstræde, was a meeting place during the 1820s and 1830s for many leading figures of the Danish Golden Age. The neoclassical building is now listed.

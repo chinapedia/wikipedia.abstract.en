@@ -1,0 +1,1 @@
+The KIDDIE SCHEDULE FOR AFFECTIVE DISORDERS AND SCHIZOPHRENIA (K-SADS) is a semi-structured interview aimed at early diagnosis of affective disorders such as depression, bipolar disorder, and anxiety disorder. There are currently four different versions of the test that are structured to include interviews with both the child and the parents or guardians.

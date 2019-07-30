@@ -1,0 +1,1 @@
+STOP WASTING FOOD () is a Danish consumer organization that works for the reduction of food waste in society. It was established in 2008 by Selina Juul, who acts as the movement's day-to-day leader and spokesperson. The organization is run by volunteers and does not count on a permanent membership.[1]

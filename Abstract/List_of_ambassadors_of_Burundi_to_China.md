@@ -1,0 +1,1 @@
+The BURUNDIAN AMBASSADOR TO CHINA is the official representative of the Government of Burundi to the Government of the People's Republic of China, he is concurrently accredited to governments in Hanoi, Pyongyang, Seoul and Bangkok.

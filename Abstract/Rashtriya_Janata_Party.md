@@ -1,0 +1,1 @@
+RASHTRIYA JANATA PARTY was a political party in Gujarat, India. It was a splinter group of Bharatiya Janata Party. This group was led by Shankersinh Vaghela and Dilip Parikh. It was later dissolved and its leaders joined the Indian National Congress.[1][2][3]

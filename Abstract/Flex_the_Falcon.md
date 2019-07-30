@@ -1,0 +1,1 @@
+Flex_the_Falcon_at_Falcon_Fest.jpg FLEX THE FALCON is the mascot of Bentley University. Bentley University is a private co-educational university outside of Boston, Massachusetts that is focused on business.

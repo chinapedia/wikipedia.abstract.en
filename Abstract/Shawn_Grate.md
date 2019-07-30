@@ -1,0 +1,1 @@
+SHAWN MICHAEL GRATE (born August 8, 1976[1]) is an American convicted serial killer who was convicted on two counts of aggravated murder on May 7th, 2018, in Ashland County, Ohio, and who pleaded guilty to two additional murders on March 1, 2019 in Richland County, Ohio.

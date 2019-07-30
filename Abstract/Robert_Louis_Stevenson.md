@@ -1,0 +1,1 @@
+ROBERT LOUIS STEVENSON (13 November 1850 – 3 December 1894) was a Scottish novelist and travel writer, most noted for _Treasure Island_, _Kidnapped_, _Strange Case of Dr Jekyll and Mr Hyde_, and _A Child's Garden of Verses_.

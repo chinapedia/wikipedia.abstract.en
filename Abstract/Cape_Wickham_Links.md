@@ -1,0 +1,1 @@
+CAPE WICKHAM LINKS is an 18-hole golf course that was constructed on the northern tip of King Island, north of Currie, on Tasmania.[1] It opened to the public on 30 October 2015. A par 72 course, it is long.[2] Critically acclaimed, it has been ranked third in the Australian _Golf Digest_ Top 100 Courses rankings,[3] and 24th in the world.[4][5]

@@ -1,0 +1,1 @@
+LILLIE BRIDGE DEPOT is an historic English traction maintenance depot on the London Underground Piccadilly and District lines, situated in between West Brompton and West Kensington stations in the London Borough of Hammersmith and Fulham. It is accessed from the District line tracks between Earl's Court and West Kensington or between Earl's Court and Kensington (Olympia).

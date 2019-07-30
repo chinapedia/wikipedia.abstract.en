@@ -1,0 +1,1 @@
+Munikal_Caves.JPG Pakshipathalam_watch_tower.JPG PAKSHI PATHALAM is a Bird Sanctuary and a tourist location in Wayanad district of Kerala state, India. Pakshipathalam_-_views_from_the_way_to_Pakshipathalam_from_Thirunelli_(108).jpg Pakshipathalam_-_views_from_the_way_to_Pakshipathalam_from_Thirunelli_(1).jpg

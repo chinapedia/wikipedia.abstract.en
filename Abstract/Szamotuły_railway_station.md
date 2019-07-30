@@ -1,0 +1,1 @@
+SZAMOTUŁY RAILWAY STATION is a railway station serving the town of Szamotuły, in the Greater Poland Voivodeship, Poland. The station opened in 1848 and is located on the Poznań–Szczecin railway and Szamotuły–Międzychód railway. The train services are operated by PKP and Przewozy Regionalne.

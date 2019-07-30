@@ -1,0 +1,1 @@
+SHRI NAGESHWAR PARSHWANATH TIRTH or Shri Jain Shwetamber Nageshwar Parshwanath Tirth Pedhi is a Jain Temple situated in Unhel, Jhalawar district, Rajasthan. This temple is dedicated to Parshvanatha, the 23rd Tirthankar.

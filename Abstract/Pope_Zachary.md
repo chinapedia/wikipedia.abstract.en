@@ -1,0 +1,1 @@
+POPE ZACHARY (; 679 – March 752)[1] reigned from 3 December[2] or 5 December 741[3] to his death in 752. A Greek from Santa Severina,[4] Calabria, he was the last pope of the Byzantine Papacy. Most probably he was a deacon of the Roman Church and as such signed the decrees of the Roman council of 732, and succeeded Gregory III on 5 December 741.[5]

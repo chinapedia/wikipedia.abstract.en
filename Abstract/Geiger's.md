@@ -1,0 +1,1 @@
+GEIGER'S is a multi-unit retailer in Northeast Ohio. Founded in 1932 by W. Charles "Charley" Geiger Sr., the company markets men's and women's clothing and activewear, shoes, ski and snowboard equipment and accessories, sporting goods and tailored men's clothing at its main store and headquarters in Lakewood, Ohio, and stores in Chagrin Falls, Ohio and downtown Cleveland, Ohio.

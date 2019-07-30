@@ -1,0 +1,1 @@
+In computer science, the REDUCTION OPERATOR[1] is a special type of operator that is both associative and commutative.[2][3][4] This type of operator is commonly used in parallel programming to reduce the elements of an array into a single result.

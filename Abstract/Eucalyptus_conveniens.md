@@ -1,0 +1,1 @@
+_EUCALYPTUS CONVENIENS_ is a species of small mallee or shrub that is endemic in a small area on the west coast of Western Australia. It has smooth bark, sometimes with a short stocking of rough bark near its base, lance-shaped to egg-shaped or elliptic adult leaves, flowers buds in groups of three, whitish flowers and glaucous, barrel-shaped fruit.

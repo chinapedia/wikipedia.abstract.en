@@ -1,0 +1,1 @@
+OLALEKAN SANUSI SALAMI (1928 - 1988) was a Nigerian businessman, football administrator and socialite who was life patron of Shooting Stars S.C.[1] and was influential in the success of the club during the 1970s. The former Adamasingba Sports Complex is named after him.[2]

@@ -1,0 +1,1 @@
+_ORDEN SATANY_ (, , _The Order of Satan_) is the debut album by Korrozia Metalla. Originally released in 1988 as a self-published cassette, produced by Stas Namin. After that the album was professionally re-recorded with the assistance of Stas Namin and reissued in late 1991.

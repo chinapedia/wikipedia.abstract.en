@@ -1,0 +1,1 @@
+DAVID CANCEL is an American entrepreneur, investor, and founder of several software companies. He is the CEO and founder of Drift, a Cambridge, Massachusetts-based company which creates messaging software for businesses.

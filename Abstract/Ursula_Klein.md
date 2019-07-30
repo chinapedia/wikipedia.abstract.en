@@ -1,0 +1,1 @@
+URSULA KLEIN (born 1952) is a German historian of science known for her cross-disciplinary work in history, philosophy and semiotics. Klein's concept of a paper tool has been widely applied, and is seen as marking a foundational change in scientific reasoning and practice in the history of chemistry in the early 19th century.

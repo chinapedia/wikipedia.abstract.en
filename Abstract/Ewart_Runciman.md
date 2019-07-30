@@ -1,0 +1,1 @@
+EWART HENRY RUNCIMAN (15 July 1907 – 14 December 1981) was an Australian farmer and politician who was a Liberal Party member of the Legislative Assembly of Western Australia from 1962 to 1974, representing the seat of Murray.

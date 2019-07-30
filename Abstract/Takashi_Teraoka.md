@@ -1,0 +1,1 @@
+TAKASHI TERAOKA (September 13, 1942 – February 4, 2011) was a Japanese baseball player and coach. He played and coached for the Nankai Hawks and Hiroshima Carp of Nippon Professional Baseball. He also coached in South Korea's KBO League, and Taiwan's Chinese Professional Baseball League.

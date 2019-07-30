@@ -1,0 +1,1 @@
+ISAIAH AVERY "ZAY" JONES (born March 30, 1995) is an American football wide receiver for the Buffalo Bills of the National Football League (NFL). He played college football at East Carolina. Jones is the all-time NCAA Division I career receptions leader with 399 as well as the all-time NCAA Division I single-season receptions leader with 158.

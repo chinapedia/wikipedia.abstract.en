@@ -1,0 +1,1 @@
+THE GARDEN is a property located north east of Alice Springs in the Northern Territory of Australia. It is run by Andy Hayes. The Hayes' run both Hereford and Droughtmaster cattle on the property.[1][2][3]

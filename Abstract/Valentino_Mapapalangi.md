@@ -1,0 +1,1 @@
+VALENTINO MAPAPALANGI (born 18 July 1993) is a Tongan rugby union player. He plays in the number 8 and blind side position. He previously played for the England based Premiership Rugby side, Leicester Tigers.[1] Mapapalangi also represents Tonga at international level.

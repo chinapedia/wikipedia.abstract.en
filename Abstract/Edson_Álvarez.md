@@ -1,0 +1,1 @@
+EDSON OMAR ÁLVAREZ VELÁZQUEZ (born 24 October 1997) is a Mexican professional footballer who plays as a defender for Dutch club Ajax and the Mexico national team. Mainly a centre-back, he is also capable of playing as a right back, or as a defensive midfielder.[1]

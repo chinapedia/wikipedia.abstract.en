@@ -1,0 +1,1 @@
+The 2016 WOMEN'S TWENTY20 ASIA CUP was the sixth edition of the ACC Women's Asia Cup, organized by the Asian Cricket Council. It took place from 26 November to 4 December 2016, in Thailand, and was the second edition played as a 20-over tournament.[1] Matches were played at the Asian Institute of Technology Ground and the Terdthai Cricket Ground (both located in Bangkok).[2]

@@ -1,0 +1,1 @@
+_HEY MAMA!_ is the debut extended play by Exo-CBX, the first official sub-unit of the South Korean-Chinese boy group Exo. It was released on October 31, 2016 by S.M. Entertainment under distribution by KT Music. The EP features five tracks in total with a variety of genres.[1][2]

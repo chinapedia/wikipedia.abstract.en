@@ -1,0 +1,1 @@
+_BHESA INDICA_ is a flowering plant tree species in the Centroplacaceae family. It is distributed along the tropical wet evergreen forests of the Western Ghats of India.[1] It is considered synonymous with _Bhesa paniculata_ by some authors.

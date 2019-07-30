@@ -1,0 +1,1 @@
+MARIAM MIRZA is a Pakistani television actress, beautician and former banker. She is known for her role as Nasreen (Zubia's mother) in _Khamoshi_ which ranked among the highest rated Urdu drama serials of 2017. She is also known for her role as Safeeha in ARY Digital's family drama _Aangan_.[1][2]

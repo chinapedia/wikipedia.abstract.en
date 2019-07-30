@@ -1,0 +1,1 @@
+Affect, as a term of rhetoric, is the responsive, emotional feeling that precedes cognition.[1] Affect differs from pathos as described by Aristotle as one of the modes of proof[2] and pathos as described by Jasinski as an emotional appeal[3] because it is “the response we have to things before we label that response with feelings or emotions.”[4]

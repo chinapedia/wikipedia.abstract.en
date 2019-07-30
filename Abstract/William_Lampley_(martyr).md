@@ -1,0 +1,1 @@
+WILLIAM LAMPLEY (died 1588) was a sixteenth-century English recusant. Originally a glover by trade[1] he became a lay priest.[2] He was described as being 'little of education, yet with an almost apostolic zeal in religion.' Apparently betrayed by one whom he had recently aided, he was convicted of assisting priests.[3] He was executed in Gloucester[4] on 1 August 1588.[5]

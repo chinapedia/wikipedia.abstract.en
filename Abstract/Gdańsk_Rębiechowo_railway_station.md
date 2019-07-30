@@ -1,0 +1,1 @@
+GDAŃSK RĘBIECHOWO RAILWAY STATION is a railway station in the city of Gdańsk, in the Pomeranian Voivodeship, Poland. The station opened on 1 September 2015 and is located on the Gdańsk Wrzeszcz–Gdańsk Osowa railway and Gdańsk Rębiechowo–Rębiechowo railway. The train services are operated by SKM Tricity as part of the Pomorska Kolej Metropolitalna (PKM).

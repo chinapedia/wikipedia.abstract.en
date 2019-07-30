@@ -1,0 +1,1 @@
+The SCHLOTTERBECK AND FOSS BUILDING is an historic factory building at 117 Preble Street in Portland, Maine. Built in 1927, it is a particularly rare example of Art Deco architecture in Portland, the only one known by the noted Maine architects John Calvin Stevens and John Howard Stevens. It was listed on the National Register of Historic Places in 2016.[1]

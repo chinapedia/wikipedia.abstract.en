@@ -1,0 +1,1 @@
+'''Madalyn Godby ''' (born ) is an American female track cyclist, representing the United States at international competitions. Godby is the current U.S. women's national record holder in the flying 200m (10.555), standing 250m (19.398), and team sprint (33.353).[1]

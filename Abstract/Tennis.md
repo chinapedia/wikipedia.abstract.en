@@ -1,0 +1,1 @@
+mixed doubles | type = Outdoor or indoor | category = Racket sport | equipment = Tennis ball, tennis racket | venue = tennis court | glossary = Glossary of tennis | olympic = part of Summer Olympic programme from 1896 to 1924

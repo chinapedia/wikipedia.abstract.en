@@ -1,0 +1,1 @@
+Book_of_Esther_IMG_1826.JPG of the Book of Esther from Fez, Morocco, held at the Musée du quai Branly in Paris. Traditionally, a scroll of _Esther_ is given only one roller, fixed to its lefthand side, rather than the customary two.[1]]]

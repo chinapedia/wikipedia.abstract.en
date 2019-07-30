@@ -1,0 +1,1 @@
+RICHARD STÖSS (born 18 March 1944) is a German political scientist and extraordinary professor at the Free University of Berlin.[1][2] The focus of his research is on right-wing extremism[3] and on political parties.[4]

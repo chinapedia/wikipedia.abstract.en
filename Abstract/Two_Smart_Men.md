@@ -1,0 +1,1 @@
+_TWO SMART MEN_ is a 1940 British comedy film directed by Widgey R. Newman and starring Leslie Fuller, Wally Patch and Margaret Yarde. The film's producer-director Newman had specialized in quota quickies during the previous decade and this production was made as a second feature. It was followed by _Henry Steps Out_ with several of the same cast.[1]

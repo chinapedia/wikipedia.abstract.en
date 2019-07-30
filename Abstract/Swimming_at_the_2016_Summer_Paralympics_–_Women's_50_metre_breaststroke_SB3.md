@@ -1,0 +1,1 @@
+The WOMEN'S 50 METRE BREASTSTROKE SB3 event at the 2016 Paralympic Games took place on 14 September 2016, at the Olympic Aquatics Stadium. Two heats were held. The swimmers with the eight fastest times advanced to the final.

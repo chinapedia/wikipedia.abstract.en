@@ -1,0 +1,1 @@
+The MALAYSIAN ARMED FORCES (MAF, ; Jawi:اڠكتن تنترا مليسيا), the military of Malaysia, consists of three branches, namely the Malaysian Army, Royal Malaysian Navy and the Royal Malaysian Air Force. Since June 20. 2018, Gen.Tan Sri Zulkifli Zainal Abidin is the Chief of Malaysian Armed Forces.

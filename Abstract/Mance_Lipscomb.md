@@ -1,0 +1,1 @@
+MANCE LIPSCOMB (April 9, 1895 – January 30, 1976)[1] was an American blues singer, guitarist and songster. He was born BEAU DE GLEN LIPSCOMB near Navasota, Texas. As a youth he took the name Mance (short for _emancipation_) from a friend of his oldest brother, Charlie.

@@ -1,0 +1,1 @@
+PETER THOMAS HOLLINS (born 22 October 1947)[1] is a British businessman, and a former chief executive of British Energy, which ran most of Britain's nuclear power stations, and was part of the FTSE 100 Index.

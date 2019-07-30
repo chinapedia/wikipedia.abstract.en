@@ -1,0 +1,1 @@
+SEEMA VERMA (September 27, 1970)[1] is an American health policy consultant and the current Administrator of the Centers for Medicare and Medicaid Services, serving in the Trump Administration.[2] She is the founder and previous CEO of SVC Inc., a health policy consulting firm, now known as Health Management Associates (HMA).

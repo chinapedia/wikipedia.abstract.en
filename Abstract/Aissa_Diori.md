@@ -1,0 +1,1 @@
+AichatouDiori_(crop).jpg AISSA DIORI also known as AÏCHATOU DIORI (1928--15 April 1974) was the wife of Hamani Diori and the First Lady of Niger. She amassed a large wealth through corruption, including high-priced real estate. She was killed in the 1974 Nigerien coup d'état.

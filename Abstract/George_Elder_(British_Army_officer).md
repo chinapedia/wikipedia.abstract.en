@@ -1,0 +1,1 @@
+Major General SIR GEORGE ELDER (died 3 December 1836) was a British Army officer who fought in the Napoleonic Wars, in the South American Expedition (1806–1807) and the Peninsular War. He was killed in an accident in Madras when he was thrown from his horse.[1]

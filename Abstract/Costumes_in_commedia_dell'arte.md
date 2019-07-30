@@ -1,0 +1,1 @@
+Commedia_dell'arte_-_troupe_Gelosi.JPG Francesco_Andreini_as_Capitano_Spavento_after_Poccetti_-_I_Comici_Italiani_1897_p57.jpg Each character in COMMEDIA DELL'ARTE is distinctly different, and defined by their movement, actions, masks, and costumes. These costumes show their social status and background.

@@ -1,0 +1,1 @@
+is a 2016-2017 Japanese tokusatsu web series, serving as a spin-off/prequel of the 2016 Ultra Series series, _Ultraman Orb_. The series was exclusively released on Amazon Video in Japan starting from December 26, 2016 and is planned to be released in worldwide, with English and German subtitles available for international viewers.[1][2][3]

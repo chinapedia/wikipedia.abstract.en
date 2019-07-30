@@ -1,0 +1,1 @@
+JAMBO BUKOBA (Swahili, in English: _Hello Bukoba_) is a charity in Germany. It has 417 members (2018). Since 2008 it uses sport and games to improve education, health and equal opportunity for children and adolescents in Tanzania.

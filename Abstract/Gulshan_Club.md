@@ -1,0 +1,1 @@
+_' Gulshan Club_'[1] is a social club for residents of Gulshan located in the Capital Dhaka. Mr. Shawkat Aziz Russel was elected unopposed President of the Club for the year 2017-2018.[2] The Club has been described as "exclusive".[3]

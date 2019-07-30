@@ -1,0 +1,1 @@
+'''Sant’Antonio da Padova ''' is a Roman Catholic church located in the town of Loro Piceno, province of Macerata, in the region of Marche, Italy. It is currently located in the town's cemetery, and it was declared unsafe after an earthquake in 1997.[1]

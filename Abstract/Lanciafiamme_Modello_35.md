@@ -1,0 +1,1 @@
+The LANCIAFIAMME SPALLEGGIATO MODELLO 35, also known as MODEL 35, was a flamethrower issued to the Royal Italian Army in the Second Italo-Ethiopian War. In 1940 it was replaced by the Lanciafiamme Spalleggiato Modello 40,[1] which uses a different ignition system.

@@ -1,0 +1,1 @@
+SIGNITHIA FORDHAM is a prominent Anthropologist who studies how race influences Black students in the classroom.[1] She began her career working with John Ogbu on their research "Acting White" and has done similar research since.[2] Most of her research is done in the DC area, which she gives the pseudonym Capital High.

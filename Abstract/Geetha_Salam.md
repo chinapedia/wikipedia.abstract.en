@@ -1,0 +1,1 @@
+ABDUL SALAM (9 October 1946 – 19 December 2018) was an Indian actor in Malayalam cinema known by his stage name GEETHA SALAM,[1][2] known for _Malabar Wedding_, _Jalolsavam_ (2004) and _John Paul Vaathil Thurakkunnu_ (2014). He lived in Krishnapuram, Alappuzha, Kerala. He performed in about 82 Films and some TV series.[3]

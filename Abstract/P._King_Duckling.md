@@ -1,0 +1,1 @@
+_P. KING DUCKLING_ is an American–Chinese animated children's television series created by Josh Selig. The series debuted on Disney Junior in the United States on November 7, 2016.[1] It is one of the only Disney series that is not accessible on DisneyNOW.

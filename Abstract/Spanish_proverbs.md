@@ -1,0 +1,1 @@
+SPANISH PROVERBS are a subset of proverbs that are used in Western cultures in general; there are many that have essentially the same form and content as their counterparts in other Western languages. Proverbs that have their origin in Spanish have migrated to and from English, French, Flemish, German and other languages.

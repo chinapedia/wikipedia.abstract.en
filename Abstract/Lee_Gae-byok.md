@@ -1,0 +1,1 @@
+LEE GAE-BYOK (born September 4, 1971) is a South Korean film director and screenwriter. Lee debuted with the romantic-comedy _The Beast and the Beauty_ (2005). After a 10-year break, he returned with the 2016 action-comedy film _Luck Key_, a box office hit with more than 6.9 million admissions.[1]

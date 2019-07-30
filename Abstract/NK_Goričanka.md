@@ -1,0 +1,1 @@
+NOGOMETNI KLUB GORIČANKA ROGAŠOVCI (), commonly referred to as NK GORIČANKA or simply GORIČANKA, is a Slovenian football club which plays its home in the village of Sveti Jurij in the Municipality of Rogašovci. The club was founded in 1977 and traditionally wears red kits though in recent years the club has also adopted a blue and yellow kits.

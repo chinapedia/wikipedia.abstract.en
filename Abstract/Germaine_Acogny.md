@@ -1,0 +1,1 @@
+GERMAINE ACOGNY (born 1944), is a Senegalese dancer and choreographer. She is responsible for developing "African Dance", as well as the creation of several dance schools in both France and Senegal. She has been decorated by both countries, including being an Officer of the Ordre des Arts et des Lettres in France, and a Knight of the National Order of the Lion.

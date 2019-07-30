@@ -1,0 +1,1 @@
+BUTCH (formerly known as SPIKE) is an animated cartoon character: an anthropomorphic Irish dog. He was created in 1949 by Tex Avery for theatrical cartoon shorts produced by the Metro-Goldwyn-Mayer cartoon studio.

@@ -1,0 +1,1 @@
+"ZHANG HONGJIAN" () is a short story by the Chinese writer Pu Songling collected in _Strange Tales from a Chinese Studio_ in 1740, and translated by Sidney L. Sondergard in 2012. Set in various parts of 18th-century China, the story revolves around the titular character, Zhang Hongjian, and his misadventures while on the run. Pu adapted the story into two of his plays.

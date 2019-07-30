@@ -1,0 +1,1 @@
+_MONOCHAMUS SUTOR_ is a species of beetle in the family Cerambycidae. It was described by Carl Linnaeus in 1758, originally under the genus _Cerambyx_. It has a wide, natural distribution throughout Europe, and has also been introduced into Belgium and the Netherlands. Adults measure between , and larvae measure up to .[1]

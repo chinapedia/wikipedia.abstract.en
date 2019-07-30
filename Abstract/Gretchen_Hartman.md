@@ -1,0 +1,1 @@
+_' Gretchen Hartman_' (Chicago, August 28, 1897 – Los Angeles, January 27, 1979) was an American stage and film actress. She is credited on 67 movies, nearly all silent,[1] but is perhaps better known as the wife of actor Alan Hale Sr., and mother of actor Alan Hale Jr..

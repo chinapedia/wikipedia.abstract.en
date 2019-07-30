@@ -1,0 +1,1 @@
+AEGINA (; , _Aígina_ ; ) is one of the Saronic Islands of Greece in the Saronic Gulf, from Athens. Tradition derives the name from Aegina, the mother of the hero Aeacus, who was born on the island and became its king.[1] During ancient times Aegina was a rival of Athens, the great sea power of the era.

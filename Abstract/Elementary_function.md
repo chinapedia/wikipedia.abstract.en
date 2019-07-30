@@ -1,0 +1,1 @@
+In mathematics, an ELEMENTARY FUNCTION is a function of one variable which is the composition of a finite number of arithmetic operations , exponentials, logarithms, constants, and solutions of algebraic equations (a generalization of _n_th roots).

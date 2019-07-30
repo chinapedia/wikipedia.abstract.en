@@ -1,0 +1,1 @@
+_MONOPOLY STREETS_ is a video game based on the board game of the same name, and one of many in the Monopoly video game series. Developed by EA Salt Lake and published by Electronic Arts, the game was released on the PlayStation 3, Xbox 360, and Wii on October 26, 2010.

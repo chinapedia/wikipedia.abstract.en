@@ -1,0 +1,1 @@
+LEIENFELS CASTLE () was a late mediaeval aristocratic castle, immediately northwest of the eponymous village of Leienfels in the region of Franconian Switzerland in Germany. The village belongs to the borough of Pottenstein in the Upper Franconian county of Bayreuth in Bavaria.

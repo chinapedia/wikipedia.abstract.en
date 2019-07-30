@@ -1,0 +1,1 @@
+The MEN'S 200 METRE FREESTYLE S4 event at the 2016 Paralympic Games took place on 13 September 2016, at the Olympic Aquatics Stadium. Two heats were held. The swimmers with the eight fastest times advanced to the final.

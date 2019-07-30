@@ -1,0 +1,1 @@
+RUM AND COKE, or the CUBA LIBRE (; , "Free Cuba"), is a highball cocktail consisting of cola, rum, and in many recipes lime juice on ice. Traditionally, the cola ingredient is Coca-Cola ("Coke"), and the alcohol is a light rum such as Bacardi. However, the drink may be made with various types of rums and cola brands, and lime juice may or may not be included.

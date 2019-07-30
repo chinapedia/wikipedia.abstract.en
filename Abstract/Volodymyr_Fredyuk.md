@@ -1,0 +1,1 @@
+VOLODYMYR FREDYUK (born 14 August 1992) is a Ukrainian male road and track cyclist, representing Ukraine at international competitions. In the under-23 category he won the Ukrainian National Time Trial Championships in 2014. He competed at the 2016 UEC European Track Championships in the team pursuit event.[1]

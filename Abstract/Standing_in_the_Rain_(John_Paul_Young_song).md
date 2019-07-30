@@ -1,0 +1,1 @@
+"STANDING IN THE RAIN" is a disco song recorded by Australian pop singer John Paul Young. It was released in Europe in February 1977 and in Australia in December 1977 as the third and final single from Young's third studio album, _J.P.Y._ (1976). The song was written by George Young and Harry Vanda.

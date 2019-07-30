@@ -1,0 +1,1 @@
+The Fussball Club Basel 1893 1975–76 SEASON was their 82nd season since the club was founded. It was their 30th consecutive season in the top flight of Swiss football after they won promotion during the season 1945–46. They played their home games in the St. Jakob Stadium.

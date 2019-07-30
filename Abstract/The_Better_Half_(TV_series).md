@@ -1,0 +1,1 @@
+_THE BETTER HALF_ is a 2017 Philippine drama television series starring Shaina Magdayao, Carlo Aquino, JC de Vera and Denise Laurel. The series aired on ABS-CBN's _Kapamilya Gold_ afternoon block and worldwide on The Filipino Channel from February 13, 2017 to September 8, 2017, succeeding the 1-year run of _Doble Kara_.[1]

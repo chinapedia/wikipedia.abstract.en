@@ -1,0 +1,1 @@
+The CULTURE OF UPPER REKA is a subculture of Macedonia located in the region of Upper Reka. The combination of a unique history, geographic isolation and maintenance of strong regional identity separate from surrounding areas has made Upper Reka renown for its distinctive customs, observances and other forms of folk culture.

@@ -1,0 +1,1 @@
+Derivative Code or Chameleon Code is source code which has been derived entirely from one or more other machine readable file formats. If Recursive Transcompiling is used in the development process, some code will survive all the way through the pipeline from beginning to end, and then back to the beginning again.[1]

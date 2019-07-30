@@ -1,0 +1,1 @@
+ORPHANS IN NEED is a British charity dedicated to improving and empowering the lives of vulnerable orphans and widows. A UK based organisation, they operate throughout the world supporting 12,000 orphans in 14 countries.[1]

@@ -1,0 +1,1 @@
+GEORGE RUSSELL LAKEY (born 2 November 1937) is an activist, sociologist, and writer who added academic underpinning to the concept of nonviolent revolution.[1] He also refined the practice of experiential training for activists which he calls "Direct Education".[2] A Quaker, he has co-founded and led numerous organizations and campaigns for justice and peace.[3]

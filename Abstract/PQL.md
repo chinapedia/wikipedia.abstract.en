@@ -1,0 +1,1 @@
+{{ infobox programming language | paradigm = Multi-paradigm: declarative | year = 2014 | family = Query language | influenced = SQL | operating_system = Cross-platform | website = processquerying.com/pql/ | implementations = PQL at GitHub | fileformat = .pql | latest release version = PQL 1.2 }}

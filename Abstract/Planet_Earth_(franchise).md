@@ -1,0 +1,1 @@
+_PLANET EARTH_ is a television and film documentary franchise produced and broadcast by the BBC. The franchise began in 2001 with the success of _The Blue Planet_. As of 2017, _The Blue Planet_ has spawned 5 series and one feature film.

@@ -1,0 +1,1 @@
+Andreas_Schlüter_(Architekt).jpg in Hamburg town hall]] Andreas_Schlueter_Palac_Krasinskich_1.jpg'' from Krasiński Palace in Warsaw]] Berlin_(5595857760).jpg of Great Elector in Berlin]] Bernsteinzimmer01.jpg]]

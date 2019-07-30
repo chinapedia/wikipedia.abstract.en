@@ -1,0 +1,1 @@
+RENATO ZVETEREMICH (Trieste, Italy, 1893 - Milan, Italy, 1951) was an Italian advertising director and publicist. He is known for heading the Sales Development and Advertising Dept. of the Olivetti company in the 1930s.[1]

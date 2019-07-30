@@ -1,0 +1,1 @@
+THE WOMANITY FOUNDATION, OR WOMANITY, is an independent private foundation headquartered in Geneva, Switzerland, and was established in 2005 by Swiss entrepreneur and philanthropist Yann Borgstedt.[1] Guided by a vision of a world, where all women and men have equal and full social, economic and political rights.[2][3][4]

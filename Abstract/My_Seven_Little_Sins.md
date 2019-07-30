@@ -1,0 +1,1 @@
+_MY SEVEN LITTLE SINS_ (, ), released in UK as _I HAD SEVEN DAUGHTERS_, is a 1954 French-Italian comedy film co-written and directed by Jean Boyer and starring Maurice Chevalier and Delia Scala. It is based on a comedy play of Aldo De Benedetti, previously adapted by Nunzio Malasomma in the film _We Were Seven Sisters_.[1]

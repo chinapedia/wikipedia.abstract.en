@@ -1,0 +1,1 @@
+TONY HUGHES is an Australian actor and singer. As an actor, he starred in _The Lost Islands_ (1976), _Chopper Squad_ (1977–1979) and the film adaptation of _Puberty Blues_ (1981).[1] As a singer he has fronted Bellydance and King Tide.[2]

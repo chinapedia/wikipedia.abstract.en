@@ -1,0 +1,1 @@
+The _Billboard_ Music Award winners and nominees for TOP SOUNDTRACK:. Notable winners include the _Titanic_ soundtrack, _High School Musical_ Soundtrack, and _Frozen_ Soundtrack. The only person to win and get nominated was Celine Dion for the _Titanic_ soundtrack. In 2017, _Hamilton_ became the first Cast album to win.

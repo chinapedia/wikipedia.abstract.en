@@ -1,0 +1,1 @@
+_SONOMA_ is a genus of North American rove beetles in the subfamily Pselaphinae. At least 57 species are known—the majority from the Pacific Slope, ranging from Southern California to Alaska—with other species occurring in the Appalachians and the Eastern United States.[1][2][3]

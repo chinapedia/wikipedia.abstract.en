@@ -1,0 +1,1 @@
+The Maya civilization (2,000 BC – 250 AD) was among those that flourished in the region, with little contact with cultures outside Mesoamerica. The modern history of Guatemala began with the Spanish conquest of Guatemala in 1511.

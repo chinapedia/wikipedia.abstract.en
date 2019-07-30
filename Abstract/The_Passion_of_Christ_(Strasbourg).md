@@ -1,0 +1,1 @@
+_THE PASSION OF CHRIST_ () is a set of ten late 15th-century, Gothic religious paintings now displayed in the choir of the Catholic part of Old Saint Peter's Church in Strasbourg, France. The set is classified as a Monument historique by the French Ministry of Culture since 1978.[1]

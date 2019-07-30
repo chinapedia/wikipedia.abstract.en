@@ -1,0 +1,1 @@
+Vetri Vinayaha College of Engineering and Technology is a Private Engineering College located in Thottiyam, Tiruchirappalli District, India. The college was established in the year 2006 by Thiru G. Sekar .

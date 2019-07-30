@@ -1,0 +1,1 @@
+JOHANNA KITTI BORISSZA is a Hungarian female track cyclist, representing Hungary at international competitions. She competed at the 2016 UEC European Track Championships in the scratch event and elimination race event.[1]

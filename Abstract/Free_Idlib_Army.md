@@ -1,0 +1,1 @@
+{{ infobox war faction | name = Free Idlib Army | native_name = جيش إدلب الحر | native_name_lang = ar | war = the Syrian Civil War | image = New Logo of the Free Idlib Army.svg | image_size = 200px | caption = | active = 19 September 2016 – present | ideology = Syrian nationalism[1] | leaders = TOP COMMANDERS, SINCE JULY 2017:[2]

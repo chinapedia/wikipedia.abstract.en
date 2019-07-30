@@ -1,0 +1,1 @@
+In cell biology a CENTRIOLE is a cylindrical organelle composed mainly of a protein called tubulin.[1] Centrioles are found in most eukaryotic cells. A bound pair of centrioles, surrounded by a shapeless mass of dense material, called the pericentriolar material (PCM), makes up a structure called a centrosome.[2]

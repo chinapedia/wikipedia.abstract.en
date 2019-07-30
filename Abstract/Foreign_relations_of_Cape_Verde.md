@@ -1,0 +1,1 @@
+Cape Verde follows a policy of nonalignment and seeks cooperative relations with all friendly states. Angola, Brazil, the People's Republic of China, Cuba, France, Germany, Portugal, Senegal, Russia, South Korea and the United States maintain embassies in Praia.

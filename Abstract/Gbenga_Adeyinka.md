@@ -1,0 +1,1 @@
+GBENGA ADEYINKA is a multi-award-winning Nigerian actor, comedian, radio and TV presenter, writer, and MC. He hails from Abeokuta in Ogun State and he usually refers to himself as CFR (Comedian of the Federal Republic) and now GCON (Grand Comedian of Nigeria).[1]

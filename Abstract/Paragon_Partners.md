@@ -1,0 +1,1 @@
+PARAGON PARTNERS is a German private equity company based in Munich. It was founded in 2004 and managed by the owners. The company administers several funds that invest in medium-sized German companies. Paragon's investors include institutional investors such as life insurance, pension funds, university foundations and private investors.

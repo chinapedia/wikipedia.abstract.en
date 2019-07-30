@@ -1,0 +1,1 @@
+_HEAD OF SAINT JOHN THE BAPTIST_ is a marble sculpture by French artist Auguste Rodin, sculpted in 1887 as part of a series of sculptures based on his _Saint John the Baptist_, exhibited for the first time in 1880 with great acceptance and recognition from critics.[1]

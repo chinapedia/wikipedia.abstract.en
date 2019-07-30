@@ -1,0 +1,1 @@
+_KHANOM THIAN_ (, candle pudding or pastry) is a type of Thai _khanom_ (snack or dessert)[1] prepared in the shape of a candle.[2] It originated in northern Thailand, and is used by some people as a ceremonial dish.

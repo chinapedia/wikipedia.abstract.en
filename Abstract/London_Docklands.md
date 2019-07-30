@@ -1,0 +1,1 @@
+'The_Port_of_London'_by_Anders_Svarstad,_Bergen_Kunstmuseum.JPG, 1911-12]] Thames_river_1882.jpg had not yet been built.]] Isle_of_dogs_1899.jpg and the Millwall Dock visible on a map of the Isle of Dogs in 1899]] CanaryWharfFromPlane.jpg with Millwall Dock on the Isle of Dogs]]

@@ -1,0 +1,1 @@
+GREGORY ARESHIAN (13 May 1949) is an Armenian-American archeologist and historian who is a professor at American University of Armenia. He was the co-director of the international team of archeologists who, led by Boris Gasparyan, found the 5,500 years old shoe in and the oldest winery in Areni,[1] of which Areshian said:

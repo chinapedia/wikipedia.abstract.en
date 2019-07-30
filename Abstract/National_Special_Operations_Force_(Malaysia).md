@@ -1,0 +1,1 @@
+The NATIONAL SPECIAL OPERATIONS FORCE (NSOF) () is Malaysia's main security force which serves as the first responder to any terror threats on the country's sovereignty.[1] The force covers elements from the Malaysian Armed Forces, Royal Malaysia Police and the Malaysian Maritime Enforcement Agency.[2]

@@ -1,0 +1,1 @@
+MEBYON KERNOW – THE PARTY FOR CORNWALL (, MK; Cornish for _Sons of Cornwall_)[1] is a Cornish nationalist, centre-left political party in Cornwall, a county in the southwestern United Kingdom. It currently has four elected councillors on Cornwall Council,[2] and several town and parish councillors across the county.[3]

@@ -1,0 +1,1 @@
+_CHILDREN'S TRAGEDY_ (German: _KINDERTRAGÖDIE_) is a 1928 German silent drama film directed by Phil Jutzi and Karl Lutz and starring Hermann Picha, Jaro Fürth and Maria Zelenka. [1] It was made by the Communist-backed studio Prometheus-Film.

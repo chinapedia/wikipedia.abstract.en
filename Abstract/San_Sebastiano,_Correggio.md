@@ -1,0 +1,1 @@
+SAN SEBASTIANO is a Roman Catholic church located on Piazza Garibaldi in the historic center of the town of Correggio, province of Reggio Emilia, region of Emilia-Romagna, Italy. The church is deconsecrated. Correggio2.jpg

@@ -1,0 +1,1 @@
+The ENGLISH BACH FESTIVAL was an annual UK classical music festival which ran from 1963 to 2009. It was founded by the Greek-born harpsichordist and singer Lina Lalandi (1920–2012) and the English musicologist Jack Westrup who were co-directors during the festival's early years in Oxford.[1]

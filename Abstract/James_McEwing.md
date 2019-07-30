@@ -1,0 +1,1 @@
+JAMES MCEWING (April 17, 1850 – August 8, 1921) was a farmer and politician in Ontario, Canada. He represented Wellington West in the Legislative Assembly of Ontario from 1908 to 1911 as a Liberal.[1]

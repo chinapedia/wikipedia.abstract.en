@@ -1,0 +1,1 @@
+Connie_Kruckow_08.jpg CONNIE KRUCKOW (born 1953) is a Danish nurse who from 2000 to 2009 headed The Danish Nurses' Organization (_Dansk Sygeplejeråd_ or DSR). In 2008, she led the nurses into a historic conflict.[1] She left before the end of her mandate in order to find another interesting opening.[2]

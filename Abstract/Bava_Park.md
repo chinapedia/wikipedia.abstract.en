@@ -1,0 +1,1 @@
+The BAVA PARK[1] Is a sports center located between Bava Street and Bisini Road in the city of Port Moresby, the capital of Papua New Guinea.[2] It is generally used for soccer and rugby matches.[3] It has a capacity to receive 5000 spectators.

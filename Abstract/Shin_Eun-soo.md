@@ -1,0 +1,1 @@
+SHIN EUN-SOO (born October 23, 2002) is a South Korean actress. She made her acting debut as the female lead in 2016 film _Vanishing Time: A Boy Who Returned_. She also starred in television series _Legend of the Blue Sea_ (2016) and _Bad Papa_ (2018).

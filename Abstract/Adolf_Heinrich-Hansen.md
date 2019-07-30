@@ -1,0 +1,1 @@
+ADOLF HEINRICH CLAUS HANSEN (29 November 1859- 28 October 1925) known as ADOLF HEINRICH-HANSEN, was a Danish architectural painter. His father, Heinrich Hansen, was also an architectural painter. Late in his life, he turned to animal painting.

@@ -1,0 +1,1 @@
+CONTROVERSY is a state of prolonged public dispute or debate, usually concerning a matter of conflicting opinion or point of view. The word was coined from the Latin _controversia_, as a composite of _controversus_ – "turned in an opposite direction," from _contra_ – "against" – and _vertere_ – to turn, or _versus_ (see verse), hence, "to turn against."

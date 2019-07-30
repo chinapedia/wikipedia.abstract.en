@@ -1,0 +1,1 @@
+BRAIN BAR is an annual event held in Budapest, Hungary. It has been referred to as "a sort of South By Southwest on the Danube" owing to its fusion of tech conference and music festival.[1] The event attracted more than 15,000 attendees in 2019 from every continent and a livestream audience of more than 50,000.[2][3]

@@ -1,0 +1,1 @@
+A SOUND CARD (also known as an AUDIO CARD) is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs. The term _sound card_ is also applied to external audio interfaces used for professional audio applications.

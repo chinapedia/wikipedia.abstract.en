@@ -1,0 +1,1 @@
+4th_Earl_of_Aberdeen.jpg MARQUESS OF ABERDEEN AND TEMAIR, in the County of Aberdeen, in the County of Meath and in the County of Argyll, is a title in the Peerage of the United Kingdom. It was created on 4 January 1916 for John Hamilton-Gordon, 7th Earl of Aberdeen.

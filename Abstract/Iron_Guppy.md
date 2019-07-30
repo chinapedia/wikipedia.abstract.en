@@ -1,0 +1,1 @@
+Tug_pushing_a_barge_-c.jpg.]] The _IRON GUPPY_ is a tugboat, built in 2016, and owned and operated by Ports Toronto.[1][2] She replaced the _William Rest_, a tugboat that served in Ports Toronto, and its predecessor agencies, since 1961. The _Iron Guppy_ has very similar operational characteristics as the _William Rest_, however, with modern electronics.[3]

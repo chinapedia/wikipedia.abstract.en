@@ -1,0 +1,1 @@
+"SWEAR" is the sixth episode of the seventh season of the post-apocalyptic horror television series _The Walking Dead_, which aired on AMC on November 27, 2016. The episode was written by David Leslie Johnson and directed by Michael E. Satrazemis.

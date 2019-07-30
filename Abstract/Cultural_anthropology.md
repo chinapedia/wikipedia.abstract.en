@@ -1,0 +1,1 @@
+CULTURAL ANTHROPOLOGY is a branch of anthropology focused on the study of cultural variation among humans. It is in contrast to social anthropology, which perceives cultural variation as a subset of the anthropological constant.

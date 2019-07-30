@@ -1,0 +1,1 @@
+"FM DOLL" (originally entitled "FUCK ME DOLL")[1] is a song by English alternative rock band Queenadreena, originally released in 2002 on Rough Trade records, three years prior to its inclusion on the 2005 album, _The Butcher and the Butterfly_. The single was later released in 2005 on One Little Indian, after the band had switched record labels.[2]

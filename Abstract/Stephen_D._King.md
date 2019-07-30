@@ -1,0 +1,1 @@
+STEPHEN DARYL KING (born November 1963) is a British economist. He is senior economic adviser at HSBC Holdings, where he was chief economist from 1998 to July 2015.[1] King also works as a journalist and consultant, and is a specialist adviser to the House of Commons Treasury Committee.[2]

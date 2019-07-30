@@ -1,0 +1,1 @@
+TITUS (; ) was an early Christian missionary and church leader, a companion and disciple of Paul the Apostle, mentioned in several of the Pauline epistles including the Epistle to Titus. He is believed to be a Gentile converted to Christianity by Paul and, according to tradition, he was consecrated as Bishop of the Island of Crete.[1]

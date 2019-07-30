@@ -1,0 +1,1 @@
+ROBERT MCCRACKEN (25 June 1890 – _unknown_), also known as ROY MCCRACKEN,[1] was a Northern Irish professional footballer who played as a defender or as a wing half. He was a cousin of Billy McCracken who also had a career as a professional footballer.[2]

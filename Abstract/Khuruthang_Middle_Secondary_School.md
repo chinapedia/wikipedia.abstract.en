@@ -1,0 +1,1 @@
+KHURUTHANG MIDDLE SECONDARY SCHOOL is a co-educational UNESCO Associated School[1] near Khuruthang, a town 4 km south of Punakha Dzong[2] in the Punakha District of Bhutan. It was founded in 1996,[3] and by 2015 it had become the largest school in Punakha district, with 1109 students.[4]

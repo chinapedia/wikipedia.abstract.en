@@ -1,0 +1,1 @@
+'''Manisha Panna ''' (born 20 April 1991) is an Indian footballer who plays as a midfielder for the India women's national football team.[1] She was part of the team at the 2015–16 AFC Women's Olympic Qualifying Tournament.[2] On club level she played for Odisha in India. She played for FC Kolhapur City in Indian Women's League since first season to season 2.

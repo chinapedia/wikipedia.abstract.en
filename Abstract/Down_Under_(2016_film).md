@@ -1,0 +1,1 @@
+_DOWN UNDER_ is an Australian black comedy drama film set in the aftermath of the 2005 Cronulla riots. It follows the story of two carloads of vengeful, testosterone-charged young hotheads from both sides of the fight, who are destined to collide.[1] It is written and directed by Abe Forsythe [2]

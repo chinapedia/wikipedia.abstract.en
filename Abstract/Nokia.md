@@ -1,0 +1,1 @@
+billion | revenue_year = 2018 | operating_income = –{{€|59}} million | income_year = 2018 | net_income = –{{€|549}} million | net_income_year = 2018 | assets = {{€|39.52}} billion | assets_year = 2018 | equity = {{€|15.37}} billion | equity_year = 2018 | num_employees = 103,083 | num_employees_year = 2018 | divisions = | subsid = | website = | footnotes = [1][2] }}

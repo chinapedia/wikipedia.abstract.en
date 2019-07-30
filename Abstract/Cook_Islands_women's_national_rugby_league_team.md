@@ -1,0 +1,1 @@
+The COOK ISLANDS WOMEN'S NATIONAL RUGBY LEAGUE TEAM, also known as the COOK ISLANDS MOANA represents Cook Islands in Women's rugby league. The Cook Islands have qualified for, and will be competing in the 2017 Women's Rugby League World Cup.[1][2]

@@ -1,0 +1,1 @@
+The GREYHOUND is a breed of dog, a sighthound which has been bred for coursing game and Greyhound racing. Since the rise in large-scale adoption of retired racing Greyhounds, the breed has seen a resurgence in popularity as a family pet.

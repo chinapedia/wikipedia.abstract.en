@@ -1,0 +1,1 @@
+,[1][2] (born 28 October 1986, in Ueki, Kamoto District (now Kita-ku, Kumamoto),[3] Kumamoto Prefecture[4][5] better known as is a Japanese variety _tarento_, actress, and singer. She was a member of musical groups Pabo and Aladdin. She is represented with K Dash Stage.

@@ -1,0 +1,1 @@
+ARTHUR HARRISON ALLARD VANN (1884 – 25 September 1915) was a British Army officer killed in the First World War. He had been a professional football outside left who appeared in the Football League for Burton United.[1]

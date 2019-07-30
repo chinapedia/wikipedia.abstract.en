@@ -1,0 +1,1 @@
+THOTH (stylised as THOTH) is an abstract shoot 'em up video game created by Jeppe Carlsen, former lead gameplay designer of Playdead games _Limbo_ and _Inside_.[1][2] It is published by Double Fine Productions.[3]

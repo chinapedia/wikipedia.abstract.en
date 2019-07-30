@@ -1,0 +1,1 @@
+ANNA RICHARDSON (née ATKINS 5 January 1806 – 27 March 1892) was an English Quaker slavery abolitionist and peace campaigner, and a writer and editor of anti-slavery texts and journals, based in Newcastle Upon Tyne.

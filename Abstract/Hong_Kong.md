@@ -1,0 +1,1 @@
+HONG KONG (; , ), officially the HONG KONG SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE'S REPUBLIC OF CHINA, is a special administrative region on the eastern side of the Pearl River estuary in southern China. With over 7.4 million people of various nationalities in a territory, Hong Kong is one of the most densely populated places in the world.

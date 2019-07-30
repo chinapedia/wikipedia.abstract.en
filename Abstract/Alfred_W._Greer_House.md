@@ -1,0 +1,1 @@
+ALFRED W. GREER HOUSE is a historic home located at Poplar Bluff, Butler County, Missouri. It was built in 1915, and is a 2 1/2-story, rectangular plan, American Craftsman style brick dwelling with a 2 1/2-story side wing. It has a gable roof with wide eaves and exposed rafters and features large brick porch piers on the main facade.[1]

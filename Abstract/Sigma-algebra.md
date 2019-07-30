@@ -1,0 +1,1 @@
+In mathematical analysis and in probability theory, a Σ-ALGEBRA (also Σ-FIELD) on a set _X_ is a collection Σ of subsets of _X_ that includes _X_ itself, is closed under complement, and is closed under countable unions.

@@ -1,0 +1,1 @@
+Dmitri_Shostakovich_credit_Deutsche_Fotothek_adjusted.jpg

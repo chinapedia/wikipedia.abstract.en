@@ -1,0 +1,1 @@
+The 2006 INTERNATIONAL GT OPEN SEASON was the inaugural season of the International GT Open, the grand tourer-style sports car racing founded by the Spanish GT Sport Organización. It began on 1 April at Autodromo Nazionale Monza and finished on 12 November, at Barcelona after five double-header meetings with one single race round.

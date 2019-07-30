@@ -1,0 +1,1 @@
+FATAH ( __), formerly the PALESTINIAN NATIONAL LIBERATION MOVEMENT,[1] is a Palestinian nationalist political party and the largest faction of the confederated multi-party Palestine Liberation Organization (PLO) and the second-largest party in the Palestinian Legislative Council (PLC). The President of the Palestinian Authority is a member of Fatah.

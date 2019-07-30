@@ -1,0 +1,1 @@
+The COMMON DESKTOP ENVIRONMENT (CDE) is a desktop environment for Unix and OpenVMS, based on the Motif widget toolkit. It was part of the UNIX 98 Workstation Product Standard,[1] and was for a long time the "classic" Unix desktop associated with commercial Unix workstations.

@@ -1,0 +1,1 @@
+The UNITED ARAB EMIRATES RESEARCH PROGRAM FOR RAIN ENHANCEMENT SCIENCE (UAEREP) is a global research initiative offering a grant of US$5 million over a three-year period to be shared by up to five winning research projects in the field of rain enhancement.

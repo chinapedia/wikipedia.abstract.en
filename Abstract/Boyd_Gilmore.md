@@ -1,0 +1,1 @@
+BOYD GILMORE (June 1, 1905 – December 23, 1976)[1] was an American Delta blues singer, guitarist and songwriter. Amongst the songs he wrote were "All in My Dreams", "Believe I'll Settle Down", "I Love My Little Woman" and "If That's Your Girl". Gilmore also recorded a version of fellow Delta bluesman Robert Johnson's track, "Ramblin' on My Mind".[2]

@@ -1,0 +1,1 @@
+Colonel SIR COLIN CAMPBELL SCOTT-MONCRIEFF (3 August 1836 – 6 April 1916)  was a British engineer, soldier and civil servant, best known for repairing the Nile Barrage and reorganizing the irrigation system of Egypt in the 1880s.[1]

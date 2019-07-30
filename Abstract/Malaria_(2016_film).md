@@ -1,0 +1,1 @@
+_MALARIA_ (Persian: _مالاریا_) is a 2016 Iranian drama film written and directed by Parviz Shahbazi. It world premiered in the Horizons section at the 73rd edition of the Venice Film Festival.[1] It later won the Grand Prix at the 2016 Warsaw International Film Festival.[2]

@@ -1,0 +1,1 @@
+CONSOLE CONNECT INC. was a technology company based in the United States. It focused on B2B peering server connectivity, specifically in the Software Defined Interconnect (SDI) field. It was founded by Al Burgio, who was the company's CEO.[1]

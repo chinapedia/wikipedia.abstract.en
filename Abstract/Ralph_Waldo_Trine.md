@@ -1,0 +1,1 @@
+RALPH WALDO TRINE (October 26, 1866 – November 8, 1958) was an American philosopher, author, and teacher. He wrote many books on the New Thought movement. Trine was a close friend of Henry Ford and had several conversations with him about success in life.

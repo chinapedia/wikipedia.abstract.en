@@ -1,0 +1,1 @@
+KEILHAUITE (also known as _yttrotitanite_) is a variety of the mineral titanite of a brownish black color, related to titanite in form. It consists chiefly of silicon dioxide, titanium dioxide, calcium oxide, and yttrium oxide. The variety was described in 1841 and named for Baltazar Mathias Keilhau (1797-1858) a Norwegian geologist.[1]

@@ -1,0 +1,1 @@
+INSTITUTE OF HIGHER EDUCATION OF NAPS (NATIONAL ACADEMY OF PEDAGOGICAL SCIENCES) OF UKRAINE - is one of the NAPS Institutes responsible for control, research and development of system of higher education.

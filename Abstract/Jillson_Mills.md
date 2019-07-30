@@ -1,0 +1,1 @@
+The JILLSON MILLS (Officially known as the WILLIMANTIC LINEN COMPANY MILL COMPLEX) is a mill complex in Willimantic, Connecticut. The mills produced cotton thread throughout the lifespan of the operation of the mill.[1]

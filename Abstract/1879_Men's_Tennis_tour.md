@@ -1,0 +1,1 @@
+{{ Infobox tennis circuit season | name = 1879 Men's Tennis tour | image = William Charles Renshaw.jpg | image_caption = William Renshaw wins first hardcourt title this year | image_alt = | image_size = 200px | duration = 2 June – 28 December | edition = 3rd | tournaments = 12 (Amateur) [1] | categories = Important (1)

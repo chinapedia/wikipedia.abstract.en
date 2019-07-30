@@ -1,0 +1,1 @@
+The PLEISTOCENE (,[1] often colloquially referred to as the ICE AGE) is the geological epoch which lasted from about 2,588,000 to 11,700 years ago, spanning the world's most recent period of repeated glaciations. The end of the Pleistocene corresponds with the end of the last glacial period and also with the end of the Paleolithic age used in archaeology.

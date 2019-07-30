@@ -1,0 +1,1 @@
+The BOOK OF DEUTERONOMY (literally "second law," from Greek _deuteros_ + _nomos_[1]) is the fifth book of the Christian Old Testament and of the Jewish Torah, where it is called "Devarim" (Heb. דברים).

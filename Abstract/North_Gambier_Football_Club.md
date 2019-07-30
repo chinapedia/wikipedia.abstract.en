@@ -1,0 +1,1 @@
+The NORTH GAMBIER FOOTBALL CLUB is an Australian rules football club currently competing in the Western Border Football League. Since the creation of this league, North Gambier have won seven senior premierships.

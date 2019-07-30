@@ -1,0 +1,1 @@
+_RAWBLOOD_ is the 2016 debut horror novel by Catriona Ward.[1][2] The book was first published in the United Kingdom on 24 September 2015 through Weidenfeld & Nicolson.[3] The novel is published in the USA March 1st 2017 by Sourcebooks, as _THE GIRL FROM RAWBLOOD_.[4]

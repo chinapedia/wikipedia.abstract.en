@@ -1,0 +1,1 @@
+_BAR KOKHBA_ is a double album by John Zorn, recorded between 1994 and 1996.[1] It features music from Zorn's _Masada_ project, rearranged for small ensembles.[2] It also features the original soundtrack from _The Art of Remembrance – Simon Wiesenthal_, a film by Hannah Heer and Werner Schmiedel (1994–95).

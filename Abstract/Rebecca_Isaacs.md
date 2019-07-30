@@ -1,0 +1,1 @@
+Rebecca_Isaacs_Singer_Portrait.jpg'']] REBECCA ISAACS (26 June 1828–21 April 1877) was an operatic soprano of the mid-19th century who was the Directress of Operas at the Strand Theatre and who created the role of Leila in _Satanella_ at the Royal Opera House in 1858. Rebecca_Isaacs_Grave_Brookwood.jpg]]

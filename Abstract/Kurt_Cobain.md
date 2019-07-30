@@ -1,0 +1,1 @@
+KURT DONALD COBAIN (February 20, 1967 – April 5, 1994) was an American singer, songwriter, and musician, best known as the guitarist and frontman of the rock band Nirvana. He is remembered as one of the most iconic and influential rock musicians in the history of alternative music.

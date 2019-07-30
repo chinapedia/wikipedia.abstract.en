@@ -1,0 +1,1 @@
+'''beIN Series ''' is a set television networks launched on 1 November 2016, owned by beIN Media Group and broadcast on beIN direct-broadcast satellite services in the MENA region, and in Turkey through the Digiturk system, which beIN purchased in 2015 and rebranded as beIN Series on January 13, 2016. The networks feature mainly one-hour drama and dramedy series.[1]

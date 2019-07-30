@@ -1,0 +1,1 @@
+KO KO HEIN (; born 27 August 1994) is a footballer from Burma, and a defender for the Myanmar national football team and Myanmar U-22 football team.[1] Hein currently plays for Yadanarbon FC in Myanmar National League. In November 2016, Hein transferred to Yadanarbon FC.[2]

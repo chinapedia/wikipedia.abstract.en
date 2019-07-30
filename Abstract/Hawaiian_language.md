@@ -1,0 +1,1 @@
+The HAWAIIAN LANGUAGE (Hawaiian: __, )[1] is a Polynesian language that takes its name from Hawaii, the largest island in the tropical North Pacific archipelago where it developed. Hawaiian, along with English, is an official language of the State of Hawaii.[2] King Kamehameha III established the first Hawaiian-language constitution in 1839 and 1840.

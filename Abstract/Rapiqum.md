@@ -1,0 +1,1 @@
+RAPIQUM was a city of Ancient Mesopotamia during the second millennium BC. The city was located in the north of Babylon, probably on the eastern bank of the Euphrates River, somewhere in the vicinity of today's Ramadi in Iraq; the exact location remains unknown.[1]

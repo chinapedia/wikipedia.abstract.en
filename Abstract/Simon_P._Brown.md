@@ -1,0 +1,1 @@
+SIMON P. BROWN (born 12 April 1963) is an English professional golfer who has won three times on the European Senior Tour since turning 50 in 2013. Two of his wins have been in tournaments reduced to 36 holes by bad weather.

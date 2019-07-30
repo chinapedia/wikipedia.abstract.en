@@ -1,0 +1,1 @@
+BORIS BIZJAK (born 1981) is London-based Slovenian flautist. He has performed as a soloist and chamber musician in the UK, USA, China, Japan, Slovenia, Croatia, France, Spain and Cyprus. In 2016, he was selected by the Slovenian Government to perform a series of concerts in Slovenia, the UK, the USA and Japan to commemorate the 25th Anniversary of Slovenian Independence.

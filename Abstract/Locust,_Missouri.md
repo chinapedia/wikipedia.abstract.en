@@ -1,0 +1,1 @@
+LOCUST is an unincorporated community in Ozark County, Missouri.[1] The community is located on South Fork Bratten Spring Creek about one mile east of a northeast arm of Bull Shoals Lake. Access is via a county road south from US Route 160 southwest of Gainesville.[2]

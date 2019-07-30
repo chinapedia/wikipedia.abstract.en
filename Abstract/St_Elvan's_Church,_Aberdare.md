@@ -1,0 +1,1 @@
+St_Elvan's_Church,_Aberdare_-_geograph.org.uk_-_5025473.jpg ST ELVAN'S CHURCH is a Grade II* listed Anglican church in the centre of the town of Aberdare.[1][2][3] It was built in 1851–2, largely at the instigation of John Griffith, vicar of Aberdare from 1847 until 1859.

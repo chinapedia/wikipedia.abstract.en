@@ -1,0 +1,1 @@
+PLAYPEN is a playgroup to grade 12 English-medium school in Bashundhara Residential Area, Dhaka, Bangladesh that was established in 1977 by Zeba Khan. It follows the curriculum of Cambridge International Examination (O-level) and Advanced Level (A-level) examinations.

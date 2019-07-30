@@ -1,0 +1,1 @@
+CECILIA MARY ADY (28 November 1881 – 27 March 1958) was an English writer, academic and historian. She worked at the University of Oxford and like her mother she was known for her knowledge of the Italian Renaissance. She came to notice after her colleagues supported her reinstatement after she was dismissed by her former friend from her college.

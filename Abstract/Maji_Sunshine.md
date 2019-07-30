@@ -1,0 +1,1 @@
+"MAJI SUNSHINE" is a single by Hey! Say! JUMP. It was released on May 11, 2016. The title song was picked up as the CM song for _Kose Cosmeport's Sun Cut_. It's a summer song that describes the feelings of a boy in love.[1]

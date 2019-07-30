@@ -1,0 +1,1 @@
+The GERMANIC LANGUAGES are a branch of the Indo-European language family spoken natively by a population of about 515 million people mainly in Europe, North America, Oceania and Southern Africa, but also in countries such as Ghana or Nigeria.

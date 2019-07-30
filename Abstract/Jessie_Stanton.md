@@ -1,0 +1,1 @@
+{{ Infobox writer | name = Jessie Stanton | image = | caption = | pseudonym = | birth_date = 1887 | birth_place = Brooklyn, New York, U.S. | death_date = | death_place = New York, New York, U.S. | death_cause = | occupation = Educator, Writer | nationality = American | genre = Preschool pedagogy | education = Parker School in Brooklyn Heights

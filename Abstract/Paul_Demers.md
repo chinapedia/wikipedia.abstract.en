@@ -1,0 +1,1 @@
+PAUL DEMERS (March 9, 1956 – October 29, 2016) was a Canadian singer-songwriter.[1] He was best known for writing the song "Notre place", which came to be recognized as an anthem of the Franco-Ontarian community.[2]

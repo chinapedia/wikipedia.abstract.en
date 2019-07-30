@@ -1,0 +1,1 @@
+MOSHOOD KABIRU (born 8 March 1998 in Isheri-Idimu, Lagos) is a Nigerian football player who currently plays in the Nigeria National League. He was signed by a Nigeria National League team known as Ikorodu United F.C. in the second division league and got the team promoted into the Nigeria Premier League in 2015/2016 season where he made his debut in the Nigeria Premier League.

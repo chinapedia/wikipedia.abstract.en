@@ -1,0 +1,1 @@
+_IRIDESCENT INTERPENETRATION'' (_'') is the title of several artworks and studies in a series by Italian Futurist painter Giacomo Balla, created between 1912 and 1914, which feature intersecting triangles and other geometric patterns in kaleidoscopic color.

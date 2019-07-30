@@ -1,0 +1,1 @@
+_A FEAST OF VULTURES: THE HIDDEN BUSINESS OF DEMOCRACY IN INDIA_ is a 2016 non-fiction book by Indian investigative journalist Josy Joseph.[1] It examines and documents the democracy of modern India, drawing attention to corruption in both business and government, and the intertwining of money and muscle power in politics .

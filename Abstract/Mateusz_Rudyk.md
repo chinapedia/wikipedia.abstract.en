@@ -1,0 +1,1 @@
+'''Mateusz Rudyk ''' (born 20 July 1995) is a Polish male track cyclist, representing Poland at international competitions. He won the gold medal at the 2016 UEC European Track Championships in the team sprint.[1]

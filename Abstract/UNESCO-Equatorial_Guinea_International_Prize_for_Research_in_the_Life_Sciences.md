@@ -1,0 +1,1 @@
+The UNESCO-EQUATORIAL GUINEA INTERNATIONAL PRIZE FOR RESEARCH IN THE LIFE SCIENCES a scientific prize launched in 2012 by UNESCO to reward scientific research in the life sciences leading to improving the quality of human life.[1]

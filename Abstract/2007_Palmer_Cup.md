@@ -1,0 +1,1 @@
+The 2007 PALMER CUP was held on June 7–8, 2007 on the Caves Valley Golf Club, Owings Mills, Maryland. The United States won 18 to 6.[1] Europe took a 3–1 lead on the first morning but the United States won all 8 of the afternoon singles matches to lead 9–3.

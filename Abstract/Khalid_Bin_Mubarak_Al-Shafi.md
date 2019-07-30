@@ -1,0 +1,1 @@
+DR. KHALID BIN MUBARAK AL SHAFI () is a Qatari columnist and the Editor In-chief of _The Peninsula_,[1] an English daily published from Qatar. He also teaches Media and Communication at Qatar University in the capacity of an Assistant Professor.

@@ -1,0 +1,1 @@
+The BATTERY TENDER GLOBAL MX-5 CUP is the professional Spec Miata series sanctioned by IndyCar in the United States. The pro Spec Miata series has its roots in 2003, but a unified national championship was launched in 2006.

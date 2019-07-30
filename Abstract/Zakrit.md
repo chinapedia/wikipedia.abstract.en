@@ -1,0 +1,1 @@
+ZAKRIT (Arabic: زكريت Zekrit, Syriac: ܙܰܓܪܸܬܳ) is a town located in Matn, Mount-Lebanon, Lebanon.[1] No official census has been done but local estimates range slightly less than 4500.[2] Zakrit lies on the western slope of Mount-Lebanon overlooking the Mediterranean Sea and the city of Jounieh. This small Lebanese town is predominantly Maronite Catholic.

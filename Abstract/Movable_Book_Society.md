@@ -1,0 +1,1 @@
+The MOVABLE BOOK SOCIETY (MBS) is a nonprofit organization which provides a forum for artists, book sellers, book producers, collectors, curators, and others to share enthusiasm and exchange information about pop-up and movable books. The Society has nearly 450 members worldwide.[1]

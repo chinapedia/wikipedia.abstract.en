@@ -1,0 +1,1 @@
+The primary regulator of TELECOMMUNICATIONS IN THE MALAYSIA is the Malaysian Communications and Multimedia Commission (MCMC). It issues licenses under the Communications and Multimedia Act 1998, the Postal Services Act 1991 and the Digital Signature Act 1997.

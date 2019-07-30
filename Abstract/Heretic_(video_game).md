@@ -1,0 +1,1 @@
+_HERETIC_ is a dark fantasy first-person shooter video game released in 1994. It was developed by Raven Software and published by id Software through GT Interactive. The game was released on Steam on August 3, 2007.[1]

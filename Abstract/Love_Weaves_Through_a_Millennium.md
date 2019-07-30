@@ -1,0 +1,1 @@
+_LOVE WEAVES THROUGH A MILLENNIUM_ (Chinese: 相爱穿梭千年) is a 2015 Chinese television series starring Jing Boran and Zheng Shuang. It is a remake of the 2012 South Korean television series _Queen and I_. The series aired on Hunan TV from 15 February to 23 March 2015.

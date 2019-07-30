@@ -1,0 +1,1 @@
+The DOUGLAS & JARVIS PATENT PARABOLIC TRUSS IRON BRIDGE is a historic bridge across the Missisquoi River in Highgate, Vermont. Located at the end of Mill Hill Road, it is at one of the longest bridges of its type in the northeastern United States. It was built in 1887, and was listed on the National Register of Historic Places in 1974.[1]

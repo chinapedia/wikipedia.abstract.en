@@ -1,0 +1,1 @@
+PATRICK "PADDY" JOSEPH MCGUINNESS (born 27 April 1963) was a senior British civil servant who was the Deputy National Security Adviser for Intelligence, Security, and Resilience in the Cabinet Office, from 2014 to January 2018.[1][2]

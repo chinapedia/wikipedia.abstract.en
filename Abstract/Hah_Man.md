@@ -1,0 +1,1 @@
+_HAH MAN_ is a studio album released in 1994 by the Washington, D.C.-based go-go musician Chuck Brown.[1] The album consists go-go renditions of classic jazz and swing songs performed with a go-go beat. The album's title track "Hah Man" was used as the theme song to the television show _The Sinbad Show_, a 1994 black sitcom starring comedian Sinbad.[2]

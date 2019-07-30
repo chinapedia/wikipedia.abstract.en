@@ -1,0 +1,1 @@
+NEELAM IBRAR CHATTAN (born 1994) is a Pakistani campaigner for human rights. She won the European Union - Paiman Trust Gold Award for her work.[1] She educates for children's rights and human rights in the war-torn Swat Valley, Pakistan. She shares her hometown with Malala Yousafzai.[2][3][4][5][6]

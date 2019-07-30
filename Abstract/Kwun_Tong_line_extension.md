@@ -1,0 +1,1 @@
+The KWUN TONG LINE EXTENSION (abbreviated KTE; ) is an extension of the MTR rapid transit network in Hong Kong. It extends the existing train service of Kwun Tong line to Ho Man Tin station and Whampoa station. It began the construction on 25 July 2011[1] and opened for service on 23 October 2016.[2]

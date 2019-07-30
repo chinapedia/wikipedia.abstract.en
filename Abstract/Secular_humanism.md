@@ -1,0 +1,1 @@
+SECULAR HUMANISM, or simply HUMANISM, is a philosophy or life stance that embraces human reason, ethics, and philosophical naturalism while specifically rejecting religious dogma, supernaturalism, pseudoscience, and superstition as the basis of morality and decision making.[1][2][3][4]

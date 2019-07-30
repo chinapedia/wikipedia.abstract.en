@@ -1,0 +1,1 @@
+The KOREA BUDDHIST FEDERATION, also called the CHOSÔN BUDDHIST FEDERATION, sometime abbreviated CHOBULYÔN,[1] supervises all activities of Buddhists in the Democratic People's Republic of Korea. The organization was founded on Dec. 26, 1946.[2]

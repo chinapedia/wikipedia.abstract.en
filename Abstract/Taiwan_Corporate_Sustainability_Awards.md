@@ -1,0 +1,1 @@
+The TAIWAN CORPORATE SUSTAINABILITY AWARDS (TCSA; ) is a corporate sustainability award in Taiwan. It awards outstanding Taiwanese companies and foreign companies operating in Taiwan for their contribution to sustainability. The award is hosted by the Taiwan Institute for Sustainable Energy.[1]

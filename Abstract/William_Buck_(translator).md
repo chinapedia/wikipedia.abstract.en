@@ -1,0 +1,1 @@
+WILLIAM BENSON BUCK (April 20, 1934 – August 26, 1970)[1] was an American writer who produced novelized translations into English of the Sanskrit epic poems _Mahabharata_ and _Ramayana_. A translation of _Harivamsa_ was unfinished at his death.

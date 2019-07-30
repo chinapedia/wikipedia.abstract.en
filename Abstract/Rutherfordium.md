@@ -1,0 +1,1 @@
+RUTHERFORDIUM is a synthetic chemical element with the symbol RF and atomic number 104, named after New Zealand physicist Ernest Rutherford. As a synthetic element, it is not found in nature and can only be created in a laboratory. It is radioactive; the most stable known isotope, ²⁶⁷Rf, has a half-life of approximately 1.3 hours.

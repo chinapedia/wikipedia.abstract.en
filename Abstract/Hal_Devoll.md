@@ -1,0 +1,1 @@
+HAROLD REED DEVOLL (September 29, 1923 – January 12, 2010) was an American professional basketball player.[1][2] He played in the National Basketball League for the Detroit Vagabond Kings and Hammond Calumet Buccaneers during the 1948–49 season and averaged 4.6 points per game.[3]

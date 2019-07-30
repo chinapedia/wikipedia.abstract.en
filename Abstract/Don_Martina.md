@@ -1,0 +1,1 @@
+DOMINICO FELIPE "DON" MARTINA (born 1 May 1935) is a Curaçaoan politician. He served two terms as Prime Minister of the Netherlands Antilles. His first term lasted from November 1979 to October 1984 and his second term from January 1986 to July 1988.[1]

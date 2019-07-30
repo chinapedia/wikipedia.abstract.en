@@ -1,0 +1,1 @@
+The HASDINGI were the southern tribes of the Vandals, an East Germanic tribe. They lived in areas of today's southern Poland, western Ukraine, Slovakia and Hungary. They participated in the migratory movements of the Vandals into the Iberian peninsula, and subsequently to North Africa.

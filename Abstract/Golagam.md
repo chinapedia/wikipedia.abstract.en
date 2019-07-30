@@ -1,0 +1,1 @@
+GOLAGAM is a village in Visakhapatnam district of the Indian state of Andhra Pradesh.[1] It is located in Anakapalle Mandal of Anakapalle revenue division.[2] It is located at a distance of 5.2 km from Anakapalle and at a distance of 26.2 km from Visakhapatnam.

@@ -1,0 +1,1 @@
+_MONOLENA_ is a genus of flowering plants in the family Melastomataceae, consisting of about 15 species distributed from Guatemala to Peru and Acre in Brazil. They are primarily herbs of the wet tropical forest and cloud forest, often growing as epiphytes, but sometimes on rocks within streams.

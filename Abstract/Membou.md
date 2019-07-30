@@ -1,0 +1,1 @@
+MEMBOU () is a Bengali television soap opera that premiered on Star Jalsha on 19 September 2016. It is produced by Acropolis Entertainment Pvt. Ltd. and it stars Vinita Chatterjee as main female protagonist and Sourav Chakraborty as main male protagonist and Dulal Lahiri, Mithu Chakraborty and Nandini Chatterjee in supporting roles.[1][2][3][4][5][6]

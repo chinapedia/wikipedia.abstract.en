@@ -1,0 +1,1 @@
+_'THE SEEKERS SING THEIR BIG HITS_ is the first compilation album by the Australian group The Seekers. The album was released in 1965 and includes tracks from their four studio albums to-date. The album peaked at number 3 and was the 16th biggest selling album in Australia in 1967.[1]

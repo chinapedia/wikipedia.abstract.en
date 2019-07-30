@@ -1,0 +1,1 @@
+JABULILE NYAWOSE (? – June 4, 1982) was a trade unionist and anti-apartheid activist in South Africa. Nyawose was killed in exile by a car bomb in an execution sanctioned by the South African government. She was posthumously honored with a silver Order of Luthuli in 2015.

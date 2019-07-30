@@ -1,0 +1,1 @@
+Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg'', Leonardo da Vinci, c. 1503–06|alt=Painting is a portrait of a lady smiling subtly with her hands crossed. She has smooth, white skin and is centered against a landscape background.]]

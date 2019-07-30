@@ -1,0 +1,1 @@
+ANGELO KONSTANTINOU (born 8 November 1978) is an Australian futsal goalkeeper who plays for Canberra Olympic in regulation 11 a side soccer as well as representing Australia with the Australia national futsal team. Unusually for a goalkeeper he is often Canberra Olympic's first choice penalty taker.

@@ -1,0 +1,1 @@
+_LUCKY_ is a 2017 American drama film directed by John Carroll Lynch from a screenplay by Logan Sparks and Drago Sumonja. It stars Harry Dean Stanton in his final screen role before his death on September 15, 2017.

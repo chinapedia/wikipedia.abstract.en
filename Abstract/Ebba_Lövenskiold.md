@@ -1,0 +1,1 @@
+EBBA LÖVENSKIOLD (born October 7, 1977) is a Swedish journalist and education activist. She has been covering film and entertainment for Swedish newspapers and magazines from New York City since 2008.

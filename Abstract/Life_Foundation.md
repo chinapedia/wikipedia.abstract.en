@@ -1,0 +1,1 @@
+The LIFE FOUNDATION is a fictional survivalist group appearing in American comic books published by Marvel Comics. Primarily an enemy of Spider-Man, the organization exists within Marvel's main shared universe, known as the Marvel Universe. Created by writer David Michelinie and artist Todd McFarlane, it first appeared in _The Amazing Spider-Man_ Vol. 1, #298 (March 1988).

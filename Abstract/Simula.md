@@ -1,0 +1,1 @@
+SIMULA is the name of two simulation programming languages, Simula I and Simula 67, developed in the 1960s at the Norwegian Computing Center in Oslo, by Ole-Johan Dahl and Kristen Nygaard. Syntactically, it is a fairly faithful superset of ALGOL 60,[1] also influenced by the design of Simscript.[2]

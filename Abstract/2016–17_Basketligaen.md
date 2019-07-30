@@ -1,0 +1,1 @@
+The 2016–17 BASKETLIGAEN was the 42nd season of the highest professional basketball tier in Denmark.[1] The season started on September 30, 2016 and ended on May 8, 2017. Bakken Bears won its 15th title after defeating Horsens IC 4–1 in the Finals.

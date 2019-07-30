@@ -1,0 +1,1 @@
+ROADBLOCK: END OF THE LINE was a professional wrestling pay-per-view (PPV) event and WWE Network event produced by WWE for the Raw brand. It took place on December 18, 2016, at the PPG Paints Arena in Pittsburgh, Pennsylvania.[1][2] This was the second event under the Roadblock chronology and the only on pay-per-view as the first one was broadcast only on the WWE Network.

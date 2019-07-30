@@ -1,0 +1,1 @@
+OKINAWA SEIDOKAN is a style of Okinawa classical karate (Tode) and Kobudo founded in 1984 by Shian Toma. It is a synthesis of the Shorin Ryu katas, Motobu Ryu two-person open hand grappling and weapons techniques, and kobudo katas mostly of the Ryukyu Kobudo lineages.[1]

@@ -1,0 +1,1 @@
+NPLD-GHI_Logo.png NO PAIN LABOR & DELIVERY – GLOBAL HEALTH INITIATIVE (NPLD-GHI, 无痛分娩中国行) is a non-for-profit organization. Founded in 2006, the program focuses on correcting the unnecessarily high caesarean delivery rate and the poor utilization of neuraxial labor analgesia in China.

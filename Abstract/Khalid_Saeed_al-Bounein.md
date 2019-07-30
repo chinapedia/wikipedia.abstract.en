@@ -1,0 +1,1 @@
+KHALID SAEED AL-BOUNEIN (Arabic: البوعينين خالد سعيد) is a Qatari real estate investor and charity coordinator and fundraiser in eastern Qatar.[1] Al-Bounein worked for the defunct Madid Ahl al-Sham online fundraising campaign which has been cited as a conduit for financing the al-Nusra Front.

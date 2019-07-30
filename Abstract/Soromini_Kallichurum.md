@@ -1,0 +1,1 @@
+thumb SOROMINI KALLICHURUM (1932 – 21 December 2002) was a South African medical doctor and medical school professor, the first woman to serve as Dean of the medical faculty at the University of KwaZulu-Natal.

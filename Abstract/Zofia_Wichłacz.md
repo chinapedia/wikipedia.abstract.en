@@ -1,0 +1,1 @@
+ZOFIA WICHŁACZ (Polish pronunciation: ; born 5 April 1995) is a Polish actress. She has appeared in films such as _Afterimage_ and _Warsaw 44_ and television programmes such as _Medics_ and _Głęboka woda_.

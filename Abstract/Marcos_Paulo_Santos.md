@@ -1,0 +1,1 @@
+MARCOS PAULO "MARCÃO" DOS SANTOS (born 26 May 1976) is a Brazilian male handball player. He was a member of the Brazil national handball team, playing as a goalkeeper. He was a part of the team at the 2004 Summer Olympics.[1] On club level he played for Metodista in Brazil.

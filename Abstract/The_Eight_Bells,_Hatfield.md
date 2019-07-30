@@ -1,0 +1,1 @@
+'The_Eight_Bells'_inn_at_Old_Hatfield_-_geograph.org.uk_-_1340043.jpg THE EIGHT BELLS is a grade II listed public house in Park Street, Hatfield, Hertfordshire, England.[1] The building has a timber frame from around the sixteenth century and a nineteenth-century front.

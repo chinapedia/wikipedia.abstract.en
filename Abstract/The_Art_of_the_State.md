@@ -1,0 +1,1 @@
+_THE ART OF THE STATE: CULTURE, RHETORIC, AND PUBLIC MANAGEMENT_ is a book written by Christopher Hood, first published by Oxford University Press in 1998 with a revised edition published in 2000. In November 1998 it was awarded the W. J. M. Mackenzie award of the Political Studies Association.[1]

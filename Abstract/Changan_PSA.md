@@ -1,0 +1,1 @@
+CHANGAN PSA (officially CHANGAN PSA AUTOMOBILES CO., LTD., informally CAPSA) is an automotive manufacturing company headquartered in Shenzhen, China and a 50:50 joint venture between Changan Automobile and Groupe PSA. Its principal activity is the manufacture and sale of DS Automobiles branded passenger cars in China.

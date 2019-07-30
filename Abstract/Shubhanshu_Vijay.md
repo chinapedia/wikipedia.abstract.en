@@ -1,0 +1,1 @@
+SHUBHANSHU VIJAY (born 19 December 1986) is an Indian first-class cricketer who represented Rajasthan.[1] He made his first-class debut for Rajasthan in the 2006-07 Ranji Trophy on 10 January 2007.[2]

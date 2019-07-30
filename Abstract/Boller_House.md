@@ -1,0 +1,1 @@
+BOLLER HOUSE was a historic home located at Boonville, Cooper County, Missouri. It was built about 1835, and was a two-story, five bay, Classic Revival style brick, timber, and wood-frame dwelling. It consisted of a front block with rear ell and featured a two-story front portico.[1] It has been demolished.[2]

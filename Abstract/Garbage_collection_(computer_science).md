@@ -1,0 +1,1 @@
+In computer science, GARBAGE COLLECTION (GC) is a form of automatic memory management. The _garbage collector_, or just _collector_, attempts to reclaim _garbage_, or memory occupied by objects that are no longer in use by the program. Garbage collection was invented by John McCarthy around 1959 to simplify manual memory management in Lisp.[1][2]

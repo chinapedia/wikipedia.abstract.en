@@ -1,0 +1,1 @@
+PANDA GERMAN SHEPHERDS are German Shepherd dogs that exhibit a rare genetic mutation that causes white spotting the traditionally non-white marked breed of German Shepherd dogs. This frequently debated color is often dismissed as a result of crossbreeding. However, new research has proven insightful of the true origin of this new marking.

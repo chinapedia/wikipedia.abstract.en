@@ -1,0 +1,1 @@
+QUANTUM GRAVITY (QG) is a field of theoretical physics that seeks to describe gravity according to the principles of quantum mechanics, and where quantum effects cannot be ignored,[1] such as near compact astrophysical objects where the effects of gravity are strong.

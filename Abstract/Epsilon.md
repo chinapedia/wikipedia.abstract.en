@@ -1,0 +1,1 @@
+EPSILON (uppercase , lowercase or lunate ; ) is the fifth letter of the Greek alphabet, corresponding phonetically to a mid front unrounded vowel . In the system of Greek numerals it also has the value five. It was derived from the Phoenician letter He Phoenician_he.svg. Letters that arose from epsilon include the Roman E, Ë and Ɛ, and Cyrillic Е, È, Ё, Є and Э.

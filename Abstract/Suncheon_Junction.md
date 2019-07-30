@@ -1,0 +1,1 @@
+SUNCHEON JUNCTION (), shortly SUNCHEON JC, is a junction located in Seo-myeon, Suncheon, South Jeolla, South Korea. Namhae Expressway (No. 10) and Suncheon–Wanju Expressway (No. 27) meet here. The type of junction is deleted turbine.

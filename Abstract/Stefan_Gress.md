@@ -1,0 +1,1 @@
+STEFAN GRESS is a German plastic and reconstructive surgeon.[1][2][3] He is best known for his contributions to composite reduction labiaplasty and has published various notable works within the field of labiaplasty.[4][5]

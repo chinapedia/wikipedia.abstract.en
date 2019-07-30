@@ -1,0 +1,1 @@
+HONG JINGYU (洪静宇) (born 2 July 1984 in Beijing), also known as JING YU HONG, is a professional badminton player from China who is a doubles and mixed specialist.[1] She started her badminton career at the age of 9.

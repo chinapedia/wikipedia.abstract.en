@@ -1,0 +1,1 @@
+Edwin_Chan_Model_True_North_Detroit.jpg TRUE NORTH DETROIT is an experimental live/work community in Detroit, Michigan, United States. The project is located at the corner of 16th St and Hancock St in Detroit, MI. It was the first development in an area of Detroit that hadn't seen development since the 1960s.

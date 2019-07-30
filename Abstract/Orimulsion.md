@@ -1,0 +1,1 @@
+ORIMULSION is a registered trademark name for a bitumen-based fuel that was developed for industrial use by Intevep, the Research and Development Affiliate of Petroleos de Venezuela SA (PDVSA), following earlier collaboration on oil emulsions with BP.

@@ -1,0 +1,1 @@
+NOVOSIBIRSK TUBERCULOSIS RESEARCH INSTITUTE (NTRI) ( )) - is a Federal State Budgetary Institution of the Ministry of Health of the Russian Federation and it specializes in the research and treatment of tuberculosis. NTRI provides the organization of TB care to the population in the regions of the Siberian and Far Eastern Federal Districts of Russia.

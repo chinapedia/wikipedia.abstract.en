@@ -1,0 +1,1 @@
+VOLODYMYR POLOVETS () is a former Soviet communist official and Ukrainian historian. He is a Doctor of Historical Sciences and a professor of the Chernihiv Collegium. He claims to be of Cuman descent.

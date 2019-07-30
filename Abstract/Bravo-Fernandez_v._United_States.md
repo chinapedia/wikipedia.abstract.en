@@ -1,0 +1,1 @@
+_BRAVO-FERNANDEZ V. UNITED STATES_, 580 U.S. ___ (2016),[1] was a case in which the Supreme Court of the United States clarified the application of the Fifth Amendment's Double Jeopardy Clause to cases in which a jury returns irreconcilable verdicts that convict a defendant on one count and acquit a defendant on another count when both counts rely upon the same ultimate fact.[2]

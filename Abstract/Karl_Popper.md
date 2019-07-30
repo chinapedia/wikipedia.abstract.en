@@ -1,0 +1,1 @@
+Karl_Popper_(1902-1994),_Nr._104_bust_(bronce)_in_the_Arkadenhof_of_the_University_of_Vienna-2485.jpg SIR KARL RAIMUND POPPER [1] (28 July 1902 – 17 September 1994) was an Austrian philosopher and professor.[2][3][4]

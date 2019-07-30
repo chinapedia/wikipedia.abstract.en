@@ -1,0 +1,1 @@
+GÉRARD TROUPEAU (1927 – 15 December 2010, Tours[1]) was a French scholar agrégé of Arabic, a professor at the Institut national des langues et civilisations orientales from 1961 to 1990, and director of studies of Arabic philology at the École pratique des hautes études (IVe section).

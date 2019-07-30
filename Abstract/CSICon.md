@@ -1,0 +1,1 @@
+CSICON or CSICONFERENCE is an annual skeptical conference typically held in the United States. CSICon is hosted by the Committee for Skeptical Inquiry (CSI), which is a program of the Center for Inquiry (CFI). CSI publishes _Skeptical Inquirer_, subtitled _The Magazine for Science and Reason_.[1]

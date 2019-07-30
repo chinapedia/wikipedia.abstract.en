@@ -1,0 +1,1 @@
+_O COLUMBIA_ is an opera in three parts by Gregory Spears, with an English-language libretto by Royce Vavrek. The opera's story celebrates the American spirit of exploration and features Sir Walter Raleigh, an astronaut on the Space Shuttle _Columbia_ and the mythological icon Lady Columbia.

@@ -1,0 +1,1 @@
+_LONE-LEE_ is a solo album by American jazz saxophonist Lee Konitz recorded in Denmark in 1974 and released on the Danish SteepleChase label.[1][2][3] The original LP released in 1975 featured an edited take of "The Song Is You" lasting 19 minutes and the CD release in 1987 featuring the complete unedited take.

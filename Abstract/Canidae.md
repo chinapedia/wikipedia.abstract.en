@@ -1,0 +1,1 @@
+The biological family CANIDAE [1] (from Latin, canis, “dog”) is a lineage of carnivorans that includes domestic dogs, wolves, coyotes, foxes, jackals, dingoes, and many other extant and extinct dog-like mammals. A member of this family is called a canid (, ).[2]

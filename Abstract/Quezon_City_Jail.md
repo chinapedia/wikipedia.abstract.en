@@ -1,0 +1,1 @@
+QUEZON CITY JAIL is located in Quezon City northeast from Manila, Philippines, in the National Capital Region (NCR). It reports to the Bureau of Jail Management and Penology (BJMP).[1][2] It was built for 800 inmates but with 3800 prisoners it is filled five times more than planned. In 2014, there was a riot with 42 people taken as hostages.[3]

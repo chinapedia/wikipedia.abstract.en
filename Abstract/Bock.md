@@ -1,0 +1,1 @@
+BOCK is a strong lager of German origin. Several substyles exist, including MAIBOCK (HELLES BOCK, HELLER BOCK), a paler, more hopped version generally made for consumption at spring festivals; DOPPELBOCK (DOUBLE BOCK), a stronger and maltier version; and EISBOCK, a much stronger version made by partially freezing the beer and removing the ice that forms.

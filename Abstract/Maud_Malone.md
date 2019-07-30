@@ -1,0 +1,1 @@
+Maude_Malone_at_women's_suffrage_meeting,_May_1914.jpg MAUD MALONE (1873-1951), also seen as MAUDE MALONE, was an American librarian and "militant suffragette"[1] based in New York. She was also spokesperson for the Library Employees' Union, the first labor union for public library workers in the United States.

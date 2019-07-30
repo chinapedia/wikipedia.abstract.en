@@ -1,0 +1,1 @@
+NEW YORK'S 5TH STATE SENATE DISTRICT is one of 63 districts in the New York State Senate. It has been represented by Democratic Senator James Gaughran since 2019. Gaughran defeated longtime Republican Senator Carl Marcellino in a 2018 rematch after narrowly losing to Marcellino in 2016.

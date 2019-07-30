@@ -1,0 +1,1 @@
+EDMUND SPENSER (; 1552/1553 – 13 January 1599) was an English poet best known for _The Faerie Queene_, an epic poem and fantastical allegory celebrating the Tudor dynasty and Elizabeth I. He is recognized as one of the premier craftsmen of nascent Modern English verse, and is often considered one of the greatest poets in the English language.

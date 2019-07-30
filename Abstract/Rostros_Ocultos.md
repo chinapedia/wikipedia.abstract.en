@@ -1,0 +1,1 @@
+ROSTROS OCULTOS is a Mexican rock-pop band founded in 1985, who were moderately well known in the 80s. It was part of the post-movement started by Caifanes, and it was one of the bands that followed its principles, along with Santa Sabina, , Fobia, El Tri, and Maná, among others.

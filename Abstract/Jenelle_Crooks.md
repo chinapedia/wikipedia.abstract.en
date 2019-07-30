@@ -1,0 +1,1 @@
+JENELLE CROOKS (born 2 July 1994) is an Australian professional racing cyclist, who last rode for UCI Women's Team .[1] Crooks has also competed for Australian National Road Series team Specialized Women's Racing and with the Australian Development team's for their tour of European races.[2]

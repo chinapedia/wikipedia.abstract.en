@@ -1,0 +1,1 @@
+NORTH AND SOUTH BROTHER ISLANDS are uninhabited islands in the Indian Ocean, part of the Andaman Archipelago. They belong to the South Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands.[1] the island is lying south from Port Blair.

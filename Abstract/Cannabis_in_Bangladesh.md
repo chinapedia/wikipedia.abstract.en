@@ -1,0 +1,1 @@
+Marijuana_Joint.jpg The cultivation, transport, sale, purchase, and possession of all forms of cannabis has been illegal in Bangladesh since the late 1980s, but enforcement efforts are lax and the drug continues to be popular there.

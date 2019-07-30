@@ -1,0 +1,1 @@
+SOUTH KOREAN–TURKISH RELATIONS are foreign relations between South Korea and Turkey. Turkey has an embassy in Seoul, while South Korea has an embassy in Ankara and a consulate-general in Istanbul. Both countries are members of G20.

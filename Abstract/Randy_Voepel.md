@@ -1,0 +1,1 @@
+RANDY VOEPEL (born September 21, 1950) is an American politician serving in the California State Assembly. He is a Republican representing the 71st district, encompassing most of inland San Diego County and part of Riverside County. Prior to being elected to the state assembly, he was mayor of Santee.

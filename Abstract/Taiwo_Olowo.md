@@ -1,0 +1,1 @@
+DANIEL CONRAD TAIWO (1781 – February 20, 1901), alias TAIWO OLOWO (translated "Taiwo the Rich"[1]), was a trader, arms dealer, slave owner, political power broker, philanthropist and community leader in Colonial Lagos.

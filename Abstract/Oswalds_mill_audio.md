@@ -1,0 +1,1 @@
+OSWALDS MILL AUDIO (OMA) is an American lifestyle company that designs and manufactures high end audio equipment for the home. OMA was founded in 2007, in New Tripoli, Pennsylvania by the filmmaker Jonathan Weiss.[1] In addition to horn loudspeakers, OMA also manufactures amplifiers, turntables, tonearms, and accessories.[2]

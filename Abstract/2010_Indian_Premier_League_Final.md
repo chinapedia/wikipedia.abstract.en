@@ -1,0 +1,1 @@
+The 2010 INDIAN PREMIER LEAGUE FINAL was a day/night Twenty20 cricket match played between the Chennai Super Kings and the Mumbai Indians on 25 April 2010 at the DY Patil Stadium, Navi Mumbai to determine the winner of the 2010 Indian Premier League, an annual professional Twenty20 cricket league in India. It ended as the Super Kings defeated the Indians by 22 runs.

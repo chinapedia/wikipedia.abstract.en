@@ -1,0 +1,1 @@
+Vaszary_Gábor1.jpg GÁBOR VASZARY or GÁBOR VON VASZARY,[1] (7 June 1897 in Budapest – 22 May 1985), was a Hungarian novelist and screenwriter. He emigrated to Switzerland in 1947. He wrote a number of novels which depict life in Paris in the 1950s.[2]

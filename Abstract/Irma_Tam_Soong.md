@@ -1,0 +1,1 @@
+IRMA TAM SOONG (15 July 1912 – 11 January 2001) was a historian specializing in Hawaiian-Chinese history, and was notable for writing about her experiences during World War II in China during Japanese occupation. She founded the Hawaii Chinese History Center.

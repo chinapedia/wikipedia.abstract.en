@@ -1,0 +1,1 @@
+IRMGARD BENSUSAN (born 24 January 1991) is a South African born Paralympic sprinter who now competes for Germany, mainly in T44 classification events.[1] Bensusan competed at the 2016 Summer Paralympics where she won three silver medals in the 100, 200 and 400 metre sprints.

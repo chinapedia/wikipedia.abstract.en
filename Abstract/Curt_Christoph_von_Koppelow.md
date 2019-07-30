@@ -1,0 +1,1 @@
+CURT CHRISTOPH VON KOPPELOW or CORT CHRISTOPHER VON CAPLAU (variants: Koppelöu, Kaplan, Coplou, Coppelouwe) (1624–1705) was a German-Norwegian nobleman and officer in the Dano-Norwegian army. Von Koppelow was the commander of Munkholmen fortress in Trondheim, Norway between 1700 and 1704. He was the father to Norwegian General Major Jürgen Christoph von Koppelow[1][2][3][4][5]

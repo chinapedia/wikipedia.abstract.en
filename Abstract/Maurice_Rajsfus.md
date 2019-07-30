@@ -1,0 +1,1 @@
+MAURICE RAJSFUS (born 9 April 1928) is a French writer, journalist, historian and anti-establishment militant. He is the author of numerous books which address themes such as the Jewish genocide in France, the police, and attacks on civil liberties.[1][2]

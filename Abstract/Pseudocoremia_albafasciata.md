@@ -1,0 +1,1 @@
+_PSEUDOCOREMIA ALBAFASCIATA_, also known as the FLASH MOTH, is a species of moth in the Geometridae family. It is endemic to New Zealand. It is classified as Nationally Endangered by the Department of Conservation.

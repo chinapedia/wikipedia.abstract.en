@@ -1,0 +1,1 @@
+The WESTERN SAMOA HOCKEY ASSOCIATION is the governing body of field hockey in Samoa, Oceania. Its headquarters are in Apia, Samoa. It is affiliated to IHF International Hockey Federation and OCF Oceania Hockey Federation.

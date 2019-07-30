@@ -1,0 +1,1 @@
+LE MANS () is a city in France on the Sarthe River. Traditionally the capital of the province of Maine, it is now the capital of the Sarthe department and the seat of the Roman Catholic diocese of Le Mans. Le Mans is a part of the Pays de la Loire region.

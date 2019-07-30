@@ -1,0 +1,1 @@
+GEORGE ARTHUR KULMALA (1896 – 1940) was a Canadian artist, who specialized in Ontario northern landscapes particularly in Muskoka and Algonquin Park. He was known in the artists community as he was a member of the Ontario Society of Artists and President of the Toronto Finnish Artists' Group.

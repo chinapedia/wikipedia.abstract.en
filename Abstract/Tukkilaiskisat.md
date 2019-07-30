@@ -1,0 +1,1 @@
+Kuningasjätkä_Koskenlasku_Tukkilaiskisat_Raasakkakoskella.JPG Tukkilaiskisat_puomillajuoksu.jpg Tukkilaiskisat_02.jpg Tukkilaiskisat_Iissä.jpg Tukkilaiskisojen_sauvonta.jpg Tukkilaiskisojen_yleisöä.jpg]]

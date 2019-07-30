@@ -1,0 +1,1 @@
+In mathematics, the BORSUK–ULAM THEOREM states that every continuous function from an _n_-sphere into Euclidean _n_-space maps some pair of antipodal points to the same point. Here, two points on a sphere are called antipodal if they are in exactly opposite directions from the sphere's center.

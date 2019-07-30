@@ -1,0 +1,1 @@
+Dr_Phyllis-P-Ntantala-Jordan-JPG.jpg PHYLLIS NTANTALA-JORDAN ( 7 January 1920 – 17 July 2016) was a South African political activist and author.[1] She and literary historian Archibald Campbell Jordan were the parents of politician Pallo Jordan.[2]

@@ -1,0 +1,1 @@
+The ISHINDI-LUNDA (also called the _Western Lunda_) are an ethnic group living mainly in the North-Western Province of Zambia under Senior Chief Ishindi, around the provincial capital Zambezi. The Lunda people of North-Western Province consists of Kanongesha Lunda and Ishindi Lunda.

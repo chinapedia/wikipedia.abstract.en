@@ -1,0 +1,1 @@
+The POLITICS OF TAJIKISTAN takes place in a framework of a presidential republic, whereby the President is both head of state and head of government, and of a multi-party system. Legislative power is vested in both the executive branch and the two chambers of parliament.

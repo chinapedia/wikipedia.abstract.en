@@ -1,0 +1,1 @@
+The _LEVEN VAN LUTGART_ or _LEVEN VAN SINTE LUTGART_ is a 13th-century anonymous Middle Dutch verse hagiography of St Lutgardis, sometimes attributed to William of Afflighem,[1] based on the Latin _Vita Lutgardis_ by Thomas of Cantimpré. The Digital Library for Dutch Literature lists it as one of the thousand works in the Canon of Dutch Literature.

@@ -1,0 +1,1 @@
+In mathematics, an ORDERED PAIR (_a_, _b_) is a pair of objects. The order in which the objects appear in the pair is significant: the ordered pair (_a_, _b_) is different from the ordered pair (_b_, _a_) unless _a_ = _b_. (In contrast, the unordered pair {_a_, _b_} equals the unordered pair {_b_, _a_}.)

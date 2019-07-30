@@ -1,0 +1,1 @@
+CHRIS ANASTASI, born 22 August 1987 to a Greek-Cypriot and Italian family, is a British screenwriter and actor. After starting as an actor at a young age, Anastasi has since moved into screen writing where he has made his name.

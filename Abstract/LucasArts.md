@@ -1,0 +1,1 @@
+LUCASARTS ENTERTAINMENT COMPANY, LLC[1] is an American video game publisher[2] and licensor.[3] Until 2013, it was also a video game developer. LucasArts is best known for its graphic adventure games, as well as games based on the _Star Wars_ and _Indiana Jones_ franchises. Its headquarters are in San Francisco, California.

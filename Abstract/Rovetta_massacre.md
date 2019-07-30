@@ -1,0 +1,1 @@
+The ROVETTA MASSACRE is the name given to the summary execution of 43 Italian soldiers that took place in Rovetta on the night of 27–28 April 1945. The soldiers were of the 1ª Divisione d'Assalto "M" della Legione Tagliamento, part of the National Republican Guard of the Italian Social Republic.

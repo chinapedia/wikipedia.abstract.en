@@ -1,0 +1,1 @@
+The MARSHES FIRE was a 2016 wildfire that burned just north of the Don Pedro Reservoir in Tuolumne County, California.[1] The fire, which started on September 26, burned of land from before being contained on October 4. Approximately 30 homes were evacuated and two minor injuries were reported.[2]

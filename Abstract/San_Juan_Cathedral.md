@@ -1,0 +1,1 @@
+SAN JUAN CATHEDRAL (), dedicated to Saint John the Baptist,[1] is a cathedral and parish of the Roman Catholic Church in San Juan,[2], Argentina.[3] It is the seat of the metropolitan bishop of the Roman Catholic Archdiocese of San Juan de Cuyo.

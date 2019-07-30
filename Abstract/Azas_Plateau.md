@@ -1,0 +1,1 @@
+AZAS PLATEAU is a volcanic field in Russia. It is also known as East Tuva Plateau, Khamsara-Biykhem Plateau and Northeast Tuva Plateau.[1] It covers a surface area of west of Lake Baikal. Volcanic activity in the area also occurred at the Oka Plateau and the Jom-Bolok volcanic field.

@@ -1,0 +1,1 @@
+GEORGY VLADIMIROVICH CHERDANTSEV[1] (; February 1, 1971, Moscow, USSR[2]) is a Russian sports commentator, TV and radio. Got mainly known as a sports commentator channels NTV and NTV Plus.[3] He is currently working on the channel Match TV.[4]

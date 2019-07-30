@@ -1,0 +1,1 @@
+David_Gauld_ONZM_investiture.jpg, by the governor-general, Sir Jerry Mateparae]] DAVID BARRY GAULD (born 28 June 1942) is a New Zealand mathematician. He is a professor of mathematics at the University of Auckland.

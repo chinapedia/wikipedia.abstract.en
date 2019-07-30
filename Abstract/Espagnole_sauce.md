@@ -1,0 +1,1 @@
+Sauce_Spagnole-09.JPG ESPAGNOLE SAUCE () is a basic brown sauce, and is one of Auguste Escoffier's five mother sauces of classic French cooking. This sauce was already compiled in different Spanish cooking handbooks of the late 19th century,[1] and Escoffier popularized the recipe, which is still followed today.[2]

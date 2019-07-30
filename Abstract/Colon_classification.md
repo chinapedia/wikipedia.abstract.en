@@ -1,0 +1,1 @@
+COLON CLASSIFICATION (CC) is a system of library classification developed by S. R. Ranganathan. It was the first ever faceted (or analytico-synthetic) classification. The first edition was published in 1933. Since then six more editions have been published. It is especially used in libraries in India.

@@ -1,0 +1,1 @@
+ALFRED ERNEST BRIGGS (4 February 1888 – 18 March 1950) was a Scottish professional football wing half who played in the Scottish League for Heart of Midlothian.[1][2] He later scouted for Partick Thistle.[3]

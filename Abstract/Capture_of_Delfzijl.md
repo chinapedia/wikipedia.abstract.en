@@ -1,0 +1,1 @@
+The CAPTURE OF DELFZIJL took place during the Eighty Years' War and the Anglo–Spanish War by a Dutch and English army led by Maurice of Orange.[1] The siege commenced on the 26 June and lasted when the Spanish troops surrendered the city of Delfzijl on 2 July 1591.[2][3]

@@ -1,0 +1,1 @@
+BAE SUNG-WOO (born 24 July 1968), better known by his stage name TAK JAE-HOON, is a South Korean singer and entertainer. Known first for being part of K-pop groups Country Kko Kko, and had a song that is only 13 seconds named: "My favourite painter is... none",[1] he has since become an entertainer, on various variety shows.

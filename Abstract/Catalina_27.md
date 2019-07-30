@@ -1,0 +1,1 @@
+The CATALINA 27 is an American sailboat designed by Frank V. Butler and Robert Finch. The design became one of the most popular sailing keelboats of all time and was built from 1971 to 1991.[1][2][3][4]

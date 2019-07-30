@@ -1,0 +1,1 @@
+INTREPID PICTURES is an American independent film and television production company dedicated to producing elevated commercial content for global mainstream audiences. It was founded in 2004 by Trevor Macy and Marc D. Evans, and is currently based in Santa Monica, California.

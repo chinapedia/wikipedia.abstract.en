@@ -1,0 +1,1 @@
+GANGDWAR is a large village located in Andharthaull Block of Madhubani district, Bihar, India with total 1142 families residing. The Gangdwar village has population of 5293 of which 2831 are males while 2462 are females as per Population Census 2011.

@@ -1,0 +1,1 @@
+PAGODAS IN MYEIK are pagodas on the Myeik Archipelago. MYEIK (Mergui) is a city in the Tanintharyi Division in Southeastern Myanmar. A pagoda is a Hindu or Buddhist temple or sacred building, typically a many-tiered tower, in India and East Asia.

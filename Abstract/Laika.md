@@ -1,0 +1,1 @@
+LAIKA (; c. 1954 – 3 November 1957) was a Soviet space dog who became one of the first animals in space, and the first animal to orbit the Earth. Laika, a stray mongrel from the streets of Moscow, was selected to be the occupant of the Soviet spacecraft Sputnik 2 that was launched into outer space on 3 November 1957.

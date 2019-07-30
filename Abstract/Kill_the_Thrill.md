@@ -1,0 +1,1 @@
+KILL THE THRILL is a French rock band, formed in 1989 in Marseille. The band consists of Nicolas Dick (lead vocals, guitar, programming), Marylin Tognolli (bass, programming, vocals), and Frédéric De Benedetti (guitar, vocals).[1]

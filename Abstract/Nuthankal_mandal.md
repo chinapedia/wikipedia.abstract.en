@@ -1,0 +1,1 @@
+NUTHANKAL MANDAL is one of the 23 mandals in Suryapet district of the Indian state of Telangana.[1] It is under the administration of Suryapet revenue division with its headquarters at Nuthankal. It is bounded by Thungathurthy mandal towards its west, Athmakur (S) mandal towards its south, Maddirala mandal towards its north, and Mahabubabad district towards its east.

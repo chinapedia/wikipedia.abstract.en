@@ -1,0 +1,1 @@
+The 1926 ALABAMA GUBERNATORIAL ELECTION took place on November 2, 1926, in order to elect the Governor of Alabama. Democratic incumbent William W. Brandon was term-limited, and could not seek a second consecutive term.

@@ -1,0 +1,1 @@
+VALERIIA ZALIZNA (born 25 April 1996) is a Ukrainian road and track cyclist, who currently rides for UCI Women's Team ,[1] and represents Ukraine at international competitions. In 2015, she won the individual pursuit at the Ukrainian National Track Championships.[2] She competed at the 2016 UEC European Track Championships in the team sprint event.[3]

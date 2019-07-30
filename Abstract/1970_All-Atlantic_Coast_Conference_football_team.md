@@ -1,0 +1,1 @@
+The 1970 ALL-ATLANTIC COAST CONFERENCE FOOTBALL TEAM consists of American football players chosen by various selectors for their All-Atlantic Coast Conference ("ACC") teams for the 1970 college football season. Selectors in 1970 included the Associated Press (AP).

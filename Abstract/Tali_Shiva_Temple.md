@@ -1,0 +1,1 @@
+TALI SHIVA TEMPLE or TALI MAHAKSHETRAM is a Hindu temple dedicated to the deity Lord Shiva, situated in the heart of the Kozhikode city, Kerala. The temple was built in the 14th Century by Zamorin of Calicut.[1][2]

@@ -1,0 +1,1 @@
+_CALADENIA ATROCLAVIA_, commonly known as the BLACK-CLUBBED SPIDER ORCHID, is a plant in the orchid family Orchidaceae and is endemic to south-eastern Queensland. It is a ground orchid with a single hairy leaf and a pale greenish-cream coloured flower with dark purple clubs and red patches on the petals.

@@ -1,0 +1,1 @@
+AUDIENCE SUPERIOR POSITION is a term in literary theory to describe when the audience of a narrative work knows more than one or more characters in the narrative work.[1] An example in film might be when the audience knows the killer is hiding in the closet while the protagonist does not.

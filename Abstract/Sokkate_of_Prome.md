@@ -1,0 +1,1 @@
+SOKKATE ( ) was acting governor of Prome (Pyay) for three months in 1413.[1] He was a commander in the Royal Ava Army, and temporarily assumed governorship of Prome after Gov. Letya Pyanchi of Prome died of wounds April 1413.[2][3] Sokkate was succeeded by Crown Prince Minye Kyawswa, who became the governor-general of Prome.

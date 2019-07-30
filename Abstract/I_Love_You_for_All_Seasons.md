@@ -1,0 +1,1 @@
+"I LOVE YOU FOR ALL SEASONS" is a song written by Sheila Young and performed by The Fuzz. It reached #10 on the U.S. R&B chart and #21 on the _Billboard_ Hot 100 in 1971.[1] The song was featured on their 1971 album, _The Fuzz_.[2]

@@ -1,0 +1,1 @@
+MAE BARNES (born EDITH MAE STITH, possibly January 23, 1907 – December 13, 1996) was an African-American jazz singer, dancer and comic entertainer. She was responsible for introducing the Charleston dance to Broadway in the 1924 revue _Runnin' Wild_. After her career as a dancer ended, she became a successful nightclub singer and recording artist.

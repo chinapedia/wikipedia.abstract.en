@@ -1,0 +1,1 @@
+The TOP 20 is a rugby union club competition that is played in Algeria created in 2017. The national championship of rugby will begin in September 2017, it was learned of the president of the Algerian Rugby Federation (FAR), Sofiane Benhacen.

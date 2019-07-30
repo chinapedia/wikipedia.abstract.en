@@ -1,0 +1,1 @@
+IRAKLI KOBAKHIDZE (; born 25 September 1978) is a Georgian politician who was elected as the Chairperson of the Parliament of Georgia in 2016-2019. He left post after the first day of 2019 Georgian protests.[1]

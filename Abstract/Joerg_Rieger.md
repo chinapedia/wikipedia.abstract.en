@@ -1,0 +1,1 @@
+JOERG MICHAEL RIEGER (born 1963) is a German professor of Christian theology whose work emphasizes economic justice and political movements. Rieger is also an ordained minister of the United Methodist Church.[1]

@@ -1,0 +1,1 @@
+The MEN'S 400 METRE FREESTYLE S13 event at the 2016 Paralympic Games took place on 12 September 2016, at the Olympic Aquatics Stadium. Two heats were held. The swimmers with the eight fastest times advanced to the final.

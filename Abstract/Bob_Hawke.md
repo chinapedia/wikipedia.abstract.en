@@ -1,0 +1,1 @@
+ROBERT JAMES LEE HAWKE, (9 December 1929 – 16 May 2019) was an Australian politician who served as Prime Minister of Australia and Leader of the Labor Party from 1983 to 1991. Hawke served as Member of Parliament (MP) for Wills from 1980 to 1992.

@@ -1,0 +1,1 @@
+JAMAICA () is an island country situated in the Caribbean Sea. Spanning in area, it is the third-largest island of the Greater Antilles and the fourth-largest island country in the Caribbean. Jamaica lies about south of Cuba, and west of Hispaniola (the island containing the countries of Haiti and the Dominican Republic).

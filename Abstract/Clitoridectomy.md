@@ -1,0 +1,1 @@
+CLITORIDECTOMY or CLITORECTOMY is the surgical removal, reduction, or partial removal of the clitoris.[1] It is rarely used as a therapeutic medical procedure, such as when cancer has developed in or spread to the clitoris. It is often performed on intersex newborns. Commonly, non-medical removal of the clitoris is performed during female genital mutilation (FGM).[2]

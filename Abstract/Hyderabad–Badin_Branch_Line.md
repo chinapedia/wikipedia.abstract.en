@@ -1,0 +1,1 @@
+HYDERABAD–BADIN BRANCH LINE (, ) is one of several branch lines in Pakistan, operated and maintained by Pakistan Railways. The line begins from Kotri Junction station or Hyderabad Junction station and ends at Badin station. The total length of this railway line is . There are 9 railway stations from Kotri Junction to Badin.

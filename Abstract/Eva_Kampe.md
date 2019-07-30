@@ -1,0 +1,1 @@
+IEVA "EVA" KAMPE (married name VLAHOV; born 29 November 1940) is a former Latvian-Australian track and field athlete who represented Australia in the long jump at the 1962 British Empire and Commonwealth Games. She placed fourth in the event, and also won two medals at the Australian Athletics Championships.

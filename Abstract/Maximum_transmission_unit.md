@@ -1,0 +1,1 @@
+In computer networking, the MAXIMUM TRANSMISSION UNIT (MTU) is the size of the largest protocol data unit (PDU) that can be communicated in a single network layer transaction.[1] The MTU relates to, but is not identical to the maximum frame size that can be transported on the data link layer, e.g. Ethernet frame.

@@ -1,0 +1,1 @@
+HOT HITTER (foaled 1976) was a bay Standardbred Champion racehorse who won two of the Pacing Triple Crown races in 1979 while on his way to setting a single-season earnings record of $826,542 for a harness horse.[1]

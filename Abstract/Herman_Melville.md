@@ -1,0 +1,1 @@
+HERMAN MELVILLE (August 1, 1819 – September 28, 1891) was an American novelist, short story writer, and poet of the American Renaissance period. Among his best known works are _Typee_ (1846), a romantic account of his experiences of Polynesian life, and his masterpiece _Moby-Dick_ (1851).

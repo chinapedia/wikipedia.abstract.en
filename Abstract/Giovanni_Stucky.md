@@ -1,0 +1,1 @@
+Venezia_-_Busto_a_Giovanni_Stucky.JPG mill in Venice, which he opened.]] GIOVANNI STUCKY (27 May 1843, Venice - 21 May 1910) was an Italian businessman of Swiss descent. His father was the mill owner Hans Stucky from Münsingen in Bern Canton, who had lived in Italy since 1837 and in Venice since 1841.

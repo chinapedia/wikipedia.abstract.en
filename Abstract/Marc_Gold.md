@@ -1,0 +1,1 @@
+MARC GOLD (born June 30, 1950)[1] is a law professor and expert in Canadian constitutional law and an independent member of the Senate of Canada as well as a business executive. His appointment was announced on November 2, 2016, by Prime Minister Justin Trudeau.[2] Gold assumed office on November 25, 2016, and was sworn as a Senator on December 2, 2016.

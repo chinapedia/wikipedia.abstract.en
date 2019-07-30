@@ -1,0 +1,1 @@
+The 1951 Albanian First Division is the eighth season of the second tier of football in Albania. The season started in March and ended in August, and 48 teams competed in three stages, with four teams qualifying for the final group, where Dinamo Vlorë won and Puna Shijak finished as runners up.

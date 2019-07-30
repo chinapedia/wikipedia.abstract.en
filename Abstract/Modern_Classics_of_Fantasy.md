@@ -1,0 +1,1 @@
+_MODERN CLASSICS OF FANTASY_ is an anthology of fantasy short works edited by American writet Gardner Dozois. It was first published in hardcover by St. Martin's Griffin in January 1997, which also issued a trade paperback edition in November of the same year and an ebook edition in October 2014. A Science Fiction Book Club edition appeared in March 1997.[1]

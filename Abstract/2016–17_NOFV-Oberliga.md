@@ -1,0 +1,1 @@
+The 2016–17 SEASON of the NOFV-OBERLIGA was the ninth season of the league at tier five (V) in the German football league system and the 27th overall. The league is split into northern and southern divisions.[1]

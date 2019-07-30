@@ -1,0 +1,1 @@
+'''Jong Yu-Ri ''' (born 21 June 1992) is a North Korean footballer who plays as a midfielder who plays for the North Korea women's national football team. She was part of the team at the 2014 Asian Games and 2014 Algarve Cup.[1][2][3] At the club level, she played for Sobaeksu Sports Club in North Korea.[4]

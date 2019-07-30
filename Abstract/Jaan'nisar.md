@@ -1,0 +1,1 @@
+_JAAN’NISAR_ is a 13 episode drama series that brings the issue of rule of law to the fore by revealing the deep-rooted nexus of politics and police with the help of a responsible media. It was aired on APlus and ATV (Pakistan). It is directed by Aamir Yousuf and written by Aamir Raza.[1]

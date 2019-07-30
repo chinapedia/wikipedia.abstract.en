@@ -1,0 +1,1 @@
+_THE ULTIMATE HITS COLLECTION_ is a compilation album by country pop singer Juice Newton. It was released by Fuel Records in 2011. All ten tracks from Newton's 1998 album _The Trouble With Angels_ were included in this release (in remixed form) along with ten other recordings from various other Newton albums and one new track. An iTunes edition added two more tracks.

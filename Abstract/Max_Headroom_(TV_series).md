@@ -1,0 +1,1 @@
+_MAX HEADROOM_ is an American satirical science fiction television series by Chrysalis Visual Programming and Lakeside Productions for Lorimar-Telepictures that aired in the United States on ABC from March 1987 to May 1988. The series is set in a futuristic dystopia ruled by an oligarchy of television networks.

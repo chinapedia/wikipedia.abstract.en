@@ -1,0 +1,1 @@
+ROBERT MIKHAILOVICH SHWARTZMAN (, born 16 September 1999) is a Russian racing driver currently competing in the FIA Formula 3 Championship. He is a member of the Ferrari Driver Academy.[1] He is the 2018 Toyota Racing Series champion.[2]

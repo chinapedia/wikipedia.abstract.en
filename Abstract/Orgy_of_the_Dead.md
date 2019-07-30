@@ -1,0 +1,1 @@
+_ORGY OF THE DEAD_ is a 1965 erotic horror film directed by Stephen C. Apostolof under the alias A. C. Stephen. The screenplay was written by cult film director Edward D. Wood Jr.. He adapted the screenplay into a novel.

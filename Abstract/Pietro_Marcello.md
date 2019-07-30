@@ -1,0 +1,1 @@
+PIETRO MARCELLO (born 2 July 1976) is an Italian film director.[1] He has directed more than eight documentary films since 2004. In 2015 he directed his first fiction film, _Lost and Beautiful_. Several of his films have been presented at international film festivals and have received various awards and nominations.

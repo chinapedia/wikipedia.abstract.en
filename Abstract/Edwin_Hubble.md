@@ -1,0 +1,1 @@
+EDWIN POWELL HUBBLE (November 20, 1889 – September 28, 1953)[1] was an American astronomer. He played a crucial role in establishing the fields of extragalactic astronomy and observational cosmology and is regarded as one of the most important astronomers of all time.[2][3]

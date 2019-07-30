@@ -1,0 +1,1 @@
+NORMA MACMILLAN (September 15, 1921 – March 16, 2001) was a Canadian actress and voice actress, best known for voicing numerous animation and claymation children's characters, including Casper the Friendly Ghost on _The New Casper Cartoon Show_, Gumby on _The Gumby Show_ and Davey on _Davey and Goliath_.

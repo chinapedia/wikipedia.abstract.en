@@ -1,0 +1,1 @@
+[1] is a Japanese actress, singer, and former member of the female idol group SDN48. Her real name is . Her hobby is reading. Her skills are writing, playing basketball, long-distance running, and cooking.

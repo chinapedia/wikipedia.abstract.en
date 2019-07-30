@@ -1,0 +1,1 @@
+The LAS PAVAS, also called LA PAVA (Spanish: _Mina La(s) Pava(s)_),[1] is a Colombian emerald mining area that is neighboring Colombia's largest emerald mine, Puerto Arturo. It is located northwest of the capital Bogotá in the western emerald belt of Muzo, and about west of Chivor, which is in the eastern emerald belt. The mining area spans the municipalities Quípama and Muzo.

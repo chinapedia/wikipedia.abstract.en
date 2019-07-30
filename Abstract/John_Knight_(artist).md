@@ -1,0 +1,1 @@
+Hamburger_Bahnhof_-_Museum_für_Gegenwart_08_(cropped).jpg JOHN KNIGHT (born 1945 in Hollywood, California) is a conceptual artist in Los Angeles, California who works in situ.[1] Since the 1960s, Knight has made pioneering works grounded in site-specificity and institutional critique, works that interrogate underlying economic systems.[2]

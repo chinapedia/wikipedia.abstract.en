@@ -1,0 +1,1 @@
+KUYBYSHEVSKY ZATON (; , _Zatun_) is an urban locality (an urban-type settlement) in Kamsko-Ustyinsky District of the Republic of Tatarstan, Russia, located on the shores of Kuybyshev Reservoir, from Kamskoye Ustye, the administrative center of the district. As of the 2010 Census, its population was 2,677.[1]

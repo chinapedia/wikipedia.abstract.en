@@ -1,0 +1,1 @@
+_EUCALYPTUS DECURVA_, commonly known as the SLENDER MALLEE,[1] is a species of mallee that is endemic to the south-west of Western Australia. It has smooth whitish bark, lance-shaped to curved adult leaves, pendulous flower buds arranged in groups of seven, white flowers and pendulous, more or less spherical fruit.Eucalyptus_decurva_buds.jpgEucalyptus_decurva_fruit.jpg

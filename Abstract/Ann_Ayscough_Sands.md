@@ -1,0 +1,1 @@
+ANN AYSCOUGH SANDS (January 5, 1761July 17, 1851) was an American educator. She was the founder of the first public school ever established in Brooklyn, New York. St. Ann's Church, the first Episcopal church in that city, was named in her honor.

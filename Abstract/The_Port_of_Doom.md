@@ -1,0 +1,1 @@
+_THE PORT OF DOOM_ is a lost[1] 1913 silent film detective drama directed by J. Searle Dawley and featuring Laura Sawyer and House Peters. It was the last of six “Kate Kirby's Cases" detective stories made in 1913, the third produced by the Famous Players Film Company after Dawley and Sawyer left Edison for Famous Players.[2]

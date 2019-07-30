@@ -1,0 +1,1 @@
+WINCHMORE HILL CRICKET CLUB is a cricket club in London, United Kingdom. The club was formed in 1880, and play their home games at The Paulin Ground in Winchmore Hill.[1] The club competes in the Middlesex County Cricket League (MCCL), notably winning the Premier League in 2012.[2]

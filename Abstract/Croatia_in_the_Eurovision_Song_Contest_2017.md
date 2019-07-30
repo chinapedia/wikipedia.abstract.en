@@ -1,0 +1,1 @@
+CROATIA participated in the EUROVISION SONG CONTEST 2017, which took place in Kiev, Ukraine, in May 2017. After the successful return in 2016, Croatian national broadcaster Croatian Radiotelevision (HRT) confirmed on 17 September 2016 that they would also participate in 2017.[1]

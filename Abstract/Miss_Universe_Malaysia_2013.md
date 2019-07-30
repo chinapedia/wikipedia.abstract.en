@@ -1,0 +1,1 @@
+The MISS UNIVERSE MALAYSIA 2013 also referred to as The Next Miss Universe Malaysia 2013 is the 50th edition of the Miss Universe Malaysia pageant which was held at Shah Alam, Selangor on December 10, 2012 where the reigning winner Kimberley Leggett of Penang crowned her successor Carey Ng of Putrajaya.

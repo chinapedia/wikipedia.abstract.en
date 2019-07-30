@@ -1,0 +1,1 @@
+HELIUM-3 (³HE, TRALPHIUM,[1][2] see also helion) is a light, non-radioactive isotope of helium with two protons and one neutron (common helium having two protons and two neutrons). Other than protium (ordinary hydrogen), helium-3 is the only stable isotope of any element with more protons than neutrons. Helium-3 was discovered in 1939.

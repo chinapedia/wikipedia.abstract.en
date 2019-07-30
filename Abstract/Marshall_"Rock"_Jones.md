@@ -1,0 +1,1 @@
+MARSHALL JONES (born MARSHALL EUGENE JONES; January 1, 1941 – May 27, 2016), professionally known as MARSHALL "ROCK" JONES, was an American bass player. He is best known as a founding member and bassist of the funk, soul music and R&B band Ohio Players.[1]

@@ -1,0 +1,1 @@
+The 2016 WOMEN'S INTERNATIONAL TOURNAMENT OF SPAIN was the 20th edition of the Women's International Tournament Of Spain, held in Elda, Spain between 25–27 November as a friendly handball tournament organised by the Royal Spanish Handball Federation as a preparation of the host nation to the 2016 European Women's Handball Championship.[1]

@@ -1,0 +1,1 @@
+ALEKSEI FEODOROVICH ALADIN (1873–1927) was a Russian soldier and politician who formed and led the Trudoviks, the Labours' Party. He was elected to the First Duma in 1906 but spent his later years in exile in the United Kingdom.[1][2]

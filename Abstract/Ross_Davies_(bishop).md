@@ -1,0 +1,1 @@
+ROSS OWEN DAVIES (born 4 February 1955) is an Australian former Anglican bishop. From 2002 to 2010, he was the bishop of the Diocese of The Murray in the Anglican Church of Australia.[1] In September 2010, he resigned and was found guilty by a church tribunal of "disgraceful conduct and wilful violation of church ordinances".[2][3][4]

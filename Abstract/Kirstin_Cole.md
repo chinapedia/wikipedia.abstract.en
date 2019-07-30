@@ -1,0 +1,1 @@
+KIRSTIN COLE has been a reporter and anchor for PIX 11 news since 2011,[1] where she is also a discussion panelist.[2] She worked there from 2000-2001 before spending 10 years as the consumer reporter for CBS 2.[3] She has received awards in crime reporting working at both companies. Her work for CBS included covering restaurants who discriminated against children.[4]

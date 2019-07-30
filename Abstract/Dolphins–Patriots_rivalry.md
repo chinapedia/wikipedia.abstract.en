@@ -1,0 +1,1 @@
+The DOLPHINS–PATRIOTS RIVALRY is an American football rivalry between the National Football League (NFL)'s Miami Dolphins and New England Patriots. The Dolphins lead the all-time series 55–52.[1] Because both teams are members of the American Football Conference (AFC) East division, the two teams have been scheduled to play twice (home and home) every regular season since 1967.

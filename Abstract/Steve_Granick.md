@@ -1,0 +1,1 @@
+STEVE GRANICK is an American scientist and educator. He directs the Institute for Basic Science Center for Soft and Living Matter, an interdisciplinary blue-sky research center in Ulsan, South Korea that pursues basic science research. He is a member of the American Academy of Arts and Sciences and the U.S. National Academy of Sciences.

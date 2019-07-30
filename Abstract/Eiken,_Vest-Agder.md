@@ -1,0 +1,1 @@
+EIKEN is a village in Hægebostad municipality in Vest-Agder county, Norway. The village is located on the northern shore of the lake Lygne, about north of the municipal centre of Tingvatn. The village sits near the northern end of the Lyngdalen valley, about southeast of the village of Haddeland.

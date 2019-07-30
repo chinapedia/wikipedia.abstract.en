@@ -1,0 +1,1 @@
+RYAN MANESS is an American cybersecurity expert and an Assistant Professor at the Defense Analysis Department of Naval Postgraduate School. He is the co-author of _Cyber War Versus Cyber Realities: Cyber Conflict in the International System_, which won widespread critical acclaim.

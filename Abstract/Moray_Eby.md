@@ -1,0 +1,1 @@
+MORAY LEON EBY (October 15, 1877 – November 25, 1958) was an American football player and coach. He served as the head football coach at Coe College from 1914 to 1942. Eby played college football at the University of Iowa from 1897 to 1900. He was the captain of the 1899 Iowa Hawkeyes football team.

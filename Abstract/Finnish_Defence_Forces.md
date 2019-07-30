@@ -1,0 +1,1 @@
+The FINNISH DEFENCE FORCES (, ) are responsible for the defence of Finland. A universal male conscription is in place, under which all men above 18 years of age serve for 165, 255, or 347 days. Alternative non-military service for all men, and volunteer service for all women are possible.

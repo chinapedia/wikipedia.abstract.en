@@ -1,0 +1,1 @@
+GREEN'S FERRY, also known as the WALLER'S FERRY and SMITH'S FERRY, is a historic ferry landing on the western shore of the Mississippi River at Cape Girardeau, Missouri. The ferry was one of two locations on the Mississippi River utilized by the Cherokee to cross from Illinois to Missouri on the Trail of Tears of 1837-1839.[1]

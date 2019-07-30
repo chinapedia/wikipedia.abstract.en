@@ -1,0 +1,1 @@
+_THE BARN_ is a 2016 American horror film written and directed by Justin M. Seaman, and starring Mitchell Musolino, Will Stout, Lexi Dripps, Cortland Woodard, Nikki Howell, Nickolaus Joshua, Linnea Quigley, and Ari Lehman. The film is set on Halloween night 1989 and follows two teenage friends that end up accidentally resurrecting a deadly curse.

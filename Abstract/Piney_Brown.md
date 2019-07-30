@@ -1,0 +1,1 @@
+COLUMBUS S. PERRY (January 20, 1922 – February 5, 2009),[1] better known as PINEY BROWN, was an American R&B and blues singer and songwriter, who has been described as a "fine, big-voiced shouter".[2] He released a string of singles between 1948 and 1988 and issued two albums late in his career. His songs have been recorded by Little Milton and James Brown.[3]

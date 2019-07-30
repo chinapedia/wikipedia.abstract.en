@@ -1,0 +1,1 @@
+EDWARD ADDINGTON HARGREAVES PELLEW, 5TH VISCOUNT EXMOUTH (12 November 1890 – 17 August 1922), was a British peer who inherited the title of Viscount Exmouth at the age of eight years old from his father, and held the title for 22 years before his own death.

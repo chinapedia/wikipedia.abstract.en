@@ -1,0 +1,1 @@
+Miķelis Lībietis and Dennis Novikov were the defending champions but only Lībietis chose to defend his title, partnering Tennys Sandgren. Lībietis lost in the first round to Sam Barry and Peter Kobelt.

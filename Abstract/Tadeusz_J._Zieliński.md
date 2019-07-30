@@ -1,0 +1,1 @@
+TADEUSZ JACEK ZIELIŃSKI (born 1966 in Katowice) is a Polish lawyer and Protestant theologian, professor of theological sciences and Juris Doctor. Member of Polish Parliament (1993-2001) and president of Polish Association of Church-State Law (2008-2016). Since 2016 deputy rector of the Christian Academy of Theology in Warsaw.

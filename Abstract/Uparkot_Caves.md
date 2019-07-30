@@ -1,0 +1,1 @@
+UPARKOT CAVES, also _' Uperkot caves_', are ancient man-made caverns. The caves are a part of the Junagadh Buddhist Cave Groups situated in the eastern part of Junagadh of the Indian state of Gujarat.

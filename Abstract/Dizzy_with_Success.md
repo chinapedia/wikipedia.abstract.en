@@ -1,0 +1,1 @@
+"DIZZY WITH SUCCESS: CONCERNING QUESTIONS OF THE COLLECTIVE-FARM MOVEMENT"[1] () is an article by Joseph Stalin that was published in _Pravda_ on March 2, 1930. In the article, Stalin claimed that agricultural collectivization had been carried out with excessive zeal, leading to "excesses" that had to be corrected.

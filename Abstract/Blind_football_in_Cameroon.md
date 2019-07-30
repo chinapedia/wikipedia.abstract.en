@@ -1,0 +1,1 @@
+BLIND FOOTBALL IN CAMEROON is a sport played by people with vision impairments in Cameroon. The sport is currently in the development stage, with various activities supporting these efforts. A national competition for the sport took place in September 2016.

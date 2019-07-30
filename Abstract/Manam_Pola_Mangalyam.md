@@ -1,0 +1,1 @@
+_MANAM POLA MANGALYAM_ () is a 1953 Indian Tamil language comedy film directed by P. Pullaiah. The film features Gemini Ganesan and Savithri in the lead roles.[1] No print of the film is known to survive, making it a lost film.[2]

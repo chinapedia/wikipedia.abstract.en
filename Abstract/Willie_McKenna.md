@@ -1,0 +1,1 @@
+WILLIAM CREA J. MCKENNA (5 October 1889 – 18 April 1958), also known as BILLY MCKENNA, was a Scottish amateur football goalkeeper who played in the Scottish League for Queen's Park, Falkirk, Port Glasgow Athletic, Morton and Clydebank.[1][2] He later served on the Queen's Park committee and as club president.[3]

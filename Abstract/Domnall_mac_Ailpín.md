@@ -1,0 +1,1 @@
+DOMNALL MAC AILPÍN (Modern Gaelic: _Dòmhnall mac Ailpein_,[1] anglicised sometimes as DONALD MACALPIN, known in most modern regnal lists as DONALD I); (812 – 13 April 862) was King of the Picts from 858 to 862. He followed his brother Kenneth I to the Pictish throne.

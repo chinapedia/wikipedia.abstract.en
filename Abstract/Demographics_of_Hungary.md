@@ -1,0 +1,1 @@
+This article is about the demographic features of the population of Hungary, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population. Hungary's population has been declining for the last 37 years.

@@ -1,0 +1,1 @@
+ROBERT BAHOU (born August 1, 1993 in Amman) is an Amman-based photographer. He is the creator of the series "Animal Soul" (2015).[1][2] Bahou primarily works with dogs and cats in a quest to capture faithful and telling portraits of them.

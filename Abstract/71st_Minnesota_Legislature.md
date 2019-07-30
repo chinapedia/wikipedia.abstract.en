@@ -1,0 +1,1 @@
+The SEVENTY-FIRST MINNESOTA LEGISLATURE first convened on January 3, 1979. The 67 members of the Minnesota Senate were elected during the General Election of November 2, 1976, and the 134 members of the Minnesota House of Representatives were elected during the General Election of November 7, 1978.

@@ -1,0 +1,1 @@
+_THE FIRST FILM_ is a 2015 British documentary film about cinema pioneer Louis Le Prince, made by David Nicholas Wilkinson.[1][2] It argues the case that Le Prince, rather than the Lumiere brothers, was the true inventor of moving pictures, making _Roundhay Garden Scene_ in Leeds in 1888. Le Prince mysterious disappeared in 1890.[3][4]

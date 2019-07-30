@@ -1,0 +1,1 @@
+KUKMOR (; , _Quqmara_) is an urban locality (an urban-type settlement) and the administrative center of Kukmorsky District in the Republic of Tatarstan, Russia, located on the Nurminka River (in the Vyatka's basin), near the border with Kirov Oblast, from the republic's capital of Kazan. As of the 2010 Census, its population was 16,918.[1]

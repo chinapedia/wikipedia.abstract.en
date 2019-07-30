@@ -1,0 +1,1 @@
+_GURU SISHYULU_ (English: TEACHER-STUDENT) is a 1981 Telugu comedy film, produced by C. Ashwini Dutt under the Vyjayanthi Movies banner[1] and directed by K. Bapayya.[2] It stars Akkineni Nageswara Rao, Krishna, Sridevi, Sujatha in the lead roles and music composed by K. V. Mahadevan.[3]

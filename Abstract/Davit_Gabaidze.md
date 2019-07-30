@@ -1,0 +1,1 @@
+DAVIT GABAIDZE (; born 10 August 1980) is a Georgian politician who was elected as the Chairman of the Supreme Council of Autonomous Republic of Adjara on November 28, 2016. Since 2015 he has been a regional expert of Assembly of European Regions and the member of the State Constitutional Commission since 2016.

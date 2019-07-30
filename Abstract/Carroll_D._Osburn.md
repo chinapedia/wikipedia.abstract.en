@@ -1,0 +1,1 @@
+CARROLL D. OSBURN, an American scholar recognized as one of North America’s leading New Testament textual critics and a prominent Christian egalitarian, is Carmichael-Walling Distinguished Professor Emeritus at Abilene Christian University,[1] and former Executive Director, Caris Foundation. As an author, he has been collected primarily by libraries.[2]

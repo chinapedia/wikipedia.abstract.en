@@ -1,0 +1,1 @@
+_UFC FIGHT NIGHT: RODRÍGUEZ VS. PENN_ (also known as _UFC FIGHT NIGHT 103_) was a mixed martial arts event produced by the Ultimate Fighting Championship held on January 15, 2017, at Talking Stick Resort Arena in Phoenix, Arizona[1][2]

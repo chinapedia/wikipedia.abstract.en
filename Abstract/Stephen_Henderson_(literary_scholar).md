@@ -1,0 +1,1 @@
+STEPHEN E. HENDERSON (October 13, 1925 – January 7, 1997) was a professor of African-American literature and culture.[1] He is noted for providing the first formal interpretation of militant Black poetry,[2] and, with Vincent Harding and William Strickland, for founding the Institute of the Black World in Atlanta, Georgia.[3]

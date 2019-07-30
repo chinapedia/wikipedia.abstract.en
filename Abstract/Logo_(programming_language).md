@@ -1,0 +1,1 @@
+LOGO is an educational programming language, designed in 1967 by Wally Feurzeig, Seymour Papert, and Cynthia Solomon.[1] _Logo_ is not an acronym: the name was coined by Feurzeig while he was at Bolt, Beranek and Newman,[2] and derives from the Greek _logos_, meaning _word_ or _thought_.

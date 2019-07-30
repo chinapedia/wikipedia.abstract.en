@@ -1,0 +1,1 @@
+_VIBURNUM DILATATUM_, commonly known as LINDEN ARROWWOOD[1] or LINDEN VIBURNUM,[2] is a deciduous shrub in the moschatel family (Adoxaceae). It is native to eastern Asia, and can be found as an introduced plant in the mid-Atlantic regions in the U.S from New York to Virginia. Linden arrowwood is known for the clusters of red drupes it produces when it is mature.

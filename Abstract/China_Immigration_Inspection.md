@@ -1,0 +1,1 @@
+The CHINA IMMIGRATION INSPECTION (CHINESE BORDER PATROL, ) is the government agency responsible for controlling its borders. The People's Republic of China Ministry of Public Security is a subsidiary of the co-operating agencies.[1]

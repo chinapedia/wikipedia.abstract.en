@@ -1,0 +1,1 @@
+_AHTS-001_ is the first extended play by collaborative project All Hail the Silence, consisting of musician BT and singer Christian Burns. The EP was released on September 19, 2016 as a four-track limited edition colored 12" vinyl collectible disc on Shopify.[1][2] It was later released on iTunes on December 16, 2016.[3]

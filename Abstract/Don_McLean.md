@@ -1,0 +1,1 @@
+DONALD MCLEAN III (born October 2, 1945) is an American singer-songwriter, best known for his 1971 hit song "American Pie", an 8.5-minute folk rock "cultural touchstone"[1] about the loss of innocence of the early rock and roll generation[2] (US #1 for four weeks in 1972 and UK #2).

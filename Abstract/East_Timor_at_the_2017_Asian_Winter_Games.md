@@ -1,0 +1,1 @@
+EAST TIMOR competed at the 2017 ASIAN WINTER GAMES in Sapporo and Obihiro, Japan from February 19 to 26.[1][2] This marks the country's official debut at the Asian Winter Games.[3][4] The country is scheduled to compete with one athlete in alpine skiing.[5][6]

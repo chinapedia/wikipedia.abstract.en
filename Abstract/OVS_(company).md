@@ -1,0 +1,1 @@
+OVS is an Italian clothing company. It has stores in 35 countries in Europe, Latin America and Asia with a total of about 1285 locations. Revenues were €1.32 billion in 2015.[1] It is the largest clothing retailer in Italy, accounting for about 5% of the national clothing retail market.[2]

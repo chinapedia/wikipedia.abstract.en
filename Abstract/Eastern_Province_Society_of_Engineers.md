@@ -1,0 +1,1 @@
+The EASTERN PROVINCE SOCIETY OF ENGINEERS (EPSE) was an association for Professional Engineers and Engineering Associates in the Eastern Province region of South Africa. It was founded in Port Elizabeth in 1926.

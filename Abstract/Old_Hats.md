@@ -1,0 +1,1 @@
+_OLD HATS_ is a 2013 comedy sketch, revue, musical and clown show written and performed by David Shiner and Bill Irwin, the show debuted in New York City.[1] Musician Nellie McKay also performed in the 2013 show.[2]

@@ -1,0 +1,1 @@
+ONEJIRU is a contemporary Germany-based jazz singer. She was born in Kenya and moved to Germany when she was a teenager. Her real name is Pielina Wanjiru Schindler,[1] with stage names ONEJIRU and ONEJIRO SCHINDLER.

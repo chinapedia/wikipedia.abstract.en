@@ -1,0 +1,1 @@
+IQALUIT ( ; ; ), meaning "place of fish",[1] is the capital of the Canadian territory of Nunavut, its largest community, and its only city. It was known as FROBISHER BAY from 1942 to 1987, after the large bay on the coast of which the city is situated, when the traditional Inuktitut name was restored.

@@ -1,0 +1,1 @@
+MAY is an unincorporated community in northwest McDonald County, in the U.S. state of Missouri.[1] The community is on the banks of Buffalo Creek, approximately south of the McDonald-Newton county line.[2]

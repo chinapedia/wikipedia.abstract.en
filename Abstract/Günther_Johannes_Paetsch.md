@@ -1,0 +1,1 @@
+GÜNTHER JOHANNES PAETSCH (September 24, 1929 – April 30, 1997), a native of Germany, was a cellist and co-founder of the Paetsch Family Chamber Music Ensemble in Colorado Springs, Colorado, United States. He is the husband of violinist Priscilla Paetsch and the father of their seven children.

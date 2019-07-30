@@ -1,0 +1,1 @@
+JUAN MENÉNDEZ GRANADOS (Pravia, Spain) is a Spanish cyclist known for solo bicycle expeditions in remote locations around the world. As a youth, Juan had a passion for adventure. He has pedaled his way through the Amazon jungle, the Australian desert, the Siberian tundra, the Andes, the Canadian Arctic, and Antarctica.

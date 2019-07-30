@@ -1,0 +1,1 @@
+The CENTRAL AFRICAN REPUBLIC RECORDS IN SWIMMING are the fastest ever performances of swimmers from the Central African Republic, which are recognised and ratified by the Fédération Centrafricaine de Natation (FCN).

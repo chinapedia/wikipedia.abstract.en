@@ -1,0 +1,1 @@
+St_Anselm's_Church,_Kennington,_October_2014_03.jpg

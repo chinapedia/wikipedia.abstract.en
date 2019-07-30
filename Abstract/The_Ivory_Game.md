@@ -1,0 +1,1 @@
+_THE IVORY GAME_ is a 2016 American documentary film, directed by Kief Davidson and Richard Ladkani. The film examines the ivory trade, which has become a global concern, pitting governments and environmental preservationalists against poachers and Chinese ivory merchants.[1]

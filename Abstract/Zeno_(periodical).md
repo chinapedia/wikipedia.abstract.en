@@ -1,0 +1,1 @@
+ZENO is the single German-language periodical devoted specifically to work at the intersection of philosophy and literature, featuring essays, reviews, stories and poems. Since 1980, it has been published annually by Rhine-Ruhr University Press (Universitätsverlag Rhein-Ruhr | UVRR).[1]

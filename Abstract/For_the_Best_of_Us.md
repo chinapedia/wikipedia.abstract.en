@@ -1,0 +1,1 @@
+_FOR THE BEST OF US_ is an album by John Doe, the co-founder of the Los Angeles-based punk rock band X. It was released on Yep Roc Records on July 25, 2006. The album is a repackaging of an EP Doe originally released in 1998 on the Kill Rock Stars label, entitled _For the Rest of Us_. Doe is billed as "The John Doe Thing" on the album.[1]

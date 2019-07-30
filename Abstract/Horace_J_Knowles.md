@@ -1,0 +1,1 @@
+HORACE J KNOWLES ( 1884 - 1954 ) was an author and illustrator. Known mostly for his biblical illustrations i.e. _New English Bible_,[1] he was also the author and illustrator of _Peeps into Fairyland_[2]. He also worked with his brother Reginald L Knowles, on many illustrations for books ( e.g. _Legends from Fairyland_[3] ).

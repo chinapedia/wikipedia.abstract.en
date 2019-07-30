@@ -1,0 +1,1 @@
+The WROCŁAW–SZCZECIN RAILWAY is a Polish 356-kilometre long railway line, that connects Wrocław with Zielona Góra, Rzepin, Kostrzyn and Szczecin. The railway was assigned part of the European TEN-T route E59 from Scandinavia to Vienna, Budapest and Prague in 1991.

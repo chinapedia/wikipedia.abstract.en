@@ -1,0 +1,1 @@
+GREEN GABLES INTERNATIONAL SCHOOL is a CBSE school at Hitech City, Madhapur in Hyderabad, India. It was established in 2000 as a pre-primary school and now provides both pre-primary, primary and secondary education.

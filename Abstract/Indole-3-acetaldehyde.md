@@ -1,0 +1,1 @@
+INDOLE-3-ACETALDEHYDE belongs to the class of organic compounds known as indoles. These are compounds containing an indole moiety, which consists of pyrrole ring fused to benzene to form 2,3-benzopyrrole.

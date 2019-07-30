@@ -1,0 +1,1 @@
+The 2016 MOROCCO TENNIS TOUR – MOHAMMEDIA was a professional tennis tournament played on clay courts. It was the third edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Mohammedia, Morocco between 3 and 8 October 2016.

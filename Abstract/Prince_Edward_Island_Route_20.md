@@ -1,0 +1,1 @@
+ROUTE 20 is a , two-lane, uncontrolled-access, secondary highway in Prince Edward Island. Its western terminus is at Route 2 and Route 6 in Kensington and its eastern terminus is at Route 6 and Route 8 in New London. The route is located in Prince and Queens counties.

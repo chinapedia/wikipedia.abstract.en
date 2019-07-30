@@ -1,0 +1,1 @@
+NATASHA ANNE RYAN (born 1984) is an Australian woman who went missing in 1998 as a young teenage girl from Rockhampton, Queensland. Police assumed she had been murdered by a local serial killer. Ryan was discovered alive in 2003 during the trial of the man accused of her murder, almost five years after she went missing.

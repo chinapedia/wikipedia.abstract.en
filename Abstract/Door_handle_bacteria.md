@@ -1,0 +1,1 @@
+University_Door_Handle.jpg Everyday door handles are often hotspots for bacteria, public handles especially. Because of the frequent and inevitable use of most door handles, it can often be expected that bacteria are present.

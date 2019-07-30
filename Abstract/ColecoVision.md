@@ -1,0 +1,1 @@
+The COLECOVISION is Coleco Industries' second-generation home video-game console that was released in August 1982. The ColecoVision offered a closer experience to more powerful arcade game systems compared to competitors such as the Atari 2600 and Atari 5200, along with the means to expand the system's basic hardware.

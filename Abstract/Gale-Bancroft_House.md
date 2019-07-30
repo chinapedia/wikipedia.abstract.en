@@ -1,0 +1,1 @@
+The GALE-BANCROFT HOUSE is a historic house on Brook Road in Plainfield, Vermont. Built about 1840, it is one of a significant number of period brick houses in the town, unusual given the region's typical dependence on wood products for residential construction. It was listed on the National Register of Historic Places in 1984.[1]

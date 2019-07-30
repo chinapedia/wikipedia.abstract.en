@@ -1,0 +1,1 @@
+CARTER WILLIAM PAGE (born June 3, 1971) is an American petroleum industry consultant and a former foreign-policy adviser to Donald Trump during his 2016 presidential election campaign.[1] Page is the founder and managing partner of Global Energy Capital, a one-man investment fund and consulting firm specializing in the Russian and Central Asian oil and gas business.[2][3][4]

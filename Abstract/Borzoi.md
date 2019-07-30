@@ -1,0 +1,1 @@
+The BORZOI (, literally "fast"), also called the RUSSIAN WOLFHOUND (), is a breed of domestic dog. Descended from dogs brought to Russia from central Asian countries, it is similar in shape to a greyhound, and is also a member of the sighthound family.

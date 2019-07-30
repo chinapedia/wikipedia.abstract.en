@@ -1,0 +1,1 @@
+JOHN KEARNS TETT, & (1916 – 1974) was a Canadian athlete, wartime military pilot, physical fitness educator, and public servant. In the 1950s, he fathered the 5BX (Five Basic Exercises) fitness program developed for the Royal Canadian Air Force (RCAF). The Tett Centre for Creativity and Learning in Kingston, Ontario is named after him.

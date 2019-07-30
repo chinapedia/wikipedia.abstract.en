@@ -1,0 +1,1 @@
+Standard_Normal_Distribution.png, a very common probability density, useful because of the central limit theorem.]] Scatterplot.jpgs are used in descriptive statistics to show the observed relationships between different variables.]]

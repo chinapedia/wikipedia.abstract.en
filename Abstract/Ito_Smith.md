@@ -1,0 +1,1 @@
+ROMARIUS “ITO” SMITH (born September 11, 1995) is an American football running back for the Atlanta Falcons of the National Football League (NFL). He played college football for the Southern Miss Golden Eagles, and was drafted by the Falcons in the fourth round of the 2018 NFL Draft.

@@ -1,0 +1,1 @@
+LLC TURUKHAN AIRLINES () is an airline based in Krasnoyarsk, Russia.[1] Established in 1997 as subsidiary of "Yeniseyskij Meridian" airlines, it became independent in 2001. It operates regional scheduled and charter services in Siberian Federal District.[2]

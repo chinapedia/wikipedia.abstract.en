@@ -1,0 +1,1 @@
+WILLIAM "WILLY" MOSTYN-OWEN (10 May 1929 – 2 May 2011) was a British art historian. He worked for some years with the art expert Bernard Berenson, and was his bibliographer, and later for the auctioneers Christie's.[1]

@@ -1,0 +1,1 @@
+_AMERICAN FABLE_ is a 2016 American thriller film written and directed by Anne Hamilton. The film stars Peyton Kennedy, Richard Schiff, Kip Pardue, Marci Miller, Gavin MacIntosh and Zuleikha Robinson. The film was released on February 17, 2017, by IFC Midnight.

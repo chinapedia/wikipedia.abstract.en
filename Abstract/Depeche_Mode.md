@@ -1,0 +1,1 @@
+DEPECHE MODE () are an English electronic band formed in Basildon, Essex, in 1980. The group currently consists of a trio of Dave Gahan (lead vocals and co-songwriting), Martin Gore (keyboards, guitar, and main songwriting), and Andy Fletcher (keyboards).

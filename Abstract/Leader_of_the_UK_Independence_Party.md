@@ -1,0 +1,1 @@
+The LEADER OF THE UK INDEPENDENCE PARTY is the most senior member of the UK Independence Party (UKIP), a political party founded on 3 September 1993. The party's first leader was its founder, the historian Alan Sked, who resigned in May 1997. Its longest-serving leader was Nigel Farage, from September 2006 to November 2009 and again from November 2010 to September 2016.

@@ -1,0 +1,1 @@
+UNITY [1] is peer education project started in 1996 by Jaap Jamin at the large Amsterdam-based addiction prevention and treatment organisation Jellinek. It has steadily grown to become the Netherlands' largest nightlife peer education initiative, and has similarities with initiatives such as DanceSafe in the United States.

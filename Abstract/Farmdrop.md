@@ -1,0 +1,1 @@
+FARMDROP is an online grocer with a focus on food sourced from local farmers, fishermen and other producers.[1][2] The company now provides farm-to-table foods and fresh fish for consumers in the London area, along with ethically-sourced baby & kids, household and deli products.[3]

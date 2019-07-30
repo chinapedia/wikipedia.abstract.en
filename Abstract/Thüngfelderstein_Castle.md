@@ -1,0 +1,1 @@
+The ruins of THÜNGFELDERSTEIN CASTLE (), also called EBERHARDSTEIN CASTLE (_Burg Eberhardstein_), are the _burgstall_ of a demolished hill castle on a block of rock near Morschreuth in the south German state of Bavaria. The site lies within the market municipality of Gößweinstein in the county of Forchheim.

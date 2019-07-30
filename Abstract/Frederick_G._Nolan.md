@@ -1,0 +1,1 @@
+FREDERICK G. NOLAN (July 5, 1927 – June 4, 2016) was a land surveyor as well as a known Oak Island treasure hunter. He has appeared on the History Channel's TV series about the Island, The Curse of Oak Island, in episodes 7 and 8 of season 3.[1]

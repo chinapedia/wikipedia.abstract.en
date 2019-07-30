@@ -1,0 +1,1 @@
+EYRE STUART BATHURST, also known as STUART EYRE BATHURST (10 December 1815 – 15 March 1900), was an English cleric, and a first-class cricketer active 1836–39 who played for Oxford University. He was born in Marylebone and died in Stone, Staffordshire. He appeared in six first-class matches.[1]

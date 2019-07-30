@@ -1,0 +1,1 @@
+SANT'AGOSTINO is a Roman Catholic church and former monastery located on Via Silvio Pellico, in the historic center of the town of Potenza Picena, province of Macerata, in the region of Marche, Italy. The complex for some years included an elementary school.

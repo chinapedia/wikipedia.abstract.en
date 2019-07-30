@@ -1,0 +1,1 @@
+Robin_Dudding_New_Zealand_literary_editor_1990s.jpg ROBIN NELSON DUDDING (7 December 1935 – 21 April 2008) was a New Zealand literary editor and journalist who founded the influential literary journal _Islands_ (1972–1988).

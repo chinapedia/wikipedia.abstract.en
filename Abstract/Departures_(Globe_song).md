@@ -1,0 +1,1 @@
+"DEPARTURES" (styled "DEPARTURES") is a single by Japanese pop band Globe. It was released on January 1, 1996.[1] It was number-one on the _Oricon_ Weekly Singles Chart.[2] It was the second best-selling single in Japan in 1996, with 2.271 million copies sold[3] and it is the 15th best-selling physical single in Japan, having sold a total of 2.288 million copies.[4]

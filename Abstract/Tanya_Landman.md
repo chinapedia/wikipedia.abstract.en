@@ -1,0 +1,1 @@
+TANYA LANDMAN is an English author of children's and young adult books. She is also a performer and scriptwriter for Storybox Theatre, a puppet theatre based in Devon, England. She is the niece of the actor Robert Shaw.[1]

@@ -1,0 +1,1 @@
+_RANGREZA_ is a 2017 Pakistani musical romantic drama film directed by Amir Mohiuddin, and written by Akhtar Qayyum under the production banner of Vision Art Films.[1] The film features Gohar Rasheed, Bilal Ashraf, Urwa Hocane and Ghana Ali in the main cast. It is also produced by Yasir Mohiuddin and Usman Malkani under the MH Films and Malkani Films respectively.[2][3]

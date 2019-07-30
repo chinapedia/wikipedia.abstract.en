@@ -1,0 +1,1 @@
+INTERSEX people are born with sex characteristics, such as chromosomes, gonads, or genitals that, according to the United Nations Office of the High Commissioner for Human Rights, "do not fit typical binary notions of male or female bodies".[1]

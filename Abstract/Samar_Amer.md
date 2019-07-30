@@ -1,0 +1,1 @@
+SAMAR AMER (born April 4, 1995) is an Egyptian freestyle wrestler. She competed in the women's freestyle 75 kg event at the 2016 Summer Olympics, in which she was eliminated in the round of 32 by Ekaterina Bukina.[1][2]

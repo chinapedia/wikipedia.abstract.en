@@ -1,0 +1,1 @@
+DEEPTI MENON is an Indian author who lives in Thrissur, India. She is the author of _Arms and the Woman_[1][2] and Shadow in the Mirror.[3] Deepti was also the contributing author of Crossed and Knotted, which made it to the Limca Book of Records[4] and A Little Chorus of Love.[5]

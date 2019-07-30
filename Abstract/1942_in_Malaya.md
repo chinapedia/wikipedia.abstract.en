@@ -1,0 +1,1 @@
+This article lists important figures and events in the public affairs of BRITISH MALAYA DURING THE YEAR 1942, together with births and deaths of prominent Malayans. Malaya was occupied by Japanese forces at this time.

@@ -1,0 +1,1 @@
+NORTHERN GREECE NAVAL COMMAND (), formerly the NORTHERN AEGEAN NAVAL COMMAND (Ναυτική Διοίκηση Βορείου Αιγαίου, ΝΔΒΑ), is a regional command of the Hellenic Navy covering the coasts of northern Greece and the northern Aegean Sea, from the Greco-Turkish border at the mouth of the river Evros to Mount Pelion.[1]

@@ -1,0 +1,1 @@
+_BLACK MOR'S ISLAND_ () is a 2004 French animated adventure film directed by Jean-François Laguionie. Set in 1803, it follows a 15-year-old boy who sets out to find a buried pirate treasure. The film was released in France on 11 February 2004.[1]

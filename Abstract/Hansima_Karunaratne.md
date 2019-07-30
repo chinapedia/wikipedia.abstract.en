@@ -1,0 +1,1 @@
+HANSIMA KARUNARATNE (born 4 October 1993) is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against India on 19 February 2016.[2]

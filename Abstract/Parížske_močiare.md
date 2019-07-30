@@ -1,0 +1,1 @@
+PARÍŽSKE MOČIARE is a national nature reserve in the Slovak municipality of Nová Vieska in the Nové Zámky District. The nature reserve covers an area of 184 ha in the Danubian Lowland. It has a protection level of 4 under the slovak nature protection system. The protected area is one of the most valuable and last original localities of waterfowl in the Slovak republic.[1]

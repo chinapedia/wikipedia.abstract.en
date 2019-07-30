@@ -1,0 +1,1 @@
+The MEN'S MADISON was held on 23 October 2016. 17 teams participated over a distance of 50 km (200 laps), with sprints every 10 laps awarding 5, 3, 2 or 1 point to the first four (double in the final sprint); 20 points are also awarded/withdrawn for each lap gained/lost respectively.[1][2]

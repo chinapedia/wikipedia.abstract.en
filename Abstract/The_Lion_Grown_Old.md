@@ -1,0 +1,1 @@
+Leo_senex_griset.jpg The lion grown old is counted among Aesop’s Fables and is numbered 481 in the Perry Index.[1] It is used in illustration of the insults given those who have fallen from power and has a similar moral to the fable of The dogs and the lion's skin. Parallel proverbs of similar meaning were later associated with it.

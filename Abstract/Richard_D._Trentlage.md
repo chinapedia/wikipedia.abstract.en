@@ -1,0 +1,1 @@
+RICHARD DALE TRENTLAGE (December 27, 1928 – September 21, 2016) was an American jingle writer. He wrote jingles for McDonald's, the National Safety Council, and V8, but he is best known for the long-running jingle for Oscar Mayer wieners.[1] Adver/Sonic Productions was formed by Henry Brandon, Trentlage, and Jack Sheer.

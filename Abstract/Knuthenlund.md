@@ -1,0 +1,1 @@
+KNUTHENLUND is a manor house on the island of Lolland in southeastern Denmark. The estate has an area of 960 hectares. It is known for its award-winning goat and sheep milk cheeses. Knuthenlund also produces a range of other food products which are sold through Irma stores as well as to Michelin-starred restaurants in Denmark and abroad.

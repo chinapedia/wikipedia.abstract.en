@@ -1,0 +1,1 @@
+ADAM S. MILLERis an American author of religious criticism and interpretation, with an focus on contemporary Latter-day Saint lay theology. Miller is also a professor of philosophy at Collin College in McKinney, Texas, where he directs the college's honors program.[1][2][3]

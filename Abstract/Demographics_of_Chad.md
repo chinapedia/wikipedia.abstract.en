@@ -1,0 +1,1 @@
+Chad-demography.png, year 2005 ; Number of inhabitants in thousands.]] The people of Chad speak more than 100 different languages and divide themselves into many ethnic groups. However, language and ethnicity are not the same. Moreover, neither element can be tied to a particular physical type.[1]

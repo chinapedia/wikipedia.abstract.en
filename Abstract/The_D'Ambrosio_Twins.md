@@ -1,0 +1,1 @@
+BIANCA D'AMBROSIO and CHIARA D'AMBROSIO (born April 28, 2005), also known collectively as THE D'AMBROSIO TWINS, are American child actresses and musicians. The twins made their acting debut playing Summer Newman on the soap opera _The Young and the Restless_. At the age of 6, Bianca and Chiara began starring together and separately in TV, films, print, music, and video projects.

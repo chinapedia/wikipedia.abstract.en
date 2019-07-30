@@ -1,0 +1,1 @@
+'''Mary Berko ''' (born 1 June 1988) is a Ghanaian footballer who plays as a midfielder for the Ghana women's national football team. She was part of the team at the 2014 African Women's Championship. At the club level, she played for Police Accra in Ghana.[1]

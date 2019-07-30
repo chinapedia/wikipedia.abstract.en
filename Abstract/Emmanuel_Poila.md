@@ -1,0 +1,1 @@
+EMMANUEL POILA (born 16 July 1990) is a Solomon Islands footballer who plays as a defender for Solomon Warriors. He made his debut for the national team on September 7, 2012, in a 2-0 win against Tahiti.

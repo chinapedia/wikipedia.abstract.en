@@ -1,0 +1,1 @@
+IAN GIBSON is a Scottish retired association football (soccer) player. Gibson is most notable for being a regular first team player for Fitzroy United Alexander in the Victorian State League.[1] Gibson is also notable for playing South Melbourne Hellas in the National Soccer League's inaugural season in 1977.[2]

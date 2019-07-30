@@ -1,0 +1,1 @@
+is a large city in Turkey, located in northwestern Anatolia, within the Marmara Region. It is the fourth most populous city in Turkey and one of the most industrialized metropolitan centres in the country. The city is also the administrative centre of Bursa Province.

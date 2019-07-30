@@ -1,0 +1,1 @@
+CECILIA AGUIAR-CURRY (born September 25, 1954) is an American politician serving in the California State Assembly. She is a Democrat representing the 4th Assembly District, encompassing Wine Country and parts of the Sacramento Valley.

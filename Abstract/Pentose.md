@@ -1,0 +1,1 @@
+A PENTOSE is a monosaccharide with five carbon atoms.[1] Pentoses are organized into two groups: Aldopentoses have an aldehyde functional group at position 1. Ketopentoses have a ketone functional group at position 2 or 3. In the cell, pentoses have a higher metabolic stability than hexoses.

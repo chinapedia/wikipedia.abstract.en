@@ -1,0 +1,1 @@
+IRINA PRUIDZE (, born 1976 in Tbilisi, Georgia) is Secretary General of the Georgian Organization of the Scout Movement and the outgoing[1] Regional Chair of the Eurasia Regional Scout Committee of the World Organization of the Scout Movement (WOSM).[2]

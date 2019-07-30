@@ -1,0 +1,1 @@
+Sidi_medien.JPG Sidi_medien_03.JPG VALLITANUS OR VALLIS was an ancient Roman–Berber colonia in Carthage, Tunisia. The town is identified with ruins at Sidi Medien,[1][2] where are located the remains of a Roman theatre,[3][4] and a number of Roman inscriptions bearing witness to the town's name, and some local officials of the time can be found near the theatre.[5][6]

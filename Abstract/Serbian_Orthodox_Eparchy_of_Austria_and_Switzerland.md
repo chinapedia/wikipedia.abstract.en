@@ -1,0 +1,1 @@
+The SERBIAN ORTHODOX EPARCHY OF AUSTRIA AND SWITZERLAND or SERBIAN ORTHODOX DIOCESE OF AUSTRIA AND SWITZERLAND () is a Serbian Orthodox Church diocese, created in 2011, with jurisdiction over Serbian Orthodox churches in Austria, Switzerland, Italy and Malta. Its headquarters are located in Vienna, Austria.[1]

@@ -1,0 +1,1 @@
+CHARLOTTE BRONTË (, commonly ;[1] 21 April 1816 – 31 March 1855) was an English novelist and poet, the eldest of the three Brontë sisters who survived into adulthood and whose novels became classics of English literature.

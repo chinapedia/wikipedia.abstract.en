@@ -1,0 +1,1 @@
+_EUCALYPTUS DOLICHOCERA_ is a species of mallee that is endemic to Western Australia. It has rough, ribbony bark near the base, smooth grey to brownish above, lance-shaped adult leaves, flower buds arranged in groups of seven, yellow to cream-coloured flowers and cup-shaped or urn-shaped fruit.

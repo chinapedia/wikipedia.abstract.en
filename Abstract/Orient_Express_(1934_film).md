@@ -1,0 +1,1 @@
+_ORIENT EXPRESS_ is a 1934 American pre-Code drama film directed by Paul Martin and starring Heather Angel, Norman Foster and Ralph Morgan. It is based on the 1932 novel _Stamboul Train_ by Graham Greene.[1]

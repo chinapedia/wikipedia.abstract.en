@@ -1,0 +1,1 @@
+ArcheryGermanyEarly1980s-2.jpg, West Germany, June 1983]] Brazilarcher.jpg archer competes at Brazil's Indigenous Games]] Bundesarchiv_Bild_135-S-18-07-16,_Tibetexpedition,_Volksfest,_Bogenschütze.jpgan archer, 1938]] Master_Heon_Kim.jpg, traditional Korean archery (Kuk Kung), 2009]] Bogenschützen_in_Ili-Mano_2.jpg

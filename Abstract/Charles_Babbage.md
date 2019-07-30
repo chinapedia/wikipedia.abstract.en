@@ -1,0 +1,1 @@
+CHARLES BABBAGE (; 26 December 1791 – 18 October 1871) was an English polymath.[1] A mathematician, philosopher, inventor and mechanical engineer, Babbage originated the concept of a digital programmable computer.[2]

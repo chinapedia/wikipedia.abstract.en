@@ -1,0 +1,1 @@
+CONNIE BRISCOE (born 1952) is an American writer of romantic and historical fiction. Briscoe's first novel, _Sisters and Lovers_ (1994), sold nearly 500,000 copies in cloth and paperback combined in its first two years.

@@ -1,0 +1,1 @@
+Avalon_Mills_flume_grate.jpg AVALON was a town in Rockingham County, North Carolina, in the United States. It was centered around a textiles mill constructed by Francis Henry Fries at the end of the 19th century. In 1911 the mill burnt down. Most the population moved their homes to Mayodan, North Carolina and the area was left abandoned.

@@ -1,0 +1,1 @@
+WARWICK JUNCTION, also known as Warwick Triangle, is a transportation and trading hub in the city of Durban, South Africa.[1] It is the largest of its kind in South Africa.[2] The area sees up to 460 000 people daily,[3] who come to the area to for its transport interchange and market shopping.[4]

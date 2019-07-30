@@ -1,0 +1,1 @@
+Cannabis in Ireland is illegal for recreational purposes. Use for medical purposes requires case-by-case approval by the Minister for Health.[1] A bill to legalise medical uses of cannabis passed second reading in Dáil Éireann (lower house) in December 2016.[2]

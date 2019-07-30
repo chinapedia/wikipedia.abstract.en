@@ -1,0 +1,1 @@
+PATRICIA MARKS GREENFIELD (born July 18, 1940)[1] is an American psychologist and professor known for her research in the fields of culture and human development. She is a currently a Distinguished Professor of Psychology at the University of California in Los Angeles and recently served as President of the International Association for Cross-Cultural Psychology (2014-2016).

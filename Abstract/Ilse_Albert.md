@@ -1,0 +1,1 @@
+ILSE ALBERT (born 23 April 1929) is an Austrian former swimmer. She competed in the women's 200 metre breaststroke at the 1952 Summer Olympics, where she was eliminated in the preliminary heats.[1] She was one of three swimmers representing Austria at the 1952 Summer Olympics, and the only woman.[2]

@@ -1,0 +1,1 @@
+Nicaragua pursues an independent foreign policy. A participant of the Central American Security Commission (CSC), Nicaragua also has taken a leading role in pressing for regional demilitarization and peaceful settlement of disputes within states in the region.

@@ -1,0 +1,1 @@
+PANDALAM DYNASTY (Malayalam:പന്തളം രാജവംശം) a royal dynasty emerged from a branch of pandya kingdom which existed in Kerala during the Kollam era. They came to Kerala fearing the assault of a ruler. In Kerala they were given land and status by Kaipuzha Thampan (Kunjunni Varma Thampan of Nilambur Kovilakam a landlord who lived in Amanthur Palace at Kaipuzha from Kottayam Kerala.

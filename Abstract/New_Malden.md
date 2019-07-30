@@ -1,0 +1,1 @@
+NEW MALDEN is a suburb of south-west London, England. It is located mainly within the Royal Borough of Kingston upon Thames, with a small part in the London Borough of Merton, and is from Charing Cross.

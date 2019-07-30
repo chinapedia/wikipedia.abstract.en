@@ -1,0 +1,1 @@
+TIMOTHY J. SLOAN (born 1960/61) is an American banker. He was the chief executive officer (CEO) of Wells Fargo from October 2016 and retired on March 28, 2019.[1][2] He had previously served as chief operating officer (COO) and chief financial officer (CFO).[3]

@@ -1,0 +1,1 @@
+PIERRE HENRI STANISLAS D'ESCAYRAC DE LAUTURE, count then marquis of Escayrac, Commandeur of the Légion d'honneur, 19 March 1826 – 18 December 1868) was a 19th-century French explorer, geographer, diplomat and linguist.

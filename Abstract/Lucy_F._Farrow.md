@@ -1,0 +1,1 @@
+LUCY F. FARROW (1851–1911) was an African American holiness pastor who was instrumental in the early foundations of Pentecostalism. She was the first African American person to be recorded as having spoken in tongues, after attending the meetings of Charles Fox Parham, and is credited for introducing William J. Seymour to this understanding.[1]

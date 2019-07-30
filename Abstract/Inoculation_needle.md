@@ -1,0 +1,1 @@
+Tip_of_inoculation_needle.jpg

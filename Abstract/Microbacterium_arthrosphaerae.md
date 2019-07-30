@@ -1,0 +1,1 @@
+_MICROBACTERIUM ARTHROSPHAERAE_ is a Gram-positive and rod-shaped bacterium from the genus of _Microbacterium_ which has been isolated from the pill millipede _Arthrosphaera magna_ in India.[1][2][3][4]

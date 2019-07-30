@@ -1,0 +1,1 @@
+JEAN-MICHEL DAMIAN (8 September 1947 – 1 November 2016) was a French radio and television music journalist. He hosted and produced radio programmes on France Musique from 1980 to 2009. He was the author of two books.

@@ -1,0 +1,1 @@
+ARCH STREET BRIDGE is Parker truss bridge over the Passaic River in Paterson, New Jersey. It was built in 1907 and rehabilitated in 1997. It was the third structure built at the location within a few years, the other having been destroyed by floods in 1902 and 1903.[1][2] The bridge was once a crossing for the Public Service trolley lines.

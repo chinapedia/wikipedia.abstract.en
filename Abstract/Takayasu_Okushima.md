@@ -1,0 +1,1 @@
+is a law professor,[1] President of Hakuoh University,[2] former President of Waseda University,[3] the 10th and present Chief Scout of the Scout Association of Japan since April 1, 2010, and served as the Camp Chief of the 23rd World Scout Jamboree.

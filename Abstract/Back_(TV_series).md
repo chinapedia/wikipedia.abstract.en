@@ -1,0 +1,1 @@
+_BACK_ is a British sitcom starring David Mitchell and Robert Webb.[1] It was filmed and is set in (and around) Stroud, Gloucestershire.[2] The six-part series was created by Simon Blackwell, and premiered on Channel 4 on 6 September 2017.[3] A second series of six episodes was announced in November 2017.[4]

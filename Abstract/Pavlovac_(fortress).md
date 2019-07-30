@@ -1,0 +1,1 @@
+The PAVLOVAC CASTLE was a noble court and one of the largest and most important fortified towns of medieval Bosnia, situated on top of rugged slopes high above the Prača river canyon, near modern days Prača village, in Bosnia and Herzegovina. Fortified castle was a seat of medieval Bosnian noble family Radinović-Pavlović.[1]

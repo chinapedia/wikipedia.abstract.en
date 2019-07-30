@@ -1,0 +1,1 @@
+Below is a list of football players who have gained full international caps whilst contracted (permanently) to Sheffield Wednesday F.C.. The caps column only shows caps won while with Sheffield Wednesday - caps won while with other clubs are not shown.[1][2]

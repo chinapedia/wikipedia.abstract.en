@@ -1,0 +1,1 @@
+MISS WORLD BULGARIA (Bulgarian: Мис Свят България) is a national beauty pageant in Bulgaria. It selects the Bulgarian representatives to compete in two of the Big international beauty pageants in the world Miss World and Miss Universe.

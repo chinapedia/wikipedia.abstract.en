@@ -1,0 +1,1 @@
+Major General SIR LORENZO MOORE KCH CB (_c._ 1765 – April 1837) was a British Army officer who served during the Napoleonic Wars. He also served for four years as Governor of the Greek island of Zante

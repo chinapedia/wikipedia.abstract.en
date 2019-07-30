@@ -1,0 +1,1 @@
+The NITRONIUM ION, , is a cation. It is an onium ion because of its tetravalent nitrogen atom and +1 charge, similar in that regard to ammonium. It is created by the removal of an electron from the paramagnetic nitrogen dioxide molecule, or the protonation of nitric acid (with removal of H₂O).

@@ -1,0 +1,1 @@
+TELECOMMUNICATIONS IN DOMINICA comprises of telephone, radio, television and internet services. The primary regulatory authority is the National Telecommunication Regulatory Commission[1] which regulates all related industries in order to comply with The Telecommunications Act 8 of 2000.

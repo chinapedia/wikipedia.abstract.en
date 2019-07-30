@@ -1,0 +1,1 @@
+THOMAS EDMUND MOONEY (January 21, 1906 – September 14, 1944)[1] was a Canadian chaplain who served in World War II. Mooney was the first Canadian Catholic Chaplain reported killed in action during World War II.[2][3][4] Mooney served as Director of Music at St. Mary's Roman Catholic Cathedral in Islington, Ontario.[5][6]

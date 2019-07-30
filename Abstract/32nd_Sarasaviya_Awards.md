@@ -1,0 +1,1 @@
+The 32ND SARASAVIYA AWARDS festival (Sinhala: 32වැනි සරසවිය සම්මාන උළෙල) were held to honor the best films of both 2007 and 2008 from the Sinhala cinema industry on 2 January 2010 at the Bandaranaike Memorial International Conference Hall, Colombo.[1] The ceremony was hosted by Gamini Samarasinghe. [2]

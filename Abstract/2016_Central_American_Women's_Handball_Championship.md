@@ -1,0 +1,1 @@
+The 2016 CENTRAL AMERICAN WOMEN'S HANDBALL CHAMPIONSHIP took place in Managua, Nicaragua from 22 to 26 November 2016. It acted as a qualifying tournament for the 2017 Pan American Women's Handball Championship.[1][2]

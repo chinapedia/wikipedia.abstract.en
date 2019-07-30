@@ -1,0 +1,1 @@
+The 1989 MID GLAMORGAN COUNTY COUNCIL ELECTION was held in May 1989 and was the fifth full election to Mid Glamorgan County Council.[1] It was preceded by the 1985 election and followed by the 1993 election.

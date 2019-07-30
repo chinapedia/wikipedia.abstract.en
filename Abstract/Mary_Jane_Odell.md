@@ -1,0 +1,1 @@
+MARY JANE NEVILLE ODELL (July 28, 1923 – December 16, 2010) was an American journalist, lecturer, and politician. She received multiple awards during her life, and was inducted into the Iowa Women's Hall of Fame in 1979. In 1980, Odell was appointed Iowa Secretary of State, a position that she held until 1987.

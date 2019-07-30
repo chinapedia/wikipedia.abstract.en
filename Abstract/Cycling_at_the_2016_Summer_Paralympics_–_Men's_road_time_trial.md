@@ -1,0 +1,1 @@
+The MEN'S ROAD TIME TRIAL cycling events at the 2016 SUMMER PARALYMPICS took place on September 17 at Flamengo Park, Pontal. Eleven events took place over twelve classifications. The T1-2 time trial, which took in two classifications, was a 'factored' event, with times adjusted by classification to allow fair competition.

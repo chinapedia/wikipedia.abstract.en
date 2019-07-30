@@ -1,0 +1,1 @@
+SCOTT L. POMEROY is the Bronson Crothers Professor of Neurology and Director of the Intellectual and Developmental Disabilities Research Center of Harvard Medical School, Chairman of the Department of Neurology and Neurologist-in-Chief of Boston Children's Hospital, and an Associate Member of the Broad Institute of MIT and Harvard.

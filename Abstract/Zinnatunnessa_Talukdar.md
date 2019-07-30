@@ -1,0 +1,1 @@
+ZINNATUNNESSA TALUKDAR is a Bangladesh Awami League politician and the former deputy and later full Minister of Primary and Mass Education.[1] She was a former State Minister for Minister of Women and Children Affairs. She was one of the three female ministers out of 43 cabinet ministers.[2][3]

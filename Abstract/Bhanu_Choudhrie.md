@@ -1,0 +1,1 @@
+BHANU CHOUDHRIE (born June 1978) is a British-Indian businessman. He is the founder and executive director of C&C Alpha Group, which has global investments in healthcare, hospitality, banking, real estate, aviation and utilities.[1]

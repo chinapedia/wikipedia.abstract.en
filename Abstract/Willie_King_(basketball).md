@@ -1,0 +1,1 @@
+WILBERT KING (1915–1965) was an American professional basketball player.[1][2] He played in the National Basketball League for the Detroit Gems in the 1946–47 season and averaged 8.2 points per game.[3]

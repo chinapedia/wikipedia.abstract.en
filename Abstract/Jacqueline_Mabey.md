@@ -1,0 +1,1 @@
+Jacqueline_Mabey_talking_at_Franklin_Street_Works_01.jpg JACQUELINE MABEY is an activist and curator most notably recognized for her work with Art+Feminism to help equalize the gender imbalance of Wikipedia editors.[1]

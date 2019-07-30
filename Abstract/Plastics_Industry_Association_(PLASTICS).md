@@ -1,0 +1,1 @@
+The PLASTICS INDUSTRY ASSOCIATION, abbreviated as PLASTICS, is a trade association representing the plastics industry. Founded in 1937 as the Society of the Plastics Industry, Inc., the organization rebranded as the Plastics Industry Association, and PLASTICS for short, in 2016.[1]

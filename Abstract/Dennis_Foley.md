@@ -1,0 +1,1 @@
+DENNIS FOLEY is a former special forces officer who fought in the Vietnam War and is the author of the Jim Hollister series of military fiction novels. Since retiring from the military, he has written for television and film and served as a technical adviser for television and film.

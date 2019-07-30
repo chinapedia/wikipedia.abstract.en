@@ -1,0 +1,1 @@
+FLORIAN RUIZ-PICASSO (born 21 February 1990), better known as FLORIAN PICASSO, is a Vietnamese-French DJ and record producer based in Cannes.[1] He is a great-grandson of the well-known artist, Pablo Picasso.[2][3][4] He gained recognition for collaborations with Martin Garrix and Steve Aoki.[5] In 2016, he was ranked by DJ Mag at 38th on their annual list of Top 100 DJs.[6]

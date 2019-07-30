@@ -1,0 +1,1 @@
+The 2016 BENE LADIES TOUR was the third edition of the BeNe Ladies Tour, a women's cycling stage race in the Netherlands and Belgium. It was rated by the UCI as a category 2.2 race and was held between 15 and 17 July 2016. The race was won by Jolien D'Hoore.[1]

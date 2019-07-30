@@ -1,0 +1,1 @@
+, also known as was the 13th Emperor of Japan, according to the traditional order of succession.[1][2] His reign is conventionally dated as AD 131–191.[3] He is credited with appointing the first provincial governors and district officials.[4]

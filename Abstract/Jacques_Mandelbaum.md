@@ -1,0 +1,1 @@
+JACQUES MANDELBAUM (1 May 1958, Neuilly-sur-Seine) is a French journalist and film critic, currently working for the newspaper _Le Monde_ which he joined in 1995. He is the author of numerous works on the cinema including a biographical book on Jean-Luc Godard.

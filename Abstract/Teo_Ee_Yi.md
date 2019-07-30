@@ -1,0 +1,1 @@
+TEO EE YI (; born 4 April 1993) is a Malaysian badminton player.[1][2] He won his first Grand Prix Gold tournament Bitburger Badminton Open 2016 with his partner Ong Yew Sin. He represented Malaysia in the 2018 Thomas Cup and was partner with Aaron Chia temporarily.

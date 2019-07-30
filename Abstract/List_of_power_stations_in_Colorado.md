@@ -1,0 +1,1 @@
+This is a list of electricity-generating POWER STATIONS IN COLORADO, sorted by type and name. In 2014, Colorado had a total summer capacity of 14,933 MW through all of its power plants.[1] Colorado's energy mix in 2018 was 49% coal, 32% natural gas, 2% hydroelectric and 17% renewables.[2] The leading source of renewable energy was wind.

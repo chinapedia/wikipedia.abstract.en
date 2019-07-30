@@ -1,0 +1,1 @@
+The SIXTH SEASON of _PILIPINAS GOT TALENT_ is a talent reality competition that aired on ABS-CBN from January 6 to April 29, 2018. It aired on Saturdays at 7:00 p.m. and Sundays at 7:30 p.m. (PST).[1][2]

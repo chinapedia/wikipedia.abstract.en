@@ -1,0 +1,1 @@
+M-THEORY is a theory in physics that unifies all consistent versions of superstring theory. The existence of such a theory was first conjectured by Edward Witten at a string theory conference at the University of Southern California in the Spring of 1995. Witten's announcement initiated a flurry of research activity known as the second superstring revolution.

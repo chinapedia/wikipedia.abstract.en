@@ -1,0 +1,1 @@
+WILLIAM R. EADINGTON (1946-2013) was an American economist and the founder of Gambling Studies. He served as the Philip J. Satre chair in Gaming Studies in the Department of Economics and the director of the Institute for the Study of Gambling and Commercial Gaming at the University of Nevada, Reno.

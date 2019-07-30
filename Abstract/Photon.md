@@ -1,0 +1,1 @@
+The PHOTON is a type of elementary particle, the quantum of the electromagnetic field including electromagnetic radiation such as light and radio waves, and the force carrier for the electromagnetic force (even when static via virtual particles). The invariant mass of the photon is zero; it always moves at the speed of light within a vacuum.

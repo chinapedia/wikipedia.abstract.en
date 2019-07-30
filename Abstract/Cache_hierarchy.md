@@ -1,0 +1,1 @@
+CACHE HIERARCHY, or MULTI-LEVEL CACHES, refers to a memory architecture which uses a hierarchy of memory stores based on varying access speeds to cache data. Highly-requested data is cached in high-speed access memory stores, allowing swifter access by central processing unit (CPU) cores.

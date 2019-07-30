@@ -1,0 +1,1 @@
+DAVID EDWARD LUSCOMBE (born July 1938) is professor emeritus of medieval history at the University of Sheffield. He was elected a fellow of the British Academy in 1986. He is also a fellow of the Royal Historical Society and the Society of Antiquaries of London.[1] He is the joint editor of volume four of _The New Cambridge Medieval History_.[2]

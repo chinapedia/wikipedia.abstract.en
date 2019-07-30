@@ -1,0 +1,1 @@
+MADURA S. BALAKRISHNAN (1917–1990)[1] was born and raised in Chennai, Tamil Nadu. He was a well-known botanist and he served various government positions and worked for some time at the University of Pune (Currently known as Savitribai Phule Pune University). He was the student of phycologist Professor M.O.P. Iyengar.

@@ -1,0 +1,1 @@
+AMWA KHAS (PIPARAHI) is a village in Uttar Pradesh state of India. It is located in the Tamkuhi Raj tehsil of Kushinagar district.[1] It is one among the 91 villages of Dudahi block of Kushinagar district.

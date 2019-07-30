@@ -1,0 +1,1 @@
+CARDIFF & MET HOCKEY CLUB, previously known as CARDIFF & UWIC HOCKEY CLUB, is a field hockey club based at the Sport Wales National Centre in Sophia Gardens, Cardiff, Wales. They play in the Men's England Hockey League.

@@ -1,0 +1,1 @@
+ERIC CHOU (, born 22 June 1995) is a Taiwanese singer-songwriter. Chou has been dubbed by the Taiwanese media as "king of the lovelorn people" for his ballads such as "How Have You Been" and "Let's Not Be Friends in the Future".[1][2]

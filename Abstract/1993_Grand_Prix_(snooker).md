@@ -1,0 +1,1 @@
+The 1993 SKODA GRAND PRIX was a professional ranking snooker tournament that took place at The Hexagon in Reading, Berkshire, England. Skoda replaced long-time sponsors Rothmans after 9 years and this year was the last time it was played at the Hexagon. The event started on 11 October 1993 and the televised stages were shown on BBC between 23 and 31 October 1993.

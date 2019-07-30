@@ -1,0 +1,1 @@
+The G-2 VISA is a nonimmigrant visa which allows designated principal resident representatives of foreign governments recognized by the United States to enter into the US.[1] It is similar to a G-1 visa except that individuals admitted on a G-2 are not authorized to work.[2] G-2 visas are identical to G-3 visas.

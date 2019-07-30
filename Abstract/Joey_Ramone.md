@@ -1,0 +1,1 @@
+JEFFREY ROSS HYMAN (May 19, 1951 – April 15, 2001), known professionally as JOEY RAMONE, was an American musician, singer-songwriter, and lead vocalist of the punk rock band the Ramones. Joey Ramone's image, voice, and tenure as frontman of the Ramones made him a countercultural icon.[1]

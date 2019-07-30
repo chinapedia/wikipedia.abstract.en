@@ -1,0 +1,1 @@
+FORREST JAMES ACKERMAN[1] (November 24, 1916 – December 4, 2008) was an American magazine editor, science fiction writer and literary agent, a founder of science fiction fandom, a leading expert on science fiction, horror, and fantasy films,[2] and acknowledged as the world's most avid collector of genre books and movie memorabilia.[3] He was based in Los Angeles, California.

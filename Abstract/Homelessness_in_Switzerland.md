@@ -1,0 +1,1 @@
+HOMELESSNESS IN SWITZERLAND is a known social issue, however, there are few estimates as to the number of Swiss people affected.[1] Homelessness is less visible in Switzerland than in many other Western countries. The majority of homeless people in Geneva are Swiss or French, with a minority from other countries.[2]

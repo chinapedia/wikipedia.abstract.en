@@ -1,0 +1,1 @@
+GREEN MOUNTAIN TRANSIT (GMT) is the regional public transit system based in Burlington, Vermont, which was formed in 2016 through the merger of two more localized transit systems: the Chittenden County Transportation Authority and the Green Mountain Transit Authority.

@@ -1,0 +1,1 @@
+12AE10CompactronTube.jpg COMPACTRONS are a type of thermionic valve, or vacuum tube, which contain multiple electrode structures packed into a single enclosure. They were designed to compete with early transistor electronics and were used in televisions, radios, and similar roles.

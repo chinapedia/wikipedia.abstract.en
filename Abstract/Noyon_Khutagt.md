@@ -1,0 +1,1 @@
+The NOYON KHUTAGT is a monk of the Nyingma school of Tibetan Buddhism in the Gobi region of Mongolia. The present Noyon Khutagt is believed to be the ninth incarnation of the original Mongolian Noyon Khutagt, who himself was believed to be a reincarnation of a much earlier person from the history of Tibetan Hinduism.

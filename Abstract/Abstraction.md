@@ -1,0 +1,1 @@
+ABSTRACTION in its main sense is a conceptual process where general rules and concepts are derived from the usage and classification of specific examples, literal ("real" or "concrete") signifiers, first principles, or other methods.

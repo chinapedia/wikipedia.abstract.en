@@ -1,0 +1,1 @@
+The VALRICO SUBDIVISION is a railroad line owned and operated by CSX Transportation in Central Florida. The line runs from a junction with the CSX S Line in Valrico east and south to Bowling Green for a total of 47 miles. It also junctions with the Plant City Subdivision at Welcome, the Brewster Subdivision at Edison, and the Achan Subdivision at South Mulberry.[1][2]

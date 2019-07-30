@@ -1,0 +1,1 @@
+"WE BELONG" is a song by Australian indie pop band, Sheppard. The song was first released in Australia on 1 November with a worldwide release date scheduled for 11 November, and on 18 November in the United States.[1] The song is the first single from the band's second studio album, _Watching the Sky_ (2018).

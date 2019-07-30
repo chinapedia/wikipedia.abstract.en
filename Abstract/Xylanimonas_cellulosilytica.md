@@ -1,0 +1,1 @@
+_XYLANIMONAS CELLULOSILYTICA_ is a Gram-positive, xylanolytic, aerobic, coccoid and non-motile bacterium from the genus of _Xylanimonas_ which has been isolated from a decayed tree (_Ulmus nigra_) in Salamanca in Spain.[1][2][3][4] _Xylanimonas cellulosilytica_ has the ability to hydrolyze cellulose and xylan.[5]

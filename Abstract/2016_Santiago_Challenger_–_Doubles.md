@@ -1,0 +1,1 @@
+Guillermo Durán and Máximo González were the defending champions but only González chose to defend his title, partnering Sergio Galdós. González lost in the final to Julio Peralta and Horacio Zeballos.

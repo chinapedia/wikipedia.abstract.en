@@ -1,0 +1,1 @@
+_MACHINE SOUL: AN ODYSSEY INTO ELECTRONIC DANCE MUSIC_ is compilation album released by Rhino Records on March 14, 2000. The album explores electronic dance music through various genres and received positive reviews from critics including AllMusic, _Entertainment Weekly_, and _Uncut_.

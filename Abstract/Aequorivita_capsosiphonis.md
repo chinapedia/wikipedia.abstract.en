@@ -1,0 +1,1 @@
+_AEQUORIVITA CAPSOSIPHONIS_ is a Gram-negative and aerobic bacterium from the genus of Aequorivita which has been isolated from the alga Capsosiphon fulvescens from the South Sea in Korea.[1][2][3][4]

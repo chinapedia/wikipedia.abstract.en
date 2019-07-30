@@ -1,0 +1,1 @@
+_CRYPHOECA_ is a genus of araneomorph spiders in the Cybaeidae family, and was first described by Tamerlan Thorell in 1870.[1] The name means hidden, in reference to its preference for hiding under loose bark or in stone walls.[2]

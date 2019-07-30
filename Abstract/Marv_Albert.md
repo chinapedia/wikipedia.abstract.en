@@ -1,0 +1,1 @@
+MARV ALBERT (born MARVIN PHILIP AUFRICHTIG; June 12, 1941) is an American sportscaster. Honored for his work as a member of the Basketball Hall of Fame, he is commonly referred to as "the voice of basketball". From 1967 to 2004, he was also known as "the voice of the New York Knicks". Albert currently works for Turner Sports, serving as lead announcer for NBA games on TNT.

@@ -1,0 +1,1 @@
+JOHN JONES (_c._ 1798/1799, Middlesex – 7 January 1882) was an art collector.[1][2] He bequeathed his collection to the South Kensington Museum (which is now the Victoria and Albert Museum). The collection is regarded as important for the French decorative arts of the 18th century.[3]

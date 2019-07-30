@@ -1,0 +1,1 @@
+The RUNNING RIVER RAINBOWFISH (_Melanotaenia_ sp., also known as the BURDEKIN RAINBOWFISH, HIDDEN VALLEY RAINBOWFISH or ZIG ZAG RAINBOWFISH[1]) is an undescribed species of rainbowfish found only in Running River, part of the Burdekin River catchment in northern Queensland, Australia.

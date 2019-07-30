@@ -1,0 +1,1 @@
+PRITHVI-PALA (IAST: Pṛthvīpāla, r. c. 1080-1090 CE) was an Indian king belonging to the Naddula Chahamana dynasty. He ruled the area around Naddula (present-day Nadol in Rajasthan). He achieved military successes against the Chaulukyas, the Paramaras of Vagada, and a Ghaznavid raider.

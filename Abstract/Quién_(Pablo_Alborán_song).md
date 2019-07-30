@@ -1,0 +1,1 @@
+"QUIÉN" () is a song recorded by the Spanish singer-songwriter Pablo Alborán. The song was released as the third single from his second studio album _Tanto_ (2012). It was released in April 2013 as a digital download in Spain. The single has peaked to number 1 on the Spanish Singles Chart in May 2013.

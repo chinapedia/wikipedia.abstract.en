@@ -1,0 +1,1 @@
+KAMALAPATI PALACE is located on the bridge, between the larger and the smaller lake of Bhopal. Built in 1722, it is named after Rani Kamlapati the widow Gond ruler of Nizam Shah, Chief of Ginnorgarh. The Palace has been designated as a Monument of National Importance by the Archaeological Survey of India (ASI).

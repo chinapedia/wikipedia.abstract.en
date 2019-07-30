@@ -1,0 +1,1 @@
+PENG TSU ANN (born 1936) is a Singaporean mathematician, and the first University of Singapore (now the National University of Singapore, Abbreviation: NUS) graduate to obtain a PhD in mathematics. Peng was the Head of the Department of Mathematics at NUS from 1982 to 1996 and oversaw its rapid growth during the period.[1][2]

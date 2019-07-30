@@ -1,0 +1,1 @@
+_PORTAL: NO ESCAPE_ is a short fan film about the _Portal_ series directed by Dan Trachtenberg. The film was released on August 23, 2011. As of June 2019, the video has received over 23 million views.[1]

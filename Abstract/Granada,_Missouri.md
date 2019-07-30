@@ -1,0 +1,1 @@
+GRANADA is an unincorporated community in northwest Douglas County, Missouri.[1] The community was located on the west bank of Honey Creek (tributary to Beaver Creek) about 1.5 miles north of Missouri Route 14 on county road 14-531.[2][3]

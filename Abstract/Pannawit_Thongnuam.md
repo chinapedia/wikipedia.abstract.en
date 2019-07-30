@@ -1,0 +1,1 @@
+PANNAWIT THONGNUAM (born 24 December 1995) is a Thai male badminton player. He plays in the men's singles.[1] He won his first international title at the 2017 Smiling Fish International tournament.[2] At the Taipei Universiade, he won two bronze medals in the men's singles and team event.[3] He also was the runner-up at the 2015 Mexico City Grand Prix.[4]

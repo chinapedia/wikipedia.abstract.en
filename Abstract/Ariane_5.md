@@ -1,0 +1,1 @@
+ARIANE 5 is a European heavy-lift launch vehicle that is part of the Ariane rocket family, an expendable launch system designed by the French government space agency Centre national d'études spatiales (CNES). It is used to deliver payloads into geostationary transfer orbit (GTO) or low Earth orbit (LEO).

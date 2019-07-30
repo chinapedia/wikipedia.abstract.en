@@ -1,0 +1,1 @@
+KALYPPO is a fruit juice manufactured by the Ghanaian company _Aquafresh Limited_.[1] [2] It is the preferred locally manufactured juice box for teens and young adults. The makers of Kalyppo also manufacture Frutelli.

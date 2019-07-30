@@ -1,0 +1,1 @@
+NATIONAL HIGHWAY 713, commonly referred to as NH 713 is a National Highway in North East India.[1][2] It is a spur road of National Highway 13.[3] NH-713 traverses the state of Arunachal Pradesh in India.[4] This highway connects Joram and Koloriang via Palin in Arunachal Pradesh.[5]

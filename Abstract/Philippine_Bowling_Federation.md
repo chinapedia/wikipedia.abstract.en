@@ -1,0 +1,1 @@
+The PHILIPPINE BOWLING FEDERATION (PBF) is a duly-accredited governing body of Tenpin Bowling in the Philippines. PBF is currently recognized by the Philippine Olympic Committee, Philippine Sports Commission, Asian Bowling Federation, and World Bowling.[1]

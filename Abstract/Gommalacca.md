@@ -1,0 +1,1 @@
+_GOMMALACCA_ (Italian for "Shellac") is a studio album by Italian singer-songwriter Franco Battiato, issued in 1998. The album was described as "vigorous and inspired [...] with hard and distorted sounds and bold samples set in lavish arrangements."[1]

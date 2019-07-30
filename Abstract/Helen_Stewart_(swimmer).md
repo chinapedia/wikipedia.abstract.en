@@ -1,0 +1,1 @@
+HELEN STEWART (born 1938) is a Canadian former swimmer. She competed in two events at the 1956 Summer Olympics. After her swimming career, she was a member of the Canadian women's volleyball team at the 1967 Pan American Games (finished sixth) and the 1971 Pan American Games (placed fifth). She is the sister of Mary Stewart.[1]

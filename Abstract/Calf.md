@@ -1,0 +1,1 @@
+New_Forest_calf.jpg, England]] A CALF (plural, CALVES) is the young of domestic cattle. Calves are reared to become adult cattle, or are slaughtered for their meat, called veal, and for their calfskin.

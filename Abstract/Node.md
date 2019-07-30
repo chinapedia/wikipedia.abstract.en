@@ -1,0 +1,1 @@
+In general, a NODE is a localized swelling (a "knot") or a point of intersection (a vertex). Node may refer to:

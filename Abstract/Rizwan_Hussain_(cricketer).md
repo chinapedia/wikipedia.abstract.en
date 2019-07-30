@@ -1,0 +1,1 @@
+RIZWAN HUSSAIN (born 26 April 1996) is a Pakistani cricketer.[1] He made his first-class debut for Lahore Whites in the 2016–17 Quaid-e-Azam Trophy on 22 October 2016.[2] He was the leading run-scorer for Lahore Whites in the 2017–18 Quaid-e-Azam Trophy, with 497 runs in eight matches.[3]

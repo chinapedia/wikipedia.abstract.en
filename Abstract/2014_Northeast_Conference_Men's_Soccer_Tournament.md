@@ -1,0 +1,1 @@
+The 2014 NORTHEAST CONFERENCE MEN'S SOCCER TOURNAMENT, was the twenty sixth edition of the tournament. It determined the Northeast Conference's automatic berth into the 2014 NCAA Division I Men's Soccer Championship. St. Francis Brooklyn entered the tournament as the defending champions.

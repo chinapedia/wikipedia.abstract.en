@@ -1,0 +1,1 @@
+UTC }}Palau_and_oceania.jpg The Republic of Palau consists of eight principal islands and more than 250 smaller ones lying roughly 500 miles southeast of the Philippines, in Oceania. The islands of Palau constitute the westernmost part of the Caroline Islands chain. The country includes the World War II battleground of Peleliu and world-famous rock islands.[1]

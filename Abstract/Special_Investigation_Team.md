@@ -1,0 +1,1 @@
+Training_scene_of_the_hostage_rescue_operators_of_the_Kumamoto_Prefectural_Police.png PPH firing their Beretta 92 in a shooting range.]] The are specialized detective units of the Prefectural police headquarters (PPH) of Japan, mandated for critical incidents including crime investigation and even SWAT operations.

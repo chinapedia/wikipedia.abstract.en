@@ -1,0 +1,1 @@
+In physics, MOTION is the change in position of an object with respect to its surroundings in a given interval of time. Motion is mathematically described in terms of displacement, distance, velocity, acceleration, and speed. Motion of a body is observed by attaching a frame of reference to an observer and measuring the change in position of the body relative to that frame.

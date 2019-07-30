@@ -1,0 +1,1 @@
+The _UNIVERSITY MISSOURIAN_ newspaper ran from 1908 to 1916. This newspaper started the same year the University of Missouri School of Journalism opened. The _University Missourian_ provided practical experience for writing articles for journalism students at the university. This would eventually become the _Missourian_ newspaper as it is printed today.[1]

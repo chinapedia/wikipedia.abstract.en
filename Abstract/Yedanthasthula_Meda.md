@@ -1,0 +1,1 @@
+_YEDANTHASTHULA MEDA_ (English: SEVEN STORIED BUILDING) is a 1980 Telugu drama film, produced under the Jhansi Enterprises banner[1] and directed by Dasari Narayana Rao.[2] It stars Akkineni Nageswara Rao, Sujatha, Jaya Sudha in the lead roles and music composed by Chakravarthy.[3] The film was remade as Hindi movie _Pyaasa Sawan_ (1981).

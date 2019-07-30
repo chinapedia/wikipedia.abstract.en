@@ -1,0 +1,1 @@
+AFRICA CONTINENTAL TEAM BADMINTON CHAMPIONSHIPS is a continental stage tournament of Thomas and Uber Cups, organized by the Badminton Confederation of Africa (BCA), to crown the best national men's and women's badminton teams in Africa.[1] The winner of this tournament will be represented BCA at the Thomas and Uber Cup finals.[2][3]

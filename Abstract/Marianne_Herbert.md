@@ -1,0 +1,1 @@
+MARIANNE THERESA HERBERT (born 2 December 1981) is an Irish former cricketer. She played fifteen Women's One Day International matches for Ireland women's national cricket team.[1] She was part of Ireland's squad for the 2005 Women's Cricket World Cup.

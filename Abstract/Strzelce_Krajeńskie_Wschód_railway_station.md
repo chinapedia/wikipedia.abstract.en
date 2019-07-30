@@ -1,0 +1,1 @@
+STRZELCE KRAJEŃSKIE WSCHÓD RAILWAY STATION is a railway station serving the towns of Zwiezyn and Strzelce Krajeńskie, in the Lubusz Voivodeship, Poland. The station is located on the Tczew–Kostrzyn railway and the now closed Strzelce Krajeńskie Wschód–Strzelce Krajeńskie railway. The train services are operated by PKP, Przewozy Regionalne and Arriva.

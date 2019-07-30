@@ -1,0 +1,1 @@
+The ST. ALBANS HISTORIC DISTRICT encompasses most of the historic commercial core of the city of St. Albans, Vermont. The district includes the historic town common (Taylor Park), which acts as its focal center, and commercial and civic architecture dating from the early 19th to early 20th centuries. The district was listed on the National Register of Historic Places in 1980.[1]

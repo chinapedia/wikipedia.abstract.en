@@ -1,0 +1,1 @@
+The 1934 ARIZONA GUBERNATORIAL ELECTION took place on November 6, 1934. Incumbent Governor Benjamin Baker Moeur ran for reelection, he was challenged by former governor George W. P. Hunt and future Governor Rawghlie Clement Stanford in the Democratic primary, but he defeated both of them by a comfortable margin.

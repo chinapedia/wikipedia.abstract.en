@@ -1,0 +1,1 @@
+LIN MEIRING (born 22 October 1933) is a South African former swimmer. He competed in the men's 100 metre backstroke at the 1952 Summer Olympics. Meiring finished fourth in the 1954 British Empire and Commonwealth Games 110 yards backstroke.[1]

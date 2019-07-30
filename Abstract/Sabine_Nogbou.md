@@ -1,0 +1,1 @@
+'''Sabine Nogbou ''' (born 8 June 1990) is an Ivorian footballer who plays as a midfielder for the Ivory Coast women's national football team. She was part of the team at the 2014 African Women's Championship. On club level, she played for US Saint-Maur in France.[1]

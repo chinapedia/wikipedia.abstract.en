@@ -1,0 +1,1 @@
+The SOUTH INDIAN DIASPORA () ()()()comprises people who have emigrated from South Indian states to other Indian states and other countries, and people of South Indian descent born or residing in other Indian stats and other countries.

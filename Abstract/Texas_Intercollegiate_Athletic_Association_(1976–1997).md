@@ -1,0 +1,1 @@
+The TEXAS INTERCOLLEGIATE ATHLETIC ASSOCIATION (TIAA) was an NCAA Division III college athletic conference that operated from 1976 to 1997. It's mebers were all locaed in the US State of Texas. When the association dissolved in 1997, most of the teams joined the newly formed American Southwest Conference which included teams from other states.

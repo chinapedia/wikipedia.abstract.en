@@ -1,0 +1,1 @@
+ISAIAH 6 is the sixth chapter of the Book of Isaiah in the Hebrew Bible or the Old Testament of the Christian Bible. This book contains the prophecies spoken by the prophet Isaiah, and is a part of the Book of the Prophets.[1] It records the calling of Isaiah to be the messenger of God to the people of Israel.

@@ -1,0 +1,1 @@
+JUAN FARROW is a prominent African-American tennis player and coach. He was launched in his tennis career by a neighbor in Lynchburg, Virginia, Dr. Robert Walter Johnson, who also mentored Arthur Ashe and Althea Gibson.

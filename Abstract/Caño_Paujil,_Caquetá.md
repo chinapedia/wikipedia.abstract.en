@@ -1,0 +1,1 @@
+Caño Paujil}} CAÑO PAUJIL is a waterfall in the Colombian department of CAQUETÁ. It is located at an altitude of in the Caquetá River, close to the municipalities Araracuara, Caquetá and Puerto Santander, Amazonas.[1][2]

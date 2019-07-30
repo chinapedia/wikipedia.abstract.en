@@ -1,0 +1,1 @@
+ST. VINCENT CHURCH (Danish: Sankt Vincent Kirke) is a parish of the Roman Catholic Church in Helsingør, Denmark. The church, consecrated in 1930, is the only Roman Catholic church in North Zealand. It is located in Nygade, opposite Helsingør Cemetery. It is dedicated to the French saint Vincent de Paul and administered by the Vincentian Fathers.

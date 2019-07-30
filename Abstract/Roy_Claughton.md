@@ -1,0 +1,1 @@
+ROY FREDERICK CLAUGHTON (14 August 1927 – 26 April 2012) was an Australian politician who served as a Labor Party member of the Legislative Council of Western Australia from 1968 to 1980, representing North Metropolitan Province.

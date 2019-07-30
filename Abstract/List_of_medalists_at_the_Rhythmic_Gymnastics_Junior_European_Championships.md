@@ -1,0 +1,1 @@
+This is a LIST OF MEDALISTS AT THE RHYTHMIC GYMNASTICS JUNIOR EUROPEAN CHAMPIONSHIPS, organized by the European Union of Gymnastics since 1987.

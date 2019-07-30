@@ -1,0 +1,1 @@
+The PREMIER LEAGUE (often referred to as the ENGLISH PREMIER LEAGUE (EPL) outside England) is the top level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League (EFL).

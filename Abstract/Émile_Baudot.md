@@ -1,0 +1,1 @@
+JEAN-MAURICE-ÉMILE BAUDOT (; 11 September 1845 – 28 March 1903), French telegraph engineer and inventor of the first means of digital communication Baudot code, was one of the pioneers of telecommunications. He invented a multiplexed printing telegraph system that used his code and allowed multiple transmissions over a single line.[1] The baud unit was named after him.

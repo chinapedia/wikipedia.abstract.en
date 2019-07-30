@@ -1,0 +1,1 @@
+_JETSET MAGAZINE_ is an American lifestyle magazine founded in 2006, aimed at those with an affluent lifestyle. It is available as a quarterly print magazine and is distributed in private jets, private yachts, private jet terminals, yacht charters, exclusive resorts and events around the world. It is also available online with content created on a weekly basis.

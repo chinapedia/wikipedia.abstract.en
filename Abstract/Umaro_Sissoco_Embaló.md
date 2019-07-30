@@ -1,0 +1,1 @@
+_This name uses Portuguese naming customs. the first or maternal family name is Sissoco and the second or paternal family name is Embaló._ UMARO MOKHTAR SISSOCO EMBALÓ (born 23 September 1972) is a political scientist and military officer of Guinea Bissau who served as the prime minister of his country between November 18, 2016 and January 16, 2018.[1]

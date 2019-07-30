@@ -1,0 +1,1 @@
+The NEUMOUSTIER ABBEY was built sometime after 1109 in the city of Huy, Belgium. It was an Augustinian abbey dedicated to the Holy Sepulchre and Saint John the Baptist. Today, a mansion with gardens occupies the site.

@@ -1,0 +1,1 @@
+R. SASIKUMAR is a Singaporean former footballer and sports marketing executive. He is known for scoring the winning and solitary goal for Singapore in the 1998 AFF Football Championship finals. He currently manages the Red Card Group, a sports marketing firm.[1]

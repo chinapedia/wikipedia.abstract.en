@@ -1,0 +1,1 @@
+FRANK P. ROSENBERG (22 November 1913 - 18 October 2002) was an American film producer and studio executive.[1] Among his many credits are the films, One-Eyed Jacks, Where The Sidewalk Ends, Critic's Choice, Madigan, The Reincarnation of Peter Proud and The Secret of Convict Lake.

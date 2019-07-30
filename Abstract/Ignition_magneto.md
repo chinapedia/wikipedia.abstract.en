@@ -1,0 +1,1 @@
+Bosch_magneto_circuit_(Army_Service_Corps_Training,_Mechanical_Transport,_1911).jpg Low-tension_magneto_(Rankin_Kennedy,_Modern_Engines,_Vol_II).jpg Magneto_armature_(Army_Service_Corps_Training,_Mechanical_Transport,_1911).jpg Magneto,_longitudinal_section_(Rankin_Kennedy,_Modern_Engines,_Vol_II).jpg

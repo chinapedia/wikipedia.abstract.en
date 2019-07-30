@@ -1,0 +1,1 @@
+In chemistry, the MOLE FRACTION or MOLAR FRACTION (_X_(I)_) is defined as the amount of a constituent (expressed in moles), _n_(i)_ divided by the total amount of all constituents in a mixture (also expressed in moles), _n__(tot):[1]

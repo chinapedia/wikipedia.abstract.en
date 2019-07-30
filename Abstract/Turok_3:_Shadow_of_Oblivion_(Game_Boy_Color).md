@@ -1,0 +1,1 @@
+_TUROK 3: SHADOW OF OBLIVION_ is an action video game developed by Bit Managers and published by Acclaim Entertainment. It was released for the Game Boy Color handheld game console in 2000 alongside its Nintendo 64 counterpart. Although the game is set in the same fictional universe as its counterpart, it features a different storyline.

@@ -1,0 +1,1 @@
+_I BELIEVE_ is a 2016 Singaporean short film directed by then 24-year-old student director Leroy Lim. It tells the story of an unlikely friendship between an autistic youth and a popular role-model, and teaches a precious lesson on love and acceptance.

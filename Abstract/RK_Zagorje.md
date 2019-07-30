@@ -1,0 +1,1 @@
+ROKOMETNI KLUB ZAGORJE () or simply RK ZAGORJE is a women's handball club from Zagorje ob Savi, Slovenia. The club was founded in 1953. Zagorje has won the Slovenian First League in 2016 for the first time in club history.[1]

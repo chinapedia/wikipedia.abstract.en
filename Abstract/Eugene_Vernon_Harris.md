@@ -1,0 +1,1 @@
+EUGENE VERNON HARRIS (February 8, 1913 – May 15, 1978) was an American photographer. His award-winning 1954 photo _Flute Player_ was prominently featured in Edward Steichen's _The Family of Man_ exhibition.

@@ -1,0 +1,1 @@
+The [1] is the highest award for adult leaders in the Scout Association of Japan. It is awarded by the Chief Scout of Japan, awarded for eminent achievement and meritorious service to the Association for a period of at least twenty years. It may be awarded to any member of a Scout Association affiliated with the World Organization of the Scout Movement.[2]

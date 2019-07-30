@@ -1,0 +1,1 @@
+WITOLD KOSIŃSKI (August 13, 1946 in Kraków – March 14, 2014 in Warsaw) was a Polish mathematician and computer scientist. Lead inventor and main propagator of Ordered Fuzzy Numbers (now called after his name: Kosiński's Fuzzy Numbers[1]).

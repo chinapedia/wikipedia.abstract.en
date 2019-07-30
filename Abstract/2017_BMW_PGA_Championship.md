@@ -1,0 +1,1 @@
+The 2017 BMW PGA CHAMPIONSHIP was the 63rd edition of the BMW PGA Championship, an annual golf tournament on the European Tour, held 25–28 May at the West Course of Wentworth Club in Virginia Water, Surrey, England, a suburb southwest of London.

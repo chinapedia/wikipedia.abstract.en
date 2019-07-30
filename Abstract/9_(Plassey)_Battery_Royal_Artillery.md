@@ -1,0 +1,1 @@
+9 (PLASSEY) BATTERY ROYAL ARTILLERY is an air defence battery of the Royal Artillery that serves with the British Army's 12th Regiment Royal Artillery. It is stationed at Baker Barracks, Thorney Island, West Sussex.

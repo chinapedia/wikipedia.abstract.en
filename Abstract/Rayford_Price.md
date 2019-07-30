@@ -1,0 +1,1 @@
+WILLIAM RAYFORD PRICE (born February 9, 1937) is an American politician. He served as a Democratic member in the Texas House of Representatives from 1961 to 1973.[1][2][3] From 1972 to 1973, he served as Speaker of the Texas House of Representatives.[4]

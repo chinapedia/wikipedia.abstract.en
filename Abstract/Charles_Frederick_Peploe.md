@@ -1,0 +1,1 @@
+Charles_Frederick_Peploe.jpg Charles_Frederick_Peploe_vicar_of_Southgate_grave_Southgate_Cemetery_(2).jpg Rev. CHARLES FREDERICK PEPLOE (1865 – 25 June 1937) was an English Anglican clergyman who was vicar of Christ Church, Southgate, from 1909–37. His wife, Kathleen, was a campaigner on behalf of British prisoners of war during the First World War.

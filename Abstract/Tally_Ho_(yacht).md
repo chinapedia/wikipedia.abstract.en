@@ -1,0 +1,1 @@
+_TALLY HO_[1][2] is a 48 ft/14.6m (LOA) by 44ft6/13.5 (LWL) by 12ft10/4m (beam) by 7ft6/2.3m (draft) [3][4] gaff cutter yacht designed by the renowned artist and yacht designer Albert Strange. She was also later named _Escape_, but is now again known as _Tally Ho_.

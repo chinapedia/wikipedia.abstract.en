@@ -1,0 +1,1 @@
+JUNGE JUNGE is a German producer duo made up of DJs Michael Noack and Rochus Grolle. Mainly producing electronic dance music since 2006, they are signed to Universal Music Sweden and Island Records[1] releasing their EP _Beautiful Girl_ on July 15, 2016.[2]

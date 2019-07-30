@@ -1,0 +1,1 @@
+FrenchSchoolHKBluePoolCampus5.jpg Blue Pool Road Campus, Happy Valley]] The French Consulate estimates there are over 25,000 French citizens in Hong Kong.[1] It is the largest French community in Asia.[2]

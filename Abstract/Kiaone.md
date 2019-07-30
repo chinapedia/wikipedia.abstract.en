@@ -1,0 +1,1 @@
+KIAONE are two offshore sandy islets in the Bay of Arguin, Mauritania, the islet is very small. The large islet is 1.2 km to 300 meters long and 12 to 15 meters wide, the smaller one named Petite Kiaone is 450 meters long and 50 meters wide. The island is part of the Banc d'Arguin National Park. During low tilde the islets form a large single island. The islet is not populated.

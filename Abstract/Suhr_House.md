@@ -1,0 +1,1 @@
+The SUHR HOUSE (Danish: Den Suhrske Gård) is a listed Neoclassical property located at Gammeltorv 22 in central Copenhagen, Denmark. The site has been owned by the Suhr family since 1749. The current buildings was built for Peter Bernt Suhr and are now owned by Den Suhrske Stiftelse, a family trust created by his son Theodor Suhr.

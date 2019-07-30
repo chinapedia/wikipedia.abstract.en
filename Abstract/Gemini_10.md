@@ -1,0 +1,1 @@
+GEMINI 10 (officially GEMINI X)[1] was a 1966 crewed spaceflight in NASA's Gemini program. It was the 8th crewed Gemini flight, the 16th crewed American flight, and the 24th spaceflight of all time (includes X-15 flights over ).

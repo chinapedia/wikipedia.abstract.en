@@ -1,0 +1,1 @@
+_AT THE PERSHING, VOL. 2_ is an album by pianist Ahmad Jamal on the Argo label composed of selections from the same January 1958 engagement at the Pershing Lounge of Chicago's Pershing Hotel where the hit album At the Pershing: But Not for Me was recorded.[1]

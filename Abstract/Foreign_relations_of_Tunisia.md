@@ -1,0 +1,1 @@
+Former President Zine El Abidine Ben Ali has maintained Tunisia's long-time policy of seeking good relations with the West, while playing an active role in Arab and African regional bodies. President Habib Bourguiba took a nonaligned stance but emphasized close relations with Europe and the United States.

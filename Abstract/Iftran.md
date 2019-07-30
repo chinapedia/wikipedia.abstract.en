@@ -1,0 +1,1 @@
+IFTRAN (née Iftran) was created in 1972 by E. F. Miller at General Research Corporation, Santa Barbara, California as a mechanism to support structured programming concepts in a FORTRAN-based environment.

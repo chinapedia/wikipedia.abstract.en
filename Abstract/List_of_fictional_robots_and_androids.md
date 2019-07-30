@@ -1,0 +1,1 @@
+Maria_from_metropolis.JPG" from the 1927 movie "Metropolis". Statue in Babelsberg, Germany.]] Robots and androids have frequently been depicted or described in works of fiction. The word "robot" itself comes from a work of fiction, Karel Čapek's play, _R.U.R. (Rossum's Universal Robots)_, written in 1920 and first performed in 1921.

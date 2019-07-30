@@ -1,0 +1,1 @@
+MUHAMMAD SALIH BIN YUSUF, known as DUD MURRA or DUDMURRAH (the lion of Murra), was the last independent ruler, or _kolak_, of the Wadai Empire. He allied with the Sanusi, powerful traders of the eastern Sahara, and with the Sultan of Darfur to resist French aggression in the eastern Sahel, but was defeated. His sultanate was incorporated in the French military territory of Chad.

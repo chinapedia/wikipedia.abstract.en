@@ -1,0 +1,1 @@
+_THE HOLLOW POINT_ is a 2016 American Western film directed by Gonzalo López-Gallego and written by Nils Lyew. The film stars Patrick Wilson, Lynn Collins, Ian McShane, John Leguizamo, Jim Belushi and Michael Flynn. The film was released on December 16, 2016, by Vertical Entertainment.

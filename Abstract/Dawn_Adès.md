@@ -1,0 +1,1 @@
+JOSEPHINE DAWN ADÈS, (_née_ TYLDEN-PATTENSON; born 6 May 1943), also known as DAWN ADES, is a British art historian and academic. She is professor emeritus of art history and theory at the University of Essex.[1]

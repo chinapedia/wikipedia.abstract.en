@@ -1,0 +1,1 @@
+George Washington stood for public office five times, serving two terms in the Virginia House of Burgesses and two terms as President of the United States. He is the only independent to serve as U.S. president and the only person unanimously elected to that office.

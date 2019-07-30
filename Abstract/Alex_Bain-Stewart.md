@@ -1,0 +1,1 @@
+ALEX BAIN-STEWART (born October 1944) is a councilman of the City of London Corporation where he represents the ward of Farringdon Within. He has an MSc in Engineering from the University of Hertfordshire and is a Justice of the Peace. He is a member of The Worshipful Company of Gold and Silver Wyre Drawers.[1]

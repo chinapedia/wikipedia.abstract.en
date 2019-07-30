@@ -1,0 +1,1 @@
+SAMUEL T. CORN (October 8, 1840 – January 28, 1925) was an American jurist who served as a Justice of the Territorial Wyoming Supreme Court from April 14, 1886 to June 21, 1890, and on the Wyoming Supreme Court from September 22, 1894 to January 7, 1895, and again from January 4, 1897 to January 2, 1905.

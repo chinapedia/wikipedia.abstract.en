@@ -1,0 +1,1 @@
+Penry_Powell_Palfrey.jpg Winter_coaching_scene_by_Penry_Powell_Palfrey_1880.jpg Horse_portrait_and_his_lad_by_Penry_Powell_Palfrey.jpeg Minnehaha_by_Penry_Powell_Palfrey_1895.jpg PENRY POWELL PALFREY (6 June 1830 – 22 August 1902) was a British stained glass designer and painter in watercolour of horses and coaching scenes.

@@ -1,0 +1,1 @@
+The SYMPHONY NO. 3 is a composition for orchestra by the American composer Ned Rorem. The work was first performed by the New York Philharmonic under the direction of Leonard Bernstein at Carnegie Hall on April 16, 1959.[1]

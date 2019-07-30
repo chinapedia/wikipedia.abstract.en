@@ -1,0 +1,1 @@
+The JURUÁ RIVER (Portuguese _Rio Juruá_; Spanish _Río Yurúa_) is a southern affluent river of the Amazon River west of the Purus River, sharing with this the bottom of the immense inland Amazon depression, and having all the characteristics of the Purus as regards curvature, sluggishness and general features of the low, half-flooded forest country it traverses.

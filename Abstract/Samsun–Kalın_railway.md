@@ -1,0 +1,1 @@
+The SAMSUN–KALIN RAILWAY is a long railway in the Black Sea Region of Turkey. It connects to the Ankara-Kars railway, near Sivas from the port city of Samsun, running through the Pontic mountains. It is one of two railways that service a Black Sea port, along with the Irmak-Zonguldak railway.

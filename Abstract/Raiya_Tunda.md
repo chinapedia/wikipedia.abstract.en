@@ -1,0 +1,1 @@
+RAIYA TUNDA is a gram panchayat in Taranagar sub district of Churu district in the Indian state of Rajasthan.[1] The village has been chosen as _Adarash Gram_ by _jaynarayan poonia_ the member of parliament of Taranagar sub district. Raiya Tunda is 62 KM away from its district head quarter churu.

@@ -1,0 +1,1 @@
+LUCIE HRSTKOVÁ-PEŠÁNOVÁ ( HRSTKOVÁ; born 16 July 1981) is a Czech alpine ski racer. At the Universiade in Innsbruck in 2005 she won a gold medal in the Super-G. She took part in three Olympic Games.[1]

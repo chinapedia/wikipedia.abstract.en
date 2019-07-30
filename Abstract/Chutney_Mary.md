@@ -1,0 +1,1 @@
+CHUTNEY MARY is a fine dining Indian restaurant in London, founded in 1990 by Ranjit Mathrani & Namita Panjabi through their restaurant company whose current name is MW Eat. It has received considerable critical acclaim over the years. It was originally in Kings Road Chelsea, but relocated to St James's, London in 2015.

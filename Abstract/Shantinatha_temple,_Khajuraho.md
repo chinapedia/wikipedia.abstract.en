@@ -1,0 +1,1 @@
+SHANTINATHA TEMPLE (IAST: Śāntinātha Mandir) is a Jain temple located among the Jain temple cluster in eastern Khajuraho in Madhya Pradesh, India. While its main deity is the Jain tirthankara Shantinatha, it includes 18 shrines with numerous Jain images.

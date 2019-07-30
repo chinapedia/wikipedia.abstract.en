@@ -1,0 +1,1 @@
+Extreme_Unction_Rogier_Van_der_Weyden.jpg'' (1445) by Rogier van der Weyden showing the sacrament of _Extreme Unction_ or _Anointing of the Sick_.]] ANOINTING OF THE SICK, known also by other names, is a form of religious anointing or "unction" (an older term with the same meaning) for the benefit of a sick person. It is practiced by many Christian churches and denominations.

@@ -1,0 +1,1 @@
+The 2016–17 EUROLEAGUE BASKETBALL NEXT GENERATION TOURNAMENT, also called ADIDAS NEXT GENERATION TOURNAMENT by sponsorship reasons, is the 15th edition of the international junior basketball tournament organized by the Euroleague Basketball Company.

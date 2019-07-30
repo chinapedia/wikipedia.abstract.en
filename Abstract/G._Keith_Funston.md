@@ -1,0 +1,1 @@
+GEORGE KEITH FUNSTON (October 12, 1910 – May 15, 1992) was an American businessman who served as President of Trinity College, Hartford from 1945-1951[1] and President of the New York Stock Exchange from 1951-1967.[2]

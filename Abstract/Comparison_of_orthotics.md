@@ -1,0 +1,1 @@
+Podiatrists have molded custom orthotics to address patients foot malformations. Over the years they have developed numerous means to create the basis for their molds; plaster casts, foam box impressions, or three-dimensional computer imaging. None is very accurate: all produce proper fit under 80% of the time.[1][2]

@@ -1,0 +1,1 @@
+OLAF SCHAFTENAAR (born May 15, 1993) is a Dutch professional basketball player for ZTE Real Canoe of the LEB Oro. He played collegiately with Oregon State before returning to the Netherlands to play professionally.

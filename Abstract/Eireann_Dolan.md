@@ -1,0 +1,1 @@
+EIREANN DOLAN is a writer, graduate student in religion,[1] and former broadcaster for CSN California. She is well known for her work around charities and social issues in collaboration with her husband, Washington Nationals pitcher Sean Doolittle.[2][3] In 2015, she hosted the Comcast SportsNet show "Call to the Pen" about the Oakland Athletics.[4]

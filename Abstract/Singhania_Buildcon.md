@@ -1,0 +1,1 @@
+SINGHANIA BUILDCON is ISO certified real estate development company based in Chhattisgarh.[1] Singhania Buildocn was developed by Subodh Singhania in 1993. The company has received several awards in the field of Real Estate and Social works.[2]

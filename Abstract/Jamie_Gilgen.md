@@ -1,0 +1,1 @@
+'''Jamie Gilgen ''' (born ) is a Canadian female road and track cyclist, representing Canada at international competitions. She won the gold medal at the 2016 Pan American Track Cycling Championships in the team pursuit.[1] She won the bronze medal at the 2015 Canadian National Road Race Championships.

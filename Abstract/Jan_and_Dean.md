@@ -1,0 +1,1 @@
+JAN AND DEAN were an American rock duo consisting of WILLIAM JAN BERRY (April 3, 1941 – March 26, 2004) and DEAN ORMSBY TORRENCE (born March 10, 1940). In the early 1960s, they were pioneers of the California Sound and vocal surf music styles popularized by the Beach Boys.

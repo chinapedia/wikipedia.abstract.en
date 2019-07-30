@@ -1,0 +1,1 @@
+In law, TIME CONSTRAINTS are placed on certain actions and filings in the interest of speedy justice, and additionally to prevent the evasion of the ends of justice by waiting until a matter is moot. The penalty for violating a legislative or court-imposed time constraint may be anything from a small fine to judicial determination of an entire case against one's interests.

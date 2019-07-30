@@ -1,0 +1,1 @@
+JOSEPH ENEJOH ABAH (born 16 February 1990) is a Nigerian badminton player.[1] Abah hails from Kogi State, North Central Nigeria. He started playing badminton in 2003. He was selected to represent Nigeria in an international tournament in 2005 at the African Junior Championships in Ethiopia.[2] In 2010, he competed at the Commonwealth Games in New Delhi, India.[3]

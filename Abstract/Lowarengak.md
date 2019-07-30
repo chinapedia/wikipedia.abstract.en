@@ -1,0 +1,1 @@
+LOWARENGAK is a town in northern Kenya, near the Kenyan-Ethiopian border. Lowarengak lies on the northwestern margin of Lake Turkana, between the towns of Todenyang to the north, and Nachukui to the south.[1] The town receives fresh water from the Lowarengak and Nakitokonon rivers that drain from the Lapur hills.[2]

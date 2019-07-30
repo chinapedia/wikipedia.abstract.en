@@ -1,0 +1,1 @@
+LOVE YOUR MELON INC. is a for-profit company based in Minneapolis, Minnesota. Founded in October 2012 by Zach Quinn and Brian Keller,[1] the company designs and markets most notably hats — as well as headbands, scarves, blankets and apparel.

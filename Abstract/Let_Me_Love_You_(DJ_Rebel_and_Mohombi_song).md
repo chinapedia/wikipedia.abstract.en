@@ -1,0 +1,1 @@
+"LET ME LOVE YOU" is a song by Belgian Electro house artist DJ Rebel and Swedish singer Mohombi featuring Shaggy. The song comes from his upcoming album. It contains samples of music from the tradition Algerian song "Abdel Kader" made famous by Algerian artist Khaled. The song was released on 1 August 2016.

@@ -1,0 +1,1 @@
+SARGODHA INSTITUTE OF HEALTH SCIENCES or (SIHS) is an institute of health sciences located in Sargodha, Punjab, Pakistan.[1][2] It offers medical degrees of DPT, BS-MLT, BS-OTT, BS-RIT, BS-HND and BS-BCH.

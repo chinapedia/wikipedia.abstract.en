@@ -1,0 +1,1 @@
+MEDARDO GONZÁLEZ TREJO (Born in San Miguel, on April 16, 1952) is a Salvadoran politician. Since 2004 he is the Secretary General of the Farabundo Martí National Liberation Front (FMLN).[1] He currently serves as a deputy in Legislative Assembly of El Salvador.

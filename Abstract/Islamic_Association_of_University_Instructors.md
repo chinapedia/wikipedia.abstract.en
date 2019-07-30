@@ -1,0 +1,1 @@
+ISLAMIC ASSOCIATION OF UNIVERSITY INSTRUCTORS ( _Anjoman-e Eslâmi-ye Modarreseyn-e Dânešgâh-hâ_) is an Iranian political party of academics affiliated with the Council for Coordinating the Reforms Front.[1]

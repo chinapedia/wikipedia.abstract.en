@@ -1,0 +1,1 @@
+Inverse_Function.png In mathematics, an INVERSE FUNCTION (or ANTI-FUNCTION[1]) is a function that "reverses" another function: if the function applied to an input gives a result of , then applying its inverse function to gives the result , and vice versa, i.e., if and only if .[2][3]

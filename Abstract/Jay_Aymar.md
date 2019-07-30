@@ -1,0 +1,1 @@
+JAY AYMAR is a Canadian singer-songwriter born and raised in Sault Ste. Marie, Ontario. He performs (often with his band [1]) over 120 shows per year at clubs, theatres and festivals primarily throughout Canada (occasionally throughout the United States).

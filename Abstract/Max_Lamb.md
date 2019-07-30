@@ -1,0 +1,1 @@
+MAX LAMB (born 1980) is a British designer[1] who combines traditional - if not prehistoric - design methods with digital design. He is known for employing highly unusual approaches to using natural materials, including pouring pewter onto sand,[2] and volcanic rock. He is also known for his strenuous and lengthy methods of production through his many YouTube videos.

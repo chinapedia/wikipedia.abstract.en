@@ -1,0 +1,1 @@
+GRENVILLE PINTO is a Canadian violinist, recording artist, entertainer and composer based in Toronto, Ontario.[1] He was trained under the Royal Conservatory of Music and was also a member of the Philharmonic Orchestra in Hamilton.[2]

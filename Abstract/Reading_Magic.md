@@ -1,0 +1,1 @@
+_READING MAGIC: HOW YOUR CHILD CAN LEARN TO READ BEFORE SCHOOL - AND OTHER READ-ALOUD MIRACLES_ is a 2001 book by Mem Fox. In it, Fox propounds reading books aloud to children from when they are babies to after they can read by themselves.

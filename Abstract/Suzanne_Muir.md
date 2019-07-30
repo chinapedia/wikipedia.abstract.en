@@ -1,0 +1,1 @@
+'''Suzanne Muir ''' (born July 6, 1970) is a Canadian footballer who played as a defender for the Canada women's national soccer team. She was part of the team at the 1995 FIFA Women's World Cup and 1999 FIFA Women's World Cup.[1]

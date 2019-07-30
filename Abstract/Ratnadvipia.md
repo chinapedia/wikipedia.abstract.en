@@ -1,0 +1,1 @@
+_RATNADVIPIA_ is a genus of air-breathing land snails, terrestrial pulmonate gastropod mollusks in the family Ariophantidae. These snails are endemic to highly fragmented rain forests of Sri Lanka. Sometimes they extend into the dry zones of the island and occasionally found around home gardens.[1]

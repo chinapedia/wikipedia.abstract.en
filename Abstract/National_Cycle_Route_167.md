@@ -1,0 +1,1 @@
+NATIONAL CYCLE NETWORK (NCN) Route 167 is a Sustrans regional route in the Yorkshire Wolds between Kirkham and Huggate. It is one of 5 NCN routes that make up the 146 mile Yorkshire Wolds Cycle Route.[1] Created in 2011[2] it is fully open and signed.

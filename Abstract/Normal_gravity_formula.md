@@ -1,0 +1,1 @@
+NORMAL GRAVITY FORMULAS are mathematical expressions, with which the free-fall acceleration at a point in vicinity to the surface of the earth can be estimated. Along with the mass (known or predicted) of a body, the weight is calculated.

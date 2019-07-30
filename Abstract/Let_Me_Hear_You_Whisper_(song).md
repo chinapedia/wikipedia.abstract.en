@@ -1,0 +1,1 @@
+LET ME HEAR YOU WHISPER is a popular Samoan song that has been covered by a multitude of artists that include Jo Stafford, Nephi Hannemann, the Samoan Surf Riders, Fatu, and many others. The song is a staple in Samoan music and has great popularity in the Pacific. The title in Samoan is "Tele i’a o le sami".

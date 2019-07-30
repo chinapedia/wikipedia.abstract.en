@@ -1,0 +1,1 @@
+Collegiata_di_San_Bartolomeo.jpg The COLLEGIATA DI SAN BARTOLOMEO is the main Roman Catholic parish church on Corso Garibaldi and SP142 in the center of the town of Borgomanero, province of Novara, Piedmont, Italy.

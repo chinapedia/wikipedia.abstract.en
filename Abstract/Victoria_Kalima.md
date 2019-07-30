@@ -1,0 +1,1 @@
+VICTORIA KALIMA PHIRI (4 October 1972 – 11 June 2018)[1] was a Zambian politician who served as Minister of Gender and member of the National Assembly for Kasenengwa from 2016 and 2011, respectively, till her death.

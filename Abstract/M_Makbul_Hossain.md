@@ -1,0 +1,1 @@
+Rear Admiral Mohammad Makbul Hossain, OSP, BCGMS, ndc, psc is a two star rank Bangladesh Navy officer. A Rear Admiral & the present Assistant Chief of Naval Staff (Operation). He previously served as Director General of Bangladesh Coast Guard.[1]

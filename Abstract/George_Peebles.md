@@ -1,0 +1,1 @@
+GEORGE PEEBLES (22 January 1936 – 16 October 2016)[1][2] was a Scottish football player and manager. He played for Dunfermline Athletic for most of his career, helping the club win the 1960–61 Scottish Cup.[3] Peebles provided an assist for the first Dunfermline goal in their cup final victory against Celtic.[4] He moved to Stirling Albion in 1966 for a £4000 transfer fee.[5]

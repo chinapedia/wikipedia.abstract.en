@@ -1,0 +1,1 @@
+HENRI GRIMAL (19 July 1910 – 3 November 2012[1]) was a 20th-century French writer and historian, a specialist of the British Empire, the Commonwealth of Nations and the history of decolonisation. Agrégé d'histoire (1939), he taught at the lycée Janson-de-Sailly, the lycée Henri-IV, the lycée Louis-le-Grand, the Sorbonne, as well as at Princeton University.

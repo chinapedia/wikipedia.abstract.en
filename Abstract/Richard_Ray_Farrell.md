@@ -1,0 +1,1 @@
+RICHARD RAY FARRELL (born 1956) is an American electric blues guitarist, harmonicist, singer and songwriter. Farrell has released ten albums in his own name to date, and has toured widely over a career that started in the mid-1970s.

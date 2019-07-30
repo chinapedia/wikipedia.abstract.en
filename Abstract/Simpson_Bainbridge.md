@@ -1,0 +1,1 @@
+SIMPSON BAINBRIDGE (3 April 1895 – 12 November 1988) was an English professional football outside forward who played in the Football League for Leeds City, Preston North End and South Shields.[1][2][3]

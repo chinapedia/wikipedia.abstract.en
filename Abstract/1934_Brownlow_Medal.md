@@ -1,0 +1,1 @@
+The 1934 BROWNLOW MEDAL was the 11th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Dick Reynolds of the Essendon Football Club won the medal by polling nineteen votes during the 1934 VFL season.[2]

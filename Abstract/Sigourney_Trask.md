@@ -1,0 +1,1 @@
+Miss_sigourney_trask.jpg SIGOURNEY TRASK (June 14, 1849 - March 20, 1936) was an American physician and missionary. She is remembered as being the first woman physician at Foochow, China sent by the Methodist Episcopal Church missionaries.

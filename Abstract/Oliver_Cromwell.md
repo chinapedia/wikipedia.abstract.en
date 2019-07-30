@@ -1,0 +1,1 @@
+OLIVER CROMWELL (25 April 15993 September 1658) was an English military and political leader. He served as Lord Protector of the Commonwealth of England, Scotland, and Ireland "and of the dominions thereto belonging" from 1653 until his death, acting simultaneously as head of state and head of government of the new republic.

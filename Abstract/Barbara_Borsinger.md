@@ -1,0 +1,1 @@
+BARBARA BORSINGER (1892 - 1973) was a nurse from Baden, Switzerland (Aargau), who was active during World War I and World War II in welcoming children, refugees, injured civilians and victims of the World Wars to Switzerland. She founded the Nursery of the Friends of Children's Charity, which was later known as the Clinique des Grangettes,[1] now a private hospital.

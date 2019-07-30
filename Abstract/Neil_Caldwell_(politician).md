@@ -1,0 +1,1 @@
+V. NEIL CALDWELL (born November 13, 1929) is an American politician. He served as a Democratic member in the Texas House of Representatives from 1960 to 1977.[1] From 1987-1988, he was the State Artist of Texas. Caldwell also served as a judge on the 23rd Judicial District of Texas.[2]

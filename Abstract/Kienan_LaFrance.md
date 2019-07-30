@@ -1,0 +1,1 @@
+KIENAN LAFRANCE (born May 16, 1991) is a professional Canadian football running back for the Saskatchewan Roughriders of the Canadian Football League (CFL). He has also played for the Ottawa Redblacks, where he won the 104th Grey Cup in 2016, and for the Winnipeg Blue Bombers, as well as an earlier stint with the Roughriders.

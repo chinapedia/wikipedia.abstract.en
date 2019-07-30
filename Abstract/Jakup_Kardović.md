@@ -1,0 +1,1 @@
+JAKUP KARDOVIĆ or KADROVIĆ or AGOVIĆ (1869–1945) was an Islamic cleric and commander of a detachment of the Muslim militia of Rožaje during the Second World War. In November 1941, Kardović distinguished himself during the Battle for Novi Pazar, when he fought against the Chetniks.

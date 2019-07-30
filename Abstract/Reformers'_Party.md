@@ -1,0 +1,1 @@
+REFORMERS' PARTY[1] of REFORMISTS PARTY[2] () was a political party in Iran, established in late years of Qajar dynasty. It was one of the four major parliamentary parties in early 1920s, along with the Communist Party, Socialist Party and Revival Party.[3]

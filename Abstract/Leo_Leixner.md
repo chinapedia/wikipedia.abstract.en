@@ -1,0 +1,1 @@
+LEO LEIXNER (1908–1942) was a Nazi journalist and war correspondent. He is known for his book _From Lemberg to Bordeaux_, a first-hand account of war in Poland, the Low Countries, and France, 1939–40.

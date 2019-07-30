@@ -1,0 +1,1 @@
+AHMEDUR RASHID CHOWDHURY আহমেদুর রশীদ চৌধুরী (also TUTUL টুটুল) is a Bangladeshi publisher and writer. He won 2016 Pinter International Writer of Courage Award, selected by writer Margaret Atwood,[1] The Jeri Laber international freedom to publish Award,[2] 2016 and Ossietzky Prize 2018[3] His writings were published in newspapers, magazine, and blogs.[4]

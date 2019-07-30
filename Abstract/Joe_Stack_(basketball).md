@@ -1,0 +1,1 @@
+JOSEPH W. STACK (November 5, 1912 – October 13, 1954?) was an American professional basketball player.[1][2] He played in the National Basketball League for Whiting/Hammond Ciesar All-Americans and averaged 4.6 points per game.[3]

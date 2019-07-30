@@ -1,0 +1,1 @@
+ENERGIES FOR ITALY (, EPI) is a centre-right political party in Italy, launched in November 2016[1][2][3] and officially established on 1 April 2017.[4] Its leader is Stefano Parisi, a former director-general of Confindustria and CEO of Fastweb, who was an unsuccessful candidate for mayor in the 2016 Milan municipal election.

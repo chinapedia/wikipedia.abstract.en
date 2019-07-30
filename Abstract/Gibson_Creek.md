@@ -1,0 +1,1 @@
+GIBSON CREEK (also called GIBSON BRANCH) is a stream in Franklin County in the U.S. state of Missouri.[1] It is a tributary to the Meramec River. The stream headwaters arise at and the confluence with the Meramec is at .[2][3]

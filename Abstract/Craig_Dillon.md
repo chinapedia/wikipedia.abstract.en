@@ -1,0 +1,1 @@
+CRAIG DILLON (born 4 February 1992) is a British political advisor and founder of PR agency Westminster Digital.[1] [2] During the 2019 Conservative Party (UK) leadership election he advised the various leadership candidates on their comms and digital strategy.[3] He previously worked for Sky News where he produced entertainment and political reports.[4]

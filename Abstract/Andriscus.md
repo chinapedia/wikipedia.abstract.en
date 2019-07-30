@@ -1,0 +1,1 @@
+Philip_VI_Andriskos.jpg ANDRISCUS (, _Andrískos_), also often referenced as PSEUDO-PHILIP, was the last King of Macedon ( 149–148 BC). A pretender, who claimed to be the son of Perseus of Macedon, he was a fuller from Adramyttium in Aeolis in western Anatolia. His reign lasted just one year and was toppled by the Roman Republic during the Fourth Macedonian War.

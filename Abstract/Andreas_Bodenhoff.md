@@ -1,0 +1,1 @@
+ANDREAS BODENHOFF (5 January 1723 – 8 August 1794) was a Danish merchant, shipowner and ship builder. He has left his name in posterity for reclaiming the area now known as Bodenhoffs Plads on Christianshavn in Copenhagen. He was the largest private shipowner in Copenhagen by 1779.

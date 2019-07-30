@@ -1,0 +1,1 @@
+HEINRICH RUDOLF HERTZ (; ;[1][2] 22 February 1857 – 1 January 1894) was a German physicist who first conclusively proved the existence of the electromagnetic waves theorized by James Clerk Maxwell's electromagnetic theory of light. The unit of frequency, cycle per second, was named the "Hertz" in his honor.[3]

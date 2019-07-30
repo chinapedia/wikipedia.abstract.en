@@ -1,0 +1,1 @@
+PINEDA COVALIN is a Mexican fashion design brand that works to promote Mexican culture on a national and international scale. The brand has been active for over 15 years since its creation and has a presence in multiple continents such as America, Europe and Asia.

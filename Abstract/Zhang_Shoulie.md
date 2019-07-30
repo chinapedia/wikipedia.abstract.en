@@ -1,0 +1,1 @@
+ZHANG SHOULIE (張 壽烈, born ) is a Chinese male former weightlifter, who competed in the 52 kg category and represented China at international competitions. He won the bronze medal in the clean & jerk at the 1991 World Weightlifting Championships lifting 142.5 kg. He participated at the 1988 Summer Olympics in the 52 kg event.[1]

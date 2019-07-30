@@ -1,0 +1,1 @@
+Josh_Kirby.jpg RONALD WILLIAM "JOSH" KIRBY (27 November 1928 – 23 October 2001) was a commercial artist born on the outskirts of Liverpool in the town of Waterloo, Lancashire, in the U.K. With a career spanning 60 years, he is known for being the original artist for Terry Pratchett's Discworld novels, as well as some of science fiction's most acclaimed book cover illustrations.

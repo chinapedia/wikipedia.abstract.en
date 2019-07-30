@@ -1,0 +1,1 @@
+JAMES GRAHAM BLACK (June 22, 1889 – June 29, 1957) was an American politician in the state of Florida. He served in the Florida State Senate from 1953 to 1955 as a Democratic member for the 17th district.[1]

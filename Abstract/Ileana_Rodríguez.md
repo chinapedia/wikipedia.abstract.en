@@ -1,0 +1,1 @@
+ILEANA RODRÍGUEZ (born October 8, 1939 in Chinandega, Nicaragua) is Distinguished Professor Emeritus in Latin American Literatures and Cultures at the Ohio State University, and she is also affiliated with the _Instituto de Historia de Nicaragua y Centroamérica_ (IHNCA).[1]

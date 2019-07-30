@@ -1,0 +1,1 @@
+CHRISTIAN RELIEF FUND (CRF) is a non-profit organization in Amarillo, TX focused on bringing relief to orphans and children in poverty. Through child sponsorship and relief programs, CRF provides food, clean water, education, spiritual training, healthcare, and disaster relief worldwide.[1]

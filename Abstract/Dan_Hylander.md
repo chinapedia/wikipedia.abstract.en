@@ -1,0 +1,1 @@
+Dan_Hylander_2012.jpg DAN OWE MICHAEL HYLANDER known as DAN HYLANDER (born June 21, 1954 in Malmö, Sweden) is a Swedish songwriter, pop and rock singer and guitarist. He has collaborated prominently with Py Bäckman and the band Raj Montana Band, which served as a backing vocal group for both Bäckman and Hylander.

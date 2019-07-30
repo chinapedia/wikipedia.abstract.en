@@ -1,0 +1,1 @@
+was the 44th monarch of Japan,[1] according to the traditional order of succession.[2] She was the only empress regnant in Japan's history to have inherited her title from another empress regnant rather than from a male predecessor.

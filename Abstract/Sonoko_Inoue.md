@@ -1,0 +1,1 @@
+[1] is a Japanese singer, songwriter and actress. She lived in Osaka, Osaka Prefecture until junior high school and moved to the Kantō region when she had a high school opportunity. She is nicknamed and SONKO.

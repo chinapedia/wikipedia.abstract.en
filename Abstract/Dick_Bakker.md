@@ -1,0 +1,1 @@
+Dick-bakker.jpg DICK BAKKER (born 23 May 1947 in Blaricum) is a Dutch composer, conductor and music producer. He succeeded Rogier van Otterloo as conductor of the Metropole Orkest, serving between 1991 and 2005.

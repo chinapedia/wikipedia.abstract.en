@@ -1,0 +1,1 @@
+British science fiction writer Arthur C. Clarke formulated three adages that are known as CLARKE'S THREE LAWS, of which the third law is the best known and most widely cited. They were part of his ideas in his extensive writings about the future.[1] These so-called laws include:

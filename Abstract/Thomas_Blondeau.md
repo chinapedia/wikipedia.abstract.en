@@ -1,0 +1,1 @@
+Thomas_Blondeau_675.jpg THOMAS BLONDEAU (Poperinge, June 21, 1978 - Poperinge, October 20, 2013) was a Flemish writer, poet and journalist. He studied literature at the University of Leuven and the University of Leiden.[1] He wrote for newspapers including Mare, Deng, De Revisor, De Standaard and Dif .[2]

@@ -1,0 +1,1 @@
+KENNETH NEIL CUKIER (born 1968) is an American journalist and author of books on technology and society. He is best known for his work at _The Economist_ and the book _Big Data: A Revolution that Will Transform How We Work, Live and Think_,[1] coauthored with Viktor Mayer-Schönberger and published by Houghton Mifflin Harcourt in 2013.

@@ -1,0 +1,1 @@
+_AMANAT_ (, _Amanat_) is a 2016 Kazakhstani drama film directed by Satybaldy Narymbetov. The film was selected as the Kazakhstani entry for the Best Foreign Language Film at the 89th Academy Awards but it was not nominated.[1]

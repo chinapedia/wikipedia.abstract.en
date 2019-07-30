@@ -1,0 +1,1 @@
+TELEFÓNICA, S.A. () is a Spanish multinational telecommunications company headquartered in Madrid, Spain.[1] It is one of the largest telephone operators and mobile network providers in the world. It provides fixed and mobile telephony, broadband and subscription television, operating in Europe and the Americas.

@@ -1,0 +1,1 @@
+KIRSTEN BROSBØL (born 14 December 1977) is a Danish politician. She has represented the Social Democrats in the Danish parliament () since 2005, and served as Minister for the Environment from 2014 to 2015. In the Danish general election of 2015, she was re-elected to the Folketing as the second representative from the Østjyllands Storkreds district.

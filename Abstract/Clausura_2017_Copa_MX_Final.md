@@ -1,0 +1,1 @@
+The CLAUSURA 2017 COPA MX FINAL was the final of the Clausura 2017 Copa MX, the tenth edition of the Copa MX under its current format and 77th overall organized by the Mexican Football Federation, the governing body of association football in Mexico.

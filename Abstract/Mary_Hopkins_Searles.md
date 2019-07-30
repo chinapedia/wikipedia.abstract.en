@@ -1,0 +1,1 @@
+MARY FRANCES SHERWOOD HOPKINS SEARLES (March 8, 1818 – July 25, 1891) was an American millionaire. During her lifetime, she was one of the richest women in the United States, and used her wealth to realize her architectural interests.

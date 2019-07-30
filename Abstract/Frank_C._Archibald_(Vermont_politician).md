@@ -1,0 +1,1 @@
+Frank_C._Archibald_(Vermont_Attorney_General).jpg

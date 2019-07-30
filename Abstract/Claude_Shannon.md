@@ -1,0 +1,1 @@
+CLAUDE ELWOOD SHANNON (April 30, 1916 – February 24, 2001) was an American mathematician, electrical engineer, and cryptographer known as "the father of information theory".[1][2] Shannon is noted for having founded information theory with a landmark paper, _A Mathematical Theory of Communication_, that he published in 1948.

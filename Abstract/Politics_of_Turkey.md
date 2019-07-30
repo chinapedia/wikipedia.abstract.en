@@ -1,0 +1,1 @@
+The POLITICS OF TURKEY takes place in a framework of a presidential republic, whereby the President of Turkey is the head of government and the head of state who holds executive powers to issue executive decrees, appoint judges and heads of state institutions.

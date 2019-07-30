@@ -1,0 +1,1 @@
+BOB JACKLYN (January 13, 1922 – June 18, 2014) was an Australian cosmic ray physicist, and former head of the Australian Antarctic Division's research program.[1] Mount Jacklyn, located in the Athos Range of Antarctica, is named after him for his important research at Mawson Station in 1956.[2]

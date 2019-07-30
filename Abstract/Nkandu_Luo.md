@@ -1,0 +1,1 @@
+NKANDU PHOEBE LUO (born 21 December 1951) is a Zambian scientist with a PhD in Microbiology and politician who is currently Minister of Livestock and Fisheries. She is a microbiologist who previously served as head of Pathology and Microbiology at the University Teaching Hospital in Lusaka and has carried out extensive research into HIV/AIDS.

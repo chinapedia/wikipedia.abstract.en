@@ -1,0 +1,1 @@
+PIXIE DAVIES is an English child actress who has starred in many notable films and TV series,[1] including _Roald Dahl's Esio Trot_, _The Secret of Crickley Hall,_ _Humans_, _Miss Peregrine's Home for Peculiar Children_, and _Mary Poppins Returns_.

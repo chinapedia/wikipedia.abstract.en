@@ -1,0 +1,1 @@
+SULTANA KAMAL (; 10 December 1952 – 15 August 1975), nicknamed KHUKI, was a Bangladeshi athlete. She was married to Sheikh Kamal, the eldest son of Bangladesh President Sheikh Mujibur Rahman. She was killed during the assassination of Sheikh Mujibur Rahman family.

@@ -1,0 +1,1 @@
+Tour_de_France_1947.png The 1947 Tour de France was the 34th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris with a flat stage on 25 June, and Stage 11 occurred on 7 July with a flat stage to Marseille. The race finished in Paris on 20 July.

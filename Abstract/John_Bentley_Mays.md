@@ -1,0 +1,1 @@
+JOHN BENTLEY MAYS (June 22, 1941 – September 16, 2016) was a Canadian journalist and writer.[1] Best known as an art and architecture columnist for _The Globe and Mail_, he also published a novel and several non-fiction books.

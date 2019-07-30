@@ -1,0 +1,1 @@
+Great_Lakes_from_space_crop_labeled.jpg GreatLakes.A2005027.1635.250m.jpg image of the Great Lakes, January 27, 2005, showing ice beginning to build up around the shores of each of the lakes, with snow on the ground.]] Location_of_the_Great_Lakes_in_North_America.jpg

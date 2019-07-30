@@ -1,0 +1,1 @@
+The 2016 USL PLAYOFFS is a postseason tournament following the 2016 United Soccer League regular season, the second since the league rebranded for the 2015 season. Including USL Pro history, it is the fifth postseason tournament. The tournament began on September 30 and will last until October 23.[1]

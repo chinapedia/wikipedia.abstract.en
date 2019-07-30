@@ -1,0 +1,1 @@
+The 2016 LIMA CHALLENGER is a professional tennis tournament played on clay courts. It is the tenth edition of the tournament which is part of the 2016 ATP Challenger Tour. It takes place in Lima, Peru between October 24 and October 30, 2016.

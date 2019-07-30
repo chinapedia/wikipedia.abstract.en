@@ -1,0 +1,1 @@
+_THE EMPEROR: OWNER OF THE MASK_[1] () is a South Korean television series starring Yoo Seung-ho, Kim So-hyun, Kim Myung-soo, Yoon So-hee, Heo Joon-ho and Park Chul-min. It aired on MBC every Wednesday and Thursday at 22:00 (KST) from May 10, 2017 for 40 episodes.[2][3][4]

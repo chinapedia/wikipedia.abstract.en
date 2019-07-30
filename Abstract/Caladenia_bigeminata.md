@@ -1,0 +1,1 @@
+_CALADENIA BIGEMINATA_ is a plant in the orchid family Orchidaceae and is endemic to the south-west of Western Australia. It has a single erect leaf and one or two white flowers with red markings on a flowering stem up to tall.

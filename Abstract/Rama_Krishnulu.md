@@ -1,0 +1,1 @@
+_RAMA KRISHNULU_ is a 1978 Telugu Action drama film, produced and directed by V. B. Rajendra Prasad under his Jagapathi Art Pictures banner.[1] It stars N. T. Rama Rao, Akkineni Nageswara Rao, Jayasudha, Jaya Prada in the lead roles and music composed by K. V. Mahadevan.[2][3] The film borrows shades of the Hindi movie _Hera Pheri_ (1976).

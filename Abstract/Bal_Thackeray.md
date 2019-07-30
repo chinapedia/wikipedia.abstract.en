@@ -1,0 +1,1 @@
+BAL KESHAV THACKERAY (also known as BALASAHEB THACKERAY; ; 23 January 1926 – 17 November 2012) was an Indian politician who founded the Shiv Sena, a right-wing pro-Marathi[1] and Hindu nationalist party active mainly in the state of Maharashtra.

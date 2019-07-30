@@ -1,0 +1,1 @@
+DAVID ALEXIDZE () is a Georgian artist. His art can most precisely be described as mystic realism. His works are introduced in many catalogues and preserved in various private collections. He is the Dean of the Faculty of Visual arts of Tbilisi State Academy of Arts.

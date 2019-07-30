@@ -1,0 +1,1 @@
+CHUN MYUNG-HOON (born April 6, 1978) is a South Korean singer, rapper, actor and television presenter. He is a member of boy band NRG. He released his single, _Welcome To The Jungle_ on October 19, 2012.[1] He is well known as a cast member on several TV shows, including _Girl Spirit_.

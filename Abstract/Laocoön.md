@@ -1,0 +1,1 @@
+Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg'' in the Vatican]] LAOCOÖN (;[1] , ), the son of Acoetes, is a figure in Greek and Roman mythology and the Epic Cycle.[2] He was a Trojan priest who was attacked, with his two sons, by giant serpents sent by the gods. The story of Laocoön has been the subject of numerous artists, both in ancient and in more contemporary times.

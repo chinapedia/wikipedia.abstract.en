@@ -1,0 +1,1 @@
+The LFA SUPER TAÇA or the _LFA Super Cup_ is an East Timorese football championship contested by the winners of Liga Futebol Amadora and the Taça 12 de Novembro. In the event that a team wins both Liga Futebol Amadora and the Taça 12 de Novembro, the runners up of the Taça 12 de Novembro will play against the winner of Liga Futebol Amadora.

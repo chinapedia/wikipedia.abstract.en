@@ -1,0 +1,1 @@
+YEHUDA FULDA is a businessman involved in various ventures in the US and Israel. He is president of TGX Holdings,[1] a diversified holding company that includes real estate, consumer goods, telecom and venture capital.

@@ -1,0 +1,1 @@
+ROOSEVELT is an unincorporated community in extreme southeastern Douglas County, Missouri, United States.[1] Roosevelt lies on the east bank of Spring Creek on County Road 289, approximately 1.5 miles northeast of the junction of state routes 14 and 181 at Twin Bridges within the Mark Twain National Forest.[2]

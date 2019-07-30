@@ -1,0 +1,1 @@
+_MAHATMUDU_ (English: GREAT PERSON) is a 1976 Telugu drama film, produced and directed by M. S. Gopinath under the Rajeswari Chitra banner.[1] It stars Akkineni Nageswara Rao, Sharada in the lead roles and music composed by T. Chalapathi Rao.[2]

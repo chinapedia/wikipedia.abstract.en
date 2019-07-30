@@ -1,0 +1,1 @@
+'''Stefan Ritter ''' (born ) is a Canadian male track cyclist, representing Canada at international competitions. He won the bronze medal at the 2016 Pan American Track Cycling Championships in the 1 km time trial and in the team sprint.[1] Ritter is the current (2016) UCI junior world champion in the 1 kilometer time trial.

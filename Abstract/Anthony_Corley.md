@@ -1,0 +1,1 @@
+ANTHONY CORLEY (born August 10, 1960) is an American former professional football running back who spend two seasons in the National Football League with the Pittsburgh Steelers in 1984 and the San Diego Chargers in 1985, appearing in a total of 18 career games.[1]

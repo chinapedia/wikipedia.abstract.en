@@ -1,0 +1,1 @@
+_PERFECT IMPERFECTION_ is a 2016 Chinese romantic drama film directed by Chen Bing and starring Ady An and Ahn Jae-hyun.[1] It was released in China on November 25, 2016.[2] It won the Golden Angel Award for Film at the 12th Chinese American Film Festival.[3]

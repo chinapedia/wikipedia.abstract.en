@@ -1,0 +1,1 @@
+'''Carol Howes ''' (born 8 April 1984) is a Zambian footballer who plays as a forward for the Zambia women's national football team. She was part of the team at the 2014 African Women's Championship.[1] On club level she played for Balcatta FC in Australia.[2]

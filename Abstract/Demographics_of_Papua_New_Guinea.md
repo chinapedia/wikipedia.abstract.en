@@ -1,0 +1,1 @@
+The indigenous population of Papua New Guinea is one of the most heterogeneous in the world. Papua New Guinea has several thousand separate communities, most with only a few hundred people. Divided by language, customs, and tradition, some of these communities have engaged in endemic warfare with their neighbors for centuries. It is the second most populous nation in Oceania.

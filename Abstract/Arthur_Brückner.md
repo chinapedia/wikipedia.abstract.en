@@ -1,0 +1,1 @@
+ARTHUR BRÜCKNER (24 August 1877, in Dorpat – 29 March 1975, in Basel) was a German-Swiss ophthalmologist, known for his research in sensory physiology and his studies involving the cytology of the eye.[1]

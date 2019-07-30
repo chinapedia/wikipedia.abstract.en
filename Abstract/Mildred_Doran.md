@@ -1,0 +1,1 @@
+BuhlCA-3CAirsedan.jpg MILDRED ALICE DORAN (10 May 1905 – 16 August 1927) was a Canadian pilot who was the only woman to enter the Dole Air Race in 1927, created to be the first to fly from California to Hawaii. Along with her crew and several other planes, she went missing on that flight.

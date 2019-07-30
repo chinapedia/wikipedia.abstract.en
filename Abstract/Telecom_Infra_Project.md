@@ -1,0 +1,1 @@
+TELECOM INFRA PROJECT (TIP) was formed in 2016 as an engineering-focused, collaborative methodology for building and deploying global telecom network infrastructure, with the goal of enabling global access for all.[1]

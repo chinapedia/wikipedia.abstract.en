@@ -1,0 +1,1 @@
+The PESCHIER HOUSE (Danish: Peschiers Gård) is a listed property at Holmens Kanal in the Old Town of Copenhagen, Denmark. The building is currently part of Danske Bank's headquarters but it has been sold to Standard Life and the bank has announced its plans to move to new premises close to Copenhagen Central Station.

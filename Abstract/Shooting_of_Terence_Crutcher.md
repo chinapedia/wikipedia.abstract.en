@@ -1,0 +1,1 @@
+On September 16, 2016, TERENCE CRUTCHER, a 40-year-old motorist, was shot and killed by police officer Betty Jo Shelby in Tulsa, Oklahoma. He was unarmed during the encounter, in which he was standing near his vehicle in the middle of a street.

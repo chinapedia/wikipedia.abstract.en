@@ -1,0 +1,1 @@
+_THE DOORS_ is the debut album by the American rock band the Doors, recorded in 1966 at Sunset Sound Recorders, Hollywood, California, it was produced by Paul A. Rothchild and released on January 4, 1967. The album features their breakthrough single "Light My Fire" and the lengthy song "The End" with its Oedipal spoken word section.

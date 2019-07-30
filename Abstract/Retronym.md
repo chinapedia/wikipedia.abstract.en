@@ -1,0 +1,1 @@
+A RETRONYM is a newer name for an existing thing that differentiates the original form or version from a more recent one. It is thus a word or phrase created to differentiate between two types, whereas previously (before there were two types) no clarification was required.[1][2]

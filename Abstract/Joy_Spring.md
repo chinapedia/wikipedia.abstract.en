@@ -1,0 +1,1 @@
+"JOY SPRING" is a 1954 jazz composition by Clifford Brown that became his signature work. It is the name he called his wife, Emma LaRue Anderson _(maiden;_ 1933–2005),[1] who he married June 26, 1954 – on her 21st birthday – in Los Angeles.[2]

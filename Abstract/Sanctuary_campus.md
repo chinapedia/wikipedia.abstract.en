@@ -1,0 +1,1 @@
+A SANCTUARY CAMPUS is any college or university, typically in North America and Western Europe, that adopts policies to protect members of the campus community who are undocumented immigrants. The term is modeled after "sanctuary city", a status that has been adopted by over 30 municipalities. Proposed policies on sanctuary campuses include:

@@ -1,0 +1,1 @@
+Napoleon_sainthelene.jpg's Exile on Saint Helena'' by (1820)]] The_First_Night_in_Exile.jpg_. It tells the story of prince Rama, who is wrongly exiled from his father's kingdom, accompanied only by his wife and brother.]] Dante_exile.jpg in Exile_ by ]]

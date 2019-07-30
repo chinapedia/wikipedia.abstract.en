@@ -1,0 +1,1 @@
+Within the United States, the use of asbestos is limited by state and federal regulations and legislation. Improper use of asbestos and injury from exposure is addressed through administrative action, litigation, and criminal prosecution. Injury claims arising from asbestos exposure may be tried as mass torts.

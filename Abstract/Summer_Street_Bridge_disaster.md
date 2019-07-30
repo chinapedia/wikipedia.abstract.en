@@ -1,0 +1,1 @@
+The SUMMER STREET BRIDGE DISASTER occurred on November 7, 1916, when a streetcar loaded with passengers ran off an open drawbridge into Fort Point Channel near downtown Boston, Massachusetts. Forty-six passengers were killed, making it the deadliest disaster in Boston until surpassed by the Cocoanut Grove fire in 1942.

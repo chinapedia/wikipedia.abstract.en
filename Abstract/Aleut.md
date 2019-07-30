@@ -1,0 +1,1 @@
+The ALEUTS (;[1] _Aleúty_), who are usually known in the Aleut language by the endonyms UNANGAN (eastern dialect), UNANGAS (western dialect),[2] Унаӈан (lit. "people", singular is UNANGAX̂[3]), are the indigenous people of the Aleutian Islands.

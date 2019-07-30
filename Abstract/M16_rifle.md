@@ -1,0 +1,1 @@
+The M16 RIFLE, officially designated RIFLE, CALIBER 5.56 MM, M16, is a family of military rifles adapted from the ArmaLite AR-15 rifle for the United States military. The original M16 rifle was a 5.56mm automatic rifle with a 20-round magazine.

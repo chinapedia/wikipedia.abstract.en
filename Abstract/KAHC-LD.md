@@ -1,0 +1,1 @@
+KAHC-LD, virtual channel 43 (UHF digital channel 45), is a digital low-powered television station that is licensed to and located in Sacramento, California, United States. The station is a Stadium affiliate owned by DTV America Corporation, which also owns KFKK-LD of Stockton.[1]

@@ -1,0 +1,1 @@
+VIRGILIO ABELARDO GODOY REYES (1 May 1934 in León – 17 November 2016 in Managua)[1] was a Nicaraguan politician who was the Vice President of his Central American nation from 25 April 1990 to October 1995.[2]

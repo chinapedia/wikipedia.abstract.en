@@ -1,0 +1,1 @@
+ADOLPHUS FREDERICK ROOKE (27 April 1814 – 12 December 1881) was an English-born settler in Van Diemen's Land (later Tasmania) who worked as a brewer and farmer, and was one of the first members elected to the Tasmanian House of Assembly in 1856.

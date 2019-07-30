@@ -1,0 +1,1 @@
+Colonel RODERICK KENDRICK BARNES (23 August 1935 – 19 February 2009) was an officer in the Jamaica Defence Force, a sports administrator, and the father of footballer John Barnes. Ken Barnes represented Jamaica in football in the 1950s.[1]

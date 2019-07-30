@@ -1,0 +1,1 @@
+THIRD PARTY (stylised THIRD ≡ PARTY) is a British progressive house DJ duo consisting of Jonnie Macaire and Harry Bass, based in Essex, London.[1][2][3][4] They are best known for their single "Everyday Of My Life" and the collaboration "Lions in the Wild" with Dutch DJ Martin Garrix.[5][6] They began their musical career as producers by releasing singles and remixes.[7]

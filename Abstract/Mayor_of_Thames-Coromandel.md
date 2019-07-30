@@ -1,0 +1,1 @@
+The MAYOR OF THAMES-COROMANDEL officiates over the Thames-Coromandel District of New Zealand, which is administered by a district countil. The office has existed since 1975, when the Thames Borough and the Coromandel County were amalgamated.

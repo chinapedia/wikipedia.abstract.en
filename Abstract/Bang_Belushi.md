@@ -1,0 +1,1 @@
+RUDOLPH RINCHERE (born January 10, 1978), better known by his stage name BANG BELUSHI (previously SHIM-E-BANGO), is an American underground rapper from Detroit, Michigan. He is a current member of the Fat Killahz and also Obie Trice's hypeman.

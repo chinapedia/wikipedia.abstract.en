@@ -1,0 +1,1 @@
+BEAVER BROOK is a stream that runs through Windham and Scotland, Windham County, Connecticut. The stream is currently 5 miles long. The stream begins at Beaver Brook State Park in Windham, Connecticut, and flows down to Merrick Brook in Scotland, Connecticut. A saw shop is named after the brook, and is located nearby the town line between the two towns.[1][2][3][4][5][6]

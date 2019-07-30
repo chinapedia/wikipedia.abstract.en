@@ -1,0 +1,1 @@
+IFR_in_IMC_over_SLI_into_LGB_on_the_VOR_and_ILS_in_a_172_photo_D_Ramey_Logan.jpg]] INSTRUMENT FLIGHT RULES (IFR) is one of two sets of regulations governing all aspects of civil aviation aircraft operations; the other is visual flight rules (VFR).

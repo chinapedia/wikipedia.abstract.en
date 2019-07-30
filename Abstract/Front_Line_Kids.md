@@ -1,0 +1,1 @@
+_FRONT LINE KIDS_ is a 1942 British comedy film directed by Maclean Rogers and starring Leslie Fuller.[1] It was made at the Riverside Studios in Hammersmith. The film's sets were designed by the art director Andrew Mazzei.

@@ -1,0 +1,1 @@
+SHILLYA also spelled as Shilla or Silla is a village located in Lowa Ramgopalpur Gram Payanchayet in Galsi I CD Block in Bardhaman Sadar North subdivision of Purba Bardhaman district in West Bengal in India.

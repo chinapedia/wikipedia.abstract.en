@@ -1,0 +1,1 @@
+Sucrose_molecule.svg A DISACCHARIDE (also called a DOUBLE SUGAR or _BIVOSE_[1]) is the sugar formed when two monosaccharides (simple sugars) are joined by glycosidic linkage. Like monosaccharides, disaccharides are soluble in water. Three common examples are sucrose, lactose,[2] and maltose.

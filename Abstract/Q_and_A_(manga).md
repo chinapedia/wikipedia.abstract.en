@@ -1,0 +1,1 @@
+is a Japanese shōnen manga series written and illustrated by Mitsuru Adachi published in _Monthly Shōnen Sunday_ from 2009 to 2012. It was one of the first manga to be launched in _Monthly Shōnen Sunday_.[1] The "Q" in the title is for the nickname "Q-chan" for character Hisashi, and the "A" for the main character Atsushi.

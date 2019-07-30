@@ -1,0 +1,1 @@
+AUSTAD is a former municipality in Vest-Agder county, Norway. The municipality existed from 1909 until its dissolution in 1963. The municipality encompassed the area surrounding the Rosfjorden in the southern, coastal part of the present-day municipality of Lyngdal. The administrative centre of the municipality was the village of Austad where Austad Church is located.[1]

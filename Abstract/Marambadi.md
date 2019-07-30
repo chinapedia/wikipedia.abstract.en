@@ -1,0 +1,1 @@
+MARAMBADI is a village in Vedasandur taluk, Dindigul district, Tamil Nadu, India. It has a population of 5,571 per the 2001 national census. The village has several schools and bus service to Dindigul and Vedasandur.

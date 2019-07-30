@@ -1,0 +1,1 @@
+ALTHEA is an extinct town in eastern Ozark County, in the Ozarks of southern Missouri. The GNIS classifies it as a populated place.[1] The location is on the North Fork River at the crossing of Missouri Route H and an elevation of 623 Feet. It is about five miles northeast of Tecumseh.[2][3][4]

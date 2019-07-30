@@ -1,0 +1,1 @@
+LEWIS AND ELIZABETH BOLTON HOUSE, also known as the HERMAN AND JOHANNA WINKELMANN HOUSE and BELLEVIEW FARM, is a historic home located south of Jefferson City, Cole County, Missouri. It was built about 1833, and is a two-story Greek Revival style stone I-house. It has a 1 1/2 to two-story rear ell. It is five bays wide, with a two-story central portico.[1]

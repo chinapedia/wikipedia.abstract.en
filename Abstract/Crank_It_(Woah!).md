@@ -1,0 +1,1 @@
+"CRANK IT (WOAH!)" is a 2016 song by Kideko and George Kwali featuring the vocals of Nadia Rose and Sweetie Irie. The song had been included on multiple house music compilations, most notably _The Annual 2017_ and _Toolroom Miami 2016_. It was included on Rose's album _Highly Flammable_.

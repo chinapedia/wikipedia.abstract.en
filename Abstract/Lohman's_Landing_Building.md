@@ -1,0 +1,1 @@
+LOHMAN'S LANDING BUILDING, also known as JEFFERSON LANDING BUILDING, is a historic commercial building located in Jefferson Landing State Historic Site at Jefferson City, Cole County, Missouri. It was built about 1834, and is a 3 1/2-story, rectangular limestone building. It measures 71 feet, 6 inches, long and 50 feet deep.[1]

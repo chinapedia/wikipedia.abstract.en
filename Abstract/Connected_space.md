@@ -1,0 +1,1 @@
+In topology and related branches of mathematics, a CONNECTED SPACE is a topological space that cannot be represented as the union of two or more disjoint non-empty open subsets. Connectedness is one of the principal topological properties that are used to distinguish topological spaces.

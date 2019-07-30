@@ -1,0 +1,1 @@
+Chiswell_Street_Dining_Rooms,_Barbican,_EC1_(7070197131).jpg

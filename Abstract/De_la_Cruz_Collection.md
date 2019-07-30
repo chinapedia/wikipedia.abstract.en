@@ -1,0 +1,1 @@
+The DE LA CRUZ COLLECTION is an art gallery at 23 NE 41st St, Miami, Florida, owned by the Cuban-born American businessman Carlos de la Cruz and his wife Rosa. It houses their art collection and is open to the public free of charge.

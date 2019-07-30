@@ -1,0 +1,1 @@
+The DUSK MUSIC FESTIVAL is an annual music and arts festival held at Armory Park in Tucson, Arizona. It was founded by Steve Stratigouleas, John Rallis, Page Repp, and Pete Turner in 2016.[1] Dusk Music Festival showcases internationally-known musical artists, as well as local artists from Arizona.

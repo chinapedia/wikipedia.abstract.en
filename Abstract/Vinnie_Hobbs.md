@@ -1,0 +1,1 @@
+VINNIE HOBBS (born March 18 in Okinawa, Japan) is an American film editor known for working with artists such as Kendrick Lamar, Britney Spears, Future, Nicki Minaj, Big Sean, Drake, Kanye West, and Skrillex.[1] He was nominated for MTV's Video Music Award for Best Editing in 2016, 2017 and 2019.[2]

@@ -1,0 +1,1 @@
+PIERRE SALAMA (2 January 1917 – 2 April 2009) was a French historian and archaeologist, specialist of Roman roads in Africa as well as milestones. An epigrapher, numismatist, he was also a specialist of historical geography.

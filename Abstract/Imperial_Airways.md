@@ -1,0 +1,1 @@
+IMPERIAL AIRWAYS was the early British commercial long-range airline, operating from 1924 to 1939 and serving parts of Europe but principally the British Empire routes to South Africa, India and the Far East, including Malaya and Hong Kong.

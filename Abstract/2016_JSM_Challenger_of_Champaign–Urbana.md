@@ -1,0 +1,1 @@
+The 2016 JSM CHALLENGER OF CHAMPAIGN–URBANA is a professional tennis tournament played on hard courts. It was the twenty-first edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Champaign, Illinois, United States between November 14 and November 19, 2016.

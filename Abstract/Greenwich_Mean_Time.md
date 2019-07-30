@@ -1,0 +1,1 @@
+GREENWICH MEAN TIME (GMT) is the mean solar time at the Royal Observatory in Greenwich, London, reckoned from midnight. At different times in the past, it has been calculated in different ways, including being calculated from noon;[1] as a consequence, it cannot be used to specify a precise time unless a context is given.

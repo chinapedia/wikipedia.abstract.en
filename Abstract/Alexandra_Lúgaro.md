@@ -1,0 +1,1 @@
+ALEXANDRA LÚGARO (born June 10, 1981) is a Puerto Rican attorney, businesswoman, and politician who was an official candidate for Governor of Puerto Rico during the 2016 elections. She announced her candidacy on March 17, 2016.[1] Lúgaro obtained a total of 175,831 votes (11.13%).[2]

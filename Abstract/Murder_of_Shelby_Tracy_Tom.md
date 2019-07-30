@@ -1,0 +1,1 @@
+SHELBY TRACY TOM (1963May 27, 2003) was a Canadian transgender woman who was strangled to death in North Vancouver, British Columbia after 29 year old Jatin Patel discovered that Tom was transgender during a sexual encounter.[1]

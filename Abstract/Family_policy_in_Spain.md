@@ -1,0 +1,1 @@
+FAMILY POLICY IN SPAIN refers to the implementation of public policy measures that aim to support the social actions carried out by families, as well as define family roles and relationships within Spain.[1] These laws and services provide Spanish families with provisions regarding parental leave, childcare, family allowances, marriage, divorce, and cohabitation.[2]

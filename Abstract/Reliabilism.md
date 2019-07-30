@@ -1,0 +1,1 @@
+RELIABILISM, a category of theories in the philosophical discipline of epistemology, has been advanced as a theory both of justification and of knowledge. Process reliabilism has been used as an argument against philosophical skepticism, such as the brain in a vat thought experiment.[1] Process reliabilism is a form of epistemic externalism.[2]

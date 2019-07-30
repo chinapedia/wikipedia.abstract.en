@@ -1,0 +1,1 @@
+The CITY CHURCH OF BIEL () is a Swiss Reformed church in Biel/Bienne, Switzerland. Built in the Gothic style, its construction started around 1451 and was mostly complete in 1470. The church is considered one of the most significant late-Gothic churches in Switzerland[1] and is a Swiss Cultural Property of National Significance.[2]

@@ -1,0 +1,1 @@
+INGOGO is an Australian company that specialises in online taxi bookings and payments.[1] Cab drivers process fares using a customised mobile application on Android smartphones.[2] The company services Adelaide, Brisbane, Melbourne, Perth and Sydney.[3][4]

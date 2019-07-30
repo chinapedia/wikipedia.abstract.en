@@ -1,0 +1,1 @@
+NIKOLAY DMITRIEVICH ARSENYEV (, b. circa. 1739 – d. 1796) was a major-general of the Russian Empire, who served during the reign of Catherine the Great (r. 1762–1796). He fought at the Russo-Turkish War of 1768-74, the Russo-Turkish War of 1787-92, the Polish–Russian War of 1792 as well as the Kościuszko Uprising.

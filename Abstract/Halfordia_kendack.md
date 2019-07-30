@@ -1,0 +1,1 @@
+_HALFORDIA KENDACK_ is a rainforest tree in the citrus family, found in eastern Australia. Common names include SAFFRONHEART, KEROSENEWOOD and SOUTHERN GHITTOE. The natural distribution is from Woolgoolga in New South Wales to many parts of coastal Queensland, Torres Strait and also New Caledonia.

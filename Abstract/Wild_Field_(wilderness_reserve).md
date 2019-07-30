@@ -1,0 +1,1 @@
+WILD FIELD ( _Dikoe pole_) is a 300 ha (740 ac) nature reserve near the city of Tula in Tula Oblast in the European part of Russia, approximately 250 km (150 mi) south of Moscow.[1] It was established in 2012 by Russian scientists Sergey Zimov and Nikita Zimov as a companion to Pleistocene Park in Siberia.[2]

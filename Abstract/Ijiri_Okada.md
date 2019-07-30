@@ -1,0 +1,1 @@
+[1], born is a Japanese comedian, impressionist, and television host. His hosting credits include _Gilgamesh LIGHT_, a revival of the 90s show _Gilgamesh Night_,[2] and the Nogizaka46 variety show _NogiBingo!_[3]

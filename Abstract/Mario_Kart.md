@@ -1,0 +1,1 @@
+is a series of go-kart-style racing video games developed and published by Nintendo as spin-offs from its trademark Super Mario series. The first in the series, _Super Mario Kart_, was launched in 1992 on the Super Nintendo Entertainment System to critical and commercial success.[1]

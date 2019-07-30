@@ -1,0 +1,1 @@
+Canadian_Aboriginal_War_Veterans_Memorial_in_Ottawa.jpg NATIONAL ABORIGINAL VETERANS DAY is a memorial day observed in Canada in recognition of aboriginal contributions to military service, particularly in the First and Second World Wars and the Korean War. It occurs annually on 8 November.

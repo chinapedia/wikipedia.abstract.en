@@ -1,0 +1,1 @@
+'''Brigitte Klinz ''' (born 4 May 1962) is a German footballer who played for the Germany women's national football team from 1982–1985, playing 8 matches.[1] On club level she played for SSG 09 Bergisch Gladbach.

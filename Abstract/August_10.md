@@ -1,0 +1,1 @@
+The term 'the 10th of August' is widely used by historians as a shorthand for the Storming of the Tuileries Palace on the 10th of August, 1792, the effective end of the French monarchy until it was restored in 1814.

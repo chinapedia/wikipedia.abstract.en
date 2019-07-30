@@ -1,0 +1,1 @@
+_VOEZ_ (stylized as _VOEZ_) is a rhythm game developed by Rayark Inc., initially released in May 2016 for iOS devices,[1] while an Android version of the game was released one week later in June 2016.[2] In February 2017, it was announced that the game would be released on the Nintendo Switch by Japanese game publisher Flyhigh Works,[3] and was released in March 2017 worldwide.

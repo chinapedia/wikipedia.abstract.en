@@ -1,0 +1,1 @@
+The CROMER SHOAL CHALK BEDS are a chalk reef off the coast of Cromer, Norfolk in the United Kingdom, believed to be the largest chalk reef in Europe.[1] Since January 2016, it has been designated as a Marine Conservation Zone.[2]

@@ -1,0 +1,1 @@
+ELBLĄG (; ; Old Prussian: _Elbings_) is a city in northern Poland on the eastern edge of the Żuławy region with 120,142 inhabitants (December 2018).[1] It is the capital of Elbląg County and has been assigned (since 1999) to the Warmian-Masurian Voivodeship. Previously it was the capital of Elbląg Voivodeship (1975–1998) and a county seat within Gdańsk Voivodeship (1945–1975).

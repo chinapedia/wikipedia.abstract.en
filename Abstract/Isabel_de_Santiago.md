@@ -1,0 +1,1 @@
+ISABEL DE CISNEROS (1666 - ca. 1714) was a Spanish colonial painter born in the colony of Quito (Ecuador). She was the daughter of Miguel de Santiago, one of the most famous colonial Quito School painters. Often referred to as Isabel de Santiago, she however identified herself by Cisneros, a name she inherited from her mother.

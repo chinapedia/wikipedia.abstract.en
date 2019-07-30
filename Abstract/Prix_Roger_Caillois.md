@@ -1,0 +1,1 @@
+The PRIX ROGER CAILLOIS is an annual literary prize established in 1991 in partnership with the PEN Club in France and the as well as the Society of readers and friends of Roger Caillois, awarded to both a Latin American and a French author. Since 2007, the prix Roger Caillois for essay comes in addition to these two prizes.

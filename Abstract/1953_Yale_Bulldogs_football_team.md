@@ -1,0 +1,1 @@
+The 1953 YALE BULLDOGS FOOTBALL TEAM represented Yale University in the 1953 college football season. The Bulldogs were led by second year head coach Jordan Olivar, played their home games at the Yale Bowl and finished the season with a 5–2–2 record.[1][2]

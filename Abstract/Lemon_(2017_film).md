@@ -1,0 +1,1 @@
+_LEMON_ is an American comedy-drama film directed by Janicza Bravo, from a screenplay by Bravo and Brett Gelman. It stars Gelman, Judy Greer, Michael Cera, Shiri Appleby, Fred Melamed, Rhea Perlman, David Paymer, Gillian Jacobs, Jon Daly, Martin Starr, Megan Mullally, Jeff Garlin, Elizabeth De Razzo, Marla Gibbs and Nia Long.

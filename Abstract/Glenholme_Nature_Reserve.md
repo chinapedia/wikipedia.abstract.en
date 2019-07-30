@@ -1,0 +1,1 @@
+GLENHOLME NATURE RESERVE is a privately managed area of grassland, scarp and swamp forest in Kloof, outside of Durban, South Africa.[1] A small stream in the reserve leads to a waterfall and gorge which forms one of the headwaters of the Umbilo River.[2]

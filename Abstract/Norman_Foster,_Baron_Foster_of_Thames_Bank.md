@@ -1,0 +1,1 @@
+NORMAN ROBERT FOSTER, BARON FOSTER OF THAMES BANK, (born 1 June 1935), is an English architect whose company, Foster + Partners, maintains an international design practice famous for high-tech architecture.

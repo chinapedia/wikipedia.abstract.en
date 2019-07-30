@@ -1,0 +1,1 @@
+Selina_Tobaccowala_(21899415458).jpgSELINA TOBACCOWALA is an entrepreneur and software product executive. She cofounded Evite and led teams at Ticketmaster and SurveyMonkey. She currently works at Gixo, a company she cofounded, and serves on the board of Redfin.

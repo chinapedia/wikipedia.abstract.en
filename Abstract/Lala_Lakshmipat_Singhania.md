@@ -1,0 +1,1 @@
+Lakshmipat_Singhania_2010_stamp_of_India.jpg LALA LAKSHMIPAT SINGHANIA (1910–1976) was a pioneering Indian entrepreneur and industrialist. A son of the prominent industrialist Lala Kamlapat Singhania, he was a key architect of J. K. Organisation, one of India's largest business houses, and he endowed the Lakshmipat Singhania Academy.[1]

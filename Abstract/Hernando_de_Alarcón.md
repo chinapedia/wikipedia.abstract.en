@@ -1,0 +1,1 @@
+HERNANDO DE ALARCÓN (born 1500) was a Spanish explorer and navigator of the 16th century, noted for having led an early expedition to the Baja California Peninsula, during which he became one of the first Europeans to ascend the Colorado River from its mouth and perhaps the first to reach Alta California.[1]

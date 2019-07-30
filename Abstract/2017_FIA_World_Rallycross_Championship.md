@@ -1,0 +1,1 @@
+The 2017 FIA WORLD RALLYCROSS CHAMPIONSHIP PRESENTED BY MONSTER ENERGY was the fourth season of the FIA World Rallycross Championship. The season consists of twelve rounds, started on 1 April with the Spanish round at the Circuit de Barcelona-Catalunya and concluded on 12 November at the Killarney Motor Racing Complex in Cape Town, South Africa.

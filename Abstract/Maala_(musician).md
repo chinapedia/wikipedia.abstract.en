@@ -1,0 +1,1 @@
+Evan Sinton, better known by his stage name MAALA (also stylised as MAALA) is a New Zealand singer-songwriter. He is best known for his songs "Touch" and "Kind of Love", and for coming third on the second series of _New Zealand's Got Talent_ in 2012.[1] In 2016, he won Best Male Solo Artist at the New Zealand Music Awards.[2]

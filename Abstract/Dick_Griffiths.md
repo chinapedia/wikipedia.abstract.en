@@ -1,0 +1,1 @@
+DICK GRIFFITHS (born 28 September 1907, date of death unknown) was a Republic of Ireland international footballer. A winger, Griffiths was capped once for the Republic of Ireland at senior level. He made his debut in a 4–2 defeat to Hungary on 16 December 1934.[1]

@@ -1,0 +1,1 @@
+Augustin_Pierre_Bienvenu_Chenu-Fleury.jpg Chenu-Snow.jpg AUGUSTIN PIERRE BIENVENU CHENU, also known as FLEURY CHENU (12 May 1833, Briançon - 9 May 1875, Lyon) was a French painter; known for his local landscapes and hunting scenes.

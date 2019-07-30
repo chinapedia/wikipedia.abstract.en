@@ -1,0 +1,1 @@
+REPTILES are tetrapod animals in the class REPTILIA, comprising today's turtles, crocodilians, snakes, amphisbaenians, lizards, tuatara, and their extinct relatives. The study of these traditional reptile orders, historically combined with that of modern amphibians, is called herpetology.

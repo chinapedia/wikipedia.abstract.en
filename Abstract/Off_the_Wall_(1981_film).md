@@ -1,0 +1,1 @@
+_OFF THE WALL_ is a 1981 Canadian documentary film directed by Derek May and funded and produced by National Film Board of Canada. The film is an anthology of the Toronto art scene, circa 1980-1.[1][2][3] Subjects in the film include art dealer and gallery owner Jack Pollack, artist Mendelson Joe and the art collective General Idea.[4]

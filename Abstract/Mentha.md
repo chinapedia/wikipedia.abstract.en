@@ -1,0 +1,1 @@
+_MENTHA_ (also known as MINT, from Greek ,[1] Linear B _mi-ta_[2]) is a genus of plants in the family Lamiaceae (mint family).[3] The exact distinction between species is unclear; it is estimated that 13 to 24 species exist.[4][5] Hybridization between some of the species occurs naturally and many hybrids, as well as numerous cultivars, are known.

@@ -1,0 +1,1 @@
+The MIXED DOUBLES tournament of the 2016 BWF World Junior Championships is a badminton world junior individual championships for the Eye Level Cups, held on November 8–13.[1] The defending champion of the last edition is ZHENG SIWEI / CHEN QINGCHEN from China.[2] He Jiting and Du Yue of China won the gold medal in this event.[3]

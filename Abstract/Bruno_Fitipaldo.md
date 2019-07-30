@@ -1,0 +1,1 @@
+BRUNO FITIPALDO RODRÍGUEZ (born August 2, 1991) is an Uruguayan-Italian[1] professional basketball player for San Pablo Burgos of the Spanish Liga ACB. Standing at a height of ,[2] he plays at the point guard and shooting guard positions.[3][4][5]

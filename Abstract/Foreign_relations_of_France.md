@@ -1,0 +1,1 @@
+Since 1945 France has been a founding member of the United Nations, of NATO, and of the European Coal and Steel Community (the European Union's predecessor). As a charter member of the United Nations, France holds one of the permanent seats in the Security Council and is a member of most of its specialized and related agencies.

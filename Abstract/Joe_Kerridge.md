@@ -1,0 +1,1 @@
+JOSEPH KERRIDGE (born September 17, 1992) is an American football fullback who is currently a free agent. He played college football at Michigan. Kerridge was signed by the Washington Redskins as an undrafted free agent in 2016.

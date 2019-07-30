@@ -1,0 +1,1 @@
+AGAR EVA INFANZÓN CANEL (January 30, 1857; Coaña, Asturias, Spain - May 2, 1932; Havana, Cuba), best known by her pseudonym Eva Canel, was a writer and journalist, originally from Spain who settled in Cuba.

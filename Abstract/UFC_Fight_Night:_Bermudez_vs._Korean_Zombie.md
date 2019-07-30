@@ -1,0 +1,1 @@
+_UFC FIGHT NIGHT: BERMUDEZ VS. KOREAN ZOMBIE_ (also known as _UFC FIGHT NIGHT 104_) was a mixed martial arts event held by the Ultimate Fighting Championship on February 4, 2017, at Toyota Center in Houston, Texas.[1]

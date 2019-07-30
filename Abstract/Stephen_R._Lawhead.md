@@ -1,0 +1,1 @@
+STEPHEN R. LAWHEAD (born 2 July 1950) is a UK–based American writer[1] known for his works of fantasy, science fiction, and historical fiction, particularly Celtic historical fiction. He has written over 28 novels and numerous children's and non-fiction books.

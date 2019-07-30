@@ -1,0 +1,1 @@
+JOHN A. LANDAU was a member of the Rhodesian Parliament who served as the Chief Scout of the Scout Association of Rhodesia, which has since become the Scout Association of Zimbabwe. In 1975, he was head of the Rhodesian contingent at the 14th World Scout Jamboree in Norway.

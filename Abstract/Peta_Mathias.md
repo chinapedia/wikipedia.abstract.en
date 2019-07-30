@@ -1,0 +1,1 @@
+Peta_Mathias_MNZM.jpg PETA CHRISTINE MATHIAS is a New Zealand food writer and television show presenter and owns a television production company that produces food and travel shows.[1] She is also known for leading gastronomic tours in the south of France, Morocco, Spain and India.[2]

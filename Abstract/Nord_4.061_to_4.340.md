@@ -1,0 +1,1 @@
+NORD 4.061 TO 4.340 were a class of 2-8-0 tender goods locomotives of the Chemins de fer du Nord. At nationalisation on 1 January 1938 they all passed to the SNCF who renumbered them 2-140.A.1 TO 2-140.A.280.

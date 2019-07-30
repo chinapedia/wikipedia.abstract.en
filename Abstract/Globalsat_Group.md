@@ -1,0 +1,1 @@
+GLOBALSAT GROUP is a consortium of companies providing satellite communication services worldwide with headquarters located in the United States.[1] The companies that are currently part of the consortium include:

@@ -1,0 +1,1 @@
+IMAGE AND SCANNER INTERFACE SPECIFICATION (ISIS) is an industry standard interface for image scanning technologies, developed by Pixel Translations in 1990 (which became EMC Corporation's Captiva Software and later acquired by OpenText).

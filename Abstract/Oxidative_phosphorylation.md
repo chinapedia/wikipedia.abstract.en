@@ -1,0 +1,1 @@
+Mitochondrial_electron_transport_chain—Etc4.svg in the cell is the site of oxidative phosphorylation in prokaryotes. The NADH and succinate generated in the citric acid cycle are oxidized, releasing energy to power the ATP synthase.]]

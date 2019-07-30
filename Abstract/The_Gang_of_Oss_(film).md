@@ -1,0 +1,1 @@
+_THE GANG OF OSS_ () is a 2011 Dutch crime drama period film directed by André van Duren starring Sylvia Hoeks and Matthias Schoenaerts. It tells the story of a woman involved with the criminal gangs of the town of Oss in the Netherlands in the 1930s. The film is partly based on real events that caused the fall of the government just before the start of World War II.[1][2]

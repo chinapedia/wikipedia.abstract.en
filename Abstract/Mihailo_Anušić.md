@@ -1,0 +1,1 @@
+MIHAILO ANUŠIĆ (; born 1985) is a Serbian fashion designer behind the clothing brand "Mihano Momosa". He is known for designing "romantic looking" bridal gowns, feather dresses and puffy skirts, as well as accessories.

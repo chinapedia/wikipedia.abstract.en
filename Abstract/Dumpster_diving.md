@@ -1,0 +1,1 @@
+ROYAL_food,_NY.jpg Poor_men_and_children_scavenge_the_trash_dumps_of_Kabul's_neighborhoods_for_leftovers_and_recyclable_materials..webm]]

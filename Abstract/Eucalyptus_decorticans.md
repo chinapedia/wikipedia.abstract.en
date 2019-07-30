@@ -1,0 +1,1 @@
+_EUCALYPTUS DECORTICANS_, commonly known as the GUM-TOP IRONBARK,[1] is a is a species of tree that is endemic in Queensland. It has rough, dark grey or black "ironbark" on the trunk and larger branches, smooth white bark on the thinner branches, lance-shaped to curved adult leaves, flower buds in groups of seven, white flowers and conical, cup-shaped or barrel-shaped fruit.

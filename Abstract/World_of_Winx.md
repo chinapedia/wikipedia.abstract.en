@@ -1,0 +1,1 @@
+_WORLD OF WINX_ is an Italian animation television series and a spin-off to _Winx Club_. The series was created by Iginio Straffi.[1] Twenty-six episodes have been produced in two seasons, the first of which was premiered as a Netflix original series on 4 November 2016. This series take place the alternate timeline where the Magic Dimension doesn't exist.

@@ -1,0 +1,1 @@
+JOSEPH AND ELIZABETH WALLENDORF HOUSE is a historic home located at Jefferson City, Cole County, Missouri. It was built about 1830, and is a two-story enclosed dogtrot style horizontal log house on a stone foundation. The house was moved to its present location in 2004 and restored in 2005.[1]

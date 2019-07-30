@@ -1,0 +1,1 @@
+The THREE-SPOT SWIMMING CRAB (_Portunus sanguinolentus_), also known as the BLOOD-SPOTTED SWIMMING CRAB or RED-SPOTTED SWIMMING CRAB,[1] is a large crab found throughout estuaries of the Indian and West Pacific Oceanic countries.

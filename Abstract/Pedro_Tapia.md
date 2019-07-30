@@ -1,0 +1,1 @@
+PEDRO TAPIA, O.P. (March 1582 – 25 August 1657) was a Roman Catholic prelate who served as Archbishop of Seville (1652–1657), Bishop of Córdoba (1649–1652), Bishop of Sigüenza (1644–1645), and Bishop of Segovia (1641–1644).[1][2]

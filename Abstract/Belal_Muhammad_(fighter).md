@@ -1,0 +1,1 @@
+BELAL MUHAMMAD (born July 9, 1988) is an American professional mixed martial artist currently competing in the Welterweight division. A professional since 2012, he has also competed for Bellator and Titan FC.

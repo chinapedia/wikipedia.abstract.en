@@ -1,0 +1,1 @@
+CHING HWANG LIM (born 6 March 1996) is a Malaysian Chinese swimmer. He was born in Selangor, Malaysia. He committed to The Ohio State University[1] and holds a Malaysian record in swimming which was set in July 2016.[2][3][4]

@@ -1,0 +1,1 @@
+L. L. Zamenhof developed Esperanto in the 1870s and 80s and published the first publication about it, _Unua Libro_, in 1887. The number of Esperanto speakers has grown gradually since then, although it has not had much support from governments and international organizations and has sometimes been outlawed or otherwise suppressed.

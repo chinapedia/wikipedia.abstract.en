@@ -1,0 +1,1 @@
+The WOMEN'S INDIVIDUAL PURSUIT was held on 18 October 2015.

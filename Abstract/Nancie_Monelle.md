@@ -1,0 +1,1 @@
+Nancie_Monelle_Mansell.png NANCIE MONELLE MANSELL (1841-?) was an American physician, remembered as being the first woman doctor who went out alone into a Princely state. She fought against Indian baby marriages, pleading that the marriageable age of girls be raised to 14 years.

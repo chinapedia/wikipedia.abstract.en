@@ -1,0 +1,1 @@
+border |image_size= |caption= |office= Acting Provincial Chairman for Hunan Province |alongside = |term_start = July 1949 |term_end = August 1949 |1blankname = Chairman |1namedata = Mao Zedong |birth_date= 7 April 1903 |death_date= |birth_place= Liling, Hunan, Qing Empire |death_place= Beijing |party = Communist Party of China |alma_mater = Whampoa Military Academy

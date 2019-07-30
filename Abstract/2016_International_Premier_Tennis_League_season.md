@@ -1,0 +1,1 @@
+The 2016 INTERNATIONAL PREMIER TENNIS LEAGUE SEASON (2016 IPTL season, officially the 2016 COCA-COLA INTERNATIONAL PREMIER TENNIS LEAGUE) was the third season of the professional team tennis league contested by four teams in Asia.

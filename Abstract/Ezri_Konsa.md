@@ -1,0 +1,1 @@
+EZRI KONSA NGOYO (born 23 October 1997) is an English professional footballer who plays as a central defender for Aston Villa. He came to prominence at Charlton Athletic and is an England U21 international.

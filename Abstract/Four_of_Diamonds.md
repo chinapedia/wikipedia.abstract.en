@@ -1,0 +1,1 @@
+FOUR OF DIAMONDS are a British girl group composed of Caroline Alvares, Lauren Rammell, Sophia Saffarian and Yasmin Broom.[1] In 2016, they competed in the thirteenth series of _The X Factor_, where they finished in eighth place.[2] In 2018, they were signed to Virgin EMI Records.[3]

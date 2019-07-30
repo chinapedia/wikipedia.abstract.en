@@ -1,0 +1,1 @@
+THE FAMILY OF MAN is a song written in 1955 by Karl Dallas, under the name Fred Dallas. It was inspired by Dallas' visit to a touring photography exhibition, _The Family of Man_, when it visited the Royal Festival Hall in London.[1][2]

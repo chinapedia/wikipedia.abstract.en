@@ -1,0 +1,1 @@
+Johannes-Agricola-Eisleben-.jpg JOHANN(ES)_' Agricola_' (originally Schneider, then Schnitter) (April 20, 1494 – September 22, 1566)[1] was a German Protestant Reformer in the Lutheran tradition during the Protestant Reformation. He was a follower and friend of Martin Luther, who became his antagonist in the matter of the binding obligation of the law on Christians.

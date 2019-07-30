@@ -1,0 +1,1 @@
+CPML}} COMMODITY PRODUCT MARKUP LANGUAGE (CpML) is an industry standard used in wholesale energy trading. CpML is an XML-based business mark-up language used for interoperable representation of energy trades for the purpose of post-deal-execution processes like deal confirmation and regulatory reporting.

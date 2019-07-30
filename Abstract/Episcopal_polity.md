@@ -1,0 +1,1 @@
+Mitre_evolution.gif as headdress.]] Roma-san_giovanni03.jpg) of the Supreme Pontiff (Pope) of the Catholic Church in the Archbasilica of St. John in Lateran in Rome, Italy represents his episcopal authority.]]

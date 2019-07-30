@@ -1,0 +1,1 @@
+PEASE is an unincorporated community in Laclede County, in the Ozarks of southern Missouri.[1] Pease is located along the Osage Fork Gasconade River, just upstream of the Missouri Route J crossing and the confluence of Parks Creek with the Osage Fork.[2]

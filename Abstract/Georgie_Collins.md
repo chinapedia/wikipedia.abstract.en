@@ -1,0 +1,1 @@
+EILEEN GEORGINA "GEORGIE" COLLINS (NÉE GIVEN; June 12, 1925 – May 3, 2017)[1] was a Canadian film, stage, and television actress. Collins is known for her role in the 1981 cult horror film _Ghostkeeper_, as well as her part in _Lonesome Dove: The Series_ (1995).[2]

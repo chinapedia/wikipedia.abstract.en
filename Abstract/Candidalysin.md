@@ -1,0 +1,1 @@
+CANDIDALYSIN is a cytolytic 31-amino acid α-helical peptide toxin found in the opportunistic pathogen _Candida albicans_. As such, Candidalysin is a rare fungal example of a classical virulence factor. Hyphal morphogenesis in _C. albicans_ is associated with damage to host epithelial cells; during this process Candidalysin is released.[1]

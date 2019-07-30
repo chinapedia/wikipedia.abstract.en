@@ -1,0 +1,1 @@
+JOGA MUSAHIB is a village in the _Karail_ area of the Mohammadabad tehsil in Ghazipur district, Uttar Pradesh, India. It was established over 570 years ago and has a population of 3612 as of the 2011 Census. It has its own local administration following the Panchayati raj system, with a pradhan as its head.

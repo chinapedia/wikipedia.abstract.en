@@ -1,0 +1,1 @@
+The ERG is a unit of energy and work equal to 10^(−7) joules. It originated in the centimetre–gram–second (CGS) system of units. It has the symbol _erg_. The erg is not an SI unit. Its name is derived from (), a Greek word meaning _work_ or _task_.[1]

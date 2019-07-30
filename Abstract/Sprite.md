@@ -1,0 +1,1 @@
+SPRITE commonly refers to:

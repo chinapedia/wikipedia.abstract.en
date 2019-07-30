@@ -1,0 +1,1 @@
+BETTY JEAN GRANT is a Democrat U.S politician from Buffalo, New York. She served as an Erie County Legislator from 2007 until 2017, representing the 2nd district, after previously serving the 7th district.

@@ -1,0 +1,1 @@
+_20 MINUTE WORKOUT_ is the second studio album by DJ Kool, released on April 18, 1994. The title track "20-Minute Workout" was recorded live at _Ivory's Nightclub_ in Richmond, Virginia on November 20, 1993.[1]

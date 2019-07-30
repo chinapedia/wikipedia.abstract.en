@@ -1,0 +1,1 @@
+The EUSKADIKO SOZIALISTEN BATASUNA (, ESBA) was a clandestine political movement in the Southern Basque Country, Spain, formed in 1959, and active under Francoist Spain. It was the Basque sister organization of the Spanish Popular Liberation Front (FELIPE) and the Catalan Workers' Front of Catalonia (FOC).[1]

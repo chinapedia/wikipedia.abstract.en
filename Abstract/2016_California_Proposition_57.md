@@ -1,0 +1,1 @@
+PROPOSITION 57 was a initiated California ballot proposition, approved on the November 8, 2016 ballot. The Proposition allows parole consideration for nonviolent felons, changes policies on juvenile prosecution,[1] and authorizes sentence credits for rehabilitation, good behavior, and education.

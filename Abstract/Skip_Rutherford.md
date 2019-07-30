@@ -1,0 +1,1 @@
+JAMES LUIN "SKIP" RUTHERFORD III (born January 28, 1950) is an American non-profit executive and academic administrator. He served as the first president of the Clinton Foundation, and is the Dean of the University of Arkansas Clinton School of Public Service, since 2006.

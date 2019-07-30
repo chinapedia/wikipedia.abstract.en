@@ -1,0 +1,1 @@
+DENNY-RENTON CLAY AND COAL COMPANY, founded in 1892 as Denny Clay Company, was the largest producer of brick pavers in the world by 1905. An industry journal said in 1909 "The clay products of this company have long been a standard for general excellence in Seattle and the entire northwest" and described its products:

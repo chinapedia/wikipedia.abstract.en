@@ -1,0 +1,1 @@
+_THE KING OF KREUZBERG_ (German: _DER KÖNIG VON KREUZBERG_)[1] is a 1990 German film by Matthias Drawe set in Berlin-Kreuzberg, a district of Berlin that has one of the largest concentration of Turks outside Turkey.

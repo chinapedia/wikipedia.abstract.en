@@ -1,0 +1,1 @@
+M. FRED BELL SPECULATIVE COTTAGE is a historic home located at Fulton, Callaway County, Missouri. It was designed by Fulton architect Morris Frederick Bell and built in 1893, with additions by Bell built in 1907. It is a one-story, Queen Anne frame cottage with a Bungalow style front porch and rear addition. It was restored in the 1990s.[1]

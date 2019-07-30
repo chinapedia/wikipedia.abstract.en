@@ -1,0 +1,1 @@
+DORIAN BOCCOLACCI (born 9 September 1998 in Cannes) is a French racing driver, and competed in the FIA Formula 2 Championship until after the French round at Circuit Paul Ricard this year, where he was replaced by Arjun Maini.[1]

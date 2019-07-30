@@ -1,0 +1,1 @@
+LA MONEDA PALACE GUARD (Spanish: _Guardia Palacio de la Moneda_) is the ceremonial escort to the President of Chile and also assists with physical security at La Moneda Palace. It is an operational component of the Carabineros de Chile.

@@ -1,0 +1,1 @@
+CHINA ORIENT ASSET MANAGEMENT CO., LTD. is a Chinese state-owned enterprise. The company is an asset management company and a merchant bank originated as a bad bank for the Bank of China. The bank received shares from debt-to-equity swap of non-performing loans.

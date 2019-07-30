@@ -1,0 +1,1 @@
+LUCRECIA NGUI ENGONGA (born 24 October 1988), simply known as LUCRECIA, is an Equatoguinean women's international footballer who plays for Waiso Ipola as a midfielder. She is a member of the Equatorial Guinea women's national football team. She was part of the team at the 2011 FIFA Women's World Cup.[1]

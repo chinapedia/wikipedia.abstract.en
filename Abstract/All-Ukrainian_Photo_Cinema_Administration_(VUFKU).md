@@ -1,0 +1,1 @@
+ALL-UKRAINIAN PHOTO CINEMA ADMINISTRATION (, translit.  _Vse-Ukrains'ke Foto Kino Upravlinnia_, an acronym VUFKU ()) was a cinematographic state monopoly that united the entire film industry in Ukraine (1922–1930).[1] VUFKU was vertically integrated: it controlled production, distribution, and exhibition of films.[2]

@@ -1,0 +1,1 @@
+border | caption = Brooks receiving a star on the Hollywood Walk of Fame on April 23, 2010 | birth_name = Melvin Kaminsky | birth_date = | birth_place = Brooklyn, New York, U.S. | years_active = 1949–present | occupation = Actor, comedian, composer, filmmaker | alma_mater = Brooklyn College | spouse = | children = 4; including Max Brooks | module =

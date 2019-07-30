@@ -1,0 +1,1 @@
+A BY-ELECTION FOR THE KLADNO SENATE SEAT was held in the Czech Republic in March 2011. The first round was held on 18–19 March while second was held on 25–26 March 2011. It was held after death of incumbent senator Jiří Dienstbier.[1] The election was won by his son Jiří Dienstbier Jr. who defeated Dan Jiránek.[2][3]

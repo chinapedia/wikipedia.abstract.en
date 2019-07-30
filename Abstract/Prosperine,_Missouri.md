@@ -1,0 +1,1 @@
+PROSPERINE is an unincorporated community in northwest Laclede County, in the Ozarks of south central Missouri.[1] The community is located on Route AA, approximately 2.5 miles southwest of Eldridge.[2]

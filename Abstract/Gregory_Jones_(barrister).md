@@ -1,0 +1,1 @@
+GREGORY PERCY JONES, QC, is an Alderman of the City of London Corporation, where he represents the ward of Farringdon Without.[1]Jones had previously served as a Common Councilman for the same ward from March, 2013 until his election as Alderman in February, 2017. On both occasions in keeping with City tradition Jones stood as an Independent.

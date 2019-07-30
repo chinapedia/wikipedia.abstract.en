@@ -1,0 +1,1 @@
+BANGLADESH FISHERIES DEVELOPMENT CORPORATION or BFDC,[1] is a national corporation that constructs fish harbours, runs cold storage, auction houses, processing centre, and transportation centre for fishes in Bangladesh and is located in Motijheel Thana, Dhaka, Bangladesh.[2][3]

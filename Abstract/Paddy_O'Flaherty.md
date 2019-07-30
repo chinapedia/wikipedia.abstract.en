@@ -1,0 +1,1 @@
+PADDY O'FLAHERTY (1942/3 - 27 September 2016)[1] was a broadcaster and journalist for BBC Northern Ireland. He was known for his work on BBC Radio Ulster, including Good Morning Ulster and Evening Extra, as well as his love for country music.

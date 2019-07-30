@@ -1,0 +1,1 @@
+MARKETS.COM, owned by Safecap Investments Limited, a subsidiary of Playtech, is an electronic trading platform for trading on the foreign exchange market, commodity market, cryptocurrency, and as well as contract for difference. Playtech is listed on the London Stock Exchange under ticker PTEC.[1]

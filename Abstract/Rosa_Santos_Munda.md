@@ -1,0 +1,1 @@
+ROSA SANTOS MUNDA (October 1, 1918 – March 19, 2010) was a lawyer and educator. Her father is General Paulino T. Santos, the military leader for whom the city of General Santos was named after. Her husband is Atty. Amado Abalos Munda.[1]

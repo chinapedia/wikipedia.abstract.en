@@ -1,0 +1,1 @@
+The CASTELLO ROGANZUOLO ALTARPIECE, CASTELLO ROGANZUOLO POLYPTYCH or MADONNA AND CHILD WITH SAINT PETER AND SAINT PAUL is a painting by Titian, commissioned in 1543 by the leading citizens of Castello Roganzuolo, Province of Treviso, Veneto, Italy. It is now in the Albino Luciani Diocesan Museum in Vittorio Veneto.

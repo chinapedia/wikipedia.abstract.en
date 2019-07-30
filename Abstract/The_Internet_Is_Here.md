@@ -1,0 +1,1 @@
+"THE INTERNET IS HERE" is a song written and recorded by British YouTube duo Dan and Phil to raise money for Stand Up to Cancer UK,[1][2] a charity that raise money for cancer research. It was released on 12 October 2016 on YouTube,[3] iTunes[4] and Google Play.[5]

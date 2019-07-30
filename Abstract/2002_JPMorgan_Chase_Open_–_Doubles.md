@@ -1,0 +1,1 @@
+Kimberly Po-Messerli and Nathalie Tauziat were the defending champions, but Tauziat did not compete this year. Po-Messerli teamed up with Corina Morariu and lost in semifinals to tournament winners Kim Clijsters and Jelena Dokic.

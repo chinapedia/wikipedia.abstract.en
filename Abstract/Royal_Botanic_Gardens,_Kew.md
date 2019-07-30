@@ -1,0 +1,1 @@
+ROYAL BOTANIC GARDENS, KEW (brand name KEW) is a non-departmental public body in the United Kingdom sponsored by the Department for Environment, Food and Rural Affairs. An internationally important botanical research and education institution, it employs 1,100 staff.[1] Its board of trustees is chaired by Marcus Agius,[2] a former chairman of Barclays.

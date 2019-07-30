@@ -1,0 +1,1 @@
+JEAN DUBOFSKY (born 1942) is the first woman to become a Colorado Supreme Court Justice and a former Deputy Attorney General for Colorado. She was the lead attorney in Romer v. Evans, the case that overturned Colorado Amendment 2 at the US Supreme Court, resulting in a landmark ruling for LGBT rights in the United States.[1][2][3][4][5]

@@ -1,0 +1,1 @@
+'''Nataliya Vladimirovna Shepelina ''' (Наталья Владимировна Шепелина, born 24 February 1981) was a Russian female water polo player. She was a member of the Russia women's national water polo team, playing as driver.

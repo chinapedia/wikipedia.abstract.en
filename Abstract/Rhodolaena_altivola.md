@@ -1,0 +1,1 @@
+_RHODOLAENA ALTIVOLA_ is a tree in the family Sarcolaenaceae. It is endemic to Madagascar. The naturalist and explorer Alfred Russel Wallace described it as "among the most magnificent flowering plants in the world".[1]

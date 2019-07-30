@@ -1,0 +1,1 @@
+MIKAELLA BOULOS (born 8 April 1992 Beirut, Lebanon) is a Greco-Cypriot-Lebanese actress and architect. She is known for her role as Dia in the Lebanese comedy series "Aayle A Fared Mayle",[1] and film "Madame Bambino".[2]

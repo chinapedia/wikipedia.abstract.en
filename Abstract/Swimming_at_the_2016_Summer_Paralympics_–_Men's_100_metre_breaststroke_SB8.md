@@ -1,0 +1,1 @@
+The MEN'S 100 METRE BREASTSTROKE SB8 event at the 2016 Paralympic Games took place on 14 September 2016, at the Olympic Aquatics Stadium. No heats were held. The swimmers with the eight fastest times advanced to the final.

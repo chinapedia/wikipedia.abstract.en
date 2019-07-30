@@ -1,0 +1,1 @@
+FRANS EEMIL SILLANPÄÄ () (16 September 1888 – 3 June 1964) was one of the most famous Finnish writers and in 1939 became the first Finnish writer to be awarded the Nobel Prize for literature "for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature".[1]

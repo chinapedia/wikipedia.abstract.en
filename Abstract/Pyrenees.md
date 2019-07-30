@@ -1,0 +1,1 @@
+The PYRENEES (; ; ; ; ; ; ) is a range of mountains in southwest Europe that forms a natural border between Spain and France. Reaching a height of altitude at the peak of Aneto, the range separates the Iberian Peninsula from the rest of continental Europe, and extends for about from the Bay of Biscay (Cap Higuer) to the Mediterranean Sea (Cap de Creus).

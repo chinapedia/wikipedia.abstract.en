@@ -1,0 +1,1 @@
+TERROR BAY (Inuktitut name: ᐊᒥᑦᕈᖅ _Amitruq_)[1] is an Arctic waterway in the Kitikmeot Region, Nunavut, Canada. It is located in the south western side of King William Island. The entrance to the bay is marked by Fitzjames Island on the west and Irving Islands to the east. The Bay opens to Queen Maud Gulf.

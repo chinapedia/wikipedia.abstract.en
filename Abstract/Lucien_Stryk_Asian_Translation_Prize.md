@@ -1,0 +1,1 @@
+The LUCIEN STRYK ASIAN TRANSLATION PRIZE is a prize that recognizes the best translation into English of book-length texts of Asian poetry or prose or Zen Buddhism. It was established by an anonymous donor in 2010, and is named for Lucien Stryk, the American Zen poet and translator.

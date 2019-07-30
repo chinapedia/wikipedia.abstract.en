@@ -1,0 +1,1 @@
+LION CREEK AND LOWER RAYPITS is a 65.2 hectare nature reserve east of Canewdon in Essex. It is part of the Crouch and Roach Estuaries Site of Special Scientific Interest,[1][2] and is owned and managed by the Essex Wildlife Trust.[3]

@@ -1,0 +1,1 @@
+The 2017 AUSTRALIAN OPEN WILDCARD PLAYOFFS AND ENTRIES are a group of events and internal selections to choose the eight men and eight women singles wildcard entries for the 2017 Australian Open, as well as seven male and seven female doubles teams plus eight mixed-doubles teams.

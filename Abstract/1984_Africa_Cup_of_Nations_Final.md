@@ -1,0 +1,1 @@
+The 1984 AFRICAN CUP OF NATIONS FINAL was a football match that took place on March 18, 1984, and was the final match of the 14th edition of the Africa Cup of Nations). It was hosted by Côte d'Ivoire at the Stade Félix Houphouët-Boigny in Abidjan. Cameroon won its first championship, beating Nigeria in the final 3−1.

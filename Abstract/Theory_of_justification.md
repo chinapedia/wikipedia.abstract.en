@@ -1,0 +1,1 @@
+The THEORY OF JUSTIFICATION is a part of epistemology that attempts to understand the justification of propositions and beliefs. Epistemologists are concerned with various epistemic features of belief, which include the ideas of justification, warrant, rationality, and probability. Loosely speaking, justification is the reason that someone (properly) holds a belief.

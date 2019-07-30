@@ -1,0 +1,1 @@
+VICTORIA RECORDS is a Mexican record label, management company, publisher and recording studio, located in Monterrey, Nuevo León, Mexico. Artists like Korn, The Strokes, Jonas Cuaron, Pedro Fernandez and Intocable are some of their clients.

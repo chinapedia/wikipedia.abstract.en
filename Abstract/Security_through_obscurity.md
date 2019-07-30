@@ -1,0 +1,1 @@
+SECURITY THROUGH OBSCURITY (or SECURITY BY OBSCURITY) is the reliance in security engineering on design or implementation secrecy as the main method of providing security to a system or component. Security experts have rejected this view as far back as 1851, and advise that obscurity should never be the only security mechanism.

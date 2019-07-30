@@ -1,0 +1,1 @@
+The following is a list of Teen Choice Award winners and nominees for CHOICE SUMMER MUSIC STAR: FEMALE. It was first introduced in 2010.Selena Gomez, Demi Lovato and Camila Cabello are the only artists to win this award twice.

@@ -1,0 +1,1 @@
+JANE ELLEN PANTON or JANE ELLEN FRITH PANTON; JANE ELLEN FRITH (18 October 1847 – 13 May 1923) was an English writer.

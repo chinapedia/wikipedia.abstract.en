@@ -1,0 +1,1 @@
+SUSIE SWANSON (born June 21, 1948) is an American politician. She has served as a Republican member for the 64th district in the Kansas House of Representatives since 2015, succeeding her husband, Vern.[1][2][3]

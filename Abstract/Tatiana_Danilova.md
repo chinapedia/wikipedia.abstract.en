@@ -1,0 +1,1 @@
+TATIANA SERGEYEVNA DANILOVA (; born 25 November 1993) is a Russian pair skater. Competing for Russia with Andrei Novoselov, she is the 2010 Golden Spin of Zagreb silver medalist. Competing for Belarus with Mikalai Kamianchuk, she is the 2015 MNNT Cup silver medalist and has finished in the top ten at two European Championships (2016, 2017).

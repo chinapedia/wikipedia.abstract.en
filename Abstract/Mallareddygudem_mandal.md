@@ -1,0 +1,1 @@
+MALLAREDDYGUDEM MANDAL is one of the 23 mandals in Suryapet district of the Indian state of Telangana.[1] It is under the administration of Kodad revenue division with its headquarters at Chintalapalem. It is bounded by Mattampally mandal towards west, Mellachervu mandal towards North, Krishna district of Andhra Pradesh towards East.

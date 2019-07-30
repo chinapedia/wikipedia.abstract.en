@@ -1,0 +1,1 @@
+ROBERT KOEGEL is an American psychologist at Stanford University School of Medicine. He was formerly a Distinguished Professor and the Director of the Koegel Autism Center at the University of California, Santa Barbara. He moved to Stanford in 2017.[1]

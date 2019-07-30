@@ -1,0 +1,1 @@
+KARIM EL-ZOGHBY (born 15 February 1977) is an Egyptian Olympic show jumping rider.[1] He competed at three Summer Olympics (in 2008, 2012 and 2016).His best Olympic result came in 2016 when he placed 40th in the individual competition with the horse Amelia.

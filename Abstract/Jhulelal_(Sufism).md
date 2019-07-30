@@ -1,0 +1,1 @@
+Lal_Shahbaz_Qalandar.jpg, also known as 'Jhulelal Qalandar,' in Sindh, Pakistan.]] JHULELAL (Sindhi/Urdu: جھولےلال), refers to Lal Shahbaz Qalandar, a prominent Sunni Muslim saint of the Suhrawardy Sufi order who lived in the Middle East, Afghanistan, Sindh (Pakistan) and India in the thirteenth century.[1][2]

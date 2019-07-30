@@ -1,0 +1,1 @@
+CAITLIN CLARKE (May 3, 1952 – September 9, 2004) was an American theater and film actress best known for her role as Valerian in the 1981 fantasy film _Dragonslayer_ and for her role as Charlotte Cardoza in the 1998–1999 Broadway musical _Titanic_.

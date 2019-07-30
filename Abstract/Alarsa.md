@@ -1,0 +1,1 @@
+ALARSA is a village with a population around 10,000 located in Gujarat, India. It is situated 5 km away from sub-district headquarter Borsad and 14 km away from district headquarter Anand. Geographical area of Alarsa is around 9 km². It is located in the Borsad taluka.[1]

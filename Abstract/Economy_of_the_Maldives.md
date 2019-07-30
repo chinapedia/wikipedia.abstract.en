@@ -1,0 +1,1 @@
+In ancient times the Maldives were renowned for cowries, coir rope, dried tuna fish (Maldive fish), ambergris (_maavaharu_) and coco de mer (_tavakkaashi_). Local and foreign trading ships used to load these products in the Maldives and bring them abroad.

@@ -1,0 +1,1 @@
+RANÉROU is a small town with commune status in north-east Senegal. It is the chief settlement of Ranérou-Ferlo Department in Matam Region and is connected to Dakar and Touba to the west and Ouro Sogui and Mauretania to the east by the N3 road.

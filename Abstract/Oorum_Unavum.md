@@ -1,0 +1,1 @@
+OORUM UNAVUM is a 2016 Indian Tamil-language cooking travel series focusing on the state of Tamil Nadu. The series was originally hosted by Sri Periya Karuppan, who was replaced by Sruti Nakul.[1][2] The show premiered on 23 July 2016. It airs Saturdays at 5:30PM and is re-telecast Sundays at 11.30AM on Puthiya Thalaimurai.

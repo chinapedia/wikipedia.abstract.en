@@ -1,0 +1,1 @@
+MICHAEL BREEN is the former stage name of MICHEL PÉPIN (born 1960 in Nicolet, Quebec) a Canadian pop and rock singer and session musician.[1] Although he released only one album as a solo artist, he had a hit single with "Rain" in 1987 and received a Juno Award nomination for Most Promising Male Vocalist at the Juno Awards of 1989.[2]

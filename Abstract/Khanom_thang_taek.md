@@ -1,0 +1,1 @@
+_KHANOM THANG TAEK_, also known as POOR MAN'S PANCAKE, is a roadside snack in Thailand.[1] _Khamom thang taek_ is a pancake with a bubble vesting face load with other toppings. _Khanom thang taek_ is a Thai signature snack at the temple fairs. Formerly, people could find it only at temple fairs. Now, this snack can be found at many local markets or on the roadside.

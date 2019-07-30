@@ -1,0 +1,1 @@
+LANGERAK is the name for the eastern part of Limfjord in Denmark and is one of the East Jutish Fjorde. The designation covers the narrow length of the fjord between Aalborg and Hals which is approximately 30 km long and ranges between 400m to 2 km in width. The meandering fjord was created during the last Ice Age.

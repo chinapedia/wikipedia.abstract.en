@@ -1,0 +1,1 @@
+MICHAEL JOHN GALLAGHER (born March 3, 1984) is an American politician who is the U.S. Representative for . He was elected in the 2016 elections and took office on January 3, 2017. He is a member of the Republican Party.

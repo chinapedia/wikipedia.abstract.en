@@ -1,0 +1,1 @@
+JAMES EDMUNDSON RAINE (3 March 1886 – 4 September 1928) was an English sportsman. He played football as an amateur outside right for Glossop, Sunderland, Newcastle United and Sheffield United in the Football League.[1][2][3] He also played rugby union for Percy Park and minor counties cricket for Northumberland.[4]

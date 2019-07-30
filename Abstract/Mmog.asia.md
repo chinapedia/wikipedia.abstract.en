@@ -1,0 +1,1 @@
+MMOG ASIA is a gaming platform established by Malaysian game publishing company MyCNX Holding (M) Sdn Bhd which was incorporated in 2005. The company was acquired by MOL Global, Inc as subsidiary[1] in November 2012, which is wholly owned by MOL and operates MMOG.asia.

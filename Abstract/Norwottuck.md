@@ -1,0 +1,1 @@
+The NORWOTTUCK is the Algonquian name for an area that is now Northampton and Hadley, Massachusetts. It is also used to refer to the Algonquian people who once lived there, who were part of the Pocumtuck Confederacy.

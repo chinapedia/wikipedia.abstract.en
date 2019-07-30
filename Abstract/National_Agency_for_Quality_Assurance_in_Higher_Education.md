@@ -1,0 +1,1 @@
+NATIONAL AGENCY FOR QUALITY ASSURANCE IN HIGHER EDUCATION OF UKRAINE is the regulator of higher education of Ukraine. It was created in connection with Institute of Higher Education of NAPS of Ukraine and its scientific community.[1]

@@ -1,0 +1,1 @@
+_BURMESARCHAEA_ is an extinct genus of spiders, placed in the family Archaeidae. , only one species has been assigned to the genus, _BURMESARCHAEA GRIMALDII_, found in Cretaceous Burmese amber,[1] dated to 88–95 million years ago.[2]

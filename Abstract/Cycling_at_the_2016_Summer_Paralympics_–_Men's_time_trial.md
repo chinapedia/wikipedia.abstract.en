@@ -1,0 +1,1 @@
+The MEN'S TIME TRIAL cycling events at the 2016 SUMMER PARALYMPICS took place on September 17 at Rio Olympic Velodrome. Three events took place over six classifications. Both the C1-3 and C4-5 time trials were 'factored' events.

@@ -1,0 +1,1 @@
+WANG PO-JUNG (; born 9 September 1993), nicknamed "THE KING (DAWANG)",[1] is a Taiwanese professional baseball outfielder for the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball (NPB). He previously played for the Lamigo Monkeys of the Chinese Professional Baseball League (CPBL) from 2015 through 2018.

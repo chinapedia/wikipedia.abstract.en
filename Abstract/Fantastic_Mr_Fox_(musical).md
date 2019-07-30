@@ -1,0 +1,1 @@
+_FANTASTIC MR FOX_ is a musical stage adaptation of the children's novel of the same name by Roald Dahl, adapted by Sam Holcroft with music by Arthur Darvill and lyrics by Holcroft, Darvill, Darren Clark and Al Muriel. The story follows Mr Fox who hatches a plan to outsmart his three farmer neighbours in order to feed his family and friends.

@@ -1,0 +1,1 @@
+_CANU LLYWARCH HEN_ (modern Welsh /'kani 'ɬəwarχ heːn/, the songs of Llywarch Hen) are a collection of early Welsh _englyn_-poems. They comprise the most famous of the early Welsh cycles of _englynion_ about heroes of post-Roman North Britain.

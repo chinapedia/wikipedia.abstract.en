@@ -1,0 +1,1 @@
+Treaty of Prairie du Chien}} The TREATY OF PRAIRIE DU CHIEN may refer to any of several treaties made and signed in Prairie du Chien, Wisconsin between the United States, representatives from the Sioux, Sac and Fox, Menominee, Ioway, Winnebago and the Anishinaabeg (Chippewa, Ottawa and Potawatomi) Native American peoples.

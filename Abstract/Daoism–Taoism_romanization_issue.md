@@ -1,0 +1,1 @@
+The English words DAOISM () and TAOISM ( or ) are alternative spellings for the same-named Chinese philosophy and religion. The root for Daoism or Taoism is the Chinese word 道 ("road" or "way"), which was transcribed _tao_ or _tau_ in the earliest systems for the romanization of Chinese and _dao_ or _dau_ in 20th century systems.

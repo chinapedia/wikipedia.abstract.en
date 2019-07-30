@@ -1,0 +1,1 @@
+POST-COMMUNISM is the period of political and economic transformation or "transition" in former communist states located in parts of Europe and Asia in which new governments aimed to create free market-oriented capitalist economies.

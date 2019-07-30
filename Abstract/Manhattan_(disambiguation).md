@@ -1,0 +1,1 @@
+MANHATTAN is a borough of New York City.

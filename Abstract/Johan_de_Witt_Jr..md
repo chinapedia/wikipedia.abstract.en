@@ -1,0 +1,1 @@
+JOHAN DE WITT JR., heer van Zuid- en Noord-Linschoten, Snelrewaard and IJsselveere (1662–1701) was the son of Johan de Witt and his wife Wendela Bicker (1635-1668). Having been part of the old Dutch patrician De Witt family, De Witt Jr. took a seat as secretary of the city of Dordrecht.[1]

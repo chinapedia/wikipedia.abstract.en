@@ -1,0 +1,1 @@
+FÉILIM (also written Félim, Fedlim or Fedlimid, often without accent) is an Irish language name for men, which means "beauty, ever good, constant." The name is derived from the older version _Feidlimid_, it has been anglicised as _Phelim_, _Feilmy_ or even _Felix_.

@@ -1,0 +1,1 @@
+The EUROPEAN INFLUENCE IN AFGHANISTAN refers to political, social, and mostly imperialistic influence several European nations and colonial powers have had on the historical development of Afghanistan.

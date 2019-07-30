@@ -1,0 +1,1 @@
+FAY is an unincorporated community in southeastern Ozark County, in the Ozarks of south-central Missouri.[1] The Community is located along Missouri Route J about 2.5 miles south of U.S. Route 160. The Fay Cemetery lies just west of Route J and north of the Lick Creek - Sweeten Creek junction.[2]

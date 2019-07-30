@@ -1,0 +1,1 @@
+Rev. DAVID HILLIARD EATON (1932 – October 21, 1992) was the first African-American minister of All Souls Church, Unitarian of Washington, D.C., and an influential citizen of Washington DC politics from the 1960s until his death. Under his leadership, the All Souls Church became a center of social activism, with a racially balanced congregation.[1]

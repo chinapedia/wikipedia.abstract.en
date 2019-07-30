@@ -1,0 +1,1 @@
+Institut_Químic_de_Sarrià_a_la_Via_Augusta.jpg CHEMICAL INSTITUTE OF SARRIÀ (_Institut Químic de Sarrià_ – IQS) is an educational institution that manages two schools of the Ramon Llull University, IQS School of Engineering and IQS School of Management. Both schools offer masters and doctorate programs.

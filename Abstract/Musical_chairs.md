@@ -1,0 +1,1 @@
+MUSICAL CHAIRS, also known as TRIP TO JERUSALEM, is a game of elimination involving players, chairs, and music, with one fewer chair than players. When the music stops whichever player fails to sit on a chair is eliminated, with a chair then being removed and the process repeated until only one player remains.

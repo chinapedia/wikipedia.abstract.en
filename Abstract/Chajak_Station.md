@@ -1,0 +1,1 @@
+CHAJAK STATION is a railway station in Chajak-tong, Kaech'ŏn municipal city, South P'yŏngan province, North Korea on the Manp'o Line of the Korean State Railway; it is also the starting point of the Kaech'ŏn Colliery Line to Chŏnjin.[1]

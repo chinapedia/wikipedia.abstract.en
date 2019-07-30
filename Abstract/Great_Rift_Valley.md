@@ -1,0 +1,1 @@
+MapGreatRiftValley.png The GREAT RIFT VALLEY is a series of contiguous geographic trenches, approximately in total length, that runs from the Beqaa Valley in Lebanon in Asia to Mozambique in southeastern Africa.[1] While the name continues in some usages, it is rarely used in geology as it is considered an imprecise merging of separate though related rift and fault systems.

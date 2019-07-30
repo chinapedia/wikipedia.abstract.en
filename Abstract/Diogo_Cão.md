@@ -1,0 +1,1 @@
+DIOGO CÃO (), anglicised as DIOGO CAM and also known as DIEGO CAM,[1] was a Portuguese explorer and one of the most notable navigators of the Age of Discovery. He made two voyages sailing along the west coast of Africa in the 1480s, exploring the Congo River and the coasts of the present-day Angola and Namibia.

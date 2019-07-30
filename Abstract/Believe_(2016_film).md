@@ -1,0 +1,1 @@
+_BELIEVE_ is a 2016 American Christmas drama film directed and written by Billy Dickson. The film stars Ryan O'Quinn, Danielle Nicolet, Shawnee Smith, and Lance E. Nichols. It was released theatrically by Freestyle Releasing and Smith Global Media on December 2, 2016.[1]

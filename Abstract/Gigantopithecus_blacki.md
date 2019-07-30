@@ -1,0 +1,1 @@
+_GIGANTOPITHECUS BLACKI_ is an extinct species of prehistoric apes that existed from perhaps nine million years to as recently as one hundred thousand years ago, at the same period as _Homo erectus_ would have been dispersed.[1]

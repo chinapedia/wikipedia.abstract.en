@@ -1,0 +1,1 @@
+PRASANNA PATTNAIK (born 1 June 1948)[1] is an Indian politician and the first Bharatiya Janata Party (BJP) MLA of Odisha. He has been elected three times to the Odisha Legislative Assembly from Kamakhyanagar constituency.[2][3][4][5][6]

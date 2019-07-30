@@ -1,0 +1,1 @@
+Legalize_It.jpg on 7 March 2015]] CANNABIS IN SERBIA is illegal. Possession is punishable by a fine or by imprisonment of up to 3 years. Sale and transport are punishable by imprisonment from 3 to 12 years. Cultivation is punishable by imprisonment from 6 months to 5 years. Penalties are higher for organized crime.[1]

@@ -1,0 +1,1 @@
+ARTHUR CYRUS WARNER (February 14, 1918 – July 22, 2007) was an American lawyer and gay rights activist.[1][2] His work was crowned by successful efforts to overturn anti-sodomy and other laws used to persecute gay people in several US states.

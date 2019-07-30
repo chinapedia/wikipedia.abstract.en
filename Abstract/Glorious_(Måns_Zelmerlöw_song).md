@@ -1,0 +1,1 @@
+"GLORIOUS" is a song by Swedish singer Måns Zelmerlöw. The song was released as a digital download on 24 November 2016 through Warner Music Group as the third single from his seventh studio album _Chameleon_ (2016).[1][2] The song did not enter the Swedish Singles Chart, but peaked to number 17 on the Sweden Heatseeker Songs.[3]

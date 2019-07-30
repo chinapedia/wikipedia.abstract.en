@@ -1,0 +1,1 @@
+GROSSENRODE (in German: _Großenrode_) is a district of the town of Moringen in Northeim, Lower Saxony, Germany. It has about 330 inhabitants.[1] Nearby places include Behrensen, Elvese, Hillerse, Schnedinghausen, Thüdinghausen, and Wolbrechtshausen.

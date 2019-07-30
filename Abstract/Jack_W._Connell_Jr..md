@@ -1,0 +1,1 @@
+JACK WILLARD CONNELL JR. (born October 21, 1937) is an American politician. He served as a Democratic member in the Texas House of Representatives from 1959 to 1963. He was elected at the age of 21, having reached the minimum age of candidacy two weeks before the election.[1]

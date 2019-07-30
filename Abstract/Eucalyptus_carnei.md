@@ -1,0 +1,1 @@
+_EUCALYPTUS CARNEI_, also known as the CARNE'S BLACKBUTT,[1] is a species of tree or mallee that is endemic to an area in central Western Australia. It has smooth grey bark, lance-shaped adult leaves, flower buds in groups of seven, creamy white flowers, and cup-shaped to conical fruit.Eucalyptus_carnei_buds.jpgEucalyptus_carnei_fruit.jpg

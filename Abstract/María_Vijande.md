@@ -1,0 +1,1 @@
+MARÍA VIJANDE (born 14 October 1995) is a Spanish female badminton player and pharmacist (University of Salamanca, 2018). [1][2] She is currently a Clinical Research Associate trainee in GEICAM (Spanish Breast Cancer Group) and writer in Mejor con Salud, Spanish blog on health.

@@ -1,0 +1,1 @@
+Magnetic_field_of_loop_3.svg

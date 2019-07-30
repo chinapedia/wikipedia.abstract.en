@@ -1,0 +1,1 @@
+The COBURN COVERED BRIDGE is a historic covered bridge, carrying Coburn Road over the Winooski River in eastern East Montpelier, Vermont. Built in 1851, it is the town's only surviving 19th-century covered bridge. It was listed on the National Register of Historic Places in 1974.[1]

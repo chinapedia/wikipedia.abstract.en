@@ -1,0 +1,1 @@
+The MEN'S COXED FOUR (M4+) competition at the 1976 Summer Olympics took place at the rowing basin on Notre Dame Island in Montreal, Quebec, Canada. It was held from 18 to 25 July and was won by the team from Soviet Union.

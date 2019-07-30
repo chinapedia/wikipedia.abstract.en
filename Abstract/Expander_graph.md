@@ -1,0 +1,1 @@
+In combinatorics, an EXPANDER GRAPH is a sparse graph that has strong connectivity properties, quantified using vertex, edge or spectral expansion as described below. Expander constructions have spawned research in pure and applied mathematics, with several applications to complexity theory, design of robust computer networks, and the theory of error-correcting codes.[1]

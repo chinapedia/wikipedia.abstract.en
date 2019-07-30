@@ -1,0 +1,1 @@
+EVEREST ENGINEERING COLLEGE - EEC (former Everest Engineering and Management College) is an educational institute established in 2001 AD in Kathmandu, Nepal. It has been promoting engineering and managerial career of students for several years. It is Located in Sanepa.

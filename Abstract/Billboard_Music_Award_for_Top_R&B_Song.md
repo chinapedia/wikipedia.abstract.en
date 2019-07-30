@@ -1,0 +1,1 @@
+This page lists the winners and nominees for the _BILLBOARD_ MUSIC AWARD FOR TOP R&B SONG. This award was first given in 1992 and since its conception, Pharrell Williams is the only artist to win the award twice.

@@ -1,0 +1,1 @@
+10,000_digits_of_pi_-_poster.svg can be computed to arbitrary precision.]] In mathematics, COMPUTABLE NUMBERS are the real numbers that can be computed to within any desired precision by a finite, terminating algorithm. They are also known as the RECURSIVE NUMBERS or the COMPUTABLE REALS or RECURSIVE REALS.

@@ -1,0 +1,1 @@
+GEORGE ORSON WELLES (May 6, 1915 – October 10, 1985) was an American actor, director, writer and producer who is remembered for his innovative work in radio, theatre and film. He is considered one of the greatest film directors of all time.[1]

@@ -1,0 +1,1 @@
+GUY SAVILLE (born 1973) is a British author best known for _The Afrika Reich_ trilogy, which includes _The Afrika Reich_ (2011), _The Madagaskar Plan_ (2015), and a forthcoming novel tentatively referred to as _Afrika Three._

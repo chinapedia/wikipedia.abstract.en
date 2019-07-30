@@ -1,0 +1,1 @@
+The BUNNALOO FOOTBALL CLUB was an Australian rules football club based in the town of Bunnaloo, New South Wales, which first formed in 1927, before disbanding in the 1929. The team reformed in 1952 to join the newly created Echuca Football League, before folding at the end of the 1989 season.

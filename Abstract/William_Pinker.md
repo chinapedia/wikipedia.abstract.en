@@ -1,0 +1,1 @@
+WILLIAM ALBERT PINKER OBE (9 May 1847 – 5 June 1932) was an English stonemason and museum technician at the British Museum, serving in the Department of Antiquities from 1873 and as foreman of masons from 1894.

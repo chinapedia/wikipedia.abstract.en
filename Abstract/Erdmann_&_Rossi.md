@@ -1,0 +1,1 @@
+ERDMANN & ROSSI was originally a coachbuilding company based in Berlin, Germany. In the early half of the 20th century, the company became known for the manufacture of chassis used on luxury vehicles. After the devastation of World War II, the company was unable to recover financially.

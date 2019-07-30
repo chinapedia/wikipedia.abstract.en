@@ -1,0 +1,1 @@
+Sun_at_moment_of_spring_equinox_2019.jpg An EQUINOX is commonly regarded as the instant of time when the plane (extended indefinitely in all directions) of Earth's equator passes through the center of the Sun.[1][2] This occurs twice each year: around 20 March and 23 September. In other words, it is the moment at which the center of the visible Sun is directly above the Equator.

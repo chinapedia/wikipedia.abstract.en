@@ -1,0 +1,1 @@
+JESSICA FRAZIER is Lecturer in Religious Studies at the University of Kent and a Fellow of the Oxford Centre for Hindu studies.[1][2] Her work explores key philosophical themes across cultures, from Indian concepts of Being to 20th century phenomenology. She is particularly interested in questions about ontology, value, selfhood and human flourishing.

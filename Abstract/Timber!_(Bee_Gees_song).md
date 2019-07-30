@@ -1,0 +1,1 @@
+"TIMBER!" is a song recorded by the Bee Gees, written by Barry Gibb. The song was released in Australia as their second single in July 1963, backed with "Take Hold of That Star". It was later included on the group's first album _The Bee Gees Sing and Play 14 Barry Gibb Songs_.

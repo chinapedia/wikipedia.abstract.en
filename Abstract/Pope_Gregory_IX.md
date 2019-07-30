@@ -1,0 +1,1 @@
+POPE GREGORY IX (; born UGOLINO DI CONTI; c. 1145 or before 1170 – 22 August 1241) was Pope from 19 March 1227 to his death in 1241. He is known for issuing the _Decretales_ and instituting the Papal Inquisition in response to the failures of the episcopal inquisitions established during the time of Pope Lucius III through his papal bull _Ad abolendam_ issued in 1184.

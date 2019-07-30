@@ -1,0 +1,1 @@
+The MINNESOTA VIKINGS are a professional American football team based in Minneapolis, Minnesota. The Vikings joined the National Football League (NFL) as an expansion team in 1960, and first took the field for the 1961 season.[1] The team competes in the National Football Conference (NFC) North division.[2]

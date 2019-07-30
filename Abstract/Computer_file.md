@@ -1,0 +1,1 @@
+A COMPUTER FILE is a computer resource for recording data discretely in a computer storage device. Just as words can be written to paper, so can information be written to a computer file. Files can be edited and transferred through the internet on that particular computer system.

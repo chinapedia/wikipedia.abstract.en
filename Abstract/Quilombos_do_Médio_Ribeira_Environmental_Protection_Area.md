@@ -1,0 +1,1 @@
+The QUILOMBOS DO MÉDIO RIBEIRA ENVIRONMENTAL PROTECTION AREA () is an environmental protection area in the state of São Paulo, Brazil. It supports sustainable development of communities of quilombolas, descendants of African slaves.

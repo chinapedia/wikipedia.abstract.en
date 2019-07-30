@@ -1,0 +1,1 @@
+Todd_WILLIAMSON,_Screen_shot_05_Aug_2016_in_front_of_No_Say_At_All_(60x60in),_Oil_on_canvas_(2013).jpg TODD WILLIAMSON (born January 24, 1964 in Cullman, Alabama) is an American artist specializing in contemporary abstract expressionism.

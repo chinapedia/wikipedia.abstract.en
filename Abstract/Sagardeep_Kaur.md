@@ -1,0 +1,1 @@
+SAGARDEEP KAUR (24 September 1981 – 23 November 2016) was an Indian athlete who won a gold medal in the women's 4x400 metres relay in the 2002 Asian Athletics Championships.[1] Competing at the 2003 World Championships, the Indian team in the 4 × 400 metres relay was knocked out after the initial heat, where they finished a distant last.

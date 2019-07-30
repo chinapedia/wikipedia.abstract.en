@@ -1,0 +1,1 @@
+AMANUR RAHMAN KHAN RANA is a Bangladesh Awami League politician and the present member of parliament from Tangail.[1] Rana, along with 13 others, is accused of killing Awami League politician Faruk Ahmed who was found dead in Tangail town on 18 January 2013.[2]

@@ -1,0 +1,1 @@
+Newport_Street_Gallery,_London.jpg The NEWPORT STREET GALLERY is an art gallery in London, England which displays works selected from the personal art collection of Damien Hirst. It is located on Newport Street Vauxhall. Newport Street Gallery is the realisation of Hirst’s long-term ambition to share his art collection with the public.

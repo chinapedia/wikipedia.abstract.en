@@ -1,0 +1,1 @@
+CASSIUS & ADELIA BAKER HOUSE is a historic house in Wamego, Kansas, U.S.. It was built in 1910.[1] It was designed in the American Craftsman architectural style.[2] It has been listed on the National Register of Historic Places since June 25, 2013.[3]

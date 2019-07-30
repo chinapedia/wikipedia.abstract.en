@@ -1,0 +1,1 @@
+MAX GIESINGER (born 3 October 1988) is a German singer-songwriter and musician from Waldbronn, Germany. He first gained widespread popularity with his single _80 Millionen_, placing as high as second position in the German charts. His music is usually labeled as pop and pop-rock.

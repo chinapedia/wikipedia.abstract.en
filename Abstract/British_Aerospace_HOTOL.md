@@ -1,0 +1,1 @@
+HTOL}} HOTOL.JPG HOTOL, for HORIZONTAL TAKE-OFF AND LANDING, was a 1980s British design for a single-stage-to-orbit (SSTO) spaceplane that was to be powered by an airbreathing jet engine. Development was being conducted by a consortium led by Rolls-Royce and British Aerospace (BAe).

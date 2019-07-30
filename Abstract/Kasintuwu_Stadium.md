@@ -1,0 +1,1 @@
+KASINTUWU STADIUM is a football stadium in the town of Poso, Indonesia. The stadium has a capacity of 3,000 people. The stadium was built in 1960 and is considered as one of the best stadiums in Central Sulawesi.[1] It is the home base of Persipos Poso, Poso FC, and PS Poso.[2]

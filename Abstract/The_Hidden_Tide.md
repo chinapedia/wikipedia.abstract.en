@@ -1,0 +1,1 @@
+_THE HIDDEN TIDE_ (1899) is the debut poetry collection by Australian poet and author Roderic Quinn. It was published in booklet form by _The Bulletin_ magazine's book publishing arm, and was number 1 in the _Bulletin Booklets_ series.[1]

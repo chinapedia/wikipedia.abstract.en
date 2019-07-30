@@ -1,0 +1,1 @@
+SECRET RENDEZVOUS is a band consisting of members Sietske Morsch and Remi Lauw. The duo met when they both studied pop music at the Codarts Conservatory in Rotterdam and formed the band Secret Rendezvous after graduating. While they call their sound Indie R&B, the band is influenced by a variety of artists like Frank Ocean, Janet Jackson, Little Dragon and The Weeknd.

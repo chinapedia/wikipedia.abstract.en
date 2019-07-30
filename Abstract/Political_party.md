@@ -1,0 +1,1 @@
+A POLITICAL PARTY is an organized group of people who have the same ideology, or who otherwise have the same political positions, and who field candidates for elections, in an attempt to get them elected and thereby implement the party's agenda.

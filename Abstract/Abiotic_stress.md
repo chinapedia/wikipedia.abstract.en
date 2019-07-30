@@ -1,0 +1,1 @@
+ABIOTIC STRESS is the negative impact of non-living factors on the living organisms in a specific environment.[1] The non-living variable must influence the environment beyond its normal range of variation to adversely affect the population performance or individual physiology of the organism in a significant way.[2]

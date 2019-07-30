@@ -1,0 +1,1 @@
+_FRONTLINE_ is an Australian comedy television series which satirised Australian television current affairs programmes and reporting. It ran for three series of 13 half-hour episodes and was broadcast on ABC TV in 1994, 1995, and 1997.

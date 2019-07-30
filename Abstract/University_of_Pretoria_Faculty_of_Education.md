@@ -1,0 +1,1 @@
+The UNIVERSITY OF PRETORIA FACULTY OF EDUCATION was incorporated and merged with the University of Pretoria in 1908. The Faculty has five departments, four centres and units and collaborates with more than seven international bodies.[1] The Faculty offers the undergraduate BEd degrees, postgraduate degrees as well as several continuing education courses.

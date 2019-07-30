@@ -1,0 +1,1 @@
+The CATHEDRAL BASILICA OF THE NATIVITY OF THE BLESSED VIRGIN MARY [1] ( ) also called TARNÓW CATHEDRAL[2] is a religious building belonging to the Catholic Church and is located in the city of Tarnów[3] in the European country of Poland.[4]

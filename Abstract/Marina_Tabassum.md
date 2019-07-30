@@ -1,0 +1,1 @@
+MARINA TABASSUM is a Bangladeshi architect.[1] She is the principal architect of Marina Tabassum Architects. In 2016, she won the Aga Khan Award for Architecture for the design of Bait-ur-Rouf Mosque in Dhaka, Bangladesh.[2]

@@ -1,0 +1,1 @@
+RUNGHOLT was a settlement in Nordfriesland, in what was then the Danish Duchy of Schleswig. The area is today located in Germany. Rungholt reportedly sank beneath the waves of the North Sea when a storm tide (known as the second _Grote Mandrenke_) hit the coast on 15 or 16 January 1362.

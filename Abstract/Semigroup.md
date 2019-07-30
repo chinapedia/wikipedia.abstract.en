@@ -1,0 +1,1 @@
+Semigroup_associative_image.svg

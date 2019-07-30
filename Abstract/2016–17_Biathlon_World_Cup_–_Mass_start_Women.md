@@ -1,0 +1,1 @@
+The 2016–17 BIATHLON WORLD CUP – MASS START WOMEN started on Sunday 18 December, 2016 in Nové Město and finished on Sunday 19 March, 2017 in Oslo Holmenkollen. The defending titlist was Gabriela Koukalová of the Czech Republic.

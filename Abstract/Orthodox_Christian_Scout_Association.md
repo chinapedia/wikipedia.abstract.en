@@ -1,0 +1,1 @@
+The ORTHODOX SCOUT ASSOCIATION was founded in 1968.[1] As of 2011, the Orthodox Scouts maintain a membership of approximately 2,500, ages 7 to 18.[2][3] They are aligned to the Arab and Druze Scouts Movement. The emblem features the wreath from the flag of the United Nations.

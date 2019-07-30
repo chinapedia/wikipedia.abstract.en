@@ -1,0 +1,1 @@
+MATT WALKER is an Australian blues musician.[1][2] His solo album _Soul Witness_ won a 2000 ARIA Award for Best Blues & Roots Album.[3] With _I Listen to the Night_ he was also nominated in 1998 for ARIAs for Best Male Artist[4] and Best World Music Album.[5] He contributed to Mick Harvey's soundtrack for _Australian Rules_[6] which won the ARIA for Best Original Soundtrack Album

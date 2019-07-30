@@ -1,0 +1,1 @@
+An OXYMORON (usual plural OXYMORONS, more rarely OXYMORA) is a rhetorical device that uses an ostensible self-contradiction to illustrate a rhetorical point or to reveal a paradox.[1][2] A more general meaning of "contradiction in terms" (not necessarily for rhetoric effect) is recorded by the _OED_ for 1902.[3].

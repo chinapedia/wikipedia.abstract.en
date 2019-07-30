@@ -1,0 +1,1 @@
+_LATINO_ ()[1] is an Italian, Sicilian, Sardinian, Spanish, and Portuguese noun and adjective often used in the United States to refer to people with cultural ties to Latin America, in contrast to _Hispanic_ which is a demonym that includes Spaniards and other speakers of the Spanish language.[2][3][4][5]

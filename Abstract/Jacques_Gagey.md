@@ -1,0 +1,1 @@
+Father JACQUES P. GAGEY (born Vesoul 1954) is a French Roman Catholic priest of the diocese of Paris and author,[1] who serves as the World Chaplain and World Ecclesiastical Assistant of the International Catholic Conference of Scouting (ICCS), based in Rome,[2] and served as the Chaplain General of the Scouts et Guides de France.

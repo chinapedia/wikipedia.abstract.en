@@ -1,0 +1,1 @@
+STEVEN ANDREW SODERBERGH (; born January 14, 1963)[1] is an American filmmaker, screenwriter, producer, and actor. He is considered one of the founding pioneers of the independent cinema movement and among the most acclaimed and prolific filmmakers of his generation.

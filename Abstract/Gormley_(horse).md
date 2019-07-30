@@ -1,0 +1,1 @@
+GORMLEY (foaled March 20, 2014, in Kentucky) is a two-time Grade I winning-American Thoroughbred racehorse. One of the leading contenders on the 2017 Road to the Kentucky Derby, Gormley finished ninth in the Derby and fourth in the Belmont Stakes. He was retired in October 2017 to Spendthrift Farm, where his sire, Malibu Moon stands.

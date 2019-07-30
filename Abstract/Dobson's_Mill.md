@@ -1,0 +1,1 @@
+DOBSON'S MILL is a working tower windmill for grinding wheat and corn which stands in the High Street in the village of Burgh-le-Marsh, near Skegness in Lincolnshire, England. The mill is open to the public as a tourist attraction and is a Grade I listed building.[1] The mill site also houses the Burgh-le-Marsh Heritage Centre.

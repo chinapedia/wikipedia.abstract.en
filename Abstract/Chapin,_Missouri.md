@@ -1,0 +1,1 @@
+CHAPIN is an unincorporated community in Howell County, in the U.S. state of Missouri.[1] The community was located along the St. Louis–San Francisco Railway on the north bank of Howell Creek approximately four miles southeast of West Plains.[2]

@@ -1,0 +1,1 @@
+GRÄFENBERG CASTLE (), also called LANDESEHRE CASTLE (_Burg Landesehre_), is a levelled hilltop castle near on the hill of . It is located near in the market municipality of Hösbach in the district of Aschaffenburg in the south German state of Bavaria.

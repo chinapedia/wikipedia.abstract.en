@@ -1,0 +1,1 @@
+POPE URBAN I () was Bishop of Rome or Pope from 222 to 23 May 230.[1] He was born in Rome and succeeded Pope Callixtus I, who had been martyred. It was previously believed for centuries that Urban I was also martyred. However, recent historical discoveries now lead scholars to believe that he died of natural causes.

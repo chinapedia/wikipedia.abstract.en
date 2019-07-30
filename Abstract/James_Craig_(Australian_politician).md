@@ -1,0 +1,1 @@
+JAMES FREDERICK CRAIG (22 December 1911 – 12 January 1989) was an Australian farmer and politician who was a Country Party member of the Legislative Assembly of Western Australia from 1959 to 1971, representing the seat of Toodyay. He served as a minister in the government of Sir David Brand.

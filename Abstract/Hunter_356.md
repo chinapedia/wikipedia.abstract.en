@@ -1,0 +1,1 @@
+The HUNTER 356 is an American sailboat, that was designed by Glenn Henderson. Hunter Marine built 500 examples of the design in the United States starting in 2000. The boat is now out of production.[1][2]

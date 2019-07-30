@@ -1,0 +1,1 @@
+CHRISTIÁN FRÝDEK (born 1 February 1999) is a Czech professional football midfielder currently playing for AC Sparta Prague. He is the son of former Czech international Martin Frýdek, along with his brother Martin, who is also a footballer.

@@ -1,0 +1,1 @@
+International_Maritime_Defence_Show_2011_(377-22).jpg The KAB-500KR[1] (Correctable air bomb - 500 kg) is an electro-optical TV-guided fire and forget bomb developed by the Soviet Air Force in the 1980s. It remains in service with the CIS and various export customers.

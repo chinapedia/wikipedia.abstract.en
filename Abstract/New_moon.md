@@ -1,0 +1,1 @@
+New_Moon.jpg and Starlight]] In astronomy, the _' new moon_' is the first lunar phase, when the Moon and Sun have the same ecliptic longitude.[1] At this phase, the lunar disk is not visible to the unaided eye, except when silhouetted during a solar eclipse. Daylight outshines the earthlight that dimly illuminates the new moon. The actual phase is usually a very thin crescent.[2]

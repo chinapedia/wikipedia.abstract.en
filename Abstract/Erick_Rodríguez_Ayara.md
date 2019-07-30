@@ -1,0 +1,1 @@
+ERICK RODRÍGUEZ AYARA (born 8 December 1968) is a retired Costa Rican professional footballer who plays as a midfielder.[1] He is the father of Ariel Rodríguez, also an international football with Costa Rica.

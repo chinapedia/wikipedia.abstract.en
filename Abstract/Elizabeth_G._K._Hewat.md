@@ -1,0 +1,1 @@
+ELIZABETH GLENDINNING KIRKWOOD HEWAT (16 September 1895 – 13 October 1968) was the first woman to graduate BD and PhD at New College, University of Edinburgh, a missionary, a campaigner for women's equality in the Church of Scotland, and an historian of Scottish missions.

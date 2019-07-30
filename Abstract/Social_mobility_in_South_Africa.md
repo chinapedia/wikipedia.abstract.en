@@ -1,0 +1,1 @@
+SOCIAL MOBILITY IN SOUTH AFRICA refers to the movement of South Africans from one social class to another. it is the study of upward socio-economic change in status achievable by South Africans from generation to generation.

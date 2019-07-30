@@ -1,0 +1,1 @@
+_COLLECTANEA MATHEMATICA_ is a mathematical journal of the Institute of Mathematics of the University of Barcelona (IMUB), published by Springer since 2011, with a periodicity of three issues per year. It publishes original research papers of high quality in all fields of pure and applied mathematics.

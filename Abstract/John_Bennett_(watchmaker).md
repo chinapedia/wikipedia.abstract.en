@@ -1,0 +1,1 @@
+John Bennett}} SIR JOHN BENNETT FRAS (15 October 1814 – 3 July 1897) was a watchmaker and local politician. He was described by one biographer as a "flamboyant personality who seems to have aroused in his contemporaries varying degrees of ridicule, hostility, and admiration".[1]

@@ -1,0 +1,1 @@
+_DECADES LIVE_ is the second live album by Foghat, released in 2003. It is the first live album by the band since 1977's _Foghat Live_. It contains live recordings of the band, featuring different lineups, from between 1977 and 1996.

@@ -1,0 +1,1 @@
+was a Japanese art historian, critic and businessman who served as the fifth president of the Japan Ceramics Association from 1984 to 1990.[1] Before that, he was also a sympathiser for the cause of the Japanese Communist Party.[2][3]

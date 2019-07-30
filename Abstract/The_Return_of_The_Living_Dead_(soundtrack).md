@@ -1,0 +1,1 @@
+'''''The Return of the Living Dead ''''' is the original soundtrack from the film of the same name, released in 1985 by Enigma Records.[1] The film itself is a horror comedy film written and directed by Dan O'Bannon about a group of teenage punks dealing with a horde of brain-hungry zombies.

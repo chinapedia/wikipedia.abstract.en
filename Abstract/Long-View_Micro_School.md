@@ -1,0 +1,1 @@
+LONG-VIEW MICRO SCHOOL is a STEM focused school located in Austin, Texas. It opened in the Fall of 2015 and grew out of the work by the number lab, an organization working to improve education by educating teachers and learners.[1] Currently, Long-View teaches students in grades 2–8 in mixed-age level classrooms.

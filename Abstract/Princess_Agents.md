@@ -1,0 +1,1 @@
+_PRINCESS AGENTS_ () is a 2017 Chinese television series based on the novel _11 Chu Te Gong Huang Fei_ (11处特工皇妃) written by Xiao Xiang Dong Er (潇湘冬儿). It stars Zhao Liying, Lin Gengxin, Shawn Dou and Li Qin. The series aired on Hunan TV from 5 June to 1 August 2017.[1]

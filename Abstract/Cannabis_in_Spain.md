@@ -1,0 +1,1 @@
+Million_Marijuana_March.jpg CANNABIS IN SPAIN is illegal for commercial purposes, but decriminalised for personal cultivation and use, and other purposes other than sale or trade.[1][2] Using the legal grey areas in Spanish legislation, cannabis clubs are a popular way for enthusiasts to obtain and use cannabis as a technically-legal private collective.

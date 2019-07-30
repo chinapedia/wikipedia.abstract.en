@@ -1,0 +1,1 @@
+HAMISH MCDOUALL is a New Zealand local government politician and member of the New Zealand Labour Party.[1] After serving one term as Deputy mayor to Annette Main, McDouall succeeded the Whanganui mayoralty in the 2016 local government elections. McDouall was previously Labour's candidate for the Whanganui electorate but lost to incumbent Chester Borrows in 2008, 2011 and 2014.

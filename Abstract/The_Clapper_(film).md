@@ -1,0 +1,1 @@
+_THE CLAPPER_ is an American comedy film written and directed by Dito Montiel, based upon Montiel's novel _Eddie Krumble Is the Clapper_. It stars Ed Helms, Amanda Seyfried, Tracy Morgan, Adam Levine, Mickey Gooch Jr. and Russell Peters. The film marks the final film role of Alan Thicke, who died December 13, 2016.

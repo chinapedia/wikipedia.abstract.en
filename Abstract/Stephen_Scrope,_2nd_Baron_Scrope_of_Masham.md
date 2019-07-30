@@ -1,0 +1,1 @@
+STEPHEN SCROPE, 2ND BARON SCROPE OF MASHAM and Upsale (1345-1406) was the second surviving son of Henry Scrope, 1st Baron Scrope of Masham and his second wife Joan.[1] Stephen Scrope had a brother, John, and a sister Joan, who married Hugh FitzHugh, 2nd Baron FitzHugh[2]

@@ -1,0 +1,1 @@
+RHYSE MARTIN (born 1 March 1993) is a Papua New Guinean international rugby league footballer who plays as a forward for the Leeds Rhinos in the Super League. He previously played for Canterbury-Bankstown Bulldogs in the NRL.

@@ -1,0 +1,1 @@
+The MEN'S TIME TRIAL B road cycling event at the 2016 SUMMER PARALYMPICS took place on the afternoon of 14 September at Flamengo Park, Pontal. 24 riders (with pilots) competed over two laps of a fifteen kilometre course.[1]

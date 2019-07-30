@@ -1,0 +1,1 @@
+The ST. JOHN THE BAPTIST CATHEDRAL[1] () Also CALAMA CATHEDRAL[2] Is the main Catholic temple of the Diocese of San Juan Bautista de Calama, in Chile.[3] It is located in the heart of the city, in front of the plaza 23 de Marzo, and was erected by the Bishop of Antofagasta Monsignor Luis Silva Lezaeta in the year 1906.

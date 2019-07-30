@@ -1,0 +1,1 @@
+ABBEYLEIX HOUSE, sometimes called ABBEYLEIX CASTLE, is an Irish country house that was the residence of the Viscounts de Vesci in County Laois, Ireland. It was designed by architect James Wyatt and built by Sir William Chambers in 1773. The De Vesci family lived at Abbeyleix House until it was sold in the mid-1990's. The Abbeyleix is the oldest planned estate town in Ireland.[1]

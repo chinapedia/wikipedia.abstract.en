@@ -1,0 +1,1 @@
+DOUG EDWARDS (March 15, 1946 – November 11, 2016) was a Canadian musician, composer and multi instrumentalist best known for co-creating the hit song "Wildflower" for the pop/rock band Skylark. He was also part of The Hometown Band and later was bassist for Vancouver band Chilliwack.

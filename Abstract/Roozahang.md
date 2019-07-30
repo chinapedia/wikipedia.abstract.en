@@ -1,0 +1,1 @@
+ROOZAHANG (روزآهنگ) is the Avestan language name of a Zoroastrian benevolent divinity associated with life-bringing rainfall and fertility. ROOZAHANG or Tishtrya is TIR in Middle- and Modern Persian. As has been judged from the archaic context in which Tishtrya (Roozahang) appears in the texts of the Avesta, the divinity/concept is almost certainly of Indo-Iranian origin.

@@ -1,0 +1,1 @@
+BLACKPOOL GREYHOUND STADIUM was a greyhound track in Blackpool, Lancashire. It is not to be confused with the Blackpool Squires Gate Greyhound Stadium, a short lived track that was nearby but to the south.

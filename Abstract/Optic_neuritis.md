@@ -1,0 +1,1 @@
+OPTIC NEURITIS is a demyelinating inflammation of the optic nerve. It is also known as optic papillitis (when the head of the optic nerve is involved) and retrobulbar neuritis (when the posterior part of the nerve is involved). It is most often associated with multiple sclerosis, and it may lead to complete or partial loss of vision in one or both eyes.

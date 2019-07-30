@@ -1,0 +1,1 @@
+AKSHATAU (also known as AQSHATAU[1] (, _Aqshataý_, _اقشاتاۋ_; , _Akshatau_) is a town in Aktobe Region, west Kazakhstan. It lies at an altitude of .[2] Rare metal deposits can be found near Akshatau.[3]

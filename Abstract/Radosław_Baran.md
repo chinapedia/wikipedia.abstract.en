@@ -1,0 +1,1 @@
+RADOSŁAW BARAN (born 5 November 1989 in Krotoszyn, Poland)[1] is a Polish freestyle wrestler. He competed in the men's freestyle 97 kg event at the 2016 Summer Olympics, in which he was eliminated in the repechage by Reza Yazdani.[2][3]

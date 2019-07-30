@@ -1,0 +1,1 @@
+The MEUSE ( , also ,[1][2][3] ; ) or MAAS ( ,[4][5][6] ; or _Maas_) is a major European river, rising in France and flowing through Belgium and the Netherlands before draining into the North Sea from the Rhine–Meuse–Scheldt delta. It has a total length of .

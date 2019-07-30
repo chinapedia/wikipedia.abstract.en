@@ -1,0 +1,1 @@
+A FLAMSTEED DESIGNATION is a combination of a number and constellation name that uniquely identifies most naked eye stars in the modern constellations visible from southern England. They are named for John Flamsteed who first used them while compiling his _Historia Coelestis Britannica_.

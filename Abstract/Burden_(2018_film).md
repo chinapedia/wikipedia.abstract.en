@@ -1,0 +1,1 @@
+_BURDEN_ is an 2018 American drama film, inspired by true events. The film was produced by Robbie Brenner and was written and directed by Andrew Heckler.[1] The film stars Garrett Hedlund, Forest Whitaker, Andrea Riseborough, Tom Wilkinson, Tess Harper, and Usher.[2] The film premiered at the 2018 Sundance Film Festival and won the U.S. Dramatic Audience Award.[3]

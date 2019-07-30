@@ -1,0 +1,1 @@
+MAXWELL JENKINS (born May 3, 2005) is an American actor who is known for his roles in _Betrayal_ and _Sense8_.[1] In 2016, he played the role of Ryan Jensen in _A Family Man_.[2] In 2018, he appears as Will Robinson in _Lost in Space_, the Netflix remake of the 1965 TV series.[3][4] The series is ongoing, and is expected to release more episodes in late 2019.[5]

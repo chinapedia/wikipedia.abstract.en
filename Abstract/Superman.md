@@ -1,0 +1,1 @@
+SUPERMAN is a fictional superhero. The character was created by writer Jerry Siegel and artist Joe Shuster, and first appeared in _Action Comics_ #1, a comic book published on April 18, 1938.[1] The character regularly appears in comic books published by DC Comics, and has been adapted to a number of radio serials, movies, and television shows.

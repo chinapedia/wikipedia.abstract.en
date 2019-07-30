@@ -1,0 +1,1 @@
+In logic and related fields such as mathematics and philosophy, IF AND ONLY IF (shortened IFF) is a biconditional logical connective between statements, where either both statements are true or both are false.

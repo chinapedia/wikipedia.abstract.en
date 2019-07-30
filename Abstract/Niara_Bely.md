@@ -1,0 +1,1 @@
+NIARA BELY (c. 1790 – 1879), also known as ELIZABETH BAILEY GOMEZ, was a Luso-African queen who became a prominent businesswoman in nineteenth century Guinea. She was active in the slave trade in Farenya, Guinea.

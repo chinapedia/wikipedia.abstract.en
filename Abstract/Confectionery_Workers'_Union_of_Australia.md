@@ -1,0 +1,1 @@
+The CONFECTIONERY WORKERS' UNION OF AUSTRALIA (CWUA) was an Australian trade union which existed between 1925 and 1992. It represented production workers in the confectionery industry, including many female members.

@@ -1,0 +1,1 @@
+The CONGRESSIONAL CONSTITUTION CAUCUS is a Congressional Member Organization made up of 41 members of the United States Congress, The caucus was founded in 2005.[1] The caucus had 37 members the first year it was founded.

@@ -1,0 +1,1 @@
+KINGSWAY MANSIONS is a three-story apartment block dating back from 1928 that has Cape Dutch and classical design elements in the decoration of the balconies and the gables along the main façade towards Kingsway Avenue. The building has 27 units with 21 of its apartments being 100 square metres and the remaining 6 ‘studios” 65 square metres each.[1]

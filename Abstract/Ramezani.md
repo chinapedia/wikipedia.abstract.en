@@ -1,0 +1,1 @@
+RAMEZANI (, adjective form of "Ramadan") is a Persian language surname which in its Latin transcription of the Perso-Arabic alphabet is also common among the Iranian diaspora.[1][2][3] Notable people with the surname include:

@@ -1,0 +1,1 @@
+Shaw_Park,_Clayton.jpg SHAW PARK is a 47 acre park located in Clayton, Missouri. It is bordered by Forsyth Boulevard and Forest Park Parkway on the north and south, and Interstate 170 and Forsyth Boulevard on the west and east. It is the largest and oldest park in the area.

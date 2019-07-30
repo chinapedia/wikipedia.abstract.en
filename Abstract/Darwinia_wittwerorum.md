@@ -1,0 +1,1 @@
+_DARWINIA WITTWERORUM_, commonly known as WITTWER'S DARWINIA, is a plant in the myrtle family Myrtaceae and is endemic to a small area in Western Australia. An erect, spindly shrub with fine leaves and hanging groups of flowers surrounded by leaf-like bracts, it is one of the darwinias known as mountain bells.

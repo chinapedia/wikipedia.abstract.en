@@ -1,0 +1,1 @@
+DAVID JOSEPH LEAHY (19 October 1883 – 19 December 1948) was an Australian trade unionist and politician who was a Labor Party member of the Legislative Assembly of Western Australia from 1938 until his death, representing the seat of Hannans.

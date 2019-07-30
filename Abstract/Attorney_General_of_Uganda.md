@@ -1,0 +1,1 @@
+The ATTORNEY GENERAL OF UGANDA is the principal legal adviser to the government of Uganda. The office of the attorney general, is a cabinet-level government position in the country. The incumbent, William Byaruhanga, was appointed on 6 June 2016.[1]

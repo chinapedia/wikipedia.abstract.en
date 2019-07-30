@@ -1,0 +1,1 @@
+JOHN MATHIAS ENGLER (born October 12, 1948) is an American businessman and member of the Republican Party who was elected to serve three terms as the 46th Governor of Michigan from 1991 to 2003. He later worked for Business Roundtable, where _The Hill_ called him one of the country's top lobbyists.[1]

@@ -1,0 +1,1 @@
+The MINNESOTA TWINS are an American professional baseball team based in Minneapolis, Minnesota. The team competes in the Central division of the American League (AL), and is named after the Twin Cities area comprising Minneapolis and St. Paul.

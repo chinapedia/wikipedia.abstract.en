@@ -1,0 +1,1 @@
+HIT SOUTH QUEENSLAND is an Australian commercial radio station broadcasting to South West Queensland and the Darling Downs. Owned and operated by Southern Cross Austereo, the station broadcasts a contemporary hit radio music format with a local breakfast show based from studios in Toowoomba.

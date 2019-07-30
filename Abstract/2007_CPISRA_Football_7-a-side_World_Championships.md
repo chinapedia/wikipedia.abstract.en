@@ -1,0 +1,1 @@
+The 2007 CPISRA FOOTBALL 7-A-SIDE WORLD CHAMPIONSHIPS was the world championship for men's national 7-a-side association football teams. CPISRA stands for Cerebral Palsy International Sports & Recreation Association. Athletes with a physical disability competed. The Championship took place in Brazil from 5 November to 18 November 2007.

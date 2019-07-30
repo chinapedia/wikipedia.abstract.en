@@ -1,0 +1,1 @@
+_ENGAL SELVI_ () is a 1960 Tamil language drama film, produced by T. E. Vasudevan under the Associate Producers banner and directed by D. Yoganand. It stars Akkineni Nageswara Rao and Anjali Devi in the lead roles, with music composed by K. V. Mahadevan. The film was a remake of Hindi film _Lajwanti_.[1] The film was dubbed into Telugu as _Kanna Kuthuru_ (1960).[2][3]

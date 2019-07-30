@@ -1,0 +1,1 @@
+JOSEPH OSBORNE was the author of _The Horsebreeder's Handbook_, journalist for "Bell's Life of London" under the pen name "Beacon". Osborne was born in County Meath, Ireland in 1810 and died in Brighton 1901.

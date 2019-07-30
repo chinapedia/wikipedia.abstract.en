@@ -1,0 +1,1 @@
+THULE ( , , ) was, in ancient Greek and Roman literature and cartography, a semi-mythical place located in the far north usually an island. THULE may also refer to:

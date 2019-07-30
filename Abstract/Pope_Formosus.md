@@ -1,0 +1,1 @@
+POPE FORMOSUS (896) was Cardinal-bishop and Pope, his papacy lasting from 6 October 891 to his death in 896. His brief reign as Pope was troubled, marked by interventions in power struggles over the Patriarchate of Constantinople, the kingdom of West Francia, and the Holy Roman Empire. Formosus's remains were exhumed and put on trial in the Cadaver Synod.

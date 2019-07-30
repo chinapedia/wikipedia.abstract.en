@@ -1,0 +1,1 @@
+A SPOONERISM is an error in speech in which corresponding consonants, vowels, or morphemes are switched (see Metathesis) between two words in a phrase.[1][2] These are named after the Oxford don and ordained minister William Archibald Spooner, who was famous for doing this.

@@ -1,0 +1,1 @@
+PANAMA ( , ; ), officially the REPUBLIC OF PANAMA (), is a country in Central America,[1] bordered by Costa Rica to the west, Colombia to the southeast, the Caribbean Sea to the north, and the Pacific Ocean to the south. The capital and largest city is Panama City, whose metropolitan area is home to nearly half the country's {{#expr:/1e6 round 0}} million people.

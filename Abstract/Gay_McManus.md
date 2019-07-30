@@ -1,0 +1,1 @@
+GABRIEL "GAY" MCMANUS (born 28 March 1958) is an Irish former Gaelic footballer. His league and championship career with the Galway senior team spanned twelve seasons from 1977 until 1989. He played his club football with Milltown.[1]

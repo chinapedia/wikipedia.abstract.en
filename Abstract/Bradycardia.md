@@ -1,0 +1,1 @@
+BRADYCARDIA is a condition typically defined wherein an individual has a resting heart rate of under 60 beats per minute (BPM) in adults.[1] Bradycardia typically does not cause symptoms until the rate drops below 50 BPM. When symptomatic, it may cause fatigue, weakness, dizziness, sweating, and at very low rates, fainting.[2]

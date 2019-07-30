@@ -1,0 +1,1 @@
+ROBERT E. MNUCHIN (born 1933) is an American art dealer and former banker. He is the founder of the Mnuchin Gallery at 45 East 78th Street, New York. He is the father of Steven Mnuchin, who is the United States Secretary of the Treasury in the Trump administration.

@@ -1,0 +1,1 @@
+"" (I dreamed last night) is a German folk song. It is a melancholic song that tells of a disturbing dream foreshadowing death – a rosemary tree in the garden, falling leaves, and a jar broken to pieces and bleeding a red liquid. In Northern Germany, rosemary was planted in graveyards, and mourners at funerals would sometimes wear rosemary stalks.

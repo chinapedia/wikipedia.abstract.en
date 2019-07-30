@@ -1,0 +1,1 @@
+RENARD I, also spelled REYNALD, RAYNALD, RAINARD or RENAUD (died 1190/1), was the lord or count of Dampierre-le-Château in the Astenois and a vassal of the count of Champagne. He succeeded his father Henry sometime between 1161 and 1163.

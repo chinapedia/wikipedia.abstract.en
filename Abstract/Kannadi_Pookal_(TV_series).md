@@ -1,0 +1,1 @@
+KANNAADI POOKKAL () is a 2016-2016 Singapore-Tamil Romance Family soap opera starring Nithiyia Rao, Varman Chandra Mohan and Shafinah Banu. It aired on MediaCorp Vasantham.[1] from 29 August 2016 to 27 October 2016 on Monday and Thursday at 10:30 SST for 33 episodes.[2]

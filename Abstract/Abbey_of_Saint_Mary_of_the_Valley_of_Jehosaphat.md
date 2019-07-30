@@ -1,0 +1,1 @@
+Mary's_tomb,Melisende_IMG_0251c.jpg]] ABBEY OF SAINT MARY OF THE VALLEY OF JEHOSAPHAT was a Benedictine abbey situated east of the Old City of Jerusalem, founded by Godfrey of Bouillon on the believed site of the Tomb of the Virgin Mary.

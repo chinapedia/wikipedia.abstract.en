@@ -1,0 +1,1 @@
+JOHN CLAGGETT DANFORTH (born September 5, 1936) is a retired American politician who began his career in 1968 as the Attorney General of Missouri and served three terms as United States Senator from Missouri. In 2004, he served briefly as United States Ambassador to the United Nations. Danforth is an ordained Episcopal priest.

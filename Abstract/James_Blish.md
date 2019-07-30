@@ -1,0 +1,1 @@
+JAMES BENJAMIN BLISH (May 23, 1921 – July 30, 1975) was an American science fiction and fantasy writer. He is best known for his _Cities in Flight_ novels, and his series of _Star Trek_ novelizations written with his wife, J. A. Lawrence. He is credited with creating the term gas giant to refer to large planetary bodies.

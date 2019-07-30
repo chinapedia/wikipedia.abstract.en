@@ -1,0 +1,1 @@
+_IL RE PASTORE_ is a 1751 Italian-language opera libretto written by Metastasio. It was first set by Giuseppe Bonno in 1751, but best known today in the version by Gluck (1756) and the Il re pastore of Mozart (1775).

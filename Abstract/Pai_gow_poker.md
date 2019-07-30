@@ -1,0 +1,1 @@
+PAI GOW POKER (also called DOUBLE-HAND POKER) is a version of pai gow that is played with playing cards, instead of traditional pai gow's Chinese dominoes. The game of pai gow poker was created in 1985 in the United States by Sam Torosian, owner of the Bell Card Club.[1]

@@ -1,0 +1,1 @@
+HORACE OSCAR AXEL ENGDAHL (born 30 December 1948) is a Swedish literary historian and critic, and has been a member of the Swedish Academy since 1997. He was the permanent secretary of the Swedish Academy from 1999 to June 2009, when he was succeeded by Swedish author and historian Peter Englund.

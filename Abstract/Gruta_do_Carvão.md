@@ -1,0 +1,1 @@
+The GRUTA DO CARVÃO (_Grotto of Coal_) is an ancient lava tube located on the outskirts of the municipality of Ponta Delgada (in the civil parish of Santa Clara) on the island of São Miguel in the Portuguese archipelago of the Azores.

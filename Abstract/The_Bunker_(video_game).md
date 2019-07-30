@@ -1,0 +1,1 @@
+_THE BUNKER_ is a full motion video (FMV) adventure horror video game developed by British game developer Splendy Games and published by Wales Interactive. It was released on Microsoft Windows, OS X, PlayStation 4 on 20 September 2016 followed by Xbox One on 23 September 2016 and Nintendo Switch on 9 April 2018.

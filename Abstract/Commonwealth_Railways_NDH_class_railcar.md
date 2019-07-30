@@ -1,0 +1,1 @@
+The NDH CLASS RAILCAR was a type of diesel railcar designed by Commonwealth Engineering and built by the Gloucester Railway Carriage & Wagon Company in England for the Commonwealth Railways, Australia in 1954.[1][2][3]

@@ -1,0 +1,1 @@
+11Β-METHYL-19-NORTESTOSTERONE (11Β-MNT) is a synthetic and orally active anabolic–androgenic steroid (AAS) and a derivative of nandrolone (19-nortestosterone) which was developed by the Contraceptive Development Branch (CDB) of the National Institute of Child Health and Human Development (NICHD) and has not been marketed at this time.[1][2][3]

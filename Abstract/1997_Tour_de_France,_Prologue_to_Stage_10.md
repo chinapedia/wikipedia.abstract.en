@@ -1,0 +1,1 @@
+Route_of_the_1997_Tour_de_France.png The 1997 Tour de France was the 84th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Rouen with a prologue individual time trial on 5 July and Stage 10 occurred on 15 July with a mountainous stage to Andorra Arcalis. The race finished on the Champs-Élysées in Paris on 27 July.

@@ -1,0 +1,1 @@
+PHILIP HESS HOUSE, also known as the ROBERT R. JEFFERSON HOUSE and BOWMAN HOUSE, is a historic home located in Jefferson City, Cole County, Missouri. It was built between 1857 and 1864, and is a one-story, five bay, Missouri-German Vernacular brick home. It has a gable roof and decorative brick cornice.[1]

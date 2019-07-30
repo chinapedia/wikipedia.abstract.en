@@ -1,0 +1,1 @@
+EMIL KRAEPELIN (; ; 15 February 1856 – 7 October 1926) was a German psychiatrist. H. J. Eysenck's _Encyclopedia of Psychology_ identifies him as the founder of modern scientific psychiatry, psychopharmacology and psychiatric genetics.

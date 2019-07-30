@@ -1,0 +1,1 @@
+'''Corinne Lagache ''' (born 9 December 1975 in Caen) is a French footballer who played as a goalkeeper for the France women's national football team. She was part of the team at the UEFA Women's Euro 2001. On club level she played for La Roche ESOF in France.[1]

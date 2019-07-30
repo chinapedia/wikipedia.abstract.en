@@ -1,0 +1,1 @@
+NAYDEN APOSTOLOV ( _Najden Apostolov_; 19 August 1948 – 22 October 2012) was a Bulgarian geographer, theorist, writer and professor at the Department of Economics and Organization of Tourism, faculty Management at University of Economics - Varna, Bulgaria.

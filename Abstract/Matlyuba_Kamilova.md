@@ -1,0 +1,1 @@
+MATLYUBA KAMILOVA, also MATLUBA, (born 1960) is an Uzbek human rights activist and school principal. In 2016, Samantha Power, the U.S. Ambassador to the U.N., named her one of twenty women political prisoners in the FreeThe20 campaign.[1]

@@ -1,0 +1,1 @@
+CHARTERS HOUSE is a Grade II listed[1] building overlooking Sunningdale, Berkshire, built in 1938. The architects were George Adie and H. G. Hammond of Adie, Button and Partners for Frank Parkinson.[2]

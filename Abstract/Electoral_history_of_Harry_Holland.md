@@ -1,0 +1,1 @@
+Harry_Holland_(1922).jpg This is a summary of the ELECTORAL HISTORY OF HARRY HOLLAND, Leader of the Opposition, (1926–28; 1931–33) Leader of the Labour Party (1919–33) and Member of parliament for Grey (1918–19) and Buller (1919–33).

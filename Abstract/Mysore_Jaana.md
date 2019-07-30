@@ -1,0 +1,1 @@
+_MYSORE JAANA_ is a 1992 Indian Kannada-language romantic drama film produced & directed by A. T. Raghu and written by H. V. Subba Rao. The film stars Ambarish, Vinaya Prasad and Anjana with Doddanna, Vajramuni, Mukhyamantri Chandru, Sudheer and Lohithaswa in key supporting roles.

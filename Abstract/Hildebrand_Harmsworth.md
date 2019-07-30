@@ -1,0 +1,1 @@
+Hildebrand_Aubrey_Harmsworth.jpg Kathleen_Harmsworth.jpg Hildebrand_Harmsworth.jpg SIR HILDEBRAND AUBREY HARMSWORTH, 1ST BARONET (15 March 1872 – 1929) was a British newspaper proprietor, twice unsuccessful parliamentary candidate, and member of the Harmsworth publishing family.

@@ -1,0 +1,1 @@
+CHIOMA UDE is a Nigerian entertainment executive. In 2010, she founded Africa International Film Festival, a film festival that holds annually in Nigeria. She was acknowledged by 36 ng.com.ng as one of the most influential women in the entertainment scene in Nigeria.[1]

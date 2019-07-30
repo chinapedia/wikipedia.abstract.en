@@ -1,0 +1,1 @@
+_MIDAIR_ is a free-to-play first-person shooter by Archetype Studios. The game is influenced by the _Tribes_ franchise,[1] emphasizing freedom of movement with jetpacks and skiing, while also featuring large open maps and vehicles. The game was developed with Unreal Engine 4, and was released on May 3, 2018.[2]

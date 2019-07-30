@@ -1,0 +1,1 @@
+_GEODORCUS_ is a genus of beetles belonging to the Lucanidae family. They are endemic to New Zealand.[1] All _Geodorcus_ species are protected under Schedule 7 of The 1953 Wildlife Act, making it an offense to hunt, kill or possess a specimen.[2]

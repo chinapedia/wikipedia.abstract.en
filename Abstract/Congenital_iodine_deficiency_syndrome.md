@@ -1,0 +1,1 @@
+Cretin}} CONGENITAL IODINE DEFICIENCY SYNDROME, previously known as CRETINISM, is a condition of severely stunted physical and mental growth owing to untreated congenital deficiency of thyroid hormone (congenital hypothyroidism) usually owing to maternal hypothyroidism.

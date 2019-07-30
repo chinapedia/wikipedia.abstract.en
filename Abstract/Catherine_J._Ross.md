@@ -1,0 +1,1 @@
+CATHERINE J. ROSS is a professor of law at The George Washington University Law School where she is a constitutional law expert specializing in the First Amendment as well as family law and the legal and policy issues affecting children and families.[1]

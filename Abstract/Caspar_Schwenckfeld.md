@@ -1,0 +1,1 @@
+Kaspar-Schwenkfeld.jpg CASPAR (or KASPAR) SCHWEN(C)KFELD VON OSSIG () (1489 or 1490 – 10 December 1561) was a German theologian, writer, and preacher who became a Protestant Reformer and spiritualist. He was one of the earliest promoters of the Protestant Reformation in Silesia.

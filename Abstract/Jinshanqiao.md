@@ -1,0 +1,1 @@
+JINSHANQIAO () is a subdistrict of Wangcheng district, Changsha, China. It is located on the center of West Wangcheng, the subdistrict is bordered by Wushan，Huangjinyuan subdistricts to the northwest, Leifeng to the southwest, Baishazhou, Gaotangling to the east. Jinshanqiao has an area of with a population of 20,858. the subdistrict has 3 villages under its jurisdiction.[1]

@@ -1,0 +1,1 @@
+LOURDES QUISUMBING (February 13, 1921 – October 14, 2017) served as the Philippines' Secretary of Education, Culture, and Sports from 1986 to 1989, under the presidency of Corazon Aquino. Prior to serving as Secretary, she was the president of Maryknoll College.[1]

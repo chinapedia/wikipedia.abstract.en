@@ -1,0 +1,1 @@
+JACKSON COUNTY is a county located in the U.S. state of Michigan. Its population was 160,248 as of the 2010 Census.[1] The county seat is Jackson.[2] The county was set off in 1829 and organized in 1832.[3] It is named for U.S. President Andrew Jackson and considered to be one of Michigan's "Cabinet counties", named for members of Jackson's Cabinet.[4]

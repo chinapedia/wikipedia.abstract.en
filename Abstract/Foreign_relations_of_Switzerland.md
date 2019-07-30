@@ -1,0 +1,1 @@
+The FOREIGN RELATIONS OF SWITZERLAND are the primary responsibility of the Federal Department of Foreign Affairs (FDFA). Some international relations of Switzerland are handled by other departments of the federal administration of Switzerland.

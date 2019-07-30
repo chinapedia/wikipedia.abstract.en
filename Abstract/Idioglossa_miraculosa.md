@@ -1,0 +1,1 @@
+_IDIOGLOSSA MIRACULOSA_ is a moth of the family Batrachedridae. It was described by Frey and Boll in 1878. It is found in North America, where it has been recorded from Florida, Illinois, North Carolina, Ohio, Tennessee and Texas.[1][2]

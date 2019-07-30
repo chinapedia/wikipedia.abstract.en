@@ -1,0 +1,1 @@
+_SCHIZOLAENA HYSTRIX_ is a tree in the family Sarcolaenaceae. It is endemic to Madagascar. The specific epithet __ is from the Latin meaning "spiny", referring to the porcupine-like appearance of the involucre.[1]

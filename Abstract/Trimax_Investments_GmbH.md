@@ -1,0 +1,1 @@
+TRIMAX INVESTMENTS GMBH is an Austrian company, registered in 2006 as a limited liability company. It works in the field of holding companies (excluding investment companies). It is based in Hallein, Salzburg.[1]

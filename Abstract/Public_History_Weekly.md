@@ -1,0 +1,1 @@
+PUBLIC HISTORY WEEKLY. THE INTERNATIONAL BLOGJOURNAL is a peer-reviewed academic journal on all aspects of public history addressing a wider audience to popularize academic research and debates.[1][2][3]

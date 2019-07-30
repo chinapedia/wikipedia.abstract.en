@@ -1,0 +1,1 @@
+MICHAEL ROBERT MILKEN (born July 4, 1946) is an American financier and philanthropist. He is noted for his role in the development of the market for high-yield bonds ("junk bonds"),[1] his conviction and long sentence following a guilty plea on felony charges for violating U.S. securities laws,[2] and his charitable giving.[3][4][5][6]

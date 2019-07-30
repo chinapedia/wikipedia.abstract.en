@@ -1,0 +1,1 @@
+THE CAPITOL CITY DUSTERS (also known as THE DUSTERS) were an American post hardcore band formed in Washington, D.C. in 1996. The group's 1998 debut album combined elements of the hardcore punk movement in D.C., as well as sentiments reminiscent of the first wave of punk music. In 2002, after a brief hiatus, the band released a second full-length, _Rock Creek_.

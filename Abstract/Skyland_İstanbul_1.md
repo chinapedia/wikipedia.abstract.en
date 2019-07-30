@@ -1,0 +1,1 @@
+Skyland_Istanbul.jpg SKYLAND ISTANBUL-1 and Skyland Istanbul-2[1] are mixed-use skyscrapers at the Seyrantepe neighborhood of Şişli district in Istanbul, Turkey. They are the tallest buildings in Istanbul, at tall. Designer of the buildings was Peter Vaughan of Broadway Malyan.

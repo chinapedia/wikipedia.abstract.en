@@ -1,0 +1,1 @@
+This article is about the list of SPORT LIBOLO E BENFICA basketball players. Benfica do Libolo is an Angolan basketball club from Kwanza Sul, Angola and plays their home games at Pavilhão Dreamspace in Luanda. The club was established in 1942.

@@ -1,0 +1,1 @@
+'''Zhou Hua ''' (born 3 October 1969) is a Chinese footballer who played as a midfielder for the China women's national football team. She was part of the team at the inaugural 1991 FIFA Women's World Cup and 1995 FIFA Women's World Cup.[1]

@@ -1,0 +1,1 @@
+ISIDORE MONTAGUE GLUCKSTEIN (2 November 1890 – 16 January 1975) was managing director, then chairman, then president of J. Lyons and Co., a restaurant chain, food manufacturing, and hotel conglomerate created in 1884 that dominated British mass-catering in the first half of the twentieth century.[1]

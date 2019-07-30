@@ -1,0 +1,1 @@
+ELISSA E. MURPHY is an American software engineer and a vice president of engineering at Google. Before working at Google, she was the chief technology officer and executive vice president of platforms at GoDaddy. She previously worked at Yahoo! as a vice president of engineering.

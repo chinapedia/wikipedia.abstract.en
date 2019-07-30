@@ -1,0 +1,1 @@
+The CENTRAL WASHINGTON RAILROAD (reporting mark CWRR) is a common freight carrier that operates in the Yakima, Washington area. The shortline railroad operates on two routes in the Yakima River valley and is owned by the Temple family, which also owns the Columbia Basin Railroad.[1]

@@ -1,0 +1,1 @@
+_DECALEPIS ARAYALPATHRA_ is a species of plant in the family Apocynaceae.[1] It is endemic to Peninsular India and known by its names of AMIRTHA PALAM in Tamil is a plant whose root is used in Ayurvedic medicines.[2] It belongs to the family Asclepiadaceae.

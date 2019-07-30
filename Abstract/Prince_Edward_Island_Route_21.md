@@ -1,0 +1,1 @@
+ROUTE 21, also known as BUNBURY ROAD and FORT AUGUSTUS ROAD, is a , two-lane, uncontrolled-access, secondary highway in central Prince Edward Island. Its western terminus is at Route 1 in Southport and its eastern terminus is at Route 323 in Fanning Brook. The route is in Queens and Kings counties.

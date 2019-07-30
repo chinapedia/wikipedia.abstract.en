@@ -1,0 +1,1 @@
+MOUSUMI NAG is a Bangladeshi model and actress. She made her media debut by the drama Shure Akaa Chobi [1] in 2006. _Shure Akaa Chobi_ was her first commercial success TV drama. After that, she acted 150 dramas. Mousumi is now one of the popular names in Bangladeshi TV drama industry. She also act in Bengali Movie. [2]

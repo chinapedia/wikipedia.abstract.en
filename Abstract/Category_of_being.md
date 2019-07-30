@@ -1,0 +1,1 @@
+In ontology, the different kinds or ways of being are called CATEGORIES OF BEING; or simply CATEGORIES. To investigate the categories of being is to determine the most fundamental and the broadest classes of entities.[1] A distinction between such categories, in making the categories or applying them, is called an ONTOLOGICAL DISTINCTION.

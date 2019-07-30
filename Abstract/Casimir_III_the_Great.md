@@ -1,0 +1,1 @@
+CASIMIR III THE GREAT (; 30 April 1310 – 5 November 1370) reigned as the King of Poland from 1333 to 1370. He was the third[1] son of King Władysław I ("the Elbow-high") and Duchess Jadwiga of Kalisz, and the last Polish king from the Piast dynasty.[2]

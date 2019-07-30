@@ -1,0 +1,1 @@
+The TERRITORIAL AUXILIARY AND VOLUNTEER RESERVE ASSOCIATIONs were formed in 1908 under the provisions of the Territorial and Reserve Forces Act 1907 to provide local support to the Territorial Force in the United Kingdom.[1]

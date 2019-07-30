@@ -1,0 +1,1 @@
+_RAMUDU KADU KRISHNUDU_ (English: NOT RAMA KRISHNA IS REQUIRED) is a 1983 Telugu drama film, produced by N. R. Anuradha Devi under the Lakshmi Films Combines banner[1] and directed by Dasari Narayana Rao.[2] The film stars Akkineni Nageswara Rao, Jayasudha, Raadhika in the lead roles[3] and music composed by Chakravarthy.[4]

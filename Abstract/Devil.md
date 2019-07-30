@@ -1,0 +1,1 @@
+022_devil_representation.JPG or Devil's Museum in Kaunas, Lithuania.]] La_tenture_de_lApocalypse_(Angers)_(2).jpg in a detail of panel III.40 of the medieval French Apocalypse Tapestry, produced between 1377 and 1382.]] Devils-from-Rila-monastery.jpg, in which demons are depicted as having grotesque faces and bodies.]]

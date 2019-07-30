@@ -1,0 +1,1 @@
+BABONGO[1] is a linear settlement in Mbéré, Adamawa Region, Cameroon.[2] It is located on the N1 (Meiganga-Ngaoundéré) road, between the villages of Garga and Manbaka, about an hour and forty minutes' drive from Ngaoundéré.

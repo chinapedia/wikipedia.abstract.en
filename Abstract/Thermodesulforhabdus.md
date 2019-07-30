@@ -1,0 +1,1 @@
+_THERMODESULFORHABDUS_ is an acetate oxidizing bacterial genus from the family of Syntrophobacteraceae.[1][2] Up to now there is only on species of this genus known (Thermodesulforhabdus norvegica).[3]

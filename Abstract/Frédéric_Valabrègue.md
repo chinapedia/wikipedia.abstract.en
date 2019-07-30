@@ -1,0 +1,1 @@
+FRÉDÉRIC VALABRÈGUE[1] (12 January 1952, Marseille) is a French writer, author of four novels, three autobiographical narratives and numerous writings on art. In 2011, he received the Prix Louis-Guilloux for his novel _Le Candidat_. His books are mostly published by [2]

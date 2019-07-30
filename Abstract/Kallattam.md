@@ -1,0 +1,1 @@
+_KALLATTAM_ ("Foul Play") is a 2016 Indian Tamil-language action film written and directed by G. Ramesh. The film features Nandha, Richard Rishi, and Ilavarasu in the lead roles, while Sharika, Arthi, and Baby Rethva Isvar play pivotal supporting roles. Featuring music composed by Umar Ezhilan, production for the film began in mid-2016.[1]

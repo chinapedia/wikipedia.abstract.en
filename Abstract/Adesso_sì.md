@@ -1,0 +1,1 @@
+"ADESSO SÌ" is a 1966 Italian song composed by Sergio Endrigo. The song premiered at the 16th edition of the Sanremo Music Festival, with a double performance by Endrigo and Chad & Jeremy, and placed at No. 8 in the competition.[1][2][3]

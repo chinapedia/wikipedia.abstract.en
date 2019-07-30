@@ -1,0 +1,1 @@
+JAMES LAFEYETTE HOBBY JR. is an American bishop of the Anglican Church in North America. He was elected the second bishop of the Diocese of Pittsburgh on 23 April 2016 and enthroned on 10 September 2016. He is married to Shari, also an Anglican priest, and they have three daughters.

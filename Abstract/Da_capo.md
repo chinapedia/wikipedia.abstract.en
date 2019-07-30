@@ -1,0 +1,1 @@
+Da_Capo_al_fine_example_short.png DA CAPO (, ) is an Italian musical term that means "from the beginning"[1] (literally, "from the head"). It is often abbreviated as D.C. The term is a directive to repeat the previous part of music, often used to save space, and thus is an easier way of saying to repeat the music from the beginning.

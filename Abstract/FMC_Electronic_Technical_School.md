@@ -1,0 +1,1 @@
+FMC ELECTRONIC TECHNICAL SCHOOL is located in Santa Rita do Sapucai, Minas Gerais, Brazil. Founded in 1959 by "Dona" Moreira and placed under the direction of the Society of Jesus, FMC ETE was the first school of electronics in Latin America, giving rise to Brazil's Electronics Valley.[1]

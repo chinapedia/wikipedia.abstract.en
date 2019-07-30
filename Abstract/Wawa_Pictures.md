@@ -1,0 +1,1 @@
+WAWA PICTURES () is an independent television production company based in Singapore. It has produced dramas such as _Three Wishes_ (2014), _Crescendo_ (2015), _Fire Up_ (2016) and _Doppelganger_ (2018). Recent variety shows include _Markets in Asia_ (2016) and _Sherlock at Work_ (2016) hosted by Quan Yi Fong and Vivian Lai / Pornsak respectively.

@@ -1,0 +1,1 @@
+ENVY-FREE ITEM ASSIGNMENT (EF assignment) is a fair item assignment problem, in which the fairness criterion is envy-freeness - each agent should receive a bundle that he believes to be at least as good as the bundle of any other agent.[1]

@@ -1,0 +1,1 @@
+THE SILVER PLATTER () is an award-winning 3-episode documentary focused on Israel's economic and social issues, which was created by Doron Tsabari, one of Israel's most decorated documentary filmmakers, and Amir Ben-David.

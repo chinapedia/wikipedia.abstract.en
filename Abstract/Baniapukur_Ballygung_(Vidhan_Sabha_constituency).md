@@ -1,0 +1,1 @@
+BANIAPUKUR BALLYGUNGE was a constituency of the West Bengal Legislative Assembly, used in the 1952 assembly election.[1] Baniapukur and Ballygunge were areas added to the Calcutta Corporation in 1889.[2] Baniapukur-Ballygunge was the sole two-member assembly seat in Calcutta.[3] One seat was reserved for Scheduled Castes, the other seat was unreserved.[4]

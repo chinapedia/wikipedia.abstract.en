@@ -1,0 +1,1 @@
+This article is about the demographic features of the population of the Maldives, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population. Population_estimates_of_Maldives.png Largest_cities_or_towns_of_Maldives_(2012).png

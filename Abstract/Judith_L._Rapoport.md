@@ -1,0 +1,1 @@
+JUDITH L. RAPOPORT is an American psychiatrist. She is the chief of the Child Psychiatry Branch at the National Institute of Mental Health (NIMH), part of the National Institutes of Health (NIH) in Bethesda, Maryland.

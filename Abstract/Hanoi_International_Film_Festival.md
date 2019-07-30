@@ -1,0 +1,1 @@
+The HANOI INTERNATIONAL FILM FESTIVAL (also known as HANIFF) is a biennial film festival founded in 2010 as the first international film festival in Vietnam. Prior to 2016, only Asian films participated in the competition. The festival is organized by the Vietnamese Ministry of Culture, Sports and Tourism.

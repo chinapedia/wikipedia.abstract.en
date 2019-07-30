@@ -1,0 +1,1 @@
+ÖZNUR ALAMUR (born July 7, 1997) is a Turkish female Paralympian athlete competing in the T11 and T12 disability class middle-distance events of 400m and 1500m.[1] She is a member of Gaziantep BB Disabled SK.[2]

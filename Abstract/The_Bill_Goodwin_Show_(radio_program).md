@@ -1,0 +1,1 @@
+_THE BILL GOODWIN SHOW_ is an old-time radio situation comedy in the United States. It was broadcast on CBS April 26, 1947 - December 13, 1947.[1] In October 1947, the program's name was changed to _LEAVE IT TO BILL_.[2]

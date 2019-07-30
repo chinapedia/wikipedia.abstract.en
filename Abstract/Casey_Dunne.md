@@ -1,0 +1,1 @@
+'''Casey Dunne ''' is an Irish rugby league footballer who plays for Longhorns RL in the ROI League. He plays as a or fullback. Dunne has also won the Towns cup and all-Ireland cup with his union club Ashbourne RFC along with intermediate and junior championships in GAA with his hometown club Duleek [1][2]

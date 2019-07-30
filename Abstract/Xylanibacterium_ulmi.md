@@ -1,0 +1,1 @@
+_XYLANIBACTERIUM ULMI_ is a Gram-positive, aerobic, rod-shaped and non-motile bacterium from the genus of Xylanibacterium which has been isolated from decayed wood of the tree _Ulmus nigra_ in Salamanca, Spain.[1][2][3][4]

@@ -1,0 +1,1 @@
+GIRINATH REDDY (born 8 October 1998) is an Indian cricketer.[1] He made his Twenty20 debut for Andhra in the 2015–16 Syed Mushtaq Ali Trophy on 4 January 2016.[2] He made his List A debut for Andhra in the 2016–17 Vijay Hazare Trophy on 4 March 2017.[3]

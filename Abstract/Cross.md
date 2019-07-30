@@ -1,0 +1,1 @@
+Cross2.svg'', a cross whose limbs are slanted]] A CROSS is a geometrical figure consisting of two intersecting lines or bars, usually perpendicular to each other. The lines usually run vertically and horizontally. A cross of oblique lines, in the shape of the Latin letter X, is also termed a saltire in heraldic terminology.

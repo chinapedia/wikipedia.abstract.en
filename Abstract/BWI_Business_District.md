@@ -1,0 +1,1 @@
+The BWI BUSINESS DISTRICT is a neighborhood and business district in Linthicum and Hanover that features over 11,000 hotel rooms and numerous office parks and shopping centers.[1] As the name suggests, the business district is benefited by nearby Baltimore-Washington International Airport.

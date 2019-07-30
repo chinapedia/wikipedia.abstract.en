@@ -1,0 +1,1 @@
+John_Rowles.jpg was one of the two first recipients in 1978.]] Runga2_small.jpg has won the award four times.]] Shihad.jpg frontman Jon Toogood has won the award three times.]] Lorde_Laneway_11.jpg won in 2014 for her debut album _Pure Heroine_.]] Marlon_Williams.jpg won in 2015.]]

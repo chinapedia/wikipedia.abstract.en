@@ -1,0 +1,1 @@
+In mathematics, FUNCTIONAL DECOMPOSITION is the process of resolving a functional relationship into its constituent parts in such a way that the original function can be reconstructed (i.e., recomposed) from those parts by function composition.

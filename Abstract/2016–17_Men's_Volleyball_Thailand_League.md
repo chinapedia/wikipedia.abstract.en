@@ -1,0 +1,1 @@
+The 2016–17 VOLLEYBALL THAILAND LEAGUE was the 12th season of the Thai League, the top Thai professional league for association volleyball clubs, since its establishment in 2005. A total of 8 teams competed in the league. The season started on 19 November 2016.[1]

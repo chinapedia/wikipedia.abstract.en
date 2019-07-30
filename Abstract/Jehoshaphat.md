@@ -1,0 +1,1 @@
+JEHOSHAPHAT, according to 1 Kings 15:24, was the son of Asa, and the king of the Kingdom of Judah, in succession to his father. His children included Jehoram, who succeeded him as king. His mother was Azubah. Historically, his name has sometimes been connected with the Valley of Josaphat.[1]

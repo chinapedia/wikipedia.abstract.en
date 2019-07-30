@@ -1,0 +1,1 @@
+KNABROSTRÆDE is a street in the Old Town of Copenhagen, Denmark. It runs from Strøget (Vimmelskaftet/Nygade) in the northwest to Nybrogade at Slotsholmen Canal in the southeast, crossing Strædet (Kompagnistræde) on the way.

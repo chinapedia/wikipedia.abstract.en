@@ -1,0 +1,1 @@
+Cell_Park,_Markyate_(geograph_2584464).jpg CELL PARK (previously known as MARKYATE CELL) is a country house in Markyate, Hertfordshire near Luton, England. The house dates from the 16th century, has been modified at various times since then and was largely rebuilt in 1908 after a fire. It stands in 79 acres of land and is a Grade II* listed building. [1]

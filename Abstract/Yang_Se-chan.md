@@ -1,0 +1,1 @@
+YANG SE-CHAN (born December 8, 1986), is a South Korean singer and comedian.[1][2] As of April 2017, Yang, along with Jeon So-min, was added as a regular cast member of South Korean variety show _Running Man_.[3]

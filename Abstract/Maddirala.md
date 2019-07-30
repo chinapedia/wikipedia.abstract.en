@@ -1,0 +1,1 @@
+'''Maddirala ''' is a village in Suryapet district of the Indian state of Telangana.It is located in Maddirala mandal of Suryapet division.[1].It is about 36 km from the district headquarters Suryapet.

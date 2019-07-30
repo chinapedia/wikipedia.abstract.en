@@ -1,0 +1,1 @@
+AHMET CAN DURAN (born January 28, 1999) is a Turkish professional basketball player who plays for Fenerbahçe of the Turkish Basketball Super League (BSL). Standing at a height of , he plays the center position.

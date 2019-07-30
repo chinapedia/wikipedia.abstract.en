@@ -1,0 +1,1 @@
+In mathematics, FREDHOLM SOLVABILITY encompasses results and techniques for solving differential and integral equations via the Fredholm alternative and, more generally, the Fredholm-type properties of the operator involved. The concept is named after Erik Ivar Fredholm.

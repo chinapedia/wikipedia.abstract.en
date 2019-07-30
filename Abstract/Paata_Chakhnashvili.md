@@ -1,0 +1,1 @@
+PAATA CHAKHNASHVILI Social psychologist and Pollster with 30 year experience. Author of the first Exit poll in Georgia and Post Soviet Countries. Exit Poll was held during a parliamentary election in 1999 for the tele company Rustavi 2, by two independent companies – "Dia" (Pollster Paata Chakhnashvili) and "Gorbi" (Pollster Merab Pachulia)1.

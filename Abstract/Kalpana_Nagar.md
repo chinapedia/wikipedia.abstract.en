@@ -1,0 +1,1 @@
+KALPANA NAGAR () is a residential area in Bhopal, Madhya Pradesh. It is one of the major residential areas around the BHEL Township in Bhopal. It is part of the Ward 64 of the Bhopal Municipal Corporation. It was set up in 1982, as an extension of Sonagiri.

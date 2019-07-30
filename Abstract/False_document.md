@@ -1,0 +1,1 @@
+A FALSE DOCUMENT is a technique, employed to create verisimilitude in a work of fiction, where an author tries to create a sense of authenticity beyond the normal and expected suspension of disbelief for a work of art by inventing and inserting documents that appear to be factual. The goal of a false document is to convince an audience that what is being presented is factual.

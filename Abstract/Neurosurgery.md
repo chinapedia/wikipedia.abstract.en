@@ -1,0 +1,1 @@
+NEUROSURGERY, or NEUROLOGICAL SURGERY, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders which affect any portion of the nervous system including the brain, spinal cord, peripheral nerves, and extra-cranial cerebrovascular system.[1]

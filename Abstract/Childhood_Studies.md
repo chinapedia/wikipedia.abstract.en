@@ -1,0 +1,1 @@
+Childhood studies is an aim to understand the study of children; with examples including arts, humanities, natural and social sciences, medicine, and law. Emphasizing on an interdisciplinary and reasonable way to study the age range of young people between 0 -18; as well as using policy and practice to promote the rights of children.

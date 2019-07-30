@@ -1,0 +1,1 @@
+The PENANG HIGH COURT, founded in 1808, is the birthplace of Malaysia's judiciary system. It is housed inside a Palladian-style building at Light Street, George Town, Penang. To this day, the High Court sits at the top of Penang's hierarchy of courts.

@@ -1,0 +1,1 @@
+JAN BART – January 26, 1919 – August 12, 1971 [1] was a prominent Jewish-American lyric tenor, humorist and raconteur who bridged the gap between the wonderfully rich music of European Jewry and American musical tastes.[2]

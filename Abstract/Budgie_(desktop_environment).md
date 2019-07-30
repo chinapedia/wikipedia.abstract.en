@@ -1,0 +1,1 @@
+BUDGIE is a desktop environment that uses GNOME technologies such as GTK+ (> 3.x) and is developed by the Solus project as well as by contributors from numerous communities such as Arch Linux, Manjaro Linux and Ubuntu Budgie. Budgie's design emphasizes simplicity and elegance.

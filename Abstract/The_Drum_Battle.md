@@ -1,0 +1,1 @@
+_THE DRUM BATTLE – GENE KRUPA AND BUDDY RICH AT JATP_ (later issued as _THE ORIGINAL DRUM BATTLE!_) is a 1960 live album by drummers Gene Krupa and Buddy Rich, recorded at a Jazz at the Philharmonic concert at Carnegie Hall in 1952.[1]

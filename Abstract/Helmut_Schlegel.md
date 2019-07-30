@@ -1,0 +1,1 @@
+HELMUT SCHLEGEL OFM (born 15 May 1943) is a German Franciscan, Catholic priest, meditation instructor, author, librettist and songwriter. He is known for new spiritual songs (Neues Geistliches Lied), set by various composers.

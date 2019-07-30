@@ -1,0 +1,1 @@
+_SHOOT FIRST AND PRAY YOU LIVE (BECAUSE LUCK HAS NOTHING TO DO WITH IT)_ is a 2008 spaghetti-influenced western written and directed by Lance Doty and based on the novel _Luck_ by Max Brand. Filming took place in Santa Fe, New Mexico.[1][2]

@@ -1,0 +1,1 @@
+MAIONIA or MAEONIA (), was a city of the Hellenistic, Roman and Byzantine era located near the Hermos River,[1] in ancient Lydia. Both Ramsay and Talbert[2] tentatively identified the ancient polis with the modern village of Koula (Turkish for fortress) a village known for its carpet manufacture.[3]

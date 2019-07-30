@@ -1,0 +1,1 @@
+_THE FRONT BAR_ (formerly _FRIDAY FRONT BAR_) is an Australian Football League-based talk show that airs on the Seven Network.[1] The show is hosted by journalist Andy Maher and comedians Mick Molloy and Sam Pang.

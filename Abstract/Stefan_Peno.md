@@ -1,0 +1,1 @@
+STEFAN PENO (, born August 3, 1997) is a Serbian professional basketball player, who currently plays for Alba Berlin of the Basketball Bundesliga. Standing at a height of , he plays primarily at the point guard position.

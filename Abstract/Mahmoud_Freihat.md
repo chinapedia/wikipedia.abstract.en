@@ -1,0 +1,1 @@
+Lieutenant General MAHMOUD FREIHAT (born in 1960, Jerash)[1] is the current Chairman of the Joint Chiefs of Staff of the Jordanian Armed Forces. Freihat was appointed to this position on 2 October 2016.[2]

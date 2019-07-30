@@ -1,0 +1,1 @@
+The LINE OF SUCCESSION TO THE FORMER THRONE OF KUTCH, one of the pre-eminent Indian salute principalities, was by male primogeniture. The ruler of Kutch (also Cutch State) was (and remains) the titular head of the Jadeja Rajput clan.[1]

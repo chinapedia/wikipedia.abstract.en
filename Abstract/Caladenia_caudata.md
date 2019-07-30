@@ -1,0 +1,1 @@
+_CALADENIA CAUDATA_, commonly known as TAILED SPIDER ORCHID, is a plant in the orchid family Orchidaceae and is endemic to Tasmania. It is a ground orchid with a single hairy leaf and up to four red, or yellow and red flowers with dark red to almost black tips.

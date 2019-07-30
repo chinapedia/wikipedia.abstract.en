@@ -1,0 +1,1 @@
+LINE 5 of Ningbo Rail Transit () is a rapid transit line under construction in Ningbo. It starts from west Yinzhou District and ends in Xingzhuang Road Station in Zhenhai District. In the future extension plan, the line will extend and become a loop.[1] The construction of the first section started on September 28, 2016.[2]

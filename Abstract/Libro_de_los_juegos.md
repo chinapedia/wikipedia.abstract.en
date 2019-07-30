@@ -1,0 +1,1 @@
+Alfonso_LJ_97V.jpg The _LIBRO DE LOS JUEGOS_, ("Book of games"), or _LIBRO DE AXEDREZ, DADOS E TABLAS_, ("Book of chess, dice and tables", in Old Spanish) was commissioned by Alfonso X of Castile, Galicia and León and completed in his scriptorium in Toledo in 1283,[1][2] is an exemplary piece of Alfonso's medieval literary legacy.

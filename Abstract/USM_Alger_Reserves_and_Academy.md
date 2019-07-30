@@ -1,0 +1,1 @@
+USM ALGER UNDER-23S are the reserve team of USM Alger. The team mainly consists of Under-23 players at the club, although senior players occasionally play in the reserve side, for instance when they are recovering from injury. The Under-23s team are managed by Mustapha Aksouh and they play in the LIGUE PROFESSIONNELLE 1.

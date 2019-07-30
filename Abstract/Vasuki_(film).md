@@ -1,0 +1,1 @@
+_VASUKI_ is a 1997 Tamil comedy-drama film produced by G. V. Anandan on Anand Movie Land banner and directed by Kasthuri Raja. The film features Rajendra Prasad, Urvashi in the lead roles and music composed by Ilaiyaraaja. It was released on 30 October 1997. The film was dubbed in Telugu as _Pelli Koduku Ammabadunu_.[1][2][3][4]

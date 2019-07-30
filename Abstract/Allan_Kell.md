@@ -1,0 +1,1 @@
+Alan Kelly}} GEORGE ALLAN KELL (born 9 April 1949) is an English former amateur footballer who played as a wing half in the Football League for Darlington and in non-league football for Spennymoor United.[1] Kell made two appearances for Darlington, both as a substitute, in the last two matches of the 1967–68 Fourth Division season.[2]

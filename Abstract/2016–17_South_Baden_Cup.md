@@ -1,0 +1,1 @@
+{{ infobox football tournament season | title = South Baden Cup | year = 2015–16 | other_title = SBFV-Rothaus-Pokal | image = | imagesize = | caption = | country = Germany | num_teams = 64 | defending champions = FC 08 Villingen | champions = | runner-up = | matches = | goals = | top goal scorer = | player = | prevseason = 2015-16 | nextseason = }}

@@ -1,0 +1,1 @@
+ELECTRIC OVERHEAD TRAVELING CRANE or EOT CRANE is one of the most common types of overhead crane, or called bridge cranes, which consist of parallel runways with a traveling bridge spanning the gap.[1] As obvious from the name, EOT crane is operate by electric, generally there is an operator cabin or a control pendant along with the EOT crane.

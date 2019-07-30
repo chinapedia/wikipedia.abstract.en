@@ -1,0 +1,1 @@
+In physics (specifically in electromagnetism) the LORENTZ FORCE (or ELECTROMAGNETIC FORCE) is the combination of electric and magnetic force on a point charge due to electromagnetic fields. A particle of charge _q_ moving with a velocity _v_ in an electric field E and a magnetic field B experiences a force of

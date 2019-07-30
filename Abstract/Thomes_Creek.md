@@ -1,0 +1,1 @@
+THOMES CREEK is a major watercourse on the west side of the Sacramento Valley in Northern California. The creek originates in the Coast Ranges and flows east for about to join the Sacramento River, at a point about northeast of Corning in Tehama County.[1]

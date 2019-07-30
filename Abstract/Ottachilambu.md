@@ -1,0 +1,1 @@
+_OTTACHILAMBU_ (ml; ഒറ്റച്ചിലമ്പ്‌) is an Indian horror television series in Malayalam Language launched on Mazhavil Manorama channel on 24 October 2015 .It aired from Monday to Friday at 08:30 .P.M.[1]

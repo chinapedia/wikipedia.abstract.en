@@ -1,0 +1,1 @@
+SAHIL GUPTA (born 12 April 1992) is an Indian cricketer.[1] He made his first-class debut for Chhattisgarh in the 2016–17 Ranji Trophy on 6 October 2016.[2] He made his Twenty20 debut for Chhattisgarh in the 2016–17 Inter State Twenty-20 Tournament on 29 January 2017.[3] He made his List A debut for Chhattisgarh in the 2016–17 Vijay Hazare Trophy on 25 February 2017.[4]

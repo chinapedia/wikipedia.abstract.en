@@ -1,0 +1,1 @@
+LE VENT DE LA NUIT (_Night Wind_ in English) is a French drama film that came out in 1999, starring Catherine Deneuve and directed by Philippe Garrel, with a score by John Cale. It tells a story of transient loves and willed deaths, in which a callow young man abandons an older woman and loses a wiser friend.

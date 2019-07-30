@@ -1,0 +1,1 @@
+San_Diego,_2016_-_573.jpg _BREAKING OF THE CHAINS_ is an outdoor 1995 sculpture by Mel Edwards, installed along San Diego's Martin Luther King Jr. Promenade, in the U.S. state of California.[1][2] The work serves as a tribute to Martin Luther King Jr.

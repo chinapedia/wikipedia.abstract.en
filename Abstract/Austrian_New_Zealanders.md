@@ -1,0 +1,1 @@
+AUSTRIAN NEW ZEALANDERS are New Zealand citizens of Austrian national origin or ancestry, or permanent residents of New Zealand who have migrated from Austria. There are over 1,000 Austrian New Zealanders according to the 2013 census.[1]

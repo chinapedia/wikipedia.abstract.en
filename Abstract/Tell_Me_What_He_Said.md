@@ -1,0 +1,1 @@
+"TELL ME WHAT HE SAID" is a 1960 pop song written by Jeff Barry. The song was first recorded by American singer Ginny Arnell, as the B-side of her single "Look Who's Talkin'".[1][2] It was later recorded in Britain by Helen Shapiro, whose version reached number 2 on the UK singles chart in early 1962.[3]

@@ -1,0 +1,1 @@
+UTPAL BHADRA a retired scientist, worked in the Centre for Cellular and Molecular Biology (CCMB) in Hyderabad, India. Bhadra is known for his work on RNA interference,[1] and is a Fellow of the Royal Society of Biology and a Fellow of the Royal Society of Chemistry in the United Kingdom.

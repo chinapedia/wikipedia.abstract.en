@@ -1,0 +1,1 @@
+EDIE LANDAU (born Edythe Rudolph, July 15, 1927[1] ) is an American film and TV producer and executive, known for such films as _Long Day's Journey Into Night,_ _The Pawnbroker, King: A Filmed Record...Montgomery to Memphis, The Chosen_ and the fourteen movies of The American Film Theatre,[2][3] which she produced with her husband Ely A. Landau[4].

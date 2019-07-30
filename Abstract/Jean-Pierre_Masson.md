@@ -1,0 +1,1 @@
+JEAN-PIERRE MASSON (August 25, 1918 - March 11, 1995) was a Canadian film and television actor, best known for his long-running television role as Séraphin Poudrier in _Les Belles Histoires des pays d'en haut_.[1]

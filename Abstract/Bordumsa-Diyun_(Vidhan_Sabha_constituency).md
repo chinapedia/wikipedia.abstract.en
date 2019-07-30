@@ -1,0 +1,1 @@
+BORDUMSA and DIYUN are towns in the Indian state of Arunachal Pradesh.[1][2] Changlang is the name of the district that contains Bordumsa and Diyun towns. Bordumsa and Diyun are revenue circles and together constitute 49th Arunachal Pradesh State legislative Assembly Constituency.

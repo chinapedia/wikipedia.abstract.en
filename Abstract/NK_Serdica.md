@@ -1,0 +1,1 @@
+NOGOMETNI KLUB SERDICA (), commonly referred to as NK SERDICA or simply SERDICA, is a Slovenian football club which plays in the village of Serdica. Their colours are black and white.[1] They currently play in the 1. MNL, the fifth tier of the Slovenian football pyramid. The club was founded in 1974. Their home ground is Ob Ledavi Stadium.

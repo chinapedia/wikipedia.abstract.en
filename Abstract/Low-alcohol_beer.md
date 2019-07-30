@@ -1,0 +1,1 @@
+Low-alcohol_beer,_Iran.jpg.]] LOW-ALCOHOL BEER is beer with little or no alcohol content and aims to reproduce the taste of beer without the inebriating effects of standard alcoholic brews. Most low-alcohol beers are lagers, but there are some low-alcohol ales. Low-alcohol beer is also known as LIGHT BEER, NON-ALCOHOLIC BEER, SMALL BEER, SMALL ALE, or NEAR-BEER.

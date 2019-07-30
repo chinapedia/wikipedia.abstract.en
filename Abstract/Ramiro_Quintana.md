@@ -1,0 +1,1 @@
+RAMIRO QUINTANA (born 7 March 1977) is an Argentine Olympic show jumping rider.[1] He competed at the 2016 Summer Olympics in Rio de Janeiro, Brazil, where he finished 40th in the individual and 10th in the team competition and participated at the 2015 Pan American Games, where he won a team silver and placed 39th individually.

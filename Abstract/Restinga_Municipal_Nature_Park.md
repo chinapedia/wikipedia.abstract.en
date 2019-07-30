@@ -1,0 +1,1 @@
+The RESTINGA MUNICIPAL NATURE PARK () is a municipal nature park in the state of Paraná, Brazil. It was created to protect a strip of coastal vegetation, but little has been done to implement the park.

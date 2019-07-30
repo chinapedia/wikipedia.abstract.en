@@ -1,0 +1,1 @@
+A number of countries and international bodies have imposed SANCTIONS AGAINST NORTH KOREA. Currently, many sanctions are concerned with North Korea's nuclear weapons program and were imposed after its first nuclear test in 2006.

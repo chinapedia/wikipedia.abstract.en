@@ -1,0 +1,1 @@
+_QUOYA OLDFIELDII_, commonly known as OLDFIELD'S FOXGLOVE, is a flowering plant in the mint family Lamiaceae and is endemic to the south-west of Western Australia. It is an erect shrub with its branches and leaves densely covered with a layer of brownish hairs. The leaves are egg-shaped and the tube-shaped flowers are pink with purple spots inside.

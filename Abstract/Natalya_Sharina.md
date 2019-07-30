@@ -1,0 +1,1 @@
+NATALYA SHARINA (born 1957) is the director of the Ukrainian Literature Library in Moscow. She was put under house arrest in 2015 under the charges of inciting ethnic hatred and spreading "anti-Russian propaganda". In 2016, Sharina was put on trial for disseminating banned literature and embezzling library funds.[1][2][3]

@@ -1,0 +1,1 @@
+LED,_5mm,_green_(en).svg Surface_mount_LED_close_up_image.png Br20_1.jpg with E27 screw in base|A bulb-shaped modern retrofit LED lamp with aluminium heat sink, a light diffusing dome and E27 screw base, using a built-in power supply working on mains voltage]]

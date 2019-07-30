@@ -1,0 +1,1 @@
+SCOTT & CHARLENE'S WEDDING are an Australian indie rock band, formed in Melbourne in 2006. The band currently consists of singer-songwriter Craig Dermody, bassist Jack Farley and drummer Joe Alexander. Dermody has always seen the band as being a solo project, and that by 2013 there had been "30 or 40 people in total" in the band.[1]

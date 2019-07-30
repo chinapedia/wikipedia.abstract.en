@@ -1,0 +1,1 @@
+"GIVE ME A REASON" is a song recorded by the British pop/rock group Triple 8 in 2003. It was released as a single on 21 July 2003 in the United Kingdom.[1] The single debuted at a peak position of number 9 in the UK Singles Chart.

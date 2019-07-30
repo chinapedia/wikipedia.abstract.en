@@ -1,0 +1,1 @@
+CALEB BRITISH INTERNATIONAL SCHOOL (CBIS) is a coeducational Day/Boarding school in Abijo G.R.A Lekki, Lagos State in Nigeria. The school is an arm of Caleb Group of Schools, which has been in existence for over 30 years. CBIS, initially known as Caleb British Academy, offered A' Level Programmes to students looking to further their education abroad.

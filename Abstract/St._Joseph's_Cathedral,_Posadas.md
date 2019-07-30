@@ -1,0 +1,1 @@
+The ST. JOSEPH'S CATHEDRAL [1] () also called POSADAS CATHEDRAL It is the main Catholic church in the city of Posadas,[2] capital of Misiones province in the South American country of Argentina.[3][4]

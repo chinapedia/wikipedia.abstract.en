@@ -1,0 +1,1 @@
+ROGER GOULD (born 4 April 1957) is a former rugby union football player, having played fullback for both the Australian Wallabies and the Queensland Reds. He first played for Queensland in 1978 and for Australia in 1980. His last match for Australia was in the 1987 World Cup. Gould's career was limited by injury.

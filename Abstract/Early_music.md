@@ -1,0 +1,1 @@
+Francesco_Francia_-_Madonna_and_Saints_(detail)_-_WGA08174.jpg by Francesco Francia]] EARLY MUSIC generally comprises Medieval music (500–1400) and Renaissance music (1400–1600), but can also include Baroque music (1600–1750). Early music is a broad musical era in the history of Western art music.

@@ -1,0 +1,1 @@
+KONSTANTINOS "COSTIS" GONTIKAS (alternate spellings: Constantinos, Kostas, Costas, Kostis, Godikas) (Greek: Κωνσταντίνος "Κώστας" Γόντικας; born March 15, 1994) is a Greek professional basketball player for Peristeri of the Greek Basket League. He is a 2.06 m (6'9") tall[1][2] power forward-center.

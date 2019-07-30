@@ -1,0 +1,1 @@
+JAINAN PRASAD was born in Nakasi, Fiji and is one of the young Hindi poets of Fiji. He been a career civil servant, worked at the University of the South Pacific and served with the United Nations Children’s Fund (UNICEF).

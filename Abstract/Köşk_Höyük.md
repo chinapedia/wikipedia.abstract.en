@@ -1,0 +1,1 @@
+KöskHüyük1.jpg NigdeMuseumKöskHaus.jpg KÖŞK HÖYÜK is a tell northeast of Bahçeli, near Kemerhisar (the ancient city of Tyana) in the modern Niğde Province of Turkey. It is located on the Bor Plateau, south of Mount Hasan near a spring.

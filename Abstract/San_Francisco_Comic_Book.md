@@ -1,0 +1,1 @@
+_SAN FRANCISCO COMIC BOOK_ was an underground comix anthology published between 1970 and 1983. Conceived of and edited by Gary Arlington, the anthology highlighted the work of many of San Francisco's top underground talents, including Bill Griffith, Robert Crumb, Kim Deitch, Justin Green, Rory Hayes, Willy Murphy, Jim Osborne, Trina Robbins, and Spain Rodriguez.

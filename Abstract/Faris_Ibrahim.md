@@ -1,0 +1,1 @@
+FARIS IBRAHIM HASSOUNA EL-BAKH (born June 4, 1998) is a Qatari weightlifter and Olympian competing in the 94 kg category until 2018 and 96 kg starting in 2018 after the International Weightlifting Federation reorganized the categories.[1]

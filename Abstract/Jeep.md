@@ -1,0 +1,1 @@
+JEEP is a brand of American automobile and division of FCA US LLC (formerly Chrysler Group, LLC), a wholly owned subsidiary of the Italian-American corporation Fiat Chrysler Automobiles.[1][2] Jeep has been a part of Chrysler since 1987, when Chrysler acquired the Jeep brand, along with remaining assets, from its previous owner American Motors Corporation (AMC).

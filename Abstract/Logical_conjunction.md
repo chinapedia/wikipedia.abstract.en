@@ -1,0 +1,1 @@
+| 1-preserving = {{#switch:Да|Да|да=yes|Нет|нет=no}} | monotone = {{#switch:Нет|Да|да=yes|Нет|нет=no}} | affine = {{#switch:Нет|Да|да=yes|Нет|нет=no}} | self-dual = {{#switch:Да|Да|да=yes|Нет|нет=no}} }}

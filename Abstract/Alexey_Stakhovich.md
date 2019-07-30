@@ -1,0 +1,1 @@
+ALEXEY ALEXANDROVICH STAKHOVICH (, 2 February 1856 — 10 March 1919) was a high-ranking Imperial Russian Chevalier Guard Regiment officer who in the early 1900s became a popular stage actor, associated with Moscow Art Theatre.[1]

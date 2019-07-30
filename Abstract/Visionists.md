@@ -1,0 +1,1 @@
+The VISIONISTS were an informal social club based in Boston, Massachusetts in the late 19th century, focused on the members' shared interests in artists, writers, and cultural movements. Documented members included:

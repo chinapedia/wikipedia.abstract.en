@@ -1,0 +1,1 @@
+JOSEPH THOMAS ENRIGHT was an Irish professional football forward who played in the Football League for Leeds City.[1][2] He also played in the Southern League for Newport County and Coventry City and won an international cap for Ireland.[3][4]

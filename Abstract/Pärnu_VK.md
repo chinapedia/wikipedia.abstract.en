@@ -1,0 +1,1 @@
+PÄRNU VÕRKPALLIKLUBI is a professional Estonian volleyball team based in Pärnu, Estonia. It plays in the Baltic Volleyball League and the Estonian Volleyball League.[1] The team won the 2015–16 Baltic Volleyball League title.

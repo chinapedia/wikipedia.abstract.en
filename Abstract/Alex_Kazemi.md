@@ -1,0 +1,1 @@
+ALEX KAZEMI (born June 22, 1994) is a Canadian pop artist, author and journalist. He is best known as the director and writer of the first viral public Snapchat movie, _Snapchat: Mudditchgirl91_.[1][2][3] Kazemi's first novel, _Yours Truly, Brad Sela_, is planned for publication in 2017.[4]

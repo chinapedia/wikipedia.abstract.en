@@ -1,0 +1,1 @@
+GÉRARD PRÊCHEUR (born 23 October 1959) is a French football manager. Previously in charge of Olympique Lyonnais Féminin, Prêcheur now plies his trade in Jiangsu Suning, as a manager of the women's team.[1]

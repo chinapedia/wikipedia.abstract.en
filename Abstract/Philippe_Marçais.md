@@ -1,0 +1,1 @@
+PHILIPPE MARÇAIS (16 March 1910 – 31 May 1984) was a French Arabist and politician. A director of the from 1938 to 1945, he was dean of the Faculté des Lettres d'Alger and député of French Algeria from 1958 to 1962. The Arabist William Marçais was his father.

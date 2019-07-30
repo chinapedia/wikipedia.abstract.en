@@ -1,0 +1,1 @@
+The church of the SANTISSIMO SACRAMENTO, or _S.S. Sacramento_ (Holy Sacrament), is a Roman Catholic church located on Piazza Dante Alighieri, adjacent to the parish church of San Michele in Cameri, province of Novara, Piedmont, Italy.

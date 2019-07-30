@@ -1,0 +1,1 @@
+_EUCALYPTUS EXTENSA_ is a species of mallet that is endemic in Western Australia. It has smooth bark, lance-shaped adult leaves, flower buds in groups of seven, yellowish green flowers and hemispherical fruit with the valves extended well beyond the level of the rim.

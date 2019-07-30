@@ -1,0 +1,1 @@
+GALINA KOMAROVA (born 12 August 1977) is a Russian women's international footballer who plays as a midfielder. She is a member of the Russia women's national football team. She was part of the team at the 1999 FIFA Women's World Cup and 2003 FIFA Women's World Cup.[1]

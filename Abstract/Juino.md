@@ -1,0 +1,1 @@
+'''Juino '''(Nepali: जुइनो), is a book by author and actress Binita Baral,[1] set in Madanpur, Nuwakot an outskirt of Kathmandu, Nepal. Juino was first published in 2016 by Fineprint. Actress Reecha Sharma unveiled the book on June 30, 2016 at Nepal Tourism Board, Kathmandu 1. This book was among the domestic bestsellers of 2016.

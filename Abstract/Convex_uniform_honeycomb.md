@@ -1,0 +1,1 @@
+Tetrahedral-octahedral_honeycomb.png and red octahedra.]] In geometry, a CONVEX UNIFORM HONEYCOMB is a uniform tessellation which fills three-dimensional Euclidean space with non-overlapping convex uniform polyhedral cells.

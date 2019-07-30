@@ -1,0 +1,1 @@
+MIN HLA HTUT (, ; also known as SAW MIN PHYU (စောမင်းဖြူ); b. 1388/89) was a princess of Ava. She was the only daughter of King Tarabya of Ava and Queen Min Hla Myat of Ava and sister of King Min Nyo of Ava.[1]

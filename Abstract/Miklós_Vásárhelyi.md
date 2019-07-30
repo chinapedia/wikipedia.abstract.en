@@ -1,0 +1,1 @@
+MIKLÓS VÁSÁRHELYI (9 October 1917–31 July 2001) was a dissident politician and author in communist Hungary, born in Fiume, who survived imprisonment and persecution by the old regime, and was a force for change over more than three decades.

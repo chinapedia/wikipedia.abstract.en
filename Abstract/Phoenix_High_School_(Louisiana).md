@@ -1,0 +1,1 @@
+PHOENIX HIGH SCHOOL is a K-12 school in Braithwaite, a community in unincorporated Plaquemines Parish, Louisiana. It serves Braithwaite, Bohemia, and Phoenix,[1] and is a part of the Plaquemines Parish School Board.

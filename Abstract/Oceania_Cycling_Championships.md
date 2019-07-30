@@ -1,0 +1,1 @@
+OCEANIA CYCLING CHAMPIONSHIPS are a series of road cycling races held annually to determine the Oceania champion in each event. The event has been held since 1995, and consists of an elite and under-23 men's and an elite women's road race and time trial.

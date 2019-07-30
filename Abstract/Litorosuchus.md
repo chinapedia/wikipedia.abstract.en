@@ -1,0 +1,1 @@
+_LITOROSUCHUS_ is a genus of armored, semiaquatic archosauriform reptile from the Middle Triassic of China, closely related to the morphologically similar _Vancleavea_. It contains one species, _L. SOMNII_.[1]

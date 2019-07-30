@@ -1,0 +1,1 @@
+HK FIRST () is a localist group set up in 2013 in Hong Kong. Its current representatives in the Legislative Council of Hong Kong are Gary Fan of Neo Democrats and Claudia Mo, former pan-democratic Civic Party member. It was founded in 2013 by two pro-democracy legislators Claudia Mo and Gary Fan to "defend the city's culture from 'mainlandisation'".[1]

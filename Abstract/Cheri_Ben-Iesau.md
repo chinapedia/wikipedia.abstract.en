@@ -1,0 +1,1 @@
+Born in 1960's Los Angeles and raised in a nomadic California family, CHERI BEN-IESAU is a painter, muralist, author and retired member of the US Coast Guard based in the New Orleans area. She is related, through her father, to the Atlanta artist Frederick Flemister.

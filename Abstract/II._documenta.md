@@ -1,0 +1,1 @@
+II. DOCUMENTA was the second edition of documenta, a quinquennial contemporary art exhibition. It was held between 11 July and 1 October 1959 in Kassel, Germany. The artistic director was Arnold Bode in collaboration with art historian Werner Haftmann.[1]

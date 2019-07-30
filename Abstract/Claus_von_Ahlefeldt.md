@@ -1,0 +1,1 @@
+CLAUS VON AHLEFELDT, born 1614, dead 1674, was a member of the Ahlefeldt noble family of Holstein, who married the King of Denmark's natural daughter, and rose to become a field marshal in Danish service.

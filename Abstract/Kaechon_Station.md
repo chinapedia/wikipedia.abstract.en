@@ -1,0 +1,1 @@
+KAECH'ŎN STATION is a railway station in Kaech'ŏn municipal city, South P'yŏngan province, North Korea, on the Manp'o Line of the Korean State Railway; it is also the starting point of the Kaech'ŏn Line to Sinanju, of the Choyang Colliery Line to Choyang Colliery and the Chunhyŏk Line to Chunhyŏngri.[1]

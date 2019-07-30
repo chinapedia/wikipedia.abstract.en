@@ -1,0 +1,1 @@
+DR. ORIT GALILI-TZUCKER (born in Jerusalem[1] on 29 March 1956) is a former journalist and an Israeli political consultant.[2] She was the head of the political communications team for Prime Minister Benjamin Netanyahu.[3]

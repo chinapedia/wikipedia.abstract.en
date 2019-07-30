@@ -1,0 +1,1 @@
+CHEN GANG (; born 1935) is a Chinese composer best known for his work _Butterfly Lovers' Violin Concerto_.[1] He is the son of songwriter Chen Gexin. Chen Gang started to learn piano and composition from his father and music teachers from a young age.

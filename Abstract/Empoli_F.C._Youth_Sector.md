@@ -1,0 +1,1 @@
+EMPOLI F.C. YOUTH SECTOR () comprises the under-19 team and the academy of Italian professional football club Empoli F.C.. The under-19 squad competes in _Group B_ of the Campionato Nazionale Primavera. The _Primavera_ side won the championship in 1998–99.

@@ -1,0 +1,1 @@
+'''Rosemary Ampem ''' (born 27 August 1992) is a Ghanaian footballer who plays as a defender for the Ghana women's national football team. She was part of the team at the 2014 African Women's Championship. On club level she played for Immigration Accra in Ghana.[1]

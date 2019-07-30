@@ -1,0 +1,1 @@
+_İÇERDE_ (English: _Inside_) is a Turkish television action series produced by Ay Yapım. The series first aired on 19 September 2016 on Show TV. Both lead actors Çağatay Ulusoy and Aras Bulut İynemli received positive feedback for their acting.[1]

@@ -1,0 +1,1 @@
+William_H._Cornwell,_in_uniform.jpg WILLIAM HENRY CORNWELL (May 30, 1843 – November 18, 1903) was an American businessman, as well as a military colonel and politician of the Kingdom of Hawaii. He served two separate terms as Minister of Finance and was a member of Queen Liliuokalani's last cabinet before the Overthrow of the Kingdom of Hawaii.

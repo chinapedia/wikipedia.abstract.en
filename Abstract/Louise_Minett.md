@@ -1,0 +1,1 @@
+LOUISE MINETT (born 1975), later known by her married name LOUISE RICHARDS is a British sports shooter[1] who won 6 medals whilst representing England at the Commonwealth Games and represented Great Britain at multiple ISSF World Cups, World Shooting Championships and ESC European Shooting Championships.

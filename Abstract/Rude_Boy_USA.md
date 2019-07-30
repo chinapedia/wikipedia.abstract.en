@@ -1,0 +1,1 @@
+_RUDE BOY USA_ is a series of three crime fiction novels written by the American novelist Victoria Bolton. The series is set in New York City and Jamaica and follows characters, Bernie “Banks” Rhodos, Celia “Bunny” Jones, John LeBlanc, Ben Berardi, and Jerome Dexter-Dixon.[1]

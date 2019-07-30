@@ -1,0 +1,1 @@
+TONGRENELLE is a hamlet in the municipality of Sombreffe (in the province of Namur), Wallonia Region, Belgium. It is east of the village of Ligny and north of the village of Boignée and on the south-eastern side of the village of Tongrinne.

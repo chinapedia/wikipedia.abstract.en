@@ -1,0 +1,1 @@
+GEORGES JULIEN PAUL (born 7 January 1996) is a Mauritian badminton player.[1] Paul took part at the 2014 African Youth Games, and won three gold medals in the individual event.[2] He was part of the national team that won the gold medal at the 2015 African Games. Paul was captured the men's singles gold at the 2018 Afircan Championships.[3]

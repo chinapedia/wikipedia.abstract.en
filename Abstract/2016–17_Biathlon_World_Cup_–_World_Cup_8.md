@@ -1,0 +1,1 @@
+The 2016–17 BIATHLON WORLD CUP – WORLD CUP 8[1] was held from 9 March until 12 March 2017. Initially it was planned to be held in Tyumen, Russia, but IBU cancelled the host rights for Russia.[2] On 7 January 2017, IBU announced that Stage 8 will be held in Kontiolahti, Finland.[3]

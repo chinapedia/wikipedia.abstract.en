@@ -1,0 +1,1 @@
+IAKOB KAJAIA (born September 28, 1993) is a Georgian Greco-Roman wrestler.[1] He competed in the men's Greco-Roman 130 kg event at the 2016 Summer Olympics, in which he was eliminated in the quarterfinals by Sergey Semenov.[2][3] He is a European bronze medallist (2018).

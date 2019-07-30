@@ -1,0 +1,1 @@
+The WELLS RIVER GRADED SCHOOL is a historic school building on United States Route 5 in the Wells River village of Newbury, Vermont. Built in 1874, it is one of the state's finest examples of Second Empire architecture. Now in commercial use, it was listed on the National Register of Historic Places in 1976.[1]

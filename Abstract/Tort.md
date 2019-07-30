@@ -1,0 +1,1 @@
+A TORT, in common law jurisdictions, is a civil wrong[1] that causes a claimant to suffer loss or harm resulting in legal liability for the person who commits the tortious act. It can include the intentional infliction of emotional distress, negligence, financial losses, injuries, invasion of privacy, and many other things.

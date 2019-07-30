@@ -1,0 +1,1 @@
+JONATHAN JUDAH ISAAC (born October 3, 1997) is an American professional basketball player for the Orlando Magic of the National Basketball Association (NBA). He played college basketball for the Florida State Seminoles. He was selected by Orlando in the first round of the 2017 NBA draft with the sixth overall pick.

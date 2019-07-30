@@ -1,0 +1,1 @@
+WILDLING is an indie rock band from Los Angeles, California signed to Warner Bros. Records. The band was formed in 2014 by members Ryan Levine and Andrew Ampaya, who were originally signed to RCA Records as the band _Test Your Reflex_ from 2004-2009, and also recorded music under the name _No Country_ as well as _Low Shoulder_ (2009-2014).

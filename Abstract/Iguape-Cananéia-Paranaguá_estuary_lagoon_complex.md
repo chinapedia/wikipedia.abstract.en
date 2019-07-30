@@ -1,0 +1,1 @@
+The IGUAPE-CANANÉIA-PARANAGUÁ ESTUARY LAGOON COMPLEX () is a stretch of interconnected coastal estuaries and lagoons that extends southwest from Iguape in the south of São Paulo past Cananéia, São Paulo to Paranaguá, Paraná. It includes the Mar Pequeno in São Paulo, between Ilha Comprida and the mainland, and Paranaguá Bay in Paraná.

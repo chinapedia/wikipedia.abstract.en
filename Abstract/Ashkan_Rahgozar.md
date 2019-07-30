@@ -1,0 +1,1 @@
+ASHKAN RAHGOZAR (born 12 April 1986 in Tehran)[1] is an author, director and film maker of Animation. he is founder and chief executive of Hoorakhsh Studios.[2] He earned his BA degree in graphic design and MA degree in illustration.

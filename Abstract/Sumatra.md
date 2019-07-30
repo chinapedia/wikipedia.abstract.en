@@ -1,0 +1,1 @@
+SUMATRA is a large island in western Indonesia that is part of the Sunda Islands. It is the largest island that is located entirely in Indonesia and the sixth-largest island in the world at 473,481 km² (not including adjacent islands such as the Riau Islands and Bangka Belitung Islands).

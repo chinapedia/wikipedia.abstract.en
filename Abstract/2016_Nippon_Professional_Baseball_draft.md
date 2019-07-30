@@ -1,0 +1,1 @@
+The 2016 NIPPON PROFESSIONAL BASEBALL (NPB) DRAFT was held on 20 October at the Grand Prince Hotel Takanawa to assign amateur baseball players to the NPB. It was arranged with the special cooperation of Taisho Pharmaceutical Co. with official naming rights. The draft was officially called "The Professional Baseball Draft Meeting supported by Lipovitan D".

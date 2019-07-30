@@ -1,0 +1,1 @@
+JAMES FRED MARGRAFF III (April 18, 1960 – January 2, 2019) was an American football coach. He served as the head football coach at Johns Hopkins University from 1990 to 2018, compiling a record of 221–89–3. Margraff died suddenly of a heart attack on January 2, 2019.[1]

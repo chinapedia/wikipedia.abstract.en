@@ -1,0 +1,1 @@
+The DISTRICT NO. 4 SCHOOL, also known as the FIRST EAST SCHOOL or LEDGEVILLE SCHOOL, is an historic school building at 191 East Road in Petersham, Massachusetts. Built in 1846, it is one of the town's older surviving district school buildings, and now serves as a local community hall. It was listed on the National Register of Historic Places in 2016.[1]

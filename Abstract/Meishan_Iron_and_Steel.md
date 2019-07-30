@@ -1,0 +1,1 @@
+China_Railways_GKD1A.jpg SHANGHAI MEISHAN IRON AND STEEL CO., LTD., known as MEISHAN IRON AND STEEL, or MEISTEEL or MEIGANG () is a second-tier subsidiary of Baosteel Group and a first-tier subsidiary of listed company Baoshan Iron and Steel Co., Ltd.. The company was based in Nanjing.

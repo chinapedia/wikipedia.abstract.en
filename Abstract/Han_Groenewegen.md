@@ -1,0 +1,1 @@
+Elisabeth_medan.jpg JOHANNES MARTINUS (HAN) GROENEWEGEN (October 27, 1888 (The Hague) – April 4, 1980 (Jakarta)) was a Dutch architect who was active in the Netherlands and the Dutch East Indies, and subsequently, Indonesia from the 1920s to the 1960s.

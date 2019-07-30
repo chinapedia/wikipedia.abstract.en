@@ -1,0 +1,1 @@
+AND IT'S FALL AGAIN was the first solo concert by Super Junior's Kyuhyun. This is the third series of SM Town The Agit. Commenced on November 5 end on 15 November 2015 at SM Town theater with 7 shows in total.

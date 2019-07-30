@@ -1,0 +1,1 @@
+Cubic_matchstick_graph.svg matchstick graph) that is neither distance-hereditary nor bipartite]] In graph theory, a PARITY GRAPH is a graph in which every two induced paths between the same two vertices have the same parity: either both paths have odd length, or both have even length.[1] This class of graphs was named and first studied by .[2]

@@ -1,0 +1,1 @@
+NPDPA (also known as ISOPROPYLPHENIDINE) is a dissociative anesthetic that has been sold online as a designer drug.[1][2][3][4] It was first identified in Germany in 2008, and while it has never been as widely sold as related compounds such as diphenidine and ephenidine, it has continued to show up in seized drug samples occasionally,[5] and was banned in Sweden in 2015.

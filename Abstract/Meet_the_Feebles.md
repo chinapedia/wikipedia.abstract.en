@@ -1,0 +1,1 @@
+_MEET THE FEEBLES_ is a 1989 New Zealand musical black comedy film directed by Peter Jackson, and written by Jackson, Fran Walsh, Stephen Sinclair and Danny Mulheron. It features Jim Henson-esque puppets in a perverse comic satire. [1]

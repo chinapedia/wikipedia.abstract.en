@@ -1,0 +1,1 @@
+C VIJAYAKUMAR (CVK or Vijay) is the President & Chief Executive Officer of HCL Technologies, a US$8.6 billion global technology company.[1][2]. He has been named by leading analyst group 'Horses for Sources' in its '2018 Business Operations Disruptor Awards'.

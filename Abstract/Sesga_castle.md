@@ -1,0 +1,1 @@
+Castillo_de_los_moros_de_Sesga.jpg Sesga castle, which owes its name to the nearby hamlet, is also known as the "castillo de los moros" (Moors' castle). It is located in the municipality of Ademuz in the province of Valencia, Spain.

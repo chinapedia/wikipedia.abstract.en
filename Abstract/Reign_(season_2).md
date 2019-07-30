@@ -1,0 +1,1 @@
+The second season of _Reign_, an American historical fantasy, consisted of 22 episodes which aired between October 2, 2014 and May 14, 2015. The series, created by Stephanie SenGupta and Laurie McCarthy, aired on The CW.

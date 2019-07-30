@@ -1,0 +1,1 @@
+"" is the fourth single by Shiori Takei[1]. It was released on the 6th of July, 2005 under the Giza Studio label. The single reached #99 rank first week. It charted for 2 weeks and sold over 2,208 copies.[2]

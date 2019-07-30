@@ -1,0 +1,1 @@
+is a Japanese singer best known for various anime songs, particularly the opening for _Cutie Honey_. She rerecorded the openings for _Cutie Honey_ and _Majokko Megu-chan_, titling them "21st century" versions, in 2008. The _Cutie Honey_ opening was originally intended to be performed by Linda Yamamoto.

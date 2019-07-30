@@ -1,0 +1,1 @@
+JOHN ST. JOHN LONG (1798–July 2, 1834)[1] was an Irish-born quack doctor who claimed to be able to cure tuberculosis. In two instances he was tried for manslaughter of his patients. In the first case he was found guilty and fined £250, and in the second case acquitted. He died at the age of 35, reportedly from tuberculosis[2][3] but perhaps merely from a horse-riding accident.[4]

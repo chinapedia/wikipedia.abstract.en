@@ -1,0 +1,1 @@
+_ESHO MAA LAKSHMI_ is a popular Bengali television mythological Soap Opera that premiered on November 23, 2015 and airs on Zee Bangla up to October 30, 2016. It was produced by Surinder Films and stars Rupsha Mukhopadhyay as main female protagonist and Joyeeta Goswami as main female antagonist.

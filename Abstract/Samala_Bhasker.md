@@ -1,0 +1,1 @@
+SAMALA BHASKER is a cinematographer and Director in Indian Cinema, particularly Telugu films. He is a post graduate from the Jawaharlal Nehru Architecture and Fine Arts University (JNAFAU), Hyderabad in Photography & Visual communication. His first film as a cinematographer was _Sasirekha Parinayam_ directed by Pasupuleti Krishna Vamsi. The film went on to become a good reviews.

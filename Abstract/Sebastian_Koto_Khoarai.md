@@ -1,0 +1,1 @@
+SEBASTIAN KOTO KHOARAI, O.M.I. (born 11 September 1929) is a prelate of the Catholic Church and bishop emeritus of Mohale's Hoek, Lesotho. Khoarai was born in Koaling in the diocese of Leribe in 1929. He entered the Oblates of Mary Immaculate and was ordained a priest in 1956.

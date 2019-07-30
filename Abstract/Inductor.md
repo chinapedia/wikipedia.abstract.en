@@ -1,0 +1,1 @@
+An INDUCTOR, also called a COIL, CHOKE, or REACTOR, is a passive two-terminal electrical component that stores energy in a magnetic field when electric current flows through it.[1] An inductor typically consists of an insulated wire wound into a coil around a core.

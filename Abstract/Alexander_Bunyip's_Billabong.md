@@ -1,0 +1,1 @@
+_ALEXANDER BUNYIP'S BILLABONG_ is an Australian television series for children which screened on the ABC from 1978 to 1988. It followed the adventures of Alexander Bunyip, a mythical Australian creature who first appeared in "The Monster..." book series and later the "Alexander Bunyip" book series.[1]

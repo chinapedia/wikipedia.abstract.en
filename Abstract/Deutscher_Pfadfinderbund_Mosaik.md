@@ -1,0 +1,1 @@
+The DEUTSCHE PFADFINDERBUND MOSAIK (DPBM) is the largest member of the Deutscher Pfadfinderverband (DPV). Like all Scout associations in DPV, it is interdenominational and politically independent. Its legal entity is the registered association _Pfadfinder-Bundesamt_ in Cologne. The DPBM is recognized as a charitable organization and supports voluntary youth welfare nationwide.

@@ -1,0 +1,1 @@
+The _burgstall_ of the ALTES SCHLOSS ("Old Castle" or "Old Palace") is the site of an old castle near the village of Affalterthal in Bavaria, that was probably built in the High Middle Ages for the nobility. It lies within the municipality of Egloffstein in the Upper Franconian county of Forchheim.

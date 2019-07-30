@@ -1,0 +1,1 @@
+SAMUEL MARTINS ALVES (born June 3, 1989) is a Brazilian singer, who participated in the blind auditions of the fourth season of _The Voice_ (U.S.), singing "Feeling Good", classic in the voice of Nina Simone. The four coaches (judges) showed they were enjoying it, but none of them pressed the button to choose him.

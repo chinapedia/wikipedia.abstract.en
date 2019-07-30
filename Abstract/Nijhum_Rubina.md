@@ -1,0 +1,1 @@
+NIJHUM RUBINA () is a Bangladeshi model and film actress. She was born in Bijoypur, Comilla, Bangladesh. Rubina made her career debut as a model in the television commercial of Grameen Phone in 2008. After that, she appeared many television commercial like Coffee Cap Chocolate, Sharif Melamine, Ranga Pori Mehendi, Ranga Pori Hair Oils and many others.

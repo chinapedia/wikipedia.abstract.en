@@ -1,0 +1,1 @@
+The ST MICHAEL'S MOUNT TRAMWAY runs from near the harbour up to the castle which dominates the tidal island of St Michael's Mount, in Cornwall, England. The tramway is sometimes referred to as the _Dreckly Express_.[1][2]

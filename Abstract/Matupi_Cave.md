@@ -1,0 +1,1 @@
+MATUPI CAVE is a cave in the Mount Hoyo massif of the Ituri Rainforest, Democratic Republic of the Congo and northeastern Zaire, where archaeologists have found evidence for Later Stone Age human occupation spanning over 40,000 years.[1] The cave has some of the earliest evidence in the world for microlithic tool technologies.[2]

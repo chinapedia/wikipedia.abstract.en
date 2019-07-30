@@ -1,0 +1,1 @@
+ALBERT CURTIS HENDERSON (January 27, 1917 – June 10, 2006) was an American professional basketball player.[1][2] He played in the National Basketball League for the Detroit Gems in the 1946–47 and averaged 1.0 points per game.[3]

@@ -1,0 +1,1 @@
+SANTOSH MEENA (born 1 June 1966) is an Indian politician. He is the Director of BCCB and has been nominated for authorised member of Madhya Pradesh Cooperatives bank.[1] He is the BJP district convener of Bhopal and the State general secretary(Org) of MP Meena Samaj Sewa Sang.[2]

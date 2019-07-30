@@ -1,0 +1,1 @@
+JOSLIN FARM is a historic farm property at 1661 East Warren Road in Waitsfield, Vermont. First developed c. 1830, the farm is home to one of Vermont's shrinking number of round barns. Now used as a bed and breakfast called THE INN AT THE ROUND BARN, the farm property was listed on the National Register of Historic Places in 1988.[1]

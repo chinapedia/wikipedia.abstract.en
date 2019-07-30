@@ -1,0 +1,1 @@
+_DELIATHIS BUQUETI_ is a species of beetle in the family Cerambycidae. It was described by Tasté in 1841, originally under the genus _Taeniotes_. It is known from Honduras, Belize, and Mexico. It contains the varietas _Deliathis buquetii var. mira_.[1]

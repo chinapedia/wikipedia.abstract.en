@@ -1,0 +1,1 @@
+PAUL COURTENAY HYU is a British Chinese actor, writer and director.[1] He works in English and German. He is sometimes credited as Paul Hyu, especially for his work as Elvis Impersonator, "ChineseElvis".

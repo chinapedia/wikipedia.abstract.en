@@ -1,0 +1,1 @@
+CLIFFORD GEORGE HAYES (March 10, 1893 – October 22, 1941)[1] was an African-American multi-instrumentalist and bandleader who recorded jug band music and jazz in the 1920s and 1930s, notably as the leader of the Dixieland Jug Blowers, Clifford's Louisville Jug Band, and Hayes's Louisville Stompers. His main instrument was the violin.

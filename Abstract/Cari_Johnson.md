@@ -1,0 +1,1 @@
+CARI JOHNSON (born February 22, 1977) is a Canadian sport shooter. She competed at the 2000 Summer Olympics in the women's 50 metre rifle three positions event, in which she placed 40th, and the women's 10 metre air rifle event, in which she placed 48th.[1]

@@ -1,0 +1,1 @@
+Johann_Jakob_Hottinger_(historian).JPG JOHANN JAKOB HOTTINGER (18 May 1783, in Zürich – 17 May 1860, in Zürich) was a Swiss historian. He was a great-grandson of philologist Johann Heinrich Hottinger (1620–1667).

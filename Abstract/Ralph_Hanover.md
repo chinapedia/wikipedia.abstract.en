@@ -1,0 +1,1 @@
+RALPH HANOVER (1980 - October 18, 2008) was a Standardbred colt who in 1983 became the seventh horse to capture the U.S. Pacing Triple Crown. Bred by Hanover Shoe Farms, as a yearling he was purchased for $58,000 by trainer Stewart Firlotte at the 1981 Standardbred Horse Sale Company's Harrisburg, Pennsylvania auction.[1]

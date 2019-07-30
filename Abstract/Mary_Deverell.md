@@ -1,0 +1,1 @@
+MARY DEVERELL (born 4 February 1731 near Minchinhampton, Gloucestershire, England, died early September 1805, Nailsworth, Gloucestershire),[1] was a moral and religious essayist, born into the family of a clothier. Samuel Johnson and other London figures subscribed to her works. She raised objections to the social idea that "the female sphere is domestic."

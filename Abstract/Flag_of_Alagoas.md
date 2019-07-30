@@ -1,0 +1,1 @@
+The FLAG OF ALAGOAS was created by State Law of Alagoas No. 2628 on 23 September 1963. The colors (red, white, and blue) refer to the French _Tricolore_, symbolizing the ideals of the French Revolution: _liberté, égalité, fraternité_.

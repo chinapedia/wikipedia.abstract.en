@@ -1,0 +1,1 @@
+Várzea}} VÁRZEA is a subdivision of the city of Praia in the island of Santiago, Cape Verde. Its population was 4,834 at the 2010 census.[1] It is situated west of the city centre. Adjacent neighbourhoods are Bairro Craveiro Lopes to the north, Platô to the east, Achada Santo António to the south and Terra Branca to the west.

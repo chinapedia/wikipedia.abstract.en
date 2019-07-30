@@ -1,0 +1,1 @@
+The RWANDAN AMBASSADOR TO THE UNITED STATES is the official representative of the Government of Rwanda to the Government of the United States and is head of the Embassy of Rwanda in Washington, D.C.[1]

@@ -1,0 +1,1 @@
+CLIVE ROBERTSON, (born 1946 in Plymouth, Devon) is a Canadian performance and media artist, critic, curator, publisher and retired Queen's University art history professor.[1] He is based in Kingston, Ontario.

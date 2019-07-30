@@ -1,0 +1,1 @@
+The PASSLAB YAMAGATA WYVERNS is a professional basketball team that competes in the second division of the Japanese B.League.[1] TGI D-RISE served as a development team of the Link Tochigi Brex. TGI stands for Tochigi, Gunma and Ibaraki, three northern Kanto prefectures.

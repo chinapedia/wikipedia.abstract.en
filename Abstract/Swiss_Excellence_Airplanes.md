@@ -1,0 +1,1 @@
+SWISS EXCELLENCE AIRPLANES (SEA) is a Swiss aircraft manufacturer that was founded in 2014 by Italian-Argentine aeronautical engineer Alberto Porto and is based in Lugano.[1][2] The operations site is located in Pavullo nel Frignano close to the Pavullo nel Frignano Airport.

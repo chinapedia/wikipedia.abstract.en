@@ -1,0 +1,1 @@
+Evoluon_logos.png Overzicht_-_Eindhoven_-_20396787_-_RCE_-_Cropped.jpg The EVOLUON is a conference centre and former science museum erected by the electronics and electrical company Philips at Eindhoven in the Netherlands in 1966. Since its construction, it has become a landmark and a symbol for the city.

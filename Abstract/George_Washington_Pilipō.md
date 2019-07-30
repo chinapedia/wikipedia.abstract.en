@@ -1,0 +1,1 @@
+GEORGE WASHINGTON PILIPŌ (February 22, 1828 – March 27, 1887) was a politician of the Kingdom of Hawaii. He served as a member of the House of Representative from North Kona (1860–1884) and Reverend of Kaumakapili Church. Considered one of the leading Hawaiian politicians of his generation, he was known as "Ka Liona o Kona Akau", or "The Lion of North Kona".

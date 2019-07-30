@@ -1,0 +1,1 @@
+LAGOS STATE UNIVERSITY TEACHING HOSPITAL popularly known as LASUTH is a state-owned teaching hospital in Lagos, Nigeria, attached to the Lagos State University. It is strategically located in Ikeja – the state's capital.

@@ -1,0 +1,1 @@
+UK NETWORK OF SEX WORK PROJECTS (UKNSWP) is an umbrella organisation that represents sex work projects in the UK,[1] both agencies or individuals working with sex workers.[2] It facilitates networking between those it represents, so as to share good practice about providing quality support services for sex workers.[3] It is a charity based in Manchester.

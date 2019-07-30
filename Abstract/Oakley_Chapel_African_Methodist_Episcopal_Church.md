@@ -1,0 +1,1 @@
+OAKLEY CHAPEL AFRICAN METHODIST EPISCOPAL CHURCH is a historic African Methodist Episcopal church located at Tebbetts, Callaway County, Missouri. It was built in 1878, and is a one-story, frame gable front church on a concrete foundation. Also on the property are the contributing small cistern (c. 1900) and cemetery. There are approximately 80 known burials in the cemetery.[1]

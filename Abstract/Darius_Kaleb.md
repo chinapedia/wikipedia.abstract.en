@@ -1,0 +1,1 @@
+DARIUS KALEB is an African-American actor and musician that achieved recognition through his role in the Netflix original Luke Cage, as well as playing parts in multiple shows on Broadway. Kaleb also featured in a Japanese live show tour as a fictional Michael Jackson.

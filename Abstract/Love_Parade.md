@@ -1,0 +1,1 @@
+The LOVE PARADE () was a popular electronic dance music festival and technoparade that originated in 1989 in West Berlin, Germany.[1] It was held annually in Berlin from 1989 to 2003 and in 2006, then from 2007 to 2010 in the Ruhr region. Events scheduled for 2004 and 2005 in Berlin and for 2009 in Bochum[2] were cancelled.

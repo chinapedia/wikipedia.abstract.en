@@ -1,0 +1,1 @@
+JAMES NICHOLSON (born 29 July 1957) is a retired Scottish amateur football forward who made nearly 240 appearances in the Scottish League for Queen's Park.[1] He is a member of the club's committee.[2]

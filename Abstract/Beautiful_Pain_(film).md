@@ -1,0 +1,1 @@
+_BEAUTIFUL PAIN_ () is a 2016 Malaysian drama film directed by Tunku Mona Riza. It was selected as the Malaysian entry for the Best Foreign Language Film at the 89th Academy Awards but it was not nominated.[1]

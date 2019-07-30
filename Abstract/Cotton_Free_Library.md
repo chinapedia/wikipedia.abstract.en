@@ -1,0 +1,1 @@
+The COTTON FREE LIBRARY is the public library serving the town of Weybridge, Vermont. It is located on Quaker Village Road, in a small architecturally distinguished Colonial Revival building constructed in 1913 donated by Joshua Franklin Cotton. The building was listed on the National Register of Historic Places in 1996.[1]

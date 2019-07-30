@@ -1,0 +1,1 @@
+WELCOME TO THE FUTURE is a music festival held annually in the Netherlands, near Amsterdam. It was launched in 2007 in the nature reserve Het Twiske near Amsterdam. In 2015, the first indoor day edition was launched in the Warehouse Elementenstraat.

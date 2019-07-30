@@ -1,0 +1,1 @@
+The coastline of the Albany area was observed for the first time in 1627 by the Dutchman François Thijssen, captain of the ship _'t Gulden Zeepaert_ (The Golden Seahorse), who sailed to the east as far as Ceduna in South Australia and back. Captain Thijssen had discovered the south coast of Australia and charted about of it between Cape Leeuwin and the Nuyts Archipelago.[1][2]

@@ -1,0 +1,1 @@
+Felicita_Kalinšek.jpg FELICITA KALINŠEK (born in Kamnik in 1865; died 1937) was a Slovenian nun who became the first cooking teacher at the School of Home Economics in Ljubljana.[1] She is noted for her cookbook[2][3] which was first published in 1923.[4]

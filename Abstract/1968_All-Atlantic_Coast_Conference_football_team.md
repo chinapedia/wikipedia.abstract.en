@@ -1,0 +1,1 @@
+The 1968 ALL-ATLANTIC COAST CONFERENCE FOOTBALL TEAM consists of American football players chosen by various selectors for their All-Atlantic Coast Conference ("ACC") teams for the 1968 college football season. Selectors in 1968 included the Associated Press (AP).

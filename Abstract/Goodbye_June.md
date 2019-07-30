@@ -1,0 +1,1 @@
+GOODBYE JUNE is a rock band from Nashville, Tennessee.[1] The band is composed of cousins Landon Milbourn (lead vocals), Brandon Qualkenbush (rhythm guitar, backing vocals), and Tyler Baker (lead guitar).[2]

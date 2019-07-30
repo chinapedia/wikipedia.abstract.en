@@ -1,0 +1,1 @@
+'''Saint-Eugène ''' is a rural, Franco-Ontarian locality situated in the Township of East Hawkesbury in the United Counties of Prescott and Russell in Ontario (Canada). It is on the interprovincial border with Québec, near Highway 417 between Ottawa and Montréal.

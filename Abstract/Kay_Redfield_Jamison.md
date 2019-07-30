@@ -1,0 +1,1 @@
+KAY REDFIELD JAMISON (born June 22, 1946) is an American clinical psychologist and writer. Her work has centered on bipolar disorder, which she has had since her early adulthood. She holds the post of the Dalio Professor in Mood Disorders and Psychiatry at Johns Hopkins University School of Medicine and is an Honorary Professor of English at the University of St Andrews.

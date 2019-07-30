@@ -1,0 +1,1 @@
+Nantwich_Aqueduct_Cheshire2.jpg]] NANTWICH AQUEDUCT is a navigable aqueduct in Acton in Cheshire, England, which carries the Shropshire Union Canal over the Chester to Nantwich road. Designed by Thomas Telford, it dates from around 1826 and is listed at grade II*.[1][2]

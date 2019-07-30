@@ -1,0 +1,1 @@
+OLUFELA OLOMOLA (born 5 September 1997) is an English professional footballer who plays as a forward for Scunthorpe United. Known to teammates as "Fela", Olomola holds both British and Nigerian citizenship.[1]

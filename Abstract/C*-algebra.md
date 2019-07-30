@@ -1,0 +1,1 @@
+C^(∗)-ALGEBRAS (pronounced "C-star") are subjects of research in functional analysis, a branch of mathematics. A C*-algebra is a complex algebra _A_ of continuous linear operators on a complex Hilbert space with two additional properties:

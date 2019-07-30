@@ -1,0 +1,1 @@
+A QUARTILE is a type of quantile. The first quartile (_Q_₁) is defined as the middle number between the smallest number and the median of the data set. The second quartile (_Q_₂) is the median of the data. The third quartile (_Q_₃) is the middle value between the median and the highest value of the data set.

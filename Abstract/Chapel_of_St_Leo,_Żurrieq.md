@@ -1,0 +1,1 @@
+The CHAPEL OF ST LEO is a Roman Catholic chapel is located in the village of Żurrieq, Malta. The chapel serves as the official cemetery chapel of Żurrieq. It is the only such chapel dedicated to Pope Leo I in Malta.

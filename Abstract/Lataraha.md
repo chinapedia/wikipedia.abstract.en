@@ -1,0 +1,1 @@
+LATARAHA is a small village in Jalley Block in Darbhanga District of Bihar State, India. It belongs to Darbhanga Division. It is north-west of Darbhanga district headquarters and from the state capital at Patna. The nearest satellite town is Jalley (3 km) and nearest popular market is Pupri (12 km) in Sitamadhi district.

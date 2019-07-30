@@ -1,0 +1,1 @@
+C_Hello_World_Program.png for a simple computer program written in the C programming language. When compiled and run, it will give the output "Hello, world!".]] A PROGRAMMING LANGUAGE is a formal language, which comprises a set of instructions that produce various kinds of output. Programming languages are used in computer programming to implement algorithms.

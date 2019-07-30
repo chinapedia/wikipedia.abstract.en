@@ -1,0 +1,1 @@
+The MARTIN L. KELSEY HOUSE is a historic house at 43 Elmwood Avenue in Burlington, Vermont. Built in 1879 for a local merchant, it is a distinctive and architecturally varied house, with elements of the Second Empire, Queen Anne, and Stick styles on display. It was listed on the National Register of Historic Places in 1983,[1] and now forms part of a senior housing complex.

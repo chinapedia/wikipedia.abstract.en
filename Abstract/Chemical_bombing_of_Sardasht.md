@@ -1,0 +1,1 @@
+Iraq, on June 28, 1987, dropped what Iranian authorities believed to be mustard gas bombs on Sardasht, West Azerbaijan, in two separate bombing runs on four residential areas. The numbers of victims were initially estimated as 10 civilians dead and 650 civilians injured.[1]

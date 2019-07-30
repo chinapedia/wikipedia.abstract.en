@@ -1,0 +1,1 @@
+TATA () is a district in northern part of Komárom-Esztergom County. _Tata_ is also the name of the town where the district seat is found. The district is located in the Central Transdanubia Statistical Region.

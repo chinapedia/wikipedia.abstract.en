@@ -1,0 +1,1 @@
+The FOURTH SEASON of _AUSTRALIAN SURVIVOR_ is a television series based on the international reality game show franchise _Survivor_. It is the second season to air on the Network Ten, following the network acquiring the broadcast rights to the _Australian Survivor_ franchise in late 2015. The season premiered on 30 July 2017.[1]

@@ -1,0 +1,1 @@
+The APERTURA 2016 LIGA MX championship stage commonly known as _LIGUILLA_ (mini league) was being played from November 23 to December 25. A total of eight teams were competing in the championship stage to decide the champions of the Apertura 2016 Liga MX season. Both finalists qualified to the 2018 CONCACAF Champions League.

@@ -1,0 +1,1 @@
+Sassanider.jpg The SUNDVEDA HOARD () is a Viking Age hoard of 482 silver coins found in 2008 in Sundveda between Märsta and Sigtuna, not far from Stockholm in Sweden. It is the largest silver hoard found in the Mälaren region since 1827.

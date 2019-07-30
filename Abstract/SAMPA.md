@@ -1,0 +1,1 @@
+Sampa}} __NOTOC__ The SPEECH ASSESSMENT METHODS PHONETIC ALPHABET (SAMPA) is a computer-readable phonetic script using 7-bit printable ASCII characters, based on the International Phonetic Alphabet (IPA).

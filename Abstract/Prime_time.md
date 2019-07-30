@@ -1,0 +1,1 @@
+The PRIME TIME or the PEAK TIME is the block of broadcast programming taking place during the middle of the evening for television programming. It is used by the major television networks to broadcast their season's nightly programming.

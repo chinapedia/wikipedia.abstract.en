@@ -1,0 +1,1 @@
+The RANGER 26-2 is an American sailboat, that was designed by Gary Mull. The boat was built by Ranger Yachts and Lear Siegler in the United States from 1980 until 1982. Only a small number were completed. The design is out of production.[1][2][3]

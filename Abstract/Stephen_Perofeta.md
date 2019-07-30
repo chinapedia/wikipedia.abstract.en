@@ -1,0 +1,1 @@
+STEPHEN PEROFETA (born 12 March 1997) is a New Zealand rugby union player who currently plays as a fly-half for in the Mitre 10 Cup.[1] He is also a member of the Blues Super Rugby squad, making his debut towards the end of the 2017 Super Rugby season.

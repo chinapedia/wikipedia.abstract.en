@@ -1,0 +1,1 @@
+_PHP-NUKE_ is a web-based automated news publishing and content management system based on PHP and MySQL originally written by Francisco Burzi. The system is controlled using a web-based user interface. PHP-Nuke was originally a fork of the Thatware news portal system by David Norman.

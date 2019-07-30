@@ -1,0 +1,1 @@
+SAVEROS POU (in Khmer, ពៅ សាវរស, transliterated _Bau Sāvaras_), also known around 1970 under the name SAVEROS LEWITZ, is a French linguist of Cambodian origin. A retired research director of the CNRS in Paris, a specialist of the Khmer language and civilization, she carried out extensive work of Khmer epigraphy, started as a young researcher with her teacher George Cœdès.

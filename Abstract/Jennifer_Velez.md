@@ -1,0 +1,1 @@
+JENNIFER VELEZ (born 1965 or 1966)[1] is the former Human Services Commissioner for the state of New Jersey. As Commissioner, it was she oversaw New Jersey's Department of Human Services. She served as Commissioner from 2007 to 2015 under Governors Jon Corzine and Chris Christie.

@@ -1,0 +1,1 @@
+MOROCCO WORLD NEWS is an Arabic, French and English language e-newspaper with its headquarters in New York City.''[1] _It was founded in 2011 by Samir Bennis[2] and Adnane Bennis. It operates from Rabat in Morocco._[3]

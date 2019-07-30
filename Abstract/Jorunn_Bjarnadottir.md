@@ -1,0 +1,1 @@
+JÓRUNN BJARNADÓTTIR is a female character who appears in _Laxdœla saga_, one of the Icelandic family sagas (Icelandic: _Íslendingasögur_). She first appears in chapter 9, where she is introduced as the wife of a powerful Icelandic chieftain (Icelandic: _goði_) Höskuldr Dala-Kollsson from Höskuldsstaðir in Laxárdalur, Iceland.[1]

@@ -1,0 +1,1 @@
+The 2008 INTERNATIONAL GT OPEN SEASON was the third season of the International GT Open, the grand tourer-style sports car racing founded in 2006 by the Spanish GT Sport Organización. It began on 19 April at ACI Vallelunga Circuit and finished on 2 November, at Barcelona after eight double-header meetings.

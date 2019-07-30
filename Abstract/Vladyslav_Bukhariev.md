@@ -1,0 +1,1 @@
+VLADYSLAV VIKTOROVYCH BUKHARIEV (; * 14 March 1969), is a Ukrainian politician and a career intelligence service officer. Since 2019 he serves as the current head of the Foreign Intelligence Service of Ukraine.[1]

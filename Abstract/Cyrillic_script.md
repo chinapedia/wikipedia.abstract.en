@@ -1,0 +1,1 @@
+The CYRILLIC SCRIPT () is a writing system used for various alphabets across Eurasia and is used as the national script in various Slavic-, Turkic- and Persian-speaking countries in Eastern Europe, the Caucasus, Central Asia, and North Asia.

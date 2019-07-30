@@ -1,0 +1,1 @@
+NEWTON OGLE (1726-1804[1]) was a Church of England clergyman and member of the landowning Ogle family. The son of Nathaniel Ogle and Elizabeth Newton, he served as a prebendary of Durham Cathedral and from 1788 to 1804 as Dean of Winchester.[2] His wife Susanna Thomas (whom he married in 1757) was daughter of John Thomas, Bishop of Winchester.[3][4]

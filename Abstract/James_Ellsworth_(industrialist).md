@@ -1,0 +1,1 @@
+JAMES WILLIAM ELLSWORTH (October 13, 1849 – June 2, 1925) was an American industrialist and a Pennsylvania coal mine owner. The coal town of Ellsworth, Pennsylvania is named after him.[1] He also served as president of the Caxton Club and the Jekyll Island Club.

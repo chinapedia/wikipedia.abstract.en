@@ -1,0 +1,1 @@
+BARBARA MILLER-WILLIAMS is a Democrat US politician from Buffalo, New York. She currently represents the 1st District in the Erie County Legislature.[1] Miller-Williams represented the 3rd District from 2007-2011.[2]

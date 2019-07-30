@@ -1,0 +1,1 @@
+KURDS IN ISRAEL refers to people of Kurdish origin residing in Israel. The Kurdish population in Israel is small and is mainly composed of individuals and families, who fled Iraq and Turkey during the Iraqi–Kurdish and the Kurdish–Turkish conflicts[1] during the 20th century, as well as temporal residents arriving in Israel for medical care.

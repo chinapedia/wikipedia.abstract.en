@@ -1,0 +1,1 @@
+JOSEPH DAVID KEERY (born April 24, 1992) is an American actor and musician. He is best known for portraying Steve Harrington in the American science-fiction horror web television series _Stranger Things_, as well as a contributing musician for the American psychedelic rock band Post Animal.

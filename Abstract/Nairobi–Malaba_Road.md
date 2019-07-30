@@ -1,0 +1,1 @@
+The_A104_heading_to_Nairobi_CBD.jpg A104_Kenya_at_Kajiado.jpg]] The NAIROBI–MALABA ROAD, also NAIROBI–UGANDA ROAD or A104 ROAD (KENYA) is a major highway in Kenya, the largest economy in the East African Community. The road connects Nairobi, the capital and largest city in Kenya, with the border town of Malaba at the international border with Uganda.

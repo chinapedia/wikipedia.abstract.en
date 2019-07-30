@@ -1,0 +1,1 @@
+The BAUHAUS MUSEUM is a private museum on the ground floor of a building built in the International Style in 1934, located on 21 Bialik Street in Tel Aviv, Israel. It is owned by American billionaire, businessperson, art collector and philanthropist Ronald Lauder[1].

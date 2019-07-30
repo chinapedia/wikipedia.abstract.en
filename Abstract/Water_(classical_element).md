@@ -1,0 +1,1 @@
+WATER is one of the elements in ancient Greek philosophy, in the Asian Indian system _Panchamahabhuta_, and in the Chinese cosmological and physiological system _Wu Xing_. In contemporary esoteric traditions, it is commonly associated with the qualities of emotion and intuition.

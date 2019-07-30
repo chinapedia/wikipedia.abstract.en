@@ -1,0 +1,1 @@
+_PAPER GIRLS_ is a mystery/science fiction comic book series written by Brian K. Vaughan and illustrated by Cliff Chiang, published by American company Image Comics.[1][2] The colorist is Matt Wilson, the letterer and designer is Jared K. Fletcher, and the color flatter is Dee Cunniffe.

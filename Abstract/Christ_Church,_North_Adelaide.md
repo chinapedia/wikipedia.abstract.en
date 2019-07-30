@@ -1,0 +1,1 @@
+CHRIST CHURCH, NORTH ADELAIDE is an Anglican church consecrated in 1849.[1] The Foundation Stone was laid in 1848 by Augustus Short, first Bishop of Adelaide. Christ Church was the pro-cathedral until 1877 when St Peter's Cathedral opened.

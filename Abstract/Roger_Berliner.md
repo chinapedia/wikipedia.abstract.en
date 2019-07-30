@@ -1,0 +1,1 @@
+ROGER BERLINER (born February 12, 1951) has been a member of the Montgomery County Council since 2006. He represents District 1, which includes parts of Poolesville, Potomac, Bethesda, and Chevy Chase.

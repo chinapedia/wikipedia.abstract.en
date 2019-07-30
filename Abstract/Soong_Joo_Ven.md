@@ -1,0 +1,1 @@
+SOONG JOO VEN (born 19 May 1995) is a Malaysian badminton player.[1] He won silver medal at the 2012 Asia Junior Championships in the boys' singles event.[2] He was the runner-up of the 2015 Malaysia International Challenge tournament in men's singles event, and in 2016, he also became the runner-up of the Scottish Open Grand Prix tournament.[3][4]

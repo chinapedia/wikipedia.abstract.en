@@ -1,0 +1,1 @@
+_EEDU GOLD EHE_ is a Telugu comedy film directed by Veeru Potla starring Sunil and Sushma Raj Richa Panai in lead roles. This movie is produced by Ramabrahmam Sunkara on AK Entertainments Banner while Sagar Mahati scored the Music. The movie is based on Jewel Thief.

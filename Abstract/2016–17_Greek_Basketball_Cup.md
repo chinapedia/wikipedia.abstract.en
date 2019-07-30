@@ -1,0 +1,1 @@
+The 2016–17 GREEK BASKETBALL CUP was the 42nd edition of Greece's top-tier level professional national domestic basketball cup competition. The competition started on September 17, 2016, and ended with the Final on February 18, 2016. Panathinaikos won the competition.

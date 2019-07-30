@@ -1,0 +1,1 @@
+The 2010 AFC U-16 Championship was an international under-16 age group football tournament held in Uzbekistan from 24 October until 7 November 2010. The sixteen national teams involved in the tournament were required to register a squad of maximum 23 players; only players in these squads were eligible to take part in the tournament.

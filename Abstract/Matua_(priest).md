@@ -1,0 +1,1 @@
+MATUA (baptized MARIA TEPANO or MARIE-ETIENNE; fl. 1838) was the High Priest (_taura tupua_) of the island of Mangareva. He served as one of the regents for his nephew Maputeoa and was instrumental in the conversion of Mangareva and the Gambier Islands to Roman Catholicism. His name is often written as MATOUA.

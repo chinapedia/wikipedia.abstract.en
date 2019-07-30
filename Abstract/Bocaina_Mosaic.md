@@ -1,0 +1,1 @@
+The BOCAINA MOSAIC () is a protected area mosaic on the border between Rio de Janeiro and São Paulo, Brazil. It provides coordinated management for a group of 10 federal, state and municipal conservation units covering an area of Atlantic Forest along the coast and up the slopes of the Bocaina plateau.

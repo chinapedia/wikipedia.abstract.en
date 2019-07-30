@@ -1,0 +1,1 @@
+MOHAMMED ABDULLAH RASUL was an Indian politician. He belonged to the Communist Party of India (Marxist).[1] M.A. Rasul was a prominent leader of the peasants' movement and served as minister in the West Bengal state government for a short period in the 1960s.

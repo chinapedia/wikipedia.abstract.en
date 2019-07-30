@@ -1,0 +1,1 @@
+The FAR EAST CHILDREN'S RAILWAY (Russian: Дальневосточная детская железная дорога, _Dalwenostotschnaja detskaja schelesnaja doroga_) is a narrow gauge miniature railway in the Russian town Khabarovsk. The railway was opened on 19 May 1958 as one of the many pioneer railways in the USSR and is still in use.

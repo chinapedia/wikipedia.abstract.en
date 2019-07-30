@@ -1,0 +1,1 @@
+HIP CHICK FARMS is a sustainable, artisanal poultry product maker run by Jen Johnson, former sous chef at Chez Panisse, and Serafina Palandech which uses chickens that are from a local Sonoma farm and are ethically raised.[1] The co-owners and married couple, focus on making frozen chicken dinners with items such as spicy wings, chicken meatballs and nuggets.[2]

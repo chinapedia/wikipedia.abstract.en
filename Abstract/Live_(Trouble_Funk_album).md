@@ -1,0 +1,1 @@
+_LIVE_ (also titled as _STRAIGHT UP FUNK GO GO STYLE_) is a live album recorded and released in 1981 by the Washington, D.C.-based go-go band Trouble Funk.[1][2] This was the groups debut album, and consist of four approximately 15-minute jam sessions.[3] The album was remastered and reissued in 1996.

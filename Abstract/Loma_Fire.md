@@ -1,0 +1,1 @@
+The LOMA FIRE was a wildfire that broke out on September 26, 2016, in the Santa Cruz Mountains in Santa Clara County, California. By the time the fire was contained on October 12, the fire had burned of land and had destroyed 12 residences and 16 outbuildings.[1]

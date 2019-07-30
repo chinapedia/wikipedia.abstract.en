@@ -1,0 +1,1 @@
+HENRY CURLING (1803 – 10 February 1864, Kensington) was a novelist and captain in the 52nd Regiment of Foot, a light infantry unit in the British Army. Curling's works include _The Soldier of Fortune_, 1843; _Shakespeare, a Romance_, 1848; and _Recollections of Rifleman Harris_, 1848.

@@ -1,0 +1,1 @@
+_DEADPOOL 3_ is an upcoming American superhero film based on the Marvel Comics character Deadpool, to be produced by Marvel Studios and 20th Century Fox and distributed by Walt Disney Studios Motion Pictures. It is intended to be part of either the Marvel Cinematic Universe (MCU) or the _X-Men_ film series and the sequel to 2016's _Deadpool_ and 2018's _Deadpool 2_.

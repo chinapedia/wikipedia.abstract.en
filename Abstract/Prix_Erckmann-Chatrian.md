@@ -1,0 +1,1 @@
+The PRIX ERCKMANN-CHATRIAN is a literary award from Lorraine, awarded every year since 1925 in memory of the literary duo Erckmann-Chatrian. It rewards a written prose work by someone form Lorraine or about Lorraine.[1] It is often nicknamed the "Goncourt lorrain".[2] The jury consists of literary figures of the four Lorraine departments.

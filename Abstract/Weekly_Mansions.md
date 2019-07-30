@@ -1,0 +1,1 @@
+_WEEKLY MANSIONS_ is the thirty-fifth studio album by Omar Rodríguez-López as a solo artist, released on 4 November 2016. It is his ninth release in the 12 album series initiated by Ipecac Recordings.[1]

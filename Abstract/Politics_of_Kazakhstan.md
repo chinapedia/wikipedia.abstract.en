@@ -1,0 +1,1 @@
+The POLITICS OF KAZAKHSTAN takes place in the framework of a presidential republic, whereby the President of Kazakhstan is head of state and nominates the head of government. Executive power is exercised by the government. Legislative power is vested in both the government and the two chambers of parliament.

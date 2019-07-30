@@ -1,0 +1,1 @@
+HIRSCHEGG-PACK is since 2015 a municipality with 1,054 residents (as of 1 January 2016) in Voitsberg District in Styria in Austria. It was created as part of the Styria municipal structural reform,[1] at the end of 2014, by merging the former towns Hirschegg and Pack.[2]

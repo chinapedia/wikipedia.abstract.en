@@ -1,0 +1,1 @@
+Novak Djokovic was the three-time defending champion, but lost to Marin Čilić in the quarterfinals. As a result of Roger Federer's withdrawal from the tournament, he fell outside of the top 10 in the ATP rankings for the first time since 13 May 2002.

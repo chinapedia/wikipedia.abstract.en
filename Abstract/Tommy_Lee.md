@@ -1,0 +1,1 @@
+THOMAS LEE BASS (born October 3, 1962)[1] is an American musician and founding member of Mötley Crüe. As well as being the band's long-term drummer, Lee founded rap-metal band Methods of Mayhem, and has pursued solo musical projects.

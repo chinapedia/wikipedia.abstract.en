@@ -1,0 +1,1 @@
+DRAWSKI MŁYN RAILWAY STATION is a railway station serving the village of Drawski Młyn, in the Greater Poland Voivodeship, Poland. The station is located on the Poznań–Szczecin railway and the now closed Inowrocław–Drawski Młyn railway. The train services are operated by Przewozy Regionalne.

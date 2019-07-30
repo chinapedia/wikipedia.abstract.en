@@ -1,0 +1,1 @@
+VANDERLAN VIEIRA CARDOSO (born November 15, 1962 in Iporá) is a Brazilian businessman and politician. He was mayor of Senador Canedo (2005–2010). Cardoso ran the government of Goiás in 2010 and 2014 and mayor of Goiânia in 2016.[1] Was defeated by Iris Rezende in the second round.

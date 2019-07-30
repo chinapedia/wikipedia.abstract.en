@@ -1,0 +1,1 @@
+FUMIKO KONO ( born 1969) is a Japanese personal and business chef who prepares fusion dishes of French and Japanese cuisine. Classically trained at Le Cordon Bleu in Paris, she has cooked for celebrities throughout the world, been the featured subject of documentaries, and has written her own cookbooks.

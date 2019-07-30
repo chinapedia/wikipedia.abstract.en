@@ -1,0 +1,1 @@
+DESMOND VERNON COHEN (8 August 1927 – before 2014)[1] was a South African swimmer. He competed in the men's 200 metre breaststroke at the 1948 Summer Olympics and the water polo at the 1952 Summer Olympics.[2]

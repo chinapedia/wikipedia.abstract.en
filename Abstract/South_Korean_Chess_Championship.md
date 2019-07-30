@@ -1,0 +1,1 @@
+The SOUTH KOREAN CHESS CHAMPIONSHIP is organized by the Korea Chess Federation, which was established in 2008 after FIDE negotiated an agreement between three rival organizations to unify into a single governing body for chess in South Korea.[1]

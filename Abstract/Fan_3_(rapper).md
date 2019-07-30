@@ -1,0 +1,1 @@
+ALLISON JAYNE LURIE (born December 4, 1987) in Sherman Oaks, California, is an American rapper, singer, producer, and actress, better known under the stage name FAN 3.[1] She released several songs in 2004, 2005,[2] 2009,[3] and 2010[4] though she never released a full-length album.[5]

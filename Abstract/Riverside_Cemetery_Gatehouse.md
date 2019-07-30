@@ -1,0 +1,1 @@
+RIVERSIDE CEMETERY GATEHOUSE is a historic office building located in Riverside Cemetery at 3607 Pearl Road in Cleveland, Ohio. It was completed in 1897, and added to the National Register of Historic Places in 1987. A significant interior renovation occurred about 1991 to 1992.

@@ -1,0 +1,1 @@
+CARL STANGE (7 March 1870 in Hamburg – 5 December 1959 in Göttingen) was a German Protestant theologian and philosopher. In his work, he mainly dealt with issues of ethics and the philosophy of religion.[1]

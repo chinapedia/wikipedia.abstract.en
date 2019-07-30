@@ -1,0 +1,1 @@
+Saint Kitts and Nevis has no major international disputes. Its status as a transshipment point for South American drugs destined for the United States and Europe has caused some tension with foreign countries.

@@ -1,0 +1,1 @@
+TOMMASO CORSINI (28 February 1835 – 22 May 1919) was an Italian politician. He was born in and was mayor of Florence. He served in the Senate of the Kingdom of Italy. He died in Manciano, province of Grosseto, Tuscany.

@@ -1,0 +1,1 @@
+A GENETIC DISORDER is a genetic problem caused by one or more abnormalities formed in the genome. Most genetic disorders are quite rare and affect one person in every several thousands or millions. The earliest known genetic condition in a hominid was in the fossil species _Paranthropus robustus,_ with over a third of individuals displaying Amelogenesis imperfecta.[1]

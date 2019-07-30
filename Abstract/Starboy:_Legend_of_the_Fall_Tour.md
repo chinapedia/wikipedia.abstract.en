@@ -1,0 +1,1 @@
+The STARBOY: LEGEND OF THE FALL TOUR[1] was the sixth concert tour by Canadian singer and songwriter The Weeknd, to support his album _Starboy_ (2016). The tour started on February 17, 2017, at the Ericsson Globe in Stockholm and concluded on December 14, 2017 at Perth Arena in Perth.[2][3][4][5][6][7]

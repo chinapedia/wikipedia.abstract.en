@@ -1,0 +1,1 @@
+The '' College Aloisianum '' in Linz, Austria, is a private, Catholic Gymnasium and Realgymnasium. Its roots are in a Jesuit seminary on the grounds in 1837, and the enlargement of this seminary as St. Aloysius Jesuit College in 1853. In 1912 the seminary took its present name, and in 1992 it became a day school open to the general populace.

@@ -1,0 +1,1 @@
+PAOLO FERABOLI (born September 20, 1976) is the founder and current Director of the Automobili Lamborghini Advanced Composite Structures Laboratory (ACSL), and founder and CEO of Gemini Composites, LLC in Seattle, Washington.

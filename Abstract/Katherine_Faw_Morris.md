@@ -1,0 +1,1 @@
+KATHERINE FAW (born July 17, 1983), formerly Katherine Faw Morris, is an American writer. _Young God_, her debut novel, was long-listed for the Flaherty-Dunnan First Novel Prize [1] and named a best book of the year by _The Times Literary Supplement_, _The Houston Chronicle_,[2] and _BuzzFeed_.[3]

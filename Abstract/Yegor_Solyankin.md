@@ -1,0 +1,1 @@
+YEGOR NIKOLAEVICH SOLYANKIN (; 190126 June 1941) was a Red Army major general. Solyankin led the 2nd Tank Division during the Battle of Raseiniai, a Soviet counterattack after the German invasion of the Soviet Union. He was killed in action during the defeat of his division.

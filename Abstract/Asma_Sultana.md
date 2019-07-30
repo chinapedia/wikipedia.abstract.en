@@ -1,0 +1,1 @@
+ASMA SULTANA, also known as SULTANA A (born October 2, 1977), is a Bangladeshi designer and fashion entrepreneur. She began her career in 1997 and is now expanding her line towards couture clothing. She and her husband Tanjim Ashraful Haque run the fashion retail company Ecstasy in Bangladesh, with the in-house brands Tanjim, ZarZain, and Zoan Ash.[1]

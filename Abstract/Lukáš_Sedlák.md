@@ -1,0 +1,1 @@
+LUKÁŠ SEDLÁK (born 25 February 1993) is a Czech professional ice hockey forward currently playing for Traktor Chelyabinsk in the Kontinental Hockey League (KHL). Sedlak was selected by the Columbus Blue Jackets in the 6th round (158th overall) of the 2011 NHL Entry Draft.

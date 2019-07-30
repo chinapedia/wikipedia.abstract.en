@@ -1,0 +1,1 @@
+STATE ROUTE 147 (SR 147) is an east–west state highway that traverses Benton County in West Tennessee and Houston County in Middle Tennessee. The route is long, and it crosses Kentucky Lake/Tennessee River via a ferry boat.[1]

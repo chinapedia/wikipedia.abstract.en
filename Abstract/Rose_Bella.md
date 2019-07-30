@@ -1,0 +1,1 @@
+'''Rose Bella ''' (born 5 May 1994) is a Cameroonian footballer who played as a forward for the Cameroon women's national football team.[1][2] She was part of the team at the 2015 FIFA Women's World Cup. On club level she played for AS Police in Cameroon.[3]

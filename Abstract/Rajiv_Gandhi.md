@@ -1,0 +1,1 @@
+RAJIV RATNA GANDHI (; 20 August 1944 – 21 May 1991) was an Indian politician who served as the 6th Prime Minister of India from 1984 to 1989. He took office after the 1984 assassination of his mother, Prime Minister Indira Gandhi, to become the youngest Indian Prime Minister at the age of 40.

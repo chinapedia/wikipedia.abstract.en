@@ -1,0 +1,1 @@
+The KARIBA DAM is a double curvature concrete arch dam in the Kariba Gorge of the Zambezi river basin between Zambia and Zimbabwe. The dam stands tall and long.[1] The dam forms Lake Kariba, which extends for and holds of water.

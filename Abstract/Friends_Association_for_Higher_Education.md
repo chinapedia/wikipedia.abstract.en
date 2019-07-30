@@ -1,0 +1,1 @@
+The FRIENDS ASSOCIATION FOR HIGHER EDUCATION (FAHE) is a consortium of historically Quaker colleges, universities and study centers, as well as individual members, who support the Quaker ideal of integrating academic work with social responsibility and spiritual life. FAHE's seventeen member institutions are located in the United States, the United Kingdom and Kenya.

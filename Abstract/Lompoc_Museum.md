@@ -1,0 +1,1 @@
+The LOMPOC MUSEUM is a museum[1] preserving and interpreting the history of the Lompoc area and is located in the town of Lompoc, California.[2] The museum offers interpretive programs, exhibits, multi-media presentations and special events. The museum is located in a former Carnegie library building, built in 1910.

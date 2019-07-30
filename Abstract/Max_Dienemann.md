@@ -1,0 +1,1 @@
+MAX DIENEMANN (September 27, 1875 - April 10, 1939) was a German rabbi, publicist and philologist. He was one of the leading Liberal rabbis in Germany. Together with Leo Baeck, he headed the Rabbinical Association of Germany, in which liberal and orthodox rabbis were organized. In 1935, he ordained the first female rabbi in Jewish history.

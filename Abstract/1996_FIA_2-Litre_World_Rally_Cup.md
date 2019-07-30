@@ -1,0 +1,1 @@
+The 1996 FIA 2-LITRE WORLD RALLY CUP was the fourth season of the FIA 2-Litre World Rally Cup, an auto racing championship recognized by the Fédération Internationale de l'Automobile, running in support of the World Rally Championship.

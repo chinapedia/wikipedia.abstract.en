@@ -1,0 +1,1 @@
+West_Bank_Access_Restrictions.pdf in 2014]] Greater_Jerusalem_May_2006_CIA_remote-sensing_map_3500px.jpg remote sensing map of Greater Jerusalem, showing Israeli settlements, Palestinian refugee camps, fences, walls, etc. in May 2006.]] Golan_92.jpg with Israeli settlements in 1992.]]

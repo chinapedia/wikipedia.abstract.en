@@ -1,0 +1,1 @@
+The _' Newton Chikli Colliery disaster_', Chhindwara (M.P.), India occurred on 10 December 1954. This incident occurred due to flooding of the mine caused by inrush of water from old workings of the same mine. Total 63 persons were entrapped and got drowned.

@@ -1,0 +1,1 @@
+_THE LONG LONG TRAIL_ is a 1929 American Western film directed by Arthur Rosson and starring Hoot Gibson in his first sound film. It was produced and released by Universal Pictures.[1][2] The film survives and has been issued on DVD.[3] The novel was filmed earlier in the silent _The Ramblin' Kid_ (1923) which also starred Gibson.

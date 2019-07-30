@@ -1,0 +1,1 @@
+THE LONG LIVE THE ANGELS TOUR is the second concert tour by Scottish singer Emeli Sandé. Sandé announced in November 2016 that she would embark on a European and United States tour starting in the following March in support of her second album _Long Live the Angels_.[1] The tour consists of 40 shows, including Sandé's first arena shows, which were announced in December 2016.[2]

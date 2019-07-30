@@ -1,0 +1,1 @@
+Glynllivon._Seat_of_Rt._Hon._Lord_Newborough.jpeg the estate of the Lords Newborough]] SPENCER BULKELEY WYNN (23 May 1803 - 1 November 1888) was Deputy Lieutenant of Carnarvon from 1846 and High Sheriff of Anglesey in 1847.[1]

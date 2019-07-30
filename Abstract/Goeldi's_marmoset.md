@@ -1,0 +1,1 @@
+The GOELDI'S MARMOSET or GOELDI'S MONKEY (_Callimico goeldii_) is a small, South American New World monkey that lives in the upper Amazon basin region of Bolivia, Brazil, Colombia, Ecuador, and Peru. It is the only species classified in the genus _CALLIMICO_, and the monkeys are sometimes referred to as "callimicos".

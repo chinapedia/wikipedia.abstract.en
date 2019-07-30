@@ -1,0 +1,1 @@
+LASANPUR is a large village located in Dagarua of Purnia district, Bihar with total 437 families residing. It has population of 2126 of which 1115 are males while 1011 are females as per Population Census 2011.

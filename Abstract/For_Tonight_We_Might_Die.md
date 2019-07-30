@@ -1,0 +1,1 @@
+"FOR TONIGHT WE MIGHT DIE" is the first episode of the British science-fiction television series _Class_, a spin-off series of _Doctor Who_. It is written by Patrick Ness and was released online by BBC Three on 22 October 2016. "For Tonight We Might Die" received generally positive reviews from critics.

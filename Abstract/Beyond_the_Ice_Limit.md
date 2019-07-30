@@ -1,0 +1,1 @@
+_BEYOND THE ICE LIMIT_ is a techno-thriller novel by American authors Douglas Preston and Lincoln Child. The book is a sequel to their 2000 book _The Ice Limit_ and was published on May 17, 2016 by Grand Central Publishing. It is the fourth book in Preston and Child's Gideon Crew series.

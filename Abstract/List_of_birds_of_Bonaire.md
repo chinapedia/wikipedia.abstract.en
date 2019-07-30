@@ -1,0 +1,1 @@
+This is a LIST OF THE BIRD SPECIES RECORDED IN BONAIRE. The avifauna of Bonaire (an island of the Leeward Antilles in the Caribbean Sea) has 208 confirmed species, of which four have been introduced by humans and 62 are rare or vagrants (including a species introduced elsewhere in the region). None are endemic. An additional four species are hypothetical (see below).

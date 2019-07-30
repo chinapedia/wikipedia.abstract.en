@@ -1,0 +1,1 @@
+POLITICS OF GUINEA-BISSAU takes place in a framework of a semi-presidential representative democratic republic in transition, whereby the President is head of state and the Prime Minister is head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the National People's Assembly.

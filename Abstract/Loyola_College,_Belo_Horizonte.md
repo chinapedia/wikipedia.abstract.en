@@ -1,0 +1,1 @@
+LOYOLA COLLEGE, BELO HORIZONTE is a kindergarten through secondary school in Minas Gerais state, Brazil, opened by the Society of Jesus in 1943. It is maintained by the Nobrega Association for Education and Social Assistance.

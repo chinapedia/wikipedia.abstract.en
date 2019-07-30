@@ -1,0 +1,1 @@
+The HISTORY OF SPAIN dates back to the Middle Ages. In 1516, Habsburg Spain unified a number of disparate predecessor kingdoms; its modern form of a constitutional monarchy was introduced in 1813, and the current democratic constitution dates to 1978.

@@ -1,0 +1,1 @@
+Saint_Kitts_and_Nevis,_administrative_divisions_-_en_-_monochrome.svg

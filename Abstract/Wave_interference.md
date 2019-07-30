@@ -1,0 +1,1 @@
+Interference_of_two_waves.svg, the two lower waves create constructive interference (left), resulting in a wave of greater amplitude. When 180° out of phase, they create destructive interference (right).]]

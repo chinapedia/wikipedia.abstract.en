@@ -1,0 +1,1 @@
+TRANSHUMANISM (abbreviated as H+ or H+) is an international philosophical movement that advocates for the transformation of the human condition by developing and making widely available sophisticated technologies to greatly enhance human intellect and physiology.[1][2]

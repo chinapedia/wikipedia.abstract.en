@@ -1,0 +1,1 @@
+MILOŠ TRIVUNAC (28 July 1876 – 27 November 1944) was a prominent Serbian professor and writer, who, influenced by German literature, published many works in Serbian and German.[1]He was also critical of it in his works.[2]

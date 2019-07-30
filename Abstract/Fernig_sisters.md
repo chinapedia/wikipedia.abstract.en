@@ -1,0 +1,1 @@
+FÉLICITÉ FERNIG (1770–1841) was with her sister THÉOPHILE FERNIG (1775–1819), known as one of the SŒURS FERNIG (FERNIG SISTERS); two sisters who enlisted in the French army dressed as men during the French revolutionary wars, and who were allowed to remain in service after their gender was discovered, becoming celebrities frequently mentioned in the contemporary French press.

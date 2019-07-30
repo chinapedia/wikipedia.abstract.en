@@ -1,0 +1,1 @@
+ROSANA ITATÍ GÓMEZ (born 13 July 1980) is an Argentine women's international footballer who plays as a midfielder. She is a member of the Argentina women's national football team. She was part of the team at the 2003 FIFA Women's World Cup and at the 2007 FIFA Women's World Cup. On club level she plays for Boca Juniors in Argentina.[1][2][3]

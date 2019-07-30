@@ -1,0 +1,1 @@
+HOLLY SOMERVILLE is an Irish botanical artist, illustrator and teacher. She has worked for Trinity College, Dublin, and produced the botanical illustrations for the seventh edition of David Webb's _An Irish Flora_.

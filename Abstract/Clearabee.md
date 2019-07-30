@@ -1,0 +1,1 @@
+CLEARABEE is a British on-demand waste management company.[1] The company is headquartered in Birmingham and has 60 additional locations throughout Britain.[2][3] Clearabee is accredited by the Living Wage Foundation.[4]

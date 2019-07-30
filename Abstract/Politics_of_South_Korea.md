@@ -1,0 +1,1 @@
+Politics of Korea|the article about the politics of the Democratic People's Republic of Korea|Politics of North Korea}} ROK_election_system_and_separation_of_powers_(en).svg and the election system of South Korea]]

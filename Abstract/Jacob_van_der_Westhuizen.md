@@ -1,0 +1,1 @@
+Professor JACOB VAN DER WESTHUIZEN was a South African, Apartheid-era academic in the field of Criminology, that published over 25 books.[1] In December 1987 he went to the Republic of China (Taiwan) on an Academic exchange program due to his position as the Director of the INSTITUTE FOR CRIMINOLOGY for the University of South Africa.[2]

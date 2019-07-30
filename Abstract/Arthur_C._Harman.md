@@ -1,0 +1,1 @@
+ARTHUR C. HARMAN (March 6, 1854 – June 15, 1927) was an American Democratic politician who served approximately fourteen years combined as a member of the Virginia Senate and Virginia House of Delegates, representing the state capital of Richmond.[1]

@@ -1,0 +1,1 @@
+The SPORTS CAR CLUB OF AMERICA (SCCA) is an American automobile club and sanctioning body supporting road racing, rallying, and autocross in the United States. Formed in 1944, it runs many programs for both amateur and professional racers.

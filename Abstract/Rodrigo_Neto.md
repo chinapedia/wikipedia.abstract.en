@@ -1,0 +1,1 @@
+RODRIGO NETO (ca. 1975 – 8 March 2013), a Brazilian journalist for Radio Vanguardia and _Vale do Aço_ newspaper in Ipatinga, Minas Gerais, Brazil, was killed by two unidentified men who were suspected militia members.[1]

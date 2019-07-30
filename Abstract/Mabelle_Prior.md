@@ -1,0 +1,1 @@
+Mabelle_Prior.jpeg MABELLE PRIOR (born March 17, 1976) is a Swiss Ghanaian/Togolese[1] origin. Former broadcast journalist and producer of Women and children’s programme back in the 1990s on Ghana Broadcasting Corporation. She is popularly known as ‘Ghana’s Radio Queen’ in those days.[2]

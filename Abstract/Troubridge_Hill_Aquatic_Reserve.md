@@ -1,0 +1,1 @@
+__NOTOC__ TROUBRIDGE HILL AQUATIC RESERVE is a marine protected area in the Australian state of South Australia located in Investigator Strait adjoining the south coast of Yorke Peninsula at the headland of Troubridge Hill.[1][2]

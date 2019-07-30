@@ -1,0 +1,1 @@
+{{ infobox football club | clubname = Inter Nashville FC | image = Inter Nashville FC (2016).png | caption = | fullname = Inter Nashville Football Club | TV = | shortname = | founded = | dissolved = | stadium = International Indoor Soccer Complex

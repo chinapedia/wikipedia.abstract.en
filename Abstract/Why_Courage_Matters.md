@@ -1,0 +1,1 @@
+_WHY COURAGE MATTERS: THE WAY TO A BRAVER LIFE_ is a 2004 book by United States Senator John McCain with his frequent collaborator and aide Mark Salter. Published by Random House, it is mostly mini-biographies and mini-commentaries on others, but contains a small autobiographical element.

@@ -1,0 +1,1 @@
+HUMSAFAR EXPRESS is a fully AC 3-tier service with all the modern facilities designed and operated by Indian Railways. Its services include long haul routes. The first service was inaugurated on 16 December 2016 between Gorakhpur and Anand Vihar, (New Delhi). The fares of Humsafar Express at the time of launch are around 15-20% higher compared to normal AC-3 tier trains.

@@ -1,0 +1,1 @@
+POLITICS OF GUINEA takes place in a framework of a presidential representative democratic republic, whereby the President of Guinea is both head of state and head of government of Guinea. Executive power is exercised by the government. Legislative power is vested in both the government and the National Assembly.

@@ -1,0 +1,1 @@
+PAULA RUESS (born Paula Kopp: 3 May 1902 - 8 August 1980) was a German political activist (KPD). Forced into exile by the Nazi takeover, during the early 1940s she worked with the French Resistance.[1][2]

@@ -1,0 +1,1 @@
+DP INC. is a video game development company based in Japan. Through a partnership with Nintendo, the company has developed _DK: King of Swing_, _DK: Jungle Climber_ and _Donkey Kong Barrel Blast_. They also developed _Glory of Heracles_, the fifth title of the Glory of Heracles series.

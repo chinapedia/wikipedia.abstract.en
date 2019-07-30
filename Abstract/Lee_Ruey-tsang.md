@@ -1,0 +1,1 @@
+LEE RUEY-TSANG () is a Taiwanese banker and politician. He has led the Financial Supervisory Commission since 19 October 2016 until 7 September 2017. Prior to assuming the chairmanship of the FSC, he was chairman of the Bank of Kaohsiung. He has served as Vice Minister of Finance and became acting finance minister in 2008, after Ho Chih-chin resigned.

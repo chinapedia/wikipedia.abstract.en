@@ -1,0 +1,1 @@
+Fanny_McCullough_Orme.jpg Lt._Col._William_McCullough.jpg In December 1862, President of the United States Abraham Lincoln sent a brief consoling LETTER TO FANNY MCCULLOUGH, the daughter of lieutenant colonel William McCullough, following his death in the American Civil War.

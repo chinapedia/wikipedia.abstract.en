@@ -1,0 +1,1 @@
+_TSUKAMURELLA PULMONIS_ is a Gram-positive and aerobic bacterium from the genus of Tsukamurella which has been isolated from the sputum from a patient with lung tuberculosis in Germany.[1][2][3][4][5]

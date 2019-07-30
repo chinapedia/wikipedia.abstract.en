@@ -1,0 +1,1 @@
+AMOXICILLIN is an antibiotic often used for the treatment of a number of bacterial infections.[1] These include middle ear infection, strep throat, pneumonia, skin infections, and urinary tract infections among others.[2] It is taken by mouth, or less commonly by injection.[3][4]

@@ -1,0 +1,1 @@
+The 2017 J1 LEAGUE (known as the MEIJI YASUDA J1 LEAGUE for sponsorship reasons) was the 25th season of the J1 League, the top Japanese professional league for association football clubs, since its establishment in 1993. The season began on 25 February 2017 and ended on 2 December. Fixtures for the 2017 season were announced on 26 January 2017.[1]

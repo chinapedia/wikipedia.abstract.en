@@ -1,0 +1,1 @@
+ThreeTripsInTimeAndSpace.jpg and published by Hawthorn Books in 1973 with cover art by Ivan Seresin]] "FLASH CROWD" is a 1973 English-language novella by science fiction author Larry Niven,[1] one of a series about the social consequence of inventing an instant, practically free transfer booth.[2]

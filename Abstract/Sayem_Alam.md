@@ -1,0 +1,1 @@
+SAYEM ALAM (born 14 April 1993) is a Bangladeshi cricketer who plays for Sylhet Division.[1] He made his first-class debut for Sylhet Division in 2009/10 National Cricket League on 14 January 2010.[2]

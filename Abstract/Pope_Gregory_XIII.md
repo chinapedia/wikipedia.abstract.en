@@ -1,0 +1,1 @@
+POPE GREGORY XIII (; 7 January 1502 – 10 April 1585), born UGO BONCOMPAGNI, was Pope of the Catholic Church from 13 May 1572 to his death in 1585. He is best known for commissioning and being the namesake for the Gregorian calendar, which remains the internationally accepted civil calendar to this day.

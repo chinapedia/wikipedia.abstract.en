@@ -1,0 +1,1 @@
+The SHIP/SUBMARINE RECYCLING PROGRAM (SRP) is the process that the United States Navy uses to dispose of decommissioned nuclear vessels. SRP takes place only at the Puget Sound Naval Shipyard (PSNS) in Bremerton, Washington, but the preparations can begin elsewhere.

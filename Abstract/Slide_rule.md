@@ -1,0 +1,1 @@
+Sliderule.PickettN902T.agr.jpg The SLIDE RULE, also known colloquially in the United States as a SLIPSTICK,[1][2] is a mechanical analog computer.[3][4][5][6][7] As graphical analog calculators, slide rules are closely related to nomograms, but the former are used for general calculations, whereas the latter are used for application-specific computations.

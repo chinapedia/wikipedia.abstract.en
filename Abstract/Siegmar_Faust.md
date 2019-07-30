@@ -1,0 +1,1 @@
+SIEGMAR FAUST (Dec. 12th 1944, Dohna, Germany) is a German writer and human rights activist. He was a political prisoner in the GDR, and from 1996 to 1999, he was the State Commissioner for Stasi documents in Saxony.[1]

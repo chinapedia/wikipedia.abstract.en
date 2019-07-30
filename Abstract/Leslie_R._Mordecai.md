@@ -1,0 +1,1 @@
+LESLIE R. MORDECAI served as the International Commissioner of the Scout Association of Jamaica, and as a member of the Interamerican Region Committee of the World Organization of the Scout Movement, he was instrumental in the 20th World Scout Conference.[1]

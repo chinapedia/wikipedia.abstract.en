@@ -1,0 +1,1 @@
+TRZCIANKA RAILWAY STATION is a railway station serving the town of Trzcianka, in the Greater Poland Voivodeship, Poland. The station opened in 1851 and is located on the Tczew–Kostrzyn railway. The train services are operated by PKP and Przewozy Regionalne.

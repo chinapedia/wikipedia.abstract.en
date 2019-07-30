@@ -1,0 +1,1 @@
+JASON PETER WALKER (born 1969) is a New Zealand-Australian country musician and writer.[1][2] His third album, _Ceiling Sun Letters_ (14 June 2010), was nominated for an ARIA Award for Best Country Album. As a writer Walker has published two biographies, _Gram Parsons: God's Own Singer_ (2002) and _Billy Thorpe's Time on Earth_ (2009).

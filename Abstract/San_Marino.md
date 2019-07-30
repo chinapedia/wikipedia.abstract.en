@@ -1,0 +1,1 @@
+SAN MARINO (, ), officially the REPUBLIC OF SAN MARINO[1][2] (), also known as the MOST SERENE REPUBLIC OF SAN MARINO[3] (), is an enclaved small-sized country,[4] surrounded by Italy, situated on the Italian Peninsula on the northeastern side of the Apennine Mountains.

@@ -1,0 +1,1 @@
+ARTHUR LARARD (30 December 1870 – 15 August 1936), also known by the nickname of "ALF", was a South African international rugby union and rugby league footballer. He primarily played as a half back, but also played many games at during his rugby league career.

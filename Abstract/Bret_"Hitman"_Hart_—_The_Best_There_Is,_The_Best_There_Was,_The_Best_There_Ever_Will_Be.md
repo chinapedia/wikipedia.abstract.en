@@ -1,0 +1,1 @@
+_BRET "HITMAN" HART — THE BEST THERE IS, THE BEST THERE WAS, THE BEST THERE EVER WILL BE_ is an illustrated autobiography[1] by Calgary professional wrestler Bret Hart and co-written by Perry Lefko.[2] It became a national bestseller in Canada.[3][4] The preface was written by Hart's cousin Roddy Piper.[5][6]

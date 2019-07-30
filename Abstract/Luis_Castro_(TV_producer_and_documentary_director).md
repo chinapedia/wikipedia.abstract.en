@@ -1,0 +1,1 @@
+LUIS _Oswaldo_ CASTRO _Montero_ (born April 5, 1973) is a Venezuelan-British media entrepreneur based in London, and best known for his role as a director of the documentary _Chávez_, which was broadcast in several TV networks and awarded an Honorific Mention at the Havana Film Festival 2013,[1]

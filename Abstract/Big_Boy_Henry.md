@@ -1,0 +1,1 @@
+RICHARD LESLIE HENRY (born May 26, 1921 – December 5, 2004),[1] better known as BIG BOY HENRY, was an American Piedmont blues guitarist, singer and songwriter. His most notable recording was "Mr. President",[2] a protest against cuts in social welfare undertaken by President Ronald Reagan. It won Henry a W. C. Handy Award.

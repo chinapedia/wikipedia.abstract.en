@@ -1,0 +1,1 @@
+_THE COLUMBIA YEARS: THE DEFINITIVE ANTHOLOGY_ is a compilation by guitarist Dave Mason, released as a double-CD set in 2016. This album is a physical version of Columbia Records’ 2015 digital-only album _The Essential Dave Mason_.

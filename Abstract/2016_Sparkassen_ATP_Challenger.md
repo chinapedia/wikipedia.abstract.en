@@ -1,0 +1,1 @@
+The 2016 SPARKASSEN ATP CHALLENGER was a professional tennis tournament played on indoor hard courts in Ortisei, Italy between 7 and 13 November 2016. It was the seventh edition of the tournament which was part of the 2016 ATP Challenger Tour.

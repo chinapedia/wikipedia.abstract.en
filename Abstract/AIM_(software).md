@@ -1,0 +1,1 @@
+AIM (AOL INSTANT MESSENGER) was an instant messaging and presence computer program created by AOL, which used the proprietary OSCAR instant messaging protocol and the TOC protocol to allow registered users to communicate in real time.

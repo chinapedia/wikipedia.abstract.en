@@ -1,0 +1,1 @@
+Nepal has provided an exotic and mystical backdrop to numerous international films set mostly or partly in Nepal. A good many overseas films shot in Nepal come from Bollywood and Hollywood film industries, which are two of the biggest cinema industries in the world.

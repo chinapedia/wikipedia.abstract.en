@@ -1,0 +1,1 @@
+The following are the national records in Olympic weightlifting in Argentina. Records are maintained in each weight class for the snatch lift, clean and jerk lift, and the total for both lifts by the Federación Argentina de Pesas.

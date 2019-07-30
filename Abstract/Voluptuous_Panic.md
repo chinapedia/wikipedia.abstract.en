@@ -1,0 +1,1 @@
+VOLUPTUOUS PANIC is an American indie rock duo founded in 2013 by Gretchen DeVault, who is the primary singer and songwriter in the prominent indie-pop group The Icicles,[1][2] and music journalist/author Brian J. Bowe.[3][4][5][6] The duo’s music has been described as hypnotic, textured and dreamy, mixing elements of shoegaze, dream pop and trip-hop.[7]

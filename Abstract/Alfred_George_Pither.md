@@ -1,0 +1,1 @@
+Air Commodore ALFRED GEORGE PITHER, (16 October 1908 – 2 July 1971) was a Royal Australian Air Force officer. During the Second World War he established a chain of long-range radar stations throughout Australia and the South West Pacific. After the war, he helped in planning the Long Range Weapons Establishment, which he named "Woomera".

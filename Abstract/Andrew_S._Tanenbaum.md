@@ -1,0 +1,1 @@
+ANDREW STUART TANENBAUM (born March 16, 1944), sometimes referred to by the handle AST,[1] is a Dutch / American computer scientist and professor emeritus of computer science at the Vrije Universiteit Amsterdam in the Netherlands.[2][3]

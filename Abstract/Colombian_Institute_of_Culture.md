@@ -1,0 +1,1 @@
+The COLOMBIAN INSTITUTE OF CULTURE (; short name _Colcultura_) (1968–1997), was established by the Colombian government in 1968 to manage official activity in the cultural arena and to serve as a cultural intermediary between the government and the people.[1]

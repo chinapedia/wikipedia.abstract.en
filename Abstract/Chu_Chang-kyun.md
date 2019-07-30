@@ -1,0 +1,1 @@
+CHU CHANG-KYUN (; November 7, 1921 – December 29, 2012) served as the President of the Korea Scout Association. In 1988, Chu was awarded the 189th _Bronze Wolf_, the only distinction of the World Organization of the Scout Movement, awarded by the World Scout Committee for exceptional services to world Scouting.

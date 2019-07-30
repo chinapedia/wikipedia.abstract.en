@@ -1,0 +1,1 @@
+Brugge_H.-Maagd-Mariakerk_Grootseminarie.JPG Brugge_Grootseminarie_R01.jpg The GROOTSEMINARIE is the seminary for priest candidates of the Roman Catholic Diocese of Bruges. It is located on the Potterierei in Bruges.

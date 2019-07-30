@@ -1,0 +1,1 @@
+Hafenpromenade_Sliema.jpg showing traffic on Triq ix-Xatt and boats in Marsamxett Harbour]] The TRANSPORT SYSTEM IN MALTA is small but extensive, and the islands' domestic system of public transport is reliant on buses and taxis, although there were both a railway and a tramway in the past.

@@ -1,0 +1,1 @@
+HAROLD EDWARD HOLT, (5 August 190817 December 1967), was an Australian politician who served as the 17th Prime Minister of Australia, in office from 1966 until his presumed drowning death in 1967. He was the leader of the Liberal Party during that time.

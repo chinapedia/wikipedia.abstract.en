@@ -1,0 +1,1 @@
+CLOYNE ROUND TOWER is a round tower in the historically monastic town of Cloyne, County Cork in Ireland. Cloyne was also the "see city" of the Anglican (Church of Ireland) Diocese of Cork, Cloyne and Ross. The tower is a symbol for the town of Cloyne.

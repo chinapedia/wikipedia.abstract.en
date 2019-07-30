@@ -1,0 +1,1 @@
+The FIAT 665NM PROTETTO (protected) or SCUDATO (shielded) was a wheeled armoured personnel carrier, produced in Italy and employed during World War II by the Royal Italian Army, the National Republican Army and the Wehrmacht.

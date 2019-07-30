@@ -1,0 +1,1 @@
+JOCELYN GOLDFEIN is an American technology executive and investor. She is the managing director and a general partner at venture capital firm Zetta Venture Partners. Previously she was a director of engineering at Facebook and vice president of engineering at VMware.[1]

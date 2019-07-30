@@ -1,0 +1,1 @@
+BUSSOL STRAIT (Russian: _Proliv Bussol_) is a wide strait that separates the islands of Broutona and Chirpoy to the west from Simushir to the east. It is nearly 58 km (about 36 mi) wide, making it the largest channel in the Kuril Islands.[1]

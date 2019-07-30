@@ -1,0 +1,1 @@
+PETER M. BROWN (born 1941), is a Canadian businessman. He founded Canaccord Financial (now Canaccord Genuity), which has become the largest independent investment dealer in Canada.[1] He retired in 2014.[2]

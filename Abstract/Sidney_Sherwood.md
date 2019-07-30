@@ -1,0 +1,1 @@
+SIDNEY SHERWOOD (May 28, 1860 – August 5, 1901) was an American economist. He was a Professor of Economics at Johns Hopkins University from 1892 to 1901, where he succeeded his teacher Richard T. Ely who had left for the University of Wisconsin–Madison, as head of the political economy program.[1] Although a student of Ely's, Sherwood was one of the early American Marginalists.

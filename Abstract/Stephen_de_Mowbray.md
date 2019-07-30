@@ -1,0 +1,1 @@
+STEPHEN DE MOWBRAY (15 August 1925 – 4 October 2016) was a counterintelligence officer in Britain's Secret Intelligence Service (MI6). He became convinced that the then head of MI5, Sir Roger Hollis, was a Soviet spy.[1]

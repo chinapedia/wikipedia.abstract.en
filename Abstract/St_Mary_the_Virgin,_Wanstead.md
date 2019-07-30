@@ -1,0 +1,1 @@
+St_Mary_the_Virgin,_Wanstead_(6).jpg ST MARY THE VIRGIN, WANSTEAD is a Church of England church in Wanstead, east London. It is located on Overton Drive and now shares its parish with Christ Church, Wanstead. It is the only Grade I listed building in the London Borough of Redbridge[1]

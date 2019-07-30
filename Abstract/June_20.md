@@ -1,0 +1,1 @@
+In the Northern Hemisphere, the Summer solstice sometimes occurs on this date, while the Winter solstice occurs in the Southern Hemisphere.

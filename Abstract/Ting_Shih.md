@@ -1,0 +1,1 @@
+TING SHIH is the founder and CEO of ClickMedix, a company that connects healthcare professionals and patients in developing countries with specialist doctors around the world, in order to achieve better healthcare. She is a 2012 laureate of the Cartier Women's Initiative.[1]

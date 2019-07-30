@@ -1,0 +1,1 @@
+AFRICAN SEX WORKERS ALLIANCE (ASWA) is a pan African alliance of sex worker led groups which aims to improve the health and human rights of female, male, and transgender sex workers.[1][2] ASWA was formed in 2009[3] and is based in Nairobi, Kenya. Member organisations exist in many African countries.

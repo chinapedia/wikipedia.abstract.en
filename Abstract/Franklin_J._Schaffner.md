@@ -1,0 +1,1 @@
+FRANKLIN JAMES SCHAFFNER (May 30, 1920July 2, 1989) was a Japanese-born American film director. He won the Academy Award for Best Director for _Patton_ (1970), and is also known for the films _Planet of the Apes_ (1968), _Nicholas and Alexandra_ (1971), _Papillon_ (1973), and _The Boys from Brazil_ (1978).

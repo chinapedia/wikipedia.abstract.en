@@ -1,0 +1,1 @@
+_SKELETON STRINGS 2_ is William Control's second acoustic album and is again a mixture of his own tracks and covers. It was released on Christmas Eve 2014, and, like the _Skeleton Strings_ album, was download only. Pre-orders went live on December 12 through Control's website and came with a bonus video of _Disconnecting_ performed acoustically.[1][2][3]

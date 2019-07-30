@@ -1,0 +1,1 @@
+JAGIROAD (VIDHAN SABHA CONSTITUENCY) is one of the 126 assembly constituencies of Assam Legislative Assembly. Jagiroad forms part of the Nowgong Lok Sabha constituency[1][2][3] It is reserved for the Scheduled Caste candidates.

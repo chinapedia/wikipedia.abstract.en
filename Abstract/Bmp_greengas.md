@@ -1,0 +1,1 @@
+BMP GREENGAS is a biomethane trading company based in Munich. The company produces over 1.5 terawatt hours per year and is a leader in the German biomethane market.[1] In 2016 the company took over the biomethane distribution of VNG – Verbundnetz Gas.[2]

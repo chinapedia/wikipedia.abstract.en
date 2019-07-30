@@ -1,0 +1,1 @@
+The SOFTWARE ENGINEERING INSTITUTE (SEI) is an American research and development center headquartered in Pittsburgh, Pennsylvania. Its activities cover cybersecurity, software assurance, software engineering and acquisition, and component capabilities critical to the Department of Defense.

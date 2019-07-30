@@ -1,0 +1,1 @@
+DAWID SCHALK PIENAAR "DAWIE" ACKERMANN (3 June 1930 – 1 January 1970), was a South African international rugby union and rugby league footballer. His position was at Flanker (or loose forward in rugby league).

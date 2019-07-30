@@ -1,0 +1,1 @@
+IMAGE KHABAR (Nepali: इमेज खबर) is a free online information and news portal in Nepal. It is owned by the Image Group of Companies, which also runs Image Channel. Image Khabar was launched on May 5, 2013.

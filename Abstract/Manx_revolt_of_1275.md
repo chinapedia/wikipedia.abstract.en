@@ -1,0 +1,1 @@
+The MANX REVOLT OF 1275 was an uprising on the Isle of Man in 1275, led by Guðrøðr Magnússon. The uprising initially expelled the Scots, who had received the Isle of Man in 1266 by the Treaty of Perth from the Kingdom of Norway. King Alexander III of Scotland responded by sending a large fleet and troops to crush the rebellion.

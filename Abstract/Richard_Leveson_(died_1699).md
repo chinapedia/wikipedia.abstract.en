@@ -1,0 +1,1 @@
+RICHARD LEVESON was an English soldier and politician who served under James II and then William III after the 1688 Glorious Revolution. He was Member of Parliament for Lichfield 1685–1687 and for Newport, Isle of Wight from 1692–1695.[1]

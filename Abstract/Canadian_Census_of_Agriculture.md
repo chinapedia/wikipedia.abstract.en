@@ -1,0 +1,1 @@
+The CANADIAN CENSUS OF AGRICULTURE (), is a census conducted every five years by Statistics Canada, alongside the national census, for the purposes of gathering Canadian agricultural industry, farm operator, and farm data.[1]

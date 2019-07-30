@@ -1,0 +1,1 @@
+_THEY ARE COMING_ (; _Nomdeuri Onda_) is the second mini-album by South Korean recording artist Wheesung. It was released on October 10, 2011, under YMC Entertainment and distributed by CJ E&M Music. The record served as the final release before the singer enlisted in military service.

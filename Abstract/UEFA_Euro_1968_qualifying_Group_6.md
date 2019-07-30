@@ -1,0 +1,1 @@
+GROUP 6 of the UEFA EURO 1968 QUALIFYING tournament was one of the eight groups to decide which teams would qualify for the UEFA Euro 1968 finals tournament. Group 6 consisted of four teams: Italy, Romania, Switzerland, and Cyprus, where they played against each other home-and-away in a round-robin format. The group winners were Italy, who finished 5 points above Romania.

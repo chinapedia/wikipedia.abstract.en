@@ -1,0 +1,1 @@
+LENS TECHNOLOGY is a Chinese technology company headquartered in Hunan that engages in the research, development, manufacture, and sale of lens products. It produces and sells touch panel cover glass, touch sensor modules, and touch panel covers.

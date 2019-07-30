@@ -1,0 +1,1 @@
+WINGS OF CHANGE is an Austrian aircraft manufacturer based in Fulpmes, founded by Markus Gründhammer. The company specializes in the design and manufacture of paragliders in the form of ready-to-fly aircraft.[1]

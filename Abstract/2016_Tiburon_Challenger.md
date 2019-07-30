@@ -1,0 +1,1 @@
+The 2016 TIBURON CHALLENGER was a professional tennis tournament played on outdoor hard courts. It was the tenth edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Tiburon, United States between 26 September and 2 October 2016.

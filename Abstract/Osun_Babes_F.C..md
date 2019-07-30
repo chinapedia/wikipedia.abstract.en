@@ -1,0 +1,1 @@
+OSUN BABES F.C. (formerly COMFORT QUEENS F.C. and OYINLOLA QUEENS F.C.) is a football club based in Osogbo, Osun State.[1][2] It was founded in 1995 under the military rule of Anthony Udofia. They participate in the elite division of female football league system in Nigeria.[3] In 2016, the government denied any plan of selling the club to private investors.[4]

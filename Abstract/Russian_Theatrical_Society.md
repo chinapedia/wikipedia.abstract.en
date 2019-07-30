@@ -1,0 +1,1 @@
+RUSSIAN THEATRICAL SOCIETY or RTO () was a theatrical society, which was formed in the Russian Empire and worked during Bolshevik Russia and Soviet Union periods. It was a Trade Union of the stage workers until 1919, when was formed the Trade Union of Art Workers (RABIS). RTO was renamed the ALL-RUSSIAN THEATRICAL SOCIETY or VTO () in 1933.

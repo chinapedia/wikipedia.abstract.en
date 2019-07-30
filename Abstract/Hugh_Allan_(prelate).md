@@ -1,0 +1,1 @@
+HUGH ALLAN, O.Praem. (born 3 August 1976) is a Premonstratensian canon regular and Roman Catholic priest who is the Apostolic Administrator of the Prefecture of the Falkland Islands and Ecclesiastical Superior of the Missions sui iuris of the islands of Ascension, St Helena and Tristan da Cunha.[1]

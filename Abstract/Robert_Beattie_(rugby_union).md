@@ -1,0 +1,1 @@
+ROBERT BEATTIE (born 30 August 1993 in Scotland) is a Scotland 7s international rugby union footballer who currently plays as a wing for London Scottish.[1] He previously played for Glasgow Warriors and Glasgow Hawks.[2]

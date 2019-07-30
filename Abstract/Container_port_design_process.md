@@ -1,0 +1,1 @@
+CONTAINER PORT DESIGN PROCESS is a set of correlated practices considered during container port design, aiming to transfer general business mission into detailed design documents for future construction and operation.[1]

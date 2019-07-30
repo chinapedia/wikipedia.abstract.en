@@ -1,0 +1,1 @@
+Enfants_et_télé_au_Mali.jpg Mali, a large, landlocked, multicultural country in West Africa, consistently ranks low in the Human Development Index. The infrastructure of COMMUNICATIONS IN MALI, while underdeveloped, is crucial to the nation.

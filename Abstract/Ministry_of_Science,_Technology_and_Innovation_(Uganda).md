@@ -1,0 +1,1 @@
+The MINISTRY OF SCIENCE, TECHNOLOGY AND INNOVATION (MSTI), is a cabinet-level government ministry of Uganda. It is responsible for the planning, coordinating and implement government efforts to encourage scientific and technological innovation in educational institutions, industry, agriculture, commerce and daily life, on the country's path to middle-income status.[1][2][3]

@@ -1,0 +1,1 @@
+GTPASES are a large family of hydrolase enzymes that bind to the nucleotide guanosine triphosphate (GTP) and hydrolyze it to guanosine diphosphate (GDP).[1] The GTP binding and hydrolysis takes place in the highly conserved G domain common to many GTPases.[2]

@@ -1,0 +1,1 @@
+JOHN GRIERSON CBE (26 April 1898 – 19 February 1972) was a pioneering Scottish documentary maker, often considered the father of British and Canadian documentary film. In 1926, Grierson coined the term "documentary" in a review of Robert Flaherty's _Moana_.[1]

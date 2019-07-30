@@ -1,0 +1,1 @@
+_CAMPANULA JACOBAEA_[1] is a species of flowering plants of the Campanulaceae family. The species is endemic to Cape Verde and is listed as vulnerable by the IUCN.[2] Its local name is _contra-bruxas-azul_ ("blue against witches").[3] The plant is used in traditional medicine.[4] _Campanula jacobaea_ is shown on a Cape Verdean $5 escudo coin issued in 1994.[5]

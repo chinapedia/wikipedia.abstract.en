@@ -1,0 +1,1 @@
+Louise_Frederikke_Gustava_Bille-Brahe_by_L._Angerer.jpg LOUISE BILLE-BRAHE (1830-1910) was a Danish courtier[1]; _Overhofmesterinde_ (Mistress of the Robes) to the queen of Denmark, Louise of Hesse-Kassel, from 1888 to 1898, and to the next queen of Denmark, Louise of Sweden, from 1906 to 1910.

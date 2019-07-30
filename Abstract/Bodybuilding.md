@@ -1,0 +1,1 @@
+Arnold_Schwarzenegger_1974.jpg, one of the most notable figures in bodybuilding, in 1974]] Falk,_Benjamin_J._(1853-1925)_-_Eugen_Sandow_(1867-1925).jpg, often referred to as the "Father of Modern Bodybuilding"]]

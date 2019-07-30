@@ -1,0 +1,1 @@
+Shahzada HUSAIN BURHANUDDIN is the third son of Syedna Mufaddal Saifuddin the current incumbent of the office of the 53rd Dawoodi Bohra Da'i al-Mutlaq,[1] and the grandson of Syedna Mohammed Burhanuddin. He is a reciter and Hafiz (Quran).

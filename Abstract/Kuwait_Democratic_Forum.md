@@ -1,0 +1,1 @@
+The KUWAIT DEMOCRATIC FORUM (KDF) is a Leftist political group founded in 1991.[1] Members of the KDF include Ahmad Al-Khatib, Abdullah Al-Naibari, Saleh Al-Mulla, the late :ar:سامي المنيس Ahmad Al-Rub'i.[2]

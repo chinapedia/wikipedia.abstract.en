@@ -1,0 +1,1 @@
+CALBO later on CALBO-CROTTA is an Italian mercantile family originating from Padua and then established in Venice starting the year 891. It became part of the Great Council of Venice () after the battle of Genoa in 1310. They were given nobility title in 1817.

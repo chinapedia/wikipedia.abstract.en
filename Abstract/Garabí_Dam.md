@@ -1,0 +1,1 @@
+The GARABÍ DAM () is a planned dam and generating station on the Uruguay River between Argentina and Brazil, part of the Garabí-Panambi Hydroelectric Complex. There is some controversy over the environmental impact on the fast-flowing river.

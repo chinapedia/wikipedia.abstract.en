@@ -1,0 +1,1 @@
+DISPOSSESSED is an Australian metal band[1][2] formed in 2015.[3] They sing in a mixture of English and Gumbaynggirr.[4] They have been described as "the most uncompromising, unapologetic and important band in Australia."[5]

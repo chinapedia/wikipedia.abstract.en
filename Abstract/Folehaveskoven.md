@@ -1,0 +1,1 @@
+FOLEHAVESKOVEN, or FOLEHAVE SKOV, is a forest in Hørsholm on the northern outskirts of Copenhagen, Denmark. It is part of a complex of smaller woodlands which also comprises RUNGSTED HEGN to the north, ''' Deputatvang ''' and ØSTER SANDBJERG to the south. It is bisected by the east-west running Folehavevej and is to the east bounded by the Coast Line.

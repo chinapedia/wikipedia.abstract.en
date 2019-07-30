@@ -1,0 +1,1 @@
+EXPLOSIVE ANTIMONY is an allotrope of the chemical element antimony that is so sensitive to shocks that it explodes when scratched or subjected to sudden heating.[1][2][3][4][5][6] The allotrope was first described in 1855.[7][8]

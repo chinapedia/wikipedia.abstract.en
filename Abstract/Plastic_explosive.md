@@ -1,0 +1,1 @@
+Eod2.jpg plastic explosive (the off-white rectangular blocks) being used to destroy unexploded artillery components.]] PLASTIC EXPLOSIVE is a soft and hand-moldable solid form of explosive material. Within the field of explosives engineering, plastic explosives are also known as PUTTY EXPLOSIVES.[1]

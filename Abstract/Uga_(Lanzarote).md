@@ -1,0 +1,1 @@
+UGA}} Uga_lanzarote_map.png UGA (pronounced ew-gah) is a small wine-producing village in Yaiza municipality in the province of Las Palmas, southern Lanzarote, off the coast of Africa. its population is 998,[1] and nearby cities include Puerto del Carmen, Tías, and Playa Blanca. The closest airport is Lanzarote's official airport, also known as Arrecife airport.

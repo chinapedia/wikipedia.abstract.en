@@ -1,0 +1,1 @@
+Tennant_Creek_Telegraph_Station_2.jpg Adelaide-Darwin_Telegraph_Line.jpg The TENNANT CREEK TELEGRAPH STATION is an historical site about 16 kilometres north of Tennant Creek in the Northern Territory of Australia.

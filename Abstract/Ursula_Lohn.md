@@ -1,0 +1,1 @@
+'''Ursula Lohn ''' (born 7 November 1966 in Cologne) is a German footballer who played as a midfielder for the Germany women's national football team. She was part of the team at the 1995 FIFA Women's World Cup. At the club level, she played for TuS Ahrbach in Germany.[1]

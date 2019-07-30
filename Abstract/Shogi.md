@@ -1,0 +1,1 @@
+(, ), also known as JAPANESE CHESS or the GAME OF GENERALS, is a two-player strategy board game native to Japan. In the same family as chess, makruk, shatranj, janggi and xiangqi, it is the most popular chess variant in Japan. _Shōgi_ means general's (_shō_ ) board game (_gi_ ).

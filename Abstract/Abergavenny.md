@@ -1,0 +1,1 @@
+ABERGAVENNY (; , archaically _Abergafenni_ meaning "Mouth of the River Gavenny") is a market town and community in Monmouthshire, Wales. Abergavenny is promoted as a _Gateway to Wales_.[1][2] It is located on the A40 trunk road and the A465 Heads of the Valleys road and is approximately from the border with England.

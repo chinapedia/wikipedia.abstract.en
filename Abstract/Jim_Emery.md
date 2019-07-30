@@ -1,0 +1,1 @@
+JAMES W. EMERY (born January 24, 1934) is an American former politician. He served in the South Dakota House of Representatives in 1985 and in the Senate from 1986 to 1996.[1][2] He is a Cheyenne River Sioux.

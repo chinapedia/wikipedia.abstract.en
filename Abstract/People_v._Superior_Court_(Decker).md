@@ -1,0 +1,1 @@
+_THE PEOPLE OF THE STATE OF CALIFORNIA V. SUPERIOR COURT (DECKER)_, 41 Cal. 4th 1 (2007), is a criminal case decided by the Supreme Court of California that distinguished between solicitation and attempt.[1]

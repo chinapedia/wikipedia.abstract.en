@@ -1,0 +1,1 @@
+GADIS ARIVIA (born 8 September 1964) is an Indonesian feminist philosopher, lecturer, scholar, and activist. While teaching feminism and philosophy at the University of Indonesia, Arivia founded , Indonesia's first feminist journal, in 1996. She was arrested by the Suharto government for protesting rising milk prices in 1998.

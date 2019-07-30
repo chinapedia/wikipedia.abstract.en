@@ -1,0 +1,1 @@
+ARNOLD VAN OPSTAL is a Filipino-German professional basketball player who last played for the GlobalPort Batang Pier of the Philippine Basketball Association (PBA). He has also played as part of the Philippine national basketball team in international competitions. Van Opstal played for the De La Salle University in the collegiate-level.

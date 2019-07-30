@@ -1,0 +1,1 @@
+EDMUND BURKE (; 12 January [NS] 1729[1]9 July 1797) was an Anglo-Irish[2][3][4][5] politician born in Dublin as well as an author, orator and liberal conservative political theorist and philosopher[6] who served as a member of parliament (MP) between 1766 and 1794 in the House of Commons with the Whig Party after moving to London in 1750.

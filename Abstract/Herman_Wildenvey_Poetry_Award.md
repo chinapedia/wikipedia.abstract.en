@@ -1,0 +1,1 @@
+The HERMAN WILDENVEY POETRY AWARD () is a Norwegian award. It is conferred every year on July 20, the birthday of the poet Herman Wildenvey, in an event held at Hergisheim. The award consists of NOK 15,000 and a bronze relief plaque designed by the sculptor Ørnulf Bast.

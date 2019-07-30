@@ -1,0 +1,1 @@
+WISHING WELL FOUNDATION USA is a charity that was founded by husband and wife Elwin and Lisbeth LeBeau in 1995. It seeks to fulfill the wishes of terminally ill children in the United States. The organization has come under criticism in the past for its misleading telemarketer calls and extremely high overhead expenses.

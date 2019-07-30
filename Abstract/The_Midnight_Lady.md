@@ -1,0 +1,1 @@
+_THE MIDNIGHT LADY_ is a 1932 American Pre-Code crime film directed by Richard Thorpe and starring Sarah Padden, John Darrow and Claudia Dell.[1] It is also known by the alternative title of _DREAM MOTHER_.

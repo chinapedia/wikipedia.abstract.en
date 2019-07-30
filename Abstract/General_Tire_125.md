@@ -1,0 +1,1 @@
+The GENERAL TIRE 125 is a NASCAR K&N Pro Series East race held annually at Dover International Speedway, the final race of the season, It is held before the NASCAR Xfinity Series event, the Bar Harbor 200.[1]

@@ -1,0 +1,1 @@
+HAROLD ADRIAN RUSSELL "KIM" PHILBY (1 January 1912 – 11 May 1988)[1] was a high-ranking member of British intelligence who worked as a double agent before defecting to the Soviet Union in 1963. He served as both an NKVD and KGB operative.[2]

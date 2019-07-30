@@ -1,0 +1,1 @@
+KALPANA HARSHANI LIYANARACHCHI (born 4 June 1973) is a Sri Lankan former cricketer. She played sixteen Women's One Day International matches for Sri Lanka women's national cricket team.[1] She was part of Sri Lanka's squad for the 2000 Women's Cricket World Cup.

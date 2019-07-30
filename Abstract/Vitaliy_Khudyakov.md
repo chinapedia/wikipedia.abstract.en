@@ -1,0 +1,1 @@
+VITALIY KHUDYAKOV (born August 7, 1994) is a Kazakhstani marathon swimmer. Current Capri-Napoli Marathon record holder which he set in 2014.[1] He competed in the men's marathon 10 kilometre event at the 2016 Summer Olympics but was disqualified.[2][3]

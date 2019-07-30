@@ -1,0 +1,1 @@
+ALEXANDER EVSEEVICH BRAUNSTEIN (1902-1986) was a biochemist who spent his career working in what was then the Soviet Union. He is best known for his co-discovery, along with Maria Kritzman, of enzymatic transamination and its dependence on vitamin B6. Braunstein and American scientist Esmond Snell have been cited as the "fathers of vitamin B6".[1]

@@ -1,0 +1,1 @@
+Caprington_Castle_on_an_August_evening..jpg CAPRINGTON CASTLE is a 15th century keep, incorporated in a castellated mansion, about south west of Kilmarnock, East Ayrshire, Scotland, south of the River Irvine.[1]

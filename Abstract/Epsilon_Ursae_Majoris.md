@@ -1,0 +1,1 @@
+EPSILON URSAE MAJORIS (Latinised from Ε URSAE MAJORIS, abbreviated EPSILON UMA, Ε UMA), officially named ALIOTH ,[1][2] is, despite being designated "ε" (epsilon), the brightest star in the constellation of Ursa Major, and at magnitude 1.77 is the thirty-second brightest star in the sky.

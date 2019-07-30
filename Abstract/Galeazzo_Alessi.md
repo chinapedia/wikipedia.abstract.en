@@ -1,0 +1,1 @@
+Galeazzo_Alessi,_Progetto_originario_per_la_facciata_di_Palazzo_Marino_a_Milano.jpg GALEAZZO ALESSI (1512 – December 30, 1572) was an Italian architect from Perugia, known throughout Europe for his distinctive style based on his enthusiasm for ancient architecture. He studied drawing for civil and military architecture under the direction of Giovanni Battista Caporali.

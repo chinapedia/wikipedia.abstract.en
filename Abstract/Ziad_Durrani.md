@@ -1,0 +1,1 @@
+ZIAD AKRAM DURRANI (; 13 February 1982 – 21 June 2012) was a Pakistani politician who had been a member of the Provincial Assembly of North-West Frontier Province from February 2008 to June 2012 and member of the National Assembly of Pakistan from April 2007 to October 2007.

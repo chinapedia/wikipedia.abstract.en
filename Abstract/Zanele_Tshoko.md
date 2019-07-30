@@ -1,0 +1,1 @@
+ZANELE TSHOKO (born 15 February 1993) is a South African professional racing cyclist.[1] She rode in the women's road race at the 2016 UCI Road World Championships, but she did not finish the race.[2][3]

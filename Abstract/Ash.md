@@ -1,0 +1,1 @@
+Wood_ash.jpg ASH or ASHES are the solid remains of fires.[1] Specifically, it refers to all non-aqueous, non-gaseous residues that remain after something is burned. In analytical chemistry, in order to analyse the mineral and metal content of chemical samples, ash is the non-gaseous, non-liquid residue after a complete combustion.

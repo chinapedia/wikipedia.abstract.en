@@ -1,0 +1,1 @@
+CLOVIS MORALES (born 27 February 1949) is a Honduran long distance runner. He is most known for setting Honduran records in the 3000m, 10000m and the marathon. He competed in the Men's 5000 metres at the 1968 Summer Olympics.[1]

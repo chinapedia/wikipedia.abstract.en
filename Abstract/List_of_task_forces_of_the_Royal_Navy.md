@@ -1,0 +1,1 @@
+This is a LIST OF TASK FORCES OF THE ROYAL NAVY a task force can be described as a temporary grouping of naval units under one commander, formed for the purpose of carrying out a specific operation or mission[1] they vary in size but usually comprise two or more task groups.

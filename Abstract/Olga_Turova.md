@@ -1,0 +1,1 @@
+OLGA GENNADYEVNA TUROVA (Ольга Геннадьевна Турова, born 13 March 1983) is a Russian former female water polo player. She was a member of the Russia women's national water polo team, playing as a centre forward.

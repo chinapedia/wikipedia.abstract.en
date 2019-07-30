@@ -1,0 +1,1 @@
+EDWARD CHARLES BARNETT (3 December 1854 – 21 May 1922) was an Australian businessman and politician who was a member of the Legislative Assembly of Western Australia from 1905 to 1909, representing the seat of Albany.

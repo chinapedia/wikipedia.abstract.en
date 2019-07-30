@@ -1,0 +1,1 @@
+NEW MEXICO STATE ROAD 45 (NM 45) is a State Highway in the US state of New Mexico that runs parallel to the Rio Grande from the Pueblo of Isleta, through Albuquerque, and up to the border of Rio Rancho.

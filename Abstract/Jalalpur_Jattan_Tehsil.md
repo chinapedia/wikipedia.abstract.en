@@ -1,0 +1,1 @@
+JALALPUR JATTAN TEHSIL is a (proposed) subdivision (tehsil) of Gujrat District in the Punjab province of Pakistan. On 20 November 2016 Jalalpur Jattan was notified as Tehsil by Chief Minister of Punjab Mian Muhammad Shahbaz Shareef.[1]

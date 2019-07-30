@@ -1,0 +1,1 @@
+The Comorians inhabiting Grande Comore, Anjouan, and Mohéli (86% of the population) share African-Arab origins. Islam is the dominant religion, and Quranic schools for children reinforce its influence. Although Islamic culture is firmly established throughout, a small minority are Christian.

@@ -1,0 +1,1 @@
+The APPG FOR HUMAN RIGHTS, alternatively known as the PARLIAMENTARY HUMAN RIGHTS GROUP (PHRG) is a group within the Parliament of the United Kingdom consisting of members from all political parties. Its role is to promote and facilitate human rights work by politicians who usually spend most of their time dealing with matters that affect their local constituency.

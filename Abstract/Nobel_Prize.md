@@ -1,0 +1,1 @@
+The NOBEL PRIZE (, ; Swedish definite form, singular: _Nobelpriset_; ) is a set of annual international awards bestowed in several categories by Swedish and Norwegian institutions in recognition of academic, cultural, or scientific advances.

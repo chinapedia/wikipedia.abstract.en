@@ -1,0 +1,1 @@
+JORGE MUÑOZ CRISTI (1898–1967) was a Chilean geologist active at the University of Chile. He obtained a degree in mining engineering in 1929, and stated to lecture in 1943. He was director of the Instituto de Geología in 1952.

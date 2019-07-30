@@ -1,0 +1,1 @@
+The WOMEN'S POINTS RACE was held on 22 October 2016. 18 riders participated over a distance of 25 km (100 laps), with sprints every 10 laps awarding 5, 3, 2 or 1 point to the first four (double in the final sprint); 20 points are also awarded/withdrawn for each lap gained/lost respectively.[1]

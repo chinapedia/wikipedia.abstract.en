@@ -1,0 +1,1 @@
+NIAL (from "Nested Interactive Array Language") is a high-level array programming language developed from about 1981 by Mike Jenkins of Queen's University, Kingston, Ontario, Canada. Jenkins co-created the Jenkins–Traub algorithm.

@@ -1,0 +1,1 @@
+CLAYBROOK HOUSE is a historic home located near Kearney, Clay County, Missouri. It was built about 1858, and is a two-story, "L"-shaped, Federal style frame dwelling. It features a Greek Revival style entrance surrounded by 14 window lights.[1]

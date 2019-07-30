@@ -1,0 +1,1 @@
+NADJESCHDA OVERGAARD born NADJESCHDA LYNGE (1905 in Tara, Siberia – 2003 in Elk Horn, Iowa) was a Russian-born Danish-American needleworker who received a National Heritage Fellowship from the National Endowment of the Arts for her lifetime of work in 1998.[1]

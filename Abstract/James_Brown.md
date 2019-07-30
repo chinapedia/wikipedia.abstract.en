@@ -1,0 +1,1 @@
+JAMES JOSEPH BROWN (May 3, 1933 – December 25, 2006) was an American singer, songwriter, dancer, musician, record producer and bandleader. A progenitor of funk music and a major figure of 20th-century music and dance, he is often referred to as the "Godfather of Soul".[1] In a career that lasted 50 years, he influenced the development of several music genres.[2]

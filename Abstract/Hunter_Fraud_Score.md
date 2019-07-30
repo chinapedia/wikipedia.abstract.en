@@ -1,0 +1,1 @@
+HUNTER FRAUD SCORE is a rating score launched locally in India by Credit rating agency, Experian, to detect fraud in credit applications to banks and insurance companies and help them lower their losses.[1]

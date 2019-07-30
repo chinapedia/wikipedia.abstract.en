@@ -1,0 +1,1 @@
+ISSA ABDULLAH BIN ABDULRAHMAN AL-GHAITH is a judge, Islamic scholar, author, and activist. He is a member of the Consultative Assembly of Saudi Arabia and King Abdulaziz Center for National Dialogue.[1] He received a doctor's degree in Sharia and Law College in Al-Azhar University in Cairo, Egypt.[2]

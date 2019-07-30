@@ -1,0 +1,1 @@
+The GRAND MATSU TEMPLE,[1] also known as the DATIANHOU or ,[2] is a temple to the Chinese sea goddess Mazu, the deified form of the medieval Fujianese shamaness Lin Moniang, located in the West Central District of Tainan on Taiwan.

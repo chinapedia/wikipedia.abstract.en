@@ -1,0 +1,1 @@
+YEHUDA ZADOK (also "Tzadok"; יהודה צדוק; born December 29, 1958) is an Israeli former Olympic runner.[1][2][3] He set Israeli records in the 3000 metre race in 1980, and in the 3000 metre steeplechase in 1984.

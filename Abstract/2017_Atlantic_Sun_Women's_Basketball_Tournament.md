@@ -1,0 +1,1 @@
+The 2017 ATLANTIC SUN WOMEN'S BASKETBALL TOURNAMENT was the 31st edition of the Atlantic Sun Conference Championship. It took place from March 3, 8 and 12, 2017 in several arenas. Florida Gulf Coast won the tournament and received an automatic trip to the NCAA Women's Tournament.

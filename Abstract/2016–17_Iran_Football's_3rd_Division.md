@@ -1,0 +1,1 @@
+The article contains the information of 3RD DIVISION'S 2016/17 FOOTBALL SEASON. This is the 4th rated football league in Iran after the Persian Gulf Cup, Azadegan League, and 2nd Division. The league started from October 2016.

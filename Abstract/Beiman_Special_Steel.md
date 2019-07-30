@@ -1,0 +1,1 @@
+DONGBEI SPECIAL STEEL GROUP BEIMAN SPECIAL STEEL CO., LTD. is a state-owned steel maker based in Qiqihar, Heilongjiang Province. _Bei-man_ was the acronym of North Manchuria. The company is a subsidiary of Dongbei Special Steel (literally _East-Northern Special Steel_).

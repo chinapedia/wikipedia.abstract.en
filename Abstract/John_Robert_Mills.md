@@ -1,0 +1,1 @@
+JOHN ROBERT MILLS (12 November 1916 – 6 May 1998[1]) was a British physicist and scientific expert who played an important role in the development of Radar and the defence of Britain in After the war he continued his career working for various British government research establishments on a variety of projects until his retirement in 1977.[2]

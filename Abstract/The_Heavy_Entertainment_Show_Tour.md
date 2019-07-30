@@ -1,0 +1,1 @@
+THE HEAVY ENTERTAINMENT SHOW TOUR[1] was the twelfth concert tour by British recording artist Robbie Williams, to support his album _The Heavy Entertainment Show_. The tour began in England and travelled throughout Europe in Summer 2017, extending in 2018 to Oceania and later that year to South America.

@@ -1,0 +1,1 @@
+WHITE CLOUD PRESBYTERIAN CHURCH AND CEMETERY is a historic Presbyterian church and cemetery located at Fulton, Callaway County, Missouri. It was built in 1888, and is a one-story, frame gable front church on a limestone foundation. There are approximately 250 graves in the cemetery dating from about 1840 to the present.[1]

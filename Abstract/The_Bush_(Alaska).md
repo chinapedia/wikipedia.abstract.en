@@ -1,0 +1,1 @@
+In Alaska, THE BUSH typically refers to any region of the state not connected to the North American road network[1] or ready access to the state's ferry system. A large proportion of Alaska's native populations live in the bush, often substantially depending on subsistence hunting and fishing.[2][3]

@@ -1,0 +1,1 @@
+THE BIRMINGHAM SMALL ARMS COMPANY LIMITED (BSA) was a major British industrial combine, a group of businesses manufacturing military and sporting firearms; bicycles; motorcycles; cars; buses and bodies; steel; iron castings; hand, power, and machine tools; coal cleaning and handling plants; sintered metals; and hard chrome process.

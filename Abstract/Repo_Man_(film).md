@@ -1,0 +1,1 @@
+_REPO MAN_ is a 1984 American science fiction black comedy film written and directed by Alex Cox. It stars Harry Dean Stanton and Emilio Estevez, and was produced by Jonathan Wacks and Peter McCarthy with executive producer Michael Nesmith.

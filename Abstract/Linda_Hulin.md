@@ -1,0 +1,1 @@
+LINDA HULIN is a lecturer in Archaeology in Magdalen College, Oxford, a research officer at the Oxford Centre for Maritime Archaeology and a Supernumerary Fellow of Harris Manchester College, Oxford. Her focus of research is in the eastern Mediterranean in the second and first millennia BC, which includes the archaeology of Cyprus, the Levant, Egypt and Libya.[1]

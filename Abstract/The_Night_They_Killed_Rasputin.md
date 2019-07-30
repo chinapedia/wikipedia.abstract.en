@@ -1,0 +1,1 @@
+_THE NIGHT THEY KILLED RASPUTIN_ (, ), also known as _NIGHTS OF RASPUTIN_, is a 1960 Italian-French historical adventure film co-written and directed by Pierre Chenal, and starring Edmund Purdom and Gianna Maria Canale.[1]

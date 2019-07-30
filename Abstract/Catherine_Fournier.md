@@ -1,0 +1,1 @@
+CATHERINE FOURNIER (born 7 April 1992) is a Canadian politician, who was elected to the National Assembly of Quebec in a by-election on December 5, 2016.[1] She represents the electoral district of Marie-Victorin. Fournier is the youngest woman to be elected to the Quebec National Assembly.[2]

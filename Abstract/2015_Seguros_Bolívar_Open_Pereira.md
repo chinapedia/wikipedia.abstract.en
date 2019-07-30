@@ -1,0 +1,1 @@
+The 2015 SEGUROS BOLÍVAR OPEN PEREIRA was a professional tennis tournament played on clay courts. It was the seventh edition of the tournament which was part of the 2015 ATP Challenger Tour. It took place in Pereira, Colombia between 8 September and 4 October.

@@ -1,0 +1,1 @@
+_DASYMALLA TERMINALIS_, commonly known as NATIVE FOXGLOVE, is a flowering plant in the mint family Lamiaceae and is endemic to the south-west of Western Australia. It is a shrub with its branches, leaves and some of its flower parts densely covered with white, woolly hairs. The leaves are thick and soft and the flowers are tube-shaped, pale to deep pinkish-purple or claret red.

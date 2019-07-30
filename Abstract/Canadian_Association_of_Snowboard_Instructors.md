@@ -1,0 +1,1 @@
+The CANADIAN ASSOCIATION OF SNOWBOARD INSTRUCTORS (CASI) is Canada's national professional snowboard teaching organisation. The organisation's headquarters are in Cambridge, Ontario, Canada and it is organised into six regions across Canada.

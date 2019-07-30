@@ -1,0 +1,1 @@
+ALIDA GARCIA is an American social activist whose major work is centered on immigration issues.[1] She was arrested during her first quarter of college, after a protest against janitor related layoffs at the Stanford Hospital.[2][3][4][5]

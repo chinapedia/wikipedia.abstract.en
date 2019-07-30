@@ -1,0 +1,1 @@
+The JIM BAKER CABIN was built in 1873 by frontiersman Jim Baker as a fortified house on the Little Snake River at Savery Creek near present-day Savery, Wyoming. The two-story log building measures by with two rooms on the lower level and a single smaller room on the upper level. The outer walls are made of logs to thick.[1]

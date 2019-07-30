@@ -1,0 +1,1 @@
+The is a _dogū_, a humanoid clay female figurine from the Middle Jōmon period (3,000–2,000 BC),[1] discovered in 1986 in Chino, Nagano Prefecture, Japan. It was designated a National Treasure in 1995, the first Jōmon-period artifact to be so designated.[2][3]

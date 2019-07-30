@@ -1,0 +1,1 @@
+SHORKOT–LALAMUSA BRANCH LINE () is one of several branch lines in Pakistan, operated and maintained by Pakistan Railways. The line begins from Shorkot Cantonment Junction station and ends at Lalamusa Junction station. The total length of this railway line is . There are 42 railway stations from Shorkot Junction to Lalamusa Junction.[1]

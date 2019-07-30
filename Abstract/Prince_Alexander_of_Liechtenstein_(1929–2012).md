@@ -1,0 +1,1 @@
+ALEXANDER OF LIECHTENSTEIN (full name: _Alexander Friedrich Manfred Maria von und zu Liechtenstein_; 14 May 1929 – 16 March 2012)[1] was a Prince of the House of Liechtenstein and a businessman in the forestry and timber industries. His son Prince Stefan of Liechtenstein was Liechtenstein's ambassador to Germany since 2007.

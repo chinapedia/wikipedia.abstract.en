@@ -1,0 +1,1 @@
+Bundesarchiv_Bild_183-2008-0208-501,_Ludwig_Dettmann.jpg'' uniform (1935)]] LUDWIG JULIUS CHRISTIAN DETTMANN (25 July 1865, Adelby, near Flensburg - 19 November 1944, Berlin) was a German Impressionist painter.

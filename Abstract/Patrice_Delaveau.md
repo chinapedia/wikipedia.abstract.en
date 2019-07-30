@@ -1,0 +1,1 @@
+PATRICE DELAVEAU (born 27 January 1965 in Rambouillet, France) is a French Olympic show jumping rider.[1][2] He competed at two Summer Olympics (in 1996 and 2000). He finished 4th in team jumping on both occasions. Meanwhile, his current best individual Olympic placement is 35th position from 2000.

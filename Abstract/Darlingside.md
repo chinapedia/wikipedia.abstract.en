@@ -1,0 +1,1 @@
+DARLINGSIDE is a four-person indie folk band from Boston, MA. The band consists of Don Mitchell, Auyon Mukharji, Harris Paseltiner, and David Senft. Their style has been described as “exquisitely-arranged, literary-minded, baroque folk-pop” by NPR.[1] Their latest full-length album, Extralife, was released in February 2018 by Thirty Tigers.

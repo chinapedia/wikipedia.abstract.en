@@ -1,0 +1,1 @@
+_' Hymenoptera_' is a large order of insects, comprising the sawflies, wasps, bees, and ants. Over 150,000 living species of Hymenoptera have been described,[1][2] in addition to over 2,000 extinct ones.[3]

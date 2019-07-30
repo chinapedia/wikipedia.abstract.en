@@ -1,0 +1,1 @@
+DAVID MCALISTER BARRY (born July 3, 1947) is an American author and columnist who wrote a nationally syndicated humor column for the _Miami Herald_ from 1983 to 2005. He has also written numerous books of humor and parody, as well as comic novels. Barry's honors include the Pulitzer Prize for Commentary (1988) and the Walter Cronkite Award for Excellence in Journalism (2005).

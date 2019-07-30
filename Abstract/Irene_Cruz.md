@@ -1,0 +1,1 @@
+IRENE CRUZ (born 1987, Madrid) is a Spanish photographer and video artist. Her works have been featured both in festivals and exhibitions all over the world. She resides in Berlin (Germany), where she creates her art using natural elements and blue lights. Most of her photographs are a reference to herself, feature a cinematographic atmosphere, and combine fiction and reality.

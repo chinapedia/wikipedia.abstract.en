@@ -1,0 +1,1 @@
+GRACE MCCATTY (born 28 September 1989) is an English footballer who plays as a defender for Sunderland in FA Women's National League North. Prior to her move to the North-East with Durham, she featured eight times in the UEFA Women's Champions League for Bristol City.[1][2]

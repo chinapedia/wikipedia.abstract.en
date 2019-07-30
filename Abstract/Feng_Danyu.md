@@ -1,0 +1,1 @@
+FENG DANYU (; born 1962) is a rear admiral (_shaojiang_) in the Chinese People's Liberation Army Navy (PLAN). He has been deputy head of the Department of Equipment Development of the Central Military Commission since July 2016.[1]

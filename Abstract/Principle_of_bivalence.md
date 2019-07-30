@@ -1,0 +1,1 @@
+In logic, the semantic PRINCIPLE (OR LAW) OF BIVALENCE states that every declarative sentence expressing a proposition (of a theory under inspection) has exactly one truth value, either true or false.[1][2] A logic satisfying this principle is called a TWO-VALUED LOGIC[3] or BIVALENT LOGIC.[4][5]

@@ -1,0 +1,1 @@
+_LET ME MAKE YOU A MARTYR_ is a 2016 American action crime drama film written, directed and co-produced by Corey Asraf and John Swab, and starring Marilyn Manson, Mark Boone Junior, Niko Nicotera, Michael Potts, Sam Quartin, Slaine & Danny Boy.[1][2] [3] [4]

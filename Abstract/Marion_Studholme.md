@@ -1,0 +1,1 @@
+MARION STUDHOLME (27 June 1927 – 6 January 2016) was an English soprano, best known for her performances with Sadler's Wells Opera Company, and as a regular performer on the popular BBC radio programme _Friday Night is Music Night_.[1][2]

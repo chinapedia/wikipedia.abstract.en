@@ -1,0 +1,1 @@
+Sun_god_Ra.svg, ancient Egyptian god of the sun and king of the gods]] Solvognen_-_Do_2010_1276.jpg]] Winged_sun_sharpe.png was an ancient (3rd millennium BC) symbol of Horus, later identified with Ra]] Stèle_Rocher_des_Doms.jpg and the Early Bronze Age, discovered during an archaeological excavation on the Rocher des Doms, Avignon.]]

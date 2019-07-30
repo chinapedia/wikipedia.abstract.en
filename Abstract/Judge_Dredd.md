@@ -1,0 +1,1 @@
+JUDGE JOSEPH DREDD is a fictional character created by writer John Wagner and artist Carlos Ezquerra. He first appeared in the second issue of _2000 AD_ (1977), which is a British weekly anthology comic. He is the magazine's longest-running character. He also appears in a number of movie and video game adaptations.

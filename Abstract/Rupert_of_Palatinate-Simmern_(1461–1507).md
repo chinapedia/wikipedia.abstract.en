@@ -1,0 +1,1 @@
+Ruprecht_Regensburg_Schlußstein_Worms.JPG (now in the Stadtmuseum Worms), commissioned by Rupert in 1494 and bearing his arms.]] RUPERT OF PALATINATE-SIMMERN (16 October 1461 – 19 April 1507) was a German nobleman and clergyman of the house of Palatinate-Simmern. From 1492 until his death he was the forty-fifth bishop of Regensburg as RUPERT II.

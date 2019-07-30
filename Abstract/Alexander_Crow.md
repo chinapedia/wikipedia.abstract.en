@@ -1,0 +1,1 @@
+ALEXANDER CROW (died 1586/7) was born in Yorkshire[1] around 1550.[2] He took up an early trade as a shoemaker,[3] but in his twenties he travelled to Rheims, France, and trained as a priest at Duoay College, being ordained in 1584.[4]

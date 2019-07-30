@@ -1,0 +1,1 @@
+VLADIMIR LEONIDOVICH KLEIMAN (; November 11, 1930 - April 7, 2014[1]) was a Soviet and Russian scientist and designer in the field of rocketry, Hero of Socialist Labor (1975), winner of the Lenin Prize (1964), USSR State Prize (1980), the USSR Council of Ministers Prize (1986).[2]

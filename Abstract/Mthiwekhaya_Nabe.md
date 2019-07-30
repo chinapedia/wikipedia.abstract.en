@@ -1,0 +1,1 @@
+MTHIWEKHAYA NABE (born 31 October 1995) is a South African cricketer.[1][2] He made his first-class debut for Western Province in the 2015–16 Sunfoil 3-Day Cup on 18 March 2016.[3] He made his Twenty20 debut for Western Province in the 2017 Africa T20 Cup on 26 August 2017.[4]

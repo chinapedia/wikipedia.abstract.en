@@ -1,0 +1,1 @@
+Caribbean_general_map.png, Jamaica and the Leeward Islands.]] IRISH INDENTURED SERVANTS were Irish people who became indentured servants in territories under the control of the British Empire, such as the Caribbean (particularly Barbados, Jamaica and the Leeward Islands), British North America and later Australia.

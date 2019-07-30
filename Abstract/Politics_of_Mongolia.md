@@ -1,0 +1,1 @@
+POLITICS OF MONGOLIA takes place in a framework of a semi-presidential representative democratic republic, and of a multi-party system.[1][2][3] Executive power is exercised by the President and the Government. Legislative power is vested in both the government and parliament. The Judiciary is independent of the executive and the legislature.

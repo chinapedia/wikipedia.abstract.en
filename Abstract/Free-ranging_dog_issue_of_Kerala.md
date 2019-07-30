@@ -1,0 +1,1 @@
+Free-ranging dogs have become a public health issue in the state of Kerala in India. Two persons died from dog attacks in 2016, and many persons were injured. Efforts to control the population have created conflicts between Indian advocates of public safety and opponents of animal cruelty, and caused international backlash including calls for a boycott of tourism to Kerala.

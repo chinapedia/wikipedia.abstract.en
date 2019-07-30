@@ -1,0 +1,1 @@
+_THUMBS_ is a mixtape by American hip hop artist Busdriver. It was released digitally on Busdriver's independent label, Temporary Whatever, on November 19, 2015.[1] Guest appearances include Del the Funky Homosapien, milo and Anderson .Paak, among others.[2] The production is from a wide array of producers, such as Kaveh Rastegar, Mono/Poly and Busdriver himself.[3]

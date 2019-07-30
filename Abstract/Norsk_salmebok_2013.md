@@ -1,0 +1,1 @@
+Norsk_salmebok_2013.jpeg. The red volumes are the standard edition and the blue ones are the large-print edition.]] _NORSK SALMEBOK 2013: FOR KIRKE OG HJEM_ (Norwegian Hymnal 2013: For Church and Home; also known as _N13_) is the hymnal of the Church of Norway. It is published by Eide Forlag and was adopted for use on the first Sunday of Advent in 2013.[1]

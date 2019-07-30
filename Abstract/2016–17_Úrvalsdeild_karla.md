@@ -1,0 +1,1 @@
+The 2016–17 ÚRVALSDEILD KARLA was the 66th season of the Úrvalsdeild karla, the top tier men's basketball league in Iceland. The season started on October 6, 2016 and ended on April 30, 2017. KR won its fourth title in a row by defeating Grindavík 3–2 in the Finals.

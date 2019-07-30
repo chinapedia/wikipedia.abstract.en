@@ -1,0 +1,1 @@
+The 2016 COLUMBUS CHALLENGER 2 was a professional tennis tournament played on indoor hard courts. It was the third edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Columbus, United States between 21 and 27 November 2016.

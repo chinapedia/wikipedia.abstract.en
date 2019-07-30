@@ -1,0 +1,1 @@
+ERIN'S OWN GAELIC ATHLETIC CLUB, CARGIN is a sports club based in Toome, County Antrim, Northern Ireland. It competes in the Antrim leagues and championships of the Gaelic Athletic Association, in Gaelic football, camogie and hurling.[1][2]

@@ -1,0 +1,1 @@
+The following is A LIST OF UNPRODUCED STEVEN SPIELBERG PROJECTS in roughly chronological order. During his long career, American film director Steven Spielberg has worked on a number of projects which never progressed beyond the pre-production stage under his direction. Some of these projects fell in development hell, were officially canceled, or were in development limbo.

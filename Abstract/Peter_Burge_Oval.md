@@ -1,0 +1,1 @@
+The PETER BURGE OVAL is a cricket ground in Brisbane, Australia. It was named after the Australian cricketer Peter Burge.[1] The first recorded match on the ground was in the 1999/00 season.[2] It was used as a venue to host One Day International matches between Australia and Pakistan in the 2014–16 ICC Women's Championship.[3]

@@ -1,0 +1,1 @@
+ELZADIE ROBINSON (possibly April 24, 1897 – January 17, 1975)[1] was an American classic female blues singer and songwriter. She recorded 34 songs between 1926 and 1929.[2] Unusually for the time, she composed or co-composed most of her work. Details of her life outside the recording studio are sketchy.

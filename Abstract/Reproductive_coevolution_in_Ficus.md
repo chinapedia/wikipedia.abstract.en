@@ -1,0 +1,1 @@
+The genus _Ficus_ is composed of 800 species of vines, shrubs, and trees, defined by their syconiums, the fruit-like vessels that either hold female flowers or pollen on the inside. In addition to being cultivated by humans for thousands of years, _Ficus_ is also known for their reproductive mutualism with the fig wasp.[1]

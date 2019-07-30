@@ -1,0 +1,1 @@
+'''Gaby Dlugi-Winterberg ''' (4 December 1948 – 19 September 2014) is a German women's former footballer. She was a member of the Germany women's national football team from 1982–1983, playing 8 matches.[1] On club level she played for SSG 09 Bergisch Gladbach.

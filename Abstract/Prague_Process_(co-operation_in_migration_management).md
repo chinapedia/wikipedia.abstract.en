@@ -1,0 +1,1 @@
+THE PRAGUE PROCESS is a regional policy process and a targeted migration dialogue promoting migration partnerships among its 50 participating states of the European Union, Schengen Area, Eastern Partnership, the Western Balkans, Central Asia, Russia and Turkey. [1][2][3][4][5]

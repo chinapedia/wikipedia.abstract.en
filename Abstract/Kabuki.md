@@ -1,0 +1,1 @@
+Dojoji_by_Okada_Saburosuke_(Kabuki-za).jpg in _The Maiden at Dōjōji_. 1908 portrait by Okada Saburosuke, from the Kabuki-za collection in Tokyo, Japan.]] is a classical Japanese dance-drama. Kabuki theatre is known for the stylization of its drama and for the elaborate make-up worn by some of its performers.

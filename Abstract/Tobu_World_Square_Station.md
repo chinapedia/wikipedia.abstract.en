@@ -1,0 +1,1 @@
+is a railway station on the Tobu Kinugawa Line in Nikkō, Tochigi, Japan, operated by the private railway operator Tobu Railway. It opened on 22 July 2017, and primarily serves the adjacent Tobu World Square theme park.

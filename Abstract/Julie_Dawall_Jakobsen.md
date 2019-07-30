@@ -1,0 +1,1 @@
+JULIE DAWALL JAKOBSEN (born 25 March 1998) is a Danish badminton player.[1][2] In 2015, she won gold medal in girls' doubles event and silver medal in girls' singles event at the European Junior Badminton Championships.[3]

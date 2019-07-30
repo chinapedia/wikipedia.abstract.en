@@ -1,0 +1,1 @@
+Bundesarchiv_Bild_183-1990-0722-401,_Berlin,_Aufführung_der_Rockoper_"The_Wall".jpg's _The Wall_ (1979) is one of the best-known concept albums of all time.[1] Pictured is Roger Waters leading a 1990 performance of the whole album.]]

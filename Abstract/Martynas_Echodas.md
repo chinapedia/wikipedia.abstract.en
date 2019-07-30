@@ -1,0 +1,1 @@
+MARTYNAS ECHODAS (born 7 July 1997 in Kaunas) is a Lithuanian professional basketball player for Rytas Vilnius of the Lithuanian Basketball League.[1][2] Echodas is of Jewish descent (through his maternal grandfather).[3]

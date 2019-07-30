@@ -1,0 +1,1 @@
+SAN DIEGO, formerly _San Sebastiano_, is a Neoclassic-style, Roman Catholic church located on Largo Savoia and Viale Regina Margherita in the town of Canicattì, province of Agrigento, region of Sicily, Italy.

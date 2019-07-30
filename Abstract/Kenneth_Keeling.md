@@ -1,0 +1,1 @@
+KENNETH KEELING (30 September 1911 – 27 April 1987) was an English television actor. He appeared in many British television series and films, which include _The Avengers_, _No Hiding Place_, _Emergency – Ward 10_, _Z-Cars_, _Crossroads_, _Dixon of Dock Green_, _Crucible of Terror_, _A Private Enterprise_, _Minder_ and others.

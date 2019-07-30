@@ -1,0 +1,1 @@
+_MONSTER HUNT 2_ is a 2018 Chinese-Hong Kong adventure film directed by Raman Hui, starring Tony Leung, Bai Baihe, Jing Boran, Li Yuchun and Tony Yang. A sequel to 2015's _Monster Hunt_, the film was released in China and Hong Kong on February 16, 2018.[1] It has grossed US$361 million.

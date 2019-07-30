@@ -1,0 +1,1 @@
+ODYSSEUS (; , '' Ὀdysseús'' ), also known by the Latin variant ULYSSES (, ; ), is a legendary Greek king of Ithaca and the hero of Homer's epic poem the _Odyssey_. Odysseus also plays a key role in Homer's _Iliad_ and other works in that same epic cycle.

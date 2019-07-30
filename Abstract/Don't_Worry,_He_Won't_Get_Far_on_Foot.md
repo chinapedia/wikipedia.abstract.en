@@ -1,0 +1,1 @@
+_DON'T WORRY, HE WON'T GET FAR ON FOOT_ is a 2018 American comedy-drama film based upon the memoir of the same name by John Callahan.[1] Gus Van Sant wrote the screen adaptation and directed the film. The cast includes Joaquin Phoenix, Jonah Hill, Rooney Mara, and Jack Black, and follows a recently paralyzed alcoholic who finds a passion for drawing off-color newspaper cartoons.

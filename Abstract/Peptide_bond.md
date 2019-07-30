@@ -1,0 +1,1 @@
+Peptide_bond.png A PEPTIDE BOND is an amide type of covalent chemical bond linking two consecutive alpha-amino acids from C1 (carbon number one) of one alpha-amino "acid" and N2 (nitrogen number two) of another along a peptide or protein chain.[1]

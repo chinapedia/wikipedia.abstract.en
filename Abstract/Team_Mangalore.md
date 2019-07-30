@@ -1,0 +1,1 @@
+TEAM MANGALORE is a group of kite enthusiasts from the Indian city of Mangalore in the state of Karnataka. The team is known for making kites of unique designs, which depict the folklore and culture of India.[1]

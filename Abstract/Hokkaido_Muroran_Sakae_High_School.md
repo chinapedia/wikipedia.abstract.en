@@ -1,0 +1,1 @@
+MuroranSakaeHighSchool.JPG HOKKAIDO MURORAN SAKAE HIGH SCHOOL (北海道室蘭栄高等学校, _Hokkaidō Muroran Sakae Kōtō Gakkō_) is a high school in Muroran, Hokkaidō, Japan, founded in 1917. Hokkaido Muroran Sakae High School is one of high schools administrated by Hokkaido.

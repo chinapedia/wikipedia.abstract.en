@@ -1,0 +1,1 @@
+The 2017 DWARS DOOR VLAANDEREN is a road cycling one-day race that took place on 22 March. It was the 72nd edition of the Dwars door Vlaanderen, and the first since it was promoted to World Tour level – as the tenth event of the 2017 UCI World Tour.[1][2]

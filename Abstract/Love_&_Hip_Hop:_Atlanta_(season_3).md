@@ -1,0 +1,1 @@
+The third season of the reality television series _Love & Hip Hop: Atlanta_ aired on VH1 from May 5, 2014 until September 8, 2014. The show was primarily filmed in Atlanta, Georgia. It was executively produced by Mona Scott-Young for Monami Entertainment, Toby Barraud and Stefan Springman for Eastern TV, and Susan Levison, Nina L. Diaz, Brad Abramson and Danielle Gelfand for VH1.

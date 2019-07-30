@@ -1,0 +1,1 @@
+This is a LIST OF MUISCA AND PRE-MUISCA archaeological sites; sites on the Altiplano Cundiboyacense, where archaeological evidence has been discovered of the Muisca and their ancestors of the Herrera, preceramic and prehistorical periods.

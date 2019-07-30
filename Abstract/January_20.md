@@ -1,0 +1,1 @@
+In ancient astrology, it is the cusp day between Capricorn and Aquarius.

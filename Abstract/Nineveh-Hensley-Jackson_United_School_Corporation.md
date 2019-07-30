@@ -1,0 +1,1 @@
+Ichs.jpg]] NINEVEH-HENSLEY-JACKSON UNITED SCHOOL CORPORATION, also known as INDIAN CREEK SCHOOLS, is a school district headquartered in Trafalgar, Indiana. The district serves Trafalgar, Morgantown, Nineveh and Princes Lakes.[1]

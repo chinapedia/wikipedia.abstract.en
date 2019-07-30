@@ -1,0 +1,1 @@
+MARIA WEIGERT BRENDEL (1902–1994) was a German expert on classical art. She studied at the University of Heidelberg, before being pulled out of the University by her father, and being forced to flee the country to avoid Nazi persecution. Later in her life, she posthumously published a number of Otto Brendel's works.

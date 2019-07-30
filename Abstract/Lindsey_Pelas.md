@@ -1,0 +1,1 @@
+LINDSEY NICOLE PELAS (born 19 May, 1991) is an American actress, social media influencer, entrepreneur, and model.[1][2] She currently models for multiple brands, and has also been featured in publications including _Maxim_[3], _GQ_[4], _Glamour_[5], and has also modeled for _Playboy_[6] and was the _Playboy Cyber Girl of the Month_ for May 2014.[7]

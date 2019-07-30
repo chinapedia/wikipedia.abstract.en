@@ -1,0 +1,1 @@
+The DEMOCRATIC PARTY () was a social democrat political party in Qajari Persia, during the constitutional period. It was one of two major parliamentary parties at the time, along with the Moderate Socialists Party.[1] It was largely composed of middle-class intellectuals and stood for the separation of church and state.[2]

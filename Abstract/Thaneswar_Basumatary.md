@@ -1,0 +1,1 @@
+THANESWAR BASUMATARY is a Bodoland People's Front politician from Assam. He has been elected in Assam Legislative Assembly election in 2016 from Chapaguri constituency. Previously he has been independent MLA from the same constituency in 2006.[1][2][3][4]

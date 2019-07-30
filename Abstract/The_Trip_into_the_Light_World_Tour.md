@@ -1,0 +1,1 @@
+THE TRIP INTO THE LIGHT WORLD TOUR was a worldwide concert tour by the English singer-songwriter, drummer Phil Collins, which took place between February and December 1997, in support of his 1996 album, _Dance Into the Light_.[1][2]

@@ -1,0 +1,1 @@
+The CAPE-OPEN INTERFACE STANDARD consists of a series of specifications to expand the range of application of process simulation technologies. The CAPE-OPEN specifications comprise a set of software interfaces that allow plug and play inter-operability between a given Process Modelling Environment (PME) and a third-party Process Modelling Component (PMC).

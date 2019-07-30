@@ -1,0 +1,1 @@
+TURKEY'S MEDIA PURGE AFTER THE FAILED _COUP D'ÉTAT_ ON JULY 15, 2016 resulted in the shutdown of at least 131 media outlets[1] and the arrest of 117 journalists[2] – at least 35 of whom have been indicted for "membership in a terror group".[3]

@@ -1,0 +1,1 @@
+The 1973 GREENLANDIC FOOTBALL CHAMPIONSHIP was the 3rd edition of the Greenlandic Football Championship. With the final round being held in Nuuk. Which was won by Grønlands Seminarius Sportklub, the third national title in its history.[1]

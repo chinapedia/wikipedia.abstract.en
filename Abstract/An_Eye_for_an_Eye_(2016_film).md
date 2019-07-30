@@ -1,0 +1,1 @@
+_AN EYE FOR AN EYE_ is a 2016 documentary film, directed by filmmaker Ilan Ziv. The film features are Mark Anthony Stroman, Rais Bhuiyan and Ilan Ziv. The film is a chronicle of Stroman's path from revenge killer to being forgiven by a victim as he waits on Texas's Death Row. The film opened on October 28, 2016 in the United States and Canada.

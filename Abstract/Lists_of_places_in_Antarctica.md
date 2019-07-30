@@ -1,0 +1,1 @@
+ANTARCTICA is the southernmost continent on Earth. While Antarctica has never had a permanent human population, it has been explored by various groups, and many locations on and around the continent have been described. This page lists notable places in and immediately surrounding the Antarctic continent, including geographic features, bodies of water, and human settlements.

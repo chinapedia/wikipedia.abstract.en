@@ -1,0 +1,1 @@
+Kokoda_trail_NE_at_top.jpg CHAFORCE was an ad hoc Australian infantry force formed during the Kokoda Track Campaign of the Pacific War, World War II. It was nominally of battalion size but consisting of only three rifle companies and a headquarters element, it was therefore proportionally smaller, with an initial strength of 407 all ranks.

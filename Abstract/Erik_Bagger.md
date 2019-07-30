@@ -1,0 +1,1 @@
+ERIK BAGGER (born ERIK KRISTIAN BAGGER; 21 April 1949) is a Danish goldsmith, industrial designer and businessman. Erik Bagger is particularly known for its glass series Grand Cru, Opera and Rosendahl. Erik Bagger brand is today well known in Scandinavia.[1]

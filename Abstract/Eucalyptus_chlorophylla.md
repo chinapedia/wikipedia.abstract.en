@@ -1,0 +1,1 @@
+_EUCALYPTUS CHLOROPHYLLA_, commonly known as GREEN-LEAF BOX, NORTHERN GLOSSY-LEAVED BOX or GLOSSY-LEAVED BOX,[1] is a species of eucalypt that is endemic to northern Australia. It is a tree or mallee, with hard, rough bark, lance-shaped or curved adult leaves, flower buds in groups of seven, creamy white flowers and usually conical fruit.

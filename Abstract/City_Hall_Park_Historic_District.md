@@ -1,0 +1,1 @@
+The CITY HALL PARK HISTORIC DISTRICT encompasses one of the central economic, civic, and public spaces of the city of Burlington, Vermont. Centered on City Hall Park, the area's architecture encapsulates the city's development from a frontier town to an urban commercial center. The district was listed on the National Register of Historic Places in 1983.[1]

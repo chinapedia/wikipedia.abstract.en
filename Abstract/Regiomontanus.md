@@ -1,0 +1,1 @@
+JOHANNES MÜLLER VON KÖNIGSBERG (6 June 1436 – 6 July 1476),[1] better known as REGIOMONTANUS (), was a mathematician and astronomer of the German Renaissance, active in Vienna, Buda and Nuremberg. His contributions were instrumental in the development of Copernican heliocentrism in the decades following his death.

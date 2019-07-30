@@ -1,0 +1,1 @@
+KEMEROVO () is an industrial city and the administrative center of Kemerovo Oblast, Russia, located at the confluence of the Iskitim and Tom Rivers, in the major coal mining region of the Kuznetsk Basin. Its population was 532,981 in the 2010 Census;[1] 484,754 in the 2002 Census;[2] 520,263 in the 1989 Census.[3]

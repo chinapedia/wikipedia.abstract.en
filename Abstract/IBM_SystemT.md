@@ -1,0 +1,1 @@
+IBM SYSTEMT is a declarative information extraction system. It was first built in 2005, as a research project at IBM's IBM Almaden Research Center. Its name is partially inspired by System R, a seminal project from the same research center.

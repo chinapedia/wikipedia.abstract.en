@@ -1,0 +1,1 @@
+CARLOS IZQUIERDO (born October 2, 1997) is a Colombian freestyle wrestler. He competed in the men's freestyle 74 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by Jabrayil Hasanov.[1][2]

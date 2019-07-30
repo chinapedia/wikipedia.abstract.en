@@ -1,0 +1,1 @@
+Cranach,_Lucas_(II)_-_Georg_der_Fromme_-_Jagdschloss_Grunewald_-_1564.jpg]] Schloss_Ratibor_-Stiftungstafel_5.jpg GEORGE OF BRANDENBURG-ANSBACH () (4 March 1484 – 27 December 1543), known as GEORGE THE PIOUS, was a Margrave of Brandenburg-Ansbach from the House of Hohenzollern.

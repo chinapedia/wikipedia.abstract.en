@@ -1,0 +1,1 @@
+ROYCE KHALIL O'NEALE (born June 5, 1993) is an American professional basketball player for the Utah Jazz of the National Basketball Association (NBA). He played college basketball for the Denver Pioneers and the Baylor Bears.

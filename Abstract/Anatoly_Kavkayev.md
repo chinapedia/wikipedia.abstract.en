@@ -1,0 +1,1 @@
+ANATOLY KAVKAYEV () is soviet Greco-Roman wrestler, champion of the USSR and the Europe, medalist of world championship. Started to train in 1964. Took part in seven USSR championships (1971—1977). Won some international tournaments.

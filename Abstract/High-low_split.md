@@ -1,0 +1,1 @@
+In traditional poker games, the player with the best traditional hand wins the whole pot. Lowball variations award the pot to the lowest hand, by any of several methods (see Low hand (poker)). HIGH-LOW SPLIT games are those in which the pot is divided between the player with the best traditional hand (called the high hand) and the player with the low hand.[1]

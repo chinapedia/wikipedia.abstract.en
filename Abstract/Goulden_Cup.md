@@ -1,0 +1,1 @@
+The GOULDEN CUP is the trophy awarded annually to the men's national water polo club champions in Canada. The trophy has been competed for since 1907, making it one of the oldest national championship trophies in Canada, being two years older than the Allan Cup (1909) and three years older than the Mann Cup (1910). The current champions are the Toronto Golden Jets.

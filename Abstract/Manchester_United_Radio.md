@@ -1,0 +1,1 @@
+MANCHESTER UNITED RADIO was a low power amplitude modulation (LPAM) community radio station owned by Manchester United F.C. which broadcast live match commentary, interviews, features and news relevant to travelling supporters within an area of approximately 50 miles around Old Trafford on matchdays between March 1994 and May 2008.[1]

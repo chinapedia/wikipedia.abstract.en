@@ -1,0 +1,1 @@
+The Uganda MINISTRY OF PUBLIC SERVICE is a Cabinet level government ministry. The ministry is mandated to "develop, manage and administer human resource policies, management systems, procedures and structure for the public service" in Uganda.[1]

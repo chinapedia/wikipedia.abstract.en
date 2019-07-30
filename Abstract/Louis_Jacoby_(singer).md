@@ -1,0 +1,1 @@
+LOUIS ARNOLD JACOBY (born September 6, 1942) is a Norwegian singer and writer from Larvik.[1][2] Jacoby grew up in Larvik's Torstrand district but has lived in Ula for many years. He is the son of the writer Arnold Jacoby (1913–2002).[3]

@@ -1,0 +1,1 @@
+In psychotherapy, PARADOXICAL INTENTION is the deliberate practice of a neurotic habit or thought, undertaken to identify and remove it. The concept was termed by Dr. Viktor Frankl, the founder of Logotherapy, who advocated for its use by patients experiencing severe forms of anxiety disorders.[1]

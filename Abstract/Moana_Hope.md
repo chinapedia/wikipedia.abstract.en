@@ -1,0 +1,1 @@
+MOANA HOPE (born 14 February 1988) is a former professional Australian rules footballer playing for the North Melbourne Football Club. Hope was de-listed by North Melbourne at the end of the 2019 season.

@@ -1,0 +1,1 @@
+POLITICS IN SENEGAL takes place within the framework of a semi-presidential, democratic republic. The President of Senegal is the head of state and the Prime Minister of Senegal is the head of government. Executive power in Senegal is concentrated in the president's hands.[1]

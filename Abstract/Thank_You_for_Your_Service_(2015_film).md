@@ -1,0 +1,1 @@
+_THANK YOU FOR YOUR SERVICE_ is a 2015 documentary film by Tom Donahue that focuses on our superficial understanding of war trauma and the failed policies that result. Observing the systemic neglect, the film argues for significant internal change and offers a roadmap for hope.[1] The film premiered at DOC NYC in November 2015.[2]

@@ -1,0 +1,1 @@
+__NOTOC__ RONALD MILTON SCHNEIDER is a political scientist who is a professor at Queens College. He is known for writing _Communism in Guatemala: 1944 to 1954_, a book which documented the increasing influence of communism during the Guatemalan Revolution.

@@ -1,0 +1,1 @@
+CHIYOSHŌMA FUJIO (千代翔馬 富士雄, born 20 July 1991) is a professional sumo wrestler from Ulaanbaatar, Mongolia. He made his debut in July 2009 and reached the top _makuuchi_ division in September 2016. He wrestles for Kokonoe stable. His highest rank is _maegashira_ 2.

@@ -1,0 +1,1 @@
+RIAZ FATYANA is a Pakistani politician, Fatyana born on January 18, 1958 in Kamalia, Punjab, Pakistan.[1] He was a Member of Parliament from November 16, 2002 to 16 March 2013 and was elected again from Toba Tek Singh District in the 2018 Pakistani general election.[2][3]

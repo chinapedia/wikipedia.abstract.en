@@ -1,0 +1,1 @@
+ANDRZEJ SARIUSZ-SKĄPSKI (20 November 1937 – 10 April 2010) was a Polish activist. He was President of the Federation of Katyn Families, an interest that may have stemmed from his father's death there.

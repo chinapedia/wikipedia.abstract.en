@@ -1,0 +1,1 @@
+KHOUW TIAN SEK, DER CHINEZEN (died on November 17, 1843), popularly known as TENG SECK, was a Chinese Indonesian magnate and landlord in colonial Batavia (now Jakarta, capital of Indonesia).[1][2][3] He is best known today as the patriarch of the prominent Khouw family of Tamboen.[4][5]

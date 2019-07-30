@@ -1,0 +1,1 @@
+{{ infobox nobility | name = Conrad II | title = Duke of Znojmo | image = Konrad_II.jpg | image_size = | caption = Conrad II depicted at the Znojmo Rotunda | noble family = Přemyslid dynasty - Conradine cadet line | father = Luitpold of Znojmo | mother = Ida of Austria | spouse = Mary of Serbia | issue = Conrad II, Duke of Bohemia

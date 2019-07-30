@@ -1,0 +1,1 @@
+MILICENT LOUISE HATHAWAY (1898 – 1974) was an American nutritionist and physiological chemist best known for her research on human metabolism.[1] She taught for several colleges from 1930 to 1966 and worked for the U.S. Department of Agriculture in the postwar period.

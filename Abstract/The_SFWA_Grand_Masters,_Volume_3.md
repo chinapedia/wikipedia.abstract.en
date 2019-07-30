@@ -1,0 +1,1 @@
+_THE SFWA GRAND MASTERS, VOLUME 3_ is an anthology of science fiction short works edited by Frederik Pohl. It was first published in hardcover by Tor Books in June 2001, and in trade paperback by the same publisher in April 2002. It has been translated into Italian.[1]

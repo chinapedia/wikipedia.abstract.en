@@ -1,0 +1,1 @@
+PregnantLioness.jpgess.]] In mammals, PREGNANCY is the period of reproduction during which a female carries one or more live offspring from implantation in the uterus through gestation. It begins when a fertilized zygote implants in the female's uterus, and ends once it leaves the uterus.

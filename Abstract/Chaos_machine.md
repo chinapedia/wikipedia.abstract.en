@@ -1,0 +1,1 @@
+In mathematics, a CHAOS MACHINE is a class of algorithms constructed on the base of chaos theory (mainly deterministic chaos) to produce pseudo-random oracle. It represents the idea of creating a universal scheme with modular design and customizable parameters, which can be applied wherever randomness and sensitiveness is needed.[1]

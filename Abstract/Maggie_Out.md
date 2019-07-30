@@ -1,0 +1,1 @@
+"MAGGIE OUT" was a chant popular during the Miners' Strike, student grant protests, Poll Tax protests and other public demonstrations that fell within the time when Margaret Thatcher was the Prime Minister of the United Kingdom.[1][2][3][4][5]

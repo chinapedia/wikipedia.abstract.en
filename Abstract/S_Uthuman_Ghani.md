@@ -1,0 +1,1 @@
+S UTHUMAN GHANI (1957- 2 January 2005) was a Singaporean television host, author, poet, humanitarian, philanthropist and lawyer.[1][2] He is widely considered to be one of the best Tamil television hosts in the world.

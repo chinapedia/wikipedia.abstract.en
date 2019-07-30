@@ -1,0 +1,1 @@
+SHAHANUR RAHMAN (born 25 April 1996) is a Bangladeshi cricketer.[1] He made his first-class debut for Sylhet Division in the 2016–17 National Cricket League on 25 September 2016.[2] He is an off-spinner who bats in the lower middle order.

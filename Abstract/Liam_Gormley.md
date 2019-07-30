@@ -1,0 +1,1 @@
+LIAM GORMLEY (born 19 March 1993), is a Scottish professional footballer who plays for Rutherglen Glencairn in the Scottish Junior Football Association, West Region. He has previously appeared in the Scottish Football League First Division for Greenock Morton.

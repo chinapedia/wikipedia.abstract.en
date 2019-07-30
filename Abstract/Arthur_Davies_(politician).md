@@ -1,0 +1,1 @@
+ARTHUR ELVIN DAVIES (7 May 1867 – 27 March 1918) was an Australian businessman and politician who was a member of the Legislative Assembly of Western Australia from 1906 to 1911, representing the seat of South Fremantle.

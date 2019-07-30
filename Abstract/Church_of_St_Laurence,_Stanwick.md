@@ -1,0 +1,1 @@
+Stanwick,_St_Lawrence_(geograph_2545933).jpg The CHURCH OF ST LAURENCE is a Grade I listed building in the village of Stanwick in East Northamptonshire. It was originally within the Church of England Diocese of Lincoln but was transferred to the Diocese of Peterborough in 1541 towards the end of the Dissolution of the Monasteries during Henry VIII's reign.

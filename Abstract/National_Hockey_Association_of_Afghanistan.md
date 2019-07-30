@@ -1,0 +1,1 @@
+The NATIONAL HOCKEY ASSOCIATION OF AFGHANISTAN is the governing body of field hockey in Afghanistan. It is affiliated with the Fédération Internationale de Hockey (FIH) and the Asian Hockey Federation (ASHF). The headquarters of the association is in Kabul, Afghanistan.

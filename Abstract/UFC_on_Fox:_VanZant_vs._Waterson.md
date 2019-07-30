@@ -1,0 +1,1 @@
+_UFC ON FOX: VANZANT VS. WATERSON_ (also known as _UFC ON FOX 22_) was a mixed martial arts event promoted by the Ultimate Fighting Championship and held on December 17, 2016, at Golden 1 Center in Sacramento, California.[1]

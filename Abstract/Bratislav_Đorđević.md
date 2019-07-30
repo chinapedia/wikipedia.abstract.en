@@ -1,0 +1,1 @@
+BRATISLAV "BATA" ĐORĐEVIĆ (; born October 23, 1938) is a Serbian former professional basketball coach and player. He was a head coach of Crvena zvezda during the 1970s. He is the father of Aleksandar Đorđević, also a professional basketball coach and former player.[1][2]

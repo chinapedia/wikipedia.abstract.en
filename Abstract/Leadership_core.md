@@ -1,0 +1,1 @@
+In modern Chinese politics, a LEADERSHIP CORE () refers to a leader who is recognized as central to the leadership of the Communist Party of China. Four individuals so far have been given this designation: Mao Zedong, Deng Xiaoping, Jiang Zemin, and Xi Jinping.

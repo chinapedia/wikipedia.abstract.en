@@ -1,0 +1,1 @@
+Steelers_Chiefs_goal_line.jpg (red) and the Pittsburgh Steelers (black) line up for a play on the goal line.]] The GOAL LINE is the chalked or painted line dividing the end zone from the field of play in American football and Canadian football. It is the line that must be crossed in order to score a touchdown.[1]

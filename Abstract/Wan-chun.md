@@ -1,0 +1,1 @@
+_WAN-CHUN_ (or _WANJUN_) is a 1990 Taiwanese television series produced by Ping Hsin-tao and his company Yi Ren Communications Co. (怡人傳播公司) in conjunction with Chinese Television System, based on Chiung Yao's (Ping's wife) 1964 novellette _Wan-chun's Three Loves_, which is set in Republican era Beijing.

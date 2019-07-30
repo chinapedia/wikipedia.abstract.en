@@ -1,0 +1,1 @@
+Low_Temperature_Oxidation_Catalyst.jpeg that utilizes a low-temperature oxidation catalyst to convert carbon monoxide to less toxic carbon dioxide at room temperature. It can also remove formaldehyde from the air.]]

@@ -1,0 +1,1 @@
+KELHANA-DEVA (IAST: Kelhaṇadeva, r. c. 1163-1193 CE) was an Indian king belonging to the Naddula Chahamana dynasty. He ruled the area around Naddula (present-day Nadol in Rajasthan), as a Chaulukya vassal. He participated in the 1178 CE Battle of Kasahrada, in which the Chaulukya forces defeated Muhammad of Ghor.

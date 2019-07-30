@@ -1,0 +1,1 @@
+_THE LAST ALASKANS_ is an American reality television series. The series premiered on Animal Planet on May 25, 2015.[1] The second season premiered on the Discovery Channel on April 12, 2016.[2] The fourth season premiered on the Discovery Channel on November 25, 2018.[3] The series follows several families and trappers who live in the Arctic National Wildlife Refuge in Alaska.

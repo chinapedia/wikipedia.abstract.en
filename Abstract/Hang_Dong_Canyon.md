@@ -1,0 +1,1 @@
+Chiang_Mai,_2016_april_-_panoramio_-_Roma_Neus_(10).jpg HANG DONG CANYON, () also known as CHIANG MAI GRAND CANYON, is located in Soi Ban Rai 3 Mu 1, Nam Phrae, Hang Dong District Chiang Mai Province, in the northern part of Thailand. Hang Dong Canyon is considered a tourist attraction in Chiang Mai. The canyon is about 48,000 square meters (0.048 square kilometers).

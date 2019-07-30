@@ -1,0 +1,1 @@
+The CHAUSATH YOGINI TEMPLE is a ruined Devi temple in the Khajuraho town of Madhya Pradesh, India. Dated to the late 9th century, it is the oldest surviving temple at Khajuraho. Unlike the Chausath Yogini temples at other places, it has a rectangular plan.

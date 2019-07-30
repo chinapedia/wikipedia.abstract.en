@@ -1,0 +1,1 @@
+SIR EARLE CHRISTMAS GRAFTON PAGE, (8 August 188020 December 1961) was an Australian politician who served as the 11th Prime Minister of Australia, holding office for 19 days after the death of Joseph Lyons in 1939. He was the leader of the Country Party from 1921 to 1939, and was the most influential figure in its early years.

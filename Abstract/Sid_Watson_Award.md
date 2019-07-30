@@ -1,0 +1,1 @@
+The SID WATSON AWARD is an annual award given to the top player in NCAA Division III Men's Ice Hockey. It is given by the American Hockey Coaches Association. It was known as the Division III Men's Player of the Year Award prior to 2005.

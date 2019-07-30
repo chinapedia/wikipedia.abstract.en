@@ -1,0 +1,1 @@
+KODUPUNNA GOVINDA GANAKAN[1] (1921–1988) was an Indian multilingual scholar and essayist, born in Koduppunna village of Kuttanadu, Kerala. A Malayalam prose translation of Kālidāsa's Sanskrit lyric poem _Meghadūta_ is one of his famous works.[2][3]

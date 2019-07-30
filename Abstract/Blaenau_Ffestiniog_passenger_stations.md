@@ -1,0 +1,1 @@
+North west Wales experienced a slate boom in the first half of the nineteenth century. Three sites stood out as experiencing the most explosive growth: Dinorwic near Llanberis, Penrhyn near Bethesda and Blaenau Ffestiniog.

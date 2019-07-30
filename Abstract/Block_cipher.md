@@ -1,0 +1,1 @@
+In cryptography, a BLOCK CIPHER is a deterministic algorithm operating on fixed-length groups of bits, called a _block_, with an unvarying transformation that is specified by a symmetric key. Block ciphers operate as important elementary components in the design of many cryptographic protocols, and are widely used to implement encryption of bulk data.

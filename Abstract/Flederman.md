@@ -1,0 +1,1 @@
+FLEDERMAN is an Australian contemporary music ensemble co-founded by Carl Vine and Simone de Haan.[1][2] Their selftitled album won the 1989 ARIA Award for Best Classical Album was nominated for Best Independent Release.

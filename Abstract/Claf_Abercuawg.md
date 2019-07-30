@@ -1,0 +1,1 @@
+_CLAF ABERCUAWG_ (IPA /klav ˌaber'ki:aug/, 'the leper of Abercuawg') is the modern title of a 32-stanza medieval Welsh _englyn_-poem. According to Jenny Rowland, 'most critics would classify it among the most sophisticated and moving all the early _englynion_ poems'; it is 'the classic example' of meditative, lyric, at least implicitly religious, early Welsh poetry.[1]

@@ -1,0 +1,1 @@
+INTELLECTUAL HUMILITY is often described as an intellectual virtue, along with other perceived virtues such as open-mindedness, intellectual courage and integrity, and in contrast to proposed intellectual vices, such as pride and arrogance. See "Doxastic Definition of Intellectual Humility."

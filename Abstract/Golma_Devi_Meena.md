@@ -1,0 +1,1 @@
+GOLMA DEVI MEENA is a member of the 14th Rajasthan Legislative Assembly. She represents the Rajgarh Laxmangarh constituency of Alwar district in the Indian state of Rajasthan.[1][2] In the 2013 state assembly elections, she defeated Surajbhan Dhanka of the Samajwadi Party with a margin of 8,128 votes.[3]

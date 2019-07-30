@@ -1,0 +1,1 @@
+The WOMEN'S ROAD TIME TRIAL T1-2 road cycling event at the 2016 SUMMER PARALYMPICS took place on the afternoon of 14 September at Flamengo Park, Pontal. 7 riders competed over one lap of a fifteen kilometre course.[1]

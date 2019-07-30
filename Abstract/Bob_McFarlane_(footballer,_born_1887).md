@@ -1,0 +1,1 @@
+ROBERT ANGUS MCFARLANE (17 January 1887 – June 1955) was a Scottish professional football inside left who played in the Scottish League for Queen's Park, Partick Thistle, Arbroath and Dundee United.[1][2]

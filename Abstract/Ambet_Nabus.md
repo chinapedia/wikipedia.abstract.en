@@ -1,0 +1,1 @@
+EPILBERTO RIVERA NABUS, commonly known as AMBET NABUS or simply AMBETABLE (born in 1967 in Daet, Camarines Norte, Philippines) is a Filipino radio anchor, sports publicist, media buyer, events consultant lecturer and show business reporter. He is currently working for DZMM at the ABS-CBN Broadcasting Center in Quezon City.

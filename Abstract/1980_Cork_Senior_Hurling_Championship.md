@@ -1,0 +1,1 @@
+The 1980 CORK SENIOR HURLING CHAMPIONSHIP was the 92nd staging of the Cork Senior Hurling Championship since its establishment by the Cork County Board in 1887. The championship began on 6 April 1980 and ended on 12 October 1980.

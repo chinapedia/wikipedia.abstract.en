@@ -1,0 +1,1 @@
+_EXPEDITIE ROBINSON 2016_ is the seventeenth season of the Dutch version of the Swedish television series _Expeditie Robinson_. This season premiered on September 8, 2016. The main twist season is that both tribes are staying on the same island.

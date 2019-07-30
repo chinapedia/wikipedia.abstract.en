@@ -1,0 +1,1 @@
+In 1953, a BY-ELECTION WAS HELD FOR THE CALCUTTA SOUTH EAST SEAT in the Lok Sabha (Lower House of the Parliament of India). The by-election was called after the death of the incumbent parliamentarian from Calcutta South East, Dr. Syama Prasad Mukherjee. The election saw the internationally renowned barrister Radhabinod Pal defeated by a young communist barrister Sadhan Gupta.

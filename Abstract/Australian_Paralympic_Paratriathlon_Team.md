@@ -1,0 +1,1 @@
+Australia was represented in the first Paralympic Paratriathlon event at the Rio 2016 Summer Paralympics by Nic Beveridge, Bill Chaffey, Brant Garvey, Kate Doughty, Katie Kelly (Michellie Jones as guide) and Claire McLean.

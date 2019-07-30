@@ -1,0 +1,1 @@
+JEEPSTER RECORDS is a London, England-based independent record label, founded in 1995, and specialising in British indie and alternative bands, particularly Glasgow-based acts. It is most notable for its signing of Belle and Sebastian and Snow Patrol.[1]

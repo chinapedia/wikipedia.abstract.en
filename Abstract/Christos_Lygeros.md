@@ -1,0 +1,1 @@
+CHRISTOS LYGEROS (born 1955)[1] served as the Chairman of the National Board of the Scouts of Greece,[2][3] as well the Chairman of the World Adult Resources Committee of the World Scout Committee and a member of the Global Education Committee.

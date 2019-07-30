@@ -1,0 +1,1 @@
+The BRITISH LIBERATION ARMY (BLA) was the official name given to the British Army forces which fought on the Western Front of World War II between the Invasion of Normandy and the end of the war.[1] Almost all BLA units were assigned to the 21st Army Group, which also included forces from other countries.

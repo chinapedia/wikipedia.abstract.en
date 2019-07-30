@@ -1,0 +1,1 @@
+"CHEER UP! THE SUMMER" (styled "CHEER UP! THE SUMMER") is a single by Japanese recording artist Tatsuro Yamashita. It was released on September 14, 2016.[1] It reached the eighth place on the _Oricon_ Weekly Singles Chart on its release,[2] selling 9,846 copies.[3] It was also tenth placed on the _Billboard_ Japan Hot 100.[4]

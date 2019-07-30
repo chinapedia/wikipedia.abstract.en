@@ -1,0 +1,1 @@
+NORTHERN MICHIGAN UNIVERSITY (NMU) is a public university in Marquette, Michigan. The university was established in 1899. With enrollment of about 8,000 undergraduate and graduate students, Northern Michigan University is the Upper Peninsula's largest university.

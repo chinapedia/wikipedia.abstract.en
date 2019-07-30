@@ -1,0 +1,1 @@
+CLARENCE BROOKS (May 20, 1951 – September 17, 2016) was an American football coach. He was the defensive line coach of the Baltimore Ravens from 2005 to 2015. He also served as an assistant coach for the Chicago Bears, Cleveland Browns and Miami Dolphins.

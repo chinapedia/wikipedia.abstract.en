@@ -1,0 +1,1 @@
+CONFLUENCE QUEENS F.C. sometimes referred to as WADA QUEENS and KOGI CONFLUENCE QUEENS[1][2] is a Nigerian women's association football club based in Lokoja, Kogi State. They play their home games at Confluence Stadium, and compete in the Nigeria Women Premier League, the highest tier of female football league system in Nigeria.

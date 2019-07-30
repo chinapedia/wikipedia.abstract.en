@@ -1,0 +1,1 @@
+ANNE-CHRISTINE RAMBERG (born 26 August 1952) is a Swedish lawyer and since 2000 the general secretary for the Swedish Bar Association (_Sveriges advokatsamfund_). She is the first woman to hold this position.[1]

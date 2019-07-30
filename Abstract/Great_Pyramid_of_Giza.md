@@ -1,0 +1,1 @@
+007_Khufu.jpg The GREAT PYRAMID OF GIZA (also known as the PYRAMID OF KHUFU or the PYRAMID OF CHEOPS) is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day El Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.

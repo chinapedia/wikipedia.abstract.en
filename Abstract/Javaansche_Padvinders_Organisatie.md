@@ -1,0 +1,1 @@
+JAVAANSCHE PADVINDERS ORGANISATIE (JPO) () was a branch of the Nederlandse Padvinders Organisatie (NPO, Netherlands Pathfinder Organisation) organization in the Dutch East Indies (now Indonesia). This first Scouting organization in Indonesia was established on the initiative of Sri Paduka Mangkunagara VII in 1916.

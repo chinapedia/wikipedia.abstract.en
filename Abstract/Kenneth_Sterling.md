@@ -1,0 +1,1 @@
+KENNETH J. STERLING was a medical doctor and prominent researcher on the topic of thyroid hormone and human metabolism. He made significant discoveries on thyroid hormone activation and treated patients at the Columbia-Presbyterian Medical Center for over thirty years.[1][2]

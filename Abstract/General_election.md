@@ -1,0 +1,1 @@
+During GENERAL ELECTION all or most members of a given political body are chosen. These are usually held for a nation's primary legislative body, as distinguished from by-elections and local elections.

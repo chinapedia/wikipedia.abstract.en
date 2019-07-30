@@ -1,0 +1,1 @@
+ROBERT WILLIAM GREIG (born 17 May 1942) is a former Australian politician who was a Liberal Party member of the Legislative Assembly of Western Australia from 1987 to 1989, representing the seat of Darling Range.

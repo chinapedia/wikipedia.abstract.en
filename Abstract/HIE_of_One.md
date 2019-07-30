@@ -1,0 +1,1 @@
+HIE OF ONE is a free software project developing tools for patients to manage their own health records.[1] HIE stands for Health Information Exchange, an electronic network for sharing health information across different organizations, hospitals, providers, and patients. This is one of a growing number of tools for encrypted data exchange within the health care sphere.[2]

@@ -1,0 +1,1 @@
+Vestiges_du_château_narbonnais_sous_le_palais_de_justice_-_panoramio.jpg The CHÂTEAU NARBONNAIS was a castle of the Counts of Toulouse on the west side of the city Toulouse. The castle featured prominently in the Cathar wars.

@@ -1,0 +1,1 @@
+GEEKSPEAK is a podcast with two to four hosts who focus on technology and technology news of the week. Though originally a radio tech call-in program, which first aired in 1998 on KUSP, GeekSpeak has been a weekly podcast since 2004.

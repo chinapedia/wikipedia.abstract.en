@@ -1,0 +1,1 @@
+FRANÇOIS-JOSEPH-MARIE-HENRY, COMTE DE VIRY (27 July 1766 – 15 January 1820), known before 1813 as BARON DE LA FERRIÈRE and in England as HENRY SPEED, was a Savoyard nobleman who sat in both the House of Commons of Great Britain and the Chamber of Deputies of France.

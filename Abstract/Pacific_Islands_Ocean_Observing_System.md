@@ -1,0 +1,1 @@
+The PACIFIC ISLANDS OCEAN OBSERVING SYSTEM (PacIOOS) is a nonprofit association and one of eleven such associations in the U.S. Integrated Ocean Observing System, funded in part by the National Oceanic and Atmospheric Administration (NOAA).[1][2]

@@ -1,0 +1,1 @@
+LUIGI PIROTTA, Scout name "Volpe Azzurra", meaning "Blue Fox", (Rome, June 9, 1900 - Rome, 29 March 1971) was an Italian Doctor of Law, archivist and paleographer, who served as Chief Scout of the Corpo Nazionale Giovani Esploratori ed Esploratrici Italiani from 1944 to 1954.[1]

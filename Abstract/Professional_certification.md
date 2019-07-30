@@ -1,0 +1,1 @@
+PROFESSIONAL CERTIFICATION, TRADE CERTIFICATION, or PROFESSIONAL DESIGNATION, often called simply _certification_ or _qualification_, is a designation earned by a person to assure qualification to perform a job or task. Not all certifications that use post-nominal letters are an acknowledgement of educational achievement, or an agency appointed to safeguard the public interest.

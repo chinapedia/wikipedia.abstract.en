@@ -1,0 +1,1 @@
+ORLANDO "RYAN" ANDERSON (born August 12, 1994) is an American football outside linebacker for the Washington Redskins of the National Football League (NFL). He played college football for Alabama, and was drafted by the Redskins in the second round of the 2017 NFL Draft.

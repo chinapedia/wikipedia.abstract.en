@@ -1,0 +1,1 @@
+MICHELLE MITCHENOR (born April 21, 1988) [1][2] is an American actress. She is known for portraying the series regular role of Detective Sonya Bailey on the FOX's primetime action comedy-drama television series _Lethal Weapon_ and the role of Indigo in the musical-drama film _Chi-Raq_.

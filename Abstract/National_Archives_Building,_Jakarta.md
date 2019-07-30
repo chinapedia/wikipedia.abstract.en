@@ -1,0 +1,1 @@
+The NATIONAL ARCHIVES BUILDING () is a museum in Jakarta, Indonesia. The building, formerly a late 18th-century private residence of Governor-General Reinier de Klerk, is part of the cultural heritage of Jakarta. The house is an archetypal Indies-Style house of the earliest period.

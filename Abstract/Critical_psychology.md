@@ -1,0 +1,1 @@
+CRITICAL PSYCHOLOGY is a perspective on psychology that draws extensively on critical theory. Critical psychology challenges mainstream psychology and attempts to apply psychological understandings in more progressive ways, often looking towards social change as a means of preventing and treating psychopathology.

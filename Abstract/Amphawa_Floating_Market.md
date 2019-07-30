@@ -1,0 +1,1 @@
+AMPHAWA FLOATING MARKET () is in the Amphawa District of Samut Songkhram Province. The Amphawa district is not far away from Bangkok. Amphawa floating market is the most popular in Thailand. The Amphawa Floating Market is 50 kilometers long. The market is near “Wat Amphawa Chetiyaram” temple. The Amphawa canal is on the Mae Klong river. Amphawa1.jpg

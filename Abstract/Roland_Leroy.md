@@ -1,0 +1,1 @@
+ROLAND LEROY (May 4, 1926 – February 25, 2019) was a French journalist and politician. He served as a Communist member of the National Assembly from 1956 to 1958, and from 1967 to 1981, representing Seine-Maritime.[1]

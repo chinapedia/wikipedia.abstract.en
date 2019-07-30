@@ -1,0 +1,1 @@
+YSGOL HENRY RICHARD is a bilingual middle school for pupils aged 3–16 in Ceredigion, Wales. The school is a product of the amalgamation of Ysgol Llanddewi Brefi, Ysgol Gynradd Tregaron and Ysgol Uwchradd Tregaron.

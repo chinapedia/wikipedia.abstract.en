@@ -1,0 +1,1 @@
+NANCY SANDRA SINATRA[1] (born June 8, 1940)[2] is an American singer and actress. She is the elder daughter of Frank Sinatra and Nancy ( Barbato) Sinatra, and is widely known for her 1966 signature hit "These Boots Are Made for Walkin'{{-"}}.

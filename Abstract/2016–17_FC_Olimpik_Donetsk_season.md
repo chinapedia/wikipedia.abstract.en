@@ -1,0 +1,1 @@
+The 2016–17 SEASON was 3rd consecutive season in the top Ukrainian football league for OLIMPIK DONETSK. Olimpik competed in Premier League and in the Ukrainian Cup. Finishing 4th in Premiek League Olimpik qualified to Europa League third qualifying round for next season which would be the first participation in European club competition in club history.

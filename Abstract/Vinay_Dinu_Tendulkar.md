@@ -1,0 +1,1 @@
+VINAY DINU TENDULKAR is an Indian politician who is a leader of the Bharatiya Janata Party from Goa. He is a member of the Rajya Sabha [1], the Upper House of the Indian Parliament, to which he was elected to in 2017, and serves as the president of state unit of the party. He was earlier the minister for forests in the Goa government. [2] [3][4]

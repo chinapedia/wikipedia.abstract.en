@@ -1,0 +1,1 @@
+_THE WELL-INTENTIONED VIRUS_ is the eleventh full-length album by metalcore band Zao, released on December 9, 2016. The album features the first studio performance of Russ Cogdell for the first time since 2004's _The Funeral of God_.[1] The album was released digitally, as well as on CD, vinyl and cassette.[2] On December 1, 2016, the band streamed the whole album.[3][4]

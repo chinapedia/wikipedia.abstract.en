@@ -1,0 +1,1 @@
+MÉS PER MENORCA (, MpM)[1] is a Menorcan political party. It was a coalition formed by the Socialist Party of Menorca, Republican Left, The Greens of Menorca, Equo, local parties and independents around the island until 2017. MpM was created in July 2014.[2] Until May 2017 it had been linked to the similarly-named alliance in Majorca.[3]

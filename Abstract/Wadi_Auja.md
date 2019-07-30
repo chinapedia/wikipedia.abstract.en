@@ -1,0 +1,1 @@
+Wadi_Auja.jpg Illo_008.jpg WADI AUJA ( is a valley or stream ( __, "wadi") in the West Bank, originating near the Ein Samia spring and flowing to Al-Auja near Jericho before it runs into the Jordan River.

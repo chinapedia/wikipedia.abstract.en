@@ -1,0 +1,1 @@
+Juan_Nepomuceno_Almonte_2.jpg The MON-ALMONTE TREATY restored relations between Mexico and Spain. It was signed on 26 September 1859 by Juan Almonte, Mexican conservative and Alejandro Mon, representative of Queen Isabella II of Spain, in Mexico.

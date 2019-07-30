@@ -1,0 +1,1 @@
+The 1963 BROWNLOW MEDAL was the 36th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Bob Skilton of the South Melbourne Football Club won the medal by polling twenty votes during the 1963 VFL season.[2]

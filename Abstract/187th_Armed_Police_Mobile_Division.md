@@ -1,0 +1,1 @@
+The 187TH DIVISION () was created in January 1949 under _the Regulation of the Redesignations of All Organizations and Units of the Army_, issued by Central Military Commission on November 1, 1948,[1] basing on the 7th Brigade, 3rd Column of the Jinchaji Military Region. Its history can be traced to 2nd Detachment of Jizhong Column, formed in September 1945.

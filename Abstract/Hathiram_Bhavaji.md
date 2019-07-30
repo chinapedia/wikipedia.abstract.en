@@ -1,0 +1,1 @@
+A_picture_at_Tirumala_near_temple.jpg HATHIRAM BHAVAJI or HATHIRAM BABA or HATHIRAMJI was a saint from North India who visited Tirumala around 1500 CE[1] on a pilgrimage and became a devotee of Lord Venkateswara.[2][3] He settled there by setting up an ashram near the temple. According to a legend, he had the privilege of playing dice with Lord Balaji.

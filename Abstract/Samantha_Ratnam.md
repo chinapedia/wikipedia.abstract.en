@@ -1,0 +1,1 @@
+SAMANTHA SHANTINI RATNAM (born 1977) is an Australian social worker, politician and the current leader of the Victorian Greens. Since October 2017 Ratnam has been a member of the Victorian Legislative Council, representing the Northern Metropolitan Region. Prior to this she was a councillor and former mayor for the City of Moreland.

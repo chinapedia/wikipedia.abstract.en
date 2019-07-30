@@ -1,0 +1,1 @@
+Hernan_Santa_Cruz,_Diretor-geral_adjunto_da_Organização_das_Nações_Unidas_para_a_Alimentação_e_a_Agricultura_e_representante_regional_da_Organização_para_a_América_Latina..tif HERNÁN SANTA CRUZ (1906–1999) was a Chilean delegate to the United Nations, judge, lawyer and one of the initial drafters of the Universal Declaration of Human Rights.

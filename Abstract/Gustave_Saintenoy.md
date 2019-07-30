@@ -1,0 +1,1 @@
+Stadsschouwburg_Brugge_voorzijde.jpg in Bruges.]] Château_des_Amerois,_ca_1890.PNG.]] Art-Nouveau_glasraam_-_"La_Vague"_-_Saintenoy_(1544116423).jpg window of woman with distinctive nose, _"La Vague"_, in the Hotel Saintenoy, Brussels.]] GUSTAVE JEAN-JACQUES SAINTENOY (; born in Brussels, 6 February 1832, died in Schaerbeek, 17 January 1892) was a Belgian architect.

@@ -1,0 +1,1 @@
+_EPEPEOTES LATERALIS_ is a species of beetle in the family Cerambycidae. It was described by Félix Édouard Guérin-Méneville in 1831, originally under the genus _Monohammus_. It is known from Sulawesi, Malaysia, Java, and Sumatra.[1]

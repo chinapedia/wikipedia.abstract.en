@@ -1,0 +1,1 @@
+INTERSTITIAL CYSTITIS (IC), also known as BLADDER PAIN SYNDROME (BPS), is a type of chronic pain that affects the bladder.[1] Symptoms include feeling the need to urinate right away, needing to urinate often, and pain with sex.[2] IC/BPS is associated with depression and lower quality of life.[3] Many of those affected also have irritable bowel syndrome and fibromyalgia.[4]

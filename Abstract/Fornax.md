@@ -1,0 +1,1 @@
+FORNAX () is a constellation in the southern sky, partly ringed by the celestial river Eridanus. Its name is Latin for furnace. It was named by French astronomer Nicolas Louis de Lacaille in 1756. Fornax is one of the 88 modern constellations.

@@ -1,0 +1,1 @@
+In integral calculus, ELLIPTIC INTEGRALS originally arose in connection with the problem of giving the arc length of an ellipse. They were first studied by Giulio Fagnano and Leonhard Euler (). Modern mathematics defines an "elliptic integral" as any function which can be expressed in the form

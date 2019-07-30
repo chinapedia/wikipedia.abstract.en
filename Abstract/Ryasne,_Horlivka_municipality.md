@@ -1,0 +1,1 @@
+RYASNE (; ) is a village in Horlivka municipality of Donetsk Oblast of eastern Ukraine, at 36.1 km NE from the centre of Donetsk city. Ryasne is the southernmost part of Horlivka municipality. Raions_of_Horlivka.png:

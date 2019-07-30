@@ -1,0 +1,1 @@
+The HARTFORD CHARTER OAKS were a professional American football team based in Hartford, Connecticut. They began play in 1964 as a member of the Atlantic Coast Football League, replacing the Ansonia Black Knights.[1] In 1965 the Charter Oaks were one of several ACFL franchises to join the new Continental Football League, where they finished in last place in their division.

@@ -1,0 +1,1 @@
+SEBASTIAN PASQUALI is an Australian football (soccer) player who plays for Western United in the A-League. A versatile midfielder, Pasquali can play as a box-to-box, holding or attacking midfielder,[1] and has also played at centre-back.[2][3]

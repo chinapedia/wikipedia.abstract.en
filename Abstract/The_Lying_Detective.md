@@ -1,0 +1,1 @@
+"THE LYING DETECTIVE" is the second episode of the fourth series of the British television series _Sherlock_ and the twelfth episode overall. The episode was first broadcast on BBC One, BBC First, PBS and Channel One[1][2] on 8 January 2017.

@@ -1,0 +1,1 @@
+The VASSUNUNGA STATE PARK () is a state park in the state of São Paulo, Brazil. It preserves an area of interior Atlantic Forest and _cerrado_, including a huge _jequitibá-rosa_ (_Cariniana legalis_) tree that by some accounts is the oldest tree in Brazil.

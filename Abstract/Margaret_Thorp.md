@@ -1,0 +1,1 @@
+MARGARET STURGE THORP (12 June 1892 – 5 May 1978),[1] also known as "The Peace Angel", was a peace activist and labour activist active in Australia in the 20th century. A Quaker, her religious beliefs guided her to a life of advocating for a variety of pacifist and feminist causes.

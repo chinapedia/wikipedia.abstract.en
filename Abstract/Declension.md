@@ -1,0 +1,1 @@
+In linguistics, DECLENSION is the changing of the form of a word, generally to express its syntactic function in the sentence, by way of some inflection. The inflectional change of verbs is called conjugation.

@@ -1,0 +1,1 @@
+COUNT MICHAEL MIKHAILOVICH DE TORBY (8 October 1898 in Wiesbaden – 25 April 1959 in London) was the son of Grand Duke Michael Mikhailovich of Russia (1861–1929) and his morganatic wife Countess Sophie of Merenberg (1868–1927). The great-grandson of Emperor Nicholas I of Russia and Alexander Pushkin.

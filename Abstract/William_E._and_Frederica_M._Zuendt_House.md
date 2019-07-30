@@ -1,0 +1,1 @@
+WILLIAM E. AND FREDERICA M. ZUENDT HOUSE, also known as the JOHNSON HOUSE, is a historic home located in Jefferson City, Cole County, Missouri. It was built in 1913, and is a two-story, three bay, Colonial Revival style brick dwelling on a stone foundation. It has a slate hipped roof with dormer window. Also on the property is a contributing garage.[1]

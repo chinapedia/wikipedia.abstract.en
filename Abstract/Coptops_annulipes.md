@@ -1,0 +1,1 @@
+_COPTOPS ANNULIPES_ is a species of beetle in the family Cerambycidae. It was described by Charles Joseph Gahan in 1864. It is known from Malaysia, Cambodia, Indonesia, China, Laos, Myanmar, Thailand, India, and Vietnam.[1]

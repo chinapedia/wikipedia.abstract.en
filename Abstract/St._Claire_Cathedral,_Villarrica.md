@@ -1,0 +1,1 @@
+The ST. CLAIRE CATHEDRAL [1] ( ) also called VILLARRICA CATHEDRAL[2] is a religious building affiliated with the Catholic Church which is located in the town of Villarrica[3] in the southern part of the South American country of Paraguay, in the so-called East region; and capital of the 4th department of Guaira.

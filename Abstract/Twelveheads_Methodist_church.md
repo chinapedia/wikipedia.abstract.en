@@ -1,0 +1,1 @@
+Twelveheads_Methodist_Church_-_geograph.org.uk_-_1051215.jpg TWELVEHEADS METHODIST CHURCH is a Methodist church located in the village of Twelveheads, near Truro in Cornwall, UK. The chapel is most famous for Billy Bray who would have gone to a church here or near here when he was alive. He may have preached at this church.

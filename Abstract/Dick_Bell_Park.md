@@ -1,0 +1,1 @@
+Nepean_Sailing_Club_July_2006.jpg DICK BELL PARK is a public park in Ottawa, Ontario, Canada, on the southern shore of the Ottawa River. Admission and parking are free.[1] The park is home to the Nepean Sailing Club. The park's area, according to the city, is .[2] The official address of the park is 3259 Carling Avenue, Nepean.[3]

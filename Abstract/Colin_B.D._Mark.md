@@ -1,0 +1,1 @@
+COLIN BD MARK is a British teacher, lexicographer and writer on the linguistics of Scottish Gaelic. He is the author of three books, a number of articles as well as short stories published in the Gaelic language quarterly _Gairm_.[1]

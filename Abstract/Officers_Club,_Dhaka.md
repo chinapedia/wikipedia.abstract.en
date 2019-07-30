@@ -1,0 +1,1 @@
+OFFICERS CLUB, DHAKA is a government officers club in Dhaka, Bangladesh.[1] M Ibrahim Hossain Khan who is the additional Secretary of Public Administration Ministry was elected as General Secretary of the Club in 2016 with the term ending in 2017.[2] The club is described as being "exclusive".[3]

@@ -1,0 +1,1 @@
+_TOKYO BAY_ is a novel by Anthony Grey. It portrays the historic events that follow when one US Navy officer decides to disobey orders and impulsively sets out to climb the great Mt. Fuji. His actions could onset a great war between two great nations. One nation, technically advanced. The other nation, the most bravest men regardless of their shortcomings during the 19th century.

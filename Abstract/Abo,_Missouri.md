@@ -1,0 +1,1 @@
+ABO is an unincorporated community in eastern Laclede County, in the Ozarks of south central Missouri.[1] The community is located on the east bank of the Osage Fork Gasconade River, approximately ten miles east of Lebanon.[2][3]

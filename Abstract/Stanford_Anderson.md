@@ -1,0 +1,1 @@
+STANFORD ANDERSON (1934-January 5, 2016) was an American architectural historian and professor. He taught architectural history, theory and urban form at the Massachusetts Institute of Technology's Department of Architecture from 1963 until 1991, and again from 2005 until the end of 2014 upon retirement. As an author, he has been collected by libraries.[1][2]

@@ -1,0 +1,1 @@
+OLIVIER SOUTET (born 1 November 1951 in Paris) is a French linguist. A specialist of historical grammar of the French language, he was a professor at the université Paris-Sorbonne and dean of the Faculty of Letters of the Institut catholique de Paris.

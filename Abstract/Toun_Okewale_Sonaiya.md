@@ -1,0 +1,1 @@
+TOUN OKEWALE SONAIYA is a Nigerian radio broadcaster. In 2015, she launched WFM 91.7, the first radio station for women in Nigeria.[1] Sonaiya is also the Chief Executive Officer (CEO) of WFM 91.7.[2]

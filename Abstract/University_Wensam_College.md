@@ -1,0 +1,1 @@
+UNIVERSITY WENSAM COLLEGE is a higher secondary school located in Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan.[1] Previously called GOVERNMENT COMPREHENSIVE HIGH SCHOOL DERA ISMAIL KHAN, it was renamed when it was taken over by Gomal University in 1979.[2] It produces best results in male education in Board of Intermediate and Secondary Education Dera Ismail Khan.

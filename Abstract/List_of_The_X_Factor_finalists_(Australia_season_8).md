@@ -1,0 +1,1 @@
+The eighth season of _The X Factor Australia_ premiered on the Seven Network on 3 October 2016. The judging panel consisted of Adam Lambert, Iggy Azalea, Guy Sebastian and Underdog Judge Mel B. Lambert mentored the 16-21s, Sebastian mentored the Over 22s, Azalea mentored the Groups and Mel B mentored a new category called the Underdogs.

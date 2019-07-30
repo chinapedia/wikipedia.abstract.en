@@ -1,0 +1,1 @@
+This LIST OF LONGEST TUNNELS ranks tunnels that are at least long. Only continuous tunnels are included. Pipelines, even those that are buried, are excluded. The longest tunnels have been constructed for water distribution, followed by tunnels for railways.

@@ -1,0 +1,1 @@
+Amelia_Robles.jpg AMELIO ROBLES ÁVILA (3 November 1889 – 9 December 1984) was a colonel during the Mexican Revolution. Assigned female at birth with the name AMELIA ROBLES ÁVILA, Robles fought in the Mexican Revolution, rose to the rank of colonel, and lived openly as a man from age 24 until his death at age 95.

@@ -1,0 +1,1 @@
+The 2016 RED ROCK PRO OPEN was a professional tennis tournament played on outdoor hard courts. It was the 8th edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $50,000 in prize money. It took place in Las Vegas, United States, on 26 September–2 October 2016.

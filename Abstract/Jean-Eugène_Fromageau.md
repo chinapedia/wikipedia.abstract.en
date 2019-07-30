@@ -1,0 +1,1 @@
+JEAN-EUGÈNE FROMAGEAU (30 March 1822 - 16 October 1897) was a French architect active in French Algeria. He served as the ecclesiastical architect of the Roman Catholic Archdiocese of Algiers from 1855 to 1870. He designed several church buildings, including Notre Dame d'Afrique.

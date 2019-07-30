@@ -1,0 +1,1 @@
+Katharina_Prato.jpg

@@ -1,0 +1,1 @@
+_HET LAND VAN_ (literally "the land of") was the second album by Dutch rappers Lange Frans & Baas B. It was released on 2005. The album is named after the first track "Het land van...". Special guest appearance included the D-Men member and Brutus.

@@ -1,0 +1,1 @@
+SZYMON JOSIAH BORZESTOWSKI (18 February 1989 - 2 December 2012), known by his stage name SZYMON, was an Australian musician.[1] His debut album, _Tigersapp_, was released three years after his death[2] and was nominated for a 2015 ARIA Award for Best Adult Contemporary Album[3] and debuted at #21 on the ARIA Albums Chart.[4]

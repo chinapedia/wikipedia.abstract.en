@@ -1,0 +1,1 @@
+KONSTANTINOS "KOSTAS" TOTSIOS (; born August 7, 1978) is a Greek professional basketball player who plays for Iraklis Thessaloniki in the Greek A2. Totsios has spent all of his career, but two seasons, in the Greek A2, becoming the league's all-time leading scorer, while he was also the first player to reach the 400 games milestone in the league.

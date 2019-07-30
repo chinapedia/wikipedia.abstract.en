@@ -1,0 +1,1 @@
+This is a list of women's football clubs in Nigeria. Nigeria Women Premier League is the highest division for female football in Nigeria.[1] Nigeria Women Pro-league and Women Amateur Football Association (WAFU) leagues are on the second and third tier on the pyramid respectively.[2] This list is valid for the 2016 football season.

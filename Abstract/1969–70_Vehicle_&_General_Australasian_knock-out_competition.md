@@ -1,0 +1,1 @@
+The 1969–70 VEHICLE & GENERAL AUSTRALASIAN KNOCK-OUT COMPETITION was the 1st season of official List A domestic cricket in Australia. Seven teams representing six states in Australia and New Zealand took part in the competition. The competition began on 22 November 1969 when Victoria took on Tasmania at the Melbourne Cricket Ground.

@@ -1,0 +1,1 @@
+LEROY HAYNES (1914–1986) was an expat American restaurateur and actor who resided in Paris, France. As an actor, he appeared in _The Butterfly Affair_, _Bons Baisers de Hong Kong_, and _Ace High_. His restaurant, Chez Haynes was a well known and iconic restaurant which would be visited by well known actors and entertainers.

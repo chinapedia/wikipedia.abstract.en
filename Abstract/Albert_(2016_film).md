@@ -1,0 +1,1 @@
+_ALBERT_ is a 2016 American CGI Christmas-themed musical comedy TV movie produced by Nickelodeon and distributed by Paramount Television. It premiered on December 9, 2016,[1] and is Nickelodeon's first original animated TV movie.

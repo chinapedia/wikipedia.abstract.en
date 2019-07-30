@@ -1,0 +1,1 @@
+CHÂTEAU DE MIGLOS, also known as CHÂTEAU D'ARQUIZAT, is a ruined castle in the commune of Miglos in Ariège, Occitanie, France. The castle overlooks the Vicdessos Valley and was a defensive structure for the County of Foix in the 13th and 14th centuries. It is a listed national historic monument of France.[1]

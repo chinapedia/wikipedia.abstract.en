@@ -1,0 +1,1 @@
+thumb KHANOM BABIN (, ), also spelled as KANOM BABIN,[1] is a popular Thai dessert that comes from Ayutthaya. It is made from young coconut, rice flour, coconut milk, sugar and egg.[2] Nowadays, Khanom Babin is not well-known among the younger generations because it is rarely found along local street or market.

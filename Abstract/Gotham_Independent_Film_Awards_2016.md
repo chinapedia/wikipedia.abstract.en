@@ -1,0 +1,1 @@
+The 26TH ANNUAL GOTHAM INDEPENDENT FILM AWARDS, presented by the Independent Filmmaker Project, were held on November 28, 2016.[1][2] The nominees were announced on October 20, 2016.[3] Actors Ethan Hawke and Amy Adams, director Oliver Stone and producer Arnon Milchan received tribute awards.[4][5][6] The ceremony was hosted by Keegan-Michael Key.[7]

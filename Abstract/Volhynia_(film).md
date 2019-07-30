@@ -1,0 +1,1 @@
+VOLHYNIA (Polish: Wołyń) is a 2016 Polish drama film directed by Wojciech Smarzowski. The film is set in the 1939-1943 time frame and its central theme is Ukrainian anti-Polish hatred culminating in massacres of Poles in Volhynia. The screenplay was based on the collection of short stories titled _Hate_ (Polish: _Nienawiść_) by .[1]

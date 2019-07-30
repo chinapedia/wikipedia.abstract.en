@@ -1,0 +1,1 @@
+MARÍA COLLADO ROMERO (19 March 1885 – c. 1968) was a Cuban journalist, poet,[1] and feminist. She was the first female news reporter and parliamentary reporter in Cuba. She was the creator and president of the Democratic Suffragist Party of Cuba.[2]

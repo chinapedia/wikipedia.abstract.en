@@ -1,0 +1,1 @@
+The 2016–17 SLOVAK BASKETBALL LEAGUE SEASON, for sponsorships reasons the EUROVIA SBL, was the 25th season of this competition. Inter Bratislava won its fourth SBL championship after defeating Rieker Com Therm Komárno in the finals of the play-offs.[1]

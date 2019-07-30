@@ -1,0 +1,1 @@
+"USED TO LOVE" is the first solo single by American R&B singer Keke Wyatt released as the lead single taken from her debut album Soul Sista (2001). The song was released through MCA Records and on August 28, 2001. The song was written and produced by Steve 'Stone' Huff.

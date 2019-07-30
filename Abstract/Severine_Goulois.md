@@ -1,0 +1,1 @@
+'''Severine Goulois ''' (born 18 April 1982) is a French footballer who played as a defender for the France women's national football team. She was part of the team at the 2003 FIFA Women's World Cup.[1]

@@ -1,0 +1,1 @@
+'''Mamy Ndiaye ''' (born 26 November 1986 in Pikine) is a Senegalese women's international footballer who plays as a forward. She is a member of the Senegal women's national football team, and has played for IFK Kalmar in Sweden, Zaragoza CFF in Spain and Inter Arras FCF in France.

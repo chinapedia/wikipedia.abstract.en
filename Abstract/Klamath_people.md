@@ -1,0 +1,1 @@
+Edward_S._Curtis_Collection_People_086.jpg, 1924]] klamath_man.jpg Klamath_Indians_in_dugout_canoes.jpg The KLAMATH PEOPLE are a Native American tribe of the Plateau culture area in Southern Oregon and Northern California. Today Klamath people are enrolled in the federally recognized tribes:

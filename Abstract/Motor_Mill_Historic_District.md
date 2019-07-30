@@ -1,0 +1,1 @@
+The MOTOR MILL HISTORIC DISTRICT is a nationally recognized historic district located southeast of Elkader, Iowa, United States. It was listed on the National Register of Historic Places in 2014. In 1977 it had been listed as a contributing property in the Motor Townsite.[1]

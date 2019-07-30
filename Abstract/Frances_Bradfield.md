@@ -1,0 +1,1 @@
+FRANCES BEATRICE BRADFIELD (9 October 1895– 26 February 1967) was an aeronautical engineer at the Royal Aircraft Establishment (RAE). She worked at RAE Farnborough, where she headed the Wind Tunnels Section.[1][2] Here she mentored many of the younger male engineers who joined the RAE.[3][4][5]

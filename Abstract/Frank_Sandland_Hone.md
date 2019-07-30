@@ -1,0 +1,1 @@
+DR. FRANK SANDLAND HONE (1871 – 9 May 1951) was a medical doctor in South Australia, a specialist in the treatment of cancers and a lecturer at the University of Adelaide. He was the father of two prominent medical doctors and a leading educator, who all excelled at sports.

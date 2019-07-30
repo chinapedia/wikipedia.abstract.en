@@ -1,0 +1,1 @@
+The PRIX FRANCE TÉLÉVISIONS are annual literary awards in France. Since 1995, the national television broadcaster France Télévisions has awarded two prizes, for a novel and an essay. The judging panel consists of 15 television viewers chosen from across France, on the basis of their cover letters.

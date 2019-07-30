@@ -1,0 +1,1 @@
+JOHANNES RAU (; 16 January 193127 January 2006) was a German politician (SPD). He was President of Germany from 1 July 1999 until 30 June 2004 and Minister President of North Rhine-Westphalia from 20 September 1978 to 9 June 1998. In the latter role, he also served as President of the Bundesrat in 1982/83 and in 1994/1995.

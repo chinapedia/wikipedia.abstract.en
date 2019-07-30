@@ -1,0 +1,1 @@
+RUMANIA MONTEVIDEO is a Japanese pop-band under Giza Studio label active in years 1998–2002. The band name, "Rumania Montevideo" comes from the combination on the Latin spelling of Romania and Montevideo, the capital of Uruguay. On 6 March 2019, was announced resume of their music activities through social network.

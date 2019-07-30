@@ -1,0 +1,1 @@
+INOSHI PRIYADHARSHANI (born 23 March 1987) is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against Australia on 18 September 2016.[2]

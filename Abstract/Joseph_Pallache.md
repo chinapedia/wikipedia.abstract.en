@@ -1,0 +1,1 @@
+JOSEPH PALLACHE (c. 1580 – 1638/1648/1657[1][2][3][4]), was a Jewish-Moroccan-born merchant and diplomat of the Pallache family, who, as envoy, helps his brother conclude a treaty with the Dutch Republic in 1608.[5]

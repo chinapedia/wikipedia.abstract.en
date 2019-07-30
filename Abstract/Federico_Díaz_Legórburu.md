@@ -1,0 +1,1 @@
+FEDERICO DÍAZ LEGÓRBURU (12 September 1915 – 21 March 2002) served as the first Chief Scout of the Asociación de Scouts de Venezuela, Chairman of the Interamerican Council of Scouting, as well as a member of the World Scout Committee[1] from 1957 to 1963.

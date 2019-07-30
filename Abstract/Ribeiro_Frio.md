@@ -1,0 +1,1 @@
+The village of RIBEIRO FRIO (Cold Stream in English) is situated in the interior of the island of Madeira. It belongs to the parish of São Roque do Faial, the municipality of Santana, and is located around 15 kilometers from Funchal.

@@ -1,0 +1,1 @@
+CARL H. JUNE (born 1953) is an American immunologist and oncologist. He is currently the Richard W. Vague Professor in Immunotherapy in the Department of Pathology and Laboratory Medicine at the Perelman School of Medicine of the University of Pennsylvania.[1] He is most well known for his research into T cell therapies for the treatment of cancer.

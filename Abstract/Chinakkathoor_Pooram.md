@@ -1,0 +1,1 @@
+The CHINAKKATHOOR POORAM is an elephant pageant which is held annually at the sacred Sree Chinakkathoor Bhagavathy Temple, at Palappuram in Palakkad district in north Kerala. A huge procession of 27 festooned tuskers is the highlight of the festival. The festival is celebrated in Kumbham month of Malayalam calendar.

@@ -1,0 +1,1 @@
+_TIMELESS_ is a studio album released on April 7, 1998 by the Washington, D.C.-based go-go musician Chuck Brown with The Second Chapter Band.[1] The album was dedicated to Eva Cassidy, who died two years earlier after the sudden onset of cancer.[2]

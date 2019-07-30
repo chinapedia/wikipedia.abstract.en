@@ -1,0 +1,1 @@
+SYED MOHAMMAD ZIAUL HAQUE is a Bangladesh Army officer and a fugitive. He was one of the main plotter of the 2011 Bangladesh coup d'état attempt.[1] He is presently a top military commander of the Al-Qaeda linked Ansarullah Bangla Team who have carried out a number of terror attacks in Bangladesh.[2][3]

@@ -1,0 +1,1 @@
+RUSSIA announced its participation in the EUROVISION SONG CONTEST 2017, in Kiev, Ukraine. The Russian broadcaster Channel One Russia organised their entrant internally. Russia was planned to compete in the first half of the second semifinal on 11 May 2017, until the announcement of their withdrawal on 13 April 2017.

@@ -1,0 +1,1 @@
+ÉMILIENNE DEMOUGEOT (1910, Bourges – 19 June 1994, Montpellier) was a 20th-century French historian, a specialist of Late Antiquity and Early Christianity. She was one of the first women professors of history at a French university, and the first woman professor at the Faculty of Letters at the University of Montpellier.[1]

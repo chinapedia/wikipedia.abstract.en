@@ -1,0 +1,1 @@
+_EUCALYPTUS GRISEA_, commonly known as GREY GUM,[1] is a species of tree that is endemic in central Queensland. It has smooth greyish bark, lance-shaped to egg-shaped adult leaves, flower buds in groups of seven, white flower and usually cup-shaped fruit.

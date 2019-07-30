@@ -1,0 +1,1 @@
+OEI LIANA (born 30 November 1952) is an American former swimmer of Chinese Indonesian background who represented the Republic of China (Taiwan) in international competition. She competed in six events at the 1968 Summer Olympics.[1][2]

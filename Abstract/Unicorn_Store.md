@@ -1,0 +1,1 @@
+_UNICORN STORE_ is a 2017 American fantasy comedy film directed and produced by Brie Larson (in her feature directorial debut), from a screenplay by Samantha McIntyre. It stars Larson, Samuel L. Jackson, Joan Cusack, Bradley Whitford, Karan Soni, Mamoudou Athie, Mary Holland, and Hamish Linklater.

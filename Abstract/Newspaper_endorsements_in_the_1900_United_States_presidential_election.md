@@ -1,0 +1,1 @@
+Newspapers made endorsements of candidates in the 1900 United States presidential election. Incumbent President William McKinley was the Republican candidate, and William Jennings Bryan the Democratic candidate, a rematch of the 1896 election.

@@ -1,0 +1,1 @@
+The NEW CENTER COMMERCIAL HISTORIC DISTRICT is a commercial historic district located on Woodward Avenue between Baltimore Street and Grand Boulevard (within the New Center) in Detroit, Michigan. It was listed on the National Register of Historic Places in 2016.[1]

@@ -1,0 +1,1 @@
+Topographic_map_of_Saint_Helena-en.svg SAINT HELENA is an island in the South Atlantic Ocean, about midway between South America and Africa. St Helena has a land area of 122 square kilometres and is part of the territory of Saint Helena, Ascension and Tristan da Cunha which includes Ascension Island and the island group of Tristan da Cunha.

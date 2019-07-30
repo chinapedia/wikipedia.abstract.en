@@ -1,0 +1,1 @@
+The AMERICAN PRIZE FOR DESIGN was established in 2016 and is awarded annually by the Chicago Athenaeum Museum of Architecture and Design in collaboration with the European Centre for Architecture Art Design and Urban Studies within the context of the Good Design Awards®.

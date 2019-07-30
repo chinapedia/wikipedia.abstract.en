@@ -1,0 +1,1 @@
+MSHANETS () is a village in the Zboriv Raion, Ternopil Oblast of Western Ukraine. From 1975 to 1990 the village was called PEREMOZHNE. The area of the village is 1,625 km² and it has a population of 728 people.[1] The local government is the Mshanetska village council,[2] and includes the villages Ditkivtsi, Homivka and farmstead Manyuky.

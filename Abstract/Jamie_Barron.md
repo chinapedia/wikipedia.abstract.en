@@ -1,0 +1,1 @@
+JAMIE BARRON (21 October 1993) is an Irish hurler who plays for Waterford Senior Championship club The Nire-Fourmilewater and at inter-county level with the Waterford senior hurling team. He usually lines out as a midfielder.

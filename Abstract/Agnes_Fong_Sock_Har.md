@@ -1,0 +1,1 @@
+AGNES FONG SOCK HAR (born 1946) is a Singaporean former military officer. She was the first woman to hold the appointment of a commanding officer in the Singapore Armed Forces (SAF) when she took command of the first Air Supply Base in 1979.[1]

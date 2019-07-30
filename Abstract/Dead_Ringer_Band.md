@@ -1,0 +1,1 @@
+DEAD RINGER BAND is an Australian Country music band.[1] Their album _Home Fires_ won the 1996 ARIA Award for Best Country Album[2] and the next year _Living in the Circle_ was nominated for the same award.

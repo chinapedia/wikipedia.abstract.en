@@ -1,0 +1,1 @@
+JELL-O is a registered trademark of Kraft Foods for varieties of gelatin desserts (fruit-flavored gels), puddings, and no-bake cream pies. The original Jell-O gelatin dessert (genericized as JELLO) is the signature of the brand.

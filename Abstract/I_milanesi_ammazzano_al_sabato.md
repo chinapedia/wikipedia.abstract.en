@@ -1,0 +1,1 @@
+_I MILANESI AMMAZZANO AL SABATO_ is a 1969 crime novel by the Italian writer Giorgio Scerbanenco. It revolves the disappearance of the beautiful daughter of a truck driver, which leads the investigator to the slums and brothels of Milan. It was the final installment in Scerbanenco's Milan Quartet about the medical doctor and investigator Duca Lamberti.

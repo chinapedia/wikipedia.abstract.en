@@ -1,0 +1,1 @@
+ST. JEROME CATHEDRAL,[1] () also known as ICA CATHEDRAL, is a Catholic church in the city of Ica, Peru.[2][3] It is located on Bolivar street, and forms part of the monumental group of the Company of Jesus.

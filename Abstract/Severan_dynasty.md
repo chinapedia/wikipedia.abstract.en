@@ -1,0 +1,1 @@
+The SEVERAN DYNASTY was a Roman imperial dynasty, which ruled the Roman Empire between 193 and 235. The dynasty was founded by the general Septimius Severus, who rose to power as the victor of the Civil War of 193–197.

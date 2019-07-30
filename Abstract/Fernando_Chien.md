@@ -1,0 +1,1 @@
+FERNANDO CHIEN (born October 6, 1974), sometimes credited as FUNAN CHIEN, is a Taiwanese actor and stunt performer. He is known for his roles in the film _Fast Five_ and TNT's action show _The Last Ship_.

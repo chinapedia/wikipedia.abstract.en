@@ -1,0 +1,1 @@
+CLACKAMAS EDUCATION SERVICE DISTRICT is an education service district that coordinates school events and activities throughout the school districts in Clackamas County, Oregon. Clackamas ESD serves the educational needs of students and families in Clackamas County – a geographic area of 1,879 square miles.

@@ -1,0 +1,1 @@
+SANDY HOOK (also spelled SANDYHOOK) is an unincorporated community in Moniteau County, in the U.S. state of Missouri.[1] The community is on the southwest bank of the Missouri River floodplain. It lies on Missouri Route 179 between Jamestown to the northwest and Marion to the southeast in Cole County.[2]

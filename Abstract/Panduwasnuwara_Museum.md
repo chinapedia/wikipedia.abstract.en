@@ -1,0 +1,1 @@
+PANDUWASNUWARA ARCHAEOLOGICAL MUSEUM is an archaeological Museum in Panduwasnuwara, Sri Lanka. It is located at Kotampitiya junction on Kurunegala-Chilaw road, near to the ancient shrine Panduwasnuwara Raja Maha Vihara. The museum serve as the regional museum for North Western Province of the country[1] and is maintained by Archaeological department of Sri Lanka.

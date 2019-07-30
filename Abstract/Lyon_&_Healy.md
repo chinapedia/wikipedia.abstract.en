@@ -1,0 +1,1 @@
+Harp,_Metropolitan_Museum_of_Art.jpg

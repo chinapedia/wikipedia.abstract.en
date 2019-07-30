@@ -1,0 +1,1 @@
+DOROTHY VIRGINIA NIGHTINGALE (February 21, 1902 - June 12, 2000) was an American organic chemist who is known for research on chemiluminescence and the Friedel-Crafts reaction. Nightingale directed the research of 24 PhD students and 26 Masters students and authored 56 scientific publications.

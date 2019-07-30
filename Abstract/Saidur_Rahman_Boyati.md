@@ -1,0 +1,1 @@
+SAIDUR RAHMAN BOYATI (born 1931) is a Bangladesh folk singer of Baul genre.[1] He was awarded Shilpakala Padak in 2013 and Bangladesh National Film Award for Best Male Playback Singer in 1995.[2][3][4][5][6][7]

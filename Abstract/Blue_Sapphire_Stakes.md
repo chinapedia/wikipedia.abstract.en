@@ -1,0 +1,1 @@
+The BLUE SAPPHIRE STAKES is a Melbourne Racing Club Group 3 Thoroughbred horse race held over 1200 metres at set weights for three-year-old horses at Caulfield Racecourse, Melbourne, Australia. Total prize money for the race is A$350,000.

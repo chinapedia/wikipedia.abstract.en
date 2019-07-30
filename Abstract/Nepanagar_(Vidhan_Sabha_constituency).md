@@ -1,0 +1,1 @@
+NEPANAGAR (VIDHAN SABHA CONSTITUENCY) is one of the 230 constituencies in the Madhya Pradesh Legislative Assembly of Madhya Pradesh a central state of India. Nepanagar is also part of Khandwa Lok Sabha constituency.[1] It is a reserved seat for the Scheduled cast (SC).[2]

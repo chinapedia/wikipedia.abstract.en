@@ -1,0 +1,1 @@
+_THE SUMMER SOLSTICE_ () is a 2007 Chinese film written, produced and directed by 1st time director Li Ruijun. Li delivers an unsentimental and forceful portrait of a 21st-century Chinese family and the pursuit of their dreams in a changing world.[1]

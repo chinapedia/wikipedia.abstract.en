@@ -1,0 +1,1 @@
+MILES DEWEY DAVIS III (May 26, 1926September 28, 1991) was an American jazz trumpeter, bandleader, and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th century music. Davis adopted a variety of musical directions in a five-decade career that kept him at the forefront of many major stylistic developments in jazz.[1]

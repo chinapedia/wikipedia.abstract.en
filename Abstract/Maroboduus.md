@@ -1,0 +1,1 @@
+MAROBODUUS (born _circa_ 30 BC, died in AD 37), was a Romanized king of the Germanic Suebi, who under pressure from the wars of the Cherusci and Romans, and losing the Suevic Semnones and Langobardi from his kingdom, moved with the Marcomanni into the forests of Bohemia, near to the Quadi.

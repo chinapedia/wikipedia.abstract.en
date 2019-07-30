@@ -1,0 +1,1 @@
+The MONTE RAILWAY () (commonly known as the Monte train or Monte Lift) was a rack railway connecting Pombal, in Funchal, to Terreiro da Luta in Monte (Madeira, Portugal), a distance of 3,911 metres, from 1893 to April 1943.[1]

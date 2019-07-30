@@ -1,0 +1,1 @@
+Admiral ROBERT MAN (died 1783) was a Royal Navy officer. He commanded the third-rate HMS _Lancaster_ at the Siege of Louisbourg in June 1758 during the French and Indian War. He went on to become commander-in-chief of the Leeward Islands Station, then Commander-in-Chief, Mediterranean Fleet and finally First Naval Lord.

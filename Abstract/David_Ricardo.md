@@ -1,0 +1,1 @@
+Torrens | influenced = Ricardian Socialists{{·}} George{{·}} John Stuart Mill{{·}} Sraffa{{·}}Wicksell{{·}}Barro{{·}} John Ramsay McCulloch{{·}}Karl Marx{{·}} Franz Oppenheimer | contributions = Ricardian equivalence, labour theory of value, comparative advantage, law of diminishing returns, Ricardian socialism, Economic rent[1]}} }}

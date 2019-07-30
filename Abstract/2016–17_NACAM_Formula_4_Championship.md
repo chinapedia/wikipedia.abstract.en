@@ -1,0 +1,1 @@
+The 2016–17 NACAM FORMULA 4 CHAMPIONSHIP SEASON was the second season of the NACAM Formula 4 Championship. It began on 24 September 2016 at the Circuit of the Americas in Austin, Texas and ended on 18 June 2017 at the Autódromo Hermanos Rodríguez in Mexico City after eight triple-header rounds.[1]

@@ -1,0 +1,1 @@
+While alliances dating back to the Mozambican War of Independence remain relevant, MOZAMBIQUE'S FOREIGN POLICY has become increasingly pragmatic. The twin pillars of the policy are maintenance of good relations with its neighbors and maintenance and expansion of ties to development partners.

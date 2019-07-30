@@ -1,0 +1,1 @@
+The 2016-17 ARGENTINE PRIMERA B METROPOLITANA is the 118th season of the third tier of football in Argentina. The season began on 26 August and will end in May 2017. Nineteen teams will compete in the league.

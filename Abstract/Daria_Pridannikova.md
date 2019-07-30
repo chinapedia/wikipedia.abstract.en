@@ -1,0 +1,1 @@
+DARIA DMITRIEVNA PRIDANNIKOVA (, born February 2, 2002 in Ekaterinburg, Sverdlovsk Oblast, Russia) is a Russian individual rhythmic gymnast. She is the 2016 Junior Grand Prix Final All-around champion. At national level, she is the 2015 Russian Junior all-around bronze medalist.

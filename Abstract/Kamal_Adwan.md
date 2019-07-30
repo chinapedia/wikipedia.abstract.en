@@ -1,0 +1,1 @@
+KAMAL ABDEL HAFIZ ADWAN (1935 - April 10, 1973),[1] also spelt as KAMAL UDWAN, was a Palestinian politician and one of the top leaders in the Palestinian Liberation Organization. He was killed by Mossad, the Israeli intelligence service, in April 1973.[2]

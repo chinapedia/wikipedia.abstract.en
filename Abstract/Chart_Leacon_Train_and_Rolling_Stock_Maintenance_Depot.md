@@ -1,0 +1,1 @@
+CHART LEACON TRACTION AND ROLLING STOCK MAINTENANCE DEPOT was at one time a railway depot located in Ashford, Kent, England. The depot is situated to the west of Ashford International station on the south side of the line to Pluckley railway station.[1]

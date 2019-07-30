@@ -1,0 +1,1 @@
+MARGRETHE HALD (1897–1982) was a Danish textile historian and a curator at the National Museum of Denmark. A major contributor to international textile research, she earned the title D.Phil (Doctor of Philosophy) in 1950 thanks to her thesis _Olddanske tekstiler_ (Old Danish Textiles).[1][2]

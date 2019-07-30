@@ -1,0 +1,1 @@
+COOLADDI is a ghost town and locality in the Shire of Murweh, Queensland, Australia.[1][2] The town is west of the city of Brisbane. In 2015, the population was 3 (down from 4 in 2013), all of whom reside at the general store.[3][4]

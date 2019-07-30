@@ -1,0 +1,1 @@
+NESTA GERVAISE ASHWORTH née Maude (9 October 1893 – 13 July 1982), was an early Scouting notable, instrumental in the setting up of Lone Guides, members of the Guides who are in isolated areas or otherwise do not participate in a regular Scouting unit or organisation.[1] 1st Lone Company was established in 1912 by Agnes Baden-Powell, with Nesta Maude serving as Captain.

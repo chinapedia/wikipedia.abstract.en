@@ -1,0 +1,1 @@
+"THE CAIRN ON THE HEADLAND" is a short story by American writer Robert E. Howard, with elements of fantasy and horror. As often in Howard stories, there is a link to the Cthulhu Mythos, in this case mixed also with elements of both Norse Mythology and Catholic Christianity.

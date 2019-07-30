@@ -1,0 +1,1 @@
+RYAN EUGENE GATTI (born June 1974)[1] is an attorney in his native Bossier City, Louisiana, who has been a Republican member of the Louisiana Senate since January 11, 2016.[2] Gatti serves as Vice-Chairman of the Insurance Committee and also serves on the Natural Resources Committee, Judiciary A Committee and Military Affairs.[3]

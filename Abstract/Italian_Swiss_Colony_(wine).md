@@ -1,0 +1,1 @@
+Wine_label,_Italian_Swiss_Colony,_Tipo_California_Red.jpg'' bottles in imitation of Chianti[1]]] ITALIAN SWISS COLONY was a nineteenth- and twentieth-century American wine company and brand. Based in Asti, California, Italian Swiss Colony was at one time the leading wine producer in California.[2]

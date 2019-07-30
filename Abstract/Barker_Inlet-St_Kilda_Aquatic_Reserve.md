@@ -1,0 +1,1 @@
+__NOTOC__ BARKER INLET-ST KILDA AQUATIC RESERVE is a marine protected area in the Australian state of South Australia located in waters adjoining the east coast of Gulf St Vincent in Barker Inlet about north of the state capital of Adelaide.[1][2]

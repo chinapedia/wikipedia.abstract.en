@@ -1,0 +1,1 @@
+The following list includes all arenas in use by a Suncorp Super Netball team as of the 2019 Suncorp Super Netball season. Information included in this list are arena locations, seating capacities, years opened and time in use.

@@ -1,0 +1,1 @@
+BRYCE TREGGS (born April 30, 1994) is an American football wide receiver who is currently a free agent. He played college football at California, and was signed by the San Francisco 49ers as an undrafted free agent after the 2016 NFL Draft.

@@ -1,0 +1,1 @@
+_ARCTIC JUSTICE: THUNDER SQUAD_ (also known as _ARCTIC DOGS_) is an upcoming British-Canadian computer-animated comedy film co-written and directed by Aaron Woodley and co-directed by Dimos Vrysellas. The film stars the voices of Jeremy Renner, Heidi Klum, James Franco, John Cleese, Omar Sy, Michael Madsen, Laurie Holden, Anjelica Huston, and Alec Baldwin.

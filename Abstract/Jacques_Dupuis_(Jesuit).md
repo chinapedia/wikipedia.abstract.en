@@ -1,0 +1,1 @@
+JACQUES DUPUIS (5 December 1923 – 28 December 2004) was a Belgian Jesuit priest and theologian. He spent several decades in India and beginning in 1984 taught at the Pontifical Gregorian University in Rome.

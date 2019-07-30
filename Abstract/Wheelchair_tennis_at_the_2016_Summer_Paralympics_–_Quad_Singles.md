@@ -1,0 +1,1 @@
+The quad singles wheelchair tennis tournament at the 2016 Paralympic Games in Rio de Janeiro was held at the Olympic Tennis Centre in the Barra Olympic Park in Barra da Tijuca in the west zone of Rio de Janeiro, Brazil from 9–13 September 2016.

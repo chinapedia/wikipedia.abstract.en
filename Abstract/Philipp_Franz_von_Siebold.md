@@ -1,0 +1,1 @@
+PHILIPP FRANZ BALTHASAR VON SIEBOLD (17 February 1796 – 18 October 1866) was a German physician, botanist, and traveler. He achieved prominence by his studies of Japanese flora and fauna and the introduction of Western medicine in Japan. He was the father of the first female Japanese doctor, Kusumoto Ine.

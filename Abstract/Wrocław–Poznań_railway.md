@@ -1,0 +1,1 @@
+The WROCŁAW–POZNAŃ RAILWAY is a Polish 213-kilometre long railway line, that connects southern Poland and Wrocław with Leszno, Poznań and further to Szczecin. The railway is part of European TEN-T route E59 from Scandinavia to Vienna, Budapest and Prague.

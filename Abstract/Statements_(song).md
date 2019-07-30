@@ -1,0 +1,1 @@
+"STATEMENTS" is a song by Swedish pop singer and music producer Loreen. The song was released as a digital download on 26 February 2017 through Warner Music Sweden.[1] The song took part in Melodifestivalen 2017. The song was written by Loreen Talhaoui and the producers Anton Hård af Segerstad, Joy Deb and Linnea Deb under the alias The Family.

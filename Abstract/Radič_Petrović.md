@@ -1,0 +1,1 @@
+RADIČ PETROVIĆ (; 1738–1816), known as CAPTAIN RADIČ (_kapetan Radič_), was a Serbian Revolutionary commander (_vojvoda_), earlier a Military Frontier guard and volunteer in the Austro-Turkish War (1787–91).

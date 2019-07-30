@@ -1,0 +1,1 @@
+The FOX FILM CORPORATION was an American company that produced motion pictures, formed by William Fox on February 1, 1915. It was the corporate successor to his earlier Greater New York Film Rental Company and Box Office Attractions Film Company.

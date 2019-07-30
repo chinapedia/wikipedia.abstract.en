@@ -1,0 +1,1 @@
+A SEARCH ENGINE is an information retrieval system designed to help find information stored on a computer system. The search results are usually presented in a list and are commonly called _hits_. Search engines help to minimize the time required to find information and the amount of information which must be consulted, akin to other techniques for managing information overload.

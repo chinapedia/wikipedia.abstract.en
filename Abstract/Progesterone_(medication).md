@@ -1,0 +1,1 @@
+{{Drugbox | Verifiedfields = verified | Watchedfields = verified | drug_name = Progesterone | verifiedrevid = 444066687 | IUPAC_name = (8_S_,9_S_,10_R_,13_S_,14_S_,17_S_)-17-acetyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[_a_]phenanthren-3-one | image = Progesterone.svg | width = 225px | image2 = Progesterone-3D-balls.png | width2 = 225px

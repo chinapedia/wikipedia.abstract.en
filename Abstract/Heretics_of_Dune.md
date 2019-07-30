@@ -1,0 +1,1 @@
+_HERETICS OF DUNE_ is a 1984 science fiction novel by Frank Herbert, the fifth in his _Dune_ series of six novels. It was ranked as the #13 hardcover fiction best seller of 1984 by _The New York Times_.[1]

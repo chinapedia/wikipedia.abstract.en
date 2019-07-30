@@ -1,0 +1,1 @@
+CHENNAMKARY ST.JOSEPH'S SYRO-MALABAR CATHOLIC CHURCH is a Catholic church in Kerala. It belongs to the Syro-Malabar Church under the archeparchy of Changanacherry. It is the first church in Asia dedicated to Saint Joseph Unofficial_Flag_of_Syro_Malabar_Church.jpg

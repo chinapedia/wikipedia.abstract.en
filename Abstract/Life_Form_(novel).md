@@ -1,0 +1,1 @@
+_LIFE FORM_, () is the nineteenth novel by Belgian writer Amélie Nothomb, published in French in 2010 by Albin Michel and translated into English by Alison Anderson. It was nominated at the International Dublin Literary Award.[1]

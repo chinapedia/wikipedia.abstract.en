@@ -1,0 +1,1 @@
+AWARA BROTH, (BOUILLON D'AWARA in French) and (BOUYON WARA in Guianan Creole), is a typical guianan creole dish, made up of many ingredients that are combinded with the pulp of the fruit of Awara tree, reduced at length beforehand in a pot.

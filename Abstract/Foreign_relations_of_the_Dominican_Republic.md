@@ -1,0 +1,1 @@
+The Dominican Republic has a close relationship with the United States and with the other states of the Inter-American system. It has accredited diplomatic missions in most Western Hemisphere countries and in principal European capitals.

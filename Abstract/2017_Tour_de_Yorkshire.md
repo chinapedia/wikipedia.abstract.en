@@ -1,0 +1,1 @@
+The 2017 TOUR DE YORKSHIRE was a three-day cycling stage race staged in Yorkshire over 28–30 April 2017. It was the third edition of the Tour de Yorkshire, organised by Welcome to Yorkshire and the Amaury Sport Organisation.

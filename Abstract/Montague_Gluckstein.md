@@ -1,0 +1,1 @@
+MONTAGUE GLUCKSTEIN (18 July 1854 – 7 October 1922) was a director of Salmon & Gluckstein tobacco merchants, and one of the founders of J. Lyons and Co., a restaurant chain, food manufacturing, and hotel conglomerate created in 1884 that dominated British mass-catering in the first half of the twentieth century.[1]

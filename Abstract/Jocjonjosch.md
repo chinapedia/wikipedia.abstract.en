@@ -1,0 +1,1 @@
+JOCJONJOSCH is an Anglo-Swiss visual arts collective based in London, Zürich and the Valais canton of Switzerland. The three members of JocJonJosch are Joschi Herczeg (b. 25/12/1975, Switzerland), Jonathan Brantschen (b. 30/09/1981, Switzerland) and Jocelyn Marchington (b. 29/06/1976, England).

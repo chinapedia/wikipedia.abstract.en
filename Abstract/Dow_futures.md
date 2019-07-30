@@ -1,0 +1,1 @@
+DOW FUTURES are financial futures which allow an investor to hedge with or speculate on the future value of various components of the Dow Jones Industrial Average market index. The futures instruments are derived from the Dow Jones Industrial Average as E-mini Dow Futures.

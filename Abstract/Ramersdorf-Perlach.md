@@ -1,0 +1,1 @@
+München_-_Stadtbezirk_16_(Karte)_-_Ramersdorf_-_Perlach.png RAMERSDORF-PERLACH is a borough of Munich. It is located south-east of the city center and is the most populous of Munich's boroughs with a population of about 116,000.[1]

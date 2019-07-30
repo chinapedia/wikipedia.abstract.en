@@ -1,0 +1,1 @@
+Christoph_Friedrich_Stälin_(RB25-16).jpg CHRISTOPH FRIEDRICH VON STÄLIN (4 August 1805, in Calw – 12 August 1873, in Stuttgart) was a German librarian and historian. He was the father of archivist Paul Friedrich von Stälin (1840–1909).

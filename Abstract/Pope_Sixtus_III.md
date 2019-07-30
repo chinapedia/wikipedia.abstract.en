@@ -1,0 +1,1 @@
+POPE SIXTUS III (died 18 August 440) was Pope from 31 July 432 to his death in 440.[1] His ascension to the papacy is associated with a period of increased construction in the city of Rome. His feast day is celebrated by Catholics on March 28th.

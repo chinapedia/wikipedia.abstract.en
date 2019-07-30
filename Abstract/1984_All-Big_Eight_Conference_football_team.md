@@ -1,0 +1,1 @@
+The 1984 ALL-BIG EIGHT CONFERENCE FOOTBALL TEAM consists of American football players chosen by various organizations for All-Big Eight Conference teams for the 1984 NCAA Division I-A football season. The selectors for the 1984 season included the Associated Press (AP).

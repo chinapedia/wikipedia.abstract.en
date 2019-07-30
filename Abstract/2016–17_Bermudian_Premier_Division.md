@@ -1,0 +1,1 @@
+The 2016–17 season of the BERMUDIAN PREMIER DIVISION (also known as the _Cingular Wireless Premier Division_ for sponsorship reasons) is the 54th season of top-tier football in Bermuda. It started on 25 September 2016 and will finish on 19 March 2017. Dandy Town Hornets are the defending champions, having won their 8th top tier title last season.

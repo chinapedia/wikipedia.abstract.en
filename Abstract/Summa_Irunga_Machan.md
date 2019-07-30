@@ -1,0 +1,1 @@
+_SUMMA IRUNGA MACHAN_ (also spelled _CHUMMA IRUNGA MACHAN_) is a 1996 Tamil comedy film directed by S. N. Prasad. The film features Pandiarajan, Pragathi and Divyasri in the lead roles, with Malaysia Vasudevan, Kovai Sarala, Kavitha, Charle and Alex playing supporting roles. The film, produced by Jothi Prasad, had musical score by Deva and was released on 15 March 1996.[1][2]

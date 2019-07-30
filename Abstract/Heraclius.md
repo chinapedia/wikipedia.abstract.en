@@ -1,0 +1,1 @@
+HERACLIUS (, , _Flavios Iraklios_; c. 575 – February 11, 641) was the Emperor of the Byzantine Empire from 610 to 641. His rise to power began in 608, when he and his father, Heraclius the Elder, the exarch of Africa, led a revolt against the unpopular usurper Phocas.

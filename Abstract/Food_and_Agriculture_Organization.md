@@ -1,0 +1,1 @@
+The FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS (FAO; , ) is a specialized agency of the United Nations that leads international efforts to defeat hunger. Serving both developed and developing countries, FAO acts as a neutral forum where all nations meet as equals to negotiate arguments and debate policy.

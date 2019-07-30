@@ -1,0 +1,1 @@
+DICK CLARK'S ROCK, ROLL AND REMEMBER (sometimes shortened to _Rock, Roll and Remember_) was a weekly American rock and roll radio documentary show hosted by Dick Clark featuring oldies music.[1] It was broadcast on United Stations Radio Networks and its predecessors between 1982 and 2004. It is re-run in syndication by United Stations Radio Networks, KZRO, and WRHL.

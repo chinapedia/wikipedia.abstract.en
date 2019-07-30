@@ -1,0 +1,1 @@
+EBENEZAR OLAOLUWA FAGBEMI (born 20 October 1984) is a Nigerian male badminton player.[1][2] He competed at the 2002 and 2010 Commonwealth Games.[3][4] At the All-Africa Games, he has collected two golds, two silvers and three bronzes from 2003-2015.[5]

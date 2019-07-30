@@ -1,0 +1,1 @@
+MARIANA UGALDE CAMPO (born 7 January 1993) is a Mexican badminton player.[1] She competed at the 2010 Summer Youth Olympics.[2] Ugalde won two silver and a bronze medals at the 2014 Central American and Caribbean Games.[3]

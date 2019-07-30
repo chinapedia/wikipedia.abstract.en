@@ -1,0 +1,1 @@
+EVGENY MOISEEV (;) is a Russian mathematician, Academician[1] of the Russian Academy of Sciences, Dean of the Faculty of Computational Mathematics and Cybernetics at Moscow State University (MSU CMC), Head of the Department of Functional Analysis and its Applications at MSU CMC, Professor, Dr.Sc.[2]

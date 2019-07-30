@@ -1,0 +1,1 @@
+_MEETING WITH THE G-MAN_ is a posthumous live album released by Irish blues guitarist Rory Gallagher in 2003. It is a live collection recorded at the Paradiso in Amsterdam on 1993-12-20. _Meeting with the G-Man_ is an expanded version of this 'bootleg' gig that was previously only available in the 2001 box-set _Let's Go to Work_ & features 14 tracks.[1]

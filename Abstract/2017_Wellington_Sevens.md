@@ -1,0 +1,1 @@
+The 2017 WELLINGTON SEVENS was the eighteenth edition of the Wellington Sevens tournament, and the third tournament of the 2016–17 World Rugby Sevens Series. The tournament was played on 28–29 January 2017 at Westpac Stadium in Wellington, New Zealand.

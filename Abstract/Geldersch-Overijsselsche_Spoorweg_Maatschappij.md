@@ -1,0 +1,1 @@
+Station_Haaksbergen.jpg]] Winterswijkgols.JPG The GELDERSCH-OVERIJSSELSCHE LOKAALSPOORWEG-MAATSCHAPPIJ (GOLS) was a railway company that owned and serviced several railways in the Dutch provinces of Gelderland and Overijssel. The company was founded by Jan Willink, a textile producer from Winterswijk, who had created the Borken - Winterswijk - Zutphen railway in 1878.

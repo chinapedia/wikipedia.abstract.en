@@ -1,0 +1,1 @@
+DOROTHY SWAIN LEWIS (September 30, 1915 – September 9, 2013) was an American aviator who trained Navy pilots and flew with the Women Airforce Service Pilots (WASP) program during World War II. She was also an artist who created a series of cast-bronze sculptures of WASP pilots for various World War II memorial sites.

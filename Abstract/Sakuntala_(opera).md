@@ -1,0 +1,1 @@
+_SAKUNTALA_, also _Sakontala_, 701, is an unfinished opera in three acts, written c. 1820 by Franz Schubert to a libretto by Johann Philipp Neumann. The opera is based on the Sanskrit story of Shakuntala's love for King Duschmanta and her rejection.

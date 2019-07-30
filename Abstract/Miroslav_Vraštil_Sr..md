@@ -1,0 +1,1 @@
+MIROSLAV VRAŠTIL (; born 31 July 1951) is a retired Czechoslovakian rower and triple Olympian. His son, Miroslav Vraštil Jr., is also an Olympic rower. In 2010, Vraštil senior set the world record for finishing the most Ironman Triathlon races within one year – 22.

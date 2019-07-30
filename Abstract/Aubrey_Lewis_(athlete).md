@@ -1,0 +1,1 @@
+AUBREY LEWIS (c. 1935 – December 10, 2001) was an American football player and track athlete who was the first African American to be captain of a Notre Dame Fighting Irish athletic team and a member of the first Federal Bureau of Investigation agent training program to include black people.

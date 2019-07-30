@@ -1,0 +1,1 @@
+MAERTEN THIJSSEN, dead 1657, was a Dutch admiral that entered into Swedish service, becoming a Swedish admiral and a Swedish nobleman under the name MÅRTEN ANCKARHIELM. He played an important role at the Battle of Fehmarn 1644.

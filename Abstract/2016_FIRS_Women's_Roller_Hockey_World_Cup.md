@@ -1,0 +1,1 @@
+The 2016 FIRS WOMEN'S ROLLER HOCKEY WORLD CUP or IQUIQUE 2016 was the 13th edition of the women's roller hockey world cup. It is held in Iquique, Chile from September 24 to October 1, 2016, and it was contested by thirteen teams. Spain defeated Portugal in the final to win the World Cup.

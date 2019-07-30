@@ -1,0 +1,1 @@
+HOKKAIDO ASAHIKAWA KITA HIGH SCHOOL (北海道旭川北高等学校, _Hokkaidō Asahikawa Kita Kōtō Gakkō_) is a high school in Asahikawa, Hokkaidō, Japan, founded in 1940. Hokkaido Asahikawa Kita High School is one of high schools administrated by Hokkaido.

@@ -1,0 +1,1 @@
+_FROM A BACHELOR'S DIARY_ (German: _AUS DEM TAGEBUCH EINES JUNGGESELLEN_) is a 1929 German silent comedy film directed by Erich Schönfelder and starring Reinhold Schünzel, Leopold von Ledebur and Anton Pointner.[1]

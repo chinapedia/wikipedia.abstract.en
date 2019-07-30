@@ -1,0 +1,1 @@
+COLIN WILLIAM ASHBURNER CAMPBELL (born 20 June 1946) is a British sportsman, who competed in track and field athletics and in the bobsled. He competed for Great Britain in the 1968 and 1972 Summer Olympics, before moving to bobsled and competing at the 1976 Winter Olympics, becoming one of only a handful of British athletes to compete at both the Summer and Winter games.[1]

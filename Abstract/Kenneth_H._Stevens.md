@@ -1,0 +1,1 @@
+KENNETH HENRY "KEN" STEVENS, CBE, DL (8 October 1922 – 18 November 2005) served as the Chief Executive Commissioner of the Scout Association, Camp Chief's Deputy at Gilwell Park, and the Executive Commissioner of the 2nd World Scout Indaba held in June, 1957 to mark the centenary of the birth of Robert Baden-Powell, 1st Baron Baden-Powell, the founder of Scouting.[1]

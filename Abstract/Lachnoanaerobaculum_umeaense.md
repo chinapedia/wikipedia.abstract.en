@@ -1,0 +1,1 @@
+_LACHNOANAEROBACULUM UMEAENSE_ is a Gram-positive, obligately anaerobic, saccharolytic, non-proteolytic and spore-forming bacterium from the genus of Lachnoanaerobaculum which has been isolated from the human intestine of a patient in Umeå in Sweden.[1][2][3][4]

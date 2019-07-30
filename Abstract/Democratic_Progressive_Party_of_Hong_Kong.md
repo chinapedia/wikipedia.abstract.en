@@ -1,0 +1,1 @@
+DEMOCRATIC PROGRESSIVE PARTY OF HONG KONG () was a small localist political party in Hong Kong established by Yeung Ke-cheong (楊繼昌) in 2015. It considered Chinese rule in Hong Kong foreign and promoted the right of Hong Kongers to self-determination.[1]

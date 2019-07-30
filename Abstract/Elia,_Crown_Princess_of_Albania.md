@@ -1,0 +1,1 @@
+ELIA ZOGU[1] (née ZAHARIA; born 8 February 1983) is an Albanian actress, former singer and wife of Leka II, Crown Prince of Albania. They married on October 8, 2016, and since then she is known as Her Royal Highness Crown Princess Elia of the Albanians.[2][3][4]

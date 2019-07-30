@@ -1,0 +1,1 @@
+MOINUL ISLAM (born 2 December 1996) is a Bangladeshi first-class cricketer who plays for Barisal Division.[1] He made his List A debut for Victoria Sporting Club in the 2016–17 Dhaka Premier Division Cricket League on 13 April 2017.[2]

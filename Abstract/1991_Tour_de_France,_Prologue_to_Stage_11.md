@@ -1,0 +1,1 @@
+Route_of_the_1991_Tour_de_France.png The 1991 Tour de France was the 78th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Lyon with a prologue individual time trial on 6 July and Stage 11 occurred on 16 July with a flat stage to Saint-Herblain. The race finished on the Champs-Élysées in Paris on 28 July.

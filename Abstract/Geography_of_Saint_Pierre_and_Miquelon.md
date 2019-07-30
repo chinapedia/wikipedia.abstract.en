@@ -1,0 +1,1 @@
+Saint-Pierre_and_Miquelon_3D.png Saint Pierre and Miquelon is a French overseas collectivity in the Western Hemisphere and the Northern Hemisphere. It consists of an island archipelago off the coast of Newfoundland near North America. The collectivity shares a maritime boundary with Canada.

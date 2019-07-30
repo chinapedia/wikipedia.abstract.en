@@ -1,0 +1,1 @@
+The 1981 BIG TEN CONFERENCE FOOTBALL SEASON was the 86th season of college football played by the member schools of the Big Ten Conference and was a part of the 1981 NCAA Division I-A football season.

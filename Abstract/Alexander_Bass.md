@@ -1,0 +1,1 @@
+ALEXANDER BASS (Hebrew: אלכסנדר בס) is an Israeli badminton player.[1] In 2014, he became the men's doubles runner-up of the Hatzor International tournament, then in 2015 he became the champion.[2][3]

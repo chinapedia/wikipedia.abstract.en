@@ -1,0 +1,1 @@
+PRISCILLA MCCLURE PAETSCH (née JOHNSON), (November 18, 1931 – July 19, 2017), was an American violinist, composer, artist, sculptor, horse trainer, and co-founder of the Paetsch Family Chamber Music Ensemble in Colorado Springs, Colorado. She was the wife of cellist Günther Johannes Paetsch and the mother to their seven children.

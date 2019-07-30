@@ -1,0 +1,1 @@
+ANTHONY "TONY" BOOTH (22 June 1933 – 11 January 2017) was a British commercial artist best known as the original poster artist for The Beatles and other bands in the Merseybeat era. He was known around Liverpool in the early 1960s as Brian Epstein's "right-hand man".

@@ -1,0 +1,1 @@
+SYLVIA LIBOW MARTINEZ an American engineer whose book _Invent To Learn: Making, Tinkering, and Engineering in the Classroom_[1] has been acknowledged as the "bible" of the school Maker Movement. She, with this one book, is largely collected by libraries worldwide.[2]

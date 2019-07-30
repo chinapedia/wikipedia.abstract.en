@@ -1,0 +1,1 @@
+The ELISABETH SANDMANN VERLAG is a fiction and nonfiction publishing house, which was founded in Munich in 2004 by the publisher Elisabeth Sandmann. Its program is themed _Beautiful Books for Clever Women_.

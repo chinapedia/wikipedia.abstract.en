@@ -1,0 +1,1 @@
+MLOMP is a village in Lower Casamance, Senegal, located to the north of Thionck Essyl and to the south of . At the time of the 2002 census, the locality contained in 382 households.[1] It is the main settlement of the rural community of Mlomp (Bignona), in Bignona Department of the Ziguinchor Region.

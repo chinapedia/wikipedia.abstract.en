@@ -1,0 +1,1 @@
+ALEXANDRA LOUISE MAYER (born 2 June 1981) is a former British Member of the European Parliament (MEP) for the East of England region for the Labour Party.[1] She took up the post in November 2016 following the resignation of Richard Howitt, and lost her seat in the 2019 European Elections.[2]

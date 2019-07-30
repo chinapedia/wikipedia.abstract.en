@@ -1,0 +1,1 @@
+ZHU SHOUQIAN, 1st Prince of Jingjiang of Ming dynasty, was grandnephew of Zhu Yuanzhang, the Hongwu Emperor. His grandfather, Zhu Xinglong was the eldest brother of Hongwu, while his father was Zhu Wenzheng, a general who had helped the Hongwu Emperor found the Ming Dynasty.

@@ -1,0 +1,1 @@
+The ACEH NANGGROE PARTY () is a regional political party in Indonesia. It was established as a result of a split within the Aceh Party triggered by disagreements over the candidate for governor in the 2012 Aceh gubernatorial election. The party qualified to contest the 2014 elections in Aceh, and won 4.7 percent of the vote, winning three seats in the provincial legislature.[1]

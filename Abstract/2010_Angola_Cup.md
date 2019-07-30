@@ -1,0 +1,1 @@
+The 2010 TAÇA DE ANGOLA was the 29th edition of the Taça de Angola, the second most important and the top knock-out football club competition in Angola, following the Girabola. Atlético Sport Aviação beat G.D. Interclube 4–3 in a penalty shoot-out after a scoreless draw in regular time, to secure its 3rd title.[1]

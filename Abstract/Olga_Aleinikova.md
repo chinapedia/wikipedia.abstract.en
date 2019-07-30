@@ -1,0 +1,1 @@
+OLGA ALEINIKOVA (born 10 November 1951 in Leningrad) — is a pediatric-oncohematologist, PhD, Doctor of Medical Science (1999), Professor (2003), Corresponding Member of the National Academy of Sciences of Belarus, Director of State Institution "Belarusian Research Center for Pediatric Oncology, Hematology and Immunology".[1]

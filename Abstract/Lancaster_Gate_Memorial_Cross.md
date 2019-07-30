@@ -1,0 +1,1 @@
+Lancaster_Gate_Memorial_Cross_in_August_2017.jpg The LANCASTER GATE MEMORIAL CROSS is a grade II listed[1] war memorial in Lancaster Gate, London, commemorating residents of the Metropolitan Borough of Paddington who died fighting in the First World War.[2]

@@ -1,0 +1,1 @@
+LYDIA GURLEY (born 9 September 1984) is an Irish female track cyclist, representing Ireland at international competitions. She competed at the 2016 UEC European Track Championships in the points race event, team pursuit event and elimination race event.[1]

@@ -1,0 +1,1 @@
+_VERTICORDIA_ SECT. _JAMIESONIANA_ is one of six sections in the subgenus _Eperephes_. It includes the single species _Verticordia jamiesonii_. Plants in this section have tiny, yellowish leaves and white flowers that turn pink as they age and have stamens and staminodes with slightly thickened hairs.[1]

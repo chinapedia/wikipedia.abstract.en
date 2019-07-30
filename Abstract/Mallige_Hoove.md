@@ -1,0 +1,1 @@
+_MALLIGE HOOVE_ is a 1992 Indian Kannada romantic action film directed and written by Raj Kishor and produced by S. V. Rajendra Singh Babu.[1] The film featured Ambarish, Shashikumar and Rupini in the lead roles.[2] The film's music was composed by Hamsalekha and dialogues written by Chi. Udaya Shankar.This film is a remake of 1988 Tamil film _Senthoora Poove_.

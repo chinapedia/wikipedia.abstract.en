@@ -1,0 +1,1 @@
+The 97th edition of the MILANO–TORINO cycling classic was held on 28 September 2016. It was run over a distance of , starting near Milan in San Giuliano Milanese and ending near Turin on the _Colle di Superga_. The race was won by Colombian rider Miguel Ángel López after a late attack on the Superga hill. Canadian Michael Woods was second, Rigoberto Urán third.[1]

@@ -1,0 +1,1 @@
+_AL-GHAYBEH_ () is a theological book on the subject of the occultation of the Twelfth Imam of the Twelvers, Muhammad al-Mahdi. The aim of book returns to the doubtful atmosphere in that period and neediness to proving the occultation by reason and narration.

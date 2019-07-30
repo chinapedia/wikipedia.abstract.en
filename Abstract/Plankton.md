@@ -1,0 +1,1 @@
+Plankton_collage.jpg of planktonic organisms|alt=Six relatively large variously-shaped organisms with dozens of small light-colored dots all against a dark background. Some of the organisms have antennae that are longer than their bodies.]]

@@ -1,0 +1,1 @@
+ChateauTerre-Neuve_02.jpg The CASTLE OF TERRE NEUVE is an historic château in Fontenay-le-Comte, Vendée, Pays de la Loire, France. It has been listed as an official historical monument by the French Ministry of Culture since 1978.[1] The Castle of Terre Neuve was built in the 1580s and 1590s for Nicolas Rapin.[2]

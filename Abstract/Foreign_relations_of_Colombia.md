@@ -1,0 +1,1 @@
+Colombia seeks diplomatic and commercial relations with all countries, regardless of their ideologies or political or economic systems. For this reason, the Colombian economy is quite open, relying on international trade and following guidelines given by international law.

@@ -1,0 +1,1 @@
+LILIAN SOPHIA LOCKE (later LILIAN SOPHIA BURNS) (6 June 1869 – 1 July 1950) was an Australian trade unionist, political campaigner and suffragist.[1] She has been described as one of the earliest women leaders of the labour movement in Australia.[2]

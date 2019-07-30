@@ -1,0 +1,1 @@
+MOSCOW (, ;[1][2] ) is the capital and most populous city of Russia, with 13.2 million residents within the city limits,[3] 17 million within the urban area[4] and 20 million within the metropolitan area.[5] Moscow is one of Russia's federal cities.

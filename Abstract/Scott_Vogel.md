@@ -1,0 +1,1 @@
+SCOTT VOGEL (born April 5, 1973 in Buffalo, New York, United States) and currently living in Los Angeles, California, is the current vocalist and founding member of five-piece American hardcore band Terror, formerly of Buried Alive as well as the vocalist of hardcore / punk band World Be Free.[1]

@@ -1,0 +1,1 @@
+POPE HONORIUS IV (c. 1210 – 3 April 1287), born GIACOMO SAVELLI, was Pope from 2 April 1285 to his death in 1287. During his pontificate he largely continued to pursue the pro-French political policy of his predecessor, Pope Martin IV.

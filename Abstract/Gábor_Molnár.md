@@ -1,0 +1,1 @@
+GÁBOR MOLNÁR (born 28 March 1972 in Budapest) is a Hungarian male weightlifter, competing in the 69 kg category and representing Hungary at international competitions. He participated at the 1996 Summer Olympics in the 70 kg event.[1] He competed at world championships, most recently at the 1998 World Weightlifting Championships.[2]

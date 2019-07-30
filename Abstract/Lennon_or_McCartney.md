@@ -1,0 +1,1 @@
+_LENNON OR MCCARTNEY_ is a 2014 Canadian documentary short film directed by Matt Schichter. The film is a compilation of 550 celebrities' responses, taken from interviews throughout the decade, to the question of which of the two former Beatles is superior: John Lennon or Paul McCartney.[1]

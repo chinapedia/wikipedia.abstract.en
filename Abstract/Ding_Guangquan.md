@@ -1,0 +1,1 @@
+DING GUANGQUAN (14 October 1944 – 18 January 2018) was a Chinese comedian. He mainly performed Xiangsheng (crosstalk), a form of traditional Chinese comedy. He was a senior actor in the China Coal-Mine Art Troupe and had accepted over 40 students in his years teaching.[1]

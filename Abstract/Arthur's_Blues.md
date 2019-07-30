@@ -1,0 +1,1 @@
+_ARTHUR'S BLUES_ is a live album by saxophonist Art Pepper recorded in 1981 at the Maiden Voyage nightclub in Los Angeles and released on the Galaxy label in 1991.[1][2] The album features tracks that were first released on _The Complete Galaxy Recordings_ box set in 1989.

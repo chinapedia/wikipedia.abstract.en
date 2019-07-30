@@ -1,0 +1,1 @@
+The HUBLI SANDBOX in Hubballi, India is an ecosystem launched by Deshpande Foundation that supports mission-driven individuals to come up with sustainable and scalable enterprises having social and economic impact.[1] It's a co-creation of Dr. Gururaj "Desh" Deshpande, Indian American venture capitalist and entrepreneur[2] and his wife Jaishree Deshpande.[3]

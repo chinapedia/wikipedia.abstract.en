@@ -1,0 +1,1 @@
+The 2017 OMLOOP HET NIEUWSBLAD was a road cycling one-day race that took place on 25 February 2017. It was the 72nd edition of the Omloop Het Nieuwsblad and was the fourth event of the 2017 UCI World Tour. It was the first time that the race was included in the UCI World Tour calendar.[1][2]

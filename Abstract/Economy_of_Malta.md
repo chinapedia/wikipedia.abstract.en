@@ -1,0 +1,1 @@
+Malta is a highly industrialised, service-based economy. It is classified as an advanced economy by the International Monetary Fund[1] and is considered a high-income country by the World Bank[2] and an innovation-driven economy by the World Economic Forum.[3] It is a member of the European Union and of the eurozone, having formally adopted the euro on 1 January 2008.[4]

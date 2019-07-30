@@ -1,0 +1,1 @@
+_THE LIBERATION OF SKOPJE_ (, _OSLOBODUVANJE NA SKOPJE_) is a 2016 Macedonian drama film directed by Rade Šerbedžija and Danilo Šerbedžija. The film was selected as the Macedonian entry for the Best Foreign Language Film at the 89th Academy Awards but it was not nominated.[1][2]

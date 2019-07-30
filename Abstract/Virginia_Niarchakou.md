@@ -1,0 +1,1 @@
+'''Virginia Niarchakou ''' (born 5 December 1996) is a Greek female water polo player, playing as a centre forward. As a player of Olympiacos she won the 2014–15 LEN Euro League Women,[1] the 2015 Women's LEN Super Cup[2] and the 2014 Women's LEN Trophy.[3]

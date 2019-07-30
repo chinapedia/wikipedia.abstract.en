@@ -1,0 +1,1 @@
+KNOCKING PIECE II is a piece of music by Ben Johnston. It is a continuation of Knocking Piece I. In both pieces, Johnston calls to demonstrate unconventional methods of playing conventional instruments. In Knocking Piece II, percussionists use bouncy balls, brushes on their playing surfaces as they also use a deck of cards for instructions.

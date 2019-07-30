@@ -1,0 +1,1 @@
+ROY is an unincorporated community in southwestern Douglas County, Missouri, United States.[1] Roy is located on Missouri Route 76, south of the Goodhope junction on Missouri Route T. The village site is at an elevation of [2] about 1.5 mile west of the Beaver Creek valley.[3]

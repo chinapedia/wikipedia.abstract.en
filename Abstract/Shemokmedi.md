@@ -1,0 +1,1 @@
+SHEMOKMEDI () is a village in the Ozurgeti Municipality, Guria, Georgia. It is located in western Georgia, on the Bzhuzhi river, at elevation of 190 m above sea level, 7 km east of the city of Ozurgeti. The village is home to the late medieval Shemokmedi Monastery.

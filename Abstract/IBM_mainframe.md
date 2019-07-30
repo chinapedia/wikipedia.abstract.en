@@ -1,0 +1,1 @@
+IBM MAINFRAMES are large computer systems produced by IBM since 1952. During the 1960s and 1970s, IBM dominated the large computer market. Current mainframe computer in IBM's line of business computers are developments of the basic design of the IBM System/360.

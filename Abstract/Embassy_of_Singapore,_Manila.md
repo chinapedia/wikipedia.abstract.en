@@ -1,0 +1,1 @@
+The EMBASSY OF THE REPUBLIC OF SINGAPORE IN MANILA is the diplomatic mission of Singapore in the Philippines. The chancery is located at 505 Rizal Drive in Bonifacio Global City, Taguig, Metro Manila.

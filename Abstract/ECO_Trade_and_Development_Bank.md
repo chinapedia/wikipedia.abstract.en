@@ -1,0 +1,1 @@
+THE ECO TRADE AND DEVELOPMENT BANK (ETDB) is a regional multilateral development bank established under the auspices of the ECO Economic Cooperation Organization to promote socio-economic development and intra-regional trade amongst ECO member states.[1]

@@ -1,0 +1,1 @@
+The CAVERNA DO DIABO STATE PARK () is a state park in the state of São Paulo, Brazil, established in 2008. It protects a mountainous area of Atlantic Forest, and is known for the dramatic Caverna da Tapagem or Caverna do Diabo, which draws thousands of visitors each year.

@@ -1,0 +1,1 @@
+_MONOPOLY_ is a 1985 multi-platform video game based on the board game _Monopoly_, released on the Amiga, Amstrad CPC, BBC Micro, Commodore 64, MS-DOS, MSX, Tatung Einstein, Thomson MO, Thomson TO, and ZX Spectrum. Published by Leisure Genius, this title was one of many inspired by the property.

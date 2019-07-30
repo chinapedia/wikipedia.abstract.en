@@ -1,0 +1,1 @@
+ANWAR HUSSAIN LASKAR is an All India United Democratic Front politician from Assam. He has been elected in Assam Legislative Assembly election in 2016 from Hailakandi constituency.[1][2][3] He was member of Samajwadi Party.

@@ -1,0 +1,1 @@
+'''Karina Sefron ''' (born 2 July 1967) is a Danish footballer who played as a defender for the Denmark women's national football team. She was part of the team at the 1991 FIFA Women's World Cup as the team captain. On club level she plays for Malmö FF in Sweden.[1]

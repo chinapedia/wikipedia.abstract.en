@@ -1,0 +1,1 @@
+PANAMA'S FOREIGN RELATIONS are conventional in outlook, with Panama being especially aligned with United States since the 1989 US invasion to topple the regime of General Manuel Noriega. The United States cooperates with the Panamanian government in promoting economic, political, security, and social development through U.S. and international agencies.

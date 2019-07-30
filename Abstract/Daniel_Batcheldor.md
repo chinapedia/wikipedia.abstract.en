@@ -1,0 +1,1 @@
+DANIEL BATCHELDOR is an Anglo-American astrophysicist, a professor at Florida Institute of Technology, Head of the Department of Aerospace, Physics and Space Sciences, and Director of the Jacobus Kapteyn Telescope.

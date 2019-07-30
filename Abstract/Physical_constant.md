@@ -1,0 +1,1 @@
+A PHYSICAL CONSTANT, sometimes FUNDAMENTAL PHYSICAL CONSTANT or UNIVERSAL CONSTANT, is a physical quantity that is generally believed to be both universal in nature and have constant value in time. It is contrasted with a mathematical constant, which has a fixed numerical value, but does not directly involve any physical measurement.

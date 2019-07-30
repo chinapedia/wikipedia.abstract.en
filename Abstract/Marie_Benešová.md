@@ -1,0 +1,1 @@
+MARIE BENEŠOVÁ (born 17 April 1948) is a Czech politician and lawyer who is the current Minister of Justice under Prime Minister Andrej Babiš. She held the position previously between 2013 and 2014, as part of Jiří Rusnok's Cabinet.[1]

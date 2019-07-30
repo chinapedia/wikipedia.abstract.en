@@ -1,0 +1,1 @@
+JOHN W. COSTELLO is an American attorney and politician who served as a member of the Massachusetts House of Representatives, the Massachusetts Governor's Council, and was the Democratic nominee for Lieutenant Governor of Massachusetts in 1964.

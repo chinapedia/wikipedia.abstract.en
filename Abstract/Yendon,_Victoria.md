@@ -1,0 +1,1 @@
+YENDON is a small town in Victoria, Australia. The town is located in the Shire of Moorabool, west of the state capital, Melbourne and approximately south east of Ballarat. The town was originally called Buninyong East, but was changed in 1879 to Yendon, believed to be an Indigenous Australian word meaning "waterhole".[1]

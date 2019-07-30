@@ -1,0 +1,1 @@
+VALENTINE "VALE" P. THIELMAN (October 10, 1843 – February 21, 1925) was an American politician. He served in the South Dakota State Senate from 1889 to 1890. He also sat in the Dakota Territory Legislature from 1881 to 1882.[1][2][3][4]

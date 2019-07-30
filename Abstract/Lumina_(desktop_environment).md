@@ -1,0 +1,1 @@
+LUMINA DESKTOP ENVIRONMENT, or simply LUMINA, is a plugin-based desktop environment for Unix and Unix-like operating systems. It is designed specifically as a system interface for TrueOS, and systems derived from Berkeley Software Distribution (BSD) in general, but has been ported to various Linux distributions.

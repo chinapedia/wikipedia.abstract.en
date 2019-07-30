@@ -1,0 +1,1 @@
+KURT ENOCH (22 November 1895 – 15 February 1982) was a German-born publisher who co-founded Albatross Books in Germany and Penguin Books Inc. and New American Library in the United States, bringing high-quality paperback fiction and non-fiction to the mass market in those countries.

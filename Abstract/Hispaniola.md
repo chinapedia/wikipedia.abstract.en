@@ -1,0 +1,1 @@
+HISPANIOLA (,[1][2][3] also ;[4] ; Latin and ; ; )[5][6] is an island in the Caribbean archipelago known as the Greater Antilles. It is the second largest island in the West Indies after Cuba, and the most populous island in the West Indies; it is also the eleventh most populous island in the world.

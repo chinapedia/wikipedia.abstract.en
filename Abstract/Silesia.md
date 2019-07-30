@@ -1,0 +1,1 @@
+SILESIA (;[1] ; ; ; Silesian German: _Schläsing_; Silesian: _Ślůnsk_ ; ; ; ) is a historical region of Central Europe located mostly in Poland, with small parts in the Czech Republic and Germany. Its area is about , and its population about 8,000,000. Silesia is located along the Oder River. It consists of Lower Silesia and Upper Silesia.

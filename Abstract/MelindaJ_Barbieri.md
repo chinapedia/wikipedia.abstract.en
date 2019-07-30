@@ -1,0 +1,1 @@
+MELINDAJ "MINDY" BARBIERI (born 16 May 2000) is an Australian soccer player, who plays for Melbourne Victory in the Australian W-League.[1][2] She has represented Australia in the Australia women's national under-20 soccer team.[3]

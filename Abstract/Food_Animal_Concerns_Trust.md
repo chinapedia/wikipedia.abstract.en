@@ -1,0 +1,1 @@
+FOOD ANIMAL CONCERNS TRUST (FACT) is a nonprofit organization in the U.S. concerned with food safety and animal welfare. FACT was founded in 1982 as the first U.S. organization devoted exclusively to addressing the public health problems that result from raising farm animals in confined and inhumane conditions.[1]

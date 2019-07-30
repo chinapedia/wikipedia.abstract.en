@@ -1,0 +1,1 @@
+In shogi, RETREATING ROOK (引き飛車 _hikihisha_) is a variant of the Double Wing Attack (相掛かり _aigakari_) opening and joseki in which Black's rook retreats all the way back to their camp after a pawn exchange in the eighth file allowing White to also exchange rook pawns.

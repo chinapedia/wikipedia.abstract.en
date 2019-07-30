@@ -1,0 +1,1 @@
+LOUIS DEMAISON (5 November 1852 – 5 mai 1937) was a 19th–20th-century French historiographer, archaeologist, and with Henri Jadart, one of the most significant contributors to the nineteenth/twentieth history of the Marne department.

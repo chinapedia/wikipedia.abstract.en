@@ -1,0 +1,1 @@
+The 2014 BREEDERS' CUP CLASSIC was the 31st running of the Breeders' Cup Classic, part of the 2014 Breeders' Cup World Thoroughbred Championships program. It was run on November 1, 2014 at Santa Anita race track in Arcadia, California.

@@ -1,0 +1,1 @@
+Suor_Doris_Enghelhard_nel_2018.jpg SISTER DORIS ENGELHARD is a Catholic nun and Bavarian brewmaster. Engelhard brews her beer in the Mallersdorf Abbey, and feels that "brewing is her way of serving God."[1] Engelhard is the last nun working in Europe as a brewmaster.[2][3]

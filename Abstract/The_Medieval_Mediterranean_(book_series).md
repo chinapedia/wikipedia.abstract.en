@@ -1,0 +1,1 @@
+THE MEDIEVAL MEDITERRANEAN is a peer-reviewed history book series published by Brill on the medieval history of the Mediterranean area.[1] The managing editor is Frances Andrews of St Andrews University.[2] The series published approximately three books each year and had published 107 volumes as of November 2016.

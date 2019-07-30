@@ -1,0 +1,1 @@
+The JOHN VON NEUMANN THEORY PRIZE of the Institute for Operations Research and the Management Sciences (INFORMS) is awarded annually to an individual (or sometimes a group) who has made fundamental and sustained contributions to theory in operations research and the management sciences. It is regarded as the "Nobel Prize" of the field.

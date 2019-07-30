@@ -1,0 +1,1 @@
+VALUE TRUMPING is the "precedence of certain cultural values over others" in certain contexts,[1] whereas the same value may not be trumping other values under different circumstances.[2] The term is usually applied to cultural or group values, where the members adapt to specific circumstances.[3][4]

@@ -1,0 +1,1 @@
+_QUETZALCOATLUS NORTHROPI_ is a pterosaur known from the Late Cretaceous of North America (Maastrichtian stage) and one of the largest-known flying animals of all time. It is a member of the family Azhdarchidae, a family of advanced toothless pterosaurs with unusually long, stiffened necks. Its name comes from the Mesoamerican feathered serpent god, Quetzalcoatl.

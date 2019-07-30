@@ -1,0 +1,1 @@
+Lieutenant General THOMAS FARRINGTON (1664 – 7 October 1712) was a British Army officer and politician who sat in the English and British House of Commons from 1705 to 1713. He raised the 29th (Worcestershire) Regiment of Foot.

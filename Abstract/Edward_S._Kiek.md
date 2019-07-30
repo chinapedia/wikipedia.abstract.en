@@ -1,0 +1,1 @@
+EDWARD SIDNEY KIEK (5 August 1883 – 24 April 1959) was a Congregationalist minister, and principal of Parkin College, that church's seminary in Adelaide, South Australia. He was married to Winifred Kiek (c. 1884 – 23 May 1975) who was in 1927 the first woman to be ordained minister of a Christian church in Australia.

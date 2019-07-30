@@ -1,0 +1,1 @@
+Since opening in 2007, The O2 Arena has hosted hundreds of concerts from UK and international superstars. It was named the _World's Best Venue_ by Pollstar in 2009. It has been named as the busiest indoor arena in the world with over 1,819,487 tickets sold in 2015 alone.[1]

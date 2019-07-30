@@ -1,0 +1,1 @@
+The FUTURIANS were a group of science fiction (SF) fans, many of whom became editors and writers as well. The Futurians were based in New York City and were a major force in the development of science fiction writing and science fiction fandom in the years 1937–1945.

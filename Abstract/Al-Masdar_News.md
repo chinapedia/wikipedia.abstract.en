@@ -1,0 +1,1 @@
+_AL-MASDAR NEWS_ (sometimes abbreviated _AMN_) () is an online newspaper founded by Leith Abou Fadel.[1] Al-Masdar is Arabic for "the source".[2] Al-Masdar's coverage focuses largely on conflict zones in the Middle East: Syria, Yemen, and Iraq. Al-Masdar has been described as being pro-president Bashar al-Assad.

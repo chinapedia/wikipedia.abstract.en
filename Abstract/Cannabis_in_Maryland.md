@@ -1,0 +1,1 @@
+In the U.S. state of Maryland, the recreational use of marijuana (cannabis) is illegal. However, since 2014, the possession of 10 grams or less of marijuana has been decriminalized. In 2012, a state law was enacted to establish a state-regulated medical marijuana program. The program became operational on December 1, 2017.

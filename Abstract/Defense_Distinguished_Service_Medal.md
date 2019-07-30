@@ -1,0 +1,1 @@
+The DEFENSE DISTINGUISHED SERVICE MEDAL is a United States military award which is presented for exceptionally distinguished performance of duty contributing to the national security or defense of the United States. The medal was created on July 9, 1970, by President Richard Nixon in .[1]

@@ -1,0 +1,1 @@
+_THURAIMUGAM_ (English : Port) is a 1996 Tamil crime drama film directed by K. Rajeshwar. The film features C. Arunpandian and Shobana in the lead roles, with Livingston, Alex, Poornam Vishwanathan, Charle, Jai Ganesh and Kavitha playing supporting roles. The film, produced by Georgi George, had musical score by Adithyan and was released on 25 October 1996.[1][2][3][4]

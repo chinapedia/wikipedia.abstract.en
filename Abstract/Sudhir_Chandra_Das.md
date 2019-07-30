@@ -1,0 +1,1 @@
+SUDHIR CHANDRA DAS (born November 15, 1907, date of death unknown) was an Indian politician.[1] During the struggle for Indian independence, he took part in the Salt, No-Tax and Quit India Movements.[2][3] He represented Contai North and later Contai South in the West Bengal Legislative Assembly, becoming Minister for Animal Husbandry and Veterinary Services in 1969.

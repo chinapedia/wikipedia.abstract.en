@@ -1,0 +1,1 @@
+The 2016 OPEN DE LIMOGES was a professional tennis tournament played on indoor hard courts. It was the 10th edition of the tournament and part of the 2016 WTA 125K series, offering a total of $115,000 in prize money. It took place in Limoges, France, on 14–20 November 2016.

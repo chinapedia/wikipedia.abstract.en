@@ -1,0 +1,1 @@
+_EUCALYPTUS REMOTA_, commonly known as the KANGAROO ISLAND ASH, the KANGAROO ISLAND MALLEE ASH,[1] or the MOUNT TAYLOR MALLEE,[2] is a species of plant in the Myrtaceae family that is endemic to South Australia.

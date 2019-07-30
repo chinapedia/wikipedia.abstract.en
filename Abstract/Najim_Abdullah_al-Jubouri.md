@@ -1,0 +1,1 @@
+NAJIM ABDULLAH AL-JUBOURI is an Iraqi Major General in the Iraqi security forces and the commander of the Nineveh Operations theater during the ongoing Iraqi Civil War. He is currently in command of Iraqi Army forces attempting to oust the forces of the Islamic State of Iraq and the Levant from the Nineveh Governorate during the Battle of Mosul (2016–2017).[1][2][3][4][5]

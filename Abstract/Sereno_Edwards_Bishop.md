@@ -1,0 +1,1 @@
+SERENO EDWARDS BISHOP (February 7, 1827 – March 23, 1909) was a scientist, Presbyterian minister and publisher. He was an avid proponent of the United States annexation of the Hawaiian Islands, and aligned himself with the political faction who overthrew the monarchy under Liliuokalani.

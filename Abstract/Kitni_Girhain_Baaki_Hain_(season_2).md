@@ -1,0 +1,1 @@
+_KITNI GIRHAIN BAAKI HAIN_ (, lit: _How many knots are left to untie?_) is a Pakistani anthology drama series, that airs on Hum TV. Created by Angeline Malik, the series is a sequel to the anthology series _Kitni Girhain Baaki Hain_ (20112014). It premiered on 30 October 2016 with a different cast and story in each episode.[1][2]

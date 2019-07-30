@@ -1,0 +1,1 @@
+ELECTRONIC EXPRESS, a family owned and operated business established in 1983 and headquartered in Nashville, TN,[1] is the largest independent consumer electronics and major appliances retailer in Tennessee.[2] Electronic Express operates 16 stores in Tennessee and Alabama,[3] and in 1999 began online sales.[4]

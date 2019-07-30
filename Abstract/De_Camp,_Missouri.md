@@ -1,0 +1,1 @@
+DE CAMP is an extinct town in eastern Phelps County, in the U.S. state of Missouri.[1] The community was located on the Elliott Branch of Norman Creek, approximately three-quarters of one mile east of Missouri Route F and about six miles south of St. James.[2]

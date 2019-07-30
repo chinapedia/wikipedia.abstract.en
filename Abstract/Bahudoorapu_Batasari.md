@@ -1,0 +1,1 @@
+_BAHUDOORAPU BATASARI_ () is a 1983 Telugu drama film, produced and directed by Dasari Narayana Rao[1] under his Taraka Prabhu Films banner.[2] It stars Akkineni Nageswara Rao, Sujatha in the lead roles[3] and music composed by Ramesh Naidu.[4] The film was recorded as a _Super Hit_ at the box office.[5]

@@ -1,0 +1,1 @@
+EUAGRUS FORMOSANUS is a species of Taiwanese spider in the family Dipluridae.[1] It was first described in 1933 from a female specimen found in the Taihoku Prefecture of Taiwan. Its Japanese name is "Taiwan-Jegogume".[2]

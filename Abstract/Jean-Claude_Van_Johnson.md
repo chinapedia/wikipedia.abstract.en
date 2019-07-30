@@ -1,0 +1,1 @@
+_JEAN-CLAUDE VAN JOHNSON_ is an American action comedy-drama web television series produced by Amazon Studios. It premiered on August 19, 2016. On January 18, 2018, the series was canceled after one season.[1]

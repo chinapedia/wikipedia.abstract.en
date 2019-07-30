@@ -1,0 +1,1 @@
+KUNG MING-HSIN () is a politician of the Republic of China. He is currently the Deputy Minister of Economic Affairs since 8 September 2017. He had served as the Deputy Minister of National Development Council in 2016-2017.

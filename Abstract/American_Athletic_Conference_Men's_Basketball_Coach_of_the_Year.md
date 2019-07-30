@@ -1,0 +1,1 @@
+The AMERICAN ATHLETIC CONFERENCE MEN'S BASKETBALL COACH OF THE YEAR is a basketball award given to the American Athletic Conference's most outstanding head coach. The conference formed in 2013–14 after many schools departed from the original Big East Conference to form their own conference. Mick Cronin of Cincinnati was the first-ever winner.[1]

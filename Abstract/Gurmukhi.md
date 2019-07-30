@@ -1,0 +1,1 @@
+GURMUKHĪ (, ) is a Sikh script modified, standardized and used by the second Sikh guru, Guru Angad (1504–1552).[1][2][3] Gurmukhi is used in the state of Punjab as the official script of the Punjabi language,[4] a language that is also written in Perso-Arabic Shahmukhi script.[5][6]

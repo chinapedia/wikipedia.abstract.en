@@ -1,0 +1,1 @@
+PETER LEONARD, is a Scottish former footballer who played as a forward for St Mirren and Motherwell in the Scottish Football League Premier Division. He is currently the manager of Cumnock Juniors in the Scottish Junior Football Association, West Region having previously managed fellow Ayrshire clubs, Maybole and Girvan.[1][2][3]

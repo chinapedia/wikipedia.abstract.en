@@ -1,0 +1,1 @@
+The EASTERN PENNSYLVANIA RUGBY UNION is the Geographical Union (GU) for rugby union teams playing in the Maryland, Virginia and Washington, D.C.[1] It is an association of youth, high school, collegiate, and adult men's and women's rugby teams in the Eastern Pennsylvania United States under USA Rugby.

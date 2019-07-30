@@ -1,0 +1,1 @@
+OSI_Model_v1.svg]] The PROTOCOL STACK or NETWORK STACK is an implementation of a computer networking PROTOCOL SUITE or PROTOCOL FAMILY. Some of these terms are used interchangeably but strictly speaking, the _suite_ is the definition of the communication protocols, and the _stack_ is the software implementation of them.[1]

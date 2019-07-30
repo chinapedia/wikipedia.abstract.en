@@ -1,0 +1,1 @@
+SAID KHALIFA GOUDA (16 April 1930 – December 2014) was an Egyptian male weightlifter who competed in the featherweight and Lightweight class and represented Egypt at international competitions. He won the gold medal at the 1951 World Weightlifting Championships in the 60 kg category.[1]

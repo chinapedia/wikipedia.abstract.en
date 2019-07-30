@@ -1,0 +1,1 @@
+CHUPU STANLEY MATHABATHA (born 21 January 1957) is a South African politician and the current premier of the Limpopo province. Mathabatha is a former Umkhonto we Sizwe (MK) guerrilla, he is also the Provincial Chairperson of the African National Congress (ANC) in Limpopo Province since February 2014.[1]

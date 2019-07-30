@@ -1,0 +1,1 @@
+SAURABH RAWAT (born 21 December 1997) is an Indian cricketer.[1] He made his first-class debut for Odisha in the 2016–17 Ranji Trophy on 13 October 2016.[2] He made his Twenty20 debut for Odisha in the 2016–17 Inter State Twenty-20 Tournament on 29 January 2017.[3] He made his List A debut for Odisha in the 2017–18 Vijay Hazare Trophy on 7 February 2018.[4]

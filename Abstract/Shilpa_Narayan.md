@@ -1,0 +1,1 @@
+SHILPA NARAYAN is a pop/R&B singer-songwriter based in New York City.[1] She made her debut in 2012 and released her first album _Stand Alone_ with the self-titled single _Stand Alone_ and _Change Your Mind_.[2] Shilpa has worked with prominent hip-hop artists such as Waka Flocka, Wale and Culture Shock and has performed at New York Fashion Week 2010.[3]

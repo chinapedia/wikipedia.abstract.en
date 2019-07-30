@@ -1,0 +1,1 @@
+JULIUS ADLER (23 January 1894 – 8 April 1945) was a German politician and member of the Communist Party of Germany. A member of the Reichstag from 1928 to 1933, he was later detained by the Gestapo and died in the Bergen-Belsen concentration camp.

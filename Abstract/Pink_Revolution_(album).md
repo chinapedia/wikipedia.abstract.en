@@ -1,0 +1,1 @@
+_PINK REVOLUTION_ is the third full-length studio album by South Korean girl group Apink. It was released on September 26, 2016 following a hiatus of one year and two months, the group's longest since debut. The title track, "Only One", was used to promote the album along with B-tracks "Boom Pow Love" and "Ding Dong".[1]

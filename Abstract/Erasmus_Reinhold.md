@@ -1,0 +1,1 @@
+ERASMUS REINHOLD (October 22, 1511 – February 19, 1553) was a German astronomer and mathematician, considered to be the most influential astronomical pedagogue of his generation.[1] He was born and died in Saalfeld, Saxony.

@@ -1,0 +1,1 @@
+_A WORLD OF OUR OWN_ is the fourth studio album by the Australian group The Seekers. The album was released in 1965. In some countries, the album was titled THE SEEKERS. The album peaked at number 19 in the Billboard 200[1] and number 5 in the United Kingdom.[2]

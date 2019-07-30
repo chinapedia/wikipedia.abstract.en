@@ -1,0 +1,1 @@
+opened in Yūbari, Hokkaidō, Japan in 1980. It documents the importance of coal mining to the local economy from the Meiji period to the Shōwa period.[1][2]. The museum is currently closed (October 1st 2017).

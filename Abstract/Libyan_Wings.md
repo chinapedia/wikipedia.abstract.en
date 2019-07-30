@@ -1,0 +1,1 @@
+LIBYAN WINGS () is an airline based at Mitiga International Airport in Tripoli, Libya. It started operations in September 2015 after facing delays because of political instability in Libya. As of November 2016, the airline operates two Airbus A319s to five destinations in Libya, Tunisia and Turkey.

@@ -1,0 +1,1 @@
+HUSSAIN SAEED ALNAHDI was a 24-year-old University of Wisconsin–Stout student from Sharurah, Saudi Arabia, majoring in Business Administration, who was murdered in Menomonie, in Dunn County, Wisconsin, United States, in 2016.[1][2][3][4][5]

@@ -1,0 +1,1 @@
+IAIN BANKS (16 February 1954 – 9 June 2013) was a Scottish author. He wrote mainstream fiction under the name Iain Banks and science fiction as IAIN M. BANKS, including the initial of his adopted middle name Menzies ().

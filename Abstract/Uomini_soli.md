@@ -1,0 +1,1 @@
+"UOMINI SOLI" is a 1990 song composed by Roby Facchinetti and Valerio Negrini and performed by the Italian musical group Pooh. The song won the 40th edition of the Sanremo Music Festival, where it was also performed in an English-language soul adaptation titled "Angel of the Night" by Dee Dee Bridgewater.[1][2]

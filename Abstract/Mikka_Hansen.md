@@ -1,0 +1,1 @@
+'''Mikka Hansen ''' (born 11 November 1975) is a Danish international footballer who played as a forward[1][2] for the Denmark women's national football team. She was part of the team at the 1999 FIFA Women's World Cup.[3]

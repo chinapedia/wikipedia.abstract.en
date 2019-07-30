@@ -1,0 +1,1 @@
+MARIAM MAMADASHVILI (, born 16 November 2005)[1] is a Georgian child singer. She won the Junior Eurovision Song Contest 2016 where she represented Georgia with the song "Mzeo".[2] She has been living in the United States since 2015.[3]

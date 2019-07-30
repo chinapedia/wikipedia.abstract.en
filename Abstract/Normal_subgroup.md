@@ -1,0 +1,1 @@
+In abstract algebra, a NORMAL SUBGROUP is a subgroup that is invariant under conjugation by members of the group of which it is a part. In other words, a subgroup of the group is normal in if and only if for all and . The usual notation for this relation is N ⊲ G.

@@ -1,0 +1,1 @@
+The MUSEO NACIONAL DE HISTORIA NATURAL CUBANA or MUSEO NACIONAL DE HISTORIA NATURAL DE CUBA in Havana, Cuba is the national museum of Natural History, with exhibits which "promote knowledge about nature, defending the need to preserve Cuba’s natural wealth".[1][2]

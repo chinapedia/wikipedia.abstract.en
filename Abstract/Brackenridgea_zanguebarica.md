@@ -1,0 +1,1 @@
+_BRACKENRIDGEA ZANGUEBARICA_, the YELLOW PEELING PLANE, is a species of plant in the family Ochnaceae. It is native to the southeastern Afrotropics. The bark of the tree is locally in high demand for traditional medicine.

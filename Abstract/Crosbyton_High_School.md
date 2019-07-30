@@ -1,0 +1,1 @@
+CROSBYTON HIGH SCHOOL, also known as CROSBYTON SECONDARY, is a public high school located in Crosbyton, Texas (USA) and classified as a 2A school by the UIL. It is part of the Crosbyton Consolidated Independent School District located in Crosby County. In 2015, the school was rated "Met Standard" by the Texas Education Agency.[1]

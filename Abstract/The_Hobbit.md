@@ -1,0 +1,1 @@
+_THE HOBBIT, OR THERE AND BACK AGAIN_ is a children's fantasy novel by English author J. R. R. Tolkien. It was published on 21 September 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the _New York Herald Tribune_ for best juvenile fiction. The book remains popular and is recognized as a classic in children's literature.

@@ -1,0 +1,1 @@
+SAINT JOHN CLIMACUS (; ), also known as JOHN OF THE LADDER, JOHN SCHOLASTICUS and JOHN SINAITES, was a 6th-7th-century Christian monk at the monastery on Mount Sinai.[1] He is revered as a saint by the Roman Catholic, Eastern Orthodox and Eastern Catholic churches.

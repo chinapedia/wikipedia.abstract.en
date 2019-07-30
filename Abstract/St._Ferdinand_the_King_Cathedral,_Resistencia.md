@@ -1,0 +1,1 @@
+The ST. FERDINAND THE KING CATHEDRAL (), also called RESISTENCIA CATHEDRAL[1] is the name given to a Catholic church located in the city of Resistencia, Argentina.[2][3] It is the seat of the Archdiocese of Resistencia. It is at the head of an ecclesiastical province which covers the provinces of Chaco and Formosa. It was built in the 1930s.

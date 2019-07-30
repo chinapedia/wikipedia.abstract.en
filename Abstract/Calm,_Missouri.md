@@ -1,0 +1,1 @@
+CALM is an unincorporated community in southeastern Oregon County, in the Ozarks of southern Missouri.[1] The community is located at the junction of Missouri Route 142 and Missouri Route UU one mile east of the Eleven Point River and two miles west of the Oregon - Ripley county line.[2]

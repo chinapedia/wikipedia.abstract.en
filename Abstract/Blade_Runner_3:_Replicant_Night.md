@@ -1,0 +1,1 @@
+_BLADE RUNNER 3: REPLICANT NIGHT_ is a science fiction novel by American writer K. W. Jeter published in 1996. It is a continuation of Jeter's novel _Blade Runner 2: The Edge of Human_, which was itself a sequel to both the film _Blade Runner_ and the novel upon which the film was based, Philip K. Dick's _Do Androids Dream of Electric Sheep?_

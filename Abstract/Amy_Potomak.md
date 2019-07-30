@@ -1,0 +1,1 @@
+AMY POTOMAK (born June 25, 1999) is a Canadian-born women's ice hockey player that was named to the Canada women's national ice hockey team roster [1] that shall be competing against the United States in a pair of contests on December 13 (in Plymouth, Michigan) and December 20 (in Sarnia, Ontario). The series against the US shall mark Potomak's debut with the national team.[2]

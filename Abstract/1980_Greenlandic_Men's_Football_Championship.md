@@ -1,0 +1,1 @@
+The 1980 GREENLANDIC MEN'S FOOTBALL CHAMPIONSHIP was the 10th edition of the Greenlandic Men's Football Championship. The final round was held in Qaqortoq. It was won by Nagdlunguaq-48 for the third time in its history.[1]

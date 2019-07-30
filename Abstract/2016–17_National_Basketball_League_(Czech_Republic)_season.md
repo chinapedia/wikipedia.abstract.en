@@ -1,0 +1,1 @@
+The 2016–17 NATIONAL BASKETBALL LEAGUE (CZECH REPUBLIC) SEASON was the 24th season of the Czech NBL.

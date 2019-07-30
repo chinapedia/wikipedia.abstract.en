@@ -1,0 +1,1 @@
+FABIAN ZETTERLUND (born August 25, 1999) is a Swedish professional ice hockey forward. He is currently playing under contract as a prospect with the New Jersey Devils of the National Hockey League (NHL). He was selected by the Devils in the third round, 63rd overall, of the 2017 NHL Entry Draft.

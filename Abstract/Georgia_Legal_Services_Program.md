@@ -1,0 +1,1 @@
+GEORGIA LEGAL SERVICES PROGRAM was founded in 1971 by members of the Young Lawyers Section of The Georgia State Bar Association. However the program was initially unaffiliated with the state bar.[1] The program provides low income individuals with access to representation in healthcare, housing, education, farmers rights, and public benefits.

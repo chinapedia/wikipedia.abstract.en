@@ -1,0 +1,1 @@
+PEDDAMUNIGAL, also known as MUNIGAL, is a Hindu temple situated on the banks of the Krishna river in Peddamunigal in Nalgonda district of the Indian state of Telangana. The Temple is said to be an abode of Bhavani.

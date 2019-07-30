@@ -1,0 +1,1 @@
+ALAIN FERRY (17 December 1939, Bône in Algeria) is a French professor and writer, recipient of the 2009 edition of the prix Médicis essai for his novel _Mémoire d'un fou d'Emma_, drawn from _Madame Bovary_ by Gustave Flaubert.

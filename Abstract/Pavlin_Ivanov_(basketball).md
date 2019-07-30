@@ -1,0 +1,1 @@
+PAVLIN IVANOV (Bulgarian: Павлин Иванов) (born March 28, 1993) is a Bulgarian professional basketball player, who is currently playing for Levski Lukoil in the Bulgarian League, as a shooting guard. Ivanov was born in Yambol.

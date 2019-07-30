@@ -1,0 +1,1 @@
+_GROOVE IS KING_ is the second studio album by American jazz and funk group Rock Candy Funk Party.[1] It was released on July 31, 2015 through J&R Adventures. The album features Billy Gibbons from ZZ Top as "Mr Funkadamus".

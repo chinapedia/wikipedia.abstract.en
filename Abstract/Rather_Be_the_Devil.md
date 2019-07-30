@@ -1,0 +1,1 @@
+_RATHER BE THE DEVIL_ is the 21st instalment in the Inspector Rebus series of crime novels, published in November 2016.[1] _Rather Be the Devil_ topped the bestseller charts for hardback fiction.[2] The title was inspired by a John Martyn song from his 1973 album _Solid Air_.[3]

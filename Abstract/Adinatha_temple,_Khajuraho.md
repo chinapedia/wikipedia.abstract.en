@@ -1,0 +1,1 @@
+ADINATHA TEMPLE (IAST: Ādinātha Mandir) is a Jain temple located at Khajuraho in Madhya Pradesh, India. It is dedicated to the Jain tirthankara Adinatha, although its exterior walls also feature Hindu deities. This temple is part of UNESCO World Heritage Site along with other temples in Khajuraho Group of Monuments.

@@ -1,0 +1,1 @@
+SHALEEN SURTIE-RICHARDS (born 7 May 1955, Upington, Cape Province [now Northern Cape Province], South Africa)[1] is a South African television, stage, and film actress. She is perhaps best known for her starring roles in the 1988 film _Fiela se Kind_ and the long-running series _Egoli: Place of Gold._ She has performed in both Afrikaans and English.

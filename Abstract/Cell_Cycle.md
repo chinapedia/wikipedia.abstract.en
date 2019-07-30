@@ -1,0 +1,1 @@
+_CELL CYCLE_ is a biweekly peer-reviewed scientific journal covering all aspects of cell biology. It was established in 2002 with Mikhail V. Blagosklonny (Roswell Park Cancer Institute) as founding editor-in-chief. Originally published bimonthly, it is now published biweekly.

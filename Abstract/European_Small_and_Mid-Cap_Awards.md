@@ -1,0 +1,1 @@
+The EUROPEAN SMALL AND MID-CAP AWARDS aim to promote best practices and encourage more small and medium-sized enterprises (SMEs) to access capital markets via Initial Public Offering. A joint initiative of the European Commission, EuropeanIssuers and the Federation of European Securities Exchanges, the ceremony was organised for the first time in 2013.[1][2][3]

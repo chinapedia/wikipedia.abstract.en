@@ -1,0 +1,1 @@
+_BEYOND THE MIST_ is guitarist and songwriter Robin Trower's eleventh solo album and his first after leaving Chrysalis Records. It was released in 1985 and contains two studio tracks and five live recordings. Cover painting is by Tony Roberts. The album was re-released on CD by Jem and re-issued on CD by Black Cross in 2007.

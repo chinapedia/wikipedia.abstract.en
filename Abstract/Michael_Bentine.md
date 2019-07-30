@@ -1,0 +1,1 @@
+MICHAEL BENTINE, (born MICHAEL JAMES BENTIN; 26 January 1922[1] – 26 November 1996)[2] was a British comedian, comic actor and founding member of the Goons. He was a Peruvian Briton.[3] In 1971, Bentine received the Order of Merit of Peru following his fund-raising work for the 1970 Great Peruvian earthquake.

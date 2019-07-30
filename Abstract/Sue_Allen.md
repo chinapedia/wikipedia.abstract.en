@@ -1,0 +1,1 @@
+SUE ALLEN (born April 17, 1947 in Oskaloosa, Iowa) is an American politician. She was a member of the Missouri House of Representatives from 2009 to 2017. She is a member of the Republican Party.[1][2]

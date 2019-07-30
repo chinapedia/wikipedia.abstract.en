@@ -1,0 +1,1 @@
+This page lists the winners and nominees for the _BILLBOARD_ MUSIC AWARD FOR TOP TOURING ARTIST. This award has been given out since 2011 and currently U2 hold the record for most wins in this category with three.

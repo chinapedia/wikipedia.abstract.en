@@ -1,0 +1,1 @@
+SAINT LUCIA maintains friendly relations with the major powers active in the Caribbean, including the United States, the United Kingdom, Canada, and France. Saint Lucia has no extant international disputes, aside from tension resulting from the island's status as a transit point for South American drugs destined for the United States and Europe.

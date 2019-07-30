@@ -1,0 +1,1 @@
+HAPLOGROUP S1A is a human Y-DNA haplogroup, defined by SNPs Z41335, Z41336, Z41337, Z41338, Z41339, Z41340, and Z41341.

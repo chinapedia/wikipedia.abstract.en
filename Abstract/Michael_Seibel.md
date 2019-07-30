@@ -1,0 +1,1 @@
+MICHAEL SEIBEL (born October 7, 1982) is CEO and a partner at Y Combinator and co-founder of two startups – Justin.tv and Socialcam.[1][2] He has been a partner at Y Combinator since 2013, advised hundreds of startups, and has been active in promoting diversity efforts among startup founders.[3]

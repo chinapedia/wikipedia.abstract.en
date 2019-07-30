@@ -1,0 +1,1 @@
+HUGH MARSTON HEFNER (April 9, 1926 – September 27, 2017) was an American magazine publisher, the founder and editor-in-chief of _Playboy_ magazine, a publication with revealing photographs and articles which provoked charges of obscenity. The first issue of _Playboy_ was published in 1953 featuring Marilyn Monroe in a nude calendar shoot; it sold over 50,000 copies.

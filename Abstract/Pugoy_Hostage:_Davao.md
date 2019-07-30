@@ -1,0 +1,1 @@
+_PUGOY, HOSTAGE DAVAO_ is a 1992 Filipino action drama film directed by Francis "Jun" Posadas, starring Ian Veneracion, Lito Legaspi, Lani Oteyza and Marielle Salvador. The about of the untold story of the 1989 Davao hostage crisis.

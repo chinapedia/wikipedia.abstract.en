@@ -1,0 +1,1 @@
+JOHN BASKERVILLE (baptised 28 January 1707 – 8 January 1775) was an English businessman, in areas including japanning and papier-mâché, but he is best remembered as a printer and type designer.[1][2][3]

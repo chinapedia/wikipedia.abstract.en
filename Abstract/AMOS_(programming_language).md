@@ -1,0 +1,1 @@
+AMOS_Professional_Screenshot.png AMOS BASIC is a dialect of the BASIC programming language implemented on the Amiga computer. AMOS BASIC was published by Europress Software and originally written by François Lionet with Constantin Sotiropoulos.

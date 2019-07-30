@@ -1,0 +1,1 @@
+[1]ST. JOHN NEPOMUCENE FORANE CHURCH is a parish of the Syro-Malabar Catholic Church located at Parappukkara in the Thrissur district of Kerala, India, in the Eparchy of Irinjalakuda. It is dedicated to Saint John of Nepomuk.

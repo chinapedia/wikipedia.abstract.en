@@ -1,0 +1,1 @@
+TIRIPONE MAMA TAIRA PUTAIRI, SS.CC., (1846–1881) was educated by French missionaries from birth and became the first indigenous Roman Catholic priest ordained in Eastern Polynesia. He was part of the native royal family of Mangareva, and his father Bernardo Putairi was the island's last ruling regent.

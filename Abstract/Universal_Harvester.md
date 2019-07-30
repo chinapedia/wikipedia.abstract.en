@@ -1,0 +1,1 @@
+_UNIVERSAL HARVESTER_ is a novel by the American novelist and singer-songwriter John Darnielle. It is the second novel written by Darnielle, after _Wolf in White Van_.[1] It tells the story of a video store clerk, who finds strange and disturbing clips recorded over the store's VHS tapes.

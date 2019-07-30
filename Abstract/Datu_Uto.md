@@ -1,0 +1,1 @@
+DATU UTO (reigned: 1875–1888) was also known as SULTAN ANWARUD-DIN UTO or SULTAN UTTO ANWARUDDIN, was the 18th Sultan of Buayan, one of the minor sultanates of Mindanao. As a military leader he distinguished himself in many battles against the Spanish.[1]

@@ -1,0 +1,1 @@
+The CAMPAU FAMILY of Detroit, Michigan was established when brothers Michel and Jacques Campau settled in Detroit, Michigan in 1707 and 1708, respectively.[1][2] Jacques, Joseph Campau, and Barnabé Campau are among the Barons of Detroit, according to Richard R. Elliott, because they had "ancestral virtues most worthily perpetuated." [3]

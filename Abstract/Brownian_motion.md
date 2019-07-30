@@ -1,0 +1,1 @@
+2d_random_walk_ag_adatom_ag111.gif adatom on a ¹¹¹Ag surface [1] ]] Brownianmotion5particles150frame.gif Brownian_motion_large.gif BROWNIAN MOTION or PEDESIS (from "leaping" ) is the random motion of particles suspended in a fluid (a liquid or a gas) resulting from their collision with the fast-moving molecules in the fluid.[2]

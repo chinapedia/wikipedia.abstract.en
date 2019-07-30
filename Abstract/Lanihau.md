@@ -1,0 +1,1 @@
+LANIHAU () was a Hawaiian high chiefess of the Kingdom of Hawaii. She served as the Keeper of the Royal Mausoleum of Mauna ʻAla and was the last Governess (female governor) of the islands of Kauai and Niihau from 1886 to 1888. During her tenure, she was given the honorific Her Excellency, the Governess of Kauai.

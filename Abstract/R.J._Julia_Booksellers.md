@@ -1,0 +1,1 @@
+R.J. JULIA BOOKSELLERS is an independent bookstore based in Madison, Connecticut owned and operated by Roxanne J. Coady, a former tax accountant. R.J. Julia has won multiple awards as a top bookstore in the state of Connecticut, and as a top independent bookseller in the United States.

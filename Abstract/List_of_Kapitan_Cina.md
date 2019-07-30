@@ -1,0 +1,1 @@
+This is a list of individuals who held the post of KAPITAN CINA, a government position that existed in colonial Indonesia, Malaysia and Singapore. The role came with vastly varying degrees of power, depending on historical and local circumstances: from near-sovereign authority with legal, political and military powers to an honorary title for a community leader.

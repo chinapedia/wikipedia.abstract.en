@@ -1,0 +1,1 @@
+The 1928 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1928 college football season. The Vandals were led by third-year head coach Charles Erb and were in their seventh season in the Pacific Coast Conference. Home games were played on campus in Moscow at MacLean Field. Idaho compiled a 3–4–1 overall record and went in conference games.

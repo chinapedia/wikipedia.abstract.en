@@ -1,0 +1,1 @@
+The 2015 SANTIAGO CHALLENGER was a professional tennis tournament played on clay courts. It was the first edition of the tournament which was part of the 2015 ATP Challenger Tour. It took place in Santiago, Chile between 19 and 25 October 2015.

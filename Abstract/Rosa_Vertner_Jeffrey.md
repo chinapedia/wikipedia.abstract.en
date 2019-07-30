@@ -1,0 +1,1 @@
+ROSA_VERTNER_JEFFREY_A_woman_of_the_century_(page_428_crop).jpg ROSA VERTNER GRIFFITH JOHNSON JEFFREY (1828–1894) was an American poet and novelist from the U.S. state of Mississippi. She was the first southern woman whose literary work attracted attention throughout the US.

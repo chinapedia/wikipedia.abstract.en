@@ -1,0 +1,1 @@
+_STRANG3R_ ("stranger") is the third extended play by South Korean girl group Ladies' Code, released on October 13, 2016. It contains six tracks, including three remixes of songs from the group's single album, Myst3ry, along with the title track "The Rain".[1]

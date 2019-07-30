@@ -1,0 +1,1 @@
+_BEYOND FLESH_ is a themed anthology of science fiction short works edited by American writers Jack Dann and Gardner Dozois. It was first published in paperback by Ace Books in December 2002. It was reissued as an ebook by Baen Books in March 2013.[1]

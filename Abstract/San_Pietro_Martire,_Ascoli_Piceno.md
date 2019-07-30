@@ -1,0 +1,1 @@
+SAN PIETRO MARTIRE is a Gothic-style, Roman Catholic Basilica church located at piazzetta at the intersection of Via delle Torrei, Soderini, and Solestà in the town of Ascoli Piceno in the region of Marche, Italy. 484AscoliPSPietroMartire.JPG

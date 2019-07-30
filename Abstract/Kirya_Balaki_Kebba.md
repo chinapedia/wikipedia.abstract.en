@@ -1,0 +1,1 @@
+KIRYA BALAKI KEBBA the ex-Rebel Leader now-defunct rebel Uganda Freedom Movement who was kidnapped by security agents from Jamuhuri estate in Nairobi while in Exile in the Republic of Kenya and brought back to Uganda.[1] KIRYA BALAKI KEBBA was acquitted of Treason charges in 1983 but was detained.[2][3][4][5][6][7][8]

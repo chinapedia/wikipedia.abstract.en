@@ -1,0 +1,1 @@
+Corymbia_clarskoniana_flowers.jpg Corymbia_clarksoniana_capsules_and_foliage.jpg _CORYMBIA CLARKSONIANA_, commonly known as CLARKSON'S BLOODWOOD or the GREY BLOODWOOD,[1] is a bloodwood native to Queensland[2] and northern New South Wales.[3]

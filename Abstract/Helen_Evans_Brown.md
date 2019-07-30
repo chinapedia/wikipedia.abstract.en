@@ -1,0 +1,1 @@
+HELEN EVANS BROWN (1904–1964) was an American chef and cookbook writer. She was a nationally known expert and wrote regular food columns, as well as collecting cookbooks from other authors. She was known as the authority on the west coast food scene of the 1950s and 1960s. She was one of the first chefs to advocate using fresh produce and promoting California cuisine.

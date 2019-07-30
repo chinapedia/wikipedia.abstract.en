@@ -1,0 +1,1 @@
+LUCIUS STATIUS QUADRATUS was a Senator of the Roman Empire. Besides being consul ordinarius with Lucius Cuspius Pactumeius Rufinus in AD 142, he was proconsul of Asia during the reign of the emperor Marcus Aurelius. Statius Quadratus is best known for presiding over the trial and execution of Polycarp, bishop of Smyrna.

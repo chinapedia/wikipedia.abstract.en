@@ -1,0 +1,1 @@
+BLACKWATER REGIONAL LIBRARY system serves the counties of Isle of Wight, Southampton, Surry, Sussex, and the city of Franklin in Virginia. The library system is within Region 3 of Virginia Library Association (VLA).[1] According to FY 2015 Statistical Data for Virginia Public Libraries, the Blackwater Regional Library serves a population of 82,763.[2]

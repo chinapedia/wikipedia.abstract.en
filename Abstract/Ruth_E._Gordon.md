@@ -1,0 +1,1 @@
+RUTH EVELYN GORDON (1910–2003) was an American bacterial taxonomist.[1] She was member of the American Type Culture Collection. The bacteria genus _Gordonia_ (formerly _Gordona_) and species _Mycobacterium gordonae_ are named after her.[2][3][4]

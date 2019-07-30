@@ -1,0 +1,1 @@
+STORY UNTOLD (formerly known as AMASIC) is a rock band based in Montreal. Founded in 2012, the band has been signed with Hopeless Records since May 2016.[1] Shortly after their signing and their recording of their self-titled EP, they went on tour with Simple Plan and Hit the Lights.[2]

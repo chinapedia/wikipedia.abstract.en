@@ -1,0 +1,1 @@
+The 59TH ANNUAL TV WEEK LOGIE AWARDS were held on Sunday 23 April 2017 at the Crown Palladium in Melbourne, and broadcast live on the Nine Network.[1] Public voting for the Best Award categories began on 20 November 2016 and ended on 18 December 2016.[2][3]

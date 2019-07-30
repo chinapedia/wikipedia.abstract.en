@@ -1,0 +1,1 @@
+_TRIOPTICUS_ is a genus of archosauriform reptile from the Late Triassic of Texas, United States. It contains a single species, _TRIOPTICUS PRIMUS_, described in 2016 by Stocker _et al_. It has an unusually domed head reminiscent of the later pachycephalosaurian dinosaurs in an example of convergent evolution.[1]

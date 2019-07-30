@@ -1,0 +1,1 @@
+SWEET HOLLOW CREEK is a stream in Laclede County in the Ozarks of southern Missouri.[1] The stream source area lies just west of Eldridge and it flows generally west to enter an entrenched meander of the Niangua River at Blue Spring.[2]

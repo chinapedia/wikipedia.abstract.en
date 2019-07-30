@@ -1,0 +1,1 @@
+ACHARYASRI RAJESH an ardent follower of Maharshi Dayanand Saraswati, learned the Vedas and related scriptures in the gurukul system. Realizing the potential of Vedas in changing a person’s life in all areas of Dharma, Artha, Kama and Moksha , Acharyasri took an oath to teach Vedas to all irrespective of caste, creed or gender.

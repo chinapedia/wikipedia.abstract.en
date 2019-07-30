@@ -1,0 +1,1 @@
+RAMJI GOND was a Gond chief who ruled the tribal areas in present-day Adilabad district of Telangana. The areas under his rule included Nirmal, Utnoor, Chennuru, and Asifabad. He fought against the British rule, for which he was caught and hanged.[1]

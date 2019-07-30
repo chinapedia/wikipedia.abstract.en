@@ -1,0 +1,1 @@
+Lamin A/C congenital muscular dystrophy (CMD) (L-CMD, congenital muscular dystrophy associated to the LMNA gene or Emery-Dreifuss muscular dystrophy II) is a disease that it is included in laminopathies. Laminopathies are caused, among other mutations, to mutations in LMNA, a gene that synthetizes lamins A and C.

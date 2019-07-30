@@ -1,0 +1,1 @@
+Arindam Bhattacharya}} ARINDAM BHATTACHARYA (born 28 January 1980) is an Indian politician who is a Former Congress MLA from the Indian state of West Bengal and Former President of West Bengal Pradesh Youth Congress. He is a member of the West Bengal Legislative Assembly.[1]

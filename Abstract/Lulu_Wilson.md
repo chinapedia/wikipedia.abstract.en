@@ -1,0 +1,1 @@
+LULU WILSON (born October 7, 2005) is an American child actress. Wilson is known for her roles in the well-received horror films _Ouija: Origin of Evil_ (2016), _Annabelle: Creation_ (2017), and the 2018 adaptation of _The Haunting of Hill House_.

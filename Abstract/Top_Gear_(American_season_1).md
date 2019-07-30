@@ -1,0 +1,1 @@
+The first season of _Top Gear_ began airing on History from November 21, 2010 until January 23, 2011.[1][2][3] Consisting of ten episodes, the hosting line-up consisted of Adam Ferrera, Tanner Foust, Rutledge Wood and The Stig. The segments included Power laps and Big Star, Small Car (a renamed version of Star in a Responsibly Priced Car).

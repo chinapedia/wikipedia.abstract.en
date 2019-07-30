@@ -1,0 +1,1 @@
+House_of_Commons_2010.jpg are said to contribute to an adversarial style of debate.[1]]] Australian_house_of_representatives04.jpg.]] Bundesratswahl_2009_-_Applaus.jpg of Switzerland.]] Eduskunta_istuntosali.jpg.]]

@@ -1,0 +1,1 @@
+ALBANIA–SLOVENIA RELATIONS refer to the bilateral relations of Albania and Slovenia. Albania has an embassy in Ljubjana and Slovenia has an embassy in Tirana. Both countries established diplomatic relations on 9 March 1992.

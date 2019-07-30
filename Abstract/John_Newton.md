@@ -1,0 +1,1 @@
+JOHN NEWTON (; – 21 December 1807) was an English Anglican clergyman and abolitionist who served as a sailor in the Royal Navy for a period, and later as the captain of slave ships. He became ordained as an evangelical Anglican cleric, served Olney, Buckinghamshire, for two decades, and also wrote hymns, known for "Amazing Grace" and "Glorious Things of Thee Are Spoken".

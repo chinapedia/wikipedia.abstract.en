@@ -1,0 +1,1 @@
+opened in the Nibutani area of Biratori, Hokkaidō, Japan in 1992. The collection includes 919 items relating to the daily life of the local Ainu that have been jointly designated an Important Tangible Folk Cultural Property; a further 202 items from the same designation may be found at the nearby .[1][2][3]

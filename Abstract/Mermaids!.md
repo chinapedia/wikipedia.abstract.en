@@ -1,0 +1,1 @@
+_MERMAIDS!_ is a themed anthology of fantasy short works edited by American writers Jack Dann and Gardner Dozois. It was first published in paperback by Ace Books in January 1986. It was reissued as an ebook by Baen Books in July 2013.[1]

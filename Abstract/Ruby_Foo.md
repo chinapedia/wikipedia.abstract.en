@@ -1,0 +1,1 @@
+RUBY FOO WONG (1904 – 1950), better known as RUBY FOO, was a restaurateur who founded the historic Ruby Foo's Den in Boston in 1929. One of the earliest Chinese-American women restaurant owners, she went on to open similar restaurants in New York, Miami, Washington, and Providence.

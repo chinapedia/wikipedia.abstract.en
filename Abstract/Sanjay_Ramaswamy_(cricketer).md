@@ -1,0 +1,1 @@
+SANJAY RAMASWAMY (born 1 April 1995) is an Indian cricketer.[1] He made his first-class debut for Vidarbha in the 2014–15 Ranji Trophy on 14 December 2014.[2] He made his List A debut for Vidarbha in the 2017–18 Vijay Hazare Trophy on 5 February 2018.[3]

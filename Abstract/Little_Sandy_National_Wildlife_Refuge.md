@@ -1,0 +1,1 @@
+The LITTLE SANDY NATIONAL WILDLIFE REFUGE is National Wildlife Refuge of 3,802 acres[1] in Wood County, Texas.[2] Unlike most National Wildlife Refuges maintained by the U.S. Fish and Wildlife Service, the public is not allowed access to the refuge.[3] The land is privately owned, but protected by a conservation easement.[4]

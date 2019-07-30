@@ -1,0 +1,1 @@
+_PERSON OF INTEREST_ is the first soundtrack of the American television series _Person of Interest_, composed by Ramin Djawadi, bringing together music used for the first season. Released in November 2012, the album includes twenty-one music composed specially for seasons 1 of _Person of Interest_.

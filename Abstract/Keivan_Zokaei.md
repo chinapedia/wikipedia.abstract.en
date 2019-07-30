@@ -1,0 +1,1 @@
+KEIVAN ZOKAEI is the co-author of "Creating a Lean and Green Business System: Techniques for Improving Profits and Sustainability,[1]" which won the Shingo Research and Professional Publication Award in 2014. The other authors include Hunter Lovins, Andy Wood, and Peter Hines.

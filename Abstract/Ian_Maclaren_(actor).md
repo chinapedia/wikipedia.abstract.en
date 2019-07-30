@@ -1,0 +1,1 @@
+IAN MACLAREN (1 May 1875 – 10 April 1952) was a British stage and film actor. He acted in more than thirty films in Hollywood including the 1930 war film _Journey's End_.[1] Towards the end of his film career he was generally cast in small, uncredited parts.

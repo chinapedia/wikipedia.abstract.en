@@ -1,0 +1,1 @@
+CANNABIS IN BENIN is illegal. The country is not a major drug producer or consumer, but increasingly serves as a transshipment point for drugs produced elsewhere. Cannabis is the only drug produced locally in Benin, though mostly on a small scale.[1][2]

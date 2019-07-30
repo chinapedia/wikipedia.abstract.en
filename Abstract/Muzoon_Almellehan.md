@@ -1,0 +1,1 @@
+Muzoon_Almellehan_-_Global_Citizen_Festival_Hamburg_01.jpg in Hamburg (2017)]] MUZOON ALMELLEHAN () is a Syrian activist and refugee resettled in the United Kingdom. She is known for her work to keep Syrian girls in school, and has been referred to as the "Malala of Syria".[1] In June 2017, she has become the youngest GoodWill Ambassador to UNICEF.

@@ -1,0 +1,1 @@
+_THE MOUNTAIN BETWEEN US_ is a romance-disaster novel, written by American author Charles Martin. The story focuses on Dr. Ben Payne and writer Ashley Knox as they get stuck on High Uintas Wilderness after a plane crash.[1]

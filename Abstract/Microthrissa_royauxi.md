@@ -1,0 +1,1 @@
+_MICROTHRISSA ROYAUXI_, the ROYAL SPRAT, is a species of pelagic, freshwater fish from the herring family Clupeidae which is found in the Congo River basin in west Africa. It was described in 1902 by the Belgian-British zoologist George Albert Boulenger.[1] It is of limited importance as a food fish in subsistence fisheries and its conservation status is Least Concern.[2]

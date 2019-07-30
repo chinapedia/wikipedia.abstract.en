@@ -1,0 +1,1 @@
+Steenbeck_16mm_flatbed_ST_921_(6498601571).jpg STEENBECK is a company that manufactures flatbed editors. Steenbeck is brand name that has become synonymous with a type of flatbed film editing suite which is usable with both 16 mm and 35 mm optical sound and magnetic sound film.[1]

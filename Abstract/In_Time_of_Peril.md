@@ -1,0 +1,1 @@
+_IN TIME OF PERIL_ is a painting by the English painter Edmund Leighton. The subject does not appear to represent any specific historical subject, but an invented incident from the Middle Ages where a young boy and a baby are in flight with their mother, a soldier or father, and chests and bundles of treasures, and arrive at a monastery.[1][2]

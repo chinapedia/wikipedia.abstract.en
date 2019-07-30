@@ -1,0 +1,1 @@
+THE 2016 EUROPEAN CHAMPIONSHIPS OF INTERNATIONAL DRAUGHTS were held from 18 to 24 October in Izmir, Turkey over 9 rounds Swiss-system tournament. In main program were 29 participants from 11 countries, including, 8 grandmasters, 6 international masters and 9 masters of the FMJD. After main program was competitions in rapid and blitz programs. Average raiting 2031.

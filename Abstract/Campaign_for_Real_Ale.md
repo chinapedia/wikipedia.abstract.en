@@ -1,0 +1,1 @@
+The CAMPAIGN FOR REAL ALE (CAMRA) is an independent voluntary consumer organisation headquartered in St Albans, England, which promotes real ale, real cider and the traditional British pub. With over 191,000 members, it is now the largest single-issue consumer group in the UK,[1] and is a founding member of the European Beer Consumers Union (EBCU).

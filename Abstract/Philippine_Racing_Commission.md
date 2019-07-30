@@ -1,0 +1,1 @@
+The PHILIPPINE RACING COMMISSION (), abbreviated as PHILRACOM, is a government agency under the Office of the President that functions as the supervisory and regulating body of horse racing in the Philippines. The agency was established in March 20, 1974 through Presidential Decree No. 420 signed by then President Ferdinand Marcos.[1]

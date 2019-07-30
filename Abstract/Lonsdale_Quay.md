@@ -1,0 +1,1 @@
+Lonsdale_Quay_terminal_entrance.jpg LONSDALE QUAY is a SeaBus ferry terminal that serves Metro Vancouver's North Shore municipalities. The quay is located in the city of North Vancouver and is a major transit exchange for North Shore bus services. The BCIT Marine Campus and Lonsdale Quay Market are located within the vicinity of the quay.

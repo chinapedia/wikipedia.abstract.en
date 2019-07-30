@@ -1,0 +1,1 @@
+Aldershot_Park_Signage.jpg ALDERSHOT PARK is an urban park in the town of Aldershot in Hampshire. The park is located on Guildford Road near Aldershot Cricket Club and the Lido and is owned and maintained by Rushmoor Borough Council.[1]

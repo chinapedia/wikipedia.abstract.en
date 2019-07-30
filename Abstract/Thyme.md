@@ -1,0 +1,1 @@
+THYME () is any member of the genus _Thymus_ of aromatic perennial evergreen herbs in the mint family Lamiaceae. Thymes are relatives of the oregano genus _Origanum_. They have culinary, medicinal, and ornamental uses, the species most commonly cultivated and used for culinary purposes being _Thymus vulgaris_.

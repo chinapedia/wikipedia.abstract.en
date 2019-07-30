@@ -1,0 +1,1 @@
+The GRENADIAN AMBASSADOR IN WASHINGTON, D.C. is the official representative of the Government in St. George's, Grenada to the Government of the United States, he has regularly coacredition at the governments in, Mexico City (Mexico) and Panama City (Panama) and as Permanent Representative to the Organization of American States.

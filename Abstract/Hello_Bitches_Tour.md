@@ -1,0 +1,1 @@
+The HELLO BITCHES TOUR (stylized as HELLO BI+CHES TOUR) was the debut concert tour of South Korean singer CL.[1][2][3] The tour visited nine cities in 2016 in the United States and Canada, kicking off in New York City's Hammerstein Ballroom on 29 October and concluding in Toronto at the Sound Academy on 14 November.

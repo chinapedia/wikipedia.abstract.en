@@ -1,0 +1,1 @@
+The 2017 PALARONG PAMBANSA was the 60th edition of the Palarong Pambansa and was held from April 23 to 29, 2017 in Antique.[1] Student athletes from 18 athletic associations representing the 18 regions of the Philippines competed in different sporting events and disciplines.

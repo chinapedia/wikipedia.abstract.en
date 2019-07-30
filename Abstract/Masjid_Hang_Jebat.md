@@ -1,0 +1,1 @@
+MASJID HANG JEBAT (Jawi: مسجد هڠ جيبت) is a mosque in Queenstown, Singapore.[1] It is one of the few old-generation kampung mosques left in Singapore. The mosque was iconic for its close proximity to the former KTM railway tracks.

@@ -1,0 +1,1 @@
+FRANCISCA FERREIRA, known in political environment as FRANCISCA PRIMO (born March 28, 1968) is a Brazilian teacher, social worker and politician. She is currently a state representative of Maranhão by the Communist Party of Brazil, but was elected by the Workers' Party. She is married to the former mayor of Buriticupu, Antônio Primo and mother of two children.[1]

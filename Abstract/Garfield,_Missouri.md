@@ -1,0 +1,1 @@
+GARFIELD is an unincorporated community in southeast Oregon County, in the Ozarks of southern Missouri.[1] The community is located adjacent to Missouri Route E about three miles southeast of Couch.[2]

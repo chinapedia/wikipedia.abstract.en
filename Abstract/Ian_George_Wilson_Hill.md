@@ -1,0 +1,1 @@
+SIR IAN GEORGE WILSON HILL (7 September 1904 – 5 May 1982) was a Scottish physician. He was President of the Royal College of Physicians of Edinburgh from 1963 to 1966 and the official Physician to the Queen in Scotland. He was Chairman of the British Cardiac Society.

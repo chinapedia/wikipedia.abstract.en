@@ -1,0 +1,1 @@
+YŪJIRŌ MOTORA (November 1, 1858 – December 13, 1912), sometimes also known as YUZERO MOTORA, was one of the earliest Japanese psychologists. He was the first doctorally prepared psychologist from Japan, having studied under G. Stanley Hall in the United States in the 1880s. A number of Motora's students became influential psychologists.

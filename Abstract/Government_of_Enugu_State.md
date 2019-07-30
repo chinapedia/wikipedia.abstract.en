@@ -1,0 +1,1 @@
+The State Government and the Local Government are the two levels of government in Enugu State and in all other states of Nigeria. The governor is above a group of commissioners who he has placed as heads of ministries that oversee various portfolios. Both the governor and the commissioners form the Executive Council of Enugu State.[1]

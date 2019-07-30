@@ -1,0 +1,1 @@
+JOEL TOBECK (born 2 June 1971 in Auckland, New Zealand) is an actor known for his roles in the television series _Tangle_, _The Doctor Blake Mysteries_, _Xena Warrior Princess_, _Hercules: The Legendary Journeys_, and _Young Hercules_ and _Sons of Anarchy_.[1][2] In 2016 Tobeck began performing as the demon Baal on the show _Ash vs Evil Dead_.[3]

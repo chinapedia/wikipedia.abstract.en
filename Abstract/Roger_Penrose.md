@@ -1,0 +1,1 @@
+SIR ROGER PENROSE (born 8 August 1931) is an English mathematical physicist, mathematician and philosopher of science. He is Emeritus Rouse Ball Professor of Mathematics in the University of Oxford and Emeritus Fellow of Wadham College, Oxford.

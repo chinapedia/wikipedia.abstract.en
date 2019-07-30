@@ -1,0 +1,1 @@
+The ESTONIAN LANGUAGE ( ) is the official language of Estonia, spoken natively by about 1.1 million people: 922,000 people in Estonia and 160,000 outside Estonia.[1] It is a Southern Finnic language and is the second most spoken language among all the Finnic languages.

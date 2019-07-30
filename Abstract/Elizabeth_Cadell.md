@@ -1,0 +1,1 @@
+ELIZABETH VIOLET CADELL (née Vandyke) (November 10, 1903 – October 9, 1989)[1] was a 20th-century British writer. Born and raised in CALCUTTA, she was educated in England.[2] In 1928, she married H. D. R. M. Cadell; they had two children.[3] She spent her last years in Portugal.[4] Cadell sometimes used the pseudonym, Harriet Ainsworth.[5]

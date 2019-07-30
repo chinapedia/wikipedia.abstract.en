@@ -1,0 +1,1 @@
+The UNIVERSITY OF LAY ADVENTISTS OF KIGALI (UNILAK) is a private university owned and operated by the Federation of Adventist Parents Associations for the Development of Education in Rwanda (FAPADER) which is an association of several lay Seventh day Adventist proprietorship secondary school associations that include:

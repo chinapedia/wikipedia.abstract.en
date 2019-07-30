@@ -1,0 +1,1 @@
+TRUXINIC ACIDS are any of several stereoisomeric cyclic dicarboxylic acids with the formula (C₆H₅)₂C₄H₄(COOH)₂, found in various plants.[1][2] They are obtained by a photochemical cycloaddition from cinnamic acid,[3] where the two _trans_ alkenes react head-to-head.

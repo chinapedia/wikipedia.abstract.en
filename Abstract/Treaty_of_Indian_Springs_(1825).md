@@ -1,0 +1,1 @@
+The TREATY OF INDIAN SPRINGS, also known as the SECOND TREATY OF INDIAN SPRINGS and the TREATY WITH THE CREEKS, is a treaty concluded between the Muscogee and the United States on February 12, 1825 at what is now the Indian Springs Hotel Museum.

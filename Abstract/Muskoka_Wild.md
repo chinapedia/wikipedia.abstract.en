@@ -1,0 +1,1 @@
+The MUSKOKA WILD were a United Hockey Union-sanctioned junior ice hockey team from Port Carling, Ontario, Canada. They were a member of the Canadian Premier Junior Hockey League and played in the 2016–17 season.

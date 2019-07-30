@@ -1,0 +1,1 @@
+SYED MANSOOR ALI SHAH (born 28 November 1962) is a Pakistani jurist who is serving as judge of the Supreme Court , according to the seniority in composition of court he will become 31st Chief Justice of Pakistan from 5 August 2025 to 27 November 2027. He has formerly served as the 45th Chief Justice of the Lahore High Court.[1]

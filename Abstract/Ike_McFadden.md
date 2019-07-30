@@ -1,0 +1,1 @@
+IKE MCFADDEN (born June 20, 1977) is an American video game producer and former television and film producer and public relations agent. He is best known for his video game work with Hulk Hogan, David Hasselhoff, The Blues Brothers, and James Dean. Together with partners Eric Bischoff and Jason Hervey, he founded the game production company MX Digital.

@@ -1,0 +1,1 @@
+VO HOAI PHUC (Vo Dai Hoai Phuc) is a Vietnamese composer who quite unexpectedly and recklessly turned to the professional career of music when being a second-year student of Physics, Pedagogy University, HCMC.

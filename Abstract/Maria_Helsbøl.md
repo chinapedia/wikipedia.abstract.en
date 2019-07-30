@@ -1,0 +1,1 @@
+MARIA HELSBØL (born 17 September 1989) is a Danish badminton player. She was the bronze medalists at the 2015 European Games in the women's doubles event partnered with Lena Grebak.[1][2] Helsbøl joined the national squad that won the European Women's Team Championships in 2014 and European Mixed Team Championships in 2015.

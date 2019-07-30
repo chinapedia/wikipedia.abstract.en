@@ -1,0 +1,1 @@
+_MABMAT (ROVER)_ is a robotic imaging system designed to capture photographs and videos of crime scenes and map locations in 360 degrees. This robot's main feature is taking the 360-degree photos and videos and converting them to virtual crime scene data which can be used with virtual reality headsets to examine the captured scene.

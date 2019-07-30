@@ -1,0 +1,1 @@
+TANAJI SAWANT () is a businessman , Shiv Sena politician and deputy leader from Solapur district, Maharashtra. He is current Member of Legislative Council as a member of Shiv Sena representing Yavatmal Local Authorities constituency. [1] He got elected to legislative council with a record margin of 270 votes, securing 348 votes.

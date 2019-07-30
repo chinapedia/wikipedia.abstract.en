@@ -1,0 +1,1 @@
+HELSINKI FINITE-STATE TECHNOLOGY (HFST) is a computer programming library and set of utilities for natural language processing with finite-state automata and finite-state transducers. It is free and open-source software, released under a mix of the GNU General Public License version 3 (GPLv3) and the Apache License.

@@ -1,0 +1,1 @@
+DURLABHA-RĀJA I (r. c. 784-809 CE ) was an Indian ruler belonging to the Chahamana dynasty. He ruled parts of present-day Rajasthan in north-western India as a vassal of the Gurjara-Pratihara king Vatsaraja.

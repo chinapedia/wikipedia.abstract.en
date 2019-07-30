@@ -1,0 +1,1 @@
+'''Jan May ''' (born 11 June 1995)[1] is a German male track cyclist, representing Germany at international competitions. He won the bronze medal at the 2016 UEC European Track Championships in the team sprint.[2]

@@ -1,0 +1,1 @@
+_ZANAN-E EMRUZ_ is an Iranian monthly magazine owned by Shahla Sherkat[1] which started its publication on June 2014.[2] After 11 volumes, it was suspended on April 2015 and re-launched publication on October 2015. The magazine is a continuation of a formerly banned monthly magazine on women called _Zanan_.[3]

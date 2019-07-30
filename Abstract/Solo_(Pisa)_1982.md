@@ -1,0 +1,1 @@
+_SOLO (PISA) 1982_ is a live album by composer and saxophonist Anthony Braxton featuring a solo performance recorded in Italy in 1982 and first released on the Golden Years of New Jazz label in 2007.[1][2][3]

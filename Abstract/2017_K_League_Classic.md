@@ -1,0 +1,1 @@
+The 2017 K LEAGUE CLASSIC was the 35th season of the top division of professional football in South Korea since its establishment in 1983 as K League and the fifth season in its current name, the K League Classic.

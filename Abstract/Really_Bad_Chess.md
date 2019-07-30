@@ -1,0 +1,1 @@
+_REALLY BAD CHESS_ (stylized as _REALLY BAD CHESS_) is a mobile video game developed by Zach Gage. It was released on October 13, 2016 for iOS, with a version for Android released in May 2017.[1] The game is based on the original game of chess but contains rearranged boards.

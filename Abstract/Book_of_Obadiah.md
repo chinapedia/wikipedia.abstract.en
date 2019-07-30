@@ -1,0 +1,1 @@
+The BOOK OF OBADIAH is an oracle concerning the divine judgment of Edom and the restoration of Israel.[1] The text consists of a single chapter, divided into 21 verses, making it the shortest book in the Hebrew Bible.[2]

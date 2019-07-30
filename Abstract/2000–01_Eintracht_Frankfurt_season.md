@@ -1,0 +1,1 @@
+The 2000–01 EINTRACHT FRANKFURT SEASON was the 101st season in the club's football history. In 2000–01 the club played in the Bundesliga, the top tier of German football. It was the club's 99th season in the first tier.

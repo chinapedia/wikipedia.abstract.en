@@ -1,0 +1,1 @@
+The GOVERNOR OF FORMOSA is a citizen of the Formosa Province, in Argentina, holding the office of governor for the corresponding period. The governor is elected alongside a vice-governor. Currently the governor of Jujuy is Gildo Insfrán.[1]

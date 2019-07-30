@@ -1,0 +1,1 @@
+The 93RD LIGHT ANTI-AIRCRAFT REGIMENT (93rd LAA Rgt) was an air defence unit of the British Army's Royal Artillery (RA) during World War II. Elements of the regiment landed with special equipment on D-Day, and served in the Normandy campaign. The regiment went on to defend Belgian cities against V-1 flying bombs and participated in the assault crossing of the Rhine.

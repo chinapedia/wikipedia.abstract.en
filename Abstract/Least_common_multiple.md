@@ -1,0 +1,1 @@
+Least_common_multiple_chart.png Symmetrical_5-set_Venn_diagram_LCM_2_3_4_5_7.svg showing the least common multiples of combinations of 2, 3, 4, 5 and 7 (6 is skipped as it is 2 × 3, both of which are already represented).

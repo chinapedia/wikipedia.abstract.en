@@ -1,0 +1,1 @@
+PASSLE is an Oxford and London based start-up in the B2B marketing technology domain. The company provides software, training and gamification services for Professional Services firms to share their expertise online.

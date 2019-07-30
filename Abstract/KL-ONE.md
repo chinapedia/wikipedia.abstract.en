@@ -1,0 +1,1 @@
+KL-ONE (pronounced "kay ell won") is a well known knowledge representation system in the tradition of semantic networks and frames; that is, it is a frame language. The system is an attempt to overcome semantic indistinctness in semantic network representations and to explicitly represent conceptual information as a structured inheritance network.[1][2][3]

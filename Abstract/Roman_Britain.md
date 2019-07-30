@@ -1,0 +1,1 @@
+ROMAN BRITAIN ([1] or, later, __, "the Britains") was the area of the island of Great Britain that was governed by the Roman Empire, from 43 to 410 AD.[2][3] It comprised almost the whole of England and Wales and, for a short period, southern Scotland.

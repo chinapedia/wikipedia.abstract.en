@@ -1,0 +1,1 @@
+The MEN'S POINTS RACE was held on 17 October 2014. 29 riders participated over a distance of 40 km (120 laps), with sprints every 6 laps awarding 5, 3, 2 or 1 point to the first four; 20 points are also awarded/withdrawn for each lap gained/lost respectively.[1]

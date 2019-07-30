@@ -1,0 +1,1 @@
+A RERUN or REPEAT is a rebroadcast of an episode of a radio or television program. There are two types of reruns – those that occur during a hiatus, and those that occur when a program is syndicated. Reruns can also be, as the case with more popular shows, when a show is aired outside its timeslot (for example, in the afternoon).

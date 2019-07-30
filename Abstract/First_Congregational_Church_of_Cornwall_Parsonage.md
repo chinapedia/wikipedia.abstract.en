@@ -1,0 +1,1 @@
+The FIRST CONGREGATIONAL CHURCH OF CORNWALL PARSONAGE is a historic house at 18 Vermont Route 74 in the center of Cornwall, Vermont. Built in 1839, it is a good local example of Greek Revival architecture, and served as a parsonage until 1994. It was listed on the National Register of Historic Places in 2015.[1]

@@ -1,0 +1,1 @@
+is a free-to-play virtual reality adventure game in the _Danganronpa_ series, developed and published by Spike Chunsoft for the PlayStation 4 for use with the PlayStation VR virtual reality headset. It was produced by Yoshinori Terasawa at Spike Chunsoft, who was inspired to create the game after playing Bandai Namco Entertainment's _Summer Lesson_.

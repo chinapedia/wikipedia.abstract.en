@@ -1,0 +1,1 @@
+_THE ARAB AWAKENING_ is a 1938 book by George Antonius, published in London by Hamish Hamilton. It is viewed as the foundational textbook of the history of modern Arab nationalism. According to Martin Kramer, _The Arab Awakening_ "became the preferred textbook for successive generations of British and American historians and their students".[1]

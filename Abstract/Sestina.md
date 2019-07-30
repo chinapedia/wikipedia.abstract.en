@@ -1,0 +1,1 @@
+A SESTINA (Italian: _sestina_, from _sesto_, sixth; Old Occitan: _cledisat_ ; also known as _sestine_, _sextine_, _sextain_) is a fixed verse form consisting of six stanzas of six lines each, normally followed by a three-line envoi. The words that end each line of the first stanza are used as line endings in each of the following stanzas, rotated in a set pattern.

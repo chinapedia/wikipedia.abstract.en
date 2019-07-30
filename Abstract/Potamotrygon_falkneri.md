@@ -1,0 +1,1 @@
+_POTAMOTRYGON FALKNERI_, the LARGESPOT RIVER STINGRAY or RETICULATED FRESHWATER STINGRAY, is a species of freshwater stingray in the family Potamotrygonidae from tropical and subtropical South America.[1][2] It is sometimes seen in the aquarium trade, but requires a very large tank.[3]

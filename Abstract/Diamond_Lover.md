@@ -1,0 +1,1 @@
+_DIAMOND LOVER_ (Chinese: 克拉恋人) is a 2015 Chinese television series starring Rain, Tiffany Tang, Luo Jin and Dilraba Dilmurat. It premiered simultaneously on Zhejiang Television and Anhui Television on 22 July 2015. The drama is a commercial success in China, with a peak rating of 1.249 and more than 3.3 billion views online.[1]

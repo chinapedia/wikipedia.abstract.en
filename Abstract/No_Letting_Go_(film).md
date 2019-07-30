@@ -1,0 +1,1 @@
+_NO LETTING GO_ is a 2015 American drama film directed by Jonathan D. Bucari. It is Bucari's directorial debut and is based on his 2013 short film _Illness_.[1] It is also based on the true story of the producer and co-screenwriter Randi Silverman.[2]

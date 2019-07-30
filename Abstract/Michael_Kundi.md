@@ -1,0 +1,1 @@
+Ao.Univ.- Prof. Dr. MICHAEL KUNDI (born 1950) is the head of the Institute of Environmental Health of the Medical University of Vienna, Austria. He has published over 200 articles in various scientific journals.[1][2]

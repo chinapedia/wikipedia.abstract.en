@@ -1,0 +1,1 @@
+SIGMA INVESTMENTS GROUP (_known as_ SIGMA INVESTMENTS LIMITED) is a multinational company founded by Iman Mutlaq based in Amman, Jordan. It offers diversified investment opportunities and advisory services to clients.[1]

@@ -1,0 +1,1 @@
+In the U.S. state of Ohio, cannabis is illegal for recreational use but decriminalized for possession of up to 100 grams.[1] Medical use was legalized through a bill signed into law in June 2016, with the first legal sales occurring in January 2019.

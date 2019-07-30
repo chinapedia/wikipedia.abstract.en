@@ -1,0 +1,1 @@
+_NEMOPHAS TOMENTOSUS_ is a species of beetle in the family Cerambycidae. It was described by Buquet in 1859, originally under the genus _Apriona_. It is known from the Solomon Islands and Papua New Guinea.[1]

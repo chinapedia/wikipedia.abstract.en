@@ -1,0 +1,1 @@
+ERDENEBATYN BEKHBAYAR (born 13 August 1992) is a Mongolian freestyle wrestler who competes in the 57 kg division. He won a gold medal at the 2018 Asian Games and bronze medals at the 2015 and 2017 world championships. He competed at the 2016 Summer Olympics, where he was eliminated in the round of 32 by Adama Diatta.[1][2]

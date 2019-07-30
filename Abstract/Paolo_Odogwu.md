@@ -1,0 +1,1 @@
+PAOLO ODOGWU (born 18 February 1997) is a professional Rugby Union player who currently plays for English club Sale Sharks. Odogwu plays predominantly on the wing. Paolo is also a part of the Castore Sportswear Academy.[1]

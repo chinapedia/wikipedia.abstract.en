@@ -1,0 +1,1 @@
+HOTEL ARYADUTA JAKARTA is a luxury hotel in Gambir, Jakarta, Indonesia. It is located at a strategic place in Central Jakarta, and is one of the most prominent building around the park where the Heroes Monument of Jakarta is located. Hotel Aryaduta Jakarta was among the many hotels of Jakarta that was built in the 1970s as a strategy to attract more investors into the country.

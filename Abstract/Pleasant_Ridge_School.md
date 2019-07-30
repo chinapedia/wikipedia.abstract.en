@@ -1,0 +1,1 @@
+EVERETT SCHOOL was a historic school building located near St. Joseph, Missouri. It was built in 1883, and was a two-story, rectangular brick building on a stone foundation. It had a low pitched roof and segmental arched door opening.[1]

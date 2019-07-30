@@ -1,0 +1,1 @@
+THANDAVA MURTHY MUTHU (born 21 January 1975) is an Indian male weightlifter, competing in the 56 kg category and representing India at international competitions. He participated at the 2000 Summer Olympics in the 56 kg event.[1] He competed at world championships, most recently at the 2001 World Weightlifting Championships.[2]

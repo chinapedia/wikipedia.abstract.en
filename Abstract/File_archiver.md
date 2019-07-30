@@ -1,0 +1,1 @@
+A FILE ARCHIVER is a computer program that combines a number of files together into one archive file, or a series of archive files, for easier transportation or storage. File archivers may employ lossless data compression in their archive formats to reduce the size of the archive.

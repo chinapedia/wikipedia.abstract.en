@@ -1,0 +1,1 @@
+JACK SELLERS (July 27, 1944 – October 24, 2016) was an American professional stock car racing driver and team owner. Sellers was a long-time competitor in the NASCAR K&N Pro Series West, formerly known as the Winston West Series.[1]

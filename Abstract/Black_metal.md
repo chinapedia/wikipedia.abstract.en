@@ -1,0 +1,1 @@
+BLACK METAL is an extreme subgenre of heavy metal music. Common traits include fast tempos, a shrieking vocal style,[1][2][3] heavily distorted guitars played with tremolo picking, raw (lo-fi) recording, unconventional song structures, and an emphasis on atmosphere. Artists often appear in corpse paint and adopt pseudonyms.

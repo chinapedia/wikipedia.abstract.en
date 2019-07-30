@@ -1,0 +1,1 @@
+PARK SUNG-HOON (; born December 8, 2002) is a South Korean figure skater. Park is 2016, 2017 junior Silver Medalist and 2015 Novice Champion of Asian Figure Skating Trophy, and Novice Champion of 2015 Lombardia Trophy. Also he is silver medalist in Novice and Junior of 2013 and 2014 South Korean national.

@@ -1,0 +1,1 @@
+STANNINGLEY RAILWAY STATION, also called _Stanningley for Farsley_, is a closed railway station in Stanningley, Pudsey, West Yorkshire, England, located about west of Leeds station. It also served Farsley[1] and Pudsey, the latter namely until the Pudsey Loop was built.

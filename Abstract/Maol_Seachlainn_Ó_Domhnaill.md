@@ -1,0 +1,1 @@
+MAOL SEACHLAINN Ó DOMHNAILL (died 1247) was King of Tír Chonaill and a member of the Uí Domhnaill. He was a son of Domhnall Mór Ó Domhnaill, King of Tír Chonaill (died 1241),[1] a man who was married to Lasairfhíona, daughter of Cathal Crobhdhearg Ó Conchobhair, King of Connacht. Maol Seachlainn had two brothers: Gofraidh (died 1257) and Domhnall Óg (died 1281).[2]

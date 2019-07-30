@@ -1,0 +1,1 @@
+EDWARD KEMBOI is a Kenyan middle-distance runner who competes professionally for Atlanta Track Club and Mizuno. He won the 800 metres at 2015 NCAA Division I Outdoor Track and Field Championships [1] and at the 2015 NCAA Division I Indoor Track and Field Championships.

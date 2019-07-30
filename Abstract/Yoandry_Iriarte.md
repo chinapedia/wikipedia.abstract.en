@@ -1,0 +1,1 @@
+YOANDRY IRIARTE GALVEZ (born May 5, 1986) is a Cuban fencer. He competed in the men's sabre event at the 2016 Summer Olympics,[1] and was eliminated in the first round by world no. 2 Kim Jung-hwan after a 15-7 loss.[2]

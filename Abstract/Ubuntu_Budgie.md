@@ -1,0 +1,1 @@
+UBUNTU BUDGIE (formerly BUDGIE-REMIX) is an official community flavor of Ubuntu featuring the Budgie desktop. It combines the stable and thoroughly-tested Ubuntu core with a modern, lightweight and traditional-looking desktop developed by the Solus project.

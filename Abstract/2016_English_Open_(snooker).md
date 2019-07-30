@@ -1,0 +1,1 @@
+The 2016 CORAL ENGLISH OPEN was a professional ranking snooker tournament that took place between 10 and 16 October 2016 at the EventCity in Manchester, England.[1] It was the seventh ranking event of the 2016/2017 season.[2]

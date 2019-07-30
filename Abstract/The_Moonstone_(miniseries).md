@@ -1,0 +1,1 @@
+_THE MOONSTONE_ is a daytime drama series produced by King Bert Productions for BBC 1 Daytime. It is an adaptation of the Wilkie Collins novel described by T.S. Eliot as the first and greatest of English detective novels. It stars Joshua Silver and John Thomson.[1][2]

@@ -1,0 +1,1 @@
+Maciej_Plazynski_house_after_death_Gdansk_April_2010.JPG Maciej_Plazynski_tomb_Gdansk.JPG Plaque_to_Maciej_Płażyński_on_his_former_office_in_Gdańsk.jpg.]] Former_office_of_Maciej_Płażyński_in_Gdańsk_-_1.jpg MACIEJ PŁAŻYŃSKI (; 10 February 1958 – 10 April 2010) was a Polish liberal-conservative politician.

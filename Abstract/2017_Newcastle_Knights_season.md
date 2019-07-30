@@ -1,0 +1,1 @@
+The 2017 NEWCASTLE KNIGHTS SEASON was the 30th in the club's history. Coached by Nathan Brown and captained by Trent Hodkinson, before being replaced by Sione Mata'utia and Jamie Buhrer in the captaincy role, they competed in the NRL's 2017 Telstra Premiership, finishing the regular season in 16th place (out of 16).

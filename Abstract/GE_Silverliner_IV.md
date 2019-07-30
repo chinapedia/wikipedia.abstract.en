@@ -1,0 +1,1 @@
+The SILVERLINER IV is an electric railcar designed and built by General Electric. This was the fourth generation railcar in the Silverliner family of single level EMUs and it is currently used by Philadelphia's SEPTA Regional Rail.

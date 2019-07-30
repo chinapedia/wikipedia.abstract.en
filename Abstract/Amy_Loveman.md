@@ -1,0 +1,1 @@
+AMY LOVEMAN (16 May 1881 – 11 December 1955) was an influential American editor and critic, best known for her work as a founding editor of the _Saturday Review of Literature_ and for her work at the Book-of-the-Month Club.

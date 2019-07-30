@@ -1,0 +1,1 @@
+KASTRIOT BERISHAJ (born TAHIR VELIU on 19 February 1984) is an Albanian politician, author and political analyst. He is leader of the nationalist Movement for United Albania and the author of the book "The Platform for United Albania".

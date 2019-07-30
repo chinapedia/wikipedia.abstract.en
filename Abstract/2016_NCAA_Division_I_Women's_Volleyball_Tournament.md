@@ -1,0 +1,1 @@
+The 2016 NCAA DIVISION I WOMEN'S VOLLEYBALL TOURNAMENT began on December 1, 2016 and concluded on December 17 at Nationwide Arena in Columbus, Ohio.[1] The tournament field was determined on November 27, 2016. Stanford defeated Texas 3 sets to 1 in the final to claim their seventh title, tying them with Penn State for most all-time.

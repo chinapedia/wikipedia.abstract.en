@@ -1,0 +1,1 @@
+Stenner_Hermann_Museumsberg_Flensburg_Hans-Christansen-Haus.JPG HERMANN STENNER (12 March 1891, Bielefeld - 5 December 1914, near Iłów (German: Enlau) was a German Expressionist painter and graphic artist.

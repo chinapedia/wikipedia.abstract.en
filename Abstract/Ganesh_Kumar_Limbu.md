@@ -1,0 +1,1 @@
+GANESH KUMAR LIMBU is a Bharatiya Janata Party politician from Assam. Ganesh Kumar Limbu was born to Late Padam Bahadur Limbu. He has been elected in Assam Legislative Assembly election in 2016 from Barchalla constituency.[1][2][3]

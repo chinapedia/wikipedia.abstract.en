@@ -1,0 +1,1 @@
+NUMBER SCRABBLE (also known as PICK15[1][2][3] or 3 TO 15[4]) is a mathematical game where players take turns to select numbers from 1 to 9 without repeating any numbers previously used, and the first player to amass a personal total of exactly 15 wins the game.[5][6] The game is isomorphic to tic-tac-toe, as can be seen if the game is mapped onto a magic square.[7]

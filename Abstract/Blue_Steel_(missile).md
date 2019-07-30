@@ -1,0 +1,1 @@
+The Avro BLUE STEEL was a British air-launched, rocket-propelled nuclear armed standoff missile, built to arm the V bomber force. It allowed the bomber to launch the missile against its target while still outside the range of surface-to-air missiles (SAMs). The missile proceeded to the target at speeds up to Mach 3, and would trigger within 100 m of the pre-defined target point.

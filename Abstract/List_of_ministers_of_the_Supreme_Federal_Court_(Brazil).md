@@ -1,0 +1,1 @@
+This is a list of MINISTERS OF THE SUPREME FEDERAL COURT (STF) of Brazil since its foundation as SUPREMO TRIBUNAL DE JUSTIÇA (Supreme Justice Court) the highest Brazilian court during the imperial period (1822–1889).[1]

@@ -1,0 +1,1 @@
+RICHARD DALE AMMAN (born September 21, 1950) is a former American football defensive tackle in the National Football League (NFL) for the Baltimore Colts. He also was a member of the Florida Blazers and San Antonio Wings in the World Football League. He played college football at Florida State University.

@@ -1,0 +1,1 @@
+The _' West of Ireland Seniors Championship_' was a men's senior (over 50) professional golf tournament on the European Seniors Tour, held at the East Clare Golf Club in Bodyke, County Clare, Ireland. It was held just once, in August 1998, and was won by John Morgan who finished a shot ahead of Denis O'Sullivan.[1]

@@ -1,0 +1,1 @@
+THADI RAILWAY STATION (station code:THY[1]), located in the Indian state of Andhra Pradesh, serves Golagam and Thadi villages from Anakapalle mandal in Visakhapatnam district.It lies in Howrah-Chennai main line. It is located at a distance of 10 km from Duvvada and 6 km from Anakapalle.

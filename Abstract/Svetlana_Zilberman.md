@@ -1,0 +1,1 @@
+SVETLANA ZILBERMAN (born 10 May 1958 as'' Svetlana Beliasov'') is an Israeli badminton player.[1] In 1986, she won bronze medal at the European Badminton Championships in women's singles event.[2] She also won the Israeli National Badminton Championships 17 times in the women's singles and doubles event, and 21 times in the mixed doubles event.[3]

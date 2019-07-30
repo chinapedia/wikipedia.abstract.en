@@ -1,0 +1,1 @@
+THUISBRUNN CASTLE () is located centrally within the parish of Thuisbrunn in the municipality of Gräfenberg in the Bavarian province of Upper Franconia. After having been destroyed and rebuilt several times, the castle is now in private ownership.

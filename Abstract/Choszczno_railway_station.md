@@ -1,0 +1,1 @@
+CHOSZCZNO RAILWAY STATION is a railway station serving the town of Choszczno, in the West Pomeranian Voivodeship, Poland. The station is located on the Poznań–Szczecin railway and the now closed Grzmiąca–Kostrzyn railway. The train services are operated by PKP and Przewozy Regionalne.

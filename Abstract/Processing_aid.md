@@ -1,0 +1,1 @@
+A PROCESSING AID is a substance used in the production of processed food, and which may end up in the finished product, but which is not, by law, required to be disclosed to the consumer as an ingredient.[1][2]

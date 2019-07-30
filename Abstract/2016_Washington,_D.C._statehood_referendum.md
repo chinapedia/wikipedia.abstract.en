@@ -1,0 +1,1 @@
+A REFERENDUM ON STATEHOOD FOR THE DISTRICT OF COLUMBIA was held on November 8, 2016. It was the second referendum on statehood to be held in the district. The District of Columbia was created following the passage of the Residence Act on July 9, 1790, which approved the creation of a national capital, the City of Washington on the Potomac River.

@@ -1,0 +1,1 @@
+MARJORIE "MARGIE" HENDRIX (March 13, 1935 – July 14, 1973)[1] was an American rhythm and blues singer best known for her performances as a founder member and leader of the Raelettes, backing Ray Charles, the father of her child. The spelling "Hendricks" is sometimes used.

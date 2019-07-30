@@ -1,0 +1,1 @@
+NIGEL PAUL PATERSON is a British musician[1][2][3][4] Paterson began his career in the early 1960s, singing, playing the guitar, mandolin and tenor recorder[5] in the folk group The Halliard,[6][7][8][9][10] with Dave Moran and Nic Jones.

@@ -1,0 +1,1 @@
+A DEBIT CARD (also known as a BANK CARD, PLASTIC CARD or CHECK CARD) is a plastic payment card that can be used instead of cash when making purchases. It is similar to a credit card, but unlike a credit card, the money is immediately transferred directly from the cardholder's bank account when performing any transaction.

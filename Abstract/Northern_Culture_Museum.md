@@ -1,0 +1,1 @@
+is an open-air museum in Kōnan-ku, Niigata, Japan. It contains the well known mansion of a wealthy farming family called , gardens and houses in Edo period. There is also a branch in Chūō-ku, Niigata.

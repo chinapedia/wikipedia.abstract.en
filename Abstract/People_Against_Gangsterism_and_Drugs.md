@@ -1,0 +1,1 @@
+PEOPLE AGAINST GANGSTERISM AND DRUGS (PAGAD) was a vigilante group formed in 1996 in the Cape Flats area of Cape Town, South Africa. The organization was known for its violence against gangsters, engaging in arson and murder. Although PAGAD is much smaller than in the early years since its formation, the organization has been reported to be growing as of 2014.

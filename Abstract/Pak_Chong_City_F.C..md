@@ -1,0 +1,1 @@
+PAK CHONG CITY FOOTBALL CLUB (Thai ปากช่องซิตี้), or _Pakchong School Alumni Association F.C._ is a Thai semi-professional Football Club based in Pak Chong District in Nakhon Ratchasima, Thailand. The club is currently playing in the 2018 Thailand Amateur League Eastern Region.

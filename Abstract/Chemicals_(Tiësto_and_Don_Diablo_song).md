@@ -1,0 +1,1 @@
+"CHEMICALS" is a 2015 single by Dutch DJs and music producers Tiësto and Don Diablo. It features vocals by Danish singer and producer Thomas Troelsen and was released on Musical Freedom and Spinnin' Records. The song was released on September 21, 2015 through Musical Freedom.[1]

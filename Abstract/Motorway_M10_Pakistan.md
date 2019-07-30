@@ -1,0 +1,1 @@
+The M10 is a motorway proposed [1] in Punjab and Balouchistan province, Pakistan. The motorway would be 570 km long, out of which 190 km would be in Punjab province and 380 km in Baluchistan province. It would be 4 laned and on completion would reduce travelling time from Multan to Quetta to 7 hours from 18 hours.

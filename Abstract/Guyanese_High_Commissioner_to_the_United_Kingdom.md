@@ -1,0 +1,1 @@
+THE GUYANESE HIGH COMMISSIONER (COMMONWEALTH) IN LONDON is the official representative of the Government in Georgetown, Guyana to the Government of the United Kingdom and is regularly accretitated as ambassador in Paris, The Hague, Berlin, Warsaw and to the Holy See.

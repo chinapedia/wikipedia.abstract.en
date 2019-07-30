@@ -1,0 +1,1 @@
+_THE REBEL_[1][2] () is a South Korean television series starring Yoon Kyun-sang, Chae Soo-bin, Kim Ji-seok, Lee Ha-nui and Kim Sang-joong. It aired on MBC every Monday and Tuesday at 22:00 (KST) from January 30, 2017 to May 16, 2017.[3][4]

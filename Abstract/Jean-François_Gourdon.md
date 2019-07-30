@@ -1,0 +1,1 @@
+JEAN-FRANÇOIS GOURDON (born Paris, 28 September 1954) is a former French rugby union player. He played as a wing. His is professionally a consultant on risk management and an insurance broker. He is the son of a Ukrainian mother and a French father.

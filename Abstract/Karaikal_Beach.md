@@ -1,0 +1,1 @@
+KARAIKAL BEACH is a popular beach in the coastal area of Karaikal city, Puducherry, Tamil Nadu. It lies on the Bay of Bengal. The beach is one of the best natural beaches in the region of Southeastern Tamil Nadu.

@@ -1,0 +1,1 @@
+_THE SPIRIT OF CHRISTMAS_ is a studio album by Washington, D.C.-based go-go musician Chuck Brown, released in 1999.[1] This is Chuck Brown's first and only Christmas album, and features go-go renditions of nine traditional Christmas carols, including the remake of Johnny Moore's Three Blazers song "Merry Christmas, Baby".[2]

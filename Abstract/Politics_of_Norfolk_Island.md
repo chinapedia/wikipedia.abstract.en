@@ -1,0 +1,1 @@
+POLITICS OF NORFOLK ISLAND takes place in a framework of a parliamentary representative democratic entity. Norfolk Island is the only non-mainland Australian territory to have achieved self-governance. The Norfolk Island Act 1979, passed by the Parliament of Australia in 1979, is the Act under which the island is governed.

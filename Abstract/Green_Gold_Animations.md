@@ -1,0 +1,1 @@
+GREEN GOLD ANIMATION PT LTD, is a Hyderabad based Indian Animation company with offices in India, Singapore, Philippines and USA, it is widely known for creating Chhota Bheem and Krishna film series. Green Gold Animation was founded by Rajiv Chilaka in January 2001, with a dream of building a company which would be the Disney of India. [1][2]

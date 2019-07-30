@@ -1,0 +1,1 @@
+_GARJANAI_ (English: Roar) is an upcoming Indian Tamil thriller film directed by Sundar Balu. Inspired by Navdeep Singh's Hindi film _NH10_ (2015), the film features Trisha in the lead role Trisha, with Vamsi Krishna and Amit Bhargav in supporting roles

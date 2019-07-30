@@ -1,0 +1,1 @@
+MMAKU is a town located in the Awgu local government area of Enugu State, Nigeria. Its prominent communities are Enugwu Agu, Affam, Ifite, Otokwu and Ezioha. The Oji-Awgu road is the main thoroughfare in Mmaku. Surrounding communities are Ugbo, Obeagu, Mgbowo and Awgu.[1]

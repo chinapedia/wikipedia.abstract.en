@@ -1,0 +1,1 @@
+VANDERBILT BROWN, M.D. (May 25, 1886 – April 25, 1921) was an African American physician in Virginia. He was one of the very first physicians to finish training in World War I (as a part of the Medical Reserve Corps). He was assigned to 365th Ambulance Company in the 317th Infantry of the 92nd Division. Brown died a few years after the war.

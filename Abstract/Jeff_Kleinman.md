@@ -1,0 +1,1 @@
+JEFF KLEINMAN (born September 23, 1988) is an American record producer and composer. He has produced for artists such as Frank Ocean, Anderson Paak and Kevin Abstract. His music is featured in Academy Award-winning film maker Charles Ferguson's documentary film _Time To Choose_ (2016).

@@ -1,0 +1,1 @@
+ST. IGNATIUS COLLEGE, RIO DE JANEIRO (Portuguese: _Colégio de Santo Inácio, Rio de Janeiro_), is a Brazilian private, Catholic school, located in the neighborhood of Botafogo in the South Zone of the city of Rio de Janeiro.[1] It serves students from kindergarten through secondary school, and includes also a night school for youth and adults.

@@ -1,0 +1,1 @@
+The Bolivian Olympic Committee ( - COB) is the National Olympic Committee representing Bolivia in the International Olympic Committee (IOC), the Pan American Sports Organization (PASO), the Association of National Olympic Committees (ANOC) and the South American Sports Organization (ODESUR). It was created 1932 and recognized by the IOC in 1936.

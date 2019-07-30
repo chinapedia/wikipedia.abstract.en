@@ -1,0 +1,1 @@
+The DEMOGRAPHY OF KENYA is monitored by the Kenyan National Bureau of Statistics. Kenya is a multi-ethnic state in the Great Lakes region of East Africa. It is inhabited primarily by Bantu and Nilotic populations, with some Cushitic-speaking ethnic minorities in the north. Its total population was estimated at 47 million as of 2017.[1]

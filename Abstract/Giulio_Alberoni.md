@@ -1,0 +1,1 @@
+Cardinale_Giulio_Alberoni.jpg GIULIO ALBERONI (30 May 1664 OS – 26 June NS 1752) was an Italian cardinal and statesman in the service of Philip V of Spain.[1] He is known also for being a remarkable soldier and great gourmet who advised the Spanish court on table manners and menus.

@@ -1,0 +1,1 @@
+PILAR DE VICENTE-GELLA (born María Pilar Esther de Vicente-Gella Capo; 23 April 1942 – 30 April 2016) was a Spanish writer and ballerina dancer. _Pilu_, as relatives and friends knew her, had a vocation for both arts since she was very young.

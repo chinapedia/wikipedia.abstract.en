@@ -1,0 +1,1 @@
+The FREE FRENCH CAMEL CORPS () was a méhariste camel cavalry unit of the Free French forces, founded by among others Captain Edouard Dieffenbach, under command of General Charles de Gaulle during World War II.

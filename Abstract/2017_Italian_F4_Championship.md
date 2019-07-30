@@ -1,0 +1,1 @@
+The 2017 ITALIAN F4 CHAMPIONSHIP POWERED BY ABARTH was the fourth season of the Italian F4 Championship. It began on 2 April at Misano and finished on 22 October at Autodromo Nazionale Monza after seven triple header rounds.[1]

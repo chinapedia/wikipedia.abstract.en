@@ -1,0 +1,1 @@
+_EVIL DEAD II_ (also known in publicity materials as _EVIL DEAD 2: DEAD BY DAWN_)[1] is a 1987 American comedy horror film directed by Sam Raimi, and a parody sequel[2][3][4] to the horror film _The Evil Dead_ (1981). The film was written by Raimi and Scott Spiegel, produced by Robert Tapert, and stars Bruce Campbell as Ash Williams.

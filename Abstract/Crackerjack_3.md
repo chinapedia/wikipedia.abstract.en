@@ -1,0 +1,1 @@
+_CRACKERJACK 3_ is a 2000 spy thriller[1] about a group of retired Cold War spies, including an outgoing CIA operative (Bo Svenson), who are forced to work together to thwart a neutron bomb attack at an Economic Summit in Germany. It was written by Chris Hyde (_Chained Heat II_). The film is loosely related to its predecessors.

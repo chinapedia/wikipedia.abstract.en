@@ -1,0 +1,1 @@
+KEWASKUM HIGH SCHOOL is located in Kewaskum, Wisconsin, United States and is the lone high school in the KEWASKUM SCHOOL DISTRICT. Kewaskum High School's instruction includes grades 9-12. As of the 2016-2017 school year, the student population is 608. The high school offers 12 Advance Placement courses as well as numerous courses that offer technical college credits.

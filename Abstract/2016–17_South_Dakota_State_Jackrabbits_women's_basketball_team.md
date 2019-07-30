@@ -1,0 +1,1 @@
+The 2016–17 SOUTH DAKOTA STATE JACKRABBITS WOMEN'S BASKETBALL represent South Dakota State University in the 2016–17 NCAA Division I women's basketball season. The Jackrabbits, led by seventeenth year head coach Aaron Johnston. The Jackrabbits compete in the Summit League. They play home games in Frost Arena, in Brookings, South Dakota.

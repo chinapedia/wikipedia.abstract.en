@@ -1,0 +1,1 @@
+_MELLET V IRELAND_ is a finding from the United Nations Human Rights Committee that Ireland's abortion laws violated human rights and the International Covenant on Civil and Political Rights by banning abortion in cases of fatal foetal abnormality and forcing her to travel to the United Kingdom for an abortion.[1][2][3][4][5][6]

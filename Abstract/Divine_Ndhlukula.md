@@ -1,0 +1,1 @@
+DR DIVINE NDHLUKULA is a Zimbabwean businesswoman, founder and Managing Director of DDNS Security Operations (Pvt) Ltd which is the holding company for SECURICO Security Services. Dr Ndhlukula is also the Chairperson of ZNCC Women’s Desk.[1]

@@ -1,0 +1,1 @@
+GHOLAM ALI MANSOORI (born in 1943), G. Ali Mansoori also known as "GA Mansoori" is an Iranian-American scientist known for his research within energy, nanotechnology and thermodynamics.[1][2][3] He is a professor at the Departments of Bioengineering, Chemical Engineering and also Physics at University of Illinois at Chicago.

@@ -1,0 +1,1 @@
+Jacopo_de_Barbari_San_Biagio_e_Cataldo.jpg's 1500 map of the city.]] SANTI BIAGIO E CATALDO or SAN BIAGIO E CATALDO was a church on the western corner of the Giudecca island in Venice, Italy. It was dedicated to saint Blaise and saint Catald.

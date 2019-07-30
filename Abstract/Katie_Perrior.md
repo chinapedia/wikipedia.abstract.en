@@ -1,0 +1,1 @@
+KATIE PERRIOR is a British public relations specialist and columnist for _The Times_. She worked as a political advisor at 10 Downing Street under Theresa May and previously for Boris Johnson and David Davis.

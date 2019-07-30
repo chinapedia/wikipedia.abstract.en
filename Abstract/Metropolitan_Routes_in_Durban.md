@@ -1,0 +1,1 @@
+Durban, like most South African cities, uses Metropolitan or "M" routes for important intra-city routes, a layer below National (N) roads and Regional (R) roads. Each city's M roads are independently numbered.

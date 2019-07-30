@@ -1,0 +1,1 @@
+KARL FAZER MILK CHOCOLATE, commonly known as FAZER BLUE (), is a Finnish brand of milk chocolate owned by the Fazer corporation.[1][2] The common name derives from the iconic blue color of its wrapper, which is a registered trademark of the Fazer corporation.[3]

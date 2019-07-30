@@ -1,0 +1,1 @@
+In mathematics, a CONTINUOUS FUNCTION is a function for which sufficiently small changes in the input result in arbitrarily small changes in the output. Otherwise, a function is said to be a _discontinuous_ function. A continuous function with a continuous inverse function is called a homeomorphism.

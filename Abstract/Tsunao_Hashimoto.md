@@ -1,0 +1,1 @@
+, (died 12 March 2016) vice chairman and representative director of the Sony Corporation,[1][2][3][4] served as the 9th Chief Scout of the Scout Association of Japan, from April 1, 2006 to March 31, 2010.

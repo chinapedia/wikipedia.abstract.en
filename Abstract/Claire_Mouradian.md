@@ -1,0 +1,1 @@
+CLAIRE MOURADIAN (, born in 1951[1]) is a French historian of Armenian origin[2] who specializes in the history and geopolitics of Caucasus and, more specifically, in the history of Armenia and Armenian diaspora. She explores in her works inter-ethnic relations in the Caucasus region, migration and the position of minorities.

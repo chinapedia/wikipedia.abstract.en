@@ -1,0 +1,1 @@
+_CYRTANTHUS OBLIQUUS_, the KNYSNA LILY, is a species of plant in the amaryllis family with spiraling leaves and large pendulous flowers. It is native to coastal grassland from KwaZulu-Natal to the Eastern Cape, South Africa.[1]

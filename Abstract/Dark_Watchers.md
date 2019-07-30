@@ -1,0 +1,1 @@
+THE DARK WATCHERS (also known by early Spanish settlers as LOS VIGILANTES OSCUROS) is a name given to a group of entities in California folklore purportedly seen observing travelers along the Santa Lucia Mountains.

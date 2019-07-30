@@ -1,0 +1,1 @@
+The HANS EGEDE MEDAL is awarded by the Royal Danish Geographical Society for outstanding services to geography, "principally for geographical studies and research in the Polar lands." It was instituted in 1916 and named after Hans Egede, a Danish missionary who established a mission in Greenland.[1]

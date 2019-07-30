@@ -1,0 +1,1 @@
+GEORGE BOARDMAN CLARK HOUSE, also known as KELLERMAN HOUSE, is a historic home located at Cape Girardeau, Missouri. It was built in 1882, and is a two-story, "T"-plan, Queen Anne style painted brick dwelling. It sits on a sandstone foundation. About 1909, the original one-story front porch was replaced with a two-story porch.[1]

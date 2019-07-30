@@ -1,0 +1,1 @@
+is the second and final studio album by J-pop band Ramjet Pulley. It was released on January 29th, 2003 under the Giza Studio label. This is the last work released by Ramjet Pulley. Since then they've been on unannounced indefinite hiatus.

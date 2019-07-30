@@ -1,0 +1,1 @@
+AKHTAR HAMEED SIDDIQUI is a Bangladesh Nationalist Party politician and the former deputy Speaker of Parliament.[1][2] Siddiqui was elected to Parliament from Naogaon-3 in three consecutive elections from 1991 to 2001 as a Bangladesh Nationalist Party candidate.[3]

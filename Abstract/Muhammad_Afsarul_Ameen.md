@@ -1,0 +1,1 @@
+MUHAMMAD AFSARUL AMEEN (born 1 January 1952) is a Bangladesh Awami League politician. He became the Member of Parliament for Chittagong-9 in 2008, was re-elected to the constituency (renumbered Chittagong-10) in 2014 and 2018,[1] and was the Minister of Primary and Mass Education until 2014.[2][3]

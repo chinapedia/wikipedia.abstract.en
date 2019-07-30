@@ -1,0 +1,1 @@
+MURTHLY HOSPITAL, previously known as _' Murthly Asylum_', PERTH DISTRICT ASYLUM and PERTH AND DISTRICT MENTAL HOSPITAL was a psychiatric hospital in Murthly, Perthshire which operated for 120 years.[1][2]

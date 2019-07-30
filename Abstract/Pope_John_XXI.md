@@ -1,0 +1,1 @@
+POPE JOHN XXI (;  – 20 May 1277), born PETER JULIANI (; ), was Pope from 8 September 1276 to his death in 1277. Apart from Damasus I (from Roman Lusitania), he has been the only Portuguese pope.[1] He is sometimes identified with the logician and herbalist PETER OF SPAIN (; ), which would make him the only pope to have been a physician.[2]

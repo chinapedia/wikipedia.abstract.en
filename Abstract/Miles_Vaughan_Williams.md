@@ -1,0 +1,1 @@
+MILES VAUGHAN WILLIAMS (8 August 1918 – 31 August 2016) was a British cardiac pharmacologist and academic. He is best known for the Vaughan Williams classification of antidysrhythmic drugs.[1] From 1955 to 1985, he was a Fellow of Hertford College, Oxford, and its Tutor in medicine.[2]

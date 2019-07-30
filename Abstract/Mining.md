@@ -1,0 +1,1 @@
+Strip_coal_mining.jpg]] Kawah-Ijen_Indonesia_Ijen-Sulfur-Miner-01.jpg Volcano (2015)]] Simplified_world_mining_map_1.png MINING is the extraction of valuable minerals or other geological materials from the Earth, usually from an orebody, lode, vein, seam, reef or placer deposit. These deposits form a mineralized package that is of economic interest to the miner.

@@ -1,0 +1,1 @@
+S11|11 (disambiguation){{!}}11 (plural)}} Proteaosome_1fnt_side.png Proteaosome_1fnt_top.png PROTEASOMES are protein complexes which degrade unneeded or damaged proteins by proteolysis, a chemical reaction that breaks peptide bonds. Enzymes that help such reactions are called proteases.

@@ -1,0 +1,1 @@
+ROSA CHANOVSKY, better known as ROSA DUBOVSKY (ca. 1885, Russia - 1972, in Buenos Aires, Argentina) was a Russian-born feminist activist and militant anarchist in Argentina. She is remembered for her involvement with the Argentine Regional Workers' Federation (FORA), and for founding the Emma Goldman Library.

@@ -1,0 +1,1 @@
+JOHN L. HEATWOLE (1948-2006) was an artist, historian, tour guide, and storyteller who gathered and preserved hundreds of oral history and folklore stories from the Shenandoah Valley and throughout Virginia and West Virginia through writings, lectures, and radio programs.

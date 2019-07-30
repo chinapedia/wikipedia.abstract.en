@@ -1,0 +1,1 @@
+JOHN CAGE was a citizen of London and the holder of the Manor of Totteridge in Hertfordshire which was granted to him by Queen Elizabeth I in 1590 but lost to the Peacock family following a legal case.

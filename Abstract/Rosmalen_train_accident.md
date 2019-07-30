@@ -1,0 +1,1 @@
+The ROSMALEN TRAIN ACCIDENT was a railway accident next to the street _Burgemeester Wolterstraat_ near Rosmalen railway station in Rosmalen, the Netherlands in late December 1920. In the accident two freight trains collided and three people died.[1]

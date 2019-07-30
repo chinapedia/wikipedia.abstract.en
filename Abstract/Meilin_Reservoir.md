@@ -1,0 +1,1 @@
+MEILIN RESERVOIR () is a reservoir located in Futian District, in southwestern Shenzhen in the southern China. Meilin Reservoir belongs to the first grade water source protection area () and is part of Shenzhen's water supply network.[1] It covers a total surface area of and has a storage capacity of some of water. It is surrounded by the Longding Hill ().

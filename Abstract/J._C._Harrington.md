@@ -1,0 +1,1 @@
+JEAN CARL HARRINGTON (October 25, 1901 – April 19, 1998) — known as J. C. HARRINGTON, or "Pinky" to his friends — was an American archaeologist best known for his work at Jamestown, Virginia and his contributions to the methodology of historical archaeology. He has been called the "father of historical archaeology in America".[1]

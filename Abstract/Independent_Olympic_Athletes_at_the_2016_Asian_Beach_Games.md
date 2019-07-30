@@ -1,0 +1,1 @@
+A Kuwaiti athlete competed at the 2016 ASIAN BEACH GAMES in Danang, Vietnam as part of the INDEPENDENT ATHLETES from September 24 to October 5, 2016. The sole competitor competed under the Olympic flag, as the Kuwait Olympic Committee had been suspended by the International Olympic Committee (IOC) for the second time in five years due to governmental interference.[1][2][3]

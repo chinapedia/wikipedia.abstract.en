@@ -1,0 +1,1 @@
+PARVIZ SOROURI () is an Iranian conservative politician who currently seats as a member of the City Council of Tehran. He represented Tehran, Rey, Shemiranat and Eslamshahr electoral district in the Islamic Consultative Assembly for two terms.[1]

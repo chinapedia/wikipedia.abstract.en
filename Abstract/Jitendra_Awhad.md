@@ -1,0 +1,1 @@
+JITENDRA AWHAD is a member of the Legislative Assembly of Maharashtra, India. He represents the Mumbra-Kalwa constituency as a Nationalist Congress Party member in the Vidhan Sabha (lower house).[1] He has previously served as CABINET MINISTER of MEDICAL EDUCATION and HORTICULTURE in the Maharashtra state cabinet.[2]

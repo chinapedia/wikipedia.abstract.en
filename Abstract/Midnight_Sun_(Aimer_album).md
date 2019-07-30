@@ -1,0 +1,1 @@
+MIDNIGHT SUN is the second studio album released by Aimer under Defstar Records label. It was released in two versions: a limited CD+DVD edition and a regular CD Only edition.[1] The album reached #9 rank first week in Oricon rankings. It charted 16 weeks and totally sold more than 19,000 copies.[2]

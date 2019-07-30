@@ -1,0 +1,1 @@
+AMIR MEHDIZADEH (, born 22 September 1989[1] in Qom) is an Iranian karateka. Mehdizadeh competed at the 2014 Asian Games at the 60 kg division and won the gold medal. He also won the gold medal in 2012 and 2016 World Karate Championships.

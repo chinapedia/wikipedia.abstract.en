@@ -1,0 +1,1 @@
+| image_flag = {{#property:p41}} | image_caption = Clockwise, from top: Lake Sentani, Puncak Jaya, Warsa waterfall, Mount Sumantri, Kurulu Village War Chief, Yapen Island, Betlehem Church Wamena | nickname = | motto = _Karya Swadaya_ (Sanskrit)

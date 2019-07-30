@@ -1,0 +1,1 @@
+BARBARA P. BERMAN (born 1937/38) is an American Democratic Party politician who served in the New Jersey General Assembly for a single term, where she represented the 6th Legislative District from 1978 to 1980.

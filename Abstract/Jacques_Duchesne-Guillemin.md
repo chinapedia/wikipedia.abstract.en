@@ -1,0 +1,1 @@
+JACQUES DUCHESNE-GUILLEMIN (né Jacques Duchesne, born 21 April 1910 in Jupille and died 8 February 2012 in Liège) was a linguist, philologist, and orientalist who was professor at the University of Liège and specialized in ancient Iran.

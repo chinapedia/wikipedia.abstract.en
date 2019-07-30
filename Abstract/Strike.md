@@ -1,0 +1,1 @@
+STRIKE may refer to:

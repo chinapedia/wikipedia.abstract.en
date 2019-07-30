@@ -1,0 +1,1 @@
+KENJI SAHARA (佐原 健二 _Sahara Kenji_, born _Tadashi Ishihara_) (born 14 May 1932) is a Japanese actor. He was born in Kawasaki City, Kanagawa. His given name is MASAYOSHI KATO (加藤 正好 _Katō Masayoshi_). Initially he used the name Tadashi Ishihara before changing it when he secured the lead role in _Rodan_ (1956).

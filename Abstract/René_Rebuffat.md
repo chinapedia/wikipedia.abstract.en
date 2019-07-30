@@ -1,0 +1,1 @@
+RENÉ REBUFFAT is a French historian and archaeologist, specializing in ancient Africa. He has conducted archaeological excavations at Thamusida in Morocco, Gholaia in Libya, and in the Sebou basin in Morocco. He also worked on archaeological sites of Aléria and Jublains.

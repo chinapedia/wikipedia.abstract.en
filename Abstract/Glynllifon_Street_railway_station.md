@@ -1,0 +1,1 @@
+GLYNLLIFON STREET RAILWAY STATION was a temporary northern terminus station of the Festiniog and Blaenau Railway (F&BR), sited next to the street of the same name in Blaenau Ffestiniog in what was then Merionethshire, now Gwynedd, Wales.

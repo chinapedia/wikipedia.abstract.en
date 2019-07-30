@@ -1,0 +1,1 @@
+DANIEL KANZA KINSONA (1909–1990) was a prominent Congolese politician and a leading member of the _Alliance des Bakongo_. He served as Premier Burgomaster of the capital of the Congo, Léopoldville, from 1960 until 1962. He later served in the National Assembly.

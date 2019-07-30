@@ -1,0 +1,1 @@
+NEVENA DAMJANOVIĆ (Serbian Cyrillic: Невена Дамјановић; born 12 April 1993) is a Serbian football defender who plays for Sporting CP[1] and the Serbia national team.[2] She moved to Danish club Fortuna Hjørring in 2015, after spending five seasons with Serbian Prva Ženska Liga club ŽFK Spartak Subotica.[3]

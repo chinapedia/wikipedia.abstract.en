@@ -1,0 +1,1 @@
+_HYMENOBACTER LUTEUS_ is a Gram-negative, rod-shaped, aerobic and non-motile bacterium from the genus of Hymenobacter which has been isolated from freshwater sediments from the Jiuxiang tourist cave in the Yunnan province in China.[1][2][3][4]

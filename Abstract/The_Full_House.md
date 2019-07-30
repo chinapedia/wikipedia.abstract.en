@@ -1,0 +1,1 @@
+"THE FULL HOUSE" is the second episode of the third series of the 1990s British comedy television series _Jeeves and Wooster_. It is also called "Bertie Ensures Bicky Can Continue To Live In Manhattan".[1] It first aired in the UK on on ITV.

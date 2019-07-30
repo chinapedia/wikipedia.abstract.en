@@ -1,0 +1,1 @@
+_INTROVERTED BOSS_ () is a 2017 South Korean television series starring Yeon Woo-jin and Park Hye-su. It started airing on cable network tvN every Monday and Tuesday at 23:00, starting January 16, 2017.[1]

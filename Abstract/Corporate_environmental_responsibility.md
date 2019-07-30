@@ -1,0 +1,1 @@
+CO2_responsibility_1950-2000.svg CORPORATE ENVIRONMENTAL RESPONSIBILITY (CER) refers to a company's duties to abstain from damaging natural environments. The term derives from corporate social responsibility (CSR).[1]

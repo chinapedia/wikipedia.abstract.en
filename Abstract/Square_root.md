@@ -1,0 +1,1 @@
+Nuvola_apps_edu_mathematics_blue-p.svg Five_Squared.svg

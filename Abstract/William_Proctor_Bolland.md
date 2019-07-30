@@ -1,0 +1,1 @@
+WILLIAM PROCTER BOLLAND (1815 – 10 June 1863) was an English first-class cricketer active 1836–43 who played for Marylebone Cricket Club (MCC). He was born in Westminster and died in Clifton, Bristol. He appeared in nine first-class matches.[1]

@@ -1,0 +1,1 @@
+{{ infobox football tournament season | title = 1983-84 Tennent's Sixes | image = | imagesize = | caption = | country = Scotland | dates = 16 and 17 January 1984 | venue = Coasters Arena, Falkirk | num_teams = 9 | defending champions = | champions = Rangers | runner-up = Dundee | matches = | goals = | top goal scorer = | prevseason = | nextseason = 1984–85 }}

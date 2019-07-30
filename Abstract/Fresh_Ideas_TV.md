@@ -1,0 +1,1 @@
+FRESH IDEAS TV was a digital advertorial datacasting channel owned by the Seven Network. The channel launched on 22 November 2013 and broadcast infomercials and home shopping content on channel 78.[1]

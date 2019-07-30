@@ -1,0 +1,1 @@
+_NADINE LUSTRE_ is the self-titled debut solo studio album and EP by Filipina singer-dancer-actress Nadine Lustre. It was released digitally on iTunes August 20, 2014, and released physically on September 2, 2014 by Viva Records.[1] It contains five original songs, four songs in Tagalog and one song in English.

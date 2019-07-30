@@ -1,0 +1,1 @@
+CLIFFORD BALL (November 29, 1891 – June 2, 1972) was a farmer, soldier, bookkeeper, clerk, automobile dealer, airplane dealer, airline owner, airline operator, airline executive, radio manufacturer, Civil Air Patrol officer and chaplain, and aviation pioneer.

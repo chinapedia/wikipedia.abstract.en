@@ -1,0 +1,1 @@
+ELIZABETH COOPER (fl. 1865–1874) was an English historian and biographer of the mid-Victorian period, known for three publications on the history of America, on Lady Arbella Stuart, and on Thomas Wentworth, 1st Earl of Strafford.

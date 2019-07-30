@@ -1,0 +1,1 @@
+Granizo.jpg HAIL is a form of solid precipitation. It is distinct from ice pellets (American English "sleet"), though the two are often confused.[1] It consists of balls or irregular lumps of ice, each of which is called a HAILSTONE. Ice pellets fall generally in cold weather while hail growth is greatly inhibited during cold surface temperatures.[2]

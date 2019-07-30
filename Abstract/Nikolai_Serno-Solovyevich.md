@@ -1,0 +1,1 @@
+NIKOLAI ALEXANDROVICH SERNO-SOLOVYEVICH () (13 December 1834 in Saint Petersburg, Imperial Russia – 14 February 1866 in Irkutsk) was a Russian publicist and revolutionary who was one of the founders of the extreme left organisation _Zemlya i Volya_.

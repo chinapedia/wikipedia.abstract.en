@@ -1,0 +1,1 @@
+_'Wessel Johannes "Hansie" Cronje_' (25 September 1969 – 1 June 2002) was a South African international cricketer and captain of the South African national cricket team in the 1990s. He was voted the 11th greatest South African in 2004 despite having been banned from cricket for life due to his role in a match-fixing scandal. He died in a plane crash in 2002.

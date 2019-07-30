@@ -1,0 +1,1 @@
+MAUNG MAUNG SOE () is the mayor of Myanmar's largest city, Yangon. He was concurrently appointed as mayor and chairman of the Yangon City Development Committee on 5 April 2016.[1][2] He is a retired professor at the Yangon Institute of Economics.[3]

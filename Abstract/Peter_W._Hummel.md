@@ -1,0 +1,1 @@
+PETER WEST HUMMEL (4 July 1929 – 25 July 2015) was a geologist and oil company president, who served as the Vice-Chairman of the World Scout Committee as a Boy Scouts of America delegate to the World Organization of the Scout Movement.

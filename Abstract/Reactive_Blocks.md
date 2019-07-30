@@ -1,0 +1,1 @@
+REACTIVE BLOCKS[1] is a visual model-driven development environment based on Activity Diagrams supporting formal model analysis, automated code generation, hierarchical modelling, and an extensive library of ready-to-use components for the Java platform.

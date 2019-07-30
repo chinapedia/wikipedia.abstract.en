@@ -1,0 +1,1 @@
+COLLECTIVE SPIRIT FREE SCHOOL was a secondary school in South Chadderton, Oldham. It opened in 2013 on the old site of South Chadderton School. The school had 4 year groups (Year 7, 8, 9 and 10). The school had around 210 students.

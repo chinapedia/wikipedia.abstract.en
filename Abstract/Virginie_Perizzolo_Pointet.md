@@ -1,0 +1,1 @@
+VIRGINIE PERIZZOLO POINTET (born 26 February 1990) is a Swiss road and track cyclist, who rides for UCI Women's Team .[1] Perizzolo Pointet has also represented Switzerland at international competitions, competing at the 2016 UEC European Track Championships in the scratch and 500-metre time trial events.[2]

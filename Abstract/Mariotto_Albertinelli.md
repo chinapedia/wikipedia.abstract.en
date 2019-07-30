@@ -1,0 +1,1 @@
+MARIOTTO ALBERTINELLI, in full MARIOTTO DI BIGIO DI BINDO ALBERTINELLI (13 October 1474 – 5 November 1515) was an Italian Renaissance painter of the Florentine school. He was a close friend and collaborator of Fra Bartolomeo and their joint works appear as if they have been painted by one hand.[1]

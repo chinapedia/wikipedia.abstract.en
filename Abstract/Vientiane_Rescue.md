@@ -1,0 +1,1 @@
+VIENTIANE RESCUE is a volunteer-run rescue service in Vientiane, Laos. Responding to over 5,760 road accidents annually (2015 figures), Vientiane Rescue is the largest such service in the country.[1] It is made up of over 200 volunteers, eight ambulances, a fire-fighting unit, a scuba rescue team as well as hydraulic rescue and excavation teams.[2]

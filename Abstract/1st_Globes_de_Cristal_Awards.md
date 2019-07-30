@@ -1,0 +1,1 @@
+The 1ST GLOBES DE CRISTAL AWARD ceremony honoured the best French movies, actors, actresses, plays, concerts, novels, singers, TV series, exhibitions and fashion designers of 2005 and took place on 13 March 2006 at the Luxembourg Palace in Paris. The ceremony was chaired and hosted by Patrick Poivre d'Arvor.

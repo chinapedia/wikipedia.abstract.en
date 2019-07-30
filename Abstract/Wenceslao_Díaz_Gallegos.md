@@ -1,0 +1,1 @@
+WENCESLAO DÍAZ GALLEGOS (1834–1895) was a Chilean scientist and medical surgeon, widely considered as one of the fathers of sanitation in the country, trainer of generations of medical professionals and first-time introducer of medical devices such as the thermometer and the hypodermic syringe in Chile.

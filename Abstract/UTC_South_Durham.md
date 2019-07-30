@@ -1,0 +1,1 @@
+UTC SOUTH DURHAM is a mixed University Technical College located in Newton Aycliffe, County Durham. It opened in 2016 and caters for students aged 14–19 years.[1] It is located on the Aycliffe Business Park site, in a purpose-built new building.[2]

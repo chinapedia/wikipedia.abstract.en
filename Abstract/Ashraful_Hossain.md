@@ -1,0 +1,1 @@
+ASHRAFUL HOSSAIN (born 11 September 1989) is a Bangladeshi cricketer. He made three first-class appearances for Chittagong Division in 2008.[1] He was part of Bangladesh's squad for the 2008 Under-19 Cricket World Cup.[2]

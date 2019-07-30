@@ -1,0 +1,1 @@
+The 1980 NCAA MEN'S DIVISION I SWIMMING AND DIVING CHAMPIONSHIPS were contested in March 1980 at Blodgett Pool at Harvard University in Cambridge, Massachusetts at the 57th annual NCAA-sanctioned swim meet to determine the team and individual national champions of Division I men's collegiate swimming and diving in the United States.

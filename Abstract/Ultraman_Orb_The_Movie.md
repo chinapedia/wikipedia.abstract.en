@@ -1,0 +1,1 @@
+is a Japanese superhero and Kaiju film, serving as the film adaptation of the 2016 Ultra Series television series _Ultraman Orb_. It was released in March 11, 2017, in celebration to the 50th anniversary of _Ultra Seven_ where the titular character himself and his son Ultraman Zero is set to appear.[1] Both Blu-Ray and the DVD is set to be released on 28 July 2017.[2]

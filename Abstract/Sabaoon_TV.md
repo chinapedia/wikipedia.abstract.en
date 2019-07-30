@@ -1,0 +1,1 @@
+SABAOON TV is a 24-hour Pashto entertainment television channel based in Pakistan.[1] It began transmitting on 17 March 2015 and carries popular dramas _Hiras_ and _Kali Pa Kali_. It is the first Pashto high-definition television channel.[2][3]

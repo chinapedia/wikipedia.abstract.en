@@ -1,0 +1,1 @@
+_LOCK_ is a 2016 Indian Punjabi-language film directed by Smeep Kang, written by Pali Bhupinder Singh and starring Gippy Grewal, Gurpreet Ghuggi, Geeta Basra, Karamjit Anmol & Smeep Kang as the main protagonist of the film and released worldwide on 14 October 2016.[1] The film is a remake of Malayalam film _Shutter_.

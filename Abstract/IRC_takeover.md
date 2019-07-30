@@ -1,0 +1,1 @@
+An IRC CHANNEL TAKEOVER is an acquisition of IRC channel operator status by someone other than the channel's owner. It has largely been eliminated due to the increased use of services on IRC networks.

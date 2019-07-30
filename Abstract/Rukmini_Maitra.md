@@ -1,0 +1,1 @@
+RUKMINI MAITRA is an Indian model and actress from Kolkata, who has worked as a model for various regional, national and international brands and magazines. After having established herself in the world of fashion, Rukmini made her silver screen debut in 2017.

@@ -1,0 +1,1 @@
+RASMUS DAHLIN (born 13 April 2000) is a Swedish professional ice hockey defenceman currently playing for the Buffalo Sabres of the National Hockey League (NHL). Having been referred to as the most talented player available[1] in the 2018 NHL Entry Draft class,[2][3] Dahlin was selected first overall in the draft by the Sabres.

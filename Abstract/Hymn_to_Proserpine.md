@@ -1,0 +1,1 @@
+“HYMN TO PROSERPINE” is a poem by Algernon Charles Swinburne, published in _Poems and Ballads_ in 1866. The poem is addressed to the goddess Proserpina, the Roman equivalent of Persephone, but laments the rise of Christianity for displacing the pagan goddess and her pantheon.[1]

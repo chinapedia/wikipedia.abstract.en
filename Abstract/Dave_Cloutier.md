@@ -1,0 +1,1 @@
+DAVID LEE CLOUTIER (November 22, 1938 – November 6, 2017) was an American football safety in the American Football League (AFL) for the Boston Patriots. He played college football at the University of Maine.

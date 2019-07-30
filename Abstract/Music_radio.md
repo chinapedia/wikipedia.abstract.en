@@ -1,0 +1,1 @@
+MUSIC RADIO is a radio format in which music is the main broadcast content. After television replaced old time radio's dramatic content, music formats became dominant in many countries. Radio drama and comedy continue, often on public radio.

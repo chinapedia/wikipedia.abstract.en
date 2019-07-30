@@ -1,0 +1,1 @@
+_MICROBACTERIUM NATORIENSE_ is a Gram-positive and rod-shaped bacterium from the genus of Microbacterium which has been isolated from soil from Natori in Japan.[1][2][3][4] _Microbacterium natoriense_ produces D-aminoacylase.[5]

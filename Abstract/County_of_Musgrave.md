@@ -1,0 +1,1 @@
+Musgrave}} The COUNTY OF MUSGRAVE is a cadastral unit in the Australian state of South Australia that covers land on the west coast of Eyre Peninsula. It was proclaimed on 22 June 1876 and named after Anthony Musgrave, the Governor of South Australia from 9 June 1876 to 29 January 1877.[1][2][3][4]

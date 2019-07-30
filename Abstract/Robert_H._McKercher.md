@@ -1,0 +1,1 @@
+ROBERT H. MCKERCHER, (born May 6, 1930), is a Canadian lawyer from Saskatoon, Saskatchewan. He served as the national president of the Canadian Bar Association from 1983 to 1984, as well as president of the Law Society of Saskatchewan.

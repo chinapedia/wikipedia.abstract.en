@@ -1,0 +1,1 @@
+COMMUNICATIONS IN INDONESIA has a complex history due to the need to reach an extended archipelago of over 17,500 islands. The once important non-electronic communication methods of the past have given away to a considerable telecommunications infrastructure in contemporary Indonesia.

@@ -1,0 +1,1 @@
+LUKE-KYLE VAN DER SMIT (born 29 June 1994) is a Namibian rugby union player for HKU Sandy Bay RFC in Hong Kong, having previously played for in 2015 and the in 2016.[1]. His regular position is flanker.

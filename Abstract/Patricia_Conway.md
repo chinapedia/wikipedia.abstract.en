@@ -1,0 +1,1 @@
+PATRICIA CONWAY is most well known as a former partner, urban planner, architect and designer at the architecture firm Kohn Pedersen Fox, where she was one of the founding partners.[1] She led the offshoot interiors division, Kohn Pedersen Fox Conway. She later became Dean of the Department of Architecture at the University of Pennsylvania.[2]

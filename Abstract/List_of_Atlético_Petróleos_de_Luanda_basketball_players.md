@@ -1,0 +1,1 @@
+This article is about the list of ATLÉTICO PETRÓLEOS DE LUANDA basketball players. Atlético Petróleos de Luanda is an Angolan basketball club from Luanda, Angola and plays their home games at Pavilhão da Cidadela in Luanda. The club was established in 1980.

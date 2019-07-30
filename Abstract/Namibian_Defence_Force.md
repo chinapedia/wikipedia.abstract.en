@@ -1,0 +1,1 @@
+The NAMIBIAN DEFENCE FORCE was created when South West Africa gained full independence from South Africa in 1990. The constitution of Namibia defines the role of the military as _"defending the territory and national interests."_

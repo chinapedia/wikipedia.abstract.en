@@ -1,0 +1,1 @@
+KRZYŻ RAILWAY STATION is a railway station serving the town of Krzyż Wielkopolski, in the Greater Poland Voivodeship, Poland. The station opened in 1851 and is located on the Tczew–Kostrzyn railway, Poznań–Szczecin railway and now closed Wałcz–Krzyż railway. The train services are operated by PKP, Przewozy Regionalne and Arriva.

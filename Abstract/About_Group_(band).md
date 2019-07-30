@@ -1,0 +1,1 @@
+ABOUT GROUP is an English improvisational rock band established in 2009, formed by members of Hot Chip, This Heat, and Spiritualized. Based in London, the group is known for making albums without practicing the songs before or playing together first.

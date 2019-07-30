@@ -1,0 +1,1 @@
+_THE GODDESS OF LOVE_ (, ), also known as _APHRODITE, GODDESS OF LOVE_, is a 1957 Italian-French epic adventure film directed by Fernando Cerchio and Viktor Tourjansky, and starring Belinda Lee, Massimo Girotti and Jacques Sernas.[1]

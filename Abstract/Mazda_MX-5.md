@@ -1,0 +1,1 @@
+The MAZDA MX-5 is a lightweight two-passenger roadster manufactured and marketed by Mazda with a front mid-engine, rear-wheel-drive layout. The convertible is marketed as the or in Japan, and as the MAZDA MX-5 MIATA in North America, where it is widely known as the _Miata_.

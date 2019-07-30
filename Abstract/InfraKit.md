@@ -1,0 +1,1 @@
+INFRAKIT is an open-source project that is part of the larger Docker application container software project. The project was formally announced for Docker by its creator Solomon Hykes at the Linuxcon EU 2016 event. InfraKit was originally called 'libmachete' and was renamed by Docker developers in October 2016.

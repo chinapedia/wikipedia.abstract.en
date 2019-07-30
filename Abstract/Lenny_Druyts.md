@@ -1,0 +1,1 @@
+LENNY DRUYTS (born 18 May 1997) is a Belgian professional racing cyclist, who currently rides for UCI Women's Team .[1] As a junior rider she competed in the women's junior road race at the 2014 UCI Road World Championships and 2015 UCI Road World Championships.

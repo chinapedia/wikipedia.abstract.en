@@ -1,0 +1,1 @@
+ERIC CHENEY (5 January 1924 – 30 December 2001) was an English motorcycle racer, designer and independent constructor. He was known as one of the best motorcycle frame designers of his era, concentrating mainly in the off-road competition aftermarket.[1]

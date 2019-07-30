@@ -1,0 +1,1 @@
+COPPERBELT UNIVERSITY SCHOOL OF MEDICINE (CUSOM), also known as COPPERBELT UNIVERSITY MEDICAL SCHOOL is the school of medicine of Copperbelt University in Zambia. The medical school is the country's second public medical school, the other being the University of Zambia School of Medicine.[1] The school provides medical education at undergraduate and postgraduate levels.[2]

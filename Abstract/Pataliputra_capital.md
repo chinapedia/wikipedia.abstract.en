@@ -1,0 +1,1 @@
+The PATALIPUTRA CAPITAL is a monumental rectangular capital with volutes and Classical Greek designs, that was discovered in the palace ruins of the ancient Mauryan Empire capital city of Pataliputra (modern Patna, northeastern India). It is dated to the 3rd century BCE.

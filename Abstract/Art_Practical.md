@@ -1,0 +1,1 @@
+_ART PRACTICAL_ is an online arts magazine based in San Francisco producing arts criticism, essays, quarterly issues, and programming related to contemporary art and visual culture in they Bay Area and beyond.

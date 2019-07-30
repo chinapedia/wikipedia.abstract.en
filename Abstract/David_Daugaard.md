@@ -1,0 +1,1 @@
+DAVID DAUGAARD (born 27 December 1994) is a Danish badminton player.[1][2] In 2013, he won gold medal in mixed doubles event and silver medal in boys' doubles event at the European Junior Badminton Championships.[3]

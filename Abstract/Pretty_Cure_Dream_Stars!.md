@@ -1,0 +1,1 @@
+is a Magical girl animated film animated and produced by Toei Animation and distributed by Toei. It is the 22nd film in the _Pretty Cure_ franchise, originally created by Toei Company under the Izumi Todo pseudonym. It was directed by Hiroshi Miyamoto and written by Tsubota Fumi. It debuted in Japanese theaters on March 18, 2017.

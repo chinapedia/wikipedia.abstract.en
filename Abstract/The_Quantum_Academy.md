@@ -1,0 +1,1 @@
+THE QUANTUM ACADEMY, INC. is a private college preparatory school in the Philippines whose primary goal is to meet the educational needs of its students from pre-school to senior high school that will prepare them for admission in colleges and universities.[1]

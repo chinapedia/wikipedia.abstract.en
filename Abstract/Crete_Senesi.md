@@ -1,0 +1,1 @@
+Crete_senesi_presso_asciano,_09.JPG The CRETE SENESI refers to an area of the Italian region of Tuscany to the south of Siena. It consists of a range of hills and woods among villages and includes the _comuni_ of Asciano, Buonconvento, Monteroni d'Arbia, Rapolano Terme and San Giovanni d'Asso, all within the province of Siena.

@@ -1,0 +1,1 @@
+DIMITRI MICHAEL KULLMANN (born 1958)[1] is a professor of neurology at the UCL Institute of Neurology,[2] University College London (UCL), and leads the synaptopathies initiative funded by the Wellcome Trust.[3] Kullmann is a member of the Queen Square Centre For Neuromuscular Disease[4] and a consultant neurologist at the National Hospital for Neurology and Neurosurgery.[5][6]

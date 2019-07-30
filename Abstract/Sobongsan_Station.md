@@ -1,0 +1,1 @@
+SŎBONGSAN STATION (WEST PONGSAN STATION) is a railway station located in Pongsan-ŭp, Pongsan County, North Hwanghae Province, North Korea. It is the terminus of the Pongsan Line of the Korean State Railway. [1] It is a freight-only station serving the February 8 Cement Complex, one of the largest cement factories in the DPRK.[2]

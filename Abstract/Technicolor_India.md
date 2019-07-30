@@ -1,0 +1,1 @@
+TECHNICOLOR INDIA PRIVATE LIMITED (formerly PAPRIKAAS) is an Indian animation studio based in Bangalore. The company was founded as Paprikaas in August 2001. In 2010, Technicolor SA acquired a majority stake in company and rebranded it Technicolor India.

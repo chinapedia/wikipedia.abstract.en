@@ -1,0 +1,1 @@
+In Christian theology, the IMMACULATE CONCEPTION is the conception of the Virgin Mary free from original sin by virtue of the merits of her son Jesus. The Catholic Church teaches that God acted upon Mary in the first moment of her conception, keeping her "immaculate".[1][2]

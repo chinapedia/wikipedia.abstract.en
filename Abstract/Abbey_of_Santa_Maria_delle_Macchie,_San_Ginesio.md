@@ -1,0 +1,1 @@
+The ABBAZIA DI SANTA MARIA DELLE MACCHIE (Santa Maria Macularum) was a Roman Catholic Benedictine monastery in a rural hamlet of Macchie, a few kilometers from the town of San Ginesio, in the province of Macerata, region of Marche, Italy.

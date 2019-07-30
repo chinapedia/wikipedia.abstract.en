@@ -1,0 +1,1 @@
+GEORGE ABBOT (29 October 15624 August 1633) was an English divine who was Archbishop of Canterbury from 1611 to 1633.[1][2][3] He also served as the fourth Chancellor of Trinity College, Dublin, from 1612 to 1633.

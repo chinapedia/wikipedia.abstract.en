@@ -1,0 +1,1 @@
+The LORDSHIP OF GEDERN (German: _Herrschaft Gedern_) was a lordship or herrschaft centred on Gedern near Büdingen in Hesse, Germany. It is first recorded in a document from Lorsch Abbey dating to 780.

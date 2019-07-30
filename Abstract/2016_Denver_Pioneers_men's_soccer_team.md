@@ -1,0 +1,1 @@
+The 2016 DENVER PIONEERS MEN'S SOCCER TEAM represented the University of Denver during the 2016 NCAA Division I men's soccer season. The Pioneers played in Summit League where they won the regular season and conference tournament titles. They finished the regular season as one of only two unbeaten teams, the other being top-ranked Maryland.[1]

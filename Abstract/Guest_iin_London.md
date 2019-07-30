@@ -1,0 +1,1 @@
+_GUEST IIN LONDON_ is an Indian Hindi comedy film, written and directed by Ashwni Dhir.[1][2] It stars Kartik Aaryan, Paresh Rawal, Kriti Kharbanda and Tanvi Azmi.[3] Produced by Panorama Studios and co-produced by Nishant Pitti. It is a sequel of 2010 Ajay Devgn film _Atithi Tum Kab Jaoge?_ It was released worldwide on 7 July 2017, to negative reviews from critics.[4][5][6][7]

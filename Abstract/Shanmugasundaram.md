@@ -1,0 +1,1 @@
+SHANMUGASUNDARAM was an Indian film actor who has appeared in Tamil films. He began his career as an actor by starring in _Ratha Thilagam_ (1963) and _Karnan_ (1964), and continued his career for seven decades.[1] He died on 15 August 2017.[2][3]

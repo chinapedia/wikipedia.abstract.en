@@ -1,0 +1,1 @@
+An RNA VIRUS is a virus that has RNA (ribonucleic acid) as its genetic material.[1] This nucleic acid is usually single-stranded RNA (ssRNA) but may be double-stranded RNA (dsRNA).[2] Notable human diseases caused by RNA viruses include Ebola virus disease, SARS, rabies, common cold, influenza, hepatitis C, hepatitis E, West Nile fever, polio and measles.

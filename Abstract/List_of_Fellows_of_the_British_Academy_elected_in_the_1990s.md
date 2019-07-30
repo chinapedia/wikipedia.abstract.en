@@ -1,0 +1,1 @@
+The FELLOWSHIP OF THE BRITISH ACADEMY consists of world-leading scholars and researchers in the humanities and social sciences. A number of fellows are elected each year in July at the Academy's Annual General Meeting.[1]

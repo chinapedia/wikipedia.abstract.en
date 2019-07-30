@@ -1,0 +1,1 @@
+The FR. BELLARMINE BALTASAR GYMNASIUM (also known as the SAN BEDA COLLEGE ALABANG GYM) is a gymnasium within San Beda College Alabang in Muntinlupa, Philippines. It has a seating capacity of 1,200 for sporting events, and a full house capacity of 1,400.

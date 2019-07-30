@@ -1,0 +1,1 @@
+The SOUTH AFRICA INTERNATIONAL is an international badminton tournament held in South Africa organised by Badminton South Africa, sanctioned by Badminton World Federation (BWF) and Badminton Confederation of Africa (BCA).[1] In the last few years, this tournament has been an BWF International Series with total prize money US$10.000 in 2014 and US$5.000 in 2015.[2][3]

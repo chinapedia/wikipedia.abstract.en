@@ -1,0 +1,1 @@
+_THE STRAW_ is a three act play written by American playwright Eugene O'Neill in 1922. The play follows lead characters Eileen Carmody and Stephen Murray during their time at Hill Farm Sanatorium. This was the first of many multi-act plays that O'Neill produced and can be considered semi-biographical.

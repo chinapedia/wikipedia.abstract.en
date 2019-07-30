@@ -1,0 +1,1 @@
+The CIRCLE BRIDGE (Danish: Cirkelbroen) is a pedestrian bridge spanning the southern mouth of Christianshavn Canal in the Christianshavn area of central Copenhagen, Denmark. It connects Applebys Plads to the south with Christiansbro to the north. The bridge was designed by Olafur Eliasson.

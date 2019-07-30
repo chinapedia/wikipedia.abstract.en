@@ -1,0 +1,1 @@
+PIPALONG (foaled 26 January 1996) was an Irish-bred, British-trained Thoroughbred racehorse and broodmare. She was sold cheaply as a yearling but developed into a top-class specialist sprinter who excelled on soft ground. Trained in Yorkshire by Tim Easterby, she was highly tried throughout her racing career, running thirty seven times between April 1998 and October 2001.

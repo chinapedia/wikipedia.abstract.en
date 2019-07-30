@@ -1,0 +1,1 @@
+The 2017 CONFERENCE USA MEN'S BASKETBALL TOURNAMENT was held March 8–11, 2017, in Birmingham, Alabama, at Legacy Arena. Middle Tennessee received the conference automatic bid to the 2017 NCAA Tournament with an 83-72 win over Marshall in the finals.

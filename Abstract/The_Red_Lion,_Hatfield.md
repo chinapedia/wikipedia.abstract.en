@@ -1,0 +1,1 @@
+'The_Red_Lion'_public_house_-_geograph.org.uk_-_1337484.jpg THE RED LION is a grade II listed public house and former hotel on the Great North Road, Hatfield, in Hertfordshire. The building dates from the late eighteenth century with nineteenth century additions and a large 1950s rear extension.[1]

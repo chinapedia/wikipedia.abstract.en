@@ -1,0 +1,1 @@
+GEORGE SOTIROS PAPPAS (born 1942) is a professor of philosophy at Ohio State University.[1] Pappas specializes in epistemology, the history of early modern philosophy, philosophy of religion, and metaphysics. He is of Greek and English origin.

@@ -1,0 +1,1 @@
+NICOLINE HAUGÅRD SØRENSEN (born 15 August 1997) is a Danish football player who plays as a forward for Brondby in the Danish Elitedivisionen as well as for the Danish national team. She debuted for the national team at the age of 19 in 2016. Sørensen was awarded the Danish Football Association's prize for Talent of the Year 2016.[1]

@@ -1,0 +1,1 @@
+REV. JOHNNIE MOORE is an author[1] and the Founder and CEO of The Kairos Company, a public relations and communications consulting firm.[2] He has served as an adviser to multiple presidential candidates. He was previously Chief of Staff and Vice President of Faith Content for Mark Burnett's United Artists Media Group.[3]

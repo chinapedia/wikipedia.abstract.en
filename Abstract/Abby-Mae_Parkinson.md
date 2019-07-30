@@ -1,0 +1,1 @@
+ABBY-MAE PARKINSON (born 30 July 1997) is a British professional racing cyclist, who currently rides for UCI Women's Team .[1] Her mother Lisa Brambani is a former racing cyclist who won a silver medal in the road race at the 1990 Commonwealth Games.[2] Parkinson rode in the women's road race at the 2016 UCI Road World Championships, finishing in 79th place.[3][4]

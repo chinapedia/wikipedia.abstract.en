@@ -1,0 +1,1 @@
+RADIOCARBON DATING (also referred to as CARBON DATING or CARBON-14 DATING) is a method for determining the age of an object containing organic material by using the properties of radiocarbon, a radioactive isotope of carbon.

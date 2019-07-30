@@ -1,0 +1,1 @@
+GEORGI IVANOV () (born November 11, 1989) is a Bulgarian freestyle wrestler. He competed in the men's freestyle 74 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by Jakob Makarashvili.[1][2]

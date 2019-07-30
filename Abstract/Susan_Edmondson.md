@@ -1,0 +1,1 @@
+SUSAN EDMONDSON (born 21 February 1956) is a British former swimmer. She competed at the 1972 Summer Olympics and the 1976 Summer Olympics.[1] The 1976 British Olympic team for the Women's 200 m freestyle - Swimming event included Susan Barnard, Ann Bradshaw and Edmondson.[2]

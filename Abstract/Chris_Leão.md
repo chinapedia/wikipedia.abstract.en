@@ -1,0 +1,1 @@
+'''Christian Bruno Leão da Rocha ''' known only as CHRIS LEÃO (born 20 April 1994) is a Brazilian reality television, DJ and musical producer.[1][2][3][4] He became known in 2011 for winning the reality show Eye drops Capricho MTV Brasil. in 2013 he entered the world of music as a DJ with the song "On And On".[5][6]

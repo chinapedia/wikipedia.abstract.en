@@ -1,0 +1,1 @@
+The DENNY SUBSTATION is an electrical substation located in the South Lake Union neighborhood of Seattle, Washington, and operated by Seattle City Light. The facility takes up a whole city block along Denny Way and features a community center, interpretive exhibits, a dog park, and public art.

@@ -1,0 +1,1 @@
+PAUL SCHMIDT (born March 26, 1898 in Hagen/Westfalen; died October 18, 1976 in Munich) is mainly known for his contribution to the development of the Pulsejet. Schmidt was an engineer and inventor, based in Munich.

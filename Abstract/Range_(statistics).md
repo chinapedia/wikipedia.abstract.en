@@ -1,0 +1,1 @@
+In statistics, the RANGE of a set of data is the difference between the largest and smallest values. [1] Difference here is specific, the RANGE of a set of data is the result of subtracting the SMALLEST VALUE from LARGEST VALUE.

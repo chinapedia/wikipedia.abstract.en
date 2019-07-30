@@ -1,0 +1,1 @@
+The _CAFE ROYAL COCKTAIL BOOK_ is a collection of cocktail recipes compiled by William J. Tarling, published by the United Kingdom Bartenders Guild in 1937.[1] It contains a number of pioneering recipes, including the 20th Century and what later became the Margarita.

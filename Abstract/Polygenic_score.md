@@ -1,0 +1,1 @@
+A POLYGENIC SCORE, also called a POLYGENIC RISK SCORE, GENETIC RISK SCORE, or GENOME-WIDE SCORE, is a number based on variation in multiple genetic loci and their associated weights (see regression analysis).[1][2] It serves as the best prediction for the trait that can be made when taking into account variation in multiple genetic variants.

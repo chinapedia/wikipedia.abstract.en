@@ -1,0 +1,1 @@
+_SCOOBY APOCALYPSE_ is a monthly comic book series published by DC Comics, which began in May 2016. It re-imagines the characters from the _Scooby-Doo_ franchise, particularly the 1969 TV series _Scooby-Doo, Where Are You!_, setting them in a post-apocalyptic world.[1][2][3]

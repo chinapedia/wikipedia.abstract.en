@@ -1,0 +1,1 @@
+Befälstecken,_Chefens_för_sjöförsvarsdepartementet_flagga,_Nordisk_familjebok.jpg

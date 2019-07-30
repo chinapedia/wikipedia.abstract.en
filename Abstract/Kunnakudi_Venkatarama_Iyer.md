@@ -1,0 +1,1 @@
+Kunnakudi_venkatarama_iyer_profile.jpg KUNNAKUDI VENKATARAMA IYER is a Carnatic musician and film music Director during the 1940s and 50s.[1] He learned Carnatic music from Namakkal Sesha Aiyangar.[2] He is a recipient of Kalaimamani award conferred by the State government of Tamil Nadu.[3]

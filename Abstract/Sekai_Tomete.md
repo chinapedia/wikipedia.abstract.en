@@ -1,0 +1,1 @@
+"" is the fifth single by Shiori Takei[1] and released August 10, 2005 under Giza Studio label. Her second album, second tune added this title of song as part of name of album. The single reached #27 rank first week. It charted for 6 weeks and sold over 13,820 copies.[2] This is the most successful song during her career.

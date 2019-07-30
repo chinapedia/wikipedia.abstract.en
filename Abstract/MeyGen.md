@@ -1,0 +1,1 @@
+MEYGEN (full name MEYGEN TIDAL ENERGY PROJECT) will be the worlds largest tidal energy plant, which is currently in construction.[1] The first phase of the project uses four 1.5 MW turbines with 16m rotor diameter turbines submerged on the seabed.[2] The project is owned and run by Tidal Power Scotland Limited and Scottish Enterprise.

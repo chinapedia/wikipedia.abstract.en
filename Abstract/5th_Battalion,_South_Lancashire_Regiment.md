@@ -1,0 +1,1 @@
+The 5TH BATTALION, SOUTH LANCASHIRE REGIMENT, was a unit of the British Army's Reserve Forces first established in St Helens, Merseyside, in 1860. It served as infantry in some of the bitterest fighting on the Western Front in World War I and as a searchlight regiment in Anti-Aircraft Command during World War II.

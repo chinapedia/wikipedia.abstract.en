@@ -1,0 +1,1 @@
+DAMP_chemical_structure.png (at center), a nitrogenous base called adenine (upper right), and one phosphate group (left). The deoxyribose sugar joined only to the nitrogenous base forms a Deoxyribonucleoside called deoxyadenosine, whereas the whole structure along with the phosphate group is a nucleotide, a constituent of DNA with the name deoxyadenosine monophosphate.]]

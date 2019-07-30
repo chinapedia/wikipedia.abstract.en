@@ -1,0 +1,1 @@
+_SKY ON FIRE_ is a 2016 Chinese suspense action film directed by Ringo Lam and starring Daniel Wu, Zhang Ruoyun, Zhang Jingchu, Joseph Chang and Amber Kuo.[1] It was released in China by Tianjin Maoyan Media on November 25, 2016.[2] It is Lam’s final film before his death in 2018.[3]

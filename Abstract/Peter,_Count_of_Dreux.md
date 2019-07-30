@@ -1,0 +1,1 @@
+Blason_Robert_III_de_Dreux_avant_1198.svg PETER, (1298 – 3 November 1345), Count of Dreux, was the youngest son of John II, Count of Dreux and Jeanne of Beaujeu. He participated in the war of Philip VI of France, fighting against the Flemish who were revolting against their count, and he fought at the Battle of Cassel in 1328.

@@ -1,0 +1,1 @@
+HINDUS () are persons who regard themselves as culturally, ethnically, or religiously adhering to aspects of Hinduism.[1][2] Historically, the term has also been used as a geographical, cultural, and later religious identifier for people living in the _Hind_ (Indian subcontinent).[3]

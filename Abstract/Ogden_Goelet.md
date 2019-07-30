@@ -1,0 +1,1 @@
+OGDEN GOELET (June 11, 1851 New York City – August 27, 1897 Cowes, Isle of Wight) was an American heir, businessman and yachtsman from New York City during the Gilded Age. With his wife, he built Ochre Court in Newport, Rhode Island, his son built Glenmere mansion, and his daughter, Mary Goelet, married Henry Innes-Ker, 8th Duke of Roxburghe.

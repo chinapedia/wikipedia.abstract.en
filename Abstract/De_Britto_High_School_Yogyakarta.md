@@ -1,0 +1,1 @@
+DE BRITTO COLLEGE HIGH SCHOOL YOGYAKARTA ("JB" after John de Britto, a 17th-century Portuguese missionary to India) is a Jesuit, Catholic high school in the province of Yogyakarta, Special Region, Indonesia. Situated on an eight-acre campus, it is prominent for its achievements in academics, sports, and various activities.

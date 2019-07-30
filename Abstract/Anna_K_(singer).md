@@ -1,0 +1,1 @@
+LUCIANNA KRECAROVÁ (born 4 January 1965), known by the stage name ANNA K,[1] is a Czech award-winning singer. She was named female singer of the year at the 1999 and 2006 Anděl Awards.[2] Anna K was diagnosed with breast cancer in 2009.[3] She took part in the 2016 series of the Czech television programme _StarDance_, dancing with Marek Hrstka.[4]

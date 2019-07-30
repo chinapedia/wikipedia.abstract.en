@@ -1,0 +1,1 @@
+The COLONIAL HOTEL is a historic building in Seattle located at 1119-1123 at the southwest corner of 1st Avenue and Seneca Streets in the city's central business district. The majority of the building recognizable today was constructed in 1901 over a previous building built in 1892-3 that was never completed to its full plans.

@@ -1,0 +1,1 @@
+_DIETZIA AURANTIACA_ is a Gram-positive, aerobic, coccoid and non-spore-forming bacterium from the genus of Dietzia which has been isolated from the cerebrospinal fluid from a patient from Göteborg in Sweden.[1][2][3][4][5]

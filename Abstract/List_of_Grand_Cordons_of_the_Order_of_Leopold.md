@@ -1,0 +1,1 @@
+The GRAND CORDON OF THE ORDER OF LEOPOLD is the highest and oldest rank of chivalrie and a formal diplomatic gift of the Kingdom of Belgium. This honours is bestowed very rarely in name of the Grand-master: the King of the Belgians. This list is Chronological by official authorisation of the Royal Decree (RD).

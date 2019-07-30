@@ -1,0 +1,1 @@
+LESOTHO is a mountainous, landlocked country located in Southern Africa. It is an enclave, surrounded by South Africa. The total length of the country's borders is . Lesotho covers an area of around , of which a negligible percentage is covered with water.

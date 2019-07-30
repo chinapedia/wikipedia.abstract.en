@@ -1,0 +1,1 @@
+The 73RD LIGHT ANTI-AIRCRAFT REGIMENT (73rd LAA Rgt), was an air defence unit of the British Army's Royal Artillery during World War II. It served during the London Blitz, landed on D-Day, seeing action throughout the campaign in North West Europe and defending the cities of Belgium against V-1 flying bombs.

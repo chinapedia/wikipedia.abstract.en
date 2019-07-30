@@ -1,0 +1,1 @@
+Pair_programming_1.jpgPAIR PROGRAMMING is an agile software development technique in which two programmers work together at one workstation. One, the _driver_, writes code while the other, the _observer_ or _navigator_,[1] reviews each line of code as it is typed in. The two programmers switch roles frequently.

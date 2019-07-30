@@ -1,0 +1,1 @@
+The 2017 GLOBAL MX-5 CUP was the twelfth season of the Mazda MX-5 Cup since the series inception in 2006. It was the second season since the series re-branding as the Global MX-5 Cup, as well as the first under INDYCAR sanctioning.[1]

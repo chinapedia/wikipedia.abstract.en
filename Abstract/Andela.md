@@ -1,0 +1,1 @@
+ANDELA is an African company that identifies and develops software developers. The company launched operations in Nigeria in 2014, to help global companies overcome the severe shortage of skilled software developers and has offices in Nigeria, Kenya, Rwanda, Uganda and the United States.[1]

@@ -1,0 +1,1 @@
+ABDULLAH RASHEED (1952) () from Male, Maldives served as the Regional Director of the Asia-Pacific Region of the World Scout Bureau, and serves as a Consultant at World Scout Bureau Kuala Lumpur Office.

@@ -1,0 +1,1 @@
+The PFAM PLAYER OF THE MONTH (MALAYSIA PREMIER LEAGUE) is an association football award that recognises the best Malaysian League player that played in the Malaysia Premier League each month of the season.

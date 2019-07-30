@@ -1,0 +1,1 @@
+MARKELL A. JONES (born September 26, 1996) is an American football running back for the Purdue Boilermakers. He rushed for 72 yards and a touchdown on twelve carries (6.0 yards per carry) in his first college game on September 6, 2015.

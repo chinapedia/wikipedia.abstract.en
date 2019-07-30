@@ -1,0 +1,1 @@
+FERNANDA COPPEL is a playwright and screenwriter. Her plays have been produced by Second Stage Theatre and the Atlantic Theater Company in New York.[1] She has written for _The Bridge,_ _Kingdom_, and _How to Get Away with Murder_.

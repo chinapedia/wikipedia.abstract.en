@@ -1,0 +1,1 @@
+Leopoldo Calvo-Sotelo formed the CALVO-SOTELO GOVERNMENT on 27 February 1981 after being nominated by King Juan Carlos I to form a government as a result of Adolfo Suárez's resignation as Prime Minister of Spain on 29 January 1981.

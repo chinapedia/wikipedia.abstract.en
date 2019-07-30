@@ -1,0 +1,1 @@
+POPE CLEMENT XIII (; 7 March 1693 – 2 February 1769), born CARLO DELLA TORRE DI REZZONICO, was head of the Catholic Church and ruler of the Papal States from 6 July 1758 to his death in 1769. He was installed on 16 July 1758.[1]

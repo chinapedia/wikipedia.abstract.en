@@ -1,0 +1,1 @@
+_SAAT UCHAKKEY_ () is a 2016 Indian bollywood comedy film directed and written by Sanjeev Sharma, starring an ensemble cast of Manoj Bajpayee, Kay Kay Menon, Annu Kapoor, Vijay Raaz, Aditi Sharma, Jatin Sarna and Nitin Bhasin. It was released on 14 October 2016.[1][2][3]

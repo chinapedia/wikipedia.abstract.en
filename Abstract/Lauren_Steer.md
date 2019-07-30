@@ -1,0 +1,1 @@
+LAUREN STEER (born 17 March 1997) is an Australian soccer player who last played for Adelaide United in the Australian W-League. She previously played for Metro United and scored the game-winning goal at the 2015 Women's Premier Cup Final.[1]

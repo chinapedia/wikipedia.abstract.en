@@ -1,0 +1,1 @@
+CSX_Train_Plant_City.jpg The LAKELAND SUBDIVISION is a CSX Transportation rail line in Florida. It runs along CSX's A Line from just west of Lakeland and heads west through Plant City to the community of Mango in Hillsborough County (just east of Tampa.

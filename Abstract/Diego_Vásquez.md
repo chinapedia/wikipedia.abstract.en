@@ -1,0 +1,1 @@
+DIEGO MARTÍN VÁSQUEZ CASTRO (born 3 July 1971 in San Martín, Argentina), known as DIEGO VÁSQUEZ, is a retired football player who currently serves as coach for F.C. Motagua in the Honduran Liga Nacional.[1]

@@ -1,0 +1,1 @@
+ST JOHN'S CHURCH, NORTH WOOLWICH is a Church of England church in North Woolwich, east London. It also hosts a Roman Catholic congregation and so is sometimes known as ST JOHN WITH ST MARY AND ST EDWARD, NORTH WOOLWICH to include the dedications of this congregation's former churches.

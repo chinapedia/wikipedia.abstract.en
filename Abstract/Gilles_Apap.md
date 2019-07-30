@@ -1,0 +1,1 @@
+GILLES APAP (born 21 May 1963) is a French classical violinist. Born in Béjaïa, Algeria, he was raised in Nice, France. In 1985 he won first prize in the contemporary music category at the Yehudi Menuhin Competition. He served as concertmaster with the Santa Barbara Symphony Orchestra for 10 years, but has since focused on his career as a soloist with orchestras around the world.

@@ -1,0 +1,1 @@
+VIHARA DHARMA BHAKTI, also known as 金德院 (Mandarin JĪN DÉ YUÀN or Hokkien KIM TEK IE), is a klenteng (a local term for a Chinese temple) located in the China Town neighborhood of Glodok, Jakarta, Indonesia. Completed in 1650, Vihara Dharma Bhakti is the oldest Chinese temple in Jakarta.

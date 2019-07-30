@@ -1,0 +1,1 @@
+ALISON S. BROOKS is an American paleoanthropologist and archaeologist whose work focuses on the Paleolithic, particularly the Middle Stone Age of Africa.[1] She is one of the most prominent figures in the debate over where _Homo sapiens_ evolved and when.[2]

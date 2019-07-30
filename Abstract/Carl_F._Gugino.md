@@ -1,0 +1,1 @@
+CARL FRANK GUGINO was an American Orthodontist who is known to develop the first computerized cephalometric and visual treatment objective (VTO) program with Dr. Robert M. Ricketts and Dr. Bench. He is mostly known, along with Peter R. Breads, to have founded Great Lakes Orthodontics which is an orthodontic laboratory and product company.[1][2]

@@ -1,0 +1,1 @@
+The Republic of the Marshall Islands has established bilateral diplomatic relations with over 75 other nations. Regional cooperation, through membership in various regional and international organizations, is a key element in its foreign policy.[1]

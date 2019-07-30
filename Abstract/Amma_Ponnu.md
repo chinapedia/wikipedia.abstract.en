@@ -1,0 +1,1 @@
+_AMMA PONNU_ (English: Mother's daughter) is a 1993 Tamil romantic drama film directed by Arun. The film features Vignesh and newcomer Akhila in the lead roles, with Nagesh, K. R. Vijaya, Goundamani, Senthil, Ponvannan and Nandagopal playing supporting roles. The film, produced by Kovai M. Murugesan, had musical score by Ekandhan and was released on 9 April 1993.[1][2][3][4]

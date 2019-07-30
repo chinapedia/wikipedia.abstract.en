@@ -1,0 +1,1 @@
+DIANA MACARENA CROCE GARCÍA (born April 17, 1997) is a Venezuelan model and beauty pageant titleholder who was 1st Runner-Up at Miss Venezuela 2016 and represented Venezuela at Miss World 2016. She represented Venezuela at the Miss International 2017 pageant and finished as 2nd Runner-up.[1][2][3]

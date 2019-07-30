@@ -1,0 +1,1 @@
+The 2016 BFD ENERGY CHALLENGER was a professional tennis tournament played on clay courts. It was the second edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Rome, Italy between 26 September and 2 October 2016.

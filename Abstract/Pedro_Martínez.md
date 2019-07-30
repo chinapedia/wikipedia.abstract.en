@@ -1,0 +1,1 @@
+PEDRO JAIME MARTÍNEZ (born October 25, 1971) is a Dominican former professional baseball starting pitcher, who played in Major League Baseball (MLB) from to , for five teams—most notably the Boston Red Sox from to .

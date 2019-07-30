@@ -1,0 +1,1 @@
+RODOLPHE BARRANGOU is an Associate Professor of Food Science and the Todd R. Klaenhammer Distinguished Scholar in Probiotics Research at North Carolina State University. His research focuses on CRISPR-Cas9 in bacteria.[1]

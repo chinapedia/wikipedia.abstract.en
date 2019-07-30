@@ -1,0 +1,1 @@
+ELENA ODRIOZOLA, born in Donostia – San Sebastián is an illustrator. Author of illustrations of books for children and young adults. For her lasting contribution to children's literature she received the Golden Apple of the Biennial of Illustration Bratislava (2015) for illustrating in 2013 her work _Frankenstein or The Modern Prometheus_.

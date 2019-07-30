@@ -1,0 +1,1 @@
+EARL WILLIAM GILL (14 October 1932 – 4 May 2014) was an Irish trumpet-player and bandleader who, with the Hoedowners, achieved fourteen Top 20 hits in the Irish charts between 1966 and 1973. As "Tim Pat", he also had a solo hit in 1971 with a novelty song, "Poor Poor Farmer".

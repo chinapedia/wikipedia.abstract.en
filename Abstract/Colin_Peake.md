@@ -1,0 +1,1 @@
+COLIN PEAKE is a Namibian cricketer. He made his first-class cricket debut for Namibia against Western Province.[1] on 6 October 2016. He made his Twenty20 (T20) debut for Namibia in the 2017 Desert T20 Challenge against the United Arab Emirates on 15 January 2017.[2]

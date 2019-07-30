@@ -1,0 +1,1 @@
+The 2017 GENT–WEVELGEM – IN FLANDERS FIELDS was a road cycling one-day race that took place on 26 March. It was the 79th edition of Gent–Wevelgem and the twelfth event of the 2017 UCI World Tour.[1][2]

@@ -1,0 +1,1 @@
+Cross_menorah_Oxford_20051225.jpg of the war memorial (Church of England) and a menorah (Judaism) coexist at the north end of St Giles' in Oxford, England]] Bosanska_Krupa_Churches.JPG, Mosque and Serbian Orthodox Church in Bosanska Krupa, Bosnia and Herzegovina]]

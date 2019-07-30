@@ -1,0 +1,1 @@
+A BY-ELECTION for the seat of CANTERBURY in the New South Wales Legislative Assembly was held on 12 November 2016. The by-election was triggered by the resignation of Labor MP and former interim Labor leader Linda Burney on 6 May to contest the division of Barton at the 2016 federal election.

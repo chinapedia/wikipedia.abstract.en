@@ -1,0 +1,1 @@
+Concept2_Indoor_Rowers.JPG An INDOOR ROWER, or ROWING MACHINE, is a machine used to simulate the action of watercraft rowing for the purpose of exercise or training for rowing. Indoor rowing has become established as a sport in its own right. The term also refers to a participant in this sport.

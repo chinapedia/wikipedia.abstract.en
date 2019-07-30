@@ -1,0 +1,1 @@
+_SHE WAS ONLY A VILLAGE MAIDEN_ is a 1933 British comedy film directed by Arthur Maude and starring Anne Grey, Lester Matthews and Carl Harbord. It was made at Shepperton Studios as a quota quickie.[1]

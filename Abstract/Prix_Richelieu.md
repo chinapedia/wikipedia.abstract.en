@@ -1,0 +1,1 @@
+The PRIX RICHELIEU is a French literary award that rewards a journalist who "testified by the quality of his own language, his concern to defend the French language". It is awarded annually, under the sponsorship of the association and the Éditions Larousse.

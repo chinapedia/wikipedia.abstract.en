@@ -1,0 +1,1 @@
+The SUBJUNCTIVE mood (Greek () "for arranging underneath", from () "I arrange beneath") along with the indicative, optative, and imperative, is one of the four moods of the Ancient Greek verb. It can be used both in the meaning "should" (the jussive subjunctive) and in the meaning "may" (the potential subjunctive).

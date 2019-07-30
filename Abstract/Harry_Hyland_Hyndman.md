@@ -1,0 +1,1 @@
+HARRY HARLAND HYNDMAN (January 31, 1920 – August 28, 1963) was a politician in Ontario, Canada. He represented Bracondale in the Legislative Assembly of Ontario from 1945 to 1948 as a Progressive Conservative.[1][2][3]

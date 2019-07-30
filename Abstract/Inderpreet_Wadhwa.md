@@ -1,0 +1,1 @@
+INDERPREET SINGH WADHWA (born 1972) is an Indian-American renewable energy entrepreneur.[1] He is the founder and CEO of Azure Power Global Limited.[2] In 2008, he founded Azure Power, which launched an Initial Public Offering (IPO) on October 12, 2016, enabling the first listing of Indian energy assets on the New York Stock Exchange.[3]

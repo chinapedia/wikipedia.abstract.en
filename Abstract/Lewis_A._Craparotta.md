@@ -1,0 +1,1 @@
+LEWIS A. CRAPAROTTA (born March 7, 1960) is a United States Marine Corps lieutenant general who serves as commanding general I Marine Expeditionary Force.[1] He is an alumnus of the University of Vermont, and was commissioned in 1983. Craparotta previously served as commanding general of Marine Corps Air Ground Combat Center Twentynine Palms.[2]

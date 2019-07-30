@@ -1,0 +1,1 @@
+GUSTINE HIGH SCHOOL is a public primary, intermediate and highschool located in Gustine, Texas (USA) and classified as a 1A school by the UIL. It is part of the Gustine Independent School District located in central Comanche County. In 2015, the school was rated "Met Standard" by the Texas Education Agency.[1]

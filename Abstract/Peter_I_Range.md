@@ -1,0 +1,1 @@
+PETER I RANGE, PETER THE FIRST RANGE[1] or PETER THE GREAT RANGE ( or Хребет Петра Первого) is a mountain range in Tajikistan, part of the Pamir Mountain System. The range takes its name from Peter the Great (1672 – 1725).

@@ -1,0 +1,1 @@
+COVENTRY CORPORATION TRANSPORT was the operator of trams and motorbuses in Coventry, Warwickshire from 1912 to 1974. The operations of Coventry Corporation Transport passed to West Midlands Passenger Transport Executive in the local government reorganisation of 1974.

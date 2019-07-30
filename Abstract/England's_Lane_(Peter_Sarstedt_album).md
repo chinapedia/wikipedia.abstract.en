@@ -1,0 +1,1 @@
+_ENGLAND'S LANE_ is the ninth studio album by the English singer-songwriter Peter Sarstedt. Released in 1997,[1] it was produced by Brian Hodgson, a childhood friend of the singer. The album featured the sequel to his 1969 hit "Where Do You Go To (My Lovely)", titled "The Last of the Breed", continuing the story of Marie-Clair.

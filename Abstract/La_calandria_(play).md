@@ -1,0 +1,1 @@
+_LA CALANDRIA_ is a comedy of the Italian Renaissance in five acts written by Cardinal Bernardo Dovizi da Bibbiena in 1513. The plot is based on Plautus' _Menaechmi_ and one of the central character's, Calandro, was borrowed from Giovanni Boccaccio's, _Decameron_. It premiered in 1513 at the Court of Urbino.

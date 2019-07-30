@@ -1,0 +1,1 @@
+Hobson's_Pledge_logo.png HOBSON'S PLEDGE is a far right lobby group in New Zealand that was formed in late September 2016 to oppose alleged "Māori favouritism". It is named after William Hobson, the first Governor-General of New Zealand and co-author of the Treaty of Waitangi.[1][2]

@@ -1,0 +1,1 @@
+CUSTOMER DEVELOPMENT is a formal methodology for building startups and new corporate ventures. It is one of the three parts that make up a Lean Startup (Business Model Design, Customer Development, Agile Engineering).

@@ -1,0 +1,1 @@
+The BOOK OF MORMON is a sacred text of the Latter Day Saint movement, which adherents believe contains writings of ancient prophets who lived on the American continent from approximately 2200 BC to AD 421.[1][2] It was first published in March 1830 by Joseph Smith as _The Book of Mormon: An Account Written by the Hand of Mormon upon Plates Taken from the Plates of Nephi_.[3]

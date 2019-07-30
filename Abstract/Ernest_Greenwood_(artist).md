@@ -1,0 +1,1 @@
+ERNEST GREENWOOD (12 February 1913 – 17 May 2009) was an English artist, and president of the Royal Watercolour Society from 1976 to 1984. During this time, Greenwood is credited with having brought the society from the brink of closure back to a secure position in new premises in the Bankside Gallery, London.[1]

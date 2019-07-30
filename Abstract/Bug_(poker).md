@@ -1,0 +1,1 @@
+Royal_Flush_hand_with_a_Joker_as_Queen_in_poker_game.jpg with a bug as the queen of hearts]] A BUG in poker is a limited form of wild card. One or both jokers are often added to the deck and played as bugs.

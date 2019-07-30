@@ -1,0 +1,1 @@
+The 1947-48 season was ABERDEEN'S 36th season in the top flight of Scottish football and their 38th season overall. Aberdeen competed in the Scottish League Division One, Scottish League Cup, and the Scottish Cup.

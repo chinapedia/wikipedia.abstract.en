@@ -1,0 +1,1 @@
+GUNDE JHALLUMANDI (English : _The Heart Stopped Beating_) is 2008 Telugu romantic drama film directed by Madan starring Uday Kiran, Aditi Sharma in the lead roles.[1][2] Music is composed by M. M. Keeravani and the lyrics are penned by Siva Sakti Dutta and Chaitanya Prasad.[3]

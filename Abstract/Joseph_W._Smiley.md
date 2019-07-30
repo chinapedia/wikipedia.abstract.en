@@ -1,0 +1,1 @@
+JOSEPH W. SMILEY was born on June 18, 1870 in Boston, Massachusetts, USA. He was an actor and director, known for _The Gray Horror_ (1915), _The Other Sister_ (1915) and _The Living Fear_ (1914), as well as many other films.[1] He was married to the Scottish actress Lila Leslie. He died on December 2, 1945, in New York City, New York, USA.

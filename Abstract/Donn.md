@@ -1,0 +1,1 @@
+Oileán_Baoi_(Dursey_Island),_The_Bull_-_geograph.org.uk_-_284005.jpg, off the southwest coast of Ireland, is often identified with Teach Duinn (the House of Donn)]] In Irish mythology, DONN ("the dark one", from )[1][2] is an ancestor of the Gaels and is believed to have been a god of the dead.[3][4][5]

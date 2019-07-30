@@ -1,0 +1,1 @@
+ALL_DRESSED_UP.jpg HMBS _LAWRENCE MAJOR_ is a support vessel operated by the Royal Bahamas Defence Force.[1][2] She was built in the Netherlands by The Damen Group, to an adaptation to its Damen Stan Lander 5612 design.

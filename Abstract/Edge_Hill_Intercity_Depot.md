@@ -1,0 +1,1 @@
+EDGE HILL Intercity Depot is a traction maintenance depot located in Edge Hill, Merseyside, England. The depot is situated at the junction of the Liverpool to Manchester Line and the Crewe to Liverpool Line, and is located to the east of Edge Hill station.

@@ -1,0 +1,1 @@
+MATTHEW THOMPSON is an American-born Australian writer. He has written a number of books, including _Mayhem: The Strange and Savage Saga of Christopher 'Badness' Binse_,[1] _My Colombian Death_ and _Running with the Blood God_.[2]

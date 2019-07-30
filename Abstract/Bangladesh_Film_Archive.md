@@ -1,0 +1,1 @@
+BANGLADESH FILM ARCHIVE independent institution that is the national film archive of Bangladesh and preserves films, commercials and other visual medias produced in Bangladesh and is located in Shahbagh, Dhaka, Bangladesh.[1][2]

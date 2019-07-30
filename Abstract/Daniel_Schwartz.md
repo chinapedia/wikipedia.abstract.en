@@ -1,0 +1,1 @@
+DANIEL SCHWARTZ is an American businessman and the Executive Chairman of Restaurant Brands International Inc. as well as Co-Chairman of RBI's Board of Directors,[1] the parent company of Burger King, Popeyes and Tim Hortons.[2][3]

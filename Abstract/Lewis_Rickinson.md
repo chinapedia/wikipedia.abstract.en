@@ -1,0 +1,1 @@
+LEWIS RAPHAEL RICKINSON (born 21 April 1883 (Lewisham), died 16 April 1945 (Newbury, Berkshire)) was an English marine engineer. He is best known for his service in the Imperial Trans-Antarctic Expedition of 1914–1916, for which he was awarded the Silver Polar Medal.[1]

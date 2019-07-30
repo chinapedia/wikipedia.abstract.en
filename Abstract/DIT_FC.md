@@ -1,0 +1,1 @@
+DILI INSTITUTE OF TECHNOLOGY FC or DIT FC is a football club of East Timor based in Dili.[1] The team plays in the Liga Futebol Amadora. They reached the 2016 Taça 12 de Novembro semi-finals before they lost 1-2 by the champions AS Ponta Leste.

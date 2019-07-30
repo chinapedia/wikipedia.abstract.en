@@ -1,0 +1,1 @@
+_WHERE IS THIS LADY?_ is a 1932 British musical film directed by Victor Hanbury and Ladislao Vajda and starring Mártha Eggerth, Owen Nares and Wendy Barrie. It was made at Elstree Studios.[1] An operetta film, it is a remake of the German film _Once There Was a Waltz_ which was adapted from a stage work by Franz Lehár.

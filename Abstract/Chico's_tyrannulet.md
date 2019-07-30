@@ -1,0 +1,1 @@
+CHICO'S TYRANNULET (_Zimmerius chicomendesi_) is a species of passerine bird in the family Tyrannidae. It is endemic to the area of Rio Madeirinha in Brazil. Its natural habitat is subtropical or tropical moist montane forests.

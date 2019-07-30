@@ -1,0 +1,1 @@
+CHODIMELLA is a village in West Godavari district of the Indian state of Andhra Pradesh.[1] It is located in Eluru mandal of Eluru revenue division. The town is a constituent of Eluru urban agglomeration.[2]

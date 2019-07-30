@@ -1,0 +1,1 @@
+Michel_Simonidy_by_Constantin_Pascali.jpg MIHAIL SIMONIDI or, in French, MICHEL SIMONIDY (8 March 1870, Bucharest - 1933, Paris) was a Romanian painter, designer and decorator of Greek ancestry who worked in the Art Nouveau style.

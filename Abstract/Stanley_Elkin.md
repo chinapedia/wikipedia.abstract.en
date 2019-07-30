@@ -1,0 +1,1 @@
+STANLEY LAWRENCE ELKIN (May 11, 1930 – May 31, 1995)[1] was an American novelist, short story writer, and essayist. His extravagant, satirical fiction revolves around American consumerism, popular culture, and male–female relationships.

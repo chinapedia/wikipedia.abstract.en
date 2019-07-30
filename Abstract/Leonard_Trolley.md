@@ -1,0 +1,1 @@
+LEONARD TROLLEY (January 1, 1918 – February 10, 2005) was an English actor, who is best known for playing _Arthur Forrest_ in ''A Family Secret '' of the sixth episode of the third series of the British television series, _Upstairs, Downstairs_.

@@ -1,0 +1,1 @@
+ANDREW ROBERT NORMAN (born 26 January 1963) was Principal of Ridley Hall, Cambridge between November 2008 and December 2016. In January 2017 he took up the post of Director of Ministry and Mission in the Diocese of Leeds.[1]

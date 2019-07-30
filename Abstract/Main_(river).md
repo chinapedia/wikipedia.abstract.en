@@ -1,0 +1,1 @@
+The MAIN () is a river in Germany. With a length of (including its 52 km long source river White Main) , it is the longest right tributary of the Rhine. It is also the longest river lying entirely in Germany (if the Weser and the Werra are considered as two separate rivers; together they are longer). The largest cities along the Main are Frankfurt am Main and Würzburg.

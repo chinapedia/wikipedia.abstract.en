@@ -1,0 +1,1 @@
+ERLAND KOLDING NIELSEN (13 January 1947 – 23 January 2017) was Director General and CEO of The Danish Royal Library (now part of the National Library of Denmark, the Copenhagen University Library, the National Museum for Books and Printing, the National Museum of Photography, the Danish Museum of Cartoons).[1]

@@ -1,0 +1,1 @@
+MAHĀGANDHĀYON MONASTERY (; ), located in Amarapura, Myanmar, is the country's most prominent monastic college.[1] The monastery, known for its strict adherence to the Vinaya, the Buddhist monastic code.[2] Mahagandhayon_MonasteryBarefoot.webm

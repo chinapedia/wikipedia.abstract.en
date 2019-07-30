@@ -1,0 +1,1 @@
+KOTHAGUDEM AIRPORT is a proposed Greenfield Airport at Kothagudem in Bhadradri Kothagudem District of Telangana, India. The Government of Telangana has identified 1,600 acres of land at Punukuduchelka village in Kothagudem mandal for the purpose.[1]

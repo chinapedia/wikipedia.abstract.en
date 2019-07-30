@@ -1,0 +1,1 @@
+MASADA ( __, "fortress")[1] is an ancient fortification in the Southern District of Israel situated on top of an isolated rock plateau, akin to a mesa. It is located on the eastern edge of the Judaean Desert, overlooking the Dead Sea east of Arad.

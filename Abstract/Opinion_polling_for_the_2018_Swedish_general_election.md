@@ -1,0 +1,1 @@
+In the run up to the 2018 general election of 9 September 2018 in Sweden, various organisations carried out opinion polling to gauge voting intentions. Results of such polls are displayed in this article.

@@ -1,0 +1,1 @@
+The 2014 TAÇA DE ANGOLA was the 33rd edition of the Taça de Angola, the second most important and the top knock-out football club competition in Angola, following the Girabola. Benfica de Luanda beat defending champions Petro de Luanda 1–0 in the final to secure its first title.

@@ -1,0 +1,1 @@
+STEPHEN II (died 1096) was a German nobleman and an early member of the House of Sponheim. He succeeded his father, Stephen I, as count of Sponheim around 1080. Around 1092 Stephen married Sophia of Formbach.[1] Stephen had several children with Sophia, including Meginard I, who succeeded him as count of Sponheim.

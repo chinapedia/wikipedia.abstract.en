@@ -1,0 +1,1 @@
+SHELDON RAMPTON (born August 4, 1957) is an American editor and author. He was editor of _PR Watch_, and is the author of several books that criticize the public relations industry and what he sees as other forms of corporate and government propaganda.

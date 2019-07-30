@@ -1,0 +1,1 @@
+94.9 NEWS FM was a FM station of Iddes Broadcast Group, Inc. Its studio and transmitter are located at Brgy. Bagacay, Alabel, Philippines. The station was on air 24 hours a day. The station's live programs were in Cebuano language.

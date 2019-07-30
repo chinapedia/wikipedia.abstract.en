@@ -1,0 +1,1 @@
+Modern Hebrew is phonetically simpler than Biblical Hebrew and has fewer phonemes, but it is phonologically more complex. It has 25 to 27 consonants and 5 to 10 vowels , depending on the speaker and the analysis.

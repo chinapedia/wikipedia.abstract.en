@@ -1,0 +1,1 @@
+Kanawha_River_Railroad_near_Dickinson,_WV,_August_2016_(7).jpg in August 2016.]] The KANAWHA RIVER RAILROAD is a common-carrier railroad in the United States. A subsidiary of Watco Transportation Services, the company leases 309 miles of track in the US states of Ohio and West Virginia from the Class I Norfolk Southern Railway.[1]

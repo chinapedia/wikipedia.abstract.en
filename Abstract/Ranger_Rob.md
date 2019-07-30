@@ -1,0 +1,1 @@
+_RANGER ROB_ is a British-Canadian-American animated children's television series created by Alexander Bar. The series debuted on Treehouse TV in Canada on September 5, 2016.[1] It is produced by Nelvana and Treehouse in Canada, and Studio Liddell (credited as "Ranger Rob UK Limited") in the United Kingdom. In the US, it airs on Universal Kids.

@@ -1,0 +1,1 @@
+DANGYUJA ( ) is a Korean citrus fruit that is a specialty of Jeju Island.[1] In Jeju language, it is called DAENGYUJI ( ).[2] Dangyuja has a similar shape and flavour to yuja, but is genealogically a variety of pomelo.

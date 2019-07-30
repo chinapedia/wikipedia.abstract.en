@@ -1,0 +1,1 @@
+"ALL EYES ON ME" is a song by South African rapper and record producer AKA featuring Burna Boy, Da L.E.S and JR, released as the fifth single from his second studio album Levels. The song is produced by award winning producer Tweezy.[1] On 30 November 2016, "All Eyes On Me" was certified Platinum by the Recording Industry of South Africa.[2]

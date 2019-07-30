@@ -1,0 +1,1 @@
+PAUL MARIUS MARTIN (6 June 1940, Saint-Cloud, today Gdyel in Algeria) is a French Latinist and historian of ancient Rome. He was professor of Latin language and literature at the Paul Valéry University, Montpellier III. He is a specialist of the history of Roman Kingdom and Roman Republic, the historiography of the first centuries of Rome and of the Roman monarchical ideology.

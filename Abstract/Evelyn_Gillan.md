@@ -1,0 +1,1 @@
+EVELYN GILLAN (4 August 1959 – 14 July 2015) was a champion of women’s rights, co-founder of the Zero Tolerance campaign and the main proponent in bringing about a minimum alcohol pricing law in Scotland.[1]

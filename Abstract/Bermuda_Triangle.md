@@ -1,0 +1,1 @@
+The BERMUDA TRIANGLE, also known as the DEVIL'S TRIANGLE or HURRICANE ALLEY, is a loosely defined region in the western part of the North Atlantic Ocean where a number of aircraft and ships are said to have disappeared under mysterious circumstances. Most reputable sources dismiss the idea that there is any mystery.

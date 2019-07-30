@@ -1,0 +1,1 @@
+The ROCKY MOUNTAIN RUGBY FOOTBALL UNION is the Geographical Union (GU) for rugby union teams playing in the Colorado, Utah and Wyoming.[1] It is an association of youth, high school, collegiate, and adult men's and women's rugby teams in the Rocky Mountain under USA Rugby.

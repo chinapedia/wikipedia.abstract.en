@@ -1,0 +1,1 @@
+'''Jette Hansen ''' (born 17 November 1953) is a Danish footballer who played as a defender for the Denmark women's national football team. She was part of the team at the 1984 European Competition for Women's Football. At the club level she played for Boldklubben Rødovre in Denmark.[1][2]

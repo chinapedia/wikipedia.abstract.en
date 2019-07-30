@@ -1,0 +1,1 @@
+MICK HART is an Australian musician.[1][2] His debut album, _Still the Flowers Bloom_ (March 2001), reached the ARIA Albums Chart top 100.[3] It had been recorded in late 2000 with Jim Moginie (of Midnight Oil) producing.[4] Hart's second album, _Upside Down in the Full Face of Optimism_, was nominated for Best Blues & Roots Album at the ARIA Music Awards of 2002.[5][6]

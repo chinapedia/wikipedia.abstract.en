@@ -1,0 +1,1 @@
+HARRY M. TUFT (born 1935) is a noted figure in the world of folk music, particularly in the state of Colorado during the American Folk Music Revival. Tuft is the founder and former owner of the Denver Folklore Center, and a musician.

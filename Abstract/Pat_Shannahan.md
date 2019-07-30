@@ -1,0 +1,1 @@
+PAT SHANNAHAN is a sample clearance expert. Shannahan has worked with artists such as the Beastie Boys, Janet Jackson, and The Avalanches to research and clear many of the samples used in their music.[1]

@@ -1,0 +1,1 @@
+CATHERINE ST-LAURENT is a Canadian actress from Quebec. She is best known for her debut feature film performance as Véronique in _Tu dors Nicole_, for which she was a Best Supporting Actress nominee at both the 3rd Canadian Screen Awards[1] and the 17th Jutra Awards[2] in 2015.

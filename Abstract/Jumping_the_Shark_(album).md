@@ -1,0 +1,1 @@
+_JUMPING THE SHARK_ is the debut studio album by Australian musician Alex Cameron, initially released for free on Cameron's website in 2013. The album's first physical release appeared on Siberia Records on April 18, 2014, while a subsequent re-release on Secretly Canadian was issued on August 19, 2016.[1]

@@ -1,0 +1,1 @@
+The KAWASAKI Z300 (codenamed ER300) is a standard motorcycle manufactured by Kawasaki. It was introduced in 2014 at the Milan Motorcycle Show as part of its Z series for the 2015 model year.[1] It is sold in Asia, Australia, Europe and South America,[2][3][4][5] and designed and marketed as the streetfighter version of the Ninja 300.[6]

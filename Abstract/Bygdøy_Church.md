@@ -1,0 +1,1 @@
+BYGDØY CHURCH (Norwegian: Bygdøy kirke) is a church that was built in a fan plan in 1968 on the peninsula of Bygdøy in Oslo, Norway.[1] It replaced the Bygdøy chapel, which burned ten years earlier.[2]

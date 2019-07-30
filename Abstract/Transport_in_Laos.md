@@ -1,0 +1,1 @@
+This article concerns the systems of TRANSPORTATION IN LAOS. Laos is a country in Asia, which possesses a number of modern transportation systems, including several highways and a number of airports. As a landlocked country, Laos possesses no ports or harbours on the sea, and the difficulty of navigation on the Mekong means that this is also not a significant transport route.

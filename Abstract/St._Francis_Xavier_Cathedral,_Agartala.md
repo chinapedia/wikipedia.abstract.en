@@ -1,0 +1,1 @@
+The ST. FRANCIS XAVIER CATHEDRAL [1] also called AGARTALA CATHEDRAL Is a temple of the Catholic Church that serves as the episcopal seat of the diocese of Agartala which is located in the city of Agartala in the state of Tripura in the north part of the Asian country of India.[2]

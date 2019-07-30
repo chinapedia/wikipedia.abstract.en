@@ -1,0 +1,1 @@
+HAKEEM VALLES (born November 23, 1992) is a former American football tight end who is currently a free agent. He played college football at Monmouth and was signed by the Arizona Cardinals as an undrafted free agent in 2016.

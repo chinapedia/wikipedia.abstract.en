@@ -1,0 +1,1 @@
+The 1909–10 DUKE BLUE DEVILS MEN'S BASKETBALL TEAM represented Duke University during the 1909–10 men's college basketball season. The head coach was Wilbur Wade Card and the team finished with an overall record of 4–4[1]

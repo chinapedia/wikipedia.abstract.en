@@ -1,0 +1,1 @@
+Bogdkhan_Uul_Strictly_Protected_Area,_Mongolia_(149199747).jpg

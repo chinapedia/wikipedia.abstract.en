@@ -1,0 +1,1 @@
+WESLEY JIM LIEBELER (May 9, 1931 – September 25, 2002), was an American law professor at the University of California and is especially known for his work at the Warren Commission in 1963 and 1964. He was married to Susan Liebeler. [1]

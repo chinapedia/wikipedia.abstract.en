@@ -1,0 +1,1 @@
+LALEWAL is a village in Shaheed Bhagat Singh Nagar district of Punjab State, India. It is located 550 meters away from postal branch office Bharta Kalan, from Nawanshahr, from district headquarter Shaheed Bhagat Singh Nagar and from state capital Chandigarh. The village is administrated by Sarpanch an elected representative of the village.[1]

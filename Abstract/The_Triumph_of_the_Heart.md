@@ -1,0 +1,1 @@
+_THE TRIUMPH OF THE HEART_ (Swedish: _HJÄRTATS TRIUMF_) is a 1929 Swedish silent film directed by Gustaf Molander and starring Carl Brisson, Lissy Arna and Edvin Adolphson.[1] The film was made in partnership with British International Pictures and was given a British release in 1930 under the alternative title of _FALSE GOLD_.

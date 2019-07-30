@@ -1,0 +1,1 @@
+{{ Infobox tennis circuit season | name = 1881 Men's Tennis tour | image = William Charles Renshaw.jpg | image_caption = William Renshaw won most titles this year | image_alt = | image_size = 200px | duration = 23 May – 10 November | edition = 5th | tournaments = 32 (Amateur) | categories = important (5 )

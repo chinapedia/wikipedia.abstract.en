@@ -1,0 +1,1 @@
+BANKHAI UNITED FOOTBALL CLUB (Thai บ้านค่าย ยูไนเต็ด), is a Thai football club based in Ban Khai District, Rayong Province, Thailand. The club get currently champion in the 2016 Thai Division 3 Tournament Eastern Region and was promoted to Thai League 4 Eastern Region.

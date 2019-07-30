@@ -1,0 +1,1 @@
+The SASKATOON WILD OATS RFC is a Canadian rugby club based in Saskatoon, Saskatchewan. The Wild Oats Rugby Club was founded in 1973. The club has won multiple provincial titles in the Saskatchewan Rugby Union.[1] The Wild Oats Rugby Club also has a successful women's team.

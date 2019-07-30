@@ -1,0 +1,1 @@
+GWEN B. GILES (May 14, 1932 - March 26, 1986), was the first African-American woman in the Missouri senate.[1] Giles was involved in the civil rights movement and Democratic politics while working to improve life for the American Americans living in St. Louis, Missouri. Throughout her career, she was a leader in her community and an activist toward African American equality.

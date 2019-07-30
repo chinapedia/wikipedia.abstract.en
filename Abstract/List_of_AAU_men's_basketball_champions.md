@@ -1,0 +1,1 @@
+The ATHLETIC AMATEUR UNION TOURNAMENT (AAU) is the annual American amateur basketball championship series for the AAU teams. It started in 1897 and has continued until present. Most of the Finals have been played in a single final format, apart from some occasions that the winner's tournament had been decided by a round robin format.

@@ -1,0 +1,1 @@
+MATHEMATICS, SCIENCE, AND ARTS ACADEMY - EAST or MSA-EAST ACADEMY is a magnet K-12 school in St. Gabriel, Louisiana. It is a part of the Iberville Parish School Board. It opened on the ground of six temporary buildings of the St. Gabriel Community Center in August 2008 and moved to permanent quarters in August 2011.[1]

@@ -1,0 +1,1 @@
+The 218TH INFANTRY REGIMENT (FIRST SOUTH CAROLINA) was an infantry regiment of the United States Army National Guard, active between 1947 and 1959. Since 1997, the 218TH REGIMENT has been the Regional Training institute of the South Carolina Army National Guard.

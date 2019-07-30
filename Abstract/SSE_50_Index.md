@@ -1,0 +1,1 @@
+SSE 50 INDEX is the stock index of Shanghai Stock Exchange, representing the top 50 companies by "float-adjusted" capitalization and other criteria. In order to qualify as a constituent of SSE 50 Index, it must be a constituent of SSE 180 Index, thus SSE 50 is a subindex of SSE 180 Index.[1] SSE 50 Index is also a subset of SSE Composite Index, which included all stock.

@@ -1,0 +1,1 @@
+"YOU WANT IT DARKER" is a single by Canadian poet and musician Leonard Cohen, released on September 21, 2016.[1] It is the title track from Cohen's album _You Want It Darker_.[2] The song earned the artist a Grammy Award for Best Rock Performance and features the vocals of Cantor Gideon Zelermeyer and Congregation Shaar Hashomayim.[3]

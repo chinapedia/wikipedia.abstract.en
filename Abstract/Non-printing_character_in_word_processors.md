@@ -1,0 +1,1 @@
+NON-PRINTING CHARACTER or FORMATTING MARKS are characters for content designing in word processors, which aren't displayed at printing. It is also possible to customize their display on the monitor. The most common non-printable characters in word processors are pilcrow, space, non-breaking space, Tab character etc.[1][2]

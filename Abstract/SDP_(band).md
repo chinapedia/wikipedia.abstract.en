@@ -1,0 +1,1 @@
+2013-08-24_Chiemsee_Reggae_Summer_-_Stonedeafproduction_6306.JPG 14-08-08_Taubertal_SDP_Dag-Alexis_Kopplin_3.JPG SDP, an abbreviation of StoneDeafProduction is a German pop/hip hop duo made up of singer and producer Vincent Stein and singer and guitarist Dag-Alexis Kopplin. The duo are signed to Berliner Plattenbau label.[1]

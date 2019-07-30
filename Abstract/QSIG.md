@@ -1,0 +1,1 @@
+QSIG is an ISDN based signaling protocol for signaling between private branch exchanges (PBXs) in a private integrated services network (PISN). It makes use of the connection-level Q.931 protocol and the application-level ROSE protocol. ISDN "proper" functions as the physical link layer.

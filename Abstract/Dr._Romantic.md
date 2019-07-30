@@ -1,0 +1,1 @@
+_DR. ROMANTIC_[1] () is a 2016 South Korean television drama starring Han Suk-kyu as the title character with Yoo Yeon-seok and Seo Hyun-jin. It aired on SBS every Monday and Tuesday at 22:00 (KST) for 20 episodes from November 7, 2016 to January 16, 2017.[2][3][4][5]

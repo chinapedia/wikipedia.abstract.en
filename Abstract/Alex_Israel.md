@@ -1,0 +1,1 @@
+ALEX ISRAEL (born 1982) is a multimedia artist, writer, and eyewear designer born and based in Los Angeles. His work includes large, colorful airbrushed paintings of abstract gradients and Los Angeles skies, his self-portraits, painted on shaped fiberglass panels, and multimedia installations constructed from movie-house props.

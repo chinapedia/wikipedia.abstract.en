@@ -1,0 +1,1 @@
+Olivia_Business_Centre_w_Gdańsku_(luty_2014).JPG OLIVIA BUSINESS CENTRE – a business park situated in the Oliwa district of Gdańsk, along Grunwaldzka Avenue. The construction project has been divided into stages, with five buildings erected so far (August 2016)[1]

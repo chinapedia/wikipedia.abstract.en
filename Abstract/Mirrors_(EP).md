@@ -1,0 +1,1 @@
+_MIRRORS_ is the debut studio recording for alternative rock band Young Guns. The four song EP was released on 22 June 2009. While initial sales were low, its release, coupled with subsequent touring, is credited with getting them the positions of opening live shows for Bon Jovi and Guns N' Roses that are credited for kick-starting the band's music career.

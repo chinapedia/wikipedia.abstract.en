@@ -1,0 +1,1 @@
+BASNAYAKE MUDIYANSELAGE SUGANDIKA MANEL KUMARI (born 5 October 1990), known as SUGANDIKA KUMARI, is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against Pakistan on 11 January 2015.[2]

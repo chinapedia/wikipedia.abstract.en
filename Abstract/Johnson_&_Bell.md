@@ -1,0 +1,1 @@
+JOHNSON & BELL LTD is a Chicago-based law firm with approximately 100 lawyers, and an office in Chicago, Wheaton, Illinois and Crown Point Indiana. Founded in 1975 as William D. Maddux LTD, the firm changed the name to Johnson & Bell in 1990.[1] In 2016 Johnson and Bell was listed as one the top 400 law firms in the United States by Law 360.[2]

@@ -1,0 +1,1 @@
+LARKSPUR LANDING is an under-construction Sonoma–Marin Area Rail Transit (SMART) station[1] in Larkspur, California. The terminal station is expected to open in late 2019.[2] (Service had previously been estimated in 2018.[3][4]) It is located across Sir Francis Drake Blvd from the Larkspur Ferry Terminal,[5] from which it gets its name.

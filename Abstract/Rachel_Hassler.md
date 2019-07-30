@@ -1,0 +1,1 @@
+RACHEL HASSLER (born 22 May 1995 in Albuquerque, NM, United States), is an American women's International motorcycle trials rider. Hassler is a three time NATC Women's Trials Champion and member of the American Trial Des Nations team.

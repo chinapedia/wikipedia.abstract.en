@@ -1,0 +1,1 @@
+STING SPORTS is an Australian boxing, mixed martial arts and clothing brand that was founded in Melbourne, Australia in 2003 by Amir Anis. Sting Sports was selected as the official AIBA boxing glove and sports equipment supplier for the 2014 Commonwealth Games and 2016 Summer Olympics.[1][2]

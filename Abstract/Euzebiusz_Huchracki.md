@@ -1,0 +1,1 @@
+Father EUZEBIUSZ HUCHRACKI, O.F.M., (October 15, 1885 – May 6, 1942) was a Polish Franciscan friar, superior of the monastery in Miejska Górka, chaplain of the Secular Franciscan Order, who shortly after the Nazi invasion of Poland was arrested by the Gestapo, imprisoned at several places of detention, and lastly deported to the Dachau concentration camp, and murdered.[1]

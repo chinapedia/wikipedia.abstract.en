@@ -1,0 +1,1 @@
+Phrenology1.jpg mapping[1] of the brain. Phrenology was among the first attempts to correlate mental functions with specific parts of the Brain]] Descartes_mind_and_body.gif' illustration of mind/body dualism. Descartes believed inputs are passed on by the Sensory organs to the epiphysis in the brain and from there to the immaterial spirit.[2]]]

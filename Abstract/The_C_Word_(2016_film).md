@@ -1,0 +1,1 @@
+_THE C WORD_ is a 2016 documentary film about the effort to prevent cancer, particularly the research of Dr. David Servan-Schreiber, and addresses the failure of Western medicine's approach to cancer.[1]

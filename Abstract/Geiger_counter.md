@@ -1,0 +1,1 @@
+A GEIGER COUNTER is an instrument used for detecting and measuring ionizing radiation. Also known as a GEIGER–MUELLER COUNTER (or GEIGER–MÜLLER COUNTER), it is widely used in applications such as radiation dosimetry, radiological protection, experimental physics, and the nuclear industry.

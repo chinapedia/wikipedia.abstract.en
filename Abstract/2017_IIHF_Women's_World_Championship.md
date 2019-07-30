@@ -1,0 +1,1 @@
+| website = Website | prevseason = 2016 | nextseason = 2018 }} THE 2017 IIHF WOMEN'S WORLD CHAMPIONSHIP was an international Ice hockey tournament run by the International Ice Hockey Federation. It was held in Plymouth Township, Michigan, United States from 31 March to 7 April 2017.[1]

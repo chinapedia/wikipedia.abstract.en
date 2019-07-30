@@ -1,0 +1,1 @@
+HundshauptenBild_(1).jpg 2010_Schlosshundshaupten_2.JPG SCHLOSS HUNDSHAUPTEN is a quadrangular castle in the village of Hundshaupten in the municipality of Egloffstein in the German county of Forchheim.

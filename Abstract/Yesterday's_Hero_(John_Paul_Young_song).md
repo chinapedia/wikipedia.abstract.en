@@ -1,0 +1,1 @@
+"YESTERDAY'S HERO" is a pop song by John Paul Young. The song was written by George Young and Harry Vanda and was released in February 1975 as the lead single from Young's debut studio album, _Hero_ (1975).

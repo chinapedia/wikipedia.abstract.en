@@ -1,0 +1,1 @@
+DONALD MALCOLM CAMPBELL, (23 March 1921 – 4 January 1967) was a British speed record breaker who broke eight absolute world speed records on water and on land in the 1950s and 1960s. He remains the only person to set both world land and water speed records in the same year (1964). He died during a water speed record attempt at Coniston Water in the Lake District, England.

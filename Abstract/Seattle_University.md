@@ -1,0 +1,1 @@
+SEATTLE UNIVERSITY (SU) is a private Jesuit university in Seattle, Washington.[1][2] SU is the largest independent university in the Northwest US, with over 7,500 students enrolled in undergraduate and graduate programs within eight schools.

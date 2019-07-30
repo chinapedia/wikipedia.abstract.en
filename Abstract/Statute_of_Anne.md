@@ -1,0 +1,1 @@
+The STATUTE OF ANNE, also known as the COPYRIGHT ACT 1710 (cited either as 8 Ann. c. 21 or as 8 Ann. c. 19),[1] is an act of the Parliament of Great Britain passed in 1710, which was the first statute to provide for copyright regulated by the government and courts, rather than by private parties.

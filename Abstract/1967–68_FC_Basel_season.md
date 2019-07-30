@@ -1,0 +1,1 @@
+The 1967–68 SEASON was FUSSBALL CLUB BASEL 1893'S 74th season since their foundation. It was their 22nd consecutive season in the top flight of Swiss football following their promotion the season 1945–46. They played their home games in the St. Jakob Stadium. The Chairmann of the board was Harry Thommen.

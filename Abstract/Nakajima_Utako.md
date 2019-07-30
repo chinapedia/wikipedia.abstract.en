@@ -1,0 +1,1 @@
+NakajimaUtako.jpg NAKAJIMA UTAKO (; 14 December 1844, Tokyo – 30 January 1903) was a Japanese _waka_ and _tanka_ poet and conservatory founder. Associated with Keien court poetry, she founded the Haginoya poetry school (萩の舎, "House of Bush Clover"), the most notable of the poetry conservatories during the Meiji period.

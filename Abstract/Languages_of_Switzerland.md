@@ -1,0 +1,1 @@
+The four national LANGUAGES OF SWITZERLAND are German, French, Italian and Romansh.[1] All but Romansh maintain equal status as official languages at the national level within the Federal Administration of the Swiss Confederation.[2] In some situations, Latin is used, particularly as a single language to denote the country.

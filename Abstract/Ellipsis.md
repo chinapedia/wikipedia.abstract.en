@@ -1,0 +1,1 @@
+An ELLIPSIS (plural ELLIPSES; from the , , 'omission' or 'falling short') is a series of dots (typically three, such as "…") that usually indicates an intentional omission of a word, sentence, or whole section from a text without altering its original meaning.[1]

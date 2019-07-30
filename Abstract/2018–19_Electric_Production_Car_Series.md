@@ -1,0 +1,1 @@
+The 2018–19 ELECTRIC PRODUCTION CAR SERIES is the inaugural season of the zero-emission motorsport championship.[1] The season will commence at Jerez on 4 November 2018 and will end on 13 October 2019 at Algarve, after eight events for a total of ten races.[2]

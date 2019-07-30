@@ -1,0 +1,1 @@
+CHANDOO MONDETI is a Telugu film director. He has directed films like _Karthikeya_, _Premam_ and _Savyasachi_.[1][2] Both _Karthikeya_ and _Savyasachi_, received positive response from critics and audience, while _Premam_ was panned.

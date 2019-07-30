@@ -1,0 +1,1 @@
+JEAN-MARIE LASSÈRE (14 May 1932 – 17 June 2011) was a 20th-century French historian of the Roman world. He was professor of Roman history at the Paul Valéry University, Montpellier III. A specialist in Roman Africa, he was also an epigrapher, author of an important textbook.

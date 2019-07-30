@@ -1,0 +1,1 @@
+KWASHIORKOR is a form of severe protein malnutrition characterized by edema, and an enlarged liver with fatty infiltrates. Sufficient calorie intake, but with insufficient protein consumption, distinguishes it from marasmus. Kwashiorkor cases occur in areas of famine or poor food supply.[1] Cases in the developed world are rare.[2]

@@ -1,0 +1,1 @@
+The CAPIZNONS or CAPIZEÑOS refer to the people who are native to or have roots in Roxas City and the province of Capiz, located in the region of Western Visayas in the central section of the Philippines.[1] located in the region of Western Visayas in the central section of the Philippines. It is located at the northeastern portion of Panay Island.

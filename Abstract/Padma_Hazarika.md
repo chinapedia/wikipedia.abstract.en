@@ -1,0 +1,1 @@
+PADMA HAZARIKA is a Bharatiya Janata Party politician from Assam. He was elected in Assam Legislative Assembly election in 1996, 2006, 2011 and 2016 from Sootea constituency.[1][2][3][4] Formerly, he was with Asom Gana Parishad.[5]

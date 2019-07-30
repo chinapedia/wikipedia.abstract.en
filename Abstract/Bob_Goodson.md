@@ -1,0 +1,1 @@
+BOB GOODSON is a British technologist, entrepreneur, and UX designer. The CEO of Quid Inc., an artificial intelligence company, Goodson studied medieval literature at Oxford University, and co-founded Quid based on his interest in applying language theory to semantic search.[1][2][3]

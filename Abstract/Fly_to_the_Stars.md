@@ -1,0 +1,1 @@
+FLY TO THE STARS (foaled 2 February 1994) is a British Thoroughbred racehorse and sire best known for his win in the 1999 Lockinge Stakes. He competed in the United Kingdom, Ireland, France, the United Arab Emirates and the United States, winning six of his twenty-four starts in a racing career which lasted from October 1996 to September 2000.

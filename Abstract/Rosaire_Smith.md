@@ -1,0 +1,1 @@
+ROSAIRE SMITH ( – [1] ) was a Canadian male former weightlifter, who competed in the bantamweight class and represented Canada at international competitions. He won the bronze medal at the 1947 World Weightlifting Championships in the 59 kg category.[2]

@@ -1,0 +1,1 @@
+During the 1955–56 English football season, Brentford competed in the Football League Third Division South. A promising 6th-place finish was achieved with a squad mainly drawn from the club's youth system.

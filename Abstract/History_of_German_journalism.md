@@ -1,0 +1,1 @@
+The HISTORY OF GERMAN JOURNALISM dates to the 16th century. Germany invented printing, and produced its first newspapers in the 16th century. However, Germany was divided into so many competing states that before unification in 1871, no newspaper played a dominant role.

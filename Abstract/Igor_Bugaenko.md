@@ -1,0 +1,1 @@
+IGOR BUGAENKO, (born 1981), also known as IHAR BUHAENKA[1] is a Belarusian kickboxer and current SUPERKOMBAT Cruiserweight Champion. He has also won the Tatneft Arena World Cup twice, in 2008 and 2014.

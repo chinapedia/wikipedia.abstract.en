@@ -1,0 +1,1 @@
+CARME BARBARÁ GENIÉS (born 3 July 1933), known professionally as CARMEN BARBARÁ, is a Spanish comics artist and illustrator. Her most famous character is the reporter , who revolutionized the image of women in Spanish cartoons, breaking from their traditional romantic roles.[1]

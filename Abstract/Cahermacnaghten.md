@@ -1,0 +1,1 @@
+CAHERMACNAGHTEN () is a ringfort south of Ballyvaughan in the Burren area, in County Clare, Ireland. It, or a nearby building, is the site of the famous O'Davoran law school.[1] The fort is a National Monument.

@@ -1,0 +1,1 @@
+_NORSK SJAKKBLAD_ (_The Norwegian Chess Magazine_) is a Norwegian chess periodical published by the Norwegian Chess Federation.[1] It serves as a member's magazine for the federation, but is available to subscribers as well. Common topics include tournament news, results, national rating lists and annotated games.

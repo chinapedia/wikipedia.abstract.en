@@ -1,0 +1,1 @@
+RALPH MEREDITH RIGGS(16 June 1895- 13 January 1971)[1] was the 8th General Superintendent of the Assemblies of God (1953–1959).[2] Riggs was also a teacher at Bethany Bible College in Santa Cruz, California in the mid-1960s

@@ -1,0 +1,1 @@
+ELIZABETH HOWE BRADLEY (born 1962) is the eleventh President of Vassar College, a role she assumed on July 1, 2017. Bradley also holds a joint appointment as Professor of Political Science and Professor of Science, Technology, and Society.

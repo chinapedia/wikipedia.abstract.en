@@ -1,0 +1,1 @@
+HOLLY LAKE RANCH is an unincorporated, gated, golf course community managed by a homeowner's association and located in Texas.[1] There is an allied Silver Leaf Resorts community of the same name at the location as well.

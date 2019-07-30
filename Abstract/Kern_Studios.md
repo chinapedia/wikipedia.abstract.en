@@ -1,0 +1,1 @@
+KERN STUDIOS is an entertainment production company based in New Orleans, Louisiana, USA. The studio creates large floats for events like Mardi Gras in addition to props and themed environments for theme parks, casinos, and corporate entities.

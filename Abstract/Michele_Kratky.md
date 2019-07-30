@@ -1,0 +1,1 @@
+MICHELE KRATKY (born January 19, 1957) is an American politician. She was a member of the Missouri House of Representatives, having served from 2009 – 2017. She is a member of the Democratic party.[1][2]

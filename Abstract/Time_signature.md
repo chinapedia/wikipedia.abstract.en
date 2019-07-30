@@ -1,0 +1,1 @@
+The TIME SIGNATURE (also known as METER SIGNATURE,[1] METRE SIGNATURE,[2] or MEASURE SIGNATURE)[3] is a notational convention used in Western musical notation to specify how many beats (pulses) are contained in each measure (bar), and which note value is equivalent to a beat.

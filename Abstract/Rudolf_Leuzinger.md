@@ -1,0 +1,1 @@
+Portret_Rudolf_Leuzinger.jpg

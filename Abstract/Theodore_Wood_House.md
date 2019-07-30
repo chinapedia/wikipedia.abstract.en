@@ -1,0 +1,1 @@
+The THEODORE WOOD HOUSE is a historic house at 1420 Hollister Hill Road in Marshfield, Vermont. Built about 1887, it is the only known surviving work of Chester James Wood, a local builder of some reputation, and is the town's only significant surviving example of Second Empire architecture. It was listed on the National Register of Historic Places in 2005.[1]

@@ -1,0 +1,1 @@
+IVO CHIEFFOO SUH is a footballer who currently plays in the Thailand Regional League Division 2 also known as the AIS Regional League Division 2. He plays for Uttaradit F.C. He is a defensive midfielder whose great versatility also enables him to operate as a good center-back and as right and Left full-back.

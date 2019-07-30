@@ -1,0 +1,1 @@
+Duwamish_River_-_North_Wind's_Weir_at_dusk_01.jpg.]] NORTH WIND'S WEIR or NORTH WIND'S FISH WEIR south of Seattle on the Duwamish River in Tukwila, Washington is a site that figures prominently in the oral traditions of the Salish people of the Puget Sound region. The legends describe battles between North Wind and South Wind for control of the region.[1]

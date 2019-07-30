@@ -1,0 +1,1 @@
+sundarnath Sundernath_dham.jpg _Sundarnath_' is a temple of Lord Shiva located in Kursakanta Araria of the Indian state of Bihar near the border of Nepal, at Sundari Math (Sundarnath Dham). People from South Nepal and North Bihar worship the Hindu god Shiva.

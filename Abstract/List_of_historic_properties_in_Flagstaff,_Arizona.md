@@ -1,0 +1,1 @@
+This is a list, which includes a photographic gallery, of some of the remaining historic buildings, houses, bridges, structures and monuments in Flagstaff, Arizona, some of which are listed in the National Register of Historic Places (NRHP). Also included is a photographic gallery of the Two Spot Logging Train which is listed in the NRHP and the Flagstaff Station.

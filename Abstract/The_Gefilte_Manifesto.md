@@ -1,0 +1,1 @@
+_THE GEFILTE MANIFESTO: NEW RECIPES FOR OLD WORLD JEWISH FOODS_ is a "narrative cookbook"[1] written by Jeffrey Yoskowitz and Liz Alpern, and published by Flatiron Books in 2016. It is primarily a cookbook which attempts to modernize Ashkenazic Jewish cuisine. The book contains 98 recipes.[2]

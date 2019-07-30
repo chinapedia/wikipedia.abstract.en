@@ -1,0 +1,1 @@
+Kunming_Yunnan_Lujun_Jiangwutang_Jiuzhi_2014.09.26_18-26-32.jpg YUNNAN MILITARY ACADEMY, Huangpu Military Academy (Whampoa Military Academy) and Baoding Military Academy are called “THREE MAJOR STRATEGIST CRADLES IN MODERN CHINA”.

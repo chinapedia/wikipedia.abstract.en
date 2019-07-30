@@ -1,0 +1,1 @@
+_VALLEY_ is a first-person action-adventure video game developed by Blue Isle Studios. It was released on Microsoft Windows, PlayStation 4, and Xbox One on August 24, 2016. OS X and Linux were added with patch 1.02 on 3 October 2016. It released on Nintendo Switch on March 7, 2019.[1]

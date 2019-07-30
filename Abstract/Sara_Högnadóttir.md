@@ -1,0 +1,1 @@
+SARA HÖGNADÓTTIR (born 12 November 1995) is an Icelandic badminton player.[1][2] In 2015, she competed at the Baku, European Games in women's singles event.[3][4] In 2014 she finished second, along with Margrét Jóhannsdóttir, in women's doubles at the Iceland International.[5][6]

@@ -1,0 +1,1 @@
+East_Finchley_Library_05.JPG EAST FINCHLEY LIBRARY is a grade II listed library at 226 High Road in East Finchley, London. It was built in 1938 to a design by Percival T. Harrison, the Borough of Finchley architect and engineer, assisted by C.M. Bond.[1]

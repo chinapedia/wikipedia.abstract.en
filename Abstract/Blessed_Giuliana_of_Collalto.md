@@ -1,0 +1,1 @@
+Beata_Giuliana_di_Collalto_litography.png BLESSED GIULIANA OF COLLALTO (c. 1186, Collalto, Susegana - 1 September 1262, Venice) was an Italian Benedictine nun. She was beatified in 1743 by pope Benedict XIV.

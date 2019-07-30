@@ -1,0 +1,1 @@
+[1][2][3] was an American architect, best known for designing the original World Trade Center in New York City and several other large-scale projects.[4] Yamasaki was one of the most prominent architects of the 20th century. He and fellow architect Edward Durell Stone are generally considered to be the two master practitioners of "New Formalism".[5]

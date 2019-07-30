@@ -1,0 +1,1 @@
+_KULT_ is a contemporary horror role-playing game originally designed by Gunilla Jonsson and Michael Petersén, first published in Sweden by Äventyrsspel (later Target Games) in 1991.[1] Kult is notable for its philosophical and religious depth as well as for its mature and controversial content.

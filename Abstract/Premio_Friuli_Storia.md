@@ -1,0 +1,1 @@
+The PREMIO FRIULI STORIA (Friuli Book Prize for Contemporary History) is an annual Italian literary award established in 2013 to promote standards of excellence in the writing of history books for a general readership. It is the only national Italian literary prize for non-fiction which entrusts the selection of the winner to a committee of non-specialist readers.[1]

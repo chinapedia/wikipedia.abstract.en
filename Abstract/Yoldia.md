@@ -1,0 +1,1 @@
+_YOLDIA_ is a genus of saltwater clams, marine bivalve mollusks in the family Yoldiidae.[1] It was named after Alfonso de Aguirre y Yoldi, Conde de Yoldi (1764–1852), a Spanish nobleman in charge of the royal naturalistic collection of Denmark.[2][3]

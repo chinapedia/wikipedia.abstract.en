@@ -1,0 +1,1 @@
+CARMEN T. BERNIER-GRAND (born in Coamo, Puerto Rico on November 22, 1947)[1] is a Hispanic educator and author of notable and award winning books for children and young adults.[2] Most of her books are written in verse and reflect her Puerto Rican heritage.[3] She has also written picture book biographies about prominent Latin Americans.

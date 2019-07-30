@@ -1,0 +1,1 @@
+MIN MAHA (, ) was governor of Prome (Pyay) from 1422 to 1429. He was a commander of the elephant corps in the Royal Ava Army before appointed to succeed his father-in-law Gov. Minye Kyawswa II of Prome.[1] In 1429, he was reappointed to be governor of Sagu by King Mohnyin Thado.[2]

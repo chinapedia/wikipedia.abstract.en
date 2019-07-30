@@ -1,0 +1,1 @@
+DAVID DOWNEY (born 1942) was the Canadian Middleweight Champion (1967–1977) and was a member of the Boxing Downeys dynasty. He was the son of George Downey and is the father of Olympian Ray Downey.[1][2] He is in the Canadian Boxing Hall of Fame and the Nova Scotia Sports Hall of Fame.

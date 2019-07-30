@@ -1,0 +1,1 @@
+The LOCAL GOVERNMENT BOARD FOR IRELAND was an agency of the Dublin Castle administration that liaised with the various local authorities in Ireland. It was created in 1872 and lasted until Partition in 1921–22.

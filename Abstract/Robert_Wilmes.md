@@ -1,0 +1,1 @@
+ROBERT "BOB" WILMES (1928 – 7 November 2018)[1] from Troyes, France (Scout name "Loup Hurleur", meaning "Howling Wolf") served as the volunteer World Organization of the Scout Movement representative to the UNESCO Non-Governmental Organization Committee.[2][3][4]

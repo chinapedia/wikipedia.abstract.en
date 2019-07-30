@@ -1,0 +1,1 @@
+The 2017 CAMPEONATO PARAENSE DE FUTEBOL was the 105th edition of Pará's top professional football league. The competition started on 29 January and ended on 7 May.[1] Paysandu won the championship for the 47th time.[2]

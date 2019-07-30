@@ -1,0 +1,1 @@
+The FÉDÉRATION INTERNATIONALE DES ÉCHECS or WORLD CHESS FEDERATION[1] is an international organization that connects the various national chess federations around the world and acts as the governing body of international chess competition. It is usually referred to as FIDE (, ), its French acronym.[2]

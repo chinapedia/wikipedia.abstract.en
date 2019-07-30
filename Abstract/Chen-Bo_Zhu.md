@@ -1,0 +1,1 @@
+CHEN-BO ZHU, also known as ZHU CHENGBO (Chinese: 朱程波), is a Singaporean mathematician. Currently he heads the Department of Mathematics at the National University of Singapore. [1] Zhu served as President of the Singapore Mathematical Society from 2009 to 2012 [2] and Vice President of the Southeast Asian Mathematical Society from 2012 to 2013. [3]

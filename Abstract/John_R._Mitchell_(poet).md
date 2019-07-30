@@ -1,0 +1,1 @@
+JOHN R. MITCHELL (1940 – August 17, 2006)[1] was a poet and a professor of English at Augsburg College in Minneapolis, Minnesota. He taught at the college for 36 years, dying at age 66. His work was featured in anthologies, such as _25 Minnesota Writers_ (Nodin Press, 1980), alongside the work of Jon Hassler, Patricia Hampl, and Carol Bly.[2]

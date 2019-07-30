@@ -1,0 +1,1 @@
+_HACKERS_ is an independent strategy game developed by Trickster Arts for Android and iOS.[1] _Hackers_ is a cyberwarfare strategy game, and has been likened to the video game _Uplink_.[2] On iOS the game has an added suffix: _Hackers - Join the Cyberwar_.[3]

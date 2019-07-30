@@ -1,0 +1,1 @@
+PAUL PENZONE (born March 29, 1967)[1] is an American law enforcement officer. He is the sheriff of Maricopa County, Arizona, United States. Penzone was elected sheriff in 2016, defeating longtime incumbent Joe Arpaio. Penzone is a former sergeant in the Phoenix Police Department.[2][3]

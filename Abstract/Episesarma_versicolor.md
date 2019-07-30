@@ -1,0 +1,1 @@
+The VIOLET VINEGAR CRAB (_Episesarma versicolor_) is a swimming crab species in the genus _Episesarma_.[1] Distributed all over marine and brackish waters of Indo-West Pacific regions. It is harvested by many local fishermen for rich proteinaceous food.

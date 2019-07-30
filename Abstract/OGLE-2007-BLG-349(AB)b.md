@@ -1,0 +1,1 @@
+OGLE-2007-BLG-349(AB)B[1][2] is a circumbinary extrasolar planet about 8,000 light-years away in the constellation of Sagittarius.[3] It is the first circumbinary exoplanet to be discovered using the microlensing method of detecting exoplanets.[4]

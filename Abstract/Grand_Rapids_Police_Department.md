@@ -1,0 +1,1 @@
+state | divname = Michigan | subdivtype = City | subdivname = Grand Rapids | map = Kent County Michigan Incorporated and Unincorporated areas Grand Rapids Highlighted.svg | mapcaption = Map of the Grand Rapids Police Department's jurisdiction. | headquarters = 1 Monroe Center NW

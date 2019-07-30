@@ -1,0 +1,1 @@
+_NESOTRAGUS_ is a genus of dwarf antelope comprising two species, endemic to Africa, and formerly included in the genus _Neotragus_. Recent nucleic acid studies however, suggest that the two species here included in the genus _Nesotragus_ are not closely related to _Neotragus_, and should be reassigned.[1]

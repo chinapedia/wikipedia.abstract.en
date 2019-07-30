@@ -1,0 +1,1 @@
+_SEM LENÇO, SEM DOCUMENTO_ is a Brazilian telenovela produced and broadcast by Rede Globo. It premiered on 13 September 1977 and ended on 4 March 1978, with a total of 149 episodes. It is the twentieth "novela das sete" to be aired at the timeslot. It is created by Mário Prata[1] and directed by Régis Cardoso with Dennis Carvalho.[2]

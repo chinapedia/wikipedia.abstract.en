@@ -1,0 +1,1 @@
+JUN SUNG AHN or AHN JUN-SUNG (; born February 18, 1993), better known by his stage name JUN CURRY AHN, is a Korean-American musician, YouTube video producer and member of BgA. He is a classically trained violinist who is known for his 2012 violin and dance cover performance of Psy's Gangnam Style on his YouTube channel and other K-pop and pop music covers.[1][2][3][4]

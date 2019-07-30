@@ -1,0 +1,1 @@
+WILLIAM CUESTA (born February 19, 1993) is a Colombian footballer playing for Deportes Tolima.[1] From La Equidad, Cuesta was sold to Deportes Tolima along with new transfers Sergio Mosquera and Christian Alarcon.[2]

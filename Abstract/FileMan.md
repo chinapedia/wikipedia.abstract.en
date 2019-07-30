@@ -1,0 +1,1 @@
+FILEMAN is a set of utilities written by George Timson in the late 1970s and early 1980s, using MUMPS, which provide a meta-data function for MUMPS applications. The FileMan utilities allow the definition of data structures, menus and security, reports, and forms, allowing someone to set up applications without tremendous experience in the MUMPS programming language.

@@ -1,0 +1,1 @@
+The Gásadalur Tunnel, GÁSADALSTUNNILIN, is a 1.4 kilometre long,[1] single-lane tunnel in the west of the Faroe Islands, on the island of Vágar. It connects the villages of Bøur in the east with Gásadalur in the west, which are separated by the Knúkarnir mountain.[2]

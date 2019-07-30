@@ -1,0 +1,1 @@
+YEKATERINA RALIFOVNA SALIMOVA (Екатерина Ралифовна Салимова, born 2 April 1982) was a Russian female water polo player. She was a member of the Russia women's national water polo team, playing as a centre back.

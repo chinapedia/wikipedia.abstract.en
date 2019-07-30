@@ -1,0 +1,1 @@
+Jamaica has natural resources, primarily bauxite, and an ideal climate conducive to agriculture and also tourism. The discovery of bauxite in the 1940s and the subsequent establishment of the bauxite-alumina industry shifted Jamaica's economy from sugar and bananas. By the 1970s, Jamaica had emerged as a world leader in export of these minerals as foreign investment increased.[1]

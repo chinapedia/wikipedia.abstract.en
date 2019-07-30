@@ -1,0 +1,1 @@
+Jón Ólafsson}} JÓN ÓLAFSSON (–1679) was an Icelandic traveller noted for his autobiography which covers his travels in Europe and later to the Danish settlement of Tranquebar (Tharangambadi) in India.[1]

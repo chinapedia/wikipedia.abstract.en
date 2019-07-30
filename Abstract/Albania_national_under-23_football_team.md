@@ -1,0 +1,1 @@
+The ALBANIA NATIONAL UNDER-23 FOOTBALL TEAM represents Albania in international football at this age level and is controlled by Albanian Football Association, the governing body for football in Albania. The team competed in the UEFA European Under-23 Championship & Balkan Youth Championship, but after the rule change in 1975s, the event had an age limit of 21.

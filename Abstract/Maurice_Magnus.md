@@ -1,0 +1,1 @@
+MAURICE MAGNUS (7 November 1876 – 4 November 1920) was an American traveller and author of _Memoirs of the Foreign Legion_, which exposed the cruelty and depravity of life in that French army unit in 1916-17.[1]

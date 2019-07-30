@@ -1,0 +1,1 @@
+UNITS PEL BÀSQUET GANDIA, also known as HISPAGAN UPB GANDIA by sponsorship reasons, is a Spanish basketball club based in Gandia, Valencian Community that currently plays in LEB Plata, the third tier of Spanish basketball.

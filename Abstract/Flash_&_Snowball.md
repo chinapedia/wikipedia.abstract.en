@@ -1,0 +1,1 @@
+_FLASH & SNOWBALL_ is a 2005 album by Aja West and Cheeba. They are the founders of the Mackrosoft Records music label. Aja West is the leader and conductor of the funk group The Mackrosoft, and Cheeba is the leader of The Cheebacabra. Each brother plays in the other's band.

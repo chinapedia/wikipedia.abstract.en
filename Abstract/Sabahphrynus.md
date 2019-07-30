@@ -1,0 +1,1 @@
+_SABAHPHRYNUS_ is a monotypic genus of amphibians in the family Bufonidae. The sole species is _SABAHPHRYNUS MACULATUS_,[1][2] also known as the SPOTTED ASIAN TREE TOAD[3] or SABAH EARLESS TOAD.[4] It is endemic to Borneo where it is only known from Sabah, East Malaysia.[5][6]

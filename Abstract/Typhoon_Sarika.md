@@ -1,0 +1,1 @@
+TYPHOON SARIKA, known in the Philippines as TYPHOON KAREN, was a powerful tropical cyclone which affected the Philippines, China and Vietnam in mid October 2016. It was the twenty first named storm and the tenth typhoon of the annual Pacific typhoon season.

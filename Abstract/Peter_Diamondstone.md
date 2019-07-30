@@ -1,0 +1,1 @@
+PETER ISAAC DIAMONDSTONE (December 19, 1934 – August 30, 2017)[1] was an American lawyer and politician from the U.S. state of Vermont, best known as a perennial candidate and co-founder of the Liberty Union Party. He ran for various Vermont political offices, all unsuccessfully, in every election cycle from 1970 until 2016.[2]

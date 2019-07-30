@@ -1,0 +1,1 @@
+JOHN STUART (born 1920) is a Canadian male former weightlifter, who competed in the lightweight class and represented Canada at international competitions. He won the silver medal at the 1947 World Weightlifting Championships in the 67.5 kg category.[1]

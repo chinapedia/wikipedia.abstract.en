@@ -1,0 +1,1 @@
+ELEANOR RICHARDSON (born 1 July 1986)[1] is a British female track cyclist, representing Great Britain and Scotland at international competitions. Richardson represented Scotland at the 2014 Commonwealth Games. She competed at the 2016 UEC European Track Championships in the 500m time trial event and team sprint event.[2]

@@ -1,0 +1,1 @@
+FRAMILLE is a listed house located on the Main Street in Kongens Lyngby, opposite Lyngby Church, in the northern suburbs of Copenhagen, Denmark. The building is today part of Lyngby Library and is connected to the main library building by a glazed corridor in its north gable.

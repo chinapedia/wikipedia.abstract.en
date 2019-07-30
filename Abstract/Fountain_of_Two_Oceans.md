@@ -1,0 +1,1 @@
+San_Diego,_2016_-_077.jpg _FOUNTAIN OF TWO OCEANS_ is an outdoor 1984 fountain and sculpture by Sergio Benvenut, installed in San Diego, in the U.S. state of California.[1][2] It features a nude man and woman facing one another.[3]

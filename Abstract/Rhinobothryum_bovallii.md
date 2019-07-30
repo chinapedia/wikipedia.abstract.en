@@ -1,0 +1,1 @@
+_RHINOBOTHRYUM BOVALLII_, commonly known as the CORAL MIMIC SNAKE or the FALSE TREE CORAL, is a species of snake in the family Colubridae. The species is endemic to Central America and northwestern South America.

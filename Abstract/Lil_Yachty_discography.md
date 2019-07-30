@@ -1,0 +1,1 @@
+The discography of Lil Yachty, an American rapper, consists of three studio albums, two mixtapes, four extended plays, ten music videos, thirteen guest appearances and twenty-four singles (including sixteen singles as a featured artist).

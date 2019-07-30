@@ -1,0 +1,1 @@
+CHRISTOPHER D'OYLY (1717 – 19 January 1795) was a barrister of the Inner Temple, under-secretary in the colonial department and commissary-general of the musters in which capacity he took part in the planning for the American War of Independence.[1]

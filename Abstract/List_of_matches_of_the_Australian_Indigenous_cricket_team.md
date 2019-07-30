@@ -1,0 +1,1 @@
+List of cricket matches played by the men's Australian Indigenous cricket team. This team has also been known as the Australian Aboriginal cricket team, Australian Indigenous XI and the ATSIC Chairperson's XI.

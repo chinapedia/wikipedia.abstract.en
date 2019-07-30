@@ -1,0 +1,1 @@
+BANDA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY (BUAT), formerly MANYAWAR SHRI KANSHIRAM JI UNIVERSITY OF AGRICULTURE AND TECHNOLOGY, is an agricultural university at Banda in the Indian state of Uttar Pradesh.[1]

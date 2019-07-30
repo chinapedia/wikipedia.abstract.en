@@ -1,0 +1,1 @@
+LILLIE ROAD is a street in the north of Fulham, in the London Borough of Hammersmith and Fulham. A mixed residential and commercial road, it is the westerly continuation of Old Brompton Road, running from Lillie Bridge to Fulham Palace Road (the A219). Its main junctions are with North End Road and with Munster Road at Fulham Cross.[1]

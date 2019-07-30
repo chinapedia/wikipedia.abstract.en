@@ -1,0 +1,1 @@
+The 2016 CORAL NORTHERN IRELAND OPEN was a professional ranking snooker tournament that took place between 14 and 20 November 2016 at the Titanic Exhibition Centre in Belfast, Northern Ireland.[1] It was the ninth ranking event of the 2016/2017 season.[2]

@@ -1,0 +1,1 @@
+ARDITTA is an unincorporated community in southwest Howell County, in the Ozarks of southern Missouri.[1] Arditta is located on U. S. Route 160 between Egypt Grove and Caulfield. It is about twelve miles southwest of West Plains.[2]

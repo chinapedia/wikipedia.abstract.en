@@ -1,0 +1,1 @@
+_JUDWAA 2_ ( Twins 2) is a 2017 Indian Hindi-language action-comedy film directed by David Dhawan.[1] A reboot of the 1997 film _Judwaa_, the film stars Varun Dhawan playing twins Raja and Prem [2] opposite Jacqueline Fernandez and Taapsee Pannu.[3][4] Produced by Nadiadwala Grandson Entertainment,[5] _Judwaa 2_[6] was released on 29 September 2017.[7]

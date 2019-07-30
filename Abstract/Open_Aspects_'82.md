@@ -1,0 +1,1 @@
+_OPEN ASPECTS '82_ is an album by saxophonist/composer/improviser Anthony Braxton and electronic musician Richard Teitelbaum which was recorded in 1982 and originally released on the hat ART label as a double LP and rereleased on CD in 1993 as _OPEN ASPECTS (DUO) 1982_.[1][2]

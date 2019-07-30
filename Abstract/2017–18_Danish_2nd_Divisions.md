@@ -1,0 +1,1 @@
+The 2017–18 DANISH 2ND DIVISIONS will be divided in three groups of eight teams in the autumn. In spring there will be a promotion play-off and a relegation play-off. The top two teams of the promotion play-off group will be promoted to the 2018–19 Danish 1st Division.

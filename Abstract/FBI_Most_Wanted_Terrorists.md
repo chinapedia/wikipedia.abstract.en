@@ -1,0 +1,1 @@
+Mostwantedterrorbanner.jpgs, and also on the wanted poster of each suspected terrorist fugitive. The three overlapping seals on the left are the seal of the U.S. Department of State (similar to the Great Seal of the United States) and the seal of the Federal Bureau of Investigation while on the right is the seal of the U.S. Department of Justice]]

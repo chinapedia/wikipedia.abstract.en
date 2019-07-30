@@ -1,0 +1,1 @@
+BRIDGE 9 is a historic Parker through truss bridge, carrying Shawville Road across the Missisquoi River in Sheldon, Vermont. Built in 1928 after Vermont's devastating 1927 floods, it is one of the few surviving Parker truss bridges on the Missisquoi. It was listed on the National Register of Historic Places in 2007.

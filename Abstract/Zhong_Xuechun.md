@@ -1,0 +1,1 @@
+Wrestling_at_the_2016_Summer_Olympics,_Mattsson_vs_Xuechun_2.jpg ZHONG XUECHUN (born January 18, 1994) is a Chinese freestyle wrestler. She competed in the women's freestyle 53 kg event at the 2016 Summer Olympics, in which she lost the bronze medal match to Sofia Mattsson.[1][2]

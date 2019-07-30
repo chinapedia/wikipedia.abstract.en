@@ -1,0 +1,1 @@
+_MY DEAR HEART_ is a 2017 Philippine drama television series starring Heart Ramos, Coney Reyes, Zanjoe Marudo, Bela Padilla and Ria Atayde. The series aired on ABS-CBN's _Primetime Bida_ evening block and worldwide via TFC from January 23, 2017 to June 16, 2017, replacing _Till I Met You_.[1][2][3]

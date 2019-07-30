@@ -1,0 +1,1 @@
+GEORG PAHL (20 October 1900 – 13 May 1963) was a German press photographer and journalist of the 1920s and early 1930s. Pahl is notable as the photographer who published the first photographs of Adolf Hitler.

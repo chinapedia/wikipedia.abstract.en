@@ -1,0 +1,1 @@
+is a Japanese _josei_ manga series written and illustrated by Akiko Higashimura. It was serialized in Kodansha's manga magazine _Kiss_ from March 2014 to April 2017. A 10-episode Japanese television drama series adaptation was broadcast on NTV from January to March 2017. The manga won the 2019 Eisner Award for "Best U.S. Edition of International Material—Asia".

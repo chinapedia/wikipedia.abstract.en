@@ -1,0 +1,1 @@
+The SESSION DESCRIPTION PROTOCOL (SDP) is a format for describing streaming media communications parameters. The IETF published the original specification as an IETF Proposed Standard in April 1998,[1] and subsequently published a revised specification as an IETF Proposed Standard as RFC 4566 in July 2006.[2]

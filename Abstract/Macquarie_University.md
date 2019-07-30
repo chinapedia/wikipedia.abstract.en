@@ -1,0 +1,1 @@
+MACQUARIE UNIVERSITY () is a public research university based in Sydney, Australia, in the suburb of Macquarie Park. Founded in 1964 by the New South Wales Government, it was the third university to be established in the metropolitan area of Sydney.[1]

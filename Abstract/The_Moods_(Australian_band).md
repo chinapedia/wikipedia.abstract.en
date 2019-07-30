@@ -1,0 +1,1 @@
+THE MOODS were an Australian garage rock band from Melbourne, who were active during the 1960s. They became of the most popular groups in the Malbourne area and released two singles for HMV Records, including the song "Rum Drunk", which is now regarded as a garage rock classic. "Rum Drunk" and several of their other songs have been included on various compilations.

@@ -1,0 +1,1 @@
+Pechersk_28_09_13_131.jpg THE RYLSKY INSTITUTE OF ART STUDIES, FOLKLORE AND ETHNOLOGY (IAFE; Ukrainian: Інститут мистецтвознавства, фольклористики та етнології ім. М. Т. Рильського, _Instytut mystetsvoznavstva, folklorystyky ta etnolohiyi imeni M. T. Ryl’s’koho_) is a research institute in Kyiv, Ukraine, established in August 1936.

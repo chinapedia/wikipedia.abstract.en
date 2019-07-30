@@ -1,0 +1,1 @@
+_HULK: WHERE MONSTERS DWELL_ is a 2016 direct-to-video animated superhero film featuring the character the Hulk.[1] The movie takes its name from a 1970s Marvel comic book title. Just like _Marvel Super Hero Adventures: Frost Fight!_, this film is within the Marvel Animated Universe.[2]

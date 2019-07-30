@@ -1,0 +1,1 @@
+The 2016 EURO RX OF BARCELONA was the seventh round of the forty-first season of the FIA European Rallycross Championship. The event was held at the Circuit de Barcelona-Catalunya in Montmeló, Barcelona as an undercard to the 2016 World RX of Barcelona and was contested by the Supercar (fourth round) and Super1600 (fifth round) classes.[1][2]

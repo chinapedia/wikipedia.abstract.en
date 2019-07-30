@@ -1,0 +1,1 @@
+Scsi_logo.svg

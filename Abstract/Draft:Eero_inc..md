@@ -1,0 +1,1 @@
+EERO INC. (stylized EERO)[1] is a San Francisco-based developer of a wireless router that employs a mesh WiFi system.[2][3][4] Individual eero units can be placed throughout a home to create a mesh network that extends wireless range.[5][6] The product was made available for pre-order in February 2015 and was officially released in February 2016.[7][8]

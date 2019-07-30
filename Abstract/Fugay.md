@@ -1,0 +1,1 @@
+_FUGAY_ (Marathi: "फुगे")is a 2017 Marathi language film. It is directed by Swapna Waghmare Joshi and stars Swwapnil Joshi and Subodh Bhave in lead roles.[1][2] Movie will have its theatrical release on 10 February 2017.[3]

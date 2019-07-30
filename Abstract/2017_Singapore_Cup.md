@@ -1,0 +1,1 @@
+The 2017 SINGAPORE CUP (also known as the RHB SINGAPORE CUP for sponsorship reasons) is the 20th edition of Singapore's annual premier club football knock-out tournament organised by the Football Association of Singapore. Albirex Niigata (S) are the defending champions, having won their first trophy the previous year.[1]

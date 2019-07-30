@@ -1,0 +1,1 @@
+VINCENT VERSACE is an American photographer and a Nikon Ambassador.[1] He is a recipient of the Computerworld Smithsonian Award in Media Arts & Entertainment.[2] His work is part of the permanent collection of the Smithsonian Institution's National Museum of American History.

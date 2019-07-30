@@ -1,0 +1,1 @@
+CHAK PHRA () is a Buddhist festival that is celebrated annually in Southern Thailand.[1] The named could be translated as “Pulling the Buddha”, “pulling of the Buddhist monks”,[2][3] or “pulling of ceremonial Buddha image carriages”.[4]

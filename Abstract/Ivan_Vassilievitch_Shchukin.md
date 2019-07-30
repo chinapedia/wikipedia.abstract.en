@@ -1,0 +1,1 @@
+Ivan_Vassilievitch_Shchukin.jpg IVAN VASSILIEVITCH SHCHUKIN (1818-1890) was a Moscow merchant in the textile trade whose company, I.V. Shchukin and Sons, became one of the largest textile businesses in Russia. Several of his sons formed important art collections around the end of the nineteenth and start of the twentieth centuries.

@@ -1,0 +1,1 @@
+_OSWALD_, also known as _OSWALD OF THE ICE FLOES_,[1] is a 1988 Danish computer game for Amiga and Commodore 64. The game was designed by Ivan Sølvason for use as a game controlled over a push-button telephone, for Danish TV2's Friday night prime time program Eleva2ren. The game sold well in Denmark due to the exposure in Eleva2ren.[2]

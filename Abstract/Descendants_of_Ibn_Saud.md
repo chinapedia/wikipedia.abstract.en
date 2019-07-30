@@ -1,0 +1,1 @@
+Ibn Saud (1875–1953), the founder and first king of Saudi Arabia, was very young when he first married. However his wife died shortly after their marriage. Ibn Saud remarried at eighteen and his firstborn child was Turki.[1] He had 45 sons of whom 36 survived to adulthood and had children of their own.[2] He also had many daughters. He is thought to have had 22 wives.[3]

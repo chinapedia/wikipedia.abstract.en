@@ -1,0 +1,1 @@
+MICHAEL PETTERSSON (born 1991) is an Australian politician. He has been a Labor Party member of the Australian Capital Territory Legislative Assembly since 2016, representing the electorate of Yerrabi.

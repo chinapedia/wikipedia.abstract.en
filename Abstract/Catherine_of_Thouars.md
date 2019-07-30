@@ -1,0 +1,1 @@
+CATHERINE OF THOUARS was the daughter of Constance, _suo jure_ Duchess of Brittany and Countess of Richmond, and her third husband Guy of Thouars. She was the first wife of Andrew III, Baron of Vitré.

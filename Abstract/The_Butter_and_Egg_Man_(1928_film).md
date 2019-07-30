@@ -1,0 +1,1 @@
+_THE BUTTER AND EGG MAN_ is a 1928 American silent comedy film directed by Richard Wallace and starring Jack Mulhall, Greta Nissen, and Sam Hardy.[1] It is based on the 1925 play _The Butter and Egg Man_. It was remade by the studio's successor company Warner Brothers as a sound film _Hello, Sweetheart_ in 1935.[2]

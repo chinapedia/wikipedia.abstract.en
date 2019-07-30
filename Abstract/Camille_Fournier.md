@@ -1,0 +1,1 @@
+CAMILLE FOURNIER is known for being the former chief technology officer of Rent The Runway, former vice president of technology at Goldman Sachs, and author of _The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change_.[1] She is a managing director at the hedge fund Two Sigma.[2]

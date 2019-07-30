@@ -1,0 +1,1 @@
+DAVAO METRO SHUTTLE CORPORATION (DMS), also known as DAVAO METRO SHUTTLE BUS COMPANY, INC., is a large bus company in Mindanao, Philippines. It operates bus transport services in and outside Davao Region with its headquarters, main garage and offices in Davao City. Its main terminals are located in Davao City and Tagum.[1]

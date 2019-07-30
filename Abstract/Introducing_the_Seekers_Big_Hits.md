@@ -1,0 +1,1 @@
+_INTRODUCING THE SEEKERS BIG HITS_ is the second compilation album by the Australian group The Seekers. The album was released in 1967 as a double LP. The album peaked at number 5 in Australia in 1967.[1]

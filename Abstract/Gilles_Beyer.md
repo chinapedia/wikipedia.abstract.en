@@ -1,0 +1,1 @@
+GILLES BEYER is a French former competitive figure skater. He is the 1978 French national champion.[1] A competitor at three European Championships and three World Championships, he finished in the top ten at the 1978 Europeans in Strasbourg.

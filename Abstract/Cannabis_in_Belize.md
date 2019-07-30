@@ -1,0 +1,1 @@
+The use of CANNABIS IN BELIZE is common and largely tolerated; however, possession can result in fines or imprisonment.[1] Possession or use of 10 grams or less on private premises was decriminalized in November 2017.

@@ -1,0 +1,1 @@
+_STANDARD EYES_ is a compilation album by American jazz pianist Ahmad Jamal featuring performances recorded from 1958 to 1961 for the Argo label, and was released in 1967. It draws its selections from the original Argo albums Ahmad Jamal Trio Volume IV, Portfolio of Ahmad Jamal, Happy Moods, At the Pershing, Vol. 2, Ahmad Jamal's Alhambra, and All of You.[1]

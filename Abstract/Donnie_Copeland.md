@@ -1,0 +1,1 @@
+DONNIE RAY COPELAND (born March 16, 1961) is an American pastor and politician. He is the pastor of the Apostolic Pentecostal Church in North Little Rock, Arkansas.[1] From 2015 through 2017, he served one term as a Republican member of the Arkansas House of Representatives for District 38 in Pulaski County.[2]

@@ -1,0 +1,1 @@
+De Engelske Rækkehuse}} The ENGLISH TERRACE (Danish: De Engelske Rækkehuse) at Toldbodgade 71– 87 is a row of consecutive terraced houses in the Frederiksstaden neighbourhood of central Copenhagen, Denmark. The terrace was built in 1873–74 to design by Vilhelm Tvede for Det Classenske Fideicommis. It is listed.

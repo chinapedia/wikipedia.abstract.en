@@ -1,0 +1,1 @@
+JANDIAL near the city of Taxila in Pakistan is the site of an ancient temple well known for its Ionic columns. The temple is located 630 meters north of the northern gate of Sirkap.[1] The Temple was excavated in 1912-1913 by the Archaeological Survey of India under John Marshall. It has been called "the most Hellenic structure yet found on Indian soil".[2]

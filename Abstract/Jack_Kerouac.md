@@ -1,0 +1,1 @@
+JACK KEROUAC (;[1] born JEAN-LOUIS KÉROUAC (though he called himself JEAN-LOUIS LEBRIS DE KÉROUAC); March 12, 1922 – October 21, 1969) was an American novelist and poet of French-Canadian descent.[2][3][4][5]

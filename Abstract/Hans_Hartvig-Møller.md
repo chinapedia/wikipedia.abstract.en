@@ -1,0 +1,1 @@
+HANS HARTVIG MØLLER (sometimes also written as _Hans Hartvig-Møller_) (Nordborg, Als 1873-1953) was the Rector (1909-1943) of Gammel Hellerup Gymnasium (GHG) founded in 1894 and originally a private school exclusively for boys, the founder of student council in Denmark,[1] and one of the founders of Danish Scouting.[2]

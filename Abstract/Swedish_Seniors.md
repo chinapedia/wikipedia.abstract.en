@@ -1,0 +1,1 @@
+The SWEDISH SENIORS was a men's professional golf tournament on the European Seniors Tour in 1997 and 1998. The tournament was held at Fågelbro Golf and Country Club on the Island of Värmdö, east of Stockholm, Sweden.

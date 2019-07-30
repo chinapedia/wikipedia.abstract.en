@@ -1,0 +1,1 @@
+SABAH–SARAWAK GAS PIPELINE (SSGP) is a 500 kilometre Malaysian natural gas pipeline that linked Kimanis in Sabah to Bintulu in Sarawak. The pipeline is part of the Petronas development project of "Sabah–Sarawak Integrated Oil and Gas Project",[1] and has start operating since early 2014.[2]

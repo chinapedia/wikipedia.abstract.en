@@ -1,0 +1,1 @@
+Mitribah_Weather_Station.jpg

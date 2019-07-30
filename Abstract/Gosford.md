@@ -1,0 +1,1 @@
+GOSFORD is a New South Wales suburb located in the heart of the Central Coast Region, about north of the Sydney CBD. The suburb is situated at the northern extremity of Brisbane Water, an extensive northern branch of the Hawkesbury River estuary and Broken Bay.

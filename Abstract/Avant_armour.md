@@ -1,0 +1,1 @@
+Avant_armour_upper_section.JPG THE AVANT ARMOUR, in the R. L. Scott collection in Glasgow, is one of the oldest near-complete armours in the world. It is in almost perfect condition. It is named after the repeating inscription on the breastplate - _avant_, meaning "forward!". The armour was made in about 1440-45 for a member of the Matchs family of Churburg Castle.[1]

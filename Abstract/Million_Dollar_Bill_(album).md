@@ -1,0 +1,1 @@
+_MILLION DOLLAR BILL_ is the debut album by Australian musician Billy Thorpe, released in 1975. The album spawned the singles "It's Almost Summer", "Drive My Car", "Do the Best You Can" and "Mama Told Her". The album peaked at number 37 on the Kent Music Report in Australia.[1][2]

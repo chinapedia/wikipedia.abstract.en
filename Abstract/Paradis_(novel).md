@@ -1,0 +1,1 @@
+_PARADIS_ is a 1981 novel by French novelist Philippe Sollers. Sollers conceived the book as a literary homage to Dante's _Paradiso_. Noted by critics for its lack of punctuation, _Paradis_ has been compared to _The Cantos_ of Ezra Pound and Joyce's _Finnegans Wake_. _Paradis_ was published in three volumes: _Paradis_, followed later by _Paradis II_ and _Paradis III_.

@@ -1,0 +1,1 @@
+The 44TH ANNUAL AMERICAN MUSIC AWARDS took place on November 20, 2016, at the Microsoft Theater in Los Angeles.[1][2] It was broadcast on ABC and was hosted by Gigi Hadid and Jay Pharoah.[3] The 2016 AMAs fell 31% from 2015 among adults 18-49 and 26% among viewers, to 8.2 million watching the show, which was an all-time low in the show's history.[4]

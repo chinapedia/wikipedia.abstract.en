@@ -1,0 +1,1 @@
+The UNITED PATRIOTS () is a nationalist electoral alliance in Bulgaria formed by three political parties: IMRO – Bulgarian National Movement (IMRO), the National Front for the Salvation of Bulgaria (NFSB) and Attack.

@@ -1,0 +1,1 @@
+Burkina Faso has good relations with the European Union,[1] African[2] and certain Asian countries. France, the former colonial power, in particular, continues to provide significant aid and supports Compaoré's developing role as a regional powerbroker.

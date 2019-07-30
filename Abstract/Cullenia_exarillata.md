@@ -1,0 +1,1 @@
+_CULLENIA EXARILLATA_ is a flowering plant evergreen tree species in the family Malvaceae endemic to the rainforests of the southern Western Ghats in India. It is one of the characteristic trees of the mid-elevation tropical wet evergreen rainforests and an important food plant for the endemic primate, the lion-tailed macaque.[1]

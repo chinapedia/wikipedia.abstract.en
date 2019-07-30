@@ -1,0 +1,1 @@
+IRELAND participated in the EUROVISION SONG CONTEST 2017 with the song "Dying to Try", sung by Brendan Murray and written by Jörgen Elofsson. The song and the singer were internally selected in December 2016 by the Irish broadcaster Raidió Teilifís Éireann (RTÉ) to represent the nation at the 2017 contest in Kiev, Ukraine.

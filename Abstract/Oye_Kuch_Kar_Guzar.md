@@ -1,0 +1,1 @@
+_OYE KUCH KAR GUZAR_ is a 2016 Pakistani online comedy film by djuice Pakistan, directed and written by Harris Rasheed and produced by Syed Zaheer Uddin and Emad Ishaq Khan.[1] It is the first Pakistani online film.[2] The film was released on YouTube on 3 December 2016.[3]

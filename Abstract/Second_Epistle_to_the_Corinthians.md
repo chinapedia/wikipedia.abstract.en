@@ -1,0 +1,1 @@
+The SECOND EPISTLE TO THE CORINTHIANS, commonly referred to as SECOND CORINTHIANS or 2 CORINTHIANS, is a Pauline epistle of the New Testament of the Christian Bible. The epistle is attributed to Paul the Apostle and a co-author named Timothy, and is addressed to the church in Corinth and Christians in the surrounding province of Achaea, in modern-day Greece.

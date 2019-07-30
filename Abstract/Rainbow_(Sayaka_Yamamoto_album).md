@@ -1,0 +1,1 @@
+_RAINBOW_ is the first album of Sayaka Yamamoto, a member of Japanese idol girl group NMB48. She made her solo debut with this album.[1] It was released on 26 October 2016 under the label laugh out loud records. There are two editions. The limited edition includes a DVD with music video and the regular edition has only audio CD.[2]

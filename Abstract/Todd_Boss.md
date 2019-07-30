@@ -1,0 +1,1 @@
+TODD (RYAN) BOSS (born 6 December 1968) is an American poet, installation artist, and film producer based in Minneapolis, Minnesota. He has published several collections of poetry and contributed to literary journals. He has also produced a large body of poetry intended for musical setting, most frequently in collaboration with the composer Jake Runestad.

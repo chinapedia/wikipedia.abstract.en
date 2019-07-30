@@ -1,0 +1,1 @@
+COUSCOUS (Berber : ⵙⴽⵙⵓ _seksu,_ __) is originally a Maghrebi dish of small (about diameter) steamed balls of crushed durum wheat semolina[1] that is traditionally served with a stew spooned on top. Pearl millet and sorghum, especially in the Sahel, and other cereals can be cooked in a similar way and the resulting dishes are also sometimes called couscous.[2][3]

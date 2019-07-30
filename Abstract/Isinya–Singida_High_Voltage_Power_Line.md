@@ -1,0 +1,1 @@
+The ISINYA–SINGIDA HIGH VOLTAGE POWER LINE is a high voltage electricity power line, under construction, connecting the high voltage substation at Isinya, Kenya to another high voltage substation at Singida, Tanzania.[1]

@@ -1,0 +1,1 @@
+__NOTOC__ LAKE EYRE is a locality in the Australian state of South Australia located about north of the state capital of Adelaide and north of the town of Marree and which is associated with the occasional body of water known as Lake Eyre.[1]

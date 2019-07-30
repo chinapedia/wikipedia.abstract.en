@@ -1,0 +1,1 @@
+Old_Battersea_House,_30_Vicarage_Crescent,_London_01.JPG OLD BATTERSEA HOUSE is one of the oldest surviving buildings in Battersea, South West London and is Grade II* listed.[1] It was built around 1699,[2] and was once rumoured to have been designed by Sir Christopher Wren.[3][4]

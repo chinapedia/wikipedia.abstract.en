@@ -1,0 +1,1 @@
+__NOTOC__ Abdera_-_As_of_Tiberius.jpg ABDERA was an ancient Carthaginian and Roman port on a hill above the modern Adra on the southeastern Mediterranean coast of Spain. It was located between Malaca (now Málaga) and Carthago Nova (now Cartagena) in the district inhabited by the Bastuli.[1]

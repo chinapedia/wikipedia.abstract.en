@@ -1,0 +1,1 @@
+METI is a term used, in the country of Nepal, referring to a feminine displaying and masculine bodied individual.[1] Known in western culture and society as transgender. The word _meti_ or _metis_ is predominantly used to refer to a transgender woman.[2] Metis are a part of a larger group of queer individuals in Nepal referred to as _anya_.[3]

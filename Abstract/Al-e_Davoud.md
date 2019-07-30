@@ -1,0 +1,1 @@
+ʾAL-E DAVOUD, Aledavood (), () is a well-known landowner Iranian family, originally from Khur and Biabanak County, where they owned large tracts of lands before demolition of share cropping system by White Revolution.

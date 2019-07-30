@@ -1,0 +1,1 @@
+The POLITICS OF IRAQ take place in a framework of a federal parliamentary representative democratic republic. It is a multi-party system whereby the executive power is exercised by the Prime Minister of the Council of Ministers as the head of government, as well as the President of Iraq, and legislative power is vested in the Council of Representatives and the Federation Council.

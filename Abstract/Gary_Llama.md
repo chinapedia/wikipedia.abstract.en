@@ -1,0 +1,1 @@
+GARY LLAMA (born GARY LONGEST, June 5, 1979) is an American musician and recording engineer from Richmond, Virginia. He started playing music in the 1990s Richmond punk rock community with the band 500$Fine. In the early 2000s, he began recording solo work under various aliases and releasing them on his label, OVOLR! / Debackle.[1][2]

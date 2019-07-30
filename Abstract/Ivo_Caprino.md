@@ -1,0 +1,1 @@
+IVO CAPRINO (17 February 1920 – 8 February 2001) was a Norwegian film director and writer, best known for his puppet films. His most famous film is _Flåklypa Grand Prix_ ("Pinchcliffe Grand Prix"), made in 1975.[1]

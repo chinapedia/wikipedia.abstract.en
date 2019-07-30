@@ -1,0 +1,1 @@
+HALFBAKERY is a community-based ideas bank used by people who wish to propose and develop (not always serious) half-baked inventions. It has distinguished itself by minimalism, irreverence, and a cast of regulars whose takes on suggested inventions are often funnier than the original submission. It was created in 1999.[1]

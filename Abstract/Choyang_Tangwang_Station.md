@@ -1,0 +1,1 @@
+CHOYANG T'AN'GWANG STATION (CHOYANG COLLIERY STATION) is a railway station in Choyang-dong, Kaech'ŏn municipal city, South P'yŏngan province, North Korea. It is the terminus of the Choyang Colliery Line of the Korean State Railway.[1]

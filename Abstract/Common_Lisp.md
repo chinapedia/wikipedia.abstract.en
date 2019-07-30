@@ -1,0 +1,1 @@
+COMMON LISP (CL) is a dialect of the Lisp programming language, published in ANSI standard document _ANSI INCITS 226-1994 (R2004)_ (formerly _X3.226-1994 (R1999)_).[1] The Common Lisp HyperSpec, a hyperlinked HTML version, has been derived from the ANSI Common Lisp standard.[2]

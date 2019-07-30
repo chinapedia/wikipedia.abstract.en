@@ -1,0 +1,1 @@
+JOHN PITZIGAUDES (), his surname variously also given as Pitzigaudios (Πιτζιγαύδιος), Pitzogabdes (Πιτζογάβδης), and Pittigaudes (Πιττιγαύδης) by different Byzantine chroniclers, was a Byzantine official and envoy.

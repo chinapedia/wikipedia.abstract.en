@@ -1,0 +1,1 @@
+LINCOLN HOUGH (born June 17, 1982) is an American politician. He was first elected to the Missouri House of Representatives in 2010, where he served three terms. He served as Greene County Commissioner from 2016 to 2018. In November 2018, he was elected to represent the 30th District, which includes the City of Springfield in Greene County, in the Missouri Senate.

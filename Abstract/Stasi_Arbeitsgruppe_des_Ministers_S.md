@@ -1,0 +1,1 @@
+The WORKING GROUP OF THE MINISTER TASK GROUP "S" (AGM/S) (German: _Arbeitsgruppe des Ministers Aufgabenbereich "S"_) was an elite special operation unit of the Ministry for State Security (Stasi) of the German Democratic Republic.[1]

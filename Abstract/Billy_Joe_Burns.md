@@ -1,0 +1,1 @@
+WILLIAM JOSEPH BURNS (born 28 April 1989), widely known as BILLY JOE BURNS, is a footballer from Northern Ireland who plays as a full back for Crusaders.[1] Burns previously played for Linfield before joining Crusaders in 2014. He was named as Ulster Footballer of the Year and Northern Ireland Football Writers' Association Player of the Year for 2015–16.[2][3]

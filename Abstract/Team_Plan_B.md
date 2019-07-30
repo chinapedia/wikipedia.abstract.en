@@ -1,0 +1,1 @@
+TEAM PLAN B is the only Canadian entry in the Google Lunar XPRIZE, a $30 million competition to land a spacecraft on the Moon, travel 500 metres and transmit high definition video back to earth before the contest deadline of December 2017. Team Plan B aims to be the First Privately Funded Canadian Mission to the Moon.

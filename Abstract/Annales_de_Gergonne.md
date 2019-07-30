@@ -1,0 +1,1 @@
+The _ANNALES DE MATHÉMATIQUES PURES ET APPLIQUÉES_, commonly known as the _ANNALES DE GERGONNE_, was a mathematical journal published in Nimes, France from 1810 to 1831 by Joseph-Diaz Gergonne. The annals were largely devoted to geometry, with additional articles on history, philosophy, and mathematics education showing interdisciplinarity.[1][2]

@@ -1,0 +1,1 @@
+KUSHAL DOWARI (born 1 July 1966 in Bokata Khamun, Sivasagar) is a Bharatiya Janata Party politician from Assam. He was elected in the Assam Legislative Assembly election in 2016 from Thowra constituency. He is a former militant of United Liberation Front of Asom.[1][2][3][4]

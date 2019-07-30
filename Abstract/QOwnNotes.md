@@ -1,0 +1,1 @@
+QOWNNOTES is a free open source (GPL) plain-text notepad with markdown support and to-do list manager for Linux, MacOS and Windows, that (optionally) works together with the Notes application of ownCloud or Nextcloud.

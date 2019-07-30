@@ -1,0 +1,1 @@
+The CLINTON CUBS were a Minor League Baseball club that played from 1947 to 1948 in the Central Association. A Chicago Cubs affiliate team, they were based in Clinton, Iowa and played its home games at Riverview Stadium.

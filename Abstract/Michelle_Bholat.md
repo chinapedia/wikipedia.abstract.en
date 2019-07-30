@@ -1,0 +1,1 @@
+MICHELLE BHOLAT (born 1958) is an American physician. She is an associate professor of family medicine at the University of California, Los Angeles, where she serves as vice chair of clinical affairs, and is a member of the Medical Board of California.

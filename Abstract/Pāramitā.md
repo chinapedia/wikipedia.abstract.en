@@ -1,0 +1,1 @@
+_PĀRAMITĀ_ (Sanskrit, Pali) or _PĀRAMĪ_ (Pāli) is "perfection" or "completeness". While, technically, _pāramī_ and _pāramitā_ are both Pāli terms, Pali literature makes far greater reference to _pāramī_.

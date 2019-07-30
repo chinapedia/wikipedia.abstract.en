@@ -1,0 +1,1 @@
+CIVICS AND INNOVATORS (, CI) was a centrist and liberal sub-group within the Mixed Group (previously a parliamentary group) in the Chamber of Deputies of the Italian Parliament. Its leader was Giovanni Monchiero.

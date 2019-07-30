@@ -1,0 +1,1 @@
+It is the first day of the fourth quarter of the year.

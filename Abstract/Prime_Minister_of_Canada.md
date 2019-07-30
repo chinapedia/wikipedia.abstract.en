@@ -1,0 +1,1 @@
+The PRIME MINISTER OF CANADA () is the primary minister of the Crown, chairman of the Cabinet, and Canada's head of government. The current, and 23rd, prime minister of Canada is the Liberal Party's Justin Trudeau, following the 2015 Canadian federal election. Canadian prime ministers are styled as _The Right Honourable_ (), a privilege maintained for life.

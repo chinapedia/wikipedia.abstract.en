@@ -1,0 +1,1 @@
+KATTAKA KAYAL (Malayalam: കട്ടക കായല്‍) or KATTAKAYAL is a freshwater lake in Kollam city in the Kerala state of India. The lake connects Vattakayal, a 36-acre freshwater lake in Maruthadi, with Ashtamudi Lake in the city.[1][2][3]

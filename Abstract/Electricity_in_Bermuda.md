@@ -1,0 +1,1 @@
+ELECTRICITY IN BERMUDA is provided by the BERMUDA ELECTRIC LIGHT COMPANY LIMITED (BELCO), which is Bermuda's sole supplier of electricity, operating a generating plant and transmission and distribution systems throughout the territory. It is owned by ASCENDANT Group Limited (AG Holdings Limited), as is Bermuda Gas, PureNERGY Renewables, and inVenture Limited.

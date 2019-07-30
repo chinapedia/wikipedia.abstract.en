@@ -1,0 +1,1 @@
+EL3A3094i.jpg MARIO RIGBY is a Canadian-Turks and Caicos Islander adventure explorer, author, speaker, and former professional track and field athlete currently based in Toronto, ON.[1] From 2015 and 2017, he completed an epic two year long walk across Africa, from Cape Town to Cairo[2] entitled _Crossing Africa_.

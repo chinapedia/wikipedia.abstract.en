@@ -1,0 +1,1 @@
+JOHNATHAN LANDUS MOTLEY (born May 4, 1995) is an American professional basketball player who last played for the Los Angeles Clippers of the National Basketball Association (NBA), on a two-way contract with the Agua Caliente Clippers of the NBA G League. He played college basketball for the Baylor Bears, where he was a consensus second-team All-American as a junior.

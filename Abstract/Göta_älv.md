@@ -1,0 +1,1 @@
+The GÖTA ÄLV (, _River of the Geats_) is a river that drains lake Vänern into the Kattegat, at the city of Gothenburg, on the western coast of Sweden. It was formed at the end of the last glaciation, as an outflow channel from the Baltic Ice Lake to the Atlantic Ocean and nowadays it has the largest drainage basin in Scandinavia.

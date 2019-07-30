@@ -1,0 +1,1 @@
+MAX JURY is an American singer-songwriter from Des Moines, Iowa, USA, who now lives in Paris, France. In 2016, Max Jury released his eponymous debut album including his breakthrough hit 'Numb'. He toured[1] with Lana Del Rey and Rufus Wainwright.

@@ -1,0 +1,1 @@
+"HELL NAW" is the lead single from Nasty C's debut album, _Bad Hair_. The song talks about him not quitting the music industry. It debuted at number 4 on South Africa's official music chart.[1] The song peaked at number 1 on The Beat 99.9 FM African Top 10 chart.[2] It was made available for free digital download and has been downloaded over 11,000 times.[3]

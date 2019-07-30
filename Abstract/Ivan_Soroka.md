@@ -1,0 +1,1 @@
+IVAN SOROKA (born 1 October 1994) is a rugby union player born in Ukraine, and who grew up in Ireland. He plays as a prop. Soroka currently plays for Irish provincial side Connacht in the Pro14. Soroka joined Connacht for the 2016–17 season, having spent the preseason on trial with the team.

@@ -1,0 +1,1 @@
+was a _fudai_ feudal domain under the Tokugawa shogunate of Edo period Japan. It was located in Echigo Province, in the Hokuriku region of Honshū. The domain was centered at Shiiya Jin'ya, located on the coast of what is now part of the city of Kashiwazaki in Niigata Prefecture.[1]

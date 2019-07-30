@@ -1,0 +1,1 @@
+The 2017 STRADE BIANCHE was a road cycling one-day race that took place on 4 March. It was the eleventh edition of the Strade Bianche and was the fifth event of the 2017 UCI World Tour. It was the first time that the race was included in the UCI World Tour calendar.[1][2]

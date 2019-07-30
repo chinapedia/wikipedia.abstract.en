@@ -1,0 +1,1 @@
+Alphonse_Jourdain-Cartulaire_de_la_Cite_(Toulouse).jpg from the first cartulary of the City of Toulouse, 1205]] ALFONSO JORDAN () (1103–1148) was the Count of Tripoli (1105–09), Count of Rouergue (1109–48) and Count of Toulouse, Margrave of Provence and Duke of Narbonne (1112–48, as ALFONS I).

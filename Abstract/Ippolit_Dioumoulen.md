@@ -1,0 +1,1 @@
+IPPOLIT IPPOLITOVICH DIOUMOULEN (, 12 May 1927 – 26 September 2016) was a Soviet and Russian international economist, developer of Russian foreign trade policy and the Customs Union legislation, a key figure in the negotiations for Russia's accession to the WTO.[1][2][3] Adviser for Economic Policy, Budget and Finance for the Russian Parliament.[4]

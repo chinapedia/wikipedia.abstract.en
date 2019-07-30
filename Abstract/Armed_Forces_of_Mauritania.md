@@ -1,0 +1,1 @@
+The ARMED FORCES OF MAURITANIA () is the defence force of Mauritania, having an army, navy, air force, gendarmerie, and presidential guard. Other services include the national guard and national police, though they both are subordinated to the Ministry of the Interior. As of 2010, the Mauritanian armed forces budget was 5.5% of the country's GDP.

@@ -1,0 +1,1 @@
+Chenyang Li is a Professor of Philosophy at Nanyang Technological University in Singapore. He is internationally recognized for his work in Chinese philosophy and comparative philosophy, probably best known for his work in the Confucian philosophy of harmony and comparative studies of Confucian ethics and feminist care ethics .[1]

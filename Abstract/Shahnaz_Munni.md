@@ -1,0 +1,1 @@
+Shahnaz_Munni_(11).jpg SHAHNAZ MUNNI (Bengali শাহনাজ মুন্নী, born 1969) is a Bangladeshi journalist, poet and writer.[1] Since January 2016, she has been chief news editor with the Dhaka-based television channel News24.[2] She also takes a special interest in children's welfare.

@@ -1,0 +1,1 @@
+YOLANDA CAROLINA FALCÓN LIZARASO (born October 9, 1959) is a Peruvian lawyer and official. She was agent from "Defensora del Pueblo" of the regions La Libertad and Callao y Ensured's Defender of Seguro Social de Salud del Perú. From 1983 she works like lawyer, to specialize in defense of rights, management conflict y public health.

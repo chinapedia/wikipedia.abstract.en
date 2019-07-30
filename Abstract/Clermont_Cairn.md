@@ -1,0 +1,1 @@
+CLERMONT CAIRN, also called BLACK MOUNTAIN CHAMBERED CAIRN (Irish: _Carnán Mhaighréid Náir_[1]), is a chambered cairn and National Monument located in the Cooley Mountains, County Louth, Republic of Ireland.[2][3]

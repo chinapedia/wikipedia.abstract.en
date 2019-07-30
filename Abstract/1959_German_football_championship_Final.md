@@ -1,0 +1,1 @@
+The 1959 GERMAN FOOTBALL CHAMPIONSHIP FINAL decided the winner of the 1959 German football championship, the 49th edition of the German football championship, a knockout football cup competition contested by the regional league winners to determine the national champions.

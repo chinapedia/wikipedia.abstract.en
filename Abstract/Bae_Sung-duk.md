@@ -1,0 +1,1 @@
+BAE SUNG-DUK (born April 19, 1970) is a South Korean sport shooter. He competed at the 2000 Summer Olympics in the men's 50 metre rifle three positions event, in which he tied for 25th place, and the men's 50 metre rifle prone event, in which he tied for 38th place.[1]

@@ -1,0 +1,1 @@
+CLAIRE DELANNOY is a French writer and literary director. She is the Director of a series at Editions Albin Michel[1] where she published Amélie Nothomb, Assia Djebar, and François Cheng. In 2003, she published her first novel, _La Guerre, l'Amérique_ which was awarded the prix Goncourt du premier roman.

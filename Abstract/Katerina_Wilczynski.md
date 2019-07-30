@@ -1,0 +1,1 @@
+KATERINA WILCZYNSKI (7 July 1894-1978) was a 20th-century painter, print maker and illustrator. She was born in Poland but spent a large part of her career in Britain and Italy. Wilczynski painted portraits and cityscapes throughout her career, but is best known as a landscape artist.[1]

@@ -1,0 +1,1 @@
+_DIPROTODON_, meaning "two forward teeth",[1] is the largest known marsupial to have ever lived. Along with many other members of a group of species collectively known as the "Australian megafauna", it existed from approximately 1.6 million years ago until extinction some 46,000 years ago[2] (through most of the Pleistocene epoch).

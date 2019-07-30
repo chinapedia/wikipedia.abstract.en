@@ -1,0 +1,1 @@
+JONESBORO SCHOOL is a public primary, intermediate and highschool located in Jonesboro, Texas (USA) and classified as a 1A school by the UIL. It is part of the Jonesboro Independent School District located in Coryell County. In 2015, the school was rated "Improvement Required" by the Texas Education Agency.[1]

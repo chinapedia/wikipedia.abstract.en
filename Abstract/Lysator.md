@@ -1,0 +1,1 @@
+LYSATOR is an academic computer club at Linköping University, Sweden with almost 600 members. It is an independent non-profit society, separate from the students' union and the faculties of the university.

@@ -1,0 +1,1 @@
+BRIAN HONEYCUTT, best known by his stage name KOBE or KOBE HONEYCUTT, is an American R&B recording artist and songwriter from Chicago, Illinois. He is perhaps best known for his collaborations with American rapper Eminem, including 2010's "Talkin' 2 Myself", "Cinderella Man" and 2014's "Die Alone".

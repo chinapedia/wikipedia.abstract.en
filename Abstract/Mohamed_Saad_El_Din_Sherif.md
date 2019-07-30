@@ -1,0 +1,1 @@
+General MOHAMED SAAD EL DIN SHERIF ( d. 1997) served as the commander of the Aliawran squadron during the administration of Gamal Abdel Nasser and Anwar Sadat, served as Senior Aviation Advisor to the President, and took over the presidency of the People's Assembly immediately after the assassination of Dr. Rifaat el-Mahgoub.

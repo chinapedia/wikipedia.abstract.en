@@ -1,0 +1,1 @@
+Morgan's_Grove_WV_(Personal,_2-7-2005).JPG MORGAN'S GROVE PARK is located in Shepherdstown, West Virginia, United States, and shares a history dating back to the 18th Century and Morgan's Grove, from which the historic park got its name.

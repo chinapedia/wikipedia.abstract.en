@@ -1,0 +1,1 @@
+CHRISTOPHER ROYCE FERNANDO JAVIER (born December 6, 1992) is a Filipino professional basketball player for the Blackwater Elite of the Philippine Basketball Association (PBA).[1] He was drafted 5th overall by Star in the 2016 PBA draft.[2]

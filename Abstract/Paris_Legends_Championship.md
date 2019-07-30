@@ -1,0 +1,1 @@
+The PARIS LEGENDS CHAMPIONSHIP is a men's senior (over 50) professional golf tournament on the European Senior Tour. It was held for the first time in September 2016 at Le Golf National, Paris, France. The winner was Magnus Persson Atlevi who won the first prize of €52,500 out of total prize-money of €350,000. Paul Broadhurst won the 2017 event, two strokes ahead of John Daly.

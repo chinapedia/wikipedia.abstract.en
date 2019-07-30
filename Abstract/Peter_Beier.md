@@ -1,0 +1,1 @@
+PETER BEIER CHOKOLADE, usually referred to as PETER BEIER, is a Danish premium chocolate manufacturing and retailing company founded by Linda and Peter Beier in 1996. It is based at the Ørsholt estate outside Helsingør.

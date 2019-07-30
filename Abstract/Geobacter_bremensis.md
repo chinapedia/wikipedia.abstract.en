@@ -1,0 +1,1 @@
+_GEOBACTER BREMENSIS_ is a gram-negative, metal-reducing species of proteobacteria. Isolates of this species were initially discovered in samples of mud from ditches in Bremen, Germany. Isolates of the related species _Geobacter pelophilus_ were found in the same source.[1]

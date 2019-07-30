@@ -1,0 +1,1 @@
+ALLIN CONGREGATIONAL CHURCH is a historic United Church of Christ church in Dedham, Massachusetts. Built in 1818 by conservative breakaway members of Dedham's First Church and Parish, the current building was constructed in 1819 in the Greek Revival style.

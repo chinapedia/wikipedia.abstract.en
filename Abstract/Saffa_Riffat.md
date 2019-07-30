@@ -1,0 +1,1 @@
+SAFFA RIFFAT, FInstMechE, FCIBSE, FInstE, FWIF, President of the World Society of Sustainable Energy Technology, Head of Architecture, Climate and Environment Group in University of Nottingham.[1] British Engineer/Scientists specialised in Sustainable Technologies/Low Carbon Buildings. Chairman of the WSSET and SET conference.[2]

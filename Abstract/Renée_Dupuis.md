@@ -1,0 +1,1 @@
+RENÉE DUPUIS (born January 17, 1949) is a Canadian lawyer and an independent member of the Senate of Canada. Dupuis specialized in Canadian administrative law, Human rights law, and Canadian Indigenous law. She was chosen for appointment to the Senate on November 2, 2016, by Prime Minister Justin Trudeau.[1]

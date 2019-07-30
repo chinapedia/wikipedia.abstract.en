@@ -1,0 +1,1 @@
+_RED IN TOOTH AND CLAW_ is the sixth studio album by Madder Mortem, released on 28 October 2016 on Dark Essence Records.[1] It is the genre-defying quintet's first new full-length album since 2009.[2]

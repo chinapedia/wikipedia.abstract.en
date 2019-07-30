@@ -1,0 +1,1 @@
+SEQUOIA MAGIC LOOP is an S&S - Sansei Technologies inverted Screaming Squirrel steel roller coaster located in Gardaland, Italy. The ride opened in 2005 with name SEQUOIA ADVENTURE. Riders spend a considerable time inverted, with 3 'saxophone' inversions where the cars turn 180 degrees onto a flat inverted section of track.

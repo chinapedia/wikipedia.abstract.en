@@ -1,0 +1,1 @@
+RIITTA KYLLIKKI HARI (born 16 January 1948) is a Finnish neuroscientist, physician and professor at Aalto University. She has led the Brain Research Unit at the Low Temperature Laboratory since 1982. Hari was appointed as Academician of Science on 26 November 2010.[1]

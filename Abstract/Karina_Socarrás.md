@@ -1,0 +1,1 @@
+KARINA SOCARRÁS VILLALONGA (born November 28, 1993), known simply as KARINA, is a Puerto Rican footballer who plays as a forward for Puerto Rican club Puerto Rico Sol and the Puerto Rican national team.[1][2][3]

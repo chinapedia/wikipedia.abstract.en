@@ -1,0 +1,1 @@
+SMLE (stylized in all caps) is an American electronic music duo consisting of Ruben Cardenas and Lewis Martinee. They are best known for their remix of Bobby Rush's song "Funk O'De Funk", for which they were nominated for the Best Remixed Recording award at the 60th Annual Grammy Awards.[1][2]

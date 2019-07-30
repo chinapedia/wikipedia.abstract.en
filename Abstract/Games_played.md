@@ -1,0 +1,1 @@
+GAMES PLAYED (most often abbreviated as G or GP) is a statistic used in team sports to indicate the total number of games in which a player has participated (in any capacity); the statistic is generally applied irrespective of whatever portion of the game is contested.

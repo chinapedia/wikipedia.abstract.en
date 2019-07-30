@@ -1,0 +1,1 @@
+STOCKTON COMMUNITY BUILDING, also known as the TRENT-SALLEE AMERICAN LEGION POST #230, is a historic community centre located at Stockton, Cedar County, Missouri. It was built in 1933-1934 through a grant from the Civil Works Administration. It is a two-story, rectangular building constructed of native limestone in a plain ashlar design.[1]

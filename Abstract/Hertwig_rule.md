@@ -1,0 +1,1 @@
+Hertwig's rule or 'long axis rule' states that a cell divides along its long axis. It was introduced by german zoologist Oscar Hertwig in 1884. The rule emphasizes the cell shape to be a default mechanism of spindle apparatus orientation. Hertwig's rule predicts cell division orientation, that is important for tissue architecture, cell fate and morphogenesis.

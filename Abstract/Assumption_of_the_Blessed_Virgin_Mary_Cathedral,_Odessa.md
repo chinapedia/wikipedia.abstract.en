@@ -1,0 +1,1 @@
+The ASSUMPTION OF THE BLESSED VIRGIN MARY CATHEDRAL [1] ( ) also called CATHEDRAL OF THE BLESSED VIRGIN MARY is the name given to a religious building belonging to the Catholic Church and is located in the city of Odessa in the west part of European country of Ukraine.[2]

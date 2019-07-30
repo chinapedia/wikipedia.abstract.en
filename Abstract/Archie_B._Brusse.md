@@ -1,0 +1,1 @@
+ARCHIE B. BRUSSE (1888–1959) was an American Orthodontist who is known to be one of the founders of the Rocky Mountain Society of Orthodontists in 1921. He was also one of the founders of the Denver Summer Meeting for the Advanced Study of Orthodontics. Dr. Brusse also founded the Rocky Mountain Orthodontics Company.[1]

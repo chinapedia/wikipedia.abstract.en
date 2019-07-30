@@ -1,0 +1,1 @@
+JULE STYNE (;[1] born JULIUS KERWIN STEIN, December 31, 1905 – September 20, 1994) was a British-American song writer and composer known for a series of Broadway musicals, which include several famous and frequently revived shows which also became successful films, including _Gypsy_, _Gentlemen Prefer Blondes_, and _Funny Girl_.

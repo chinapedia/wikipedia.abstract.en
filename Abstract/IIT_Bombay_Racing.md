@@ -1,0 +1,1 @@
+IIT BOMBAY RACING[1] is a Formula Student team from India based at Indian Institute of Technology Bombay since 2007. The team consists of 70 members who aim to conceive, design and fabricate a formula style racecar through innovation to compete in international Formula Student events.

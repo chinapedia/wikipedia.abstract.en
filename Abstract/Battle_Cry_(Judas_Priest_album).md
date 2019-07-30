@@ -1,0 +1,1 @@
+_BATTLE CRY_ is the sixth live album released by Judas Priest on 25 March 2016. [1] It was recorded at the Wacken Open Air festival on 1 August 2015 during their Redeemer of Souls Tour. The album was released as both a stand-alone title and a bundled package containing the DVD version.[2]

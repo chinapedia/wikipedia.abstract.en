@@ -1,0 +1,1 @@
+TEVIN FARMER (born July 30, 1990) is an American professional boxer who has held the IBF super featherweight title since 2018. Farmer, who is right handed but fights in a southpaw stance, is known for his old school style and slick, defensive skills.

@@ -1,0 +1,1 @@
+FRANCIS BACON, 1ST VISCOUNT ST ALBAN, (;[1] 22 January 15619 April 1626) was an English philosopher and statesman who served as Attorney General and as Lord Chancellor of England. His works are credited with developing the scientific method and remained influential through the scientific revolution.

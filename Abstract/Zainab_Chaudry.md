@@ -1,0 +1,1 @@
+ZAINAB CHAUDRY is an American Muslim civil rights and political activist. She is the Maryland outreach director for the Council on American–Islamic Relations (CAIR), America's largest Muslim civil rights and advocacy organization.[1][2]

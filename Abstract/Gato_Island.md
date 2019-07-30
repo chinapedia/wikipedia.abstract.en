@@ -1,0 +1,1 @@
+GATO ISLAND is a rocky island located in the middle of Visayan Sea in the Asian country of Philippines. It rises from the sea in the general area between Malapascua Island and the more northern Carnaza Island, all of which are part of the municipality of Daanbantayan in the province of Cebu.

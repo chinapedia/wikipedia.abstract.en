@@ -1,0 +1,1 @@
+CHARLES PICKMAN JONES (4 March 1808 in London – 4 June 1883 in Seville), Hispanicized as CARLOS PICKMAN, founded a ceramics factory in the old Monastery of the Cartuja (Charterhouse) in Seville and was titled Marquess of Pickman by Amadeo I of Spain.

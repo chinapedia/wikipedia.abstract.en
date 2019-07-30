@@ -1,0 +1,1 @@
+BANGLADESH FOREST INDUSTRIES DEVELOPMENT CORPORATION or BFIDC,[1] is an autonomous government body that manages the commercial exploitation of forests in Bangladesh, produce timber and wood products and manage plantations and is located in Motijheel Thana, Dhaka, Bangladesh.[2][3][4]

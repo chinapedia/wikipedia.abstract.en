@@ -1,0 +1,1 @@
+PETRA JANŮ (born JANA PETRŮ; 19 November 1952) is a Czech singer and actress.[1] She won the 1987 Zlatý slavík for female singer ahead of Iveta Bartošová and Bára Basiková.[2] She won the same award in 1988 and 1989.[3]

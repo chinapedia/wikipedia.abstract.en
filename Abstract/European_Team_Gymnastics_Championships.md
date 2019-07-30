@@ -1,0 +1,1 @@
+The EUROPEAN TEAM GYMNASTICS CHAMPIONSHIPS, initially held as the EUROPEAN GYMNASTICS MASTERS, was a competition organized by the European Union of Gymnastics combining men's and women's artistic gymnastics and rhythmic gymnastics events.

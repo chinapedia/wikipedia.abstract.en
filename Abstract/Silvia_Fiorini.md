@@ -1,0 +1,1 @@
+'''Silvia Fiorini ''' (born 24 December 1969) is an Italian footballer who played as a midfielder for the Italy women's national football team. She was part of the team at the inaugural 1991 FIFA Women's World Cup, UEFA Women's Euro 1997 and 1999 FIFA Women's World Cup.[1]

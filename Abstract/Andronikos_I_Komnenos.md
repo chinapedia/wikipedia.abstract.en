@@ -1,0 +1,1 @@
+Andronikos Komnenos}} ANDRONIKOS I KOMNENOS (, ;  – 12 September 1185), usually Latinized as ANDRONICUS I COMNENUS, was Byzantine Emperor from 1183 to 1185. He was the son of Isaac Komnenos and the grandson of the emperor Alexios I.

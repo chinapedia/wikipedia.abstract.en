@@ -1,0 +1,1 @@
+MARCEL ACHARD (5 July 1899 – 4 September 1974) was a French playwright and screenwriter whose popular sentimental comedies[1] maintained his position as a highly recognizable name in his country's theatrical and literary circles for five decades.[2] He was elected to the Académie française in 1959.

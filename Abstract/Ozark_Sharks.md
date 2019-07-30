@@ -1,0 +1,1 @@
+OZARK SHARKS is a 2016 American made-for-television horror thriller film that aired on Syfy on July 28, 2016. The TV film is written by Marcy Holland and Greg Mitchell, directed by Misty Talley, and starring Allisyn Ashley Arm, Dave Davis, Michael Papajohn, Ross Britz, Ashton Leigh, Thomas Francis Murphy, and Laura Cayouette.[1]

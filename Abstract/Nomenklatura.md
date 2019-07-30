@@ -1,0 +1,1 @@
+The _NOMENKLATURA_ (; ) were a category of people within the Soviet Union and other Eastern Bloc countries who held various key administrative positions in the bureaucracy, running all spheres of those countries' activity: government, industry, agriculture, education, etc., whose positions were granted only with approval by the communist party of each country or region.

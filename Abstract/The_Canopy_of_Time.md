@@ -1,0 +1,1 @@
+_THE CANOPY OF TIME_ is a science fiction novel by English writer Brian W. Aldiss, first published in 1959 by Faber and Faber. The story is a fix-up of previously published short stories, centering on the forty-million year history of the fictional city of New Union. The book was published in the United States as _GALAXIES LIKE GRAINS OF SAND_.

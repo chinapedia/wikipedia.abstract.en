@@ -1,0 +1,1 @@
+FERB 033 is a synthetic, nonsteroidal estrogen that was synthesized in 2009 and is used in scientific research.[1][2] It is a potent and selective ERβ agonist (K_(i) = 7.1 nM, EC₅₀ = 4.8 nM), with 62-fold selectivity for the ERβ over the ERα.[3][4]

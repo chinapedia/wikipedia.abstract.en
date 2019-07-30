@@ -1,0 +1,1 @@
+REIFENBERG CASTLE () is a former spur castle on the Reifenberg hill () above the village of Reifenberg in the municipality of Weilersbach in the Upper Franconian county of Forchheim in the south German state of Bavaria.

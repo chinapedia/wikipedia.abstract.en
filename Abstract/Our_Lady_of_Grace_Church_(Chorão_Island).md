@@ -1,0 +1,1 @@
+OUR LADY OF GRACE CHURCH (NOSSA SENHORA DA GRAÇA) is a Roman Catholic church built in 1551 in Chorão, Goa. It is bounded on its North and West by the Mapuca River, with Salvador do Mundo remaining exactly opposite to it. To the south is the River Mandovi with Ribandar opposite to it and to its East is the Saint Bartholemeu Church.[1]

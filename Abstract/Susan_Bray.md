@@ -1,0 +1,1 @@
+SUSAN BRAY (born 27 August 1967) is an Irish former cricketer. She played 34 Women's One Day International matches for Ireland women's cricket team.[1][2] She was part of Ireland's squad for the 1988 Women's Cricket World Cup.[3]

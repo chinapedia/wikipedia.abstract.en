@@ -1,0 +1,1 @@
+JAX MALCOLM (born July 13, 2003) is an American actor, singer and competitive swimmer who is best known for his roles in _Kroll Show_, _Comedy Bang! Bang!_, _The Birthday Boys_ and _Crazy Ex-Girlfriend_, and for voicing Oliver in _The Other Side of the Door_.[1]

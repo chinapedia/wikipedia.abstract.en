@@ -1,0 +1,1 @@
+Biser_Kirov.jpg BISER HRISTOV KIROV (4 September 1942 – 6 November 2016) was a Bulgarian pop singer and tenor, who was called in the press the most popular Bulgarian in the USSR.[1] Kirov called Russia his creative homeland.[2]

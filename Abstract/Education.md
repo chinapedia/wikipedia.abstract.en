@@ -1,0 +1,1 @@
+FBE_CTU_lecture.jpg, in Prague, Czech Republic]] Schoolgirls_in_Bamozai.JPG]] US_Navy_100305-N-7676W-182_Cmdr._Jim_Grove,_from_the_Office_of_Naval_Research_Navy_Reserve_Program_38,_left,_helps_tudents_from_McKinley_Technology_High_School_make_adjustments_to_their_robot.jpg, Washington, D.C.]]

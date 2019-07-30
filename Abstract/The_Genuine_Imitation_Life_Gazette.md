@@ -1,0 +1,1 @@
+_THE GENUINE IMITATION LIFE GAZETTE_ is a 1969 psychedelic pop album by American band the Four Seasons. With musical influences changing in the late 1960s, the Four Seasons teamed up with Jake Holmes to create a concept album that placed their traditional pop stylings into the psychedelic era.[1] Instead of love songs, the group tackled subjects such as war and racial tension.[2]

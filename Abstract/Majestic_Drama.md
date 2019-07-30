@@ -1,0 +1,1 @@
+ABDOULAYE DIOP (born October 15, 1990), known professionally as MAJESTIC DRAMA, is a music producer and songwriter who lets his African origins influence his diverse sound and set himself apart from the crowd. At the age of fourteen, Drama moved from his home in Dakar, Senegal to Albany, New York where he ultimately graduated high school and moved on to producing music.[1]

@@ -1,0 +1,1 @@
+ST. JOHN FISHER COLLEGE is a private liberal arts college in Rochester, New York. It is named after John Fisher (1469–1535), an English Catholic bishop, cardinal, theologian, and martyr, who presided over the Diocese of Rochester, Kent, England, and is venerated by Roman Catholics as a saint.

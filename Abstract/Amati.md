@@ -1,0 +1,1 @@
+AMATI is the last name of a family of Italian violin makers who lived at Cremona from about 1538 to 1740. Their importance is considered equal to those of the Bergonzi, Guarneri, and Stradivari families. Today, violins created by Nicolò Amati are valued at around $600,000.[1]

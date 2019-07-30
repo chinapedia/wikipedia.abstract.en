@@ -1,0 +1,1 @@
+In Major League Baseball, the NATIONAL LEAGUE DIVISION SERIES (NLDS) determines which two teams from the National League will advance to the National League Championship Series. The Division Series consists of two best-of-five series, featuring the three division winners and the winner of the wild-card play-off.

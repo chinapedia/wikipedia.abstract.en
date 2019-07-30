@@ -1,0 +1,1 @@
+The GERMANY MEN'S NATIONAL SITTING VOLLEYBALL TEAM represents (Germany) in international sitting volleyball competitions and friendly matches. Until 1990 team competed as West Germany in sitting volleyball.

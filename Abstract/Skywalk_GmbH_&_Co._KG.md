@@ -1,0 +1,1 @@
+SKYWALK GMBH & CO. KG is a German aircraft manufacturer based in Marquartstein, Bavaria. Founded by Manfred Kistler and Thomas Allertseder in 2001, the company specializes in the design and manufacture of paragliders in the form of ready-to-fly aircraft as well as paragliding harnesses. The company also makes kite surfing wings and promotional tents.[1]

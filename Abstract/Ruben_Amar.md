@@ -1,0 +1,1 @@
+RUBEN AMAR (born in 1974[1]) is a French multi-award movie screenwriter, director and producer. He is best known for the independent feature film _Swim Little Fish Swim_ and his two last short films _Checkpoint_ and _A Girl Like You With a Boy Like Me_.

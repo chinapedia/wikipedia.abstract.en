@@ -1,0 +1,1 @@
+ROBERT MILLS DELANEY, sometimes incorrectly spelled DELANY (1903-1956) was an American composer. He studied with Nadia Boulanger and Arthur Honegger in Paris, and was best known for his 1928 choral symphony, John Brown's Song, based on Stephen Benet's Pulitzer Prize winning poem "John Brown's Body".[1][2]

@@ -1,0 +1,1 @@
+BAIYASHI ( ) is a town of Dong'an County, Hunan province, China, it is the county seat of the county. the present town was reformed by merging the former Baiyashi Town and Dajiangkou Township (大江口乡) on November 11, 2015.[1] The town is divided into 39 villages, its administrative centre is Linjiao Village (林角村).[2]

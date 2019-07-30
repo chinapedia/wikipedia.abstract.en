@@ -1,0 +1,1 @@
+STATE HIGHWAY LOOP 88 (LOOP 88) is a proposed state highway in Lubbock County, Texas, that would form a bypass around the city of Lubbock. The Loop 88 designation has been approved by local governments such as Lubbock, Texas while the Texas Department of Transportation (TxDOT) builds the project, currently known as the LUBBOCK OUTER ROUTE.[1]

@@ -1,0 +1,1 @@
+ATWELL is an unincorporated community in the southeast corner of Miller County, in the U.S. state of Missouri.[1] The community is on a low ridge between Atwell Creek to the east and Little Tavern Creek to the west. Access is by Missouri Route K from Missouri Route 17. Iberia is 5.5 miles to the northwest.[2]

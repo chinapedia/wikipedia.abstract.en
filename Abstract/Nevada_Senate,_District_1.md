@@ -1,0 +1,1 @@
+Nevada_Senate,_District_1.png with District 1 colored blue]] Nevada_Senate_District_1.png The current DISTRICT 1 OF THE NEVADA SENATE encompasses a large part of North Las Vegas and small sections of Sunrise Manor and Las Vegas in Clark County. Assembly dsitrict 1 and 17 are nested in the district. Its inhabitants are represented by senator Pat Spearman.

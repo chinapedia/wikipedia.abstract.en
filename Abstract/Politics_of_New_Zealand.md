@@ -1,0 +1,1 @@
+The POLITICS OF NEW ZEALAND function within a framework of a unitary parliamentary representative democracy. New Zealand is a constitutional monarchy in which a hereditary monarch—since 6 February 1952, Queen Elizabeth II—is the sovereign and head of state.

@@ -1,0 +1,1 @@
+GRIFFIN LOGUE (born 13 April 1998) is a professional Australian rules footballer playing for the Fremantle Football Club in the Australian Football League (AFL). He was drafted by Fremantle with their first selection and eighth overall in the 2016 national draft.[1] He made his debut in the sixteen point win against the at Domain Stadium in round three of the 2017 season.[2]

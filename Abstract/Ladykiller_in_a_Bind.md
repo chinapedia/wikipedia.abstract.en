@@ -1,0 +1,1 @@
+_LADYKILLER IN A BIND_ is a 2016 erotic visual novel by Christine Love. The game's full name is _My Twin Brother Made Me Crossdress as Him and Now I Have to Deal with a Geeky Stalker and a Domme Beauty Who Want Me in a Bind!!_. It is described as "an erotic romantic comedy about social manipulation, crossdressing, and girls tying up other girls".[1]

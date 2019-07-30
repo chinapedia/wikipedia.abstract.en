@@ -1,0 +1,1 @@
+In common years it is always in ISO week 26. This date is the only date each year where both the month and day are different perfect numbers, June 6 being the only date where the month and day are the same perfect number.

@@ -1,0 +1,1 @@
+ALVIN "LITTLE PINK" ANDERSON (born July 13, 1954) is an American Piedmont blues singer-guitarist. Mentored by his father Pink Anderson, he is known for his authentic performing of his father's style of blues and is highly-reputed for his electric guitar skills. Anderson committed himself to a full-time music career in the 1990s, recording albums that cover his father's work.

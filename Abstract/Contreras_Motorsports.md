@@ -1,0 +1,1 @@
+CONTRERAS MOTORSPORTS was a Mexican professional stock car racing team that competed in the NASCAR Camping World Truck Series. The team was owned by Carlos Contreras and his nephew Enrique. The team fielded the No. 71 Chevrolet Silverado full-time for various drivers. During operation, they were the only Mexican team in the three national divisions of NASCAR.

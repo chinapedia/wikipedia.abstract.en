@@ -1,0 +1,1 @@
+GARY L. JERKE (born February 21, 1948) is an American former politician. He has served as a Republican member for the 19th district in the South Dakota House of Representatives from 2005 to 2008.[1][2]

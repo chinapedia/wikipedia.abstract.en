@@ -1,0 +1,1 @@
+FREDERIK WILHELM "WILLY" BOHLANDER (8 August 1891 - 26 August 1939) was a Dutch male water polo player. He was a member of the Netherlands men's national water polo team. He competed with the team at the 1924 Summer Olympics.[1]

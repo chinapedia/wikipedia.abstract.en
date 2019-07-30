@@ -1,0 +1,1 @@
+The 1950-51 season was ABERDEEN'S 39th season in the top flight of Scottish football and their 41st season overall. Aberdeen competed in the Scottish League Division One, Scottish League Cup, and the Scottish Cup.

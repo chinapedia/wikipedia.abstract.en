@@ -1,0 +1,1 @@
+_CACIA CRETIFERA_ is a species of beetle in the family Cerambycidae. It was described by Frederick William Hope in 1831. It is known from Java, Cambodia, India, Myanmar, China, Nepal, Thailand, Laos, and Vietnam.[1] It feeds on _Berberis thunbergii_ and _Albizia julibrissin_.

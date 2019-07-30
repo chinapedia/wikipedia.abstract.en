@@ -1,0 +1,1 @@
+EULER'S CONJECTURE is a disproved conjecture in mathematics related to Fermat's last theorem. It was proposed by Leonhard Euler in 1769. It states that for all integers and greater than 1, if the sum of th powers of positive integers is itself a th power, then is greater than or equal to :

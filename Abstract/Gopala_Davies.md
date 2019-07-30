@@ -1,0 +1,1 @@
+GOPALA DAVIES (born 14 May 1988) is a South African actor and director. He is best known for his intermedial theatre production _Barbe Bleue: A story about madness_, which won a Standard Bank Ovation Award at The National Arts Festival in 2015, and the Best Student Director Award in 2014.[1][2][3][4][5]

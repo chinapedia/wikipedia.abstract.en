@@ -1,0 +1,1 @@
+The EISENHOWER HOUSE, also known as "Mrs. Ray's Boarding House,"[1] is a historic house constructed in 1879 located in Laurel, Maryland in Prince George's, Maryland, United States listed in the Maryland Historical Trust.

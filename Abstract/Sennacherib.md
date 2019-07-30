@@ -1,0 +1,1 @@
+SENNACHERIB was the king of Assyria from 705 BCE to 681 BCE. He is principally remembered for his military campaigns against Babylon and Judah, and for his building programs – most notably at the Assyrian capital of Nineveh. He was assassinated in obscure circumstances in 681 BCE, apparently by his eldest son (his designated successor, Esarhaddon, was the youngest).

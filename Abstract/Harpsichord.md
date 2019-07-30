@@ -1,0 +1,1 @@
+ClavecinRuckers&Taskin.JPG in Antwerp (1646), it was later remodeled and expanded by Pascal Taskin in Paris (1780).]] A HARPSICHORD is a musical instrument played by means of a keyboard. This activates a row of levers that turn a trigger mechanism that plucks one or more strings with a small plectrum.

@@ -1,0 +1,1 @@
+This is a list, which includes a photographic gallery, of some of the remaining historic structures and monuments in Winslow, Arizona, some of which are listed in the National Register of Historic Places. Also included is a photographic gallery of Meteor Crater, which is designated a National Natural Landmark.

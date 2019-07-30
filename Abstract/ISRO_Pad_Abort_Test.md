@@ -1,0 +1,1 @@
+ISRO PAD ABORT TEST was an Indian Space Research Organisation launch escape system test of its crew module as part of Indian Human Spaceflight Programme. The successful test took place on 5 July 2018.[1]

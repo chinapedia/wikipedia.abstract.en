@@ -1,0 +1,1 @@
+OS_schematic.svg In fluid dynamics, RAYLEIGH'S EQUATION or RAYLEIGH STABILITY EQUATION is a linear ordinary differential equation to study the hydrodynamic stability of a parallel, incompressible and inviscid shear flow. The equation is:[1]

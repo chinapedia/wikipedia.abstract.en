@@ -1,0 +1,1 @@
+POPE PIUS III (29 May 1439 – 18 October 1503), born FRANCESCO TODESCHINI PICCOLOMINI, was head of the Catholic Church and ruler of the Papal States from 22 September 1503 to his death. He had one of the shortest pontificates in papal history.[1]

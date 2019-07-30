@@ -1,0 +1,1 @@
+The 2016 LABOUR PARTY leadership election was called to elect the new Leader of the Labour Party after incumbent Diederik Samsom announced a leadership election to select the Lijsttrekker (top candidate) for the Dutch general election of 2017.[1][2][3] Lodewijk Asscher beat Samsom by 54.5% to 45.5%.[4]

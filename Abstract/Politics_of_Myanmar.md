@@ -1,0 +1,1 @@
+Myanmar (also known as Burma) is a unitary parliamentary republic under its constitution of 2008. The Economist Intelligence Unit has rated Myanmar as a "hybrid regime" in 2016. The military of Burma holds a large amount of power in the government, despite the end of the last Burmese military dictatorship.[1]

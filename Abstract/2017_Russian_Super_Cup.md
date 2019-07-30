@@ -1,0 +1,1 @@
+The 2017 Russian Super Cup () was the 15th annual Russian Super Cup match which was contested between the 2016–17 Russian Premier League champion, Spartak Moscow, and the 2016–17 Russian Cup champion, Lokomotiv Moscow.

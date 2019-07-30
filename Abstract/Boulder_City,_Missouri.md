@@ -1,0 +1,1 @@
+BOULDER CITY is an unincorporated community in Newton County, in the U.S. state of Missouri.[1] The community is on Missouri Route O, one mile west of Indian Creek and approximately nine miles southeast of Neosho.[2][3]

@@ -1,0 +1,1 @@
+Founded in 1983, the WEST ADAMS HERITAGE ASSOCIATION (WAHA) is an historic preservation organization in Los Angeles, California that is focused on the preservation of the Historic West Adams section of the city.

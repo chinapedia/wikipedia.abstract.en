@@ -1,0 +1,1 @@
+_SPRING BREAK ZOMBIE MASSACRE_ is a 2016 American horror short film directed by Bobby Carnevale. Sam Suchmann and Mattie Zufelt star as half-brothers who must stop Satan from ruining their spring break.

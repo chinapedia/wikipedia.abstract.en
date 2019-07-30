@@ -1,0 +1,1 @@
+JOHN EDWARD GRAHAM is an Australian politician. He was assistant general secretary of the New South Wales branch of the Australian Labor Party until October 2016, when he was appointed to fill the vacancy on the council resulting from the resignation of Sophie Cotsis to contest the Canterbury state by-election.[1]

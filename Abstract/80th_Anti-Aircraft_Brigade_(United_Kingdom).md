@@ -1,0 +1,1 @@
+The 80TH ANTI-AIRCRAFT BRIGADE (80th AA Bde) was an air defence formation of the British Army during World War II. It landed on D-Day and saw action throughout the campaign in North West Europe, providing early warning of attacks by V-1 flying bombs against Antwerp during the winter of 1944–45.

@@ -1,0 +1,1 @@
+_RECITAL PARIS 71_ is an album by American jazz saxophonist and composer Anthony Braxton recorded in 1971 and released on the Futura label.[1][2][3][4] The album features a solo saxophone performance of "Come Sunday" dedicated to Johnny Hodges and a composition by Braxton performed on four multitracked pianos dedicated to David Turner.

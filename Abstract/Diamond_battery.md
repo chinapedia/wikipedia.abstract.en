@@ -1,0 +1,1 @@
+DIAMOND BATTERY is the name of a prototype battery proposed by the University of Bristol Cabot Institute during their annual lecture[1] held on 25 November 2016 at the Wills Memorial Building. This battery is proposed to run on the radioactivity of waste graphite blocks (previously used as neutron moderator material in nuclear reactors) and would last for thousands of years.

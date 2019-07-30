@@ -1,0 +1,1 @@
+is a Japanese manga series written by Tatsuhiko Yamagami and illustrated by Mikio Igarashi.[1] Published by Kodansha, it was serialized in the _seinen_ manga magazine _Evening_ from 2011 to April 8, 2014,[2] and the chapters were compiled into five volumes.[3] A live action film adaptation directed by Daihachi Yoshida is scheduled for release in Japan in 2018.[4]

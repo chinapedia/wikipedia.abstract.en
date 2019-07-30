@@ -1,0 +1,1 @@
+SZÉCSÉNY () is a district in northern part of Nógrád County. _Szécsény_ is also the name of the town where the district seat is found. The district is located in the Northern Hungary Statistical Region.

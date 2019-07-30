@@ -1,0 +1,1 @@
+Pandit SUNDER PRASAD (died 29 May 1970 [1]) was a guru (teacher) of two _Gharana_ (school) - Jaipur Gharana and Lucknow Gharana of the Indian classical dance form, Kathak. He received his training from his father Pandit Chunnilal and Bindadin Maharaj of Jaipur Gharana and Lucknow Gharana respectively.[2][3]

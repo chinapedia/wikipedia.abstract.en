@@ -1,0 +1,1 @@
+CLAUDE-FRANÇOIS ACHARD (1751-1809) was a French physician and author. He was the founder of the first public library in Marseille. He was the author of several books, including the first French-Provençal dictionary.

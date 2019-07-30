@@ -1,0 +1,1 @@
+_PHARSALIA PULCHRA_ is a species of beetle in the family Cerambycidae. It was described by Charles Joseph Gahan in 1888. It is known from Malaysia, Cambodia, China, Thailand, Indonesia, and Vietnam.[1]

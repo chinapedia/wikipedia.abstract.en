@@ -1,0 +1,1 @@
+WYNDHAM CENTRAL COLLEGE, formerly the Werribee Technical School and _Galvin Park Secondary College_ (GPSC) is the former name of a government high school in the outer Melbourne suburb of Werribee, Victoria, Australia. In 2013, Galvin Park Secondary College was renamed Wyndham Central College.

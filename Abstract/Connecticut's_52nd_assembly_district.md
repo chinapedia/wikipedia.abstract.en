@@ -1,0 +1,1 @@
+The FIFTY-SECOND CONNECTICUT HOUSE OF REPRESENTATIVES DISTRICT elects one member of the Connecticut House of Representatives. Its current representative is Republican Kurt Vail. The district consists the towns of Stafford and Somers, which was fully added to the district in 2011.

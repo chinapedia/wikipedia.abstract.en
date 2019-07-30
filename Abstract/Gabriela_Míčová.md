@@ -1,0 +1,1 @@
+GABRIELA MÍČOVÁ (born 25 February 1975) is a Czech actress. She won the Czech Lion award for Best Actress in 2012 for her role in the film _Odpad město smrt_.[1] At the 2012 Thalia Awards she won the category of Best Actress in a Play.[2]

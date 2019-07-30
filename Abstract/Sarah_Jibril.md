@@ -1,0 +1,1 @@
+SARAH NNADZWA JIBRIL is a Nigerian politician and psychologist. She was born in Kwara State Nigeria on March, 1945. she was the special adviser to President Goodluck Jonathan on ethics and moral values. She is Nigeria's first female presidential candidate both at the primaries and main elections, having contested to be president on four separate occasions.

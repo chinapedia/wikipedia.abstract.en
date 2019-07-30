@@ -1,0 +1,1 @@
+WILLIAM HENRY MILLER JR. (January 1, 1954 – November 13, 2016) was an American rock 'n' roll collector and archivist whose magazine, _Kicks_,[1] and record label, Norton (both co-founded with his wife Miriam Linna), championed vintage rockabilly and garage bands.

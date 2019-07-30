@@ -1,0 +1,1 @@
+MIOARA CORTEZ (born 6 February 1949) is a Romanian operatic soprano. She made her debut in 1973, in Desdemona's Otello at Milan's Piccolo Scala. She has performed in Romania and many opera houses in Europe (Paris, Nice, Marseille, Berlin, Athens, Amsterdam, Milan, Bologna, Cagliari, Napoli) and Japan.[1]

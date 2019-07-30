@@ -1,0 +1,1 @@
+YASUTARO SAKAGAMI (阪上 安太郎, born 9 January 1912 - 27 February 1984) was a Japanese male water polo player. He was a member of the Japan men's national water polo team. He competed with the team at the 1932 Summer Olympics and 1936 Summer Olympics.[1]

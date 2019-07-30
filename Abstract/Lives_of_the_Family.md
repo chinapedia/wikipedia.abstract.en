@@ -1,0 +1,1 @@
+On October 28, 2013, Random House Canada published _Lives of the Family: Stories of Fate and Circumstance_, author Denise Chong's fourth book.[1] That same year, Chong became an Officer of the Order of Canada.[2]

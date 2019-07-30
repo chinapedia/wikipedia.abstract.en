@@ -1,0 +1,1 @@
+ISAC BRÄNNSTRÖM (born 21 April 1998) is a Swedish professional ice hockey forward. He is currently playing with Luleå HF of the Swedish Hockey League (SHL). His younger brother, Erik Brännström, is a prospect of the Ottawa Senators of the National Hockey League (NHL).

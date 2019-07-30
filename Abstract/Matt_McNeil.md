@@ -1,0 +1,1 @@
+MATTHEW ALEXANDER MCNEIL (28 July 1927 – 23 April 1977) was a Scottish professional football centre half who played in the Football League for Barnsley, Brighton & Hove Albion, Norwich City and Newcastle United.[1][2][3] He also made one appearance in the Scottish League for Hibernian.[4]

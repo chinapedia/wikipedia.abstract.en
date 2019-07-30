@@ -1,0 +1,1 @@
+BUNDABERG RUM is a dark rum produced in Bundaberg, Australia, by the BUNDABERG DISTILLING COMPANY. It is often referred to as "Bundy". In 2010, the Bundaberg Distilling Company was inducted into the Queensland Business Leaders Hall of Fame.[1]

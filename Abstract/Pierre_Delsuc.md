@@ -1,0 +1,1 @@
+PIERRE DELSUC (September 13, 1902 – 1986) served as the General Commissioner of zone Nord from 1941 to 1944, International Commissioner of the Scouts et Guides de France from 1944 to 1946, as well as a member of the International Scout Committee from 1951.[1]

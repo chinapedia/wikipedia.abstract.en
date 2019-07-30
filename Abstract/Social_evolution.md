@@ -1,0 +1,1 @@
+SOCIAL EVOLUTION is a subdiscipline of evolutionary biology that is concerned with social behaviors that have fitness consequences for individuals other than the actor. It is also a subdiscipline of sociology that studies evolution of social systems.[1]

@@ -1,0 +1,1 @@
+_PROGRESS: TEN REASONS TO LOOK FORWARD TO THE FUTURE_ is a 2016 book by Swedish writer Johan Norberg (a Senior Fellow of the libertarian Cato Institute), which promotes globalization, free trade and the notion of progress. In it, Norberg develops his ideas published previously in _In Defense of Global Capitalism_ (2001).[1]

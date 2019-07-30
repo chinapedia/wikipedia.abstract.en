@@ -1,0 +1,1 @@
+The_crewmen_from_the_Evanston_station_in_1894._U.S._Coast_Guard_photo..jpg LAWRENCE O. LAWSON was appointed the stationkeeper of the Evanston, Illinois, lifeboat station, of the United States Lifesaving Service in 1880.[1] In 1899, Lawson led the crew of his surfboat on a heroic rescue of all 18 crewmen of the freighter _Calumet_.[2]

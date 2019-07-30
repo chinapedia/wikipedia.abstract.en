@@ -1,0 +1,1 @@
+YASONNA HAMONANGAN LAOLY (born 27 May 1953) is the current Minister of Law and Human Rights of Indonesia.[1][2] He was a member of the North Sumatra regional legislature from 1999 to 2003, and of the People's Consultative Assembly from 2004 to 2014.[3] He is the first ethnic Nias to hold a cabinet position.[4]

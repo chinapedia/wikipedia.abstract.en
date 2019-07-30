@@ -1,0 +1,1 @@
+The TRICHET-DRAGHI LETTER (also known as LETTER OF ECB TO ITALY) is a confidential correspondence by which, on 5 August 2011, the former and current ECB presidents Jean-Claude Trichet and Mario Draghi addressed to Italian government several requests in order to influence European support to drastic measures of economic rebalancing.

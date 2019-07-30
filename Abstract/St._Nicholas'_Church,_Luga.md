@@ -1,0 +1,1 @@
+ST. NICHOLAS' CHURCH[1] () is a parish of the Roman Catholic Church located in Luga near St. Petersburg in the Leningrad Oblast in northern Russia.[2][3] It is a constituent of the Northwest Deanery of the Latin rite Archdiocese of Moscow, having been restored to its owners in 1996. The parish church, built in the Gothic Revival style, is a protected monument.

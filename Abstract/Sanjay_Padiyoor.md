@@ -1,0 +1,1 @@
+SANJAY PADIYOOR is an Indian film director, production controller and an Actor in the Malayalam film industry. He started his career in 1991 with Jubilee Production as an office worker and before becoming a production controller. He did more than 100 films in the Malayalam and Tamil film industry as production controller.

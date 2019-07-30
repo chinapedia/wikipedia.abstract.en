@@ -1,0 +1,1 @@
+CANNABIS IN BAHRAIN is illegal.

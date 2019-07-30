@@ -1,0 +1,1 @@
+Green_schoolyard.jpg A SCHOOLYARD or SCHOOL CAMPUS is the region within the boundaries of a school used for teaching, extracurricular activities and other aspects of daily life at school. Schoolyards often have an entrance guarded by a security guard.

@@ -1,0 +1,1 @@
+The PAN AMERICAN WOMEN'S CLUB HANDBALL CHAMPIONSHIP, organized by the Pan-American Team Handball Federation, is the official competition for women's handball clubs of Americas crowning the Pan American champions.

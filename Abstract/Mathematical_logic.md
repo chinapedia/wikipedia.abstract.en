@@ -1,0 +1,1 @@
+MATHEMATICAL LOGIC is a subfield of mathematics exploring the applications of formal logic to mathematics. It bears close connections to metamathematics, the foundations of mathematics, and theoretical computer science.[1] The unifying themes in mathematical logic include the study of the expressive power of formal systems and the deductive power of formal proof systems.

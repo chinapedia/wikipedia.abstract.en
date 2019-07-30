@@ -1,0 +1,1 @@
+Suanfatongzong-036-036.jpg CHENG DAWEI (1533–1606), also known as DA WEI CHENG or CH'ENG TA-WEI, is a Chinese mathematician known mainly as the author of _Suanfa Tongzong_ (_General Source of Computational Methods_). He has been described as "the most illustrious Chinese arithmetician."[1]

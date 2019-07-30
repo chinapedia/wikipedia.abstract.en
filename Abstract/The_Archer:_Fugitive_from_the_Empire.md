@@ -1,0 +1,1 @@
+_THE ARCHER: FUGITIVE FROM THE EMPIRE_, also known as _FUGITIVE FROM THE EMPIRE_ and _THE ARCHER AND THE SORCERESS_, is a 1981 American sword and sorcery action film written, directed and produced by Nicholas J. Corea.[1][2][3][4][5]

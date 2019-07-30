@@ -1,0 +1,1 @@
+NERVE AGENTS, sometimes also called NERVE GASES, are a class of organic chemicals that disrupt the mechanisms by which nerves transfer messages to organs. The disruption is caused by the blocking of acetylcholinesterase, an enzyme that catalyzes the breakdown of acetylcholine, a neurotransmitter.

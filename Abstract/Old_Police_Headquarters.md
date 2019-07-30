@@ -1,0 +1,1 @@
+San_Diego,_2016_-_298.jpg OLD POLICE HEADQUARTERS is an historic building in San Diego, in the U.S. state of California. It was built in 1939 and served as the San Diego Police Department's headquarters until 1987. The renovated buildings are now known as "THE HEADQUARTERS" at Seaport Village.[1]

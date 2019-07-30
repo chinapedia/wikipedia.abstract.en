@@ -1,0 +1,1 @@
+KICKBOXING is a group of stand-up combat sports based on kicking and punching, historically developed from karate mixed with boxing.[1][2] Kickboxing is practiced for self-defence, general fitness, or as a contact sport.[3][4][5][6]

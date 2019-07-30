@@ -1,0 +1,1 @@
+The LIST OF SHIP DECOMMISSIONINGS IN 1918 includes a chronological list of ships decommissioned in 1918. In cases where no official decommissioning ceremony was held, the date of withdrawal from service may be used instead. __NOTOC__

@@ -1,0 +1,1 @@
+QP:FLAPPER is a two-member illustrator unit consisting of Japanese artists Tometa Ohara and Koharu Sakura. Since 2001, they have provided character designs for anime and light novels.[1] In 2005, they debuted as character designers in Leaf's game _Kusari_.

@@ -1,0 +1,1 @@
+Dakar-BCEAO1.jpg, Dakar.]] Air_Senegal_International_B737_6V-AHU.jpg.]] Sucrerie_richard_toll2.jpg.]] Saly_Senegal1.JPG.]] Senegal_Touba_Pneu_Thies_800x600.jpg, are financed through the Mouride Islamic brotherhood.]] SénégalParis.jpg Senegal_retour_de_peche_a_Soumbedioun_800x600.jpg PhosphateSenegal.jpg surface mine in western Senegal, near Taïba.]]

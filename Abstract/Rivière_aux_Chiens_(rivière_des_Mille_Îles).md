@@ -1,0 +1,1 @@
+Rivière aux Chiens}} The RIVIÈRE AUX CHIENS is a tributary of rivière des Mille Îles, flowing on the north shore of the St Lawrence River, in the administrative region of Laurentides, in the southwest of the province of Quebec, in Canada. This river crosses the Regional County Municipality (RCM) of:

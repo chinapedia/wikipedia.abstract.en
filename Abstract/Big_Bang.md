@@ -1,0 +1,1 @@
+upright=1.5, where space, including hypothetical non-observable portions of the universe, is represented at each time by the circular sections. On the left, the dramatic expansion occurs in the inflationary epoch; and at the center, the expansion accelerates (artist's concept; not to scale).]]

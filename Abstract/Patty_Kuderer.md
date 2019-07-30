@@ -1,0 +1,1 @@
+PATRICIA KUDERER is an American politician of the Democratic Party. She is a member of the Washington State Senate, representing the 48th district. She was appointed to the State Senate after Cyrus Habib was elected Lieutenant Governor.

@@ -1,0 +1,1 @@
+MAI SURROW (born 18 September 1992) is a Danish badminton player.[1] In 2016, she won the mixed doubles titles at the Portugal International tournament partnered with Mikkel Mikkelsen.[2] In May 2016, she and Mikkelsen lifted their second title as a pair in only their fourth tournament together at the Slovenia International tournament.[3]

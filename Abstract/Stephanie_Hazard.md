@@ -1,0 +1,1 @@
+STEPHANIE HAZARD (born 29 November 1989, Subiaco) is a New Zealand competitive sailor.[1] She competed at the 2012 Summer Olympics in London, in the women's Elliott 6m, with Jenna Hansen and Susannah Pyatt.[2]

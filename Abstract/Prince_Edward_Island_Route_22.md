@@ -1,0 +1,1 @@
+ROUTE 22 is a , two-lane, uncontrolled-access, secondary highway in eastern Prince Edward Island. Its southern terminus is at Route 210 and Route 320 in Montague and its northern terminus is at Route 2 in Mount Stewart. The route is in Kings and Queens counties.

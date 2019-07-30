@@ -1,0 +1,1 @@
+The FLIPPER is the name of a particular bowling delivery used in cricket, generally by a leg spin bowler. In essence it is a back spin ball. Squeezed out of the front of the hand with the thumb and first and second fingers, it keeps deceptively low after pitching and can accordingly be very difficult to play. The flipper is comparable to a riseball in fast-pitch softball.

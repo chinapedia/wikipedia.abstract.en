@@ -1,0 +1,1 @@
+GEORGE WEBSTER LATIMER – (November 28, 1900 – May 3, 1990) was a Utah lawyer most known for representing Lt. William Calley Jr. in his court martial from the My Lai incident.[1] He was also a Justice of the Utah Supreme Court from 1946-1951 and one of the three original members of the U.S. Court of Military Appeals from 1951 to 1961.[2]

@@ -1,0 +1,1 @@
+ARINAITWE RURIHONA, professionally known as HAKA MUKIGA is a Ugandan world and folk singer-songwriter, multi-instrumentalist, poet and dancer. He sings in a number of local languages including Rukiga, Acholi, Rukonjo and Rufumbira.

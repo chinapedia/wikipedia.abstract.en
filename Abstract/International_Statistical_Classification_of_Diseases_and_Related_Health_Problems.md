@@ -1,0 +1,1 @@
+The INTERNATIONAL CLASSIFICATION OF DISEASES (ICD) is the international "standard diagnostic tool for epidemiology, health management and clinical purposes." Its full official name is INTERNATIONAL STATISTICAL CLASSIFICATION OF DISEASES AND RELATED HEALTH PROBLEMS.[1]

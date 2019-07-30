@@ -1,0 +1,1 @@
+_TRIBES AND EMPIRES: STORM OF PROPHECY_ () is a 2017 Chinese television series adapted from the novel of the same name written by Jin Hezai and directed by Cao Dun. It stars Huang Xuan, Shawn Dou, Zhou Yiwei, Xu Lu, Janice Man and Zhang Jianing. The series airs on iQiyi, Tencent and Youku starting November 21, 2017.[1][2]

@@ -1,0 +1,1 @@
+INTACT DILATION AND EXTRACTION (IDX, INTACT D&E) is a surgical procedure that removes an intact fetus from the uterus. The procedure is used both after late-term miscarriages and in late-term abortions.

@@ -1,0 +1,1 @@
+QED is a line-oriented computer text editor that was developed by Butler Lampson and L. Peter Deutsch for the Berkeley Timesharing System running on the SDS 940. It was implemented by L. Peter Deutsch and Dana Angluin between 1965 and 1966.[1][2]

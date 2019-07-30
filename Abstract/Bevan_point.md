@@ -1,0 +1,1 @@
+Bevan_punkt.svg Bevan2_punkt.svg The BEVAN POINT, named after Benjamin Bevan, is a triangle center. It is defined as center of the BEVAN CIRCLE, that is the circle through the centers of the three excircles of a triangle.

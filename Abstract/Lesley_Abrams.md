@@ -1,0 +1,1 @@
+LESLEY JANE ABRAMS, (born 1952) is an academic historian specialising in the Anglo-Saxon period, Scandinavia in the Viking Age, and Christian conversion in Europe. In 2015, she was appointed a Professor of Early Medieval History at the University of Oxford.

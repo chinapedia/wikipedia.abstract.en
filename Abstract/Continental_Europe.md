@@ -1,0 +1,1 @@
+Mainland_Europe_(orthographic_projection).svg Europe_As_A_Queen_Sebastian_Munster_1570.jpg'' map (Sebastian Munster, 1570), excluding Fennoscandia, Great Britain and Ireland, but including _Bulgaria, Scythia, Moscovia_ and _Tartaria_; Sicily is clasped by Europe in the form of a _Globus cruciger_.]]

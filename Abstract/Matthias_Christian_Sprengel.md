@@ -1,0 +1,1 @@
+MATTHIAS CHRISTIAN SPRENGEL (24 August 1746, in Rostock – 7 January 1803, in Halle an der Saale) was a German geographer and historian. He was notably the author of works on North American history, the American Revolution and Maratha history.

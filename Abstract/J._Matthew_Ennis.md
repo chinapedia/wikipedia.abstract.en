@@ -1,0 +1,1 @@
+JOHN MATTHEW ENNIS (5 August 1864 – 31 May 1921), invariably referred to as MATTHEW ENNIS or J. MATTHEW ENNIS, was an English pianist and organist who had a substantial academic career in Adelaide, South Australia.

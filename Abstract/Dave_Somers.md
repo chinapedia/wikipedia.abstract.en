@@ -1,0 +1,1 @@
+DAVE SOMERS (born 1953) is an American politician and current Snohomish County Executive, an office he has held since 2016. Somers previously served on the Snohomish County Council, representing district 5 in the eastern portion of the county.

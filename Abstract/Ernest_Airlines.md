@@ -1,0 +1,1 @@
+ERNEST AIRLINES (registered as ERNEST S.P.A[1][2]) is an Italian low-cost airline[3], headquartered in Milan. The airline operates a fleet of Airbus A320 family aircraft to over 15 destinations. The airline operates with its main hub at Milan - Malpensa Airport.

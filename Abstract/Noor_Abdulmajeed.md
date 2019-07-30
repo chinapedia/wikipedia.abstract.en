@@ -1,0 +1,1 @@
+NOOR ABDULMAJEED (Arabic: نور عبد المجيد) is a Saudi-Egyptian novelist, journalist and poet. Most of her works deal with Arab traditions, Arab societies, and Arab women. She was in charge of redaction at the Saoudian magazine _Mada_ for two years.[1]

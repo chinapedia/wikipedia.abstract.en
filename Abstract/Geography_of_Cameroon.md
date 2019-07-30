@@ -1,0 +1,1 @@
+Cameroon_Map.jpg LocationCameroon.svg Koppen-Geiger_Map_CMR_present.svg

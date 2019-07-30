@@ -1,0 +1,1 @@
+This is a list of current Chief Justices of the Supreme Court and High Courts of India, the highest court in every state of the Republic of India. There are currently 25 High Courts in the country with six of them having multiple jurisdictions. The newly 25th High court is Amrawati that is in Aandhra pradesh.

@@ -1,0 +1,1 @@
+John McMahon}} JOHN ALBERT MCMAHON (born 25 October 1965) is an English former footballer who played as a forward in the Football League on a non-contract basis for Darlington. He was an apprentice with Middlesbrough, and also played non-league football for Guisborough Town.[1][2]

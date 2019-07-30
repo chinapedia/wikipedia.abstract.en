@@ -1,0 +1,1 @@
+"SAY IT TO ME" is the fourth single from the Pet Shop Boys album _Super_. It was released on 16 September 2016 on CD single and as two digital bundles. A vinyl 12" of "Say It to Me" was released on September 20. The song did not have a promotional video to accompany it, and was not included in the set list for their 2016 Super Tour.

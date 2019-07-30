@@ -1,0 +1,1 @@
+DODAI STEWART is a writer and editor. In October 2018 she started as a deputy editor on the Metro desk at The New York Times. She was previously editor-in-chief at Splinter News.[1] Before that, she was Fusion's executive editor,[2] and was the deputy editor of Jezebel for seven years.

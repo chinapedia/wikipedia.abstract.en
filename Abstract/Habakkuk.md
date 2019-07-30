@@ -1,0 +1,1 @@
+HABAKKUK, who was active around 612 BC, was a prophet whose oracles and prayer are recorded in the Book of Habakkuk, the eighth of the collected twelve minor prophets in the Hebrew Bible. He is revered by Jews, Christians, and Muslims.

@@ -1,0 +1,1 @@
+The earliest coin minted in today's territory of Nepal was in Shakya Mahajanapada, along the India-Nepal border at around 500 BCE. Shakya coins were an example of a coin invented in the Indian subcontinent which continued to be used in Nepal alongside India for over 1500 years.[1]

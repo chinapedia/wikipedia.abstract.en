@@ -1,0 +1,1 @@
+WOO MOON-GI (born 1983), is a South Korean film director. Woo's directorial feature debut, the indie sports comedy _The King of Jokgu_ (2013), has won various awards, including Best New Director and Special Jury Prize at the 20th Chunsa Film Art Awards, and Best Independent Film Director at the 15th Director's Cut Awards.[1]

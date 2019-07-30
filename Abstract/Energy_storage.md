@@ -1,0 +1,1 @@
+Stwlan.dam.jpg Pumped Storage Scheme in Wales. The lower power station has four water turbines which can generate a total of 360 MW of electricity for several hours, an example of artificial energy storage and conversion.]]

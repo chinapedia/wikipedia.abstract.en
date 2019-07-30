@@ -1,0 +1,1 @@
+The_Parish_Church_of_St_Mark,_Regent's_Park_-_geograph.org.uk_-_379237.jpg ST. MARK'S CHURCH is located in the Borough of Camden, London, near the Regent's Park. It was consecrated in 1853.[1] It belongs to the Diocese of London within the Church of England[2]

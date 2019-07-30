@@ -1,0 +1,1 @@
+Klara}} KLARA (born '''Klára Vytisková '''; 3 May 1985) is a Czech singer. She was named Female Singer of the Year at the 2015 Anděl Awards.[1] She is the daughter of bass guitarist Vladimír Vytiska.[2] Klara was a judge on the fourth season of _Czech and Slovak SuperStar_. She previously performed as part of the girl band, Toxique.

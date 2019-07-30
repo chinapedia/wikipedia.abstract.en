@@ -1,0 +1,1 @@
+JOSEPH WEIZENBAUM (8 January 1923 – 5 March 2008) was a German American computer scientist and a professor at MIT. The Weizenbaum Award is named after him. He is considered one of the fathers of modern artificial intelligence.

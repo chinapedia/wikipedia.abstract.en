@@ -1,0 +1,1 @@
+CONRAD J. AUMANN (September 17, 1933 – December 23, 2006) was an American football, baseball, and softball coach. He served as the head football coach at Concordia University Chicago from 1964 to 1982, compiling a record of 70–87–5. He was also the head baseball coach at Concordia from 1966 to 1979, tallying a mark of 125–127–3.

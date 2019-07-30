@@ -1,0 +1,1 @@
+GREGORY MURADIAN (April 4, 1939 — October 2, 1989), known by his stage name GREGORY MARSHALL, was an American child and, subsequently, adolescent film and television actor whose career lasted from 1944 to 1958. He never rose above supporting roles, with a number of his film appearances reduced to uncredited bits.[1]

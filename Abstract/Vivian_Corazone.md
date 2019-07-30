@@ -1,0 +1,1 @@
+'''Vivian Corazone Aquino ''' is a Kenyan footballer who plays for Soccer Queens in the Kenyan Women's Premier League and the Kenya national team as a midfielder, she is known for her ability to use both feet and trickery on the ball.[1]

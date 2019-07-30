@@ -1,0 +1,1 @@
+DISJUNCTION INTRODUCTION or ADDITION (also called OR INTRODUCTION)[1][2][3] is a rule of inference of propositional logic and almost every other deduction system. The rule makes it possible to introduce disjunctions to logical proofs. It is the inference that if _P_ is true, then _P or Q_ must be true.

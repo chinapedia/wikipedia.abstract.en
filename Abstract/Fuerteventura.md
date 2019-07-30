@@ -1,0 +1,1 @@
+FUERTEVENTURA () is one of the Canary Islands, in the Atlantic Ocean and is part of the North Africa region, politically part of Spain. At , it is the second largest of the Canary Islands, after Tenerife. Fuerteventura in 2018 had 113,275 inhabitants.[1] It was declared a biosphere reserve by UNESCO in May 2009. Its capital is Puerto del Rosario.

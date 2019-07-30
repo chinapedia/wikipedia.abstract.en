@@ -1,0 +1,1 @@
+The WINOOSKI STREET BRIDGE is a historic bridge carrying Winooski Street across the Winooski River between Duxbury and Waterbury, Vermont. Built in 1928, it is a Parker through truss, one of only two of this type on the Winooski River and an increasingly rare bridge type in the state. It was listed on the National Register of Historic Places in 2006 as BRIDGE 31.[1]

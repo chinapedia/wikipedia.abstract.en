@@ -1,0 +1,1 @@
+PARSLEY or GARDEN PARSLEY (_Petroselinum crispum_) is a species of flowering plant in the family Apiaceae that is native to the central Mediterranean region (Cyprus, southern Italy, Greece, Portugal, Spain, Malta, Morocco, Algeria, and Tunisia), but has naturalized elsewhere in Europe, and is widely cultivated as a herb, a spice, and a vegetable.

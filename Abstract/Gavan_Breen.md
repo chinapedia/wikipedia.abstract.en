@@ -1,0 +1,1 @@
+GAVAN BREEN (born 22 January 1935), OAM, also known as J.G. BREEN, is an Australian linguist, specialising in the description of Australian Aboriginal languages. He has studied and recorded 49 such languages.

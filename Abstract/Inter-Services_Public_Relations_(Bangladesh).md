@@ -1,0 +1,1 @@
+THE INTER-SERVICES PUBLIC RELATIONS (Reporting name:ISPR) is a media and news agency of the Bangladesh Armed Forces. It disseminates military news and information to the country's media and general public.[1][2]

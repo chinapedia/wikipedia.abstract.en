@@ -1,0 +1,1 @@
+Gram_Stain_Anthrax.jpg'' bacteria in a cerebrospinal fluid sample stand out from round white blood cells, which also accept the crystal violet stain.]] Gram_stain_01.jpg and pink-stained gram-negative bacilli]]

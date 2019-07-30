@@ -1,0 +1,1 @@
+GEORGE ABBOT or ABBOTT (1604 — 2 February 1649) was an English lay writer, known as "The Puritan", and a politician who sat in the House of Commons in two periods between 1640 and 1649.[1] He is known also for his part in defending Caldecote House against royalist forces in the early days of the English Civil War.[2]

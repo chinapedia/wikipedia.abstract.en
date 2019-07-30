@@ -1,0 +1,1 @@
+The HAMBLETONIAN OAKS is a premier harness racing event for three-year-old Standardbred female trotters first run in 1971.[1] The race is operated by The Hambletonian Society, Inc. which also operates the Hambletonian Stakes for three-year-old for male horses and the Breeders Crown series.[2]

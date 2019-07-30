@@ -1,0 +1,1 @@
+JOURNALISTIC TRANSLATION is the type of translation used notably in newspapers. It is it is a fairly new area of research in translation studies.[1] The first research about it was conducted in the mid-2000s, but translations started appearing in newspapers as early as the 17th century.[2]

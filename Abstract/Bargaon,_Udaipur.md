@@ -1,0 +1,1 @@
+BARGAON is a census town in the Girwa tehsil of Udaipur district, Rajasthan, India. It is situated on the Udaipur-Gogunda highway, around from the city centre, from Bhuwana and around from the state capital at Jaipur. It has Dungla Tehsil towards East, Bhopalsagar Tehsil towards North, Mavli Tehsil towards North and Bhadesar Tehsil towards East.

@@ -1,0 +1,1 @@
+The JACKSONVILLE JAGUARS are a professional football franchise based in Jacksonville, Florida. The Jaguars compete in the National Football League (NFL) as a member club of the American Football Conference (AFC) South division. The team plays its home games at TIAA Bank Field.

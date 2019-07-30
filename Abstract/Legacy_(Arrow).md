@@ -1,0 +1,1 @@
+"LEGACY" is the 93rd episode overall and fifth-season premiere of The CW series _Arrow_. The episode was written by showrunners Marc Guggenheim and Wendy Mericle from a story by Greg Berlanti and directed by James Bamford. It was first broadcast on October 5, 2016 on The CW.

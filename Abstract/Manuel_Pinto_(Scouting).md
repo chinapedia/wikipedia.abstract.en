@@ -1,0 +1,1 @@
+MANUEL PINTO (25 December 1938 – 14 April 2008) was a member of the Parliament of Uganda where he served on various statutory committees and committees, he was a government minister from 1993 to 1995 and the first director general of the commission on AIDS in Uganda from 1992 to 1995. Pinto was Chief Scout of Uganda and served as the Chairman of the Africa Scout Committee.

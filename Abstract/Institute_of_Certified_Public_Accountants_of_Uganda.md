@@ -1,0 +1,1 @@
+The INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF UGANDA (ICPA Uganda) is a professional body for certified public accountants (CPAs) in Uganda. As of July 2016, total membership was about 2,000 members.[1][2]

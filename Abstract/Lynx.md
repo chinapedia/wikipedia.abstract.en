@@ -1,0 +1,1 @@
+A LYNX (;[1] plural LYNX or LYNXES[2]) is any of the four species (Canada lynx, Iberian lynx, Eurasian lynx, bobcat) within the medium-sized wild cat genus _Lynx_. The name _lynx_ originated in Middle English via Latin from the Greek word λύγξ,[3] derived from the Indo-European root _leuk-_ ('light, brightness')[4] in reference to the luminescence of its reflective eyes.[5]

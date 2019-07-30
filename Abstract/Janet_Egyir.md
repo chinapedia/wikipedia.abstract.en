@@ -1,0 +1,1 @@
+'''Janet Egyir ''' (born 7 May 1992 in Sekondi-Takoradi) is a Ghanaian international footballer who plays as a defender for Afturelding/Fram in Iceland.She was part of the team at the 2014 African Women's Championship.[1] In 2018, She was adjourned the best player of the tournament at the 2018 WAFU Women's Cup .

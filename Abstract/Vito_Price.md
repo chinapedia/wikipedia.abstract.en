@@ -1,0 +1,1 @@
+VITO PRICE (born Vito Pizzo: 1929) is an American jazz saxophonist.[1] He is best known for his album _Swingin' the Loop_ recorded in January 1959,[2] although on-line discographer Tom Lord says in The Jazz Discography that it was recorded in Chicago on 20 January 1958. His second leadership album was _'S Wonderful_ released in 2003.

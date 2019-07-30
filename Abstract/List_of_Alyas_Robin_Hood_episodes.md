@@ -1,0 +1,1 @@
+_ALYAS ROBIN HOOD_ is a Philippine drama-action series broadcast by GMA Network starring Dingdong Dantes together with an ensemble cast. It premiered on September 19, 2016 on GMA Telebabad prime time block and also aired worldwide on GMA Pinoy TV. The first season ended its 23-week run on February 24, 2017, with a total of 115 episodes, and replaced by _Destined to be Yours_.

@@ -1,0 +1,1 @@
+SNAFU CON is an annual three day anime convention held during October/November at the Grand Sierra Resort in Reno, Nevada. SNAFU is an abbreviation for Sierra Nevada Anime Fans Unite.[1][2] The event was created by the Anime and Manga Society of UNR, under the name Shadows.[3]

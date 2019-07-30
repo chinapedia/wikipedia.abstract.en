@@ -1,0 +1,1 @@
+PIALA TUN SHARIFAH RODZIAH () is a women's football tournament in Malaysia. It was established in 1976 as a women's football competition competed by the teams around Malaysia.[1] The competition is managed by the Football Association of Malaysia (FAM).

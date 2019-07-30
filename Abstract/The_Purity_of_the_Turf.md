@@ -1,0 +1,1 @@
+"THE PURITY OF THE TURF" is the third episode of the first series of the 1990s British comedy television series _Jeeves and Wooster_. It is also called "The Village Sports Day at Twing" or "The Gambling Event".[1] It first aired in the UK on on ITV. The episode aired in the US on 25 November 1990 on _Masterpiece Theatre_.[2]

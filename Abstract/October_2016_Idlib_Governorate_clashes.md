@@ -1,0 +1,1 @@
+The OCTOBER 2016 IDLIB GOVERNORATE CLASHES are violent confrontations between the Salafist jihadist group Jund al-Aqsa and the Salafist Syrian rebel group the Ahrar al-Sham, supported by several other rebel groups. The two groups were previously allied during the 2016 Hama offensive, but sporadic clashes also occurred time by time.[1]

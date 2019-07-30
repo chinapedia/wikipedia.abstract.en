@@ -1,0 +1,1 @@
+BAHAWALNAGAR–FORT ABBAS BRANCH LINE () was one of several branch lines in Pakistan, operated and maintained by Pakistan Railways. The line began at Bahawalnagar Junction and ended at Fort Abbas. The total length of this railway line is with 4 railway stations.

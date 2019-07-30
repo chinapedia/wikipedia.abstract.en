@@ -1,0 +1,1 @@
+RED BANK SECURE UNIT, part of RED BANK COMMUNITY HOME, was one of several English Local Authority Secure Children’s Homes (a juvenile detention facility) located in Newton-le-Willows, Merseyside. It opened in 1965, when it was one of three such units, and accepted both boys and girls.[1] The unit closed in May 2015.[2]

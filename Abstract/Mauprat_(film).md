@@ -1,0 +1,1 @@
+_MAUPRAT_ is a 1926 French silent drama film directed by based on the eponymous novel by George Sand. Luis Buñuel who had enrolled in Jean Epstein's acting school was the production assistant and had a small acting role.[1]

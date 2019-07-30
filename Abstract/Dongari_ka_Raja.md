@@ -1,0 +1,1 @@
+_DONGRI KA RAJA_ () is a 2016 Indian Hindi-language film based on love story of an underworld Raja of Dongri. The Story is set against the backdrop of the Dongri underworld and weaves a gripping tale with a twist. The film is directed by Hadi Ali Abrar and Produced by PS Chhatwal and Filmy Keeda Productions. The film was released on 11 November 2016.[1][2]

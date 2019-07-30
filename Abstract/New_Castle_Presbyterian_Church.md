@@ -1,0 +1,1 @@
+New_Castle_Presbyterian_Church,_New_Castle,_Delaware.jpg NEW CASTLE PRESBYTERIAN CHURCH is a Presbyterian Church (USA) congregation located in New Castle, Delaware which conducts worship services weekly within a historic meeting house, which was erected in 1707.

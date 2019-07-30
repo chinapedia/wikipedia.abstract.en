@@ -1,0 +1,1 @@
+_COPTOPS LEUCOSTICTICA_ is a species of beetle in the family Cerambycidae. It was described by White in 1858. It is known from India, Cambodia, Thailand, Laos, China, Myanmar, Malaysia, and Vietnam. It feeds on _Albizia julibrissin_.[1]

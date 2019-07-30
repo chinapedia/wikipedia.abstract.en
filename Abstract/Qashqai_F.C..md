@@ -1,0 +1,1 @@
+QASHQAI FOOTBALL CLUB (Persian: باشگاه فرهنگی ورزشی قشقایی) or QASHQAI CULTURAL SPORT CLUB is a football club based in Shiraz, Iran. The club represents the Qashqai people of Iran, who were historically an ancient nomadic tribe.

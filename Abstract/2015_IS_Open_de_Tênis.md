@@ -1,0 +1,1 @@
+The 2015 IS OPEN DE TÊNIS was a professional tennis tournament played on clay courts. It was resumed after not being held in 2014, being the third edition of the tournament which was part of the 2015 ATP Challenger Tour. It took place in São Paulo, Brazil, on 22–28 October 2015.

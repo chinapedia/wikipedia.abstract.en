@@ -1,0 +1,1 @@
+JOHANN FRIEDRICH ENDERSCH (25 October 1705 – 28 March 1769) was a German cartographer and mathematician. Endersch also held the title of Royal Mathematician to King Augustus III of Poland. Warmia1.jpg

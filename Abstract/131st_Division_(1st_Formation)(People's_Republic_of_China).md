@@ -1,0 +1,1 @@
+The 131ST DIVISION () was created in November 1948 under _the Regulation of the Redesignations of All Organizations and Units of the Army_, issued by Central Military Commission on November 1, 1948,[1] basing on the 20th Division, 7th Column of the PLA Northeastern Field Army. Its history can be traced to 2nd Security Brigade of Liaoji Military District formed in December 1946.

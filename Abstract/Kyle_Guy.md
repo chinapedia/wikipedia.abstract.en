@@ -1,0 +1,1 @@
+KYLE JOSEPH GUY (born August 11, 1997) is an American professional basketball player for the Sacramento Kings of the National Basketball Association (NBA), on a two-way contract with the Stockton Kings of the NBA G League. He played college basketball for the Virginia Cavaliers.

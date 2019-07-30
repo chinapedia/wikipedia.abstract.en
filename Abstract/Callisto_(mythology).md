@@ -1,0 +1,1 @@
+François_Boucher_-_La_Nymphe_Callisto,_séduite_par_Jupiter_sous_les_traits_de_Diane_(1759).jpg and Callisto'' by François Boucher, Zeus/Jupiter takes the form of Artemis/Diana (Nelson-Atkins Museum of Art, Kansas City)]]

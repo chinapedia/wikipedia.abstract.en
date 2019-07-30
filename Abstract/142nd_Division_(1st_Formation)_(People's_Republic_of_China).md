@@ -1,0 +1,1 @@
+The 142ND DIVISION () was created in November 1948 under _the Regulation of the Redesignations of All Organizations and Units of the Army_, issued by Central Military Commission on November 1, 1948,[1] basing on the 31st Division, 11th Column of the PLA Dongbei Field Army. Its origin can be traced to 17th Independent Brigade of Reliao Military Region, formed in September 1946.

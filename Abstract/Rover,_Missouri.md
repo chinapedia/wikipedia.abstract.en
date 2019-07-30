@@ -1,0 +1,1 @@
+ROVER is an unincorporated community in western Oregon County, in the U.S. state of Missouri.[1] The community lies about eleven miles west of Alton and is on Missouri Route M 1.5 miles south of U. S. Route 160.[2]

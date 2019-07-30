@@ -1,0 +1,1 @@
+The DJBDNS software package is a DNS implementation. It was created by Daniel J. Bernstein in response to his frustrations with repeated security holes in the widely used BIND DNS software. As a challenge, Bernstein offered a $1000 prize[1] for the first person to find a security hole in djbdns, which was awarded[2] in March 2009 to Matthew Dempsky.

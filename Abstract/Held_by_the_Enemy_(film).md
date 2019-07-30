@@ -1,0 +1,1 @@
+_HELD BY THE ENEMY_ is a lost[1] 1920 American silent Civil War melodrama film directed by Donald Crisp and based on the 1886 play by William Gillette. The film starred Agnes Ayres, Lewis Stone, and Jack Holt. It was produced by Famous Players-Lasky and distributed by Paramount Pictures.[2] Held_By_the_Enemy_lobby_card.jpg

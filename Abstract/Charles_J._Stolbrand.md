@@ -1,0 +1,1 @@
+CHARLES J. STOLBRAND (1821-1894), was a sergeant in the Swedish artillery who emigrated to the United States, becoming a brigadier general in the Union Army during the Civil War, and a carpetbagger in South Carolina after the war.

@@ -1,0 +1,1 @@
+_COMPOSITION NO. 96_ is an album by composer Anthony Braxton featuring his title piece, dedicated to Karlheinz Stockhausen, performed by a 37-piece orchestra and recorded in 1981 and originally released on the Leo label in 1989.[1][2][3][4]

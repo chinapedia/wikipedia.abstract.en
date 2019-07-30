@@ -1,0 +1,1 @@
+Friday_Hill_House,_Chingford,_London,_UK.jpg St_Peter_and_St_Paul,_Chingford_07.JPG Reverend ROBERT BOOTHBY HEATHCOTE (13 May 1805 – 19 September 1865) was a Church of England clergyman, who built Friday Hill House and other buildings in Chingford.[1]

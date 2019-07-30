@@ -1,0 +1,1 @@
+The RIO IRATAPURU SUSTAINABLE DEVELOPMENT RESERVE () is a sustainable development reserve in the state of Amapá, Brazil. It contains a well-preserved area of terra firme forest with rich fauna. The local communities that surround the reserve use it for sustainable extraction of products such as Brazil nuts.

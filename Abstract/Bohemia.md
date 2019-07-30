@@ -1,0 +1,1 @@
+BOHEMIA ( ;[1] ;[2] ; ; ) is the westernmost and largest historical region of the Czech lands in the present-day Czech Republic. In a broader meaning, Bohemia sometimes refers to the entire Czech territory, including Moravia and Czech Silesia,[3] especially in a historical context, such as the Lands of the Bohemian Crown ruled by Bohemian kings.

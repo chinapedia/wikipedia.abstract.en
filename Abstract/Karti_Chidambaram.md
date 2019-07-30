@@ -1,0 +1,1 @@
+KARTI CHIDAMBARAM (born 16 November 1971) is an Indian politician and businessman. He is a member of the Indian National Congress party. He is elected to Lok Sabha from Sivaganga in Tamilnadu following the 2019 Indian general election.

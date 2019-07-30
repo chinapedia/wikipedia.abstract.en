@@ -1,0 +1,1 @@
+"SE M'INNAMORO" is an Italian song composed by Cristiano Minellono and Dario Farina, arranged by Fio Zanotti and performed by the Europop group Ricchi e Poveri. The song won the 35th edition of the Sanremo Music Festival.[1][2]

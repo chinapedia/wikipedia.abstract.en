@@ -1,0 +1,1 @@
+CRISTOVAL "BOO" NIEVES (born January 23, 1994) is an American professional ice hockey forward currently playing for the New York Rangers of the National Hockey League (NHL). He was drafted by the Rangers, 59th overall, in the 2012 NHL Entry Draft.

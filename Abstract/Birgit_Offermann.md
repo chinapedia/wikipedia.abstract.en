@@ -1,0 +1,1 @@
+'''Birgit Offermann ''' (born 12 August 1960) is a German retired footballer. She was a member of the Germany women's national football team from 1982–1985.[1] On club level she played for KBC Duisburg.

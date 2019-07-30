@@ -1,0 +1,1 @@
+Jan_v_Hocksem,_Digitus_florum_utriusque_iuris,_1341_(RHCL_Maastricht).jpg JEAN DE HOCSEM or JAN VAN HOCSEM, Latinized _Johannes Hocsemius_ (1278–1348), was a canon and scholaster of Saint Lambert's Cathedral, Liège.

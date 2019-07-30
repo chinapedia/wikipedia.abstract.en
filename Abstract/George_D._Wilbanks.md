@@ -1,0 +1,1 @@
+GEORGE DEWEY WILBANKS, JR. was an American cancer researcher, surgeon and professor of obstetrics and gynecology. He was best known for his research in cervical cancer and was responsible for early work identifying the human papillomavirus and its relationship to the development of cancer, eventually leading to the development of the herpes vaccine Gardasil.

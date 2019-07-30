@@ -1,0 +1,1 @@
+Zhuangzi-Butterfly-Dream.jpg dreaming of a butterfly]] A _' lucid dream_' is a dream during which the dreamer is aware that they are dreaming. During a lucid dream, the dreamer may gain some amount of control over the dream characters, narrative, and environment; however, this is not actually necessary for a dream to be described as lucid.[1][2][3][4]

@@ -1,0 +1,1 @@
+LOVISA CONCORDIA SIMSON, née _Kliecnik_ or _Lindström_ (1746 – 26 February 1808, Gothenburg), was a Swedish theater director. She was the managing director of the theater _Comediehuset_ in Gothenburg between 1787 and 1792. She was the first female theater director over a permanent theater (rather than a travelling theater company) in her country.

@@ -1,0 +1,1 @@
+The 2017 PING AN CHINESE FOOTBALL ASSOCIATION SUPER LEAGUE ()[1] was the 14th season since the establishment of the Chinese Super League.[2][3] The league title sponsor is Ping An Insurance.[4][5] Guangzhou Evergrande Taobao won their seventh consecutive title of the league.

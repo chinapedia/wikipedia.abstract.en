@@ -1,0 +1,1 @@
+MATTHEW THOMAS (born July 21, 1995) is an American football linebacker for the Baltimore Ravens of the National Football League (NFL). He played college football at Florida State. He signed with the Pittsburgh Steelers as an undrafted free agent in 2018.

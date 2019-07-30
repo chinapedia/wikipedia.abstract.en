@@ -1,0 +1,1 @@
+US PUJOLS XIII are a French Rugby league club based in Pujols, Lot-et-Garonne in the south-west of France. The club plays in National Division 1. Home games are played at the LACASSAGNE SPORTS COMPLEX.

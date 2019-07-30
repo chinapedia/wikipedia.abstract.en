@@ -1,0 +1,1 @@
+WILLIAM ALLAN POWELL (19 January 1885 – 1 January 1954) was an English amateur cricketer who played first-class cricket for Kent County Cricket Club during the Golden Age of cricket before the First World War. He was born in 1885 Blundellsands in Lancashire and educated at Cranleigh School. He died in Earl's Court in London on New Years Day 1954, aged 68.

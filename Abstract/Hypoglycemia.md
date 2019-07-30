@@ -1,0 +1,1 @@
+HYPOGLYCEMIA, also known as LOW BLOOD SUGAR, is when blood sugar decreases to below normal levels.[1] This may result in a variety of symptoms including clumsiness, trouble talking, confusion, loss of consciousness, seizures or death.[2] A feeling of hunger, sweating, shakiness and weakness may also be present.[3] Symptoms typically come on quickly.[4]

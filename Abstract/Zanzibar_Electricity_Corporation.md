@@ -1,0 +1,1 @@
+ZANZIBAR ELECTRICITY CORPORATION (ZECO) is a state owned utility firm that provides transmission and distribution service of electricity in the Zanzibar Archipelago. The firm was incorporated in 2006 as the successor of the State Fuel and Power Corporation and is wholly owned by the Revolutionary Government of Zanzibar.[1]

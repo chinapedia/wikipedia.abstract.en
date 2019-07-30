@@ -1,0 +1,1 @@
+JEAN-PIERRE SCHNEIDER (24 July 1946, Paris) is a French painter and scenographer. A graduate from the École des beaux-arts de Lille, he has been exhibiting since 1969 in Paris, in the province and abroad.

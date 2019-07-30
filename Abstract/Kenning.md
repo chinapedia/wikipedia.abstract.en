@@ -1,0 +1,1 @@
+A KENNING (Old Norse pronunciation: , Modern Icelandic pronunciation: ) is a type of circumlocution, in the form of a compound that employs figurative language in place of a more concrete single-word noun. Kennings are strongly associated with Old Norse and later Icelandic and Old English poetry.

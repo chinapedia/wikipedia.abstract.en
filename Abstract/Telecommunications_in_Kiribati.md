@@ -1,0 +1,1 @@
+Kiribati has two international airports (Tarawa and Kiritimati). The main port is Betio (Tarawa). Phones are available only on Tarawa and Kiritimati and radio phones are used elsewhere. Kiribati has 2 newspapers (one private).

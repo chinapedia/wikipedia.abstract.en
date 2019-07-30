@@ -1,0 +1,1 @@
+PETER H. DUESBERG (born December 2, 1936) is a German American molecular biologist and a professor of molecular and cell biology at the University of California, Berkeley. He is known for his early research into genetic aspects of cancer. He played a pivotal role in the AIDS denialism controversy as a proponent of the belief that HIV does not cause AIDS.

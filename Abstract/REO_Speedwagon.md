@@ -1,0 +1,1 @@
+REO SPEEDWAGON (originally styled as R.E.O. SPEEDWAGON) is an American rock band from Champaign, Illinois. Formed in 1967, the band cultivated a following during the 1970s and achieved significant commercial success throughout the 1980s. _Hi Infidelity_ (1980) contained four US Top 40 hits and is the group's best-selling album, with over 10 million copies sold.

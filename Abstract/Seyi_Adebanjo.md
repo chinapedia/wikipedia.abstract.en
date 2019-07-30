@@ -1,0 +1,1 @@
+SEYI ADEBANJO is a genderfluid, queer MFA media artist, born in Nigeria and now resident in New York City. Adebanjo's work aims to generate social awareness about issues of race, gender, and sexuality through the use of multimedia photography, film, digital video, and writings.[1]

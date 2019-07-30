@@ -1,0 +1,1 @@
+_NATURE'S WEIRDEST EVENTS_ is a 2012 British nature documentary series produced by the BBC and presented by Chris Packham. The show looks at weird events from around the world, with introduced footage typically taken from eyewitnesses before the facts are given. Examples include why some dolphins have taken to breaking people's bones and the case of "spaceballs" in Spain.

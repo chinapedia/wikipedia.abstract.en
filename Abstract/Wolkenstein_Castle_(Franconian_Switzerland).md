@@ -1,0 +1,1 @@
+The _burgstall_ of WOLKENSTEIN CASTLE is the site of a late medieval aristocratic castle in the village of Wolkenstein, in the borough of Ebermannstadt in the county of Forchheim in the German state of Bavaria. The _burgstall_ is in private hands and may not be visited.

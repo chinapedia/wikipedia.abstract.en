@@ -1,0 +1,1 @@
+SAINT MICHAEL HIGHER TECHNICAL INSTITUTE, AMPARIBE, (_Etablissement Technique Supérieur Saint Michel_ – ETS) was founded by the Jesuits in 1983 in Antananarivo, Madagascar. It offers 2-year programs in Mechanical Engineering and Electronics.[1][2][3]

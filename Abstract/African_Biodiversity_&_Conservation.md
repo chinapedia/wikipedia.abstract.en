@@ -1,0 +1,1 @@
+_AFRICAN BIODIVERSITY & CONSERVATION_, formerly known as _BOTHALIA_ is a South African peer-reviewed open access scientific journal covering the fields of botany, zoology and biodiversity, produced by the South African National Biodiversity Institute. According to the _Journal Citation Reports_, the journal has a 2017 impact factor of 0.52.[1]

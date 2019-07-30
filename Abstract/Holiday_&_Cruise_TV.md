@@ -1,0 +1,1 @@
+CRUISE CHANNEL was a television channel in the United Kingdom and Ireland. It was launched as Holiday & Cruise Channel on 1 August 2011, on sky TV in the UK & Ireland. It was the first TV channel in the world to feature just holidays & cruises, with new programmes everyday featuring cruise holiday offers.

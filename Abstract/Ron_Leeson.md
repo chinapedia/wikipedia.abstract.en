@@ -1,0 +1,1 @@
+RONALD THOMAS "RON" LEESON (born 26 February 1939) is a former Australian politician who was a Labor Party member of the Legislative Council of Western Australia from 1971 to 1983, representing the South-East Province.

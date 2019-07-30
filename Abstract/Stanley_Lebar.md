@@ -1,0 +1,1 @@
+368474_apollo11_cameras.jpg cameras]] STANLEY L. LEBAR (July 29, 1925, Richmond, Virginia – December 23, 2009, Baltimore, Maryland) was an American engineer who constructed the television cameras used during the Apollo program.

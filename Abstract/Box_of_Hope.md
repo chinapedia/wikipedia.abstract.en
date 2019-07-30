@@ -1,0 +1,1 @@
+BOX OF HOPE is an annual charity project aimed at providing useful/educational gifts to underprivileged children in Hong Kong and Asia during Christmas, donated by Hong Kong school children and local organisations. Boxes of Hope are collected every year between late October and early November.[1]

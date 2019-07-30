@@ -1,0 +1,1 @@
+_YUVARAJU_ (English: PRINCE) is a 1982 Telugu, drama film, produced by Venkat Akkineni, Nagarjuna Akkineni on Annapurna Studios banner[1] and directed by Dasari Narayana Rao.[2] Starring Akkineni Nageswara Rao, Jayasudha, Sujatha in the lead roles[3] and music composed by Chakravarthy.[4]

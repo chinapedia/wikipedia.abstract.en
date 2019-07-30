@@ -1,0 +1,1 @@
+Sir_Joseph_Ward,_1928.jpg This is a summary of the ELECTORAL HISTORY OF SIR JOSEPH WARD, Prime Minister of New Zealand, (1906–12; 1928–30) Leader of the Liberal Party (1906–12; 1913–19; 1928–30) and Member of Parliament for Awarua (1887–1919) and Invercargill (1925–1930).

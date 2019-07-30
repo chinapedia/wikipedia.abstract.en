@@ -1,0 +1,1 @@
+PAOLO KESSISOGLU (Genoa, Italy 25 July 1969) is an Italian actor, comedian and TV presenter. He is best known for the duo Luca e Paolo, formed with his friend, Luca Bizzarri. Kessisoglu was also a member of the comedian group "Cavalli Marci" (Rotten Horses).

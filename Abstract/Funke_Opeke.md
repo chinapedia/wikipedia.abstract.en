@@ -1,0 +1,1 @@
+FUNKE OPEKE is a Nigerian electrical engineer, founder of Main Street Technologies and Chief Executive Officer of Main One Cable Company, a communications services company based in Lagos State, south-western Nigeria.[1][2]

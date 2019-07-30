@@ -1,0 +1,1 @@
+Neale(1818)_p2.158_-_Connington_Castle,_Huntingdonshire.jpg CONINGTON CASTLE was a 16th-century house in Conington, Huntingdonshire, England, built for Sir Robert Cotton.[1] It was demolished in 1955 by the then owners, the Heathcote family.[2][3]

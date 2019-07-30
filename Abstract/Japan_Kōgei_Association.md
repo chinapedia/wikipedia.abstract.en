@@ -1,0 +1,1 @@
+The JAPAN KŌGEI ASSOCIATION (日本工芸会) is a non-profit association dedicated to the protection and development of intangible cultural heritage, traditional Japanese crafts and supporting artisans such as Living National Treasures.[1]

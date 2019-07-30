@@ -1,0 +1,1 @@
+The SALTUS GROCERY STORE is a historic mixed-use commercial and residential building at 299-301 North Winooski Street in Burlington, Vermont. Built in 1897, it is a well-preserved example of a neighborhood store of the period. It was listed on the National Register of Historic Places in 2001.[1]

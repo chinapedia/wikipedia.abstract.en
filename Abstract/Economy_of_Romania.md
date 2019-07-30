@@ -1,0 +1,1 @@
+ROMANIA is a fast developing, upper middle income mixed economy with a very high Human Development Index and a skilled labour force, ranked 15th in the European Union by total nominal GDP and 10th largest when adjusted by purchasing power parity.[1]

@@ -1,0 +1,1 @@
+_DAUGHTER OF THE DROW_ is a fantasy novel by Elaine Cunningham, set in the world of the Forgotten Realms, and based on the _Dungeons & Dragons_ role-playing game. It is the first novel in the "Starlight & Shadows" series. It was published in hardcover, August 1995, ; and in paperback, September 1996, ; paperback re-issue, February 2003, .

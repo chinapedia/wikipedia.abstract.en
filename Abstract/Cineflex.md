@@ -1,0 +1,1 @@
+CINEFLEX is a registered Trademark for gyro-stabilized systems owned by General Dynamics Global Imaging Technologies which is a division of General Dynamics Mission Systems. These systems are 5-axis gyro stabilized platforms used primarily in the entertainment and broadcast industry.

@@ -1,0 +1,1 @@
+The GOLDEN RULE is the principle of treating others as oneself would wish to be treated. It is a maxim that is found in many religions and cultures. This dictionary of philosophy contains the following quote under the entry for "golden rule": "The maxim 'Treat others how you wish to be treated'.

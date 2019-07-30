@@ -1,0 +1,1 @@
+The ECONOMY of the FALKLAND ISLANDS, which first involved sealing, whaling and provisioning ships, became heavily dependent on sheep farming from the 1870s to 1980. It then diversified and now has income from tourism, commercial fishing, and servicing the fishing industry as well as agriculture. The islands use the Falkland pound, which is backed by sterling.

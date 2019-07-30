@@ -1,0 +1,1 @@
+HICO is an extinct town in Dallas County, in the U.S. state of Missouri.[1] The community was located adjacent to the Niangua River, approximately two miles northeast of Spring Grove and six miles southeast of Buffalo. The Hico Bridge over the Niangua on County Road JJ-203 is approximately 1000 feet west of the Hico location.[2][3]

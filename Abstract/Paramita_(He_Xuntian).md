@@ -1,0 +1,1 @@
+''''' Paramita (He Xuntian) ''''' _( 波罗密多 )_ is a work for music ceremony[1][2][3] composed by He Xuntian.[4][5] 1300 performers made a debut of it on Oct.25th 2002 at Leifeng Pagoda in Hangzhou, China.[6]

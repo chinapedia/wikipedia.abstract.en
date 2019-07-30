@@ -1,0 +1,1 @@
+_BURNING DAYLIGHT_ is a 1928 silent dramatic action adventure film directed by Charles Brabin and starring Milton Sills and Doris Kenyon, a real-life married couple. It was produced and distributed by First National Pictures and based on a novel by Jack London. It was previously filmed by Metro Pictures in 1920.[1][2]

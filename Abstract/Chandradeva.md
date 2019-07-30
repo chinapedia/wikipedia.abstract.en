@@ -1,0 +1,1 @@
+CHANDRADEVA (IAST: Candradeva, r. c. 1089–1103 CE), also known as Chandraditya, was an Indian king from the Gahadavala dynasty. He ruled the Antarvedi country in present-day Uttar Pradesh, including Kanyakubja and Varanasi.

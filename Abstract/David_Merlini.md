@@ -1,0 +1,1 @@
+DAVID MERLINI is a Hungarian-Italian escape artist, and World Record holder, described by Expo 2015 the world's most famous escapologist,[1] currently serving as Director of The House of Houdini, the only Houdini museum in Europe.[2]

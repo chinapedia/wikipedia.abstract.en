@@ -1,0 +1,1 @@
+THOMAS RAMSAY HALL (2 January 1879 – 15 December 1950) was an architect practicing in Brisbane, Australia, during the first half of the twentieth century and was involved in the design and construction of numerous major buildings in South East Queensland including the Queensland Heritage Register listed Brisbane City Hall.

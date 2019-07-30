@@ -1,0 +1,1 @@
+SANTA MARIA ASSUNTA DI CASTELNUOVO is a Roman Catholic church located on Via Angelo Giunta in the town limits of Recanati, province of Macerata, in the region of Marche, Italy. It is the oldest church structure in town.

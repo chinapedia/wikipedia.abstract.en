@@ -1,0 +1,1 @@
+"FISH CHEEKS" is a 1987 one page narrative essay by Chinese-American author Amy Tan and her first published essay.[1] The work was first published in _Seventeen_ and covers a Christmas Eve dinner when Tan was 14 years old.[2][3] It was subsequently published as a part of _The Opposite of Fate: A Book of Musings_.[4]

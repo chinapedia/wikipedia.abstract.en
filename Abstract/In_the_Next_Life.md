@@ -1,0 +1,1 @@
+_IN THE NEXT LIFE_ is the sixth studio album by American singer-songwriter Maria Taylor, also a member of Azure Ray. It was released on December 9, 2016, on her label Flower Moon Records.[1] The first single "If Only", features guest vocals by Omaha singer-songwriter Conor Oberst of Bright Eyes.[2]

@@ -1,0 +1,1 @@
+WATER SUPPLY AND SEWERAGE AUTHORITY or WASA is the main body administering Water supply, Drainage and Sanitation system in Bangladesh.[1] It was established in the year 1963 as an independent organization, under the East Pakistan ordinance XIX. At present WASA operates according to the WASA act 1996.[2]

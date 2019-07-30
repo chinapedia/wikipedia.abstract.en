@@ -1,0 +1,1 @@
+The ÁRMANN MEN'S BASKETBALL team, commonly known as ÁRMANN, is the men's basketball department of Ármann multi-sport club and is based in Reykjavík, Iceland. As of the 2018-2019 season the team plays in 2. deild karla.[1]

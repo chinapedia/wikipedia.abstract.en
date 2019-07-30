@@ -1,0 +1,1 @@
+WILLIAM HARRISON FETRIDGE (1906 – July 13, 1989) served as vice president of the Boy Scouts of America, president of the United State Support Fund for International Scouting, and chair of the Finance Planning Committee of the World Organization of the Scout Movement.

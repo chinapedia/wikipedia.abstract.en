@@ -1,0 +1,1 @@
+ABANTECART is a New Jersey-based e-commerce technology and business solution provider, created by Pavel Rojkov in 2010 and released to the public in November 2011. It is a free open source electronic commerce application and community based project.[1] AbanteCart is licensed under the Open Software License (OSL) and its foundation is based on PHP and MySQL database.[2]

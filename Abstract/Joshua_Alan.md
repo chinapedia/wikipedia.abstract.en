@@ -1,0 +1,1 @@
+JOSHUA ALAN (born November 28, 1984) is an American singer-songwriter and musician, and was the singer for RATT during the American Made 2016 tour. He was born in Tampa, Florida, and grew up in Hampton, Georgia, a small town approximately 40 miles south of Atlanta.

@@ -1,0 +1,1 @@
+HALILU OBADAKI (born December 20, 1993) is a Nigerian professional footballer who has played for Nigerian Premier League club Kwara United, El-Kanemi Warriors F.C. and presently with Crown F.C. for the 2017 Nigeria National League Season

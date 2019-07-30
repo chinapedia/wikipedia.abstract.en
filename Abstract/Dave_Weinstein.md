@@ -1,0 +1,1 @@
+DAVID J. WEINSTEIN (born January 13, 1988)[1] is the former Chief Technology Officer of New Jersey [2] and currently a Cybersecurity Policy Fellow with the Washington, DC-based think tank New America. He previously served at U.S. Cyber Command.[3] In 2017, Weinstein was named "State Executive of the Year".[4]

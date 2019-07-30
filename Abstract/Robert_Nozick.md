@@ -1,0 +1,1 @@
+Immanuel Kant{{·}}John Stuart Mill{{·}}Friedrich von Hayek{{·}}Murray Rothbard{{·}}Sidney Morgenbesser{{·}}Carl Gustav Hempel{{·}}Edmund Gettier | influenced = Roderick Long{{·}}Jan Narveson{{·}}David Schmidtz{{·}}Tamar Gendler | doctoral_advisors = Carl Gustav Hempel }}

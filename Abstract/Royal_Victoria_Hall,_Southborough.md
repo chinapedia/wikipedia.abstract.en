@@ -1,0 +1,1 @@
+The_Royal_Victoria_Hall,_Southborough_-_geograph.org.uk_-_1543657.jpg ROYAL VICTORIA HALL, Kent was historically notable as the first Municipally funded theatre in England. It stood on London Road, Southborough, Kent and opened on 17 January 1900 to celebrate the Diamond Jubilee of Queen Victoria.

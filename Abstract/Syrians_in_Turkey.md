@@ -1,0 +1,1 @@
+SYRIANS IN TURKEY includes Turkish citizens of Syrian origin, Syrian-born citizens and Syrian refugees. Istanbul; the most populous city in Turkey, hosts the highest number of Syrians (approximately 538,000 people).[1]

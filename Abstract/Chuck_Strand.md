@@ -1,0 +1,1 @@
+CHARLES "CHUCK" STRAND is an American theater composer and lyricist. Strand, along with Gene Curty and Nitra Scharfman, wrote the music, book and lyrics to the Tony Award and Drama Desk Award nominated rock opera _The Lieutenant_. He also arranged the music and was the musical director for the show.

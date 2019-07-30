@@ -1,0 +1,1 @@
+MOHAMED SHIRAZ (born 13 February 1995) is a Sri Lankan cricketer.[1] He made his first-class debut for Colts Cricket Club in the 2016–17 Premier League Tournament on 29 November 2016.[2] He made his List A debut for Kegalle District in the 2016–17 Districts One Day Tournament on 22 March 2017.[3]

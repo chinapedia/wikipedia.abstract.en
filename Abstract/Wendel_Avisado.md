@@ -1,0 +1,1 @@
+WENDEL ELIOT AVISADO is a Filipino politician who serves as National President of the Boy Scouts of the Philippines from 2016, as well as an elected volunteer member of the Asia-Pacific Regional Scout Committee of the World Organization of the Scout Movement (WOSM) from 2012 to 2018.[1]

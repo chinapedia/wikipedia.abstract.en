@@ -1,0 +1,1 @@
+Intel_i486_sx_25mhz_2007_03_27b.jpg

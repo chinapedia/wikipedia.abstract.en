@@ -1,0 +1,1 @@
+HRYHORIY VOLODYMYR BALAHURAK, O.S.B.M. (; 5 July 1909 – 2 October 1965) was a Ukrainian Greek Catholic clandestine hierarch. He was an auxiliary bishop of the Ukrainian Catholic Eparchy of Ivano-Frankivsk from 1945 to 1965.

@@ -1,0 +1,1 @@
+ISMANIA CATHERINE FITZROY, BARONESS SOUTHAMPTON (_née_ NUGENT; 23 September 1838 – 18 August 1918) was an Irish aristocrat, the wife of Charles FitzRoy, 3rd Baron Southampton. She served as Lady of the Bedchamber to Queen Victoria.

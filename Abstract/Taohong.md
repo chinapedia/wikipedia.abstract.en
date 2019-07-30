@@ -1,0 +1,1 @@
+TAOHONG () is a town and the seat of Longhui County in Hunan, China. The town was established in 1942[1] and reorganized through the amalgamation of _Shimen Township_ (), _Yushanpu Town_ () and the former _Taohong Town_ on November 24, 2015.

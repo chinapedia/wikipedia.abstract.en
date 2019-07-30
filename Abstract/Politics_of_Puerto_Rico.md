@@ -1,0 +1,1 @@
+The POLITICS OF PUERTO RICO take place in the framework of a democratic republic form of government that is under the jurisdiction and sovereignty of the United States as an organized unincorporated territory.

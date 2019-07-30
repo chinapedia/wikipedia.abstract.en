@@ -1,0 +1,1 @@
+HOUSE AT 323 THEMIS STREET, also known as HENRY BOHLKE HOUSE and JUDITH CROW HOUSE, is a historic home located at Cape Girardeau, Missouri. It was built about 1864, and is a 1 1/2-story, painted brick dwelling in the German Vernacular style. It features two arched, double hung, two over two windows, ornamental brick work, and a recessed doorway.[1]

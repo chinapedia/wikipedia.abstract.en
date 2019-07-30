@@ -1,0 +1,1 @@
+JOLLY is an unincorporated community in Newton County, in the U.S. state of Missouri.[1] A variant name was "Jollification".[2]

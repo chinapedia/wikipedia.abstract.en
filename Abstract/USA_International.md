@@ -1,0 +1,1 @@
+The USA INTERNATIONAL is an international badminton tournament held in United States since 1998. This tournament formerly known as _Miami PanAm International_ or _Southern PanAm Classic_ and belongs to Badminton Pan Am.[1]

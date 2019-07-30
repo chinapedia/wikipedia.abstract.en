@@ -1,0 +1,1 @@
+_IS IT STILL GOOD TO YA_ is the sixth studio album recorded by American vocal duo Ashford & Simpson, released in 1978 on the Warner Bros. label. The album was remastered and reissued with bonus tracks in 2015 by Big Break Records.

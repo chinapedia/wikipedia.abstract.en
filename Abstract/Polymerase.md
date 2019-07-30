@@ -1,0 +1,1 @@
+Taq_polimerase.png]] A POLYMERASE is an enzyme (EC 2.7.7.6/7/19/48/49) that synthesizes long chains of polymers or nucleic acids. DNA polymerase and RNA polymerase are used to assemble DNA and RNA molecules, respectively, by copying a DNA template strand using base-pairing interactions or RNA by half ladder replication.

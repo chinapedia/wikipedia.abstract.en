@@ -1,0 +1,1 @@
+The ECONOMY OF THE COOK ISLANDS, as in many other South Pacific nations, is hindered by the isolation of the country from foreign markets, lack of natural resources aside from fish, periodic devastation from natural disasters, and inadequate infrastructure.

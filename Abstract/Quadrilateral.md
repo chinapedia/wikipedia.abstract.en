@@ -1,0 +1,1 @@
+In Euclidean plane geometry, a QUADRILATERAL is a polygon with four edges (or sides) and four vertices or corners. Sometimes, the term QUADRANGLE is used, by analogy with triangle, and sometimes TETRAGON for consistency with pentagon (5-sided), hexagon (6-sided) and so on.

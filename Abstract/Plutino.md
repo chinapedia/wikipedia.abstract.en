@@ -1,0 +1,1 @@
+In astronomy, the PLUTINOS are a dynamical group of trans-Neptunian objects that orbit in 2:3 mean-motion resonance with Neptune. This means that for every two orbits a plutino makes, Neptune orbits three times. The dwarf planet Pluto is the largest member and namesake of this group. Plutinos are named after mythological creatures associated with the underworld.

@@ -1,0 +1,1 @@
+DARREN LOK YEE DENG (born 14 December 1990) is an English-born Malaysian professional footballer who plays as a forward for Johor Darul Ta'zim F.C. II in the Malaysia Premier League as well as for the Malaysia national team.[1]

@@ -1,0 +1,1 @@
+_DESUS & MERO_ was an American television late-night talk show series hosted by Desus Nice and The Kid Mero that ran from October 17, 2016 to June 28, 2018 on Viceland.[1][2][3][4] In 2018, the show's hosts left Viceland and moved to Showtime and the new _Desus & Mero_ premiered on February 21, 2019.[5][6]

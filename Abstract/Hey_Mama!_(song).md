@@ -1,0 +1,1 @@
+"HEY MAMA" is the debut single by EXO-CBX, the first official sub-unit of the South Korean boy group EXO. It was released on October 31, 2016 by S.M. Entertainment as the title track of their debut extended play _Hey Mama!_. The Japanese version of the song was released on May 24, 2017 along with their Japanese debut EP _Girls_.

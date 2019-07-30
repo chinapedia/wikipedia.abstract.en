@@ -1,0 +1,1 @@
+BADR AL-MOLOUK (); was the first wife of Ahmad Shah Qajar. She was born in 1897 in Tabriz. Badr al-Molouk had married Ahmad Shah when she was twelve years old. The wedding was held by the king's mother, Malekeh Jahan, and was a great ceremony.

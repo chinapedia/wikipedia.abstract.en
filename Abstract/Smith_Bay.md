@@ -1,0 +1,1 @@
+SMITH BAY is an estuary in the Beaufort Sea that supports a wide range of fish, birds, and marine mammals. It is located northeast of Point Barrow, Alaska. The Bureau of Ocean Energy Management recognizes the southeastern portion of Barrow Canyon, which covers some, but not all, of Smith Bay, as an Environmentally Important Area.[1] Smith_Bay_map.jpg

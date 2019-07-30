@@ -1,0 +1,1 @@
+_MOSUL EYE_ () is a news blog created and maintained by historian and citizen journalist Omar Mohammed.[1] For more than two years, Mohammed used the blog to report conditions and events in the Iraqi city of Mosul during the occupation of the Islamic State of Iraq and the Levant (ISIL). During this time, _Mosul Eye_ was an anonymous blog.

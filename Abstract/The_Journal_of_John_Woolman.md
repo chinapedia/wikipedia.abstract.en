@@ -1,0 +1,1 @@
+_THE JOURNAL OF JOHN WOOLMAN_ is an autobiography by John Woolman which was published posthumously in 1774 by Joseph Crukshank, a Philadelphia Quaker printer. Woolman's journal is one of the longest continually published books in North America since it has never been out of print.

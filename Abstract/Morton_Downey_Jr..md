@@ -1,0 +1,1 @@
+SEAN MORTON DOWNEY (December 9, 1932 – March 12, 2001), better known as MORTON DOWNEY JR., was an American television talk show host of the late-1980s who pioneered the "trash TV" format on his program _The Morton Downey Jr. Show_.[1][2][3][4]

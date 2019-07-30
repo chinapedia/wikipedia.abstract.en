@@ -1,0 +1,1 @@
+RUSSELL "RUSTY" ROBERTSON (1927–1989) was a New Zealand-born, world class rowing coach of New Zealand and later, Australian national representative rowing crews. He was the national rowing coach of New Zealand from 1967 to 1976, and the national coach of Australia from 1979 to 1984.

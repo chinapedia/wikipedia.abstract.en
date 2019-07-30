@@ -1,0 +1,1 @@
+The Batswana, a term also used to denote all citizens of Botswana, refers to the country's major ethnic group (called the Tswana in Southern Africa). Prior to European contact, the Batswana lived as herders and farmers under tribal rule.

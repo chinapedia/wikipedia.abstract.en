@@ -1,0 +1,1 @@
+_EUCALYPTUS CAPTIOSA_ is a species of mallee that is endemic to the south-west of Western Australia. It has smooth bark, lance-shaped adult leaves, groups of three or seven, slightly ribbed flower buds arranged in leaf axils, pale yellow flowers and cup shaped fruit.Eucalyptus_captiosa_buds.jpgEucalyptus_captiosa_fruit.jpg

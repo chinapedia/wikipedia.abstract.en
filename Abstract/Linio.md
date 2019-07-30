@@ -1,0 +1,1 @@
+Linio_logo_refresh.svg '''Linio '''is a leading e-commerce retailer in Mexico and the rest of Latin America.[1] Its main investors include the Mexico-based funds LIV Capital and Northgate, Sweden-based Kinnevik and Berlin-based Rocket Internet, with presence in five countries: Argentina, Chile, Colombia, Mexico, and Peru.

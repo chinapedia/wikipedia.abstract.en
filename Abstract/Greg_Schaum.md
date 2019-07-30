@@ -1,0 +1,1 @@
+GREGORY JAMES SCHAUM (born January 1, 1954) is a former American football defensive end in the National Football League for the Dallas Cowboys and New England Patriots. He played college football at Michigan State University.

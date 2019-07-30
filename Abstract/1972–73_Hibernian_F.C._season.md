@@ -1,0 +1,1 @@
+During the 1972–73 season Hibernian, a football club based in Edinburgh, came third out of 18 clubs in the Scottish First Division, reached the fourth round of the Scottish Cup, the quarter-final of the European Cup Winners' Cup and won their first Scottish League Cup and the Drybrough Cup.

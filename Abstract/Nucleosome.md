@@ -1,0 +1,1 @@
+A NUCLEOSOME is a basic unit of DNA packaging in eukaryotes, consisting of a segment of DNA wound in sequence around eight[1] histone protein cores.[2] This structure is often compared to thread wrapped around a spool.[3]

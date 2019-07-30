@@ -1,0 +1,1 @@
+LAURA WELCH BUSH[1] (_née_ LAURA LANE WELCH; born November 4, 1946) is an American educator who was First Lady of the United States during the presidency of her husband, George W. Bush, from 2001 to 2009.[2][3] Bush previously served as First Lady of Texas from 1995 to 2000.

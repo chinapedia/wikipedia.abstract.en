@@ -1,0 +1,1 @@
+BELMONT is an extinct town in Mississippi County, on the eastern border of the U.S. state of Missouri at the Mississippi River.[1] The GNIS classifies it as a populated place under the name "Belmont Landing".[2]

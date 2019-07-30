@@ -1,0 +1,1 @@
+TAMATEM is a Jordanian mobile game developer and publisher, which localizes globally published mobile games and develops their own games for Arabic speakers.[1] It is the leading mobile games publisher in the MENA market.[2]

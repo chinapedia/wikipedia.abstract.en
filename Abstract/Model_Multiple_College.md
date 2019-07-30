@@ -1,0 +1,1 @@
+MODEL MULTIPLE COLLEGE is one of the colleges located in Janakpur-4, Ramchowk. It is a private educational institution of Nepal. The Chairman is Birendra Kumar Shah. MMC was established in 2053 B.S., It has its own building to run the classes.

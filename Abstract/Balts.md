@@ -1,0 +1,1 @@
+East_europe_3-4cc.png East_europe_5-6cc.png (5th-6th c. AD), new cultures appear with new trade networks.]] Slav-7-8-obrez.png can be culturally identified amidst the new Balto-Rus sphere of trade that swept over Eastern Europe.]]

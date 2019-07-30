@@ -1,0 +1,1 @@
+is the third studio album by Japanese singer Shiori Niiyama.[1]It was released on 30 November 2016, one year and five months after second studio album Hello Goodbye. The album was recorded under Being Inc. label.

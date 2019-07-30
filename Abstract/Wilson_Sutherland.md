@@ -1,0 +1,1 @@
+WILSON A. SUTHERLAND is an Emeritus doctor of mathematics at the University of Oxford. Sutherland was for many years a lecturer in mathematics in Oxford, and a mathematics tutor at New College. He has also taught at Massachusetts Institute of Technology and the University of Manchester, and, as a visiting professor, at Yale University and the University of Aberdeen.[1][2]

@@ -1,0 +1,1 @@
+The 1916–17 DUKE BLUE DEVILS MEN'S BASKETBALL TEAM represented Duke University during the 1916–17 men's college basketball season. The head coach was Charles Doak, coaching his first season with the Blue Devils. The team finished with an overall record of 20–4.[1]

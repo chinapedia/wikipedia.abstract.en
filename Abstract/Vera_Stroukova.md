@@ -1,0 +1,1 @@
+'''Vera Stroukova ''' (born 6 August 1981) is a Russian women's international footballer who plays as a defender. She is a member of the Russia women's national football team. She was part of the team at the 2003 FIFA Women's World Cup.[1]

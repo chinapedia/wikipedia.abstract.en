@@ -1,0 +1,1 @@
+POPE INNOCENT VI (; 1282 or 1295 – 12 September 1362), born ÉTIENNE AUBERT, was head of the Catholic Church and ruler of the Papal States from 18 December 1352 to his death in 1362. He was the fifth Avignon pope and the only one with the pontifical name of "Innocent".

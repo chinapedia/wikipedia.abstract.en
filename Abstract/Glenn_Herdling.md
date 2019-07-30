@@ -1,0 +1,1 @@
+GLENN HERDLING (born May 2, 1964) is an American author, comics writer, and editor who has written numerous comic books, including Marvel Comics' _Namor the Sub-Mariner_ series. He is also the author of the Piper Houdini series of young adult novels and a manualist.[1]

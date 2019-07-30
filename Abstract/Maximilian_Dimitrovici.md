@@ -1,0 +1,1 @@
+MAXIMILIAN SIEGFRIED FRANZ DIMITROVICI (born February 22, 1989), aka MAXIMILIAN DIMITROVICI, is a German ice hockey defenceman. Currently, he plays in the Turkish Ice Hockey Super League for Zeytinburnu BS. The tall player at shoots left-handed.[1]

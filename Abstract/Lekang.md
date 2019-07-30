@@ -1,0 +1,1 @@
+LEKANG is a village and Tehsil in the Namsai district1 of Arunachal Pradesh state, India.[1] According to the 2011 Census of India, it has 1,536 residents across 369 households. 828 are male and 708 are female.[2]

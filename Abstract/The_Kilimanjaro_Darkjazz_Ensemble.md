@@ -1,0 +1,1 @@
+THE KILIMANJARO DARKJAZZ ENSEMBLE is a Dutch band formed in Utrecht, Netherlands, in 2000. The group is composed of Jason Kohnen, Gideon Kiers, trombonist Hilary Jeffery, cellist Nina Hitz, singer Charlotte Cegarra, guitarist Eelco Bosman, and violinist Sadie Anderson. The group is no longer active. Its live counterpart is Mount Fuji Doomjazz Corporation.

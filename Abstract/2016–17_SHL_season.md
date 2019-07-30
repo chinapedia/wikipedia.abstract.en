@@ -1,0 +1,1 @@
+The 2016–17 SHL SEASON is the 42nd season of the Swedish Hockey League (SHL). The regular season began in September 2016 and ended in March 2017. The playoffs follow the conclusion of the regular season.

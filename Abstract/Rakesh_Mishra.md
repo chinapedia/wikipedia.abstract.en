@@ -1,0 +1,1 @@
+RAKESH KUMAR MISHRA is an Indian scientist specializing in genomics and epigenetics.[1] Dr. Mishra is currently the Director of Centre for Cellular and Molecular Biology in Hyderabad, India[2] and heads the 'Genome Organisation and Nuclear Architecture Lab' at CCMB.

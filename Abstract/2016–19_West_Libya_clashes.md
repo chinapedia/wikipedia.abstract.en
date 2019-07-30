@@ -1,0 +1,1 @@
+Clashes have been ongoing in West Libya since 14 October 2016. A coup d'état attempt was conducted by the former head of the National Salvation Government Khalifa al-Ghawil against Prime Minister Fayez al-Sarraj, the head of Libya's GNA Government.

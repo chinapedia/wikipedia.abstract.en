@@ -1,0 +1,1 @@
+Ivan Dodig and Marcelo Melo were the defending champions, but Dodig chose not to participate this year. Melo played alongside Vasek Pospisil, but lost to John Peers and Henri Kontinen in the semifinals.

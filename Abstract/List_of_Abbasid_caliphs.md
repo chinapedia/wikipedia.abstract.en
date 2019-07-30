@@ -1,0 +1,1 @@
+The ABBASID CALIPHS were the holders of the Islamic title of caliph who were members of the Abbasid dynasty, a branch of the Quraysh tribe descended from the uncle of the Islamic prophet Muhammad, al-Abbas ibn Abd al-Muttalib.

@@ -1,0 +1,1 @@
+The SONATA FOR VIOLIN AND PIANO NO. 2 in D minor Op. 121 by Robert Schumann was completed in November 1851,[1] Dedicated to the violinist Ferdinand David, the sonata received its first public performance from Clara Schumann and Joseph Joachim on October 29, 1853 in Düsseldorf, in a concert that marked the beginning of a long term musical collaboration.

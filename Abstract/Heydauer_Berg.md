@@ -1,0 +1,1 @@
+The HEYDAER BERG between Plaue and Ilmenau in the Thuringian county of Ilm-Kreis is a hill ridge of the Reinsberge which reaches its highest point at the HALSKAPPE which is ,, shortly before the better known Reinsburg ().

@@ -1,0 +1,1 @@
+This is a list of the FIRST MINORITY MALE LAWYER(S) AND JUDGE(S) in each state. It includes the year in which the men were admitted to practice law (in parentheses). Also included are other distinctions such as the first minority men in their state to obtain a law degree or become a political figure.

@@ -1,0 +1,1 @@
+JAKOB MAKARASHVILI (born December 28, 1985) is a Georgian freestyle wrestler. He competed in the men's freestyle 74 kg event at the 2016 Summer Olympics, in which he was eliminated in the quarterfinals by Jabrayil Hasanov.[1][2]

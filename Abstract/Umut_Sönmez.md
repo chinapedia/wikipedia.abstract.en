@@ -1,0 +1,1 @@
+UMUT SÖNMEZ (born 20 June 1993 in Varto, Turkey) is an Azerbaijani professional footballer who plays for Manisa Büyükşehir Belediyespor.[1] He currently plays as a Midfielder, and can work in both an offensive and creative role.

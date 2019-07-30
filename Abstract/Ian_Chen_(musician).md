@@ -1,0 +1,1 @@
+IAN CHEN (; born 4 February 1991) is a Taiwanese singer, songwriter and actor.[1] He was a former contestant on the fifth season of the television talent show, _One Million Star_. He released his first album, '' Ian! Vol.01'', on May 30, 2014.[2]

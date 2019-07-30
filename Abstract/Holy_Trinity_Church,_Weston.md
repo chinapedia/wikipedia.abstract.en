@@ -1,0 +1,1 @@
+Holy_Trinity_Church_Weston.jpg HOLY TRINITY CHURCH is the parish church for the village of Weston in Hertfordshire. The church building stands to the south-east of the village on high ground, and is built of flint and coursed ironstone rubble.[1] It was Grade I listed in 1968.[2] In the churchyard is the supposed grave of the giant Jack o'Legs.

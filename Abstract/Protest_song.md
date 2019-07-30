@@ -1,0 +1,1 @@
+A PROTEST SONG is a song that is associated with a movement for social change and hence part of the broader category of _topical_ songs (or songs connected to current events). It may be folk, classical, or commercial in genre.

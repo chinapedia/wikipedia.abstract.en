@@ -1,0 +1,1 @@
+GERALD FRIEDLAND (born 1978, Berlin) is an adjunct professor at the Electrical Engineering and Computer Science Department of the University of California, Berkeley [1][2] and a Principal Scientist at the Lawrence Livermore National Laboratory.[3] He also maintains an affiliation with the International Computer Science Institute.

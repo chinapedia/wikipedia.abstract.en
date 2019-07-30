@@ -1,0 +1,1 @@
+The HISTORY OF SUDAN includes that of both the territory that composes Republic of the Sudan, South Sudan as well as that of a larger region known by the term "Sudan". The term is derived from _bilād as-sūdān_, or "land of the black people",[1][2] and can be used more loosely of West and Central Africa in general, especially the Sahel.

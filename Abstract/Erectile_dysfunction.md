@@ -1,0 +1,1 @@
+ERECTILE DYSFUNCTION (ED), also known as IMPOTENCE, is a type of sexual dysfunction characterized by the inability to develop or maintain an erection of the penis during sexual activity. ED can have psychological consequences as it can be tied to relationship difficulties and self-image.

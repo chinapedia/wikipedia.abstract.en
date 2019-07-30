@@ -1,0 +1,1 @@
+JAROSLAVA POKORNÁ (born 2 August 1948) is a Czech film and stage actress. She was named Best Actress at the 2005 Alfréd Radok Awards for her role in _The Wild Duck_ at the Divadlo v Dlouhé.[1] She won the Czech Lion award for Best Supporting Actress in 2013 for her role in the mini-series _Burning Bush_.[2]

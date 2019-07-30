@@ -1,0 +1,1 @@
+There are a number of systems of TRANSPORT IN BURUNDI, including road and water-based infrastructure, the latter of which makes use of Lake Tanganyika. Furthermore, there are also some airports in Burundi.

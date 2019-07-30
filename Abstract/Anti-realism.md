@@ -1,0 +1,1 @@
+In analytic philosophy, ANTI-REALISM is an epistemological position first articulated by British philosopher Michael Dummett. The term was coined as an argument against a form of realism Dummett saw as 'colorless reductionism'.[1]

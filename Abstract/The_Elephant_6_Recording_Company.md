@@ -1,0 +1,1 @@
+THE ELEPHANT 6 RECORDING COMPANY (or simply ELEPHANT 6) is a collective of American musicians who spawned many notable independent bands of the 1990s, including the Apples in Stereo, the Olivia Tremor Control, Neutral Milk Hotel, Beulah, Elf Power, of Montreal, The Minders, and Circulatory System.[1] They are marked by a shared admiration of 1960s pop music.[2]

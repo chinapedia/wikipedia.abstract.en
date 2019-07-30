@@ -1,0 +1,1 @@
+SI DERIVED UNITS are units of measurement derived from the seven base units specified by the International System of Units (SI). They are either dimensionless or can be expressed as a product of one or more of the base units, possibly scaled by an appropriate power of exponentiation.

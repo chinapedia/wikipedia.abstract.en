@@ -1,0 +1,1 @@
+Dimona01.jpg DIMONA () is an Israeli city in the Negev desert, to the south of Beersheba and west of the Dead Sea above the Arava valley in the Southern District of Israel. In its population was . The Shimon Peres Negev Nuclear Research Center, colloquially known as the _Dimona Reactor_, is located southeast of the city.

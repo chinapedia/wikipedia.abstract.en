@@ -1,0 +1,1 @@
+The SEKA PAPER MUSEUM, a.k.a. SEKA MEHMET ALI KAĞITÇI PAPER MUSEUM ( or _SEKA Mehmet Ali Kağıtçı Kağıt Müzesi_), is a museum of industrial heritage in Kocaeli district (_İzmit_), northwestern Turkey. Situated in a former pulp and paper mill, it is dedicated to papermaking in Turkey. The museum was opened in 2016.[1][2]

@@ -1,0 +1,1 @@
+36_inch_reach_extender.jpg

@@ -1,0 +1,1 @@
+Magie_Faure-Vidot_(Vijay-Kumar).jpg MAGIE FAURE-VIDOT (sometimes MRS. MAGGIE VIJAY-KUMAR or MAGIC MAGS)[1] is a French-language poet from the Seychelles who has also published work in English and Seychellois Creole.[2]

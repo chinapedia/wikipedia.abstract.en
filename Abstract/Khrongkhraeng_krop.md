@@ -1,0 +1,1 @@
+_KHRONGKHRAENG KROP_ (, ) is traditional Thai dessert that is a dry, crisp favourite. It is made from dough and fried. The main ingredients are wheat flour, eggs, coconut milk, salt, sugar, vegetable oil, garlic, chili, parsley root and pepper. The taste of _khrongkhraeng krop_ is a little spicy from peppers with the scent of garlic with cilantro root.

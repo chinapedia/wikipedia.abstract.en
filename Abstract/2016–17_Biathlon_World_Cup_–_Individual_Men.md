@@ -1,0 +1,1 @@
+The 2016–17 BIATHLON WORLD CUP – INDIVIDUAL MEN started on Thursday 1 December, 2016 in Östersund and finished on Thursday 16 February, 2017 at the World Championships in Hochfilzen. The defending titlist was Martin Fourcade of France.

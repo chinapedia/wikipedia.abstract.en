@@ -1,0 +1,1 @@
+CSP MUSIC GROUP is an independent record label and artist management company based in Atlanta, GA.[1][2] Founded in 1999, it has signed, produced, engineered, managed, and/or promoted artists including Chris Brown, Amanda Cole, Jennifer Lopez, Damita Chandler, Christina Aguilera, Dawn Richard, Karlie Redd and others.

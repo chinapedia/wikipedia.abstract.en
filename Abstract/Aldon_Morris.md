@@ -1,0 +1,1 @@
+ALDON DOUGLAS MORRIS (born June 15, 1949) is an African-American professor of sociology and an award-winning scholar, with interests including social movements, civil rights, and social inequality.[1][2]

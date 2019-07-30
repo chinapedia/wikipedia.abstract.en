@@ -1,0 +1,1 @@
+The 1955 YALE BULLDOGS FOOTBALL TEAM represented Yale University in the 1955 college football season. The Bulldogs were led by fourth year head coach Jordan Olivar, played their home games at the Yale Bowl and finished the season with a 7–2 record.[1][2]

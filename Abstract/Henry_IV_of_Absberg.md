@@ -1,0 +1,1 @@
+HeinrichAbsberg.JPG (Michael Wolgemut, reproduced from Buchberger, _1200 Jahre Bistum Regensburg_ (1939:45).]] HENRY IV OF ASBERG (19 March 1409, Dornhausen - 26 July 1492) was a nobleman of the Franconian House of Absberg and clergyman. From 1465 to his death he was bishop of Regensburg.

@@ -1,0 +1,1 @@
+Curaleaf_medical_cannabis_dispensary,_Newburgh,_NY.jpg CANNABIS IN NEW YORK when containing more than 0.3% THC, is illegal for recreational use, but is permitted for medical use, and possession of small amounts is decriminalized.

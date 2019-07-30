@@ -1,0 +1,1 @@
+_TALES OF THE CHILDLESS FATHER VOL.1_ is the first solo mixtape by American underground rapper Fatt Father. It was released on October 9, 2006 via No Tyze Entertainment also as a digital album. The record features guest appearances from fellow Detroit artists such as The Rottin Club, Paradime, Big Dame, and The Fat Killahz.[1]

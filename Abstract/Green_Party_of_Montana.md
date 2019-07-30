@@ -1,0 +1,1 @@
+The MONTANA GREEN PARTY is a state-level political party affiliated with the Green Party of the United States. It formed in 2001–2002 following Ralph Nader's run for president in 2000 as the Green Party nominee. It has run candidates for president, governor, lieutenant governor, U.S. Senate and the Montana legislature.

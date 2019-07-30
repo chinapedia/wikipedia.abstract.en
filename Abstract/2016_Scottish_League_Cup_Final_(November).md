@@ -1,0 +1,1 @@
+The NOVEMBER 2016 SCOTTISH LEAGUE CUP FINAL was the 71st final of the Scottish League Cup and took place on 27 November 2016 at Hampden Park, Glasgow. The clubs contesting the final were Aberdeen and Celtic, with Celtic winning 3–0. It was their 16th League Cup triumph and the 100th major trophy in their history.[1][2][3][4]

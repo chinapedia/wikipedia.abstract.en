@@ -1,0 +1,1 @@
+PRIOR is an unincorporated community in Douglas County, Missouri.[1] The community is located on Missouri Route 95 just north of the intersection with Missouri Route 76 and 2.5 miles north of Vanzant.[2][3] The community sits on a ridge between Fox Creek to the west and Clifty Creek to the east at an elevation of .[4][5]

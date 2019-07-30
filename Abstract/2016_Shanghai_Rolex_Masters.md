@@ -1,0 +1,1 @@
+The 2016 SHANGHAI ROLEX MASTERS was a tennis tournament played on outdoor hard courts. It was the eighth edition of the Shanghai ATP Masters 1000, classified as an ATP World Tour Masters 1000 event on the 2016 ATP World Tour. It took place at Qizhong Forest Sports City Arena in Shanghai, China from October 9 to October 16, 2016.

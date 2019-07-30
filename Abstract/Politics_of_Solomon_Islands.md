@@ -1,0 +1,1 @@
+POLITICS OF SOLOMON ISLANDS takes place within the framework of a parliamentary representative democratic, constitutional monarchy. Solomon Islands is an independent Commonwealth realm, where executive power is exercised by the government. Legislative power is vested in both the government and a multi-party parliament.

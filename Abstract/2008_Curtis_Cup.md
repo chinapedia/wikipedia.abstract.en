@@ -1,0 +1,1 @@
+The 35TH CURTIS CUP MATCH was played from 30 May to 1 June 2008 on the Old Course at St Andrews, Scotland. The United States won 13 to 7.[1] This was the first Curtis Cup played over three days, including fourball matches for the first time. Stacy Lewis won all her five matches.

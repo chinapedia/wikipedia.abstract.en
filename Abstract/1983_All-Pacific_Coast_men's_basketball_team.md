@@ -1,0 +1,1 @@
+The 1983 ALL-PACIFIC COAST MEN'S BASKETBALL TEAM consists of men's basketball players chosen by various organizations for the All-Pacific Coast teams in the 1982–83 NCAA Division I men's basketball season. Below are the UPI selections.[1]

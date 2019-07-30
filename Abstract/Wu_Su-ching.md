@@ -1,0 +1,1 @@
+'''Wu Su-ching ''' (born 21 July 1970) is a Taiwanese footballer who played as a midfielder for the Chinese Taipei women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. On club level she played for Taiwan PE College in Taiwan.[1]

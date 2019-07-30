@@ -1,0 +1,1 @@
+"FAR CENTAURUS" is a science fiction short story by Canadian-American writer A. E. van Vogt, first published in _Astounding Science Fiction_ in 1944. Writer and critic P. Schuyler Miller called it "unforgettable and unforgotten."[1]

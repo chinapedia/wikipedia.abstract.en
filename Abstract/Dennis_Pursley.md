@@ -1,0 +1,1 @@
+DENNIS PURSLEY is an American swimming coach who is the current head coach of the Alabama Crimson Tide swimming and diving teams of University of Alabama.[1][2] Several athletes Pursley has coached have set world records, National records, and won medals in international competition. Pursley coaches with his wife Mary Jo, they have five children.

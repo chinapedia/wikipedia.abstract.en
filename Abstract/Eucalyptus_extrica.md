@@ -1,0 +1,1 @@
+_EUCALYPTUS EXTRICA_, commonly known as EASTERN TALLERACK,[1] is a species of mallee that is endemic in Western Australia. It has smooth bark, lance-shaped adult leaves arranged in opposite pairs, flower buds in groups of three, whitish flowers and cylindrical to barrel-shaped fruit.

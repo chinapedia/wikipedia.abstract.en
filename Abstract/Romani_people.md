@@ -1,0 +1,1 @@
+The ROMANI (also spelled ROMANY , ), colloquially known as GYPSIES or ROMA, are an Indo-Aryan ethnic group, traditionally itinerant, living mostly in Europe and the Americas and originating from the northern Indian subcontinent,[1][2] from the Rajasthan, Haryana, and Punjab regions of modern-day India.[3][4]

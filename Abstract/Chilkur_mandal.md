@@ -1,0 +1,1 @@
+CHILKUR MANDAL is one of the 23 mandals in Suryapet district of the Indian state of Telangana.[1] It is under the administration of Kodad revenue division with its headquarters at Chilkur. The mandal is bounded by Kodad mandal to the east, Huzurnagar mandal to the south, Munagala mandal to the north.

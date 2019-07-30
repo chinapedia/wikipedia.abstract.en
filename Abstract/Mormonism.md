@@ -1,0 +1,1 @@
+The_Book_of_Mormon-_An_Account_Written_by_the_Hand_of_Mormon_upon_Plates_Taken_from_the_Plates_of_Nephi.jpg MORMONISM is the predominant religious tradition of the Latter Day Saint movement of Restorationist Christianity started by Joseph Smith in Western New York in the 1820s and 30s.

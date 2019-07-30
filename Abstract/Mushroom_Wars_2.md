@@ -1,0 +1,1 @@
+_MUSHROOM WARS 2_ is a real-time strategy video game, developed and published by Zillion Whales. It is the sequel to _Mushroom Wars_, and was released on iOS and tvOS on October 13, 2016.[1] Versions for Steam, PlayStation 4, Xbox One and Android are expected to follow soon.[2]

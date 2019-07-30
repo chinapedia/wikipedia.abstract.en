@@ -1,0 +1,1 @@
+Latter-day_Saint_Scripture_Quadruple_Combination.jpg

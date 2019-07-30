@@ -1,0 +1,1 @@
+DANIELLE SIERRA KAMELA (born March 18, 1988) is an American professional wrestler and actress currently signed to WWE, where she works in their developmental territory NXT under the ring name VANESSA BORNE.

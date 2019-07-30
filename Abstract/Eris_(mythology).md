@@ -1,0 +1,1 @@
+ERIS (; , "Strife") is the Greek goddess of strife and discord. Her Roman equivalent is DISCORDIA, which means "discord". Eris's Greek opposite is Harmonia, whose Roman counterpart is Concordia.[1] Homer equated her with the war-goddess Enyo, whose Roman counterpart is Bellona. The dwarf planet Eris is named after the goddess.

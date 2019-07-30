@@ -1,0 +1,1 @@
+MOUNT TENERIFFE is a mountain located in King County of Washington state. The mountain is 1,459 meters[1] high and is located at the western edge of the Cascade Range on land managed by Mount Baker-Snoqualmie National Forest. The mountain takes its name from the island of Tenerife in Spain.[2]

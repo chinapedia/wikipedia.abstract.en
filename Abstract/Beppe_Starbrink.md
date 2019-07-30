@@ -1,0 +1,1 @@
+BEPPE BENGT ERIK STARBRINK, (born 3 April 1966) is a Swedish journalist and television presenter. He works for SVT where he presents _Go'kväll_, he has previously presented _Finns blått?_.[1][2] He has been a reporter for the shows Plus, Existens, Sverige! and for the SVT news broadcasts.[3] Starbrink grew up in Lekeryd and today lives in Umeå.[4]

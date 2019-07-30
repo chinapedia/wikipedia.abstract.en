@@ -1,0 +1,1 @@
+In the London Borough of Sutton, there are four conservation areas within the town of Sutton (among several others within the wider borough). One of these is in the town centre, while the other three are residential: _Grove Avenue_, _Landseer Road_ and the _Sutton Garden Suburb_.[1]

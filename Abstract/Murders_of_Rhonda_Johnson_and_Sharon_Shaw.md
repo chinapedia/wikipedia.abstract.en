@@ -1,0 +1,1 @@
+RHONDA RENEE JOHNSON (December 16, 1956 – August 4, 1971) and SHARON LYNN SHAW (August 11, 1957 — August 4, 1971)[1] were two teenage girls who disappeared in Harris County, Texas, on the afternoon of August 4, 1971. In early 1972, skeletal remains of both girls were discovered in and around Clear Lake near Galveston Bay.

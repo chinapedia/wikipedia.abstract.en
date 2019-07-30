@@ -1,0 +1,1 @@
+ABŪʾL-MURAJJĀ SĀLIM IBN AL-MUSTAFĀD AL-ḤAMDĀNĪ (died 1034) was the commander of Aleppo's _ahdath_ (urban militia) during the reigns of the Mirdasid emirs Salih ibn Mirdas (r. 1024/25–1029) and Nasr ibn Salih (r. 1029–1038). He was executed by the latter in 1034 for stirring a local Muslim uprising against Aleppo's vassalage to the Christian Byzantine Empire.

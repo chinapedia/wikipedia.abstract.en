@@ -1,0 +1,1 @@
+_SOME PEOPLE..._ is the ninth studio album by Australian musician, Jon English. The album was released in Australia in September 1983. Three singles were released from the album. The album peaked at number 35 on the Australian Kent Report.[1]

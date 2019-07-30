@@ -1,0 +1,1 @@
+DIONYSIUS THRAX (, 170–90 BCE) was a Hellenistic grammarian and a pupil of Aristarchus of Samothrace. He was long considered to be the author of the earliest grammatical text on the Greek language, one that was used as a standard manual for perhaps some 1,500 years, and which was until recently regarded as the groundwork of the entire Western grammatical tradition.

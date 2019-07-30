@@ -1,0 +1,1 @@
+TOULOUGES XIII PANTHERS are a French Rugby league club based in Toulouges in the southern region of Pyrenees-Orientales. The club plays in the Languedoc-Rousillon regional National Division 2 league. Home games are played at the Stade Clairfont.

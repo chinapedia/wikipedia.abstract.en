@@ -1,0 +1,1 @@
+ADDIE E. MCFARLAND HIGH SCHOOL was the segregated high school serving African American students in Mineola, Texas, from 1950 to 1965. The institution had prior been MINEOLA COLORED HIGH SCHOOL and SOUTH WARD HIGH SCHOOL.[1] Today, the building that served as Addie E. McFarland High School is now the Addie E. McFarland Community Center.

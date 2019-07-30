@@ -1,0 +1,1 @@
+_SWORDIGO_ is a 2012 action-adventure platform game created by Finnish indie studio Touch Foo. The game is similar to _Zelda II: The Adventure of Link_, _Metroid_, and _Castlevania: Symphony of the Night_.[1]

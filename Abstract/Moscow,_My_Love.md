@@ -1,0 +1,1 @@
+_MOSCOW, MY LOVE_ (, ) is a 1974 Soviet-Japanese romantic drama directed by Aleksandr Mitta and Kenji Yoshida.[1][2] The film tells the story of Yuriko, a girl from Hiroshima who comes to Moscow to study ballet. The film's title is a reference to the Alain Resnais film _Hiroshima My Love_.

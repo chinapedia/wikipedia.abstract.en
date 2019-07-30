@@ -1,0 +1,1 @@
+FUEGO ESPAÑA F.C. also known as FUEGO ESPANYA F.C. is a Philippine football club which played at the PFF Women's League, the top women's football league in the Philippines. Fuego España is the alumni football club of the University of Santo Tomas.[1]

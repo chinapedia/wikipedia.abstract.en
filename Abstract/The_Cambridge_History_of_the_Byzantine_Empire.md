@@ -1,0 +1,1 @@
+The_Cambridge_History_of_the_Byzantine_Empire.jpg _THE CAMBRIDGE HISTORY OF THE BYZANTINE EMPIRE C.500-1492_ is a history of the Byzantine Empire published by Cambridge University Press in 2009. It was edited by Jonathan Shepard of the University of Cambridge.[1]

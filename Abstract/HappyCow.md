@@ -1,0 +1,1 @@
+HAPPYCOW is an online service that lists sources of vegan, vegetarian and healthy food. Access is free to users, who can also provide content. From the original restaurant listings and reviews, HappyCow has expanded to feature information on recipes, travel, health, and other topics.

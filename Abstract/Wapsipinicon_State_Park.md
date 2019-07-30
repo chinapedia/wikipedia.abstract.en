@@ -1,0 +1,1 @@
+WAPSIPINICON STATE PARK is located south of Anamosa, Iowa, United States. The park is along the sandstone and limestone bluffs of the Wapsipinicon River, from which it derives its name. It is one of the oldest state parks in Iowa, and it was listed as a historic district on the National Register of Historic Places in 2014.[1]

@@ -1,0 +1,1 @@
+Prevailing_world_religions_map.png A SECT is a subgroup of a religious, political, or philosophical belief system, usually an offshoot of a larger group. Although the term was originally a classification for religious separated groups, it can now refer to any organization that breaks away from a larger one to follow a different set of rules and principles.

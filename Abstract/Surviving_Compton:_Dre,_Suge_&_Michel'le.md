@@ -1,0 +1,1 @@
+_SURVIVING COMPTON: DRE, SUGE & MICHEL'LE_ is a 2016 American biographical television drama film directed by Jackie Cooke and starring Rhyon Nicole Brown as Michel'le and Jamie Kennedy as N.W.A.'s manager Jerry Heller. The film is based on the true story of R&B singer, Michel'le. It premiered on Lifetime on October 15, 2016.

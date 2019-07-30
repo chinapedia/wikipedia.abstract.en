@@ -1,0 +1,1 @@
+The GREEK SENIORS OPEN was an over-50s men's professional golf tournament on the European Seniors Tour that was played at Glyfada Golf Club of Athens, Glifada in Athens from 1999 to 2001. The 2001 event was won by Russell Weir, his only win on the Seniors Tour.[1]

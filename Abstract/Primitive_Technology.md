@@ -1,0 +1,1 @@
+PRIMITIVE TECHNOLOGY is a YouTube channel run by JOHN PLANT. Based in Far North Queensland, Australia, the series demonstrates the process of making tools and buildings using only materials found in the wild. Created in May 2015, the channel has gained over 9.5 million subscribers and over 700 million views as of June 2019.

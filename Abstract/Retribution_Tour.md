@@ -1,0 +1,1 @@
+The _RETRIBUTION TOUR_ was a 2005 concert tour by British heavy metal band, Judas Priest, which was in support of the album, _Angel of Retribution_. It ran from 23 February 2005 until 3 December 2005.

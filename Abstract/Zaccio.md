@@ -1,0 +1,1 @@
+ZACCIO (foaled March 26, 1976-died September 19, 2007) is a deceased racehorse best known for winning champion steeplechaser 3 times from 1980-1982 and being inducted into the National Museum of Racing and Hall of Fame.

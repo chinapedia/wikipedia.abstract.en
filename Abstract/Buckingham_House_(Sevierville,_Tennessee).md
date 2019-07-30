@@ -1,0 +1,1 @@
+The BUCKINGHAM HOUSE is a historic brickhouse in Sevierville, Tennessee, U.S.. Built in 1795 by Thomas Buckingham, the first sheriff of Sevier County, it is the oldest house in the county. It was designed in the Federal architectural style. It is listed on the National Register of Historic Places.

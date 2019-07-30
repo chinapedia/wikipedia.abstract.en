@@ -1,0 +1,1 @@
+WILLIAM ARCHER (born EYRE; 4 June 1677 – 30 June 1739), of Coopersale, in Theydon Garnon, Essex, and Welford Park, Berkshire, was an English lawyer and Tory politician who sat in the House of Commons from 1734 to 1739.

@@ -1,0 +1,1 @@
+In linguistics, a COPULA (plural: COPULAS or COPULAE; abbreviated ) is a term for a word that links the subject of a sentence to a subject complement, such as the word _is_ in the sentence "The sky IS blue." The word _copula_ derives from the Latin noun for a "link" or "tie" that connects two different things.[1]

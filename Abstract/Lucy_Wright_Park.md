@@ -1,0 +1,1 @@
+LUCY WRIGHT PARK is a 4.48 acres park in the town of Waimea. The park is named after Lucy Wright, a prominent member of the Waimea community and the first native Hawaiian schoolteacher. Lucy Wright Park is on the southeast side of the mouth of the Waimea River. The Cook Landing Site is accessible from the park.

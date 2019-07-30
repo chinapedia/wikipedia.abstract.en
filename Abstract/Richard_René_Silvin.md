@@ -1,0 +1,1 @@
+RICHARD RENÉ SILVIN (born May 16, 1948) is an American retired corporate executive, turned author and lecturer, who is best known as an expert on Wallis Simpson, the Duchess of Windsor, Palm Beach society architect, Addison Mizner, the 1930s French Line flagship, SS Normandie, and the history of Mar-a-Lago.

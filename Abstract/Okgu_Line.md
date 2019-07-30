@@ -1,0 +1,1 @@
+OKGU LINE(, ) is a cargo branch line from Gunsan Hwamul Line, connecting from Gunsan Hwamul Station to Okgu Station. Okgu line is registered in distance post,[1] but suspended as cargo or passenger transportation several years ago[2] This line was virtually closed status, but April 1, 2011, resumed cargo transport.[3]

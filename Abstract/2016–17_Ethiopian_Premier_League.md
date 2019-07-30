@@ -1,0 +1,1 @@
+The 2016–17 ETHIOPIAN PREMIER LEAGUE is the 70th season of top-tier football in Ethiopia as well as the 19th season of the Premier League. The season began play on 12 November 2016.[1] Saint George SC are the defending champions, having won their 25th championship.

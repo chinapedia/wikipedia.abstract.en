@@ -1,0 +1,1 @@
+UBS SECURITIES CO., LTD. is a Chinese investment bank and brokerage firm that affiliated to Swiss investment bank UBS, which was the second largest shareholder for 24.99% stake. (or the third if considering central government-owned China Guodian and COFCO Group were one entity).

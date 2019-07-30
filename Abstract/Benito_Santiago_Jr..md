@@ -1,0 +1,1 @@
+BENITO SANTIAGO JR. (born June 22, 1989) is a Puerto Rican professional basketball player who currently plays for the Vaqueros de Bayamón in the Baloncesto Superior Nacional (BSN), the top tier basketball league in the country. He played college basketball for Cumberlands. He is a former baseball player.

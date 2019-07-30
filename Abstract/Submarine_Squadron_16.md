@@ -1,0 +1,1 @@
+SUBMARINE SQUADRON 16 is a United States Navy unit that served in World War II and the Cold War before being deactivated in the 1990s. It was reactivated in 1997 and now is responsible for the maintenance and operation of two guided-missile submarines (SSGNs) and one ballistic-missile submarine (SSBN) based in Kings Bay, Georgia.

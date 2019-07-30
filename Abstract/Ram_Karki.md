@@ -1,0 +1,1 @@
+RAM KARKI (), (born 14 October 1956) also known as SURENDRA KUMAR KARKI, is a Nepali atheist[1] and politician belonging to the Communist Party of Nepal (Maoist). As of August 2016 he is the minister for Information and Communications of Nepal.

@@ -1,0 +1,1 @@
+LUDWIK LEJZER ZAMENHOF ( – ),[1] often credited as L. L. ZAMENHOF, was a Polish ophthalmologist and the inventor of the international language Esperanto, the most widely-used constructed international auxiliary language in the world.[2]

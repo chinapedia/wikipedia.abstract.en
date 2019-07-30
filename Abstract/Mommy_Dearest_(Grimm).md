@@ -1,0 +1,1 @@
+"MOMMY DEAREST" is the 14th episode of season 3 of the supernatural drama television series _Grimm_ and the 58th episode overall, which premiered on March 7, 2014, on the broadcast network NBC. The episode was written by Brenna Kouf, and was directed by Norberto Barba.

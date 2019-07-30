@@ -1,0 +1,1 @@
+The UNIVERSITIES AND COLLEGES BASKETBALL LEAGUE (UCBL) is a collegiate basketball tournament based in the Philippines, which was established in 2016. The inaugural season of the UCBL officially opened on October 8, 2016 with seven competing schools from Metro Manila and nearby provinces competing in the tournament.[1]

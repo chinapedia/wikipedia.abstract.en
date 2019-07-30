@@ -1,0 +1,1 @@
+STRIXOLOGY is a genre of writing about the reality and dangers of witches, their origins, character and power; often in the context of theology or of demonology. (The Latin word _strix_ can mean "screech-owl" or "witch".[1])

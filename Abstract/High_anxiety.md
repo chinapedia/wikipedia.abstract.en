@@ -1,0 +1,1 @@
+HIGH ANXIETY is a non-technical term referring to a state of extreme fear or apprehension. It may also mean:

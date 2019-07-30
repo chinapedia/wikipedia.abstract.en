@@ -1,0 +1,1 @@
+HERBERT JUSTIN KNEESHAW (1883–1955) was an English professional footballer who played as a goalkeeper. He made over 100 appearances for Cardiff City during a 12-year spell at the side and later became a coach at the club.

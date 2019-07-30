@@ -1,0 +1,1 @@
+ROUNDUP is an unincorporated community located in northeastern Hockley County. The town is located on the high plains of the Llano Estacado at the intersection of U.S. Route 84 and Farm to Market Road 2130 between Anton and Shallowater.

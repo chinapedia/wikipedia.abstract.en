@@ -1,0 +1,1 @@
+is a Japanese dish of prepared , usually with some sugar and salt, accompanying a variety of , such as seafood, vegetables, and occasionally tropical fruits. Styles of sushi and its presentation vary widely, but the one key ingredient is "sushi rice", also referred to as , or .

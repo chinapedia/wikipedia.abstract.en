@@ -1,0 +1,1 @@
+SUPERSTITION MEADERY is a meadery, winery and cider house[1] founded in 2012 and based in Prescott, Arizona.[2] As of 2016 they produce 6,000 gallons a year.[3] They won four gold medals and one silver at the 2016 Mazer Cup International mead competition.[4][5] Availability is localized to Arizona, with limited distribution worldwide in Denmark, Thailand, Japan, and Singapore.[6]

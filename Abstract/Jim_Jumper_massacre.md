@@ -1,0 +1,1 @@
+The JIM JUMPER MASSACRE, or BLUEFIELDS MASSACRE was an incident in 1889 at a Seminole Indian camp northeast of Lake Okeechobee, in St. Lucie County, Florida, United States, in which Jim Jumper, a bi-racial Seminole, killed several Seminoles, and was then killed by another Seminole.

@@ -1,0 +1,1 @@
+ANDREA CAROLINA OLAYA GUTIÉRREZ (born December 9, 1994) is a Colombian freestyle wrestler. She competed in the women's freestyle 75 kg event at the 2016 Summer Olympics, in which she was eliminated in the round of 16 by Adeline Gray.[1][2]

@@ -1,0 +1,1 @@
+Marie_Françoise_Ouedraogo_-_Photo1_Wiki.jpg MARIE FRANÇOISE OUEDRAOGO (born 3 December 1967) is a Burkinabé mathematician. She has previously served in government as permanent secretary of the national policy of good governance.

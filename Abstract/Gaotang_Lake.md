@@ -1,0 +1,1 @@
+GAOTANG LAKE is a shallow freshwater lake in China's Anhui province, on the borders of Huainan, Dingyuan County and Fengyang County. The lake is intensively used for aquaculture (black carp among others).[1]

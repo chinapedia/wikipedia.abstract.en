@@ -1,0 +1,1 @@
+ARGO is an unincorporated community in northwest Crawford County, in the U.S. state of Missouri.[1] The community is on a ridge northwest of the Little Bourbeuse River. The site is located on Missouri Route C about five miles northwest of Bourbon and Interstate 44.[2]

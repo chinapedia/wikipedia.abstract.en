@@ -1,0 +1,1 @@
+CHAPEL is an unincorporated community in northeastern Howell County, in the U.S. state of Missouri.[1] The community is located on county road 2680 east of Missouri Route W and about four miles south-southeast of Mountain View. The Chapel Hill Church and historic school lie just west of Route W.[2]

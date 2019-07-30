@@ -1,0 +1,1 @@
+Liberia requires its residents to register their motor vehicles and display VEHICLE REGISTRATION PLATES.[1] Nigeria and Liberia are the only two African countries that use the North American standard 6 × 12 inches (152 × 300 mm).

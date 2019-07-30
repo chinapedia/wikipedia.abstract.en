@@ -1,0 +1,1 @@
+JAMES DUTTON is an English actor.[1] He notably played Captain F. J. Roberts in the world premiere of The Wipers Times at the Watermill Theatre. Written by Ian Hislop and Nick Newman and produced by Academy Award winner David Parfitt the production transferred to the West End and opened at the Arts Theatre in 2017.[2][3][4][5][6][7][8][9][10][11][12][13]

@@ -1,0 +1,1 @@
+COUNTRY SCHOOL is a 1931 animated short film by Walter Lantz Productions and stars Oswald the Lucky Rabbit. The soundtrack of the cartoon was missing for many years, until the discovery of a sound print in 2015.

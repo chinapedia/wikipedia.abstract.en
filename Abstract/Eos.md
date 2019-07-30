@@ -1,0 +1,1 @@
+In Greek mythology, EOS (; Ionic and Homeric Greek _Ēōs_, Attic _Éōs_, "dawn", or ; Aeolic _Aúōs_, Doric _Āṓs_) is a Titaness and the goddess[1] of the dawn, who rose each morning from her home at the edge of the Oceanus.

@@ -1,0 +1,1 @@
+_HOT WHEELS ULTIMATE RACING_ is a 2007 racing video game developed by Italian company Raylight Studios and published by DSI Games for the PlayStation Portable (PSP) exclusively. The game is based on the Hot Wheels toy line which manufactured by Mattel.

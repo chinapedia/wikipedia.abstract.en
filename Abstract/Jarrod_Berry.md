@@ -1,0 +1,1 @@
+JARROD BERRY (born 5 February 1998) is a professional Australian rules footballer playing for the Brisbane Lions in the Australian Football League (AFL). He was drafted by Brisbane with their second selection and seventeenth overall in the 2016 national draft.[1] He made his debut in the thirty-one point loss against at Etihad Stadium in round three of the 2017 season.[2]

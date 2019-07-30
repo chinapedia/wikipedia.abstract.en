@@ -1,0 +1,1 @@
+VELJKO ĐURIĆ MIŠINA (; born 8 January 1953) is a Serbian historian, specializing in the history of the Serbian Orthodox Church, genocides and the Holocaust, and modern history of the Western Balkans. He is currently the director at the Museum of Genocide Victims in Belgrade.

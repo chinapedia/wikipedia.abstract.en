@@ -1,0 +1,1 @@
+Senedu_Gebru_fair_use.jpg WOIZERO SENEDU GEBRU (ሰንዱ ገብሩ) (13 January 1916 – 20 April 2009) was an Ethiopian educator, writer and politician. In 1957, she became the first Ethiopian woman elected to Parliament.

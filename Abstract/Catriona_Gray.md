@@ -1,0 +1,1 @@
+CATRIONA ELISA MAGNAYON GRAY (born 6 January 1994) is a Filipino-Australian model, singer, and beauty pageant titleholder who was crowned Miss Universe 2018. She is the fourth Filipina to win the pageant. Previously, Gray was crowned Miss Universe Philippines 2018[1] and Miss World Philippines 2016.[2]

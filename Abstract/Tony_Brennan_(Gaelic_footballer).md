@@ -1,0 +1,1 @@
+ANTHONY "TONY" BRENNAN (born 1944) is an Irish retired Gaelic football selector and former player. His league and championship career with the Meath senior team spanned nine seasons from 1965 until 1973.

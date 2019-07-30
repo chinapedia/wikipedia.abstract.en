@@ -1,0 +1,1 @@
+KIRILL SAMUSENKO (born 8 May 1992)[1] is a Russian male track cyclist, representing Russia at international competitions. He competed at the 2016 UEC European Track Championships in the team sprint event.[2]

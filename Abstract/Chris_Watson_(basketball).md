@@ -1,0 +1,1 @@
+CHRIS WATSON (born July 16, 1975) is an American–Israeli basketball player, who has played on the Israel national basketball team, and whose positions have been power forward and center.[1][2][3] He is 6' 7" (200 cm) tall.[4][5]

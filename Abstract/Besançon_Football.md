@@ -1,0 +1,1 @@
+BESANÇON FOOTBALL is a French football club based in Besançon. They play at the Stade Léo Lagrange and are currently playing in the Championnat National 3, the fifth tier in the French football league system.

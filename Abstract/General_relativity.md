@@ -1,0 +1,1 @@
+BBH_gravitational_lensing_of_gw150914.webm GW150914 as seen by a nearby observer, during 0.33 s of its final inspiral, merge, and ringdown. The star field behind the black holes is being heavily distorted and appears to rotate and move, due to extreme gravitational lensing, as spacetime itself is distorted and dragged around by the rotating black holes.[1]]]

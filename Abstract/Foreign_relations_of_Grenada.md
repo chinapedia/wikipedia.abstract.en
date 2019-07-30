@@ -1,0 +1,1 @@
+The United States, Venezuela, Cuba, and the People's Republic of China have embassies in Grenada. Grenada has been recognized by most members of the United Nations and maintains diplomatic missions in the United Kingdom, the United States, Venezuela, and Canada.

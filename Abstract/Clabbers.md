@@ -1,0 +1,1 @@
+CLABBERS is a game played by tournament Scrabble players for fun, or occasionally at Scrabble variant tournaments. The name derives from the fact that the words CLABBERS and SCRABBLE form an anagram pair.

@@ -1,0 +1,1 @@
+HANIF (Arabic: حنيف) is an Arabic masculine given name, which means a righteous person or a true believer.[1] The origin of the word is uncertain,[2] although it is generally agreed that it is derived from the Syriac word _hanpe_, which means 'heathen'.

@@ -1,0 +1,1 @@
+The BLUE WHALE (_Balaenoptera musculus_) is a marine mammal belonging to the baleen whale parvorder, Mysticeti.[1] At up to [2] in length and with a maximum recorded weight of ,[3] it is the largest animal known to have ever existed.[4][5]

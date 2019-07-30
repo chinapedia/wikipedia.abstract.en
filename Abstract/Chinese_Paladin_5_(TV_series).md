@@ -1,0 +1,1 @@
+_CHINESE PALADIN 5_ (Chinese: 仙剑云之凡) is a 2016 Chinese television series adapted from the action role-playing game of the same name by Softstar Entertainment. The series is produced by Chinese Entertainment Shanghai and stars Elvis Han, Guli Nazha, Joe Cheng, Yang Caiqi, Gina Jin and Geng Le. It was first aired on Hunan TV from 23 May to 19 July 2016.[1][2]

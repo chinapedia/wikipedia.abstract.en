@@ -1,0 +1,1 @@
+Inca_Quipu.jpg from the Inca Empire, currently in the Larco Museum Collection.]] Alexander_cuts_the_Gordian_Knot.jpg cuts the Gordian Knot'', by Jean-Simon Berthélemy (1743–1812)]] Gordischer_Knoten_Frechen_Kirilowitsch.jpg Magimagi_-_Mainbeam.jpg sennit of Fiji around wooden ceiling posts.]] Teton_tipi_tie.jpg "Teton" tipi tie[1]]]

@@ -1,0 +1,1 @@
+SEFO KAUTAI (born 16 August 1996) is a New Zealand rugby union player who currently plays as a tighthead prop for in New Zealand's domestic Mitre 10 Cup and for the in the international Super Rugby competition.[1][2][3]

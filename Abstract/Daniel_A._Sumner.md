@@ -1,0 +1,1 @@
+DANIEL ALAN SUMNER is an American economist, currently the Frank H. Buck, Jr. Distinguished Professor and Director of the University of California, Agricultural Issues Center at University of California, Davis.[1] He is also a publisher author.[2][3]

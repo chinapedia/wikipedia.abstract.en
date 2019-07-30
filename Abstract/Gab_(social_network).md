@@ -1,0 +1,1 @@
+GAB is an English-language social media website known for its far-right user base. The site has been widely described as a "safe haven"[1] for extremists including neo-Nazis, white supremacists, and the alt-right.[2]

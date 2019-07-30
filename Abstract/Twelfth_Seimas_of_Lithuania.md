@@ -1,0 +1,1 @@
+The TWELFTH SEIMAS OF LITHUANIA is a parliament (Seimas) in Lithuania. Elections took place on 9 October 2016, with the run-off on 23 October. The Seimas commenced its work on 14 November 2016 and is serving a four-year term.

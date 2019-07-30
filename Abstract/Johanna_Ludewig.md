@@ -1,0 +1,1 @@
+JOHANNA LUDEWIG (28 March 1891 – 11 July 1958) was a German politician (SPD, KPD). As a member of the Prussian parliament between 1921 and 1933 she was particularly active in the Communist Women's movement. During 1944 she survived approximately three weeks as an internee in the Ravensbrück concentration camp.[1]

@@ -1,0 +1,1 @@
+_QUANTA MAGAZINE_ is an editorially independent[1] online publication of the Simons Foundation covering developments in mathematics, theoretical physics, theoretical computer science and the basic life sciences.

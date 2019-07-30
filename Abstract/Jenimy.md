@@ -1,0 +1,1 @@
+JENIMY CRAVID SACRAMENTO DE SOUSA (born 20 February 1987), simply known as JENIMY, is a São Toméan footballer who plays as a goalkeeper for Northern Irish club Sofia Farmer and the São Tomé and Príncipe national team. He also holds Portuguese citizenship.

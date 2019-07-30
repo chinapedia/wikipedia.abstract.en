@@ -1,0 +1,1 @@
+CHAN KING-MING (; born 17 March 1954) is a Hong Kong swimmer who represented the Republic of China (Taiwan) in international competition. He competed in two events at the 1968 Summer Olympics.[1] He later competed in swimming at the 1970 Asian Games.[2]

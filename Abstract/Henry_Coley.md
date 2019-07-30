@@ -1,0 +1,1 @@
+Henry_Coley._Line_engraving_by_R._White,_1676,_after_himself_Wellcome_V0001188.jpg (1676)]] HENRY COLEY (18 October 1633 – 30 April 1704) was an astrologer and mathematician, and amanuensis of William Lilly.

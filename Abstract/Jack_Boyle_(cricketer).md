@@ -1,0 +1,1 @@
+JACK BOYLE (born 24 March 1996) is a New Zealand cricketer.[1] He made his first-class debut for Canterbury on 22 November 2016 in the 2016–17 Plunket Shield season.[2] He made his List A debut for Canterbury on 15 January 2017 in the 2016–17 Ford Trophy.[3]

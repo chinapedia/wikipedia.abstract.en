@@ -1,0 +1,1 @@
+JOHN B. AND ELIZABETH RUTHVEN HOUSE, also known as the WEHMEYER HOUSE and RUTHVEN-WEHMEYER HOUSE, is a historic home located at Jefferson City, Cole County, Missouri. It was built about 1879, and is a one-story, five bay, Missouri-German Vernacular brick dwelling. It has a hipped roof, arched brick lintels, and an original rear ell.[1]

@@ -1,0 +1,1 @@
+MALANPU RAILWAY STATION is a small railway station in Bhind district, Madhya Pradesh. Its code is MLAR. It serves Industrial Area of Malanpur. The station consists of two platforms. The platforms are not well sheltered. It lacks many facilities including water and sanitation.[1][2][3]

@@ -1,0 +1,1 @@
+RESHMA QURESHI is an Indian model, vlogger, and anti-acid activist. In India, she is the face of Make Love Not Scars. Her foray into modeling in the United States came when she walked the catwalk for Archana Kochhar at the 2016 New York Fashion Week.

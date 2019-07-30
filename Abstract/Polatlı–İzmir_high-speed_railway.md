@@ -1,0 +1,1 @@
+The POLATLI–İZMIR HIGH-SPEED RAILWAY is a long high-speed railway currently under construction in Turkey. Once completed, it will be the longest high-speed railway in the country, surpassing the Istanbul-Ankara HSR which holds the title since 2009.

@@ -1,0 +1,1 @@
+FREDERICK GILBERT KING (1866–1920)[1] was a mining engineer[2] and a pioneer in California's burgeoning oil, copper and natural gas industries during the late-19th and early 20th centuries. King was considered "one of the best-known oil men in the west" at the time.[3] He was known for founding the Boston Pacific Oil Company (based in San Francisco, California).[4][5][6]

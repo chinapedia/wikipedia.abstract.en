@@ -1,0 +1,1 @@
+COMBATING CORRUPTION is a Federal law of the Russian Federation that took effect on January 10, 2009. It establishes basic principles of combating corruption as well as the legal and organizational frameworks for preventing and fighting corruption. The law also seeks to minimize the consequences of corrupt offenses.

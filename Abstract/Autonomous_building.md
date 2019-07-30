@@ -1,0 +1,1 @@
+An AUTONOMOUS BUILDING is a building designed to be operated independently from infrastructural support services such as the electric power grid, gas grid, municipal water systems, sewage treatment systems, storm drains, communication services, and in some cases, public roads.

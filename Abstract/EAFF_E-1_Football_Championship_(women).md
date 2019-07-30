@@ -1,0 +1,1 @@
+EAFF E-1 FOOTBALL CHAMPIONSHIP is an international football competition in East Asia for national teams of the East Asian Football Federation (EAFF). The competition between women's national teams is held alongside men's competition.

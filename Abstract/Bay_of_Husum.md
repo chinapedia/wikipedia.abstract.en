@@ -1,0 +1,1 @@
+Wasserkoog_Tetenbüll_Deich_Schafe_Küstenschutz_20.08.2011_17-27-45.jpg The BAY OF HUSUM, HUSUM BIGHT or HUSUM BAY () is a bay on the North Sea coast of the German state of Schleswig-Holstein. Its German name is used for the marketing the holiday region around the town of Husum.

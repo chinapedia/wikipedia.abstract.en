@@ -1,0 +1,1 @@
+WALTER H. "BARNEY" REYNOLDS (January 22, 1901[1] – April 7, 1987[2]), served seven consecutive terms as 30th Mayor of Providence, Rhode Island, totaling fourteen years of service.[3] He served from 1951 until 1965.

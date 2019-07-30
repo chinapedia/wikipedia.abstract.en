@@ -1,0 +1,1 @@
+In poker, a STARTING HAND is the initial set of cards dealt to a player before any voluntary betting takes place. For example, in seven-card stud this is two downcards and one upcard, in Texas hold 'em it is two downcards, and in five-card draw it is five cards.

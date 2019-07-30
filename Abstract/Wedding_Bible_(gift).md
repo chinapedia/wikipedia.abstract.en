@@ -1,0 +1,1 @@
+A WEDDING BIBLE is a Bible either used for officiating in some wedding ceremonies,[1] or a special edition gift presented to the couple. Oxford University Press produced _The Oxford Wedding Bible_ in 2003.[2][3]

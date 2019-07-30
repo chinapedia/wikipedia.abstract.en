@@ -1,0 +1,1 @@
+_THE DEMON OF BROWNSVILLE ROAD_ is a book by Bob Cranmer and Erica Manfred, published in August 2014. The story is also the basis of a series of television documentaries and dramatizations released between 2011 and 2016. The book is claimed to be based on the paranormal experiences of the Cranmer family, with Bob Cranmer telling the first-person account.[1]

@@ -1,0 +1,1 @@
+CHRISTINE MICHELLE METZ (born September 29, 1980)[1] is an American actress and singer. She is known for playing Kate Pearson in the NBC drama _This Is Us_, for which she has earned Best Supporting Actress nominations at the Primetime Emmy Awards (2017) and Golden Globe Awards (2017 and 2018).

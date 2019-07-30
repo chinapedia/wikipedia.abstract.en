@@ -1,0 +1,1 @@
+Ethnographic_distribution_in_Cyprus_1960.jpg

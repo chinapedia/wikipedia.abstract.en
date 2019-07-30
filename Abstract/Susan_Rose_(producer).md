@@ -1,0 +1,1 @@
+SUSAN R. ROSE (born 1956) is a Tony award winning theatrical and film producer. Rose is most famous as Broadway's youngest producer; she was 25 when she produced _Joseph and the Amazing Technicolor Dreamcoat_.[1] She also produced the musical _The Last Five Years_. She is a producer of THE BAND'S VISIT, winner of 10 Tony Awards including the Tony for Best Musical 2018.

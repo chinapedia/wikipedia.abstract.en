@@ -1,0 +1,1 @@
+'''Sin Kum-ok ''' (born 25 November 1975) is a North Korean women's international footballer who plays as a defender. She is a member of the North Korea women's national football team. She was part of the team at the 2003 FIFA Women's World Cup.[1]

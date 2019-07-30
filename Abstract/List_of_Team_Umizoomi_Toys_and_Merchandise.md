@@ -1,0 +1,1 @@
+Fisher Price released the first official "Team Umizoomi" toys in early 2012. The first products available included plush dolls, bath toys, and figurines featuring characters, vehicles and the UmiPhone from the show.[1]

@@ -1,0 +1,1 @@
+CATHOLIC UNIVERSITY OF TACHIRA (_Universidad Católica del Táchira_ – UCAT) in San Cristobal, capital of Tachira state in Venezuela, originated in 1962 as an extension of Andrés Bello Catholic University of the Society of Jesus.

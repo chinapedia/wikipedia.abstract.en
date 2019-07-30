@@ -1,0 +1,1 @@
+The INSTITUTE FOR WORK & HEALTH (IWH) is an independent, not-for-profit research organization based in Toronto, Canada. Its mission is to “promote, protect and improve the safety and health of working people by conducting actionable research that is valued by employers, workers, and policy-makers.”[1]

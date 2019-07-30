@@ -1,0 +1,1 @@
+AVERY ALISON KELLY, FSA, (17 October 1913 – 15 August 2016) was an English art historian who was an authority on Coade stone and Wedgwood pottery. During the Second World War she designed camouflage for the home front and later she lectured in London on the fine arts and wrote several books on Wedgwood.

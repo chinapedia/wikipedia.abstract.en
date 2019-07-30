@@ -1,0 +1,1 @@
+_GORDONIA KROPPENSTEDTII_ is a bacterium from the genus of Gordonia which has been isolated from polluted stream in Gumi in Korea.[1][2][3] _Gordonia kroppenstedtii_ has the ability to degrade phenol.[4][5]

@@ -1,0 +1,1 @@
+_PATH OF EIGHT_ is the fifth studio album by the atmospheric sludge metal band Mouth of the Architect. Recorded over a weekend at the bands’ rehearsal space in Dayton, OH, it was released on Translation Loss Records on 7 October 2016.[1]

@@ -1,0 +1,1 @@
+Grandes_Heures_du_duc_de_Berry_(BNF_latin919)_-_Calendrier_Décembre_(f.6v).jpg The PSEUDO-JACQUEMART (or PSEUDO-JACQUEMART DE HESDIN) was an anonymous master illuminator active in Paris and Bourges between 1380 and 1415. He owed his name to his close collaboration with painter Jacquemart de Hesdin.

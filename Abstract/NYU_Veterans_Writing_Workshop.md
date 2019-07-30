@@ -1,0 +1,1 @@
+The NYU VETERANS WRITING WORKSHOP at New York University in Manhattan, New York is a free, non-partisan outreach program offered to the veteran community in and around New York City[1] and is considered by some as the pre-eminent writing workshop for veterans.[2]

@@ -1,0 +1,1 @@
+AHMAD NATABAYA, also known as HAS NATABAYA, is a former judge of the Constitutional Court of Indonesia.[1] He completed his Bachelor of Law degree at Sriwijaya University in Palembang in 1967, his master's degree at Indiana University Robert H. McKinney School of Law in 1981, and then returned to Sriwijaya where he taught as a professor of law.[2] He has two children.[3]

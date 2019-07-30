@@ -1,0 +1,1 @@
+_VÅRNATT_ (Spring Night) is a Norwegian film from 1976 directed by Erik Solbakken.[1][2] Solbakken also wrote the script, which was based on Tarjei Vesaas's 1954 novel _Spring Night_.[3] Olav Dalgard was the script consultant.

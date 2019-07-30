@@ -1,0 +1,1 @@
+The WILLOW was a 2-Seat Sports Car kit produced by Seltzer Motor Industries, Chatsworth, California. It is known to be the first transverse, inline 4-cylinder, mid-engined kit car ever offered to the public.[1]

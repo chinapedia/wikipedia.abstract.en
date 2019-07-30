@@ -1,0 +1,1 @@
+JOSEPH EMMANUEL ARINZE ERIOBU (born February 12, 1992) is a Filipino-Nigerian basketball player for the Blackwater Elite of the Philippine Basketball Association (PBA).[1] He was drafted 4th overall by the Mahindra Floodbuster in the 2016 PBA draft.[2][3]

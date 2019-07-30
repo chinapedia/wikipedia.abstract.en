@@ -1,0 +1,1 @@
+VALUDAMBATTU is a large village located in Kurinjipadi of Cuddalore district, Tamil Nadu with total 2157 families residing. The Valudambattu village has population of 8900 of which 4553 are males while 4347 are females as per Population Census 2011.

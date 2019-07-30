@@ -1,0 +1,1 @@
+_FOLLIES GIRL_ is a 1943 American musical comedy film directed by William Rowland and starring Wendy Barrie, Doris Nolan and Gordon Oliver. It was made by the poverty row studio Producers Releasing Corporation. Much of the film takes place in or around a burlesque house.[1] It was the final film appearance of Barrie apart from a cameo role in _It Should Happen to You_.

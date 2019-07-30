@@ -1,0 +1,1 @@
+The LIGHT HORSE & FIELD ARTILLERY MUSEUM is an Australian military museum located approximately 40 minutes East of Melbourne in Nar Nar Goon, Victoria.[1] It contains a number of exhibits of military items including gun carriages and cooking wagons restored by owner Bernie Dingle.[2] It also has a number of animals, including horses used in Anzac Day marches.

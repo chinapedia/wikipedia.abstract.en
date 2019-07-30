@@ -1,0 +1,1 @@
+MAASTRICHT (, also ,[1][2][3] ;[4] Limburgish : ; ; ) is a city and a municipality in the southeast of the Netherlands. It is the capital and largest city of the province of Limburg. Maastricht is located on both sides of the Meuse (Dutch: _Maas_), at the point where the Jeker joins it. It is adjacent to the border with Belgium.

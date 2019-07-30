@@ -1,0 +1,1 @@
+AMOS GRODZINOWSKY (also "GRODZINOWSKY" and "GROZHINOWSKI"; עמוס גרודז'ינובסקי; born June 3, 1940) is an Israeli former Olympic runner.[1] He was the Israeli Men's Champion in the 100 metres in 1960, and in the 200 metres in 1962 and 1963.

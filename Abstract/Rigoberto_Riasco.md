@@ -1,0 +1,1 @@
+RIGOBERTO RIASCO (born January 11, 1953) also known as "Little Poison", was a Panamanian professional boxer who competed from 1968 to 1982. He was the Lineal and WBC Super bantamweight champion in 1976. Riasco defeated such men as Dong Kyun Yum, Leonel Hernandez, Rafael Ortega, Waruinge Nakayama, Luis Avila, Santos Luis Rivera, Seiji "Flipper" Uehara and Sanjo Takemori.[1]

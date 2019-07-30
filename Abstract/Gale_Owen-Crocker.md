@@ -1,0 +1,1 @@
+GALE OWEN-CROCKER (born 16 January 1947) is a Professor Emerita of the University of Manchester, England. Before her retirement she was Professor of Anglo-Saxon Culture and Director of the Manchester Centre for Anglo-Saxon Studies.

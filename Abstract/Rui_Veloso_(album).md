@@ -1,0 +1,1 @@
+_RUI VELOSO_ (literally the "marginal protector") was Rui Veloso's fourth album released on EMI Portugal in late 1986.[1] It is a homonymous album. His next release was a live album titled _Rui Veloso Ao Vivo_ released three years later, his next studio album would be _Mingos & Os Samurais_ released five years later.

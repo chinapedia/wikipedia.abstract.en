@@ -1,0 +1,1 @@
+Hydrogen_Density_Plots.pngs of the electron in a hydrogen atom at different energy levels. Quantum mechanics cannot predict the exact location of a particle in space, only the probability of finding it at different locations.[1] The brighter areas represent a higher probability of finding the electron.]]

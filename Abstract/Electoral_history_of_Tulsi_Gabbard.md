@@ -1,0 +1,1 @@
+Tulsi_Gabbard,_official_portrait,_113th_Congress.jpg The following list is the ELECTORAL HISTORY OF TULSI GABBARD. Gabbard previously served as a member of the Hawaii House of Representatives, the Honolulu City Council, and is an incumbent member of the United States House of Representatives.

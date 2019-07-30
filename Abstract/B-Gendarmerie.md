@@ -1,0 +1,1 @@
+The B-GENDARMERIE was the predecessor of the Federal Armed Forces in Allied-occupied Austria after World War II. Established in 1949, it was equivalent to the Federal Border Guards (Bundesgrenzschutz, BGS) in West Germany and the Baracked People´s Police (Kasernierte Volkspolizei, KVP) in East Germany.

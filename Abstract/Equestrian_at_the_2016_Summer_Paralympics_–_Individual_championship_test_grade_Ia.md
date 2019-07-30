@@ -1,0 +1,1 @@
+The INDIVIDUAL CHAMPIONSHIP TEST, GRADE IA, para-equestrian dressage event at the 2016 Summer Paralympics was contested on the afternoon of 15 September 2016 at the Olympic Equestrian Centre in Rio de Janeiro.[1]

@@ -1,0 +1,1 @@
+TATTVACINTĀMAṆI is a treatise in Sanskrit authored by 12th-century CE Indian logician and philosopher Gangesa Upadhyaya (also known as Gangesvara Upadhyaya). The title may be translated into English as "A Thought-jewel of Truth." The treatise is also known as Pramāṇa-cintāmaṇi ("A Thought-jewel of Valid Knowledge").[1]

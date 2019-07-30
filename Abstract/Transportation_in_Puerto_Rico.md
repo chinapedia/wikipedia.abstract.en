@@ -1,0 +1,1 @@
+TRANSPORTATION IN PUERTO RICO includes a system of roads, highways, freeways, airports, ports and harbors, and railway systems, serving a population of approximately 4 million year-round. It is funded primarily with both local and federal government funds.

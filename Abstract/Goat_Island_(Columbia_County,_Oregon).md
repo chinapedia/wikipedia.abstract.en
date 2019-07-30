@@ -1,0 +1,1 @@
+GOAT ISLAND is an island in the Columbia River in Columbia County, Oregon. It is located adjacent to Deer Island. Goat Island was named as such by the United States Board on Geographic Names in 1976.[1]

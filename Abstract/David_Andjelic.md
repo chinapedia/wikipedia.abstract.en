@@ -1,0 +1,1 @@
+DAVID ANDJELIC (Serbian: David Anđelić; Cyrillic: Давид Анђелић) is a Serbian rugby league footballer. Primarily playing as a , Andjelic is a Serbian international representative and was contracted with Penrith Panthers in his junior career.

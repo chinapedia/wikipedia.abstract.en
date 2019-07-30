@@ -1,0 +1,1 @@
+SUN FEIXIANG (; born 15 May 1998) is a Chinese badminton player.[1][2] In 2016, he won the gold medals at the Asia Junior Championships and World Junior Championships in the boys' singles event.[3][4] In 2017, he won the China International tournament in the men's singles event.[5]

@@ -1,0 +1,1 @@
+The UNIVERSITY OF NAMIBIA PRESS, UNAM Press, is the dedicated scholarly publishing unit of the University of Namibia and is based at the Windhoek Main Campus. Established in 2002, it was officially inaugurated in February 2012 and has to date published books on History, Law, Language and Science.

@@ -1,0 +1,1 @@
+The 2016 BOCA RATON BOWL was a post-season American college football bowl game played on December 20, 2016 at FAU Stadium in Boca Raton, Florida.[1] The third annual edition of the Boca Raton Bowl was one of the 2016–17 bowl games concluding the 2016 FBS football season.

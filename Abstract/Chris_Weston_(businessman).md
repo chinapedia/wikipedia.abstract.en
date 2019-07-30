@@ -1,0 +1,1 @@
+CHRISTOPHER PHILLIP ANTHONY WESTON (born 5 January 1964)[1] is a British businessman, and the Chief Executive of Aggreko, a FTSE 250 Index company, and a former Managing Director of British Gas, one of the _Big Six_ UK energy suppliers.

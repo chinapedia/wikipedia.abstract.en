@@ -1,0 +1,1 @@
+KUTIA or KUTYA is a ceremonial grain dish with sweet gravy traditionally served in Ukraine, Belarus and Russia during the Christmas - Feast of Jordan holiday season and/or as part of a funeral feast. The word with a descriptor is also used to describe the eves of Christmas, New Year, and Feast of Jordan days.[1][2][3]

@@ -1,0 +1,1 @@
+DIETZHOF CASTLE () was a high medieval water castle on the site of House No. 42 in the village of Dietzhof, in the municipality of Leutenbach in the county of Forchheim in the south German state of Bavaria.

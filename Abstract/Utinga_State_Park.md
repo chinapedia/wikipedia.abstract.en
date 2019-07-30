@@ -1,0 +1,1 @@
+The UTINGA STATE PARK () is a state park within the metropolitan area of Belém, Pará, Brazil. It is surrounded by the METROPOLITAN BELÉM ENVIRONMENTAL PROTECTION AREA, which protects a large part of the water supply of the city.

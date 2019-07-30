@@ -1,0 +1,1 @@
+INTERNATIONAL YOUTH ARTS FESTIVAL (IYAF) is an annual youth arts festival held in the Royal Borough of Kingston upon Thames every July. The festival was founded in 2009 by Robin Hutchinson MBE and more than 25,000 young people have delivered the festival as participants and volunteers since its inception.

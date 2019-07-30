@@ -1,0 +1,1 @@
+_ETRIAN ODYSSEY 2 UNTOLD: THE FAFNIR KNIGHT_ is a role-playing video game developed and published by Atlus for the Nintendo 3DS. It is part of the _Etrian Odyssey_ series, and is a remake of _Etrian Odyssey II: Heroes of Lagaard_. It was released in Japan in November 2014, in North America in August 2015, and in Europe in February 2016.

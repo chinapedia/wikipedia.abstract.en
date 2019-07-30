@@ -1,0 +1,1 @@
+CALVIN HOWARD TAYLOR (March 14, 1896 – after 1951) was a politician in Ontario, Canada. He represented Timiskaming in the Legislative Assembly of Ontario from 1943 to 1951 as a Co-operative Commonwealth Federation (CCF) member.[1][2]

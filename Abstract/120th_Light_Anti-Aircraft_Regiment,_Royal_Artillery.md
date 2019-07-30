@@ -1,0 +1,1 @@
+The 120TH LIGHT ANTI-AIRCRAFT REGIMENT (120th LAA Rgt), was an air defence unit of the British Army's Royal Artillery during World War II. It landed on D-Day and saw action throughout the campaign in North West Europe, defending the vital Scheldt Estuary until the end of the war.

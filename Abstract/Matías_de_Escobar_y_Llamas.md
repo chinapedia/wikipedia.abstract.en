@@ -1,0 +1,1 @@
+MATÍAS DE ESCOBAR Y LLAMAS (La Orotava, Spain, in 1680 or 1688 - Morelia, México, 1748) was a Spanish religious of the Order of Saint Augustine. He is known for his work _Americana Thebaida_ (1724), one of the most important treatises of Mexican colonial historiography.[1]

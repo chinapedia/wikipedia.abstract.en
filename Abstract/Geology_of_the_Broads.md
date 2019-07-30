@@ -1,0 +1,1 @@
+This article describes the GEOLOGY OF THE BROADS, an area of East Anglia in eastern England characterised by rivers, marshes and shallow lakes (‘broads’). The Broads is designated as a protected landscape with ‘status equivalent to a national park’.

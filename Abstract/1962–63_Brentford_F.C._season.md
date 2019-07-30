@@ -1,0 +1,1 @@
+During the 1962–63 English football season, Brentford competed in the Football League Fourth Division for the first time in the club's history. 67 goals from former international forwards John Dick, Billy McAdams and Johnny Brooks helped fire the Bees to the division title and an immediate return to the Third Division.

@@ -1,0 +1,1 @@
+CARL ROLF EKÉUS (born 7 July 1935 in Kristinehamn, Sweden) is a Swedish diplomat. From 1978 to 1983, he was a representative to the Conference on Disarmament in Geneva, and he has worked on various other disarmament committees and commissions.

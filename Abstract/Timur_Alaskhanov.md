@@ -1,0 +1,1 @@
+TIMUR ZAYNDIYEVICH ALASKHANOV (; born 22 February 1979) is a Russian former competitive ice dancer. With Ekaterina Gvozdkova, he competed at three Grand Prix events and at the 2001 Winter Universiade.[1] In the 2001–02 season, Gvozdkova/Alaskhanov were coached by Larisa Fedorinova in Moscow.[2] The following season, they trained under Natalia Dubova in Stamford, Connecticut.[3]

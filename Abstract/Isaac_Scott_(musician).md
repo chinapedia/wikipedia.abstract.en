@@ -1,0 +1,1 @@
+ISAAC SCOTT III (June 11, 1945 – November 16, 2001),[1] was an American blues guitarist and singer. He recorded a studio album in 1982, and a couple of live affairs in his lifetime, and was strongly linked to Seattle, Washington with its own blues scene, having moved to the city in the early 1970s.

@@ -1,0 +1,1 @@
+PAUL DISSARD (1852–1926) was a French art historian, a specialist of Gallo-Roman culture. An epigrapher and curator at the Museum of Fine Arts of Lyon, he contributed with Auguste Allmer to change a fledgling science by confronting archaeological evidence and providing a reference documentation.

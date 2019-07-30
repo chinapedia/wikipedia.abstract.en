@@ -1,0 +1,1 @@
+_UNCLE TOM'S CABIN_ is a 1987 American made-for-television drama film directed by Stan Lathan and starring Avery Brooks, Bruce Dern, Phylicia Rashad, and Edward Woodward. It is based on the novel of the same name by Harriet Beecher Stowe.[1][2][3][4]

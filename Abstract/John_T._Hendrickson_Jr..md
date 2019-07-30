@@ -1,0 +1,1 @@
+JOHN T. HENDRICKSON JR. (January 30, 1923 – September 25, 1999) was an American politician who served in the New Jersey General Assembly from the 9th Legislative District from 1982 to 1989. He served as Mayor of Eagleswood Township, New Jersey.[1]

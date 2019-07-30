@@ -1,0 +1,1 @@
+The DIGICEL JAMAICA CLASSIC IN ASSOCIATION WITH SONY ERICSSON was a senior (over 50s) men's professional golf tournament played on the Caribbean island of Jamaica. It was an early season event on the European Seniors Tour, played in 2003 to 2004. It was played on the Half Moon Golf Course, Montego Bay. The events had prize money of US$250,000 with the winner receiving $37,500.

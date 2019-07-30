@@ -1,0 +1,1 @@
+[1] is a Japanese comedian, singer, and _kannushi_. He is nicknamed and . As a lyricist and composer of 50TA, he is nicknamed . He graduated from the Japan Institute of the Moving Image. He completed his _kannushi_ training in Kokugakuin University.[2] He was a former _kyūdōka_ at the National Sports Festival of Japan.

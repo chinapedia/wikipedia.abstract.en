@@ -1,0 +1,1 @@
+KATHY SHELTON (born 1962) is an American sexual assault survivor. One of the defendants in her 1975 case was represented by Hillary Clinton (then Rodham), which caused controversy when Clinton stood as the Democratic Party candidate in the 2016 US presidential election.

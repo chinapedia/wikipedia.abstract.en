@@ -1,0 +1,1 @@
+The WINSTONGOLF SENIOR OPEN is a men's senior (over 50) professional golf tournament on the European Senior Tour. It has been held since 2012 at WINSTONgolf, Vorbeck in Northern Germany. From 2012 to 2015 it was played on the Open course while from 2016 to 2018 it was held on the Links course. The event returned to the Open course in 2019.[1]

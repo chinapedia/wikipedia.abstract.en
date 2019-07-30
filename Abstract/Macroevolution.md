@@ -1,0 +1,1 @@
+MACROEVOLUTION is evolution on a scale at or above the level of species, in contrast with microevolution,[1] which refers to smaller evolutionary changes of allele frequencies within a species or population.[2] Macroevolution and microevolution describe fundamentally identical processes on different scales.[3][4]

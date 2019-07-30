@@ -1,0 +1,1 @@
+The 2016–17 BELGIAN CUP is the 62nd season of Belgium's annual football cup competition. The competition began on 30 July 2016 and is scheduled to end with the final in March 2017. The winners of the competition will qualify for the 2017–18 UEFA Europa League Group Stage. Standard Liège were the defending champions, but were eliminated in the 6th round by ASV Geel.

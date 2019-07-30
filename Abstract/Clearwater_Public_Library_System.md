@@ -1,0 +1,1 @@
+The CLEARWATER PUBLIC LIBRARY SYSTEM (CPLS) is a public library system with five branches that has provided service to the citizens of Clearwater, Florida and Pinellas County for over 100 years. It is a member of the Pinellas Public Library Cooperative.

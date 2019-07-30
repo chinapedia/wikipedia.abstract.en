@@ -1,0 +1,1 @@
+BURTON JAMES LEE III (March 28, 1930 – November 25, 2016) was a physician and oncologist who is best known for having been Physician to the President under President George H. W. Bush and (briefly) Bill Clinton. He also served on the President's Commission on the HIV Epidemic.

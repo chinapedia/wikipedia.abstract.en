@@ -1,0 +1,1 @@
+'''Aye Aye Moe ''' (born 4 February 1995[1]) is a Burmese women's footballer who was a defender for the Myanmar women's national football team at the 2014 AFC Women's Asian Cup[2] and 2016 AFF Women's Championship.[3]

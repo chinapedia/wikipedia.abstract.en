@@ -1,0 +1,1 @@
+KRAV MAGA (; , _lit._ "contact combat") is a military self-defence and fighting system developed for the Israel Defense Forces (IDF) and Israeli security forces[1][2] derived from a combination of techniques sourced from boxing, wrestling, aikido, judo and karate, along with realistic fight training.[3][4]

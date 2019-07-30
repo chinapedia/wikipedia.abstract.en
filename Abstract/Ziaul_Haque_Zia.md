@@ -1,0 +1,1 @@
+ZIAUL HAQUE ZIA (11 March 1953 – 4 November 2016) was a Bangladesh Nationalist Party politician. He was elected MP from Lakshmipur-1 and re-elected twice. He served as a state minister for the local government, rural development and co-operatives during 2001–06.[1]

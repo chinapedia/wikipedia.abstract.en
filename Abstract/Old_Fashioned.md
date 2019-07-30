@@ -1,0 +1,1 @@
+Old-fashioned}} The OLD FASHIONED is a cocktail made by muddling sugar with bitters, then adding alcohol, popularly whiskey but sometimes brandy and finally a twist of citrus rind. It is traditionally served in a short, round, tumbler-like glass, which is called an Old Fashioned glass, after the drink.

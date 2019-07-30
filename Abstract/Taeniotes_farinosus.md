@@ -1,0 +1,1 @@
+_TAENIOTES FARINOSUS_ is a species of beetle in the family Cerambycidae. It was described by Carl Linnaeus in 1758, originally under the genus _Cerambyx_. It is known from Colombia, Brazil, Guyana, French Guiana, and Suriname. It feeds on _Artocarpus altilis_.[1]

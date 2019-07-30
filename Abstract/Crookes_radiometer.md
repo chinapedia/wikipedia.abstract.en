@@ -1,0 +1,1 @@
+Crookes_radiometer.jpg The CROOKES RADIOMETER (also known as a LIGHT MILL) consists of an airtight glass bulb containing a partial vacuum, with a set of vanes which are mounted on a spindle inside. The vanes rotate when exposed to light, with faster rotation for more intense light, providing a quantitative measurement of electromagnetic radiation intensity.

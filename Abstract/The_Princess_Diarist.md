@@ -1,0 +1,1 @@
+_THE PRINCESS DIARIST_ is a 2016 memoir written by Carrie Fisher, based on diaries she kept as a young woman around the time she starred in the 1977 film _Star Wars_. The book is the third memoir Fisher wrote, in addition to four novels and a one-woman Broadway show.[1] It is Fisher's final book, as she died five weeks after its release on December 27, 2016.[2]

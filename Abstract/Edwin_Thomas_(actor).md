@@ -1,0 +1,1 @@
+EDWIN LEO THOMAS (born 11 June 1987) is an English actor who works in theatre, TV and film. Thomas studied French and Portuguese at Wadham College, Oxford, before studying acting at the Guildhall School of Music and Drama, where he was awarded the Laurence Olivier Bursary Main Prize, and The Mary Selway Award.

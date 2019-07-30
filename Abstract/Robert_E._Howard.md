@@ -1,0 +1,1 @@
+Reh}} ROBERT ERVIN HOWARD (January 22, 1906 – June 11, 1936) was an American author who wrote pulp fiction in a diverse range of genres. He is well known for his character Conan the Barbarian and is regarded as the father of the sword and sorcery subgenre.

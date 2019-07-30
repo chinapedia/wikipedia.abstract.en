@@ -1,0 +1,1 @@
+DENYS SOLONENKO (born 25 October 1992) is a Ukrainian boxer. He competed at the 2016 Summer Olympics in the men's light heavyweight event, in which he was eliminated in the round of 32 by Teymur Mammadov.[1][2]

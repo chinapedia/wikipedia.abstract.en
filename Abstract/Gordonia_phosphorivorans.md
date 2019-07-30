@@ -1,0 +1,1 @@
+_GORDONIA PHOSPHORIVORANS_ is a Gram-positive and non-spore-forming bacterium from the genus of Gordonia which has been isolated from a wastewater treatment bioreactor in Aachen in Germany.[1][2][3][4]

@@ -1,0 +1,1 @@
+_DREAM CODER_ (Chinese: 梦想程式) is a Singaporean drama produced and telecast on Mediacorp Channel 8 . The show aired at 9pm on weekdays and had a repeat telecast at 8am the following day. The series is repeated at 5.30pm on Channel 8 on weekdays after The Lead. It stars Romeo Tan, Joanne Peh, Desmond Tan, Carrie Wong, Aloysius Pang and Yao Wenlong as the main casts of the series.

@@ -1,0 +1,1 @@
+CHIEF USMAN MOFEYINTIOLUWA LAWAL-OSULA (1910 – December 2, 1972) was a Nigerian businessman with interests across insurance, real estate and other industries. As a member of the Benin royal family, he held a hereditary traditional title[1] as the Arala of Benin[2] at the time of his death.

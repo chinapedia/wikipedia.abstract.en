@@ -1,0 +1,1 @@
+LONG YUAN MIGUEL GUTIÉRREZ FENG (born February 23, 1995) is a Mexican-American swimmer. He competed for Mexico in the men's 100 metre butterfly event at the 2016 Summer Olympics; his time of 53.34 seconds in the heats did not qualify him for the semifinals.[1][2]

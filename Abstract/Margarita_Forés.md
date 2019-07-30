@@ -1,0 +1,1 @@
+MARGARITA FORÉS is a Filipino chef, who runs a variety of restaurants which serve varieties of Italian cuisine. In 2016, she was named Asia's Best Female Chef. Forés initially worked in catering, before launching the chain Cibo, as well as several individual restaurants.

@@ -1,0 +1,1 @@
+_QUAKE_ is a first-person shooter video game developed by id Software and published by GT Interactive in 1996. Owing to its popularity, it would become the first game in the _Quake_ series.[1] In the game, players must find their way through various maze-like, medieval environments while battling a variety of monsters using an array of weaponry.

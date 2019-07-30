@@ -1,0 +1,1 @@
+This is a LIST OF SETTLEMENTS IN RUTLAND BY POPULATION based on the results of the 2011 census. The next United Kingdom census will take place in 2021. In 2011, there were 24 built-up area subdivisions with 250 or more inhabitants in Rutland, shown in the table below.

@@ -1,0 +1,1 @@
+CHANDRADASA BRAHAMMANA RALALAGE LAHIRU SUDESH KUMARA, commonly as LAHIRU KUMARA (born 13 February 1997) is a professional Sri Lankan cricketer, who plays for the Sri Lanka national cricket team.[1] He was selected to the international squad at the age of 19,[2] due to fast bowling and excellent performances in the Under-19 team.[3]

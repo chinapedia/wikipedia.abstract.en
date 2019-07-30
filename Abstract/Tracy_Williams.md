@@ -1,0 +1,1 @@
+TRACY WILLIAMS is an American professional wrestler currently signed to Ring of Honor. He is best known for his time in Evolve, where he is the former two-time Evolve Tag Team Champion, and time in Chikara where he wrestled as Green Ant and later Silver Ant. [1][2]

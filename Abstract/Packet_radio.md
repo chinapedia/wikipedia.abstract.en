@@ -1,0 +1,1 @@
+Tnc2400-stardado.JPG PACKET RADIO is a digital radio communications mode used to send packets of data. Packet radio uses packet switching to transmit datagrams. This is very similar to how packets of data are transferred between nodes on the Internet. Packet radio can be used to transmit data long distances.

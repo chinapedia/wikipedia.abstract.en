@@ -1,0 +1,1 @@
+The SINCLAIR QL (for _Quantum leap_), is a personal computer launched by Sinclair Research in 1984, as an upper-end counterpart to the Sinclair ZX Spectrum. The QL was aimed at the serious home user and professional and executive users markets from small to large businesses and higher educational establishments, but failed to achieve commercial success.

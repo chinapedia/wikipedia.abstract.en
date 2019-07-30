@@ -1,0 +1,1 @@
+CUTEFTP is a series of FTP (file transfer protocol) client applications distributed and supported since 1996 by GlobalSCAPE, who later bought the rights to the software. Both a Windows-based or Mac-based interface were made for both home and professional use.

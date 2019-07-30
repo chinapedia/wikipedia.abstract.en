@@ -1,0 +1,1 @@
+LAKE BALATON (Hungarian IPA [ˈbɒlɒton], , , , ) is a freshwater lake in the Transdanubian region of Hungary. It is the largest lake in Central Europe,[1] and one of the region's foremost tourist destinations. The Zala River provides the largest inflow of water to the lake, and the canalised Sió is the only outflow.

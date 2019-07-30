@@ -1,0 +1,1 @@
+The EAST ASIAN YOUTH GAMES (EAYG) is an international multi-sport event organised by the East Asian Olympic Committee (EAOC) and held every four years since 2019 among athletes from East Asian countries and territories of the Olympic Council of Asia (OCA), as well as the Pacific island of Guam, which is a member of the Oceania National Olympic Committees.

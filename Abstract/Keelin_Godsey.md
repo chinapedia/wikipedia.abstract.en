@@ -1,0 +1,1 @@
+KEELIN GODSEY (born Kelly Godsey, January 2, 1984, in Massachusetts) was the first openly transgender athlete to compete for a spot on the United States Olympic team.[1][2][3] Godsey was born biologically female, has openly identified as male since 2005, and competed in women's hammer throw competitions.

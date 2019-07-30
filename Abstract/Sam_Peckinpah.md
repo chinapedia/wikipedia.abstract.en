@@ -1,0 +1,1 @@
+DAVID SAMUEL PECKINPAH (;[1] February 21, 1925 – December 28, 1984) was an American film director and screenwriter who achieved prominence following the release of the Western epic _The Wild Bunch_ (1969). He was known for the visually innovative and explicit depiction of action and violence as well as his revisionist approach to the Western genre.

@@ -1,0 +1,1 @@
+SERGEI PAVLOVICH DIAGHILEV (; ; 19 August 1929), usually referred to outside Russia as SERGE DIAGHILEV, was a Russian art critic, patron, ballet impresario and founder of the Ballets Russes, from which many famous dancers and choreographers would arise.

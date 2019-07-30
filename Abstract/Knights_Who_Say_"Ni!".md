@@ -1,0 +1,1 @@
+Knightni.jpg]] The KNIGHTS WHO SAY "NI!", also called the KNIGHTS OF NI, are a band of knights encountered by King Arthur and his followers in the film _Monty Python and the Holy Grail_. They demonstrate their power by shouting "Ni!" (pronounced "nee"), terrifying the party, whom they refuse to allow passage through their forest unless appeased through the gift of a shrubbery.

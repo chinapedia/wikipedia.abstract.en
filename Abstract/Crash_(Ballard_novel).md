@@ -1,0 +1,1 @@
+_CRASH_ is a novel by English author J. G. Ballard, first published in 1973. It is a story about symphorophilia; specifically car-crash sexual fetishism: its protagonists become sexually aroused by staging and participating in real car-crashes.

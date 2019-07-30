@@ -1,0 +1,1 @@
+MAKIDA MOKA is an Egyptian-born Nigerian actress and model. She starred as Monye in the 2014 TV series _Gidi Up_, and played a rape victim in Emem Isong's 2015 drama film _Code of Silence_. As a model she is a brand ambassador for Frankie and Co.

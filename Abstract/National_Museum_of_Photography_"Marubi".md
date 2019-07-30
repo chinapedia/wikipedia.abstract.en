@@ -1,0 +1,1 @@
+The NATIONAL MUSEUM OF PHOTOGRAPHY "MARUBI" () is Albania's only museum dedicated entirely to photography. It houses a vast collection of 500,294 photographs dating back from 1858 when the first images in Albania were recorded.[1][2][3]

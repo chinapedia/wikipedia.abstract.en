@@ -1,0 +1,1 @@
+DRAMA IN BAHAMA was a ten-round boxing match that took place between Muhammad Ali and Trevor Berbick in Nassau, Bahamas on December 11, 1981. Ali was 39 years old at this time, and Berbick was 27 years old. The fight went the distance with Berbick winning through a unanimous decision on points. This was Ali's last boxing match.[1][2][3]

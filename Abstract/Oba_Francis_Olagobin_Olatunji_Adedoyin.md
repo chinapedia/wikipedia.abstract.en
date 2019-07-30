@@ -1,0 +1,1 @@
+OBA FRANCIS ADEDOYIN (born January 1922 in Tonkere - Died August 5, 2018) was the Ogunsua or traditional ruler of Modakeke he comes from Olagobin Royal family in Modakeke. He was one of the wealthiest rulers and a popular Oba in the Yorubaland.[1][2]

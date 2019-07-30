@@ -1,0 +1,1 @@
+SHEA STADIUM (; formally known as WILLIAM A. SHEA MUNICIPAL STADIUM) was a stadium in Flushing Meadows–Corona Park, Queens, New York City.[1] Built as a multi-purpose stadium, it was the home park of Major League Baseball's New York Mets for 45 seasons as well as the New York Jets football team from 1964 to 1983.

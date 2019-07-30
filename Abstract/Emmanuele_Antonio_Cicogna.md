@@ -1,0 +1,1 @@
+EmmanueleCicogna.jpg EMMANUELE ANTONIO CICOGNA (17 January 1789, Venice - 22 February 1868) was an Italian writer, scholar and book-collector. He left his huge collection of books to the city of Venice and it now forms part of the Museo Correr.

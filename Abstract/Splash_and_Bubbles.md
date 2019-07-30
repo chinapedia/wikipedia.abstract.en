@@ -1,0 +1,1 @@
+_SPLASH AND BUBBLES_ is an American computer-animated children's television series created by John Tartaglia. The series debuted on PBS Kids on November 23, 2016, after _Wild Kratts: Creatures of the Deep Sea_.[1] It is produced using motion capture that blends with animatronic interfaces which enables the crew to make animation.[2]

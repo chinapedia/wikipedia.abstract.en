@@ -1,0 +1,1 @@
+NATIONAL CYCLE NETWORK (NCN) Route 65 is a Sustrans National Route that runs from HORNSEA on the North Sea Coast of The East Riding of Yorkshire via Hull and York to MIDDLESBROUGH. It is fully open and signed.

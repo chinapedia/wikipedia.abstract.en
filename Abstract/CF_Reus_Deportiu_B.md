@@ -1,0 +1,1 @@
+CLUB DE FUTBOL REUS DEPORTIU B is a Spanish football team based in Cambrils, Tarragona in the autonomous community of Catalonia. Founded in 1960 as FUTBOL CLUB CAMBRILS, it is the reserve team of Reus Deportiu and currently plays in Tercera División – Group 5. They play their home games at _Camp Municipal de Cambrils_.

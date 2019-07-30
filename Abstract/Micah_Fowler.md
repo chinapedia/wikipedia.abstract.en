@@ -1,0 +1,1 @@
+MICAH D. FOWLER (born March 5, 1998) is an American actor with cerebral palsy. He is most known for his roles in _Labor Day_ and as JJ DiMeo in the television series _Speechless_.[1] Fowler has also had minor roles in _Blue's Clues_ and _Sesame Street_.

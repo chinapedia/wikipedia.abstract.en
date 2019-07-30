@@ -1,0 +1,1 @@
+The _LIBER MEMORIALIS_ is an ancient book in Latin featuring an extremely concise summary—a kind of index—of universal history from earliest times to the reign of Trajan. It was written by Lucius Ampelius, who was possibly a tutor or schoolmaster.

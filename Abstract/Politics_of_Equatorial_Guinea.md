@@ -1,0 +1,1 @@
+The POLITICS OF EQUATORIAL GUINEA take place in a framework of a presidential republic, whereby the President is both the head of state and head of government. Executive power is exercised by the government. Legislative power is vested in both the government and the Chamber of People's Representatives [1][2]

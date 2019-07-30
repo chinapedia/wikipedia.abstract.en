@@ -1,0 +1,1 @@
+_MY OWN WORDS_ is a 2016 book by American Supreme Court Justice Ruth Bader Ginsburg and her biographers Mary Hartnett and Wendy W. Williams. The book is a collection of Bader Ginsburg's speeches and writings dating back to the eighth grade. It is Bader Ginsburg's first book since becoming a Supreme Court Justice in 1993.

@@ -1,0 +1,1 @@
+An ODE (from ) is a type of lyrical stanza. It is an elaborately structured poem praising or glorifying an event or individual, describing nature intellectually as well as emotionally. A classic ode is structured in three major parts: the _strophe_, the _antistrophe_, and the _epode_. Different forms such as the _homostrophic ode_ and the _irregular ode_ also exist.

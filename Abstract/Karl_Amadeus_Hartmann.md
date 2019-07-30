@@ -1,0 +1,1 @@
+KARL AMADEUS HARTMANN (2 August 1905 – 5 December 1963) was a German composer.[1] Sometimes described as the greatest German symphonist of the 20th century,[2] he is now largely overlooked, particularly in English-speaking countries.

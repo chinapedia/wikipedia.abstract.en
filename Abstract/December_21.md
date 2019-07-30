@@ -1,0 +1,1 @@
+In the Northern Hemisphere, December 21 is usually the shortest day of the year and is sometimes regarded as the first day of winter. In the Southern Hemisphere, December 21 is usually the longest day of the year and occurs during the southern summer.

@@ -1,0 +1,1 @@
+PERE MARIA ORTS I BOSCH (5 July 1921 – 26 February 2015)[1] was a Valencian writer, historian, researcher, heraldist and art collector. He was a member of the Acadèmia Valenciana de la Llengua (Valencian Language Academy) and was awarded the High Distinction of the Generalitat Valenciana in 2006.

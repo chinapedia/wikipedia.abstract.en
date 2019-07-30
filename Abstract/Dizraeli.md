@@ -1,0 +1,1 @@
+Rowan Alexander Sawday (born 26 August 1982) better known as his stage name DIZRAELI, is a rapper, poet and musician from Bristol, UK. Although rooted strongly in hip-hop traditions, his work draws inspiration from old folk music, recognising the common ground shared by songs of the people from any point in history.

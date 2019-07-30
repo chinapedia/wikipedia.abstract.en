@@ -1,0 +1,1 @@
+ADVENTISM is a branch of Protestant Christianity[1] which was started in the United States during the Second Great Awakening when Baptist preacher William Miller first publicly shared his belief that the Second Coming of Jesus Christ would occur at some point between 1843 and 1844.

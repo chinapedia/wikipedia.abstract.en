@@ -1,0 +1,1 @@
+The 2017 ABU DHABI TOUR was a road cycling stage race that took place between 23 and 26 February. It was the third edition of the Abu Dhabi Tour and was the third event of the 2017 UCI World Tour. It was the first time that the race was included in the UCI World Tour calendar.[1][2]

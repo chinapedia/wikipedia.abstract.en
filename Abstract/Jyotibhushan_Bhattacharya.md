@@ -1,0 +1,1 @@
+Professor JYOTIBHUSHAN BHATTACHARYA (1 May 1926 – 1998) was an Indian politician and scholar. He served as general secretary of the Workers Party of India.[1] He served as a Minister in both of the United Front governments in West Bengal.

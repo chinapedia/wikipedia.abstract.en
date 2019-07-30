@@ -1,0 +1,1 @@
+FERNITZ-MELLACH is since 2015 a municipality with 4,654 residents (as of 1 January 2016) in Styria, Austria. It lies in the south of Graz-Umgebung District. The municipality was founded as part of the Styria municipal structural reform,[1] at the end of 2014, by merging the former towns Fernitz and Mellach.[2]

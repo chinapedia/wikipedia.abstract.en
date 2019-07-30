@@ -1,0 +1,1 @@
+CATERINA DE SAN MARCO (1747-1824) was an Italian courtier, a confidant and adviser of the de facto ruler and queen of Naples, Maria Carolina of Austria. She was also a known natural scientist and participated in politics several times during the reign of the queen and during the Parthenopean Republic.

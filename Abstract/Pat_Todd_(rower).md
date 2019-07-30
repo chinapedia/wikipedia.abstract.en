@@ -1,0 +1,1 @@
+PATRICK TODD (born November 14, 1979) is a retired American rower. He competed in the lightweight coxless fours at the 2004 and 2008 Olympics and placed 9th and 11th, respectively.[1] Todd won a gold and a silver medal in the lightweight eights at the world championships in 2003 and 2008.[2][3]

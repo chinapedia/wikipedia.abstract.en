@@ -1,0 +1,1 @@
+_KANIMANGA_ is an Iranian war movie directed by Seifollah Dad . The film's second cinematic effects built in 1987 (1366 AH) and released longest in the history of Iranian cinema theater with 15 years.

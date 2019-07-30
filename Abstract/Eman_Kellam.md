@@ -1,0 +1,1 @@
+EMMANUEL KELLAM OLANIYAN (born 27 November 1997) is a Nigerian British actor, television presenter and YouTube personality better known as EMAN KELLAM. He is best known for his appearances on The CBBC Channel and his YouTube Webshow BRITISH SLANG WITH EMAN KELLAM.[1]

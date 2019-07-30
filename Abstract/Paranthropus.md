@@ -1,0 +1,1 @@
+_PARANTHROPUS_ (from Greek παρα, _para_ "beside"; άνθρωπος, _ánthropos_ "human") is a genus of extinct hominins that lived between 2.6 and 1.1 million years ago. Also known as ROBUST AUSTRALOPITHECINES, they were bipedal hominids probably descended from the gracile australopithecine hominids (_Australopithecus_) 2.7 million years ago.[1]

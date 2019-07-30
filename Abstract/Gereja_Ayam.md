@@ -1,0 +1,1 @@
+GEREJA AYAM is a "prayer house" often referred to as a church in the area of Magelang on the island of Java, Central Java, Indonesia. The structure is constructed in the shape of a dove, but instead reminds many onlookers of a hen; hence, the locals have taken to calling it the CHICKEN CHURCH, a name by which the building is often known across the internet.

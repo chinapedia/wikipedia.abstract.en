@@ -1,0 +1,1 @@
+_HUNTING FOR SHADOWS_ is a 2016 Australian horror film directed by Davo Hardy. It stars Sage Amethyst Matchett, Sage Godrei and Paul Mercurio.[1] Loosely based on various Indigenous Australian mythologies, notably on a variation on the Bunyip and Kurdaitcha Man, the film opens with a disclaimer, reminding the audience to treat the overall film as a work of fiction.

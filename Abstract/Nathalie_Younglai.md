@@ -1,0 +1,1 @@
+NATHALIE YOUNGLAI is a Canadian writer, director, producer, and harpist. She is the founder of Toronto's Writers of Colour in TV & Film group.[1] She was the writing mentor for the Reel Asian Film Festival's Unsung Voices summer workshop for youth and speaker at Reel Asian's 2012 industry series.[2]

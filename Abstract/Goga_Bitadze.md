@@ -1,0 +1,1 @@
+GOGA BITADZE () (born 20 July 1999) is a Georgian professional basketball player for the Indiana Pacers of the National Basketball Association (NBA). Listed at and 245 lbs (111 kg), he plays the center position.[1] He was drafted 18th overall by the Pacers in the 2019 NBA draft.[2][3]

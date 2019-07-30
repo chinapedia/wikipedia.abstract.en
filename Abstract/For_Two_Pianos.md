@@ -1,0 +1,1 @@
+_FOR TWO PIANOS_ is an album by composer Anthony Braxton recorded in 1980 and first released on the Arista label in 1982.[1][2] The album features a composition by Braxton written for two pianists which was subsequently rereleased on CD on _The Complete Arista Recordings of Anthony Braxton_ released by Mosaic Records in 2008.

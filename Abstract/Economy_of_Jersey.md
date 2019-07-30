@@ -1,0 +1,1 @@
+The economy of Jersey is largely driven by international financial services and legal services, which accounted for 40.5% of total GVA in 2010.[1] Other sectors include construction, retail, agriculture, tourism and telecommunications.[2]

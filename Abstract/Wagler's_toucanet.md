@@ -1,0 +1,1 @@
+WAGLER'S TOUCANET (_Aulacorhynchus wagleri_) is a species of bird in the family Ramphastidae found in the Sierra Madre del Sur of Guerrero and Oaxaca in south-western Mexico.[1] Its natural habitat is subtropical or tropical moist lowlands and montane forests. It is also resident in shrublands, wetlands, farmlands and gardens.[2]

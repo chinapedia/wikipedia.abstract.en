@@ -1,0 +1,1 @@
+is a Japanese film directed by , starring Shori Sato and Kanna Hashimoto and based on the novel series of the same name written by Sei Hatsuno.[1][2] It is released in Japan by Kadokawa on March 4, 2017.[3]

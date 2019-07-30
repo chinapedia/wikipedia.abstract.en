@@ -1,0 +1,1 @@
+MARIANO V. ARANETA, JR. is a Filipino sports executive, businessman and retired footballer. Araneta formerly played for the Philippines national football team. He is the current President of the Philippine Football Federation and a member of the FIFA Council since May 2017.

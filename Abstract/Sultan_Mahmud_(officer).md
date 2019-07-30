@@ -1,0 +1,1 @@
+Air Vice Marshal (retd.) SULTAN MAHMUD, Bir Uttom is a former chief of Bangladesh Air Force.[1] He is former Deputy chief martial law administrator.[2] He is a former Industries Minister.[3] He received the Independence Day Award from the Government of Bangladesh in 2018.[4]

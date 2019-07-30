@@ -1,0 +1,1 @@
+_ALTARPIECE OF THE HOLY SACRAMENT_ or _TRIPTYCH OF THE LAST SUPPER_ is a 1464–1468 dated triptych attributed to Dieric Bouts, now reassembled and held at its location of origin at St. Peter's Church, Leuven.

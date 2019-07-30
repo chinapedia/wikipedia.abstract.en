@@ -1,0 +1,1 @@
+MOTHEY MANDAL is one of the 23 mandals in Suryapet district of the Indian state of Telangana.[1] It is under the administration of Suryapet revenue division with its headquarters at Mothey. It is bounded by Nadigudem Mandal towards South, Chivvemla Mandal towards west, Munagala mandal towards South, Atmakur(S) Mandal towards west and Khammam district towards east.

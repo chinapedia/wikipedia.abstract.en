@@ -1,0 +1,1 @@
+WOLFGANG GRULKE (born 19 June 1947) is an author and fossil collector with a particular interest in heteromorph ammonites.[1] A retired futurist, Grulke is an acknowledged expert in ammonite[2] and nautilus[3] cephalopods.

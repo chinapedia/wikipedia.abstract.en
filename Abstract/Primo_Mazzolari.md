@@ -1,0 +1,1 @@
+PRIMO MAZZOLARI (13 January 1890 – 12 April 1959), best known as DON PRIMO, was an Italian priest of the Catholic Church. He was also a partisan and writer who established the review _Adesso_ ("Now") in 1949.

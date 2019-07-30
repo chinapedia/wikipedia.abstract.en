@@ -1,0 +1,1 @@
+MABEL MURPHY SMYTHE-HAITH (April 3, 1918 – February 7, 2006) was an American diplomat who served as Ambassador for the United States to Cameroon and later Equatorial Guinea, as well as the Deputy Assistant Secretary of State for African Affairs.

@@ -1,0 +1,1 @@
+VEDIVECHANKOVIL is a populated place in Thiruvananthapuram district, Kerala, India. It is situated on the Thiruvanthapuram-Neyyattinkara-Kanyakumari highway located about 13 km from the Trivandrum central railway station (Thampanoor).

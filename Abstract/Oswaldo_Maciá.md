@@ -1,0 +1,1 @@
+OSWALDO MACIÁ (born 14 September 1960) is a sculptor. Born in Cartagena de Indias, Colombia, he is based in London. Maciá works primarily with sound and smell. In his work he endeavours 'to extend the meaning of sculpture'[1] beyond an ocularcentric understanding of the arts.

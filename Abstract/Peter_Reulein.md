@@ -1,0 +1,1 @@
+PETER REULEIN (born 1966) is a German composer, organ improviser, academic teacher and church musician, from 2000 at the church Liebfrauen in Frankfurt am Main. In 2016 he composed for the Catholic Diocese of Limburg the Franciscan oratorio _Laudato si'_.

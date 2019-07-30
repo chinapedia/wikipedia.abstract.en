@@ -1,0 +1,1 @@
+Major_scale1.jpg The MAJOR SCALE (or Ionian scale) is one of the most commonly used musical scales, especially in Western music. It is one of the diatonic scales. Like many musical scales, it is made up of seven notes: the eighth duplicates the first at double its frequency so that it is called a higher octave of the same note (from Latin "octavus", the eighth).

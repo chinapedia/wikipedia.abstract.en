@@ -1,0 +1,1 @@
+RYAD ASSANI-RAZAKI (born November 4, 1981 in Cotonou, Benin) is a Beninese-Canadian writer.[1] His debut short story collection _Deux cercles_ won the Trillium Book Award for French-language fiction in 2010,[2] and his novel _La main d'Iman_ won the Prix Robert-Cliche in 2011[3] and was shortlisted for the Governor General's Award for French-language fiction in 2012.[4]

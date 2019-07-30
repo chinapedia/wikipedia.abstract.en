@@ -1,0 +1,1 @@
+Amiga-Chip-Set1.png The ORIGINAL CHIP SET (OCS) is a chipset used in the earliest Commodore Amiga computers and defined the Amiga's graphics and sound capabilities. It was succeeded by the slightly improved Enhanced Chip Set (ECS) and greatly improved Advanced Graphics Architecture (AGA).

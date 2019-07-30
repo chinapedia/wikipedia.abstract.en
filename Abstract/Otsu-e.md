@@ -1,0 +1,1 @@
+Otsu-e.jpg ŌTSU-E (大津絵, pictures from Ōtsu) was a folk art that began in 17th century Japan and depended on the busy road traffic of the trade route through the district where it was produced. With the coming of railways in the late 19th century, it largely disappeared.

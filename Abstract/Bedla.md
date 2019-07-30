@@ -1,0 +1,1 @@
+BEDLA is a census town in the Bargaon tehsil of Udaipur district, Rajasthan, India. It is situated near Sukher area, on the Udaipur-Nathdwara highway, around 8km from the city center and around 387km from state capital Jaipur. Nearby Bedla, there is Udaipur Tehsil towards South, Gogunda Tehsil towards west, Khamnor Tehsil towards North and Mavli Tehsil towards East.

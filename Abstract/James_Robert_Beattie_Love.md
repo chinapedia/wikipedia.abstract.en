@@ -1,0 +1,1 @@
+JAMES ROBERT BEATTIE LOVE (1889–1947) was a Presbyterian clergyman who became a major authority on the Worrorra people of the Kimberley region of north West Australia. Though quickly forgotten, it has been argued that he played as important a role in tending to the Aboriginal communities under his care as did more celebrated figures like John Flynn.

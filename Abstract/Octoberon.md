@@ -1,0 +1,1 @@
+_OCTOBERON_ is the seventh album by Barclay James Harvest, released in 1976. In 2003 a remastered CD was issued with five bonus tracks. In 2017 a 3-disc CD/DVD special edition was released. This features new stereo and surround mixes in addition to the remastered originals, plus the 2003 bonus tracks, one new bonus track, and two videos.

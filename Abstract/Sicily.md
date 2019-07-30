@@ -1,0 +1,1 @@
+Etna-map-bjs.jpg SICILY ( ; ) is the largest island in the Mediterranean Sea and one of the 20 regions of Italy. It is one of the five Italian autonomous regions, in Southern Italy along with surrounding minor islands, officially referred to as _Regione Siciliana_.

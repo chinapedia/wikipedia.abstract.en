@@ -1,0 +1,1 @@
+_DRAMA JUNIORS_ is a Kannada talent search reality show on Zee Kannada which has children between 4-14 as the participants.[1] [2] It premiered on 30 April 2016. Puttaraju and Chitraali are the joint winners of the show.[3]

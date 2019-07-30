@@ -1,0 +1,1 @@
+OLIVER OROK (born ) is a Nigerian male former weightlifter, who competed in the 100 kg category and represented Nigeria at international competitions. He won the gold medal in the snatch at the 1984 World Weightlifting Championships lifting 172.5 kg. He participated at the 1984 Summer Olympics in the 100 kg event.[1]

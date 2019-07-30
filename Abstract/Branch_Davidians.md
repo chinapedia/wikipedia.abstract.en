@@ -1,0 +1,1 @@
+The BRANCH DAVIDIANS (also known as THE BRANCH) are a religious group that originated in 1955 from a schism among the Shepherd's Rod/Davidians, an American offshoot of the worldwide Seventh-day Adventist Church. The Branch group was initially led by Benjamin Roden. Branch Davidians are most associated with the Waco siege of 1993, which involved David Koresh.

@@ -1,0 +1,1 @@
+_TIME PRISONERS_ (时空囚徒) is a vampire survival action Chinese webcomic written and illustrated by Bai Xiao. On October 1, 2016, a Chinese-Japanese anime adaptation titled began airing. The series is directed by Chen Ye and produced by Emon and animated by NAMU Animation and Creators in Pack.[1]

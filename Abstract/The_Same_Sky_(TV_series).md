@@ -1,0 +1,1 @@
+_THE SAME SKY_ (original title: ) is a 2017 German TV miniseries set in Cold War Germany and portrays the fate of two families on either side of the Berlin Wall.[1][2] The story revolves around the relationship between an East German "Romeo" agent – a spy who uses seduction as a way to unearth secrets — and his female target in the West.[3]

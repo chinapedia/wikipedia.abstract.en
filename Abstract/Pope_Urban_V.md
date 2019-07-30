@@ -1,0 +1,1 @@
+POPE URBAN V (; 1310 – 19 December 1370), born GUILLAUME DE GRIMOARD,[1] was Pope from 28 September 1362 until his death in 1370 and was also a member of the Order of Saint Benedict. He was the sixth Avignon Pope, and the only Avignon pope to be beatified.

@@ -1,0 +1,1 @@
+The FIRST EPISTLE TO THE THESSALONIANS, commonly referred to as FIRST THESSALONIANS or 1 THESSALONIANS, is a Pauline epistle of the New Testament of the Christian Bible. The epistle is attributed to Paul the Apostle, and is addressed to the church in Thessalonica, in modern-day Greece. It was likely the first of Paul's letters, probably written by the end of AD 52.[1]

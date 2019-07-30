@@ -1,0 +1,1 @@
+[1] is a Japanese painter and comedian. His real name is , in which his given name is a combination of from daimyo Toyotomi Hideyoshi and means "bright" which relates to the New Year celebrations and he is born in New Year's Day.[2]

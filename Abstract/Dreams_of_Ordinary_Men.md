@@ -1,0 +1,1 @@
+_DREAMS OF ORDINARY MEN_ is the eighth studio album recorded by Australian-New Zealand rock band Dragon. The album was released in August 1986 and peaked at number 18 on the Australian Kent Music Report and was certified platinum in November 1986.[1] [2]

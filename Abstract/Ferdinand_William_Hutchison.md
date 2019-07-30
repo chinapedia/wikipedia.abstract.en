@@ -1,0 +1,1 @@
+FERDINAND WILLIAM HUTCHISON ( – May 20, 1893) was a British physician and politician in the Kingdom of Hawaii who became a cabinet minister to King Kamehameha V. He was president of the Board of Health from 1868 to 1873 and was instrumental in the early development and management of the leper settlement of Kalaupapa. His surname is often misspelled as Hutchinson.

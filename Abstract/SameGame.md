@@ -1,0 +1,1 @@
+is a tile-matching puzzle originally released under the name _CHAIN SHOT!_ in 1985 by Kuniaki Moribe (Morisuke). It has since been ported to numerous computer platforms, handheld devices, and even TiVo,[1] with new versions as of 2016.

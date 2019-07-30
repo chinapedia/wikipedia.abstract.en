@@ -1,0 +1,1 @@
+RAMENDRA NARAYAN KALITA is an Asom Gana Parishad politician from Assam. He was elected in Assam Legislative Assembly election in 1985 to 1996, 2006 and 2016 from Gauhati West constituency.[1][2][3][4]

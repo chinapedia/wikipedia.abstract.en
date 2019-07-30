@@ -1,0 +1,1 @@
+"'JEAN FRANCOIS FEUPA MKAMWA"', known as FRANK PARAPARA (born October 11, 1991 in Foumban) is a Cameroonian footballer who plays as striker . The bomber, in French "Le Bombadier", was a nickname given by his fans.

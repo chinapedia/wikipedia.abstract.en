@@ -1,0 +1,1 @@
+OCCAM is a programming language which is concurrent and builds on the communicating sequential processes (CSP) process algebra,[1] and shares many of its features. It is named after philosopher William of Ockham for whom Occam's razor is named.

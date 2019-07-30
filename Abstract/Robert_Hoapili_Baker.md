@@ -1,0 +1,1 @@
+ROBERT HOAPILI KEKAIPUKAʻALA KAHALELAUKOA BAKER (/1847 – April 4, 1900) was an Hawaiian ali'i (noble), military officer, courtesan and politician who served many political posts in the Kingdom of Hawaii, including Governor of Maui, Privy Councillor and Aide-de-camp to King Kalākaua.

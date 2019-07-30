@@ -1,0 +1,1 @@
+RAMI LEVY COMMUNICATIONS () is a mobile virtual network operator in Israel, using the network from Pelephone. Founded in 2011, it is owned by Rami Levy Hashikma Marketing. The prefix assigned to Rami Levy Communications is 0556.

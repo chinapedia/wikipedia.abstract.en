@@ -1,0 +1,1 @@
+MONTE BARRAÙ (also known as MONTE BARRACÙ) is a mountain in the Monti Sicani, in Sicily, southern Italy. It has an elevation of , giving it the fourth highest elevation in the Monti Sicani after Rocca Busambra, Monte Cammarata and Monte delle Rose.

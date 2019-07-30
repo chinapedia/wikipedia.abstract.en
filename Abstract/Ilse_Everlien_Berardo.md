@@ -1,0 +1,1 @@
+ILSE EVERLIEN BERARDO (born 28 December 1955) is a German Lutheran theologian, responsible[1] for the German-speaking Protestant Church on Madeira Island. She is the first woman to become pastor of the Lutheran Church in Madeira, in 500 years of Christian presence on the island.

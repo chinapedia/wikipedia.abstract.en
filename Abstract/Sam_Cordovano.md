@@ -1,0 +1,1 @@
+SAMUEL CORDOVANO (December 10, 1906 – July 13, 1995) was an American professional football player who spend one season in the National Football League with the Newark Tornadoes in 1930, appearing in nine game and making five starts.[1]

@@ -1,0 +1,1 @@
+ORDINARILY RESIDENT STATUS is a concept in the law of the United Kingdom which affects entitlement to the National Health Service. It formerly affected taxation, but the concept of ordinary residence was abolished for the purposes of tax years 2013/14 onwards.[1]

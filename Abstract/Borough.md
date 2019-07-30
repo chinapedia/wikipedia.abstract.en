@@ -1,0 +1,1 @@
+A BOROUGH is an administrative division in various English-speaking countries. In principle, the term _borough_ designates a self-governing walled town, although in practice, official use of the term varies widely.

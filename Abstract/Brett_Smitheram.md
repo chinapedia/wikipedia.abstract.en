@@ -1,0 +1,1 @@
+BRETT SMITHERAM was the 2016 World Scrabble Champion,[1] and has been ranked as a Scrabble Grand Master for nearly 20 years. Originally from Camborne, Cornwall, he currently lives in South London and is a management consultant working for Mercuri Urval, a global executive search and talent consultancy.

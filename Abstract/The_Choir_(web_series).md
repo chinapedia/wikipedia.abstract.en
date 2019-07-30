@@ -1,0 +1,1 @@
+_THE CHOIR_ is an American dramedy web series created by Issa Rae[1] for the "faith and family focussed" YouTube channel "Alright TV".[2] The series, which premiered on YouTube on August 29, 2013, is "a comedic series about the personal, spiritual and often controversial dynamics of a revered church choir".[3][4]

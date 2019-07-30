@@ -1,0 +1,1 @@
+Dorsai_filking_conclave30.jpg 30]] PNH_&_Emma_Bull,_Wiscon.jpg and Emma Bull, making music at Wiscon, 2006]] FILK MUSIC is a musical culture, genre, and community tied to science fiction/fantasy/horror fandom and a type of fan labor. The genre has been active since the early 1950s, and played primarily since the mid-1970s.

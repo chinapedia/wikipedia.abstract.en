@@ -1,0 +1,1 @@
+CONSTANS (;[1] ; c. 323[2][3] – 350) or CONSTANS I was Roman Emperor from 337 to 350. He defeated his brother Constantine II in 340, but anger in the army over his personal life (homosexuality) and favouritism towards his barbarian bodyguards led the general Magnentius to rebel, resulting in the assassination of Constans in 350.

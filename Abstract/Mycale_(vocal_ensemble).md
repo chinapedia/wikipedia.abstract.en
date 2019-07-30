@@ -1,0 +1,1 @@
+MYCALE is a group of four vocalists-arrangers assembled by John Zorn in 2009 to create original a cappella arrangements from his _Book of Angels_ compositions. Composed of Ayelet Rose Gottlieb, Sofia Rei, Sara Serpa and Malika Zarra, Mycale sings texts in Hebrew, French, Spanish, Portuguese and Arabic from the Hebrew Bible, Rumi, Fernando Pessoa, and Heraclitus.[1] [2] [3]

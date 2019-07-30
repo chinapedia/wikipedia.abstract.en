@@ -1,0 +1,1 @@
+The 2010 THOMAS & UBER CUPS PRELIMINARIES FOR AFRICA were held in Kampala, Uganda, between 20–23 February and organised by Uganda Badminton Association.[1] Nigeria and South Africa was the defending champion in men's and women's team events. This tournament serves as qualification stage for African countries for the 2010 Thomas & Uber Cup.[2]

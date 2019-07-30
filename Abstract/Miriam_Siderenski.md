@@ -1,0 +1,1 @@
+MIRIAM LOUISE MARIE SIDERENSKI (also Miryam and Sidranski (-Catzenstein); ; born 11 November 1941) is an Israeli former Olympic runner.[1] She was the Israeli Champion in the 60 metres, 100 metres, and 200 metres.

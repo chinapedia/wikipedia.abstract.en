@@ -1,0 +1,1 @@
+PHILIPPE JEAN LOUIS HOUBEN (born 4 June 1881, date of death unknown) was a Belgian-born naturalized French (in 1939) male water polo player. He was a member of the Belgium men's national water polo team. He competed with the team at the 1900 Summer Olympics.[1]

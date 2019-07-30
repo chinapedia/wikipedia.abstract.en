@@ -1,0 +1,1 @@
+_ANGELS!_ is a themed anthology of fantasy short works edited by Jack Dann and Gardner Dozois. It was first published in paperback by Ace Books in June 1995. It was reissued as an ebook by Baen Books in June 2013.[1]

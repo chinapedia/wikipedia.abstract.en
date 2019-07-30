@@ -1,0 +1,1 @@
+The 1929–30 DREXEL DRAGONS MEN'S BASKETBALL TEAM represented Drexel Institute of Art, Science and Industry during the 1929–30 men's basketball season. The Dragons, led by 3rd year head coach Walter Halas, played their home games at Curtis Hall Gym.

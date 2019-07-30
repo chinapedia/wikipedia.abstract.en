@@ -1,0 +1,1 @@
+NUR MOHAMMAD is a Bangladeshi diplomat and a former police officer who served as the Inspector General of Police of Bangladesh Police during 2007-2010.[1] In October 2012, he was appointed as the Youth and Sports Secretary by the Government of Bangladesh.[2]

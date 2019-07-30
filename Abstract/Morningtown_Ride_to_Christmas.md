@@ -1,0 +1,1 @@
+_MORNINGTOWN RIDE TO CHRISTMAS_ is the twelfth studio and first Christmas album by Australian band, The Seekers. The album was recorded in Melbourne and released in November 2001 and was certified platinum in Australia. [1]

@@ -1,0 +1,1 @@
+This page lists the winners and nominees for the NAACP IMAGE AWARD FOR OUTSTANDING LITERARY WORK, INSTRUCTIONAL. The award has been given out since 2007 and since its conception, T.D. Jakes holds the record for most wins in this category with two.

@@ -1,0 +1,1 @@
+BJØRN MAGNUS JACOBSEN IHLER is a Norwegian peace activist and public speaker who survived the Utøya mass shooting on 22 July 2011. He is involved with the project _Extremely together_[1] through the Kofi Annan Foundation.[2]

@@ -1,0 +1,1 @@
+The LINE OF SUCCESSION TO THE FORMER THRONE OF IDAR, one of the principal Indian salute states, was by male primogeniture. Ruled by the Rathore Rajput clan, the former Idar State is now a constituent part of the Indian state of Gujarat.[1]

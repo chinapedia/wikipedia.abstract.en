@@ -1,0 +1,1 @@
+HIPPARCHUS OF NICAEA (; , _Hipparkhos_;  ) was a Greek astronomer, geographer, and mathematician. He is considered the founder of trigonometry[1] but is most famous for his incidental discovery of precession of the equinoxes.[2]

@@ -1,0 +1,1 @@
+In mathematics, it is possible to combine several rings into one large PRODUCT RING. This is done by giving the Cartesian product of a possibly infinite collection of rings coordinatewise addition and multiplication. The resulting ring is called a DIRECT PRODUCT of the original rings.

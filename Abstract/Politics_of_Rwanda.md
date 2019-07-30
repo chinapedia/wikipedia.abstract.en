@@ -1,0 +1,1 @@
+Rwanda gained its independence on July 1, 1962. POLITICS OF RWANDA reflects Belgian and German civil law systems[1] and customary law takes place in a framework of a presidential republic, whereby the President of Rwanda is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government.

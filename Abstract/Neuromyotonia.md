@@ -1,0 +1,1 @@
+NEUROMYOTONIA (NMT) is a form of peripheral nerve hyperexcitability that causes spontaneous muscular activity resulting from repetitive motor unit action potentials of peripheral origin. The prevalence of NMT is unknown but 100–200 cases have been reported so far.[1]

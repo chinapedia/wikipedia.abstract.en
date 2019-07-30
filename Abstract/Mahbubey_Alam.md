@@ -1,0 +1,1 @@
+MAHBUBEY ALAM is a designated senior counsel, and the current Attorney General of Bangladesh. He was appointed Attorney General of Bangladesh with effect from 13 January 2009.[1] He is a senior advocate at the Supreme Court of Bangladesh. He has also served earlier as additional attorney general from 15 November 1998 to 4 October 2001.[2]

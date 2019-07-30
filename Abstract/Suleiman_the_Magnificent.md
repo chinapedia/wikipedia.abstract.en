@@ -1,0 +1,1 @@
+SULEIMAN I ( __; or __;[1] 6 November 1494 – 6 September 1566), commonly known as SULEIMAN THE MAGNIFICENT in the West and KANUNÎ SULTAN SÜLEYMAN (; "The Lawgiver Suleiman") in his realm, was the tenth and longest-reigning Sultan of the Ottoman Empire from 1520 until his death in 1566.[2] Under his administration, the Ottoman state ruled over at least 25 million people.

@@ -1,0 +1,1 @@
+"BRAHMGIANI" or "THE BRAHM GIANI" is term derived from Sikhism, used to define a highly enlightened individual– being one with Waheguru. In the Sikhism religion, such a person has also been named a Gurmukh, Sadhu or Sant. Other derivations of Brahmgiani have come from one possessing the knowledge of Brahman. [1]

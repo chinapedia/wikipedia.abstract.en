@@ -1,0 +1,1 @@
+The PAPUA NEW GUINEA WOMEN'S NATIONAL UNDER-18 AND UNDER-19 BASKETBALL TEAM is a national basketball team of Papua New Guinea, administered by the Basketball Federation of Papua New Guinea "BFPNG".[1]

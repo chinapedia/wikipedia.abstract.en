@@ -1,0 +1,1 @@
+_MUCHO CALOR_ (subtitled _A PRESENTATION IN LATIN JAZZ_) is an album by trumpeter Conte Candoli and alto saxophonist Art Pepper in an octet with tenor saxophonist Bill Perkins, pianist Russ Freeman, bassist Ben Tucker, drummer Chuck Flores and percussionists Jack Costanzo and Mike Pacheko recorded in 1957 and originally released on the Andex label.[1][2]

@@ -1,0 +1,1 @@
+This is a LIST OF EPISODES OF _THE MR. PEABODY & SHERMAN SHOW_, the American animated web television series produced by DreamWorks Animation and Jay Ward Productions. It premiered on Netflix on October 9, 2015.[1]

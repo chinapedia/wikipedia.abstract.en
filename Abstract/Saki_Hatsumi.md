@@ -1,0 +1,1 @@
+is a Japanese former pornographic film actress who was active between 2010 and 2017.[1][2][3][4][5] A highly prolific and versatile performer, Hatsumi has over 900 credited AV appearances spanning over seven years and numerous genres.[6] She is also a voice actress and singer.

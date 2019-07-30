@@ -1,0 +1,1 @@
+IMAGE FM 97.9 (Nepali: इमेज एफ.एम. ९७.९) is a Nepalese FM radio station, established in January 7, 1999.[1] Initially Image FM 97.9 was known as KATH FM 97.9 and was started out with a few hours of test transmission. That time it was limited to Kathmandu audiences only.

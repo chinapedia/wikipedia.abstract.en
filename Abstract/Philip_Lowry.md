@@ -1,0 +1,1 @@
+PHILIP LOWRY (born 15 July 1989) is a Northern Irish semi-professional footballer who plays as a midfielder for Crusaders. He has previously played for Portadown, Linfield and Institute. Lowry also works part-time in London.

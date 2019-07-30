@@ -1,0 +1,1 @@
+WANG JIUSI 王九思 (1468-1551) was a Chinese official, writer and satirical playwright from Shaanxi, one of the Former Seven Masters. He was a friend of Kang Hai, also from Shaanxi, and the pair were banished from the Ming court after being identified as belonging to Liu Jin's political faction.[1]

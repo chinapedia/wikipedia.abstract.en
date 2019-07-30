@@ -1,0 +1,1 @@
+_COMING HOME FOR CHRISTMAS_ is a 2013 Canadian Christmas movie written by Kyle McGlohon and Bruce Spiegelman and realised by Vanessa Parise.[1] It stars Ben Hollingsworth, Amy Jo Johnson, Carly McKillip and Britt McKillip. It released direct to video.[2]

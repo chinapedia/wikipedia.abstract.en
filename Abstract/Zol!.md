@@ -1,0 +1,1 @@
+_ZOL!_ is an EP by South African indie rock band BLK JKS. It was released on June 8, 2010 on Secretly Canadian Records; this date was chosen to coincide with the band's performance at the 2010 World Cup opening concert in Soweto, South Africa.[1][2] The EP's title is slang for "spliff" in South Africa.[3]

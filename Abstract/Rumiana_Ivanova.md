@@ -1,0 +1,1 @@
+RUMIANA IVANOVA () is a Bulgarian female badminton player.[1] In 2012, she became the runner-up of the Bulgaria Hebar Open tournament in women's doubles event with her partner Dimitria Popstoikova.[2]

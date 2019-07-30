@@ -1,0 +1,1 @@
+_TOTAL BELLAS_ is an American reality television series that premiered on E! on October 5, 2016.[1] The series is a spin-off of _Total Divas_ which gives viewers a further look into the lives of twin sisters Brie and Nikki Bella, along with their immediate family and Brie’s partner, Daniel Bryan respectively.[2]

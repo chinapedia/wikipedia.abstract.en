@@ -1,0 +1,1 @@
+UVSE is a water polo club from Budapest, Hungary, founded in 2008. It was split off from Újpesti TE, which afterwards folded.[1] They have teams in the men's and women's Hungarian First Division. The women have won the 2014–15 and the 2015–16 competition.[2]

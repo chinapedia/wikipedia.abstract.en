@@ -1,0 +1,1 @@
+LAINSHAW CASTLE was a 15th century castle about south-west of Stewarton, East Ayrshire, Scotland, to the north of Annick Water.[1] _Lainshaw_Castle_1779.jpg Lainshaw House, which now occupies the site, incorporates part of the castle.[2]

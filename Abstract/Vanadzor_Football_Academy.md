@@ -1,0 +1,1 @@
+The VANADZOR FOOTBALL ACADEMY (), is a modern football training school-academy located in Armenia's third largest city of Vanadzor, Lori Province. It is the 3rd-largest football academy in the Republic of Armenia.[1]

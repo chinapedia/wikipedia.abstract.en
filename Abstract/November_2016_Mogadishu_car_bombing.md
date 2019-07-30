@@ -1,0 +1,1 @@
+The NOVEMBER MOGADISHU CAR BOMBING occurred on 26 November 2016.[1] At least 20 people were killed by the explosion of a car bomb near a market in the Somali capital Mogadishu.[2][3] Medical sources told the AFP news agency that the death toll could be as high as 30.[4]

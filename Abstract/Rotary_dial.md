@@ -1,0 +1,1 @@
+Rotarydial.JPG but was kept because it facilitated memorization of telephone numbers.]] A ROTARY DIAL is a component of a telephone or a telephone switchboard that implements a signaling technology in telecommunications known as pulse dialing. It is used when initiating a telephone call to transmit the destination telephone number to a telephone exchange.

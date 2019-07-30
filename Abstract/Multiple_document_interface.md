@@ -1,0 +1,1 @@
+Some_X_windows.svg A MULTIPLE DOCUMENT INTERFACE (MDI) is a graphical user interface in which multiple windows reside under a single parent window. Such systems often allow child windows to embed other windows inside them as well, creating complex nested hierarchies. This contrasts with SINGLE DOCUMENT INTERFACES (SDI) where all windows are independent of each other.

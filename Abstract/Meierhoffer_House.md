@@ -1,0 +1,1 @@
+MEIERHOFFER HOUSE is a historic home located at Boonville, Cooper County, Missouri. It was built about 1900, and is a one-story, vernacular brick dwelling with a central hall plan. It has a gable roof, arched window and door headers, and partially expose basement.[1]

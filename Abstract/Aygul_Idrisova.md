@@ -1,0 +1,1 @@
+AYGUL IDRISOVA (, ; born July 11, 1995, Ishimbay, Russia) is an international draughts player. She was third in 2017 World Draughts Championshiphas and won the 2016 European championships,[1] and World and European championships Juniors Girls in 2013 and 2014. International grandmaster (GMIF).

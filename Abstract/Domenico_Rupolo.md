@@ -1,0 +1,1 @@
+Pescaria_Rialto_Venice.jpg.]] Pescaria_Rialto_Venezia_capitello_di_Rupolo.jpg DOMENICO RUPOLO (21 November 1861, Caneva – 12 October 1945, Caneva) was an Italian architect. He was mainly active in Veneto and Friuli-Venezia Giulia and in the neo-Gothic, Byzantine Revival and Romanesque Revival styles.

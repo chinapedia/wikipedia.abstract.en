@@ -1,0 +1,1 @@
+RUKADI is a village in Kolhapur district of the Indian state of Maharashtra. It is situated near Kolhapur-Sangli Highway about 413 kilometres (250 mi) from Mumbai, 19 km from Kolhapur, 11 km from Hatkanangle, 37 km from Sangli and 11 km from Ichalkaranji. Ex MP of Lok Sabha Balasaheb Mane was from Rukadi

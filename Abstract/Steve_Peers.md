@@ -1,0 +1,1 @@
+STEVE PEERS is a British academic and an expert on the European Union. He is a Professor in the School of Law at the University of Essex. He is the author of _EU Justice and Home Affairs Law_ and _The Brexit: The Legal Framework for Withdrawal from the EU or Renegotiation of EU Membership_.

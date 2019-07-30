@@ -1,0 +1,1 @@
+The SCALE OF PROTECTIVE FACTORS (SPF) is a measure of aspects of social relationships, planning behaviors and confidence. These factors contribute to psychological resilience in emerging adults and adults.[1]

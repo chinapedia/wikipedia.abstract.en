@@ -1,0 +1,1 @@
+STEPHEN PETER BORGATTI is an American business professor and author, currently the Professor and Chellgren Endowed Chair of Corporate Strategy[1] at the Gatton College of Business and Economics, University of Kentucky.[2][3][4] His work is highly cited by peers[5] and held in libraries worldwide.[6]

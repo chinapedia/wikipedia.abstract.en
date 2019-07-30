@@ -1,0 +1,1 @@
+This is a LIST OF THE MAJOR HONOURS WON BY FOOTBALL CLUBS IN IRAQ. It lists every Iraqi association football club to have won any of the major domestic trophies or major continental trophies.[1][2][3][4]

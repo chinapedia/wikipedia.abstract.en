@@ -1,0 +1,1 @@
+SHEHZAR MOHAMMAD (born 12 November 1991) is a Pakistani first-class cricketer who has played for Pakistan International Airlines and Karachi Whites.[1] He is a grandson of cricketer Hanif Mohammad, and son of the cricketer Shoaib Mohammad.[2]

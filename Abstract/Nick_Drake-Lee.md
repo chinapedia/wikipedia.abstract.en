@@ -1,0 +1,1 @@
+NICHOLAS JAMES DRAKE-LEE, commonly known as NICK DRAKE-LEE (born 7 April 1942, in Kettering)[1] was a rugby union prop who played 73 games for Leicester Tigers between 1962 and 1968; he represented England 8 times between 1963 and 1965. He was a Cambridge University blue between 1961 and 1963.

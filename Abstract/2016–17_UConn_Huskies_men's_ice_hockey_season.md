@@ -1,0 +1,1 @@
+The 2016–17 UCONN HUSKIES MEN'S ICE HOCKEY TEAM will represent the University of Connecticut in the 2016–17 NCAA Division I men's ice hockey season. The team is coached by Mike Cavanaugh his fourth season behind the bench at UConn. The Huskies play their home games at the XL Center in downtown Hartford, Connecticut, competing in their third season in Hockey East.

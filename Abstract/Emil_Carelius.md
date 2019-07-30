@@ -1,0 +1,1 @@
+JOHAN _EMIL_ SETH CARELIUS (21 February 1878 in Stockholm–27 September 1966 in Stockholm), was a Swedish conductor and merchant associated with the Swedish Royal Court, active in the Royal Court Orchestra.[1][2][3]

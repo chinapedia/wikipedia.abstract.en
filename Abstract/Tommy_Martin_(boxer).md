@@ -1,0 +1,1 @@
+TOMMY MARTIN (born 20 March 1994) is a British retired professional boxer from St Neots in Cambridgeshire, United Kingdom.[1] He fought in the Super-Lightweight division and was the youngest ever Super-Lightweight English boxing champion.

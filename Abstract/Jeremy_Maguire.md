@@ -1,0 +1,1 @@
+JEREMY MAGUIRE (born August 10, 2011) is an American child actor. He is most known for playing Joe Pritchett on the sitcom _Modern Family_ from 2015 to present. In 2017, Maguire made his film debut in the drama film _I'm Not Here_.

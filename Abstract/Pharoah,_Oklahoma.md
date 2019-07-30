@@ -1,0 +1,1 @@
+PHAROAH is an unincorporated community in Okfuskee County, Oklahoma.[1] It is 9 miles east of Okemah.[2] The community was named after a rancher and cattleman, O.J. Pharaoh.[3] Oil and gas production have historically been important industries in Okfuskee County, and, in the 1920s, oil wells were drilled around Pharoah.[4] A post office opened in Pharoah on June 8, 1921.[5]

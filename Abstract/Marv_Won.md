@@ -1,0 +1,1 @@
+MARVIN O'NEAL (professionally known as MARV WON)[1] is an American rapper and producer from east side Detroit, Michigan. He is a current member of underground hip hop group the Fat Killahz (with Fatt Father, Bang Belushi and King Gordy) and rap duo Twin Towers (with Fatt Father).

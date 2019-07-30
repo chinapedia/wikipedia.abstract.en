@@ -1,0 +1,1 @@
+HERBERT KICKL (born 19 October 1968) is an Austrian right-wing politician who served as Austria's minister of the interior.[1] He was sacked as interior minister on May 20, 2019, in the wake of the Ibiza affair.[2][3] He also previously served as a Member of the National Council for the Freedom Party.[4]

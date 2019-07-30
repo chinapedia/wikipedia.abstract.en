@@ -1,0 +1,1 @@
+MICHAL KOHOUT (born 18 January 1996) is a Czech male track cyclist, representing Czech Republic at international competitions. He competed at the 2016 UEC European Track Championships in the team pursuit event.[1]

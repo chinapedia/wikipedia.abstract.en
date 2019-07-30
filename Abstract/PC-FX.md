@@ -1,0 +1,1 @@
+The is a 32-bit home video game console made by NEC Home Electronics. It was released in Japan on December 23, 1994, just weeks after Sony's PlayStation and a month after the Sega Saturn. It is the successor to the PC Engine, known as TurboGrafx-16 in North America.

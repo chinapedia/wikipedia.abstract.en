@@ -1,0 +1,1 @@
+RITA INDIANA HERNÁNDEZ SÁNCHEZ (born 11 June 1977) is a Dominican writer, and singer-songwriter. In 2011, she was selected by the newspaper _El País_ as one of the 100 most influential Latino personalities.[1]

@@ -1,0 +1,1 @@
+SADIE SINK (born April 16, 2002) is an American actress. She portrays Maxine "Max" Mayfield in Netflix’s _Stranger Things_[1] and has also appeared in _Blue Bloods_ and _The Americans_.[2] Sink has also worked on Broadway, with credits including _Annie_ and _The Audience_.[3]

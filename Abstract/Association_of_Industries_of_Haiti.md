@@ -1,0 +1,1 @@
+The ASSOCIATION DES INDUSTRIES D'HAÏTI (ADIH), founded in 1980, is an association of around 100 manufacturers in Haiti.[1][2] It is currently headed by president George B. Sassine. It is best known internationally for its work promoting assembly plants in Haiti.[3]

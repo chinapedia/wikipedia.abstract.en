@@ -1,0 +1,1 @@
+Recanati_chiesa_di_S._Domenico.jpg The SAN DOMENICO is a Roman Catholic church located on Piazza Giacomo Leopardi #3 in the center of the town of Recanati, province of Macerata, in the region of Marche, Italy.

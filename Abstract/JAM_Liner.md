@@ -1,0 +1,1 @@
+JAM LINER INC. is a bus company that serves direct routes from Manila to provinces of Laguna, Batangas and Quezon. Dennise Trajano serves as JAM Liner's President and CEO as well as Philtranco Services Enterprises, Incorporated.[1][2][3]

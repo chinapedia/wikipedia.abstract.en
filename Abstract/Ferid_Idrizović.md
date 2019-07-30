@@ -1,0 +1,1 @@
+FERID IDRIZOVIC (born September 10, 1982) is a Bosnian-Herzegovinian former footballer who played in the Premier League of Bosnia and Herzegovina, Brunei Premier League, Albanian Superliga, Montenegrin First League, and the Canadian Soccer League.

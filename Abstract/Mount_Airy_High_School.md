@@ -1,0 +1,1 @@
+MOUNT AIRY HIGH SCHOOL is located on N South Street in Mount Airy, North Carolina. The front office is at the corner of N South Street and Orchard Street. The school first opened in 1895. Mount Airy's team name is the Granite Bears, and their school colors are navy blue and white.[1]

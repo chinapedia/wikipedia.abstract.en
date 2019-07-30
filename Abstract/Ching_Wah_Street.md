@@ -1,0 +1,1 @@
+CHING WAH STREET is a road in North Point in Hong Kong. The short, primarily residential, street runs from west to east, parallel to King's Road, at a higher elevation, just behind St. Jude's Church. It is the location of Kiangsu and Chekiang Primary School and Hong Kong Church.

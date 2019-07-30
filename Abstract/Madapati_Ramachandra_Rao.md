@@ -1,0 +1,1 @@
+MADAPATI RAMACHANDRA RAO (born 30 November 1963) is the Managing Director and Chief Executive Officer of Bharat Financial Inclusion Limited. Having joined Bharat Financial Inclusion as Chief Operating Officer in October 2006, he became the MD and CEO four years later.[1]

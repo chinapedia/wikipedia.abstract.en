@@ -1,0 +1,1 @@
+LAJOS KOVÁCS (born 9 February 1944) is a Hungarian actor.[1] He appeared in more than ninety films since 1978. Fans of Radiohead may recognise him for his appearance as the chased man in the music video for their hit song "Karma Police".

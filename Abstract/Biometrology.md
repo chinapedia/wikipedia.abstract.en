@@ -1,0 +1,1 @@
+BIOMETROLOGY refers to measurement and data activities that provide quantitative characterization of biology.[1] Biometrology advances laboratory techniques regarding scalable bioproducts or services.[2]

@@ -1,0 +1,1 @@
+_MONOCHAMUS RUFICORNIS_ is a species of beetle in the family Cerambycidae. It was described by Hintz in 1913, originally under the genus _Monohammus_. It is known from the Democratic Republic of the Congo and Cameroon. It contains the varietas _Monochamus ruficornis var. dissolutus_.[1]

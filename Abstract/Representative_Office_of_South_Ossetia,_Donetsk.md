@@ -1,0 +1,1 @@
+REPRESENTATIVE OFFICE OF SOUTH OSSETIA, DONETSK is a diplomatic mission of South Ossetia and is operating in the capital of the Donetsk People's Republic (DNR), Donetsk. South Ossetia has recognized DNR, but still not created an embassy so far in 2016.

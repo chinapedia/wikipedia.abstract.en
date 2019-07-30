@@ -1,0 +1,1 @@
+_ODI ODI UZHAIKANUM_ (English: Must work hard) is an unreleased Tamil comedy film directed by K. S. Manikandan. The film features Santhanam and Amyra Dastur in the leading roles. Featuring music composed by Ghibran, the film began production in October 2016.

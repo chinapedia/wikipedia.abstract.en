@@ -1,0 +1,1 @@
+STEVE HANSLEY MALCOUZANNE (born 21 June 1982) is a Seychellois badminton player.[1] He competed at the 2006, 2010, 2014, and 2018 Commonwealth Games.[2][3][4][5] He was the Seychelles flag bearer during the 2010 Commonwealth Games opening ceremony in New Delhi, India.[6] He was named 2009 Sportsman of the Year at the Seychelles Sports Awards.[7]

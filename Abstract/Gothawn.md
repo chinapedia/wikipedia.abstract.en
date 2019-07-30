@@ -1,0 +1,1 @@
+GOTHAWN is a town located in the Azamgarh district of Uttar Pradesh, India. It comes under the Martinganj subdistrict There are three main religions Hinduism, Buddhism and Islam. International Buddhist Temple is the most important place here. It was founded by Venerable Chandrajeet Gautam.

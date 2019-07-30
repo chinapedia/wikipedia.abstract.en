@@ -1,0 +1,1 @@
+The COLLEGE ANCHIETA is a private school located in Porto Alegre, the capital of Rio Grande do Sul, Brazil . The institution is one of the twenty-two works of the Society of Jesus in Southern Brazil. It has more than three thousand students and approximately three hundred members on its staff.

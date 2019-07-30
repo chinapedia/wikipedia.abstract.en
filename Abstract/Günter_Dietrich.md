@@ -1,0 +1,1 @@
+GÜNTER DIETRICH (November 15, 1911, Berlin – October 2, 1972, Kiel) was a German oceanographer. He was the first to describe the Agulhas Current in detail, he provided essential contributions to the understanding of bottom water exchange in the North Atlantic and he shaped marine research in Germany after World War II.

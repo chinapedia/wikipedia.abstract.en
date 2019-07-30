@@ -1,0 +1,1 @@
+FARMINGTON ACADEMY was a secondary school for boys which opened in 1812 in Farmington, Maine. Plagued by financial problems, the property became part of the State Normal School system in the 1860s. Merrill Hall is located on the site of what was the Farmington Academy.[1]

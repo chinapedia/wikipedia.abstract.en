@@ -1,0 +1,1 @@
+XAVIER LYCEUM (_Liceo Javier_) is a Catholic private school, located in the City of Guatemala and founded in 1952 by the religious order of the Society of Jesus. It includes preschool through baccalaureate in science and in literature.

@@ -1,0 +1,1 @@
+HOMELESSNESS IN SPAIN is a significant social issue, affecting some 40,000 people[1] (0.09% of the population.) Migrants are disproportionately represented among the homeless population.[2] Young people are also highly represented among the homeless, some studies estimating that 30% of Spain's homeless are aged 18-29.[3]

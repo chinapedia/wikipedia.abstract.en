@@ -1,0 +1,1 @@
+Gladiators_from_the_Zliten_mosaic_3.JPG from Libya (Leptis Magna), about 2nd century AD. It shows (left to right) a _thraex_ fighting a _murmillo_, a _hoplomachus_ standing with another _murmillo_ (who is signaling his defeat to the referee), and one of a matched pair.]]

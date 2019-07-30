@@ -1,0 +1,1 @@
+BLOOMFIELD CRICKET AND ATHLETIC CLUB GROUND, in Colombo, Sri Lanka, has staged first-class and List A cricket matches since 1991. It is the home ground of the Bloomfield Cricket and Athletic Club cricket team.

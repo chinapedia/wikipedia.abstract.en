@@ -1,0 +1,1 @@
+S.S. LAZIO YOUTH SECTOR () comprises the under-19 team and the academy of Italian professional football club S.S. Lazio. The under-19 squad competes in the Campionato Primavera 1. The club's _Primavera_ side have been champions of Italy five times, having last won the championship back in 2012–13.

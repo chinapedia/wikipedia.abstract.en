@@ -1,0 +1,1 @@
+The 39TH CURTIS CUP MATCH was played from 10 to 12 June 2016 at Dun Laoghaire Golf Club near Enniskerry, Ireland. Great Britain and Ireland won 11½ to 8½. Bronte Law became the first golfer from Great Britain and Ireland to win 5 matches in a Curtis Cup match, a feat only previously achieved by Stacy Lewis in 2008.[1]

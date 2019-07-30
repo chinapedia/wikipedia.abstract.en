@@ -1,0 +1,1 @@
+ORIAM is Scotland's national performance centre for sport, based at Heriot-Watt University's Riccarton campus in Edinburgh. The Scottish Rugby Union and the Scottish Football Association use it as a training facility, as do Heart of Midlothian F.C. for first-team training and to run their academy. It is also used by other sports teams, students and members of the public.

@@ -1,0 +1,1 @@
+_THULLAL_ (English: _Overjoy_) is a 2007 Indian Tamil-language adult drama film written and directed by Praveen Gandhi featuring himself, Sonika, and Gurleen Chopra in the lead roles. Dhina composed the film's music. _Thullal_ was released on 19 July 2007 to poor reviews.[1]

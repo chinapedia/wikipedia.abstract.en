@@ -1,0 +1,1 @@
+GOVINDARAJA II (r. c. 863-890 CE ), also known as GUVAKA II, was an Indian king from the Shakambhari Chahamana dynasty. He ruled parts of present-day Rajasthan in north-western India as a Gurjara-Pratihara vassal.

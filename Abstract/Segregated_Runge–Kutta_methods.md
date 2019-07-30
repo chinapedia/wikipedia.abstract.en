@@ -1,0 +1,1 @@
+__FORCETOC__ The SEGREGATED RUNGE–KUTTA (SRK) method[1] is a family of IMplicit–EXplicit (IMEX) Runge–Kutta methods[2][3] that were developed to approximate the solution of differential algebraic equations (DAE) of index 2.

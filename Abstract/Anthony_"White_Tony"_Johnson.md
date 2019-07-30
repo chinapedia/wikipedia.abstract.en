@@ -1,0 +1,1 @@
+ANTHONY JAMES "WHITE TONY" JOHNSON[1] (22 July 1968 – 22 February 1991) was an English criminal, the one-time head of the Cheetham Hill Gang in Manchester. He was gunned down in 1991 in the car park of the Penny Black pub, Cheetham Hill. Desmond Noonan was tried and acquitted of the murder.

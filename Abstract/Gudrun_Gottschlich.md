@@ -1,0 +1,1 @@
+'''Gudrun Gottschlich ''' (born 23 May 1970) is a German women's international footballer who plays as a forward. She is a member of the Germany women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. On club level she plays for KBC Duisburg in Germany.[1]

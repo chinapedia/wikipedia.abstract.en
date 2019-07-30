@@ -1,0 +1,1 @@
+_VERBESINA OCCIDENTALIS_ is a flowing plant in the Asteraceae family. The common names for _Verbesina occidentalis_ are YELLOW CROWNBEARD and STICK WEED.[1] _Verbesina occidentalis_ is often considered a weedy plant of disturbed areas, due its presence in managed agricultural areas such as hayfields.

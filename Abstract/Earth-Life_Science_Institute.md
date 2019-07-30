@@ -1,0 +1,1 @@
+EARTH-LIFE SCIENCE INSTITUTE (ELSI) is an established independent permanent scientific research institute based at the Tokyo Institute of Technology in Japan. ELSI employs more than 70 scientists in disciplines ranging from astrophysics to biology, who perform collaborative research on the broad connections between the origin and evolution of planets and life.

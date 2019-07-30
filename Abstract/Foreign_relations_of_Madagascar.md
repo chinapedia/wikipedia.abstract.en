@@ -1,0 +1,1 @@
+Madagascar has diplomatic relations with many countries, both individual bilateral relations and by virtue of its membership of African and other regional blocs. International aid has been received from the IMF and the World Bank, and a national environmental plan supported by the World Bank and USAID began in 1990.

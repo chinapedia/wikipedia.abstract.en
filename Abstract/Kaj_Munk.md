@@ -1,0 +1,1 @@
+KAJ HARALD LEININGER MUNK (commonly called KAJ MUNK) (13 January 1898 – 4 January 1944) was a Danish playwright and Lutheran pastor, known for his cultural engagement and his martyrdom during the Occupation of Denmark of World War II. He is commemorated as a martyr in the Calendar of Saints of the Lutheran Church on 14 August, alongside Maximilian Kolbe.

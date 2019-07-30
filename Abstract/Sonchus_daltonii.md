@@ -1,0 +1,1 @@
+_SONCHUS DALTONII_ is a species of flowering plants of the Asteraceae family. The species is endemic to Cape Verde.[1] It is listed as endangered by the IUCN.[2] The genus was named by Philip Barker Webb in 1849. Its local name is _coroa-de-rei_ ("king's crown").[3]

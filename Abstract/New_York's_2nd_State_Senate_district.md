@@ -1,0 +1,1 @@
+NEW YORK'S 2ND STATE SENATE DISTRICT is one of 63 districts in the New York State Senate. It has been represented by Republican Senator John J. Flanagan, the current Senate Minority Leader and former Senate Majority Leader, since 2003.

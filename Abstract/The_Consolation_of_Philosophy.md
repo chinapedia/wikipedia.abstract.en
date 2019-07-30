@@ -1,0 +1,1 @@
+_THE CONSOLATION OF PHILOSOPHY_ () is a philosophical work by the Roman statesman Boethius, written around the year 524. It has been described as the single most important and influential work in the West on Medieval and early Renaissance Christianity, as well as the last great Western work of the Classical Period.[1][2]

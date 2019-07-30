@@ -1,0 +1,1 @@
+Holbeton,_towards_Mothecombe_House-geograph-2626671.jpg PollexfenArms.png MOTHECOMBE is an historic estate in the parish of Holbeton in South Devon, England. The mansion house of the estate is MOTHECOMBE HOUSE, a grade I listed building[1] in the Queen Anne style.

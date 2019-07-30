@@ -1,0 +1,1 @@
+UTTAR PRADESH SANGEET NATAK AKADEMI is a key branch of the Uttar Pradesh state government's Department of Culture.[1] Each year the Academy Awards for excellence in performance of music, art and literature are awarded at the Uttar Pradesh Sangeet Natak Akademi.

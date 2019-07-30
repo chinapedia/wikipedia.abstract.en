@@ -1,0 +1,1 @@
+RAINA DOURIS (born February 2, 1986) is a Canadian broadcaster, currently the host of CBC Music's _Mornings_ and CBC Television's _CBC Music Backstage Pass_.[1] She was previously associated with the Toronto commercial radio stations CFNY-FM (102.1 The Edge) from 2009 to 2012 and CIND-FM (Indie 88) from 2013 to 2016,[2] and with CBC Radio 3 from 2012 to 2013.[3]

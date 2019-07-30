@@ -1,0 +1,1 @@
+UN PENSION is a retirement benefit provided by the United Nations Joint Staff Pension Fund (UNJSPF) under Article 28[1] of the Regulations, Rules and Pension Adjustment System of the United Nations Joint Staff Pension Fund (UNJSPF Rules).[2]

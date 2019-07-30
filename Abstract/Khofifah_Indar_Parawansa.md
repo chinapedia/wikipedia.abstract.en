@@ -1,0 +1,1 @@
+KHOFIFAH TEGISTHA INDAR PARAWANSA (born 19 May 1965) is an Indonesian politician who is now the Governor of East Java. Previously she served as the 27th Minister of Social Affairs.[1] She resigned from the position in January 2018 in order to run in the East Java gubernatorial election.[2]

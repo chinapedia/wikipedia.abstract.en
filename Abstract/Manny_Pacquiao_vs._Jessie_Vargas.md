@@ -1,0 +1,1 @@
+MANNY PACQUIAO VS. JESSIE VARGAS, billed as THE LEGEND/THE CHAMP or RESURGENCE was a boxing match for the WBO welterweight championship. The event took place on November 5, 2016 at the Thomas & Mack Center in Las Vegas, Nevada.[1] Pacquiao won the fight by unanimous decision and took the WBO welterweight title.[2][3]

@@ -1,0 +1,1 @@
+THE COMMUNITY ALLIANCE PARTY (ACT) is a minor political party based in the Australian Capital Territory. It was formally registered on 13 June 2008,[1] and states that it is the ACT's fourth oldest political party.

@@ -1,0 +1,1 @@
+NICKOLAS CHARLES BORELLI (March 5, 1905 – December 12, 1992) was an American professional football player who spent one season in the National Football League with the Newark Tornadoes in 1930, appearing in 10 games, making six starts.[1]

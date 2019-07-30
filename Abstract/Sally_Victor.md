@@ -1,0 +1,1 @@
+SALLY VICTOR (February 23, 1905 – May 14, 1977) was a prominent American milliner from the late 1920s through the 1960s. Her designs were popular with Hollywood actresses such as Irene Dunne, Helen Hayes, and Merle Oberon, as well as First Ladies Mamie Eisenhower[1] and Jacqueline Kennedy.[2]

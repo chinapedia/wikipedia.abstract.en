@@ -1,0 +1,1 @@
+border |imagecaption = Two Royal Navy men boxing for charity. The modern sport was codified in England. |imagesize = 226px |name = Boxing| aka = Western Boxing, Pugilism ^(See\ note.)[1] |focus = Punching, striking |country = Prehistoric |olympic = 688 BC (Ancient Greece)

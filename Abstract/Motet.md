@@ -1,0 +1,1 @@
+BWV226_-_Der_Geist.png's Baroque music era motet, entitled _Der Geist hilft unser Schwachheit auf_ (BWV226), shows that the singer is asked to sing many different notes on the same syllable of text, a compositional approach called a melisma.]]

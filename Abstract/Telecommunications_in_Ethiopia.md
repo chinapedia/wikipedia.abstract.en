@@ -1,0 +1,1 @@
+TELECOMMUNICATIONS IN ETHIOPIA is a monopoly in the control of Ethio Telecom, formerly the Ethiopian Telecommunications Corporation (ETC). As of 2012, 20.524 million cellular phones and 797,500 main line phones were in use.[1]

@@ -1,0 +1,1 @@
+RICHARD HILLS (born 1986[1]) is an Auckland Councillor who was elected at the 2016 Auckland elections. He is Auckland's youngest current councillor, the first openly gay Auckland Councillor and one of two Ngāpuhi iwi members.[2][3]. He's been an advocate for more investment in local youth and secured a youth-centre in Glenfield.[4]

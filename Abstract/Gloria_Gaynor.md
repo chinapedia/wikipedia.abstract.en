@@ -1,0 +1,1 @@
+GLORIA GAYNOR (born September 7, 1949) is an American singer, best known for the disco era hits "I Will Survive" (Hot 100 number 1, 1979), "Never Can Say Goodbye" (Hot 100 number 9, 1974), "Let Me Know (I Have a Right)" (Hot 100 number 42, 1980) and "I Am What I Am" (R&B number 82, 1983).

@@ -1,0 +1,1 @@
+_A DOLL'S HOUSE_ (; also translated as _A Doll House_) is a three-act play written by Norway's Henrik Ibsen. It premiered at the Royal Theatre in Copenhagen, Denmark, on 21 December 1879, having been published earlier that month.[1] The play is set in a Norwegian town circa 1879.

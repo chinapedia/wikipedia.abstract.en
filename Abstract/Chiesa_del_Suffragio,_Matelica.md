@@ -1,0 +1,1 @@
+Chiesa_del_suffragio_Matelica.jpg The CHIESA DEL SUFFRAGIO, also known as the CHIESE DELLE ANIME PURGANTI (Church of the Suffering or Church of the Souls in Purgatory), is a Baroque-style, Roman Catholic church and monastery located in Piazza Mattei in the city center of Matelica, province of Macerata, region of Marche, Italy.

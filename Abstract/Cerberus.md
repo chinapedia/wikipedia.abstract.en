@@ -1,0 +1,1 @@
+Herakles_Kerberos_Eurystheus_Louvre_E701.jpg, wearing his characteristic lion-skin, club in right hand, leash in left, presenting a three-headed Cerberus, snakes coiling from his snouts, necks and front paws, to a frightened Eurystheus hiding in a giant pot. Caeretan hydria (c. 530 BC) from Caere (Louvre E701).[1]]]

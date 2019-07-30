@@ -1,0 +1,1 @@
+DUTY (criminal law), is an obligation to act under which failure to act (omission), results in criminal liability. Such a duty may arise by a person's status in relation to another, by statute, by contract, by voluntarily acting so as to isolate someone from help by others, and by creating a danger.[1]

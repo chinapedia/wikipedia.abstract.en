@@ -1,0 +1,1 @@
+MARIA, Countess of Nassau, Katzenelnbogen, Vianden and Dietz (1 February 1491, Vianden - 1547, Siegen) was a noblewoman from the Low Countries. She was the second and youngest daughter of Johann V of Nassau-Vianden-Dietz and Elisabeth of Hesse-Marburg. She was the aunt of William the Silent.

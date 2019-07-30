@@ -1,0 +1,1 @@
+The 1997 AFL season was the one hundred and first season of the Australian Football League/Victorian Football League. NINETY EIGHT PLAYERS MADE THEIR SENIOR DEBUT IN THE 1997 SEASON, WHILE ANOTHER 56 PLAYERS DEBUTED FOR A NEW CLUB HAVING PREVIOUSLY PLAYED IN THE AFL.

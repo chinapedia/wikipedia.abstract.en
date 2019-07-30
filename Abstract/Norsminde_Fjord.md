@@ -1,0 +1,1 @@
+NORSMINDE FJORD is an inlet on the east coast of peninsular Denmark at the village of Norsminde, some 20 km south of Aarhus. The inlet is about long and at the widest point and is shared between Aarhus and Odder Municipality.

@@ -1,0 +1,1 @@
+"LIKE A LITTLE LOVE" is the eighth single by Shiori Takei[1] and released November 8, 2006 under Giza Studio label. The single reached #59 rank first week. It charted for 1 weeks and sold over 1,605 copies.[2]

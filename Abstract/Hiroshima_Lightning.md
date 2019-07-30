@@ -1,0 +1,1 @@
+The were a professional basketball team based in Hiroshima, Japan. They spent one season (2015–2016) in the Western Conference of the Japanese bj league and then folded after being denied entry into the B.League, the bj league's replacement.

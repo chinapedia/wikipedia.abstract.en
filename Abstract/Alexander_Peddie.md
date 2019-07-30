@@ -1,0 +1,1 @@
+ALEXANDER PEDDIE FRSE FRCPE LLD (3 June 1810 – 19 January 1907) was a Scottish physician and author. He was president of the Royal College of Physicians of Edinburgh from 1877 to 1879, and was co-founder of Royal Hospital for Sick Children, Edinburgh.

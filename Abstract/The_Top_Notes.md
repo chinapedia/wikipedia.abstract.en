@@ -1,0 +1,1 @@
+THE TOP NOTES was a rhythm and blues vocal group, centered around the singers Derek Martin and Howard Guyton. They released a number of singles in the early 1960s, amongst which was the first recording of "Twist and Shout".

@@ -1,0 +1,1 @@
+The economy of the Lao People's Democratic Republic is rapidly growing, as a result of decentralized government control and encouragement of private enterprise since 1986.[1] Currently, Laos ranks amongst the fastest growing economies in the world, averaging 8% a year in GDP growth.[2] It is also forecasted that Laos will sustain at least 7% growth through 2019 as well.[3]

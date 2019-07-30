@@ -1,0 +1,1 @@
+DAVE SCHATZ (born November 28, 1963) is a businessman, Republican member of the Missouri Senate, and former state representative. He was first elected in 2014 with 73% of the vote over Democrat Lloyd Klinedinst.[1]

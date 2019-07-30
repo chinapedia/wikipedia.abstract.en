@@ -1,0 +1,1 @@
+MARTIN FLEMING (born March 19, 1953) is an American economist and business executive. Since 2010, he has been IBM’s Chief Economist[1] and, as vice president, is the head of IBM's Chief Analytics Office.[2][3]

@@ -1,0 +1,1 @@
+was the 24th Emperor of Japan,[1] according to the traditional order of succession.[2] No firm dates can be assigned to this Emperor's life or reign, but he is conventionally considered to have reigned from 488 to 498.[3]

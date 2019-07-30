@@ -1,0 +1,1 @@
+MT. MEMORIAL CEMETERY, also known as THE OLD GRAVEVARD, is a historic cemetery located on the campus of William Jewell College at Liberty, Clay County, Missouri. It was established about 1828, and contains 554 documented burials. The cemetery is rectangular in plan and measures approximately 140 feet by 435 feet.[1]

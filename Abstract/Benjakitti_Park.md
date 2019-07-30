@@ -1,0 +1,1 @@
+BENJAKITTI PARK[1] (, ) is a park in the Khlong Toei District of central Bankgkok; situated next to the Queen Sirikit National Convention Center. It is close to Queen Sirikit National Convention Centre MRT Station, Sukhumvit MRT Station and Asok BTS Station.

@@ -1,0 +1,1 @@
+NETHERLANDS were expected to debut at the Turkvision Song Contest 2016, but the contest itself was later cancelled. They will now make their debut at the Turkvision Song Contest 2017 edition to be held in Kazakhstan.

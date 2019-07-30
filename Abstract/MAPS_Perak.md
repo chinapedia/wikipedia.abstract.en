@@ -1,0 +1,1 @@
+| location2 = Perak | location3 = Malaysia | theme = Theme Park | homepage = | owner = Animation Theme Park Sdn Bhd[1] | operator = Animation Theme Park Sdn Bhd[2] | opening_date = [3] | closing_date = | season = Year-round | slogan = Live Your Dreams[4] }}

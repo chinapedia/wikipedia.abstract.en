@@ -1,0 +1,1 @@
+THOMAS GLADSTONE "GLAD" BINCHAM was an industrialist in the stationery industry, who served as the Chief International Scout Commissioner of the World Scout Committee from 1944 to 1956, as well as the International Commissioner of the United Kingdom Scout Association, and played a major role in the resumption of Scouting in Europe after World War II.

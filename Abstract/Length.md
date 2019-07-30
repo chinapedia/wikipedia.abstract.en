@@ -1,0 +1,1 @@
+LENGTH is a measure of distance. In the International System of Quantities, length is any quantity with dimension distance. In most systems of measurement, the unit of length is a base unit, from which other units are derived.

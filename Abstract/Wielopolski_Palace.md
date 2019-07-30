@@ -1,0 +1,1 @@
+The WIELOPOLSKI PALACE in Kraków, Poland, is the location of the Kraków City Council and the office of the President of Kraków. The palace and the courtyard buildings are located between the All Saints 3–4 Square (_Plac Wszystkich Świętych_) and the Deputies 8–12 Street (_ul. Poselska_), which is the official address of the City Hall.

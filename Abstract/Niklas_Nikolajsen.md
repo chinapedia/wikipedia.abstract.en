@@ -1,0 +1,1 @@
+NIKLAS NIKOLAJSEN (born 1975) is an early adopter, investor and FinTech entrepreneur in the field of cryptocurrencies and cryptofinance.[1][2][3] Although a citizen of Denmark, Nikolajsen has been a Swiss resident since 2011.

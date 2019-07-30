@@ -1,0 +1,1 @@
+The PARK THEATRE was a playhouse in Brooklyn, New York City, located on 381–383 Fulton Street. Built in 1860 and opened in 1863, the Park Theatre was the oldest playhouse in Brooklyn until it was destroyed by fire on November 12, 1908.[1][2][3]

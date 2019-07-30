@@ -1,0 +1,1 @@
+KANGGYE STATION is a railway station in Kanggye municipal city, Chagang Province, North Korea, on the Manp'o Line of the Korean State Railway; it is also the starting point of the narrow-gauge Kanggye Line to Rangrim.[1]

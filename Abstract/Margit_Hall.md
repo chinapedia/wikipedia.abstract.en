@@ -1,0 +1,1 @@
+Margit_Dagmar_Hall.jpg MARGIT DAGMAR HALL (19 July 1901, St Petersburg — 30 May 1937, Bispgården)[1] was a Swedish architect. She was the first woman to take the architect examination at Chalmers Technical Institute in Gothenburg and the first woman in Sweden to graduate in architecture as an ordinary student.[2]

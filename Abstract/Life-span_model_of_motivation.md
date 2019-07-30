@@ -1,0 +1,1 @@
+According to the LIFE-SPAN MODEL OF MOTIVATION the personal goals that individuals set are a function of the opportunities and challenges that are present in their social environment. Personal goals are an important determinant to the way individuals direct their development.[1] The model introduces four key processes; channeling, choice, co-agency and compensation.[2]

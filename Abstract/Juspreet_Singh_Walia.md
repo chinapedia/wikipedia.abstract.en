@@ -1,0 +1,1 @@
+Juspreet_Singh_Walia.jpg JUSPREET SINGH WALIA (born 30 August 1979), often informally referred to as Jus, is an Indian film producer, assistant director, restaurateur, celebrity manager and a yogi who is primarily known for his work in Hindi films. He is the son of Arvind Walia and Pirthipal Singh Walia and brother of Bunty Walia.

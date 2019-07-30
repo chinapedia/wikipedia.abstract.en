@@ -1,0 +1,1 @@
+_ACER WHITEBIRDENSE_ is an extinct maple species in the family Sapindaceae described from a number of fossil leaves and samaras. The species is known from Miocene sediments exposed in Idaho, Oregon and Washington in the United States. It is one of several extinct species belonging to the living section _Rubra_.

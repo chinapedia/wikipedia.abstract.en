@@ -1,0 +1,1 @@
+_NAAN AVALAI SANDHITHA POTHU_ (English: When I met her) is an upcoming Tamil comedy film directed by L. G. Ravichander who earlier directed _Aindhaam Thalaimurai Sidha Vaidhiya Sigamani_ (2014). The film features Santhosh Prathap and Chandini Tamilarasan in the leading roles. The film began production in early 2016.[1]

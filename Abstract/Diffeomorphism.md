@@ -1,0 +1,1 @@
+In mathematics, a DIFFEOMORPHISM is an isomorphism of smooth manifolds. It is an invertible function that maps one differentiable manifold to another such that both the function and its inverse are smooth.

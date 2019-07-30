@@ -1,0 +1,1 @@
+GINO MÄDER (born 4 January 1997)[1] is a Swiss road and track cyclist, who currently rides for UCI WorldTeam .[2] He competed at the 2016 UEC European Track Championships in the team pursuit event.[3]

@@ -1,0 +1,1 @@
+COUNTRY MUSIC, also known as COUNTRY AND WESTERN (or simply COUNTRY), and HILLBILLY MUSIC, is a genre of popular music that originated in the southern United States in the early 1920s.[1] It takes its roots from genres such as American folk music (especially Appalachian folk and Western music) and blues.

@@ -1,0 +1,1 @@
+CD-R KING (styled as CD-R KING or CD-R KING) is a Filipino retail chain that sells discounted computer parts and gadgets, electronic appliances, and accessories.[1][2][3] CD-R King's branches are often located in malls, where they compete against higher-end electronics retailers.[4][5]

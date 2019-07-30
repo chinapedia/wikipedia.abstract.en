@@ -1,0 +1,1 @@
+Leiden398.JPG Leiden94.JPG Kunstwerk_Gaubius-gebouw_TNO_Leiden_-_1989.JPG]] The LEIDEN BIO SCIENCE PARK (LBSP) is the largest life sciences cluster in the Netherlands[1] and ranks in the top five of the most successful science parks in Europe.[2] It is part of Leiden and Oegstgeest and focuses on companies and Universities in the Biotechnology sector.

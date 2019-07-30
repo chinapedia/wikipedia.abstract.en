@@ -1,0 +1,1 @@
+PARAPHILIA (previously known as SEXUAL PERVERSION and SEXUAL DEVIATION) is the experience of intense sexual arousal to atypical objects, situations, fantasies, behaviors, or individuals.[1][2] Such attraction may be labeled sexual fetishism.

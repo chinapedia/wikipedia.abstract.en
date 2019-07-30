@@ -1,0 +1,1 @@
+Blessed MARIA DOMENICA BRUN BARBANTINI (17 January 1789 - 22 May 1868) was an Italian Roman Catholic professed religious and the founder of the Camillian Sisters Ministers of the Sick.[1] Barbantini served the ill throughout her entire life and she dedicated her life to God following the premature deaths of her husband and son.[2]

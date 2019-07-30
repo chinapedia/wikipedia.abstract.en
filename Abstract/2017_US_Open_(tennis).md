@@ -1,0 +1,1 @@
+The 2017 US OPEN was the 137th edition of tennis' US Open and the fourth and final Grand Slam event of the year. It was held on outdoor hard courts at the USTA Billie Jean King National Tennis Center in New York City. Experimental rules featured in qualifying for the main draw as well as in the junior, wheelchair and exhibition events.

@@ -1,0 +1,1 @@
+_I'M A CELEBRITY: EXTRA CAMP_ (previously _I'M A CELEBRITY...GET ME OUT OF HERE! NOW!_ from 2002–2015) is a companion show, broadcast on ITV2 in the UK and on UTV Ireland in the Republic of Ireland. It features behind-the-scenes footage of _I'm a Celebrity...Get Me Out of Here!_ and shows the emotional responses of the contestants after they have been voted off.

@@ -1,0 +1,1 @@
+In mathematics, a LINEAR MAP (also called a LINEAR MAPPING, LINEAR TRANSFORMATION or, in some contexts, LINEAR FUNCTION) is a mapping between two modules (including vector spaces) that preserves (in the sense defined below) the operations of addition and scalar multiplication.

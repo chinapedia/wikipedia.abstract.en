@@ -1,0 +1,1 @@
+EdinburghNYE.jpg]] HOGMANAY (;[1] [2]) is the Scots word for the last day of the year and is synonymous with the celebration of the New Year (Gregorian calendar) in the Scottish manner. It is normally followed by further celebration on the morning of New Year's Day (1 January) or, in some cases, 2 January—a Scottish bank holiday.

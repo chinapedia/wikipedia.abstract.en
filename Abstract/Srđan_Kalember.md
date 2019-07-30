@@ -1,0 +1,1 @@
+SRĐAN KALEMBER (; June 5, 1928 – February 2, 2016), also known in France by his nickname SERGE (), was a Serbian professional basketball player and coach. He won 9 National Championships with Crvena zvezda. He represented the Yugoslavia national basketball team internationally.

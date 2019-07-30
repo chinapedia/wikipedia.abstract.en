@@ -1,0 +1,1 @@
+_LOUCHÉBEM_ or _LOUCHERBEM_ () is Parisian and Lyonnaise butchers' (French _boucher_) slang, similar to Pig Latin and Verlan. It originated in the mid-19th century and was in common use until the 1950s.

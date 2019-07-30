@@ -1,0 +1,1 @@
+The BRAZILIAN ARMED FORCES (, ) is the unified military organization comprising the Brazilian Army (including the Brazilian Army Aviation), the Brazilian Navy (including the Brazilian Marine Corps and Brazilian Naval Aviation) and the Brazilian Air Force.[1]

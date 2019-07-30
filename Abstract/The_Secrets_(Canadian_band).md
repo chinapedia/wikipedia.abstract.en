@@ -1,0 +1,1 @@
+THE SECRETS were a Toronto punk rock band during the first wave of late 1970s punk. Their line-up consisted of Freddie Pompeii (vocals & harmonica), Chris Haight (guitar), John Hamilton (bass) and Mike Anderson (aka Motor X) on drums.

@@ -1,0 +1,1 @@
+upright=1.4 to penetrate solid matter. Typical alpha particles (α) are stopped by a sheet of paper, while beta particles (β) are stopped by an aluminum plate. Gamma radiation (γ) is damped when it penetrates lead. Note caveats in the text about this simplified diagram.]]

@@ -1,0 +1,1 @@
+THE GUYANESE AMBASSADOR IN WASHINGTON, D. C. is the official representative of the Government in Georgetown, Guyana to the Government of the United States and is regularly acretitated as Permanent Representative to the Organization of American States.

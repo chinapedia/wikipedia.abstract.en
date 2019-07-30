@@ -1,0 +1,1 @@
+_INTRODUCING PETE RUGOLO_ is an album by bandleader, composer, arranger and conductor Pete Rugolo featuring performances recorded in 1954 and released on the Columbia label, initially as a 10-inch LP, then with an additional four tracks as a 12-inch LP in 1955.[1][2][3][4]

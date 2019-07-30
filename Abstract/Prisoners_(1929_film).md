@@ -1,0 +1,1 @@
+_PRISONERS_ is a 1929 American film directed by William Seiter for First National Pictures. It was released as a part-talking, part-silent feature. with Corinne Griffith, James Ford, Bela Lugosi, Ian Keith, Julanne Johnston, Ann Schaeffer, Barton Hesse and Otto Matiesen. Lugosi, in his first talkie, played the owner of a Vienna nightclub.[1]

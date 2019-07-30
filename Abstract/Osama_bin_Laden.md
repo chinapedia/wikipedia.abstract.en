@@ -1,0 +1,1 @@
+OSAMA BIN MOHAMMED BIN AWAD BIN LADEN[1] (, __; March 10, 1957 – May 2, 2011),[2] also rendered USAMA BIN LADIN, was a Saudi Arabian-born Yemeni terrorist who was the founder of the pan-Islamic militant organization . He was a Saudi Arabian citizen until 1994 (stateless thereafter), a member of the wealthy bin Laden family, and an ethnic Yemeni Kindite.[3]

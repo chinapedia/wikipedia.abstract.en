@@ -1,0 +1,1 @@
+The_Terrace,_Barnes_-_geograph.org.uk_-_1309664.jpg THE TERRACE is a street in Barnes, London, with houses only on one side, all overlooking the River Thames. It forms part of the A3003, and runs west from its junction with Barnes High Street and Lonsdale Road to the east, where it becomes Mortlake High Street.

@@ -1,0 +1,1 @@
+TIZIANA ANNUNZIATA CANTONE, name subsequently legally changed to "TIZIANA GIGLIO" (July 15, 1983, Casalnuovo di Napoli, Italy – September 13, 2016, Mugnano di Napoli), was an Italian woman who committed suicide after being victim of revenge porn by her ex-boyfriend.

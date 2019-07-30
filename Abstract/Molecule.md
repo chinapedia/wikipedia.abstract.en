@@ -1,0 +1,1 @@
+PTCDA_AFM.jpg (AFM) image of a PTCDA molecule, in which the five six-carbon rings are visible.[1]]] Pentacene_on_Ni(111)_STM.jpg image of pentacene molecules, which consist of linear chains of five carbon rings.[2]]] TOAT_AFM.png

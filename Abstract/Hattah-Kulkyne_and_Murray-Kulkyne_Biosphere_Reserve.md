@@ -1,0 +1,1 @@
+HATTAH-KULKYNE AND MURRAY-KULKYNE BIOSPHERE RESERVE is a biosphere reserve in the Australian state of Victoria located to the southern bank of the Murray River to the south-east of the city of Mildura on land occupied by the following protected areas - the Hattah-Kulkyne National Park and the Murray-Kulkyne Park.[1][2][3]

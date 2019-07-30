@@ -1,0 +1,1 @@
+MACK BROWN (born September 24, 1991) is an American football running back who is currently a free agent. He played college football at Florida, and signed with the Houston Texans as an undrafted free agent in 2015. He has also played for the Minnesota Vikings.

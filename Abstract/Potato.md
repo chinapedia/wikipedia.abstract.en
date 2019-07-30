@@ -1,0 +1,1 @@
+The POTATO is a starchy, tuberous crop from the perennial nightshade _Solanum tuberosum_, native to the Americas. In many contexts, _potato_ refers to the edible tuber, but it can also refer to the plant itself.[1] Common or slang terms include TATER, TATTIE, and SPUD.

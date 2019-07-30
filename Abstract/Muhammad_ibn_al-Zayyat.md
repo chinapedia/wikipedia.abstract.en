@@ -1,0 +1,1 @@
+MUḤAMMAD IBN ʿABD AL-MALIK, better known as IBN AL-ZAYYĀT (), was a wealthy merchant who became a court official and served as vizier of the Abbasid caliphs al-Mu'tasim, al-Wathiq, and al-Mutawakkil, from 836 until his downfall and death by torture in 847.

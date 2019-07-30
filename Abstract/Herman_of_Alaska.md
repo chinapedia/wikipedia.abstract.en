@@ -1,0 +1,1 @@
+Saint HERMAN OF ALASKA (; 1750s – November 15, 1836) was a Russian Orthodox monk and missionary to Alaska, which was then part of Russian America. His gentle approach and ascetic life earned him the love and respect of both the native Alaskans and the Russian colonists. He is considered by many Orthodox Christians as the patron saint of North America.[1]

@@ -1,0 +1,1 @@
+The BREST CHALLENGER is a professional tennis tournament played on hard courts. It is currently part of the Association of Tennis Professionals (ATP) Challenger Tour. It is held annually in Brest, France since 2015.

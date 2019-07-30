@@ -1,0 +1,1 @@
+The 2016–17 TURKISH CUP () is the 55th season of the Turkish Cup. Ziraat Bankası is the sponsor of the tournament, thus the sponsored name is ZIRAAT TURKISH CUP. The winners will earn a berth in the group stage of the 2017–18 UEFA Europa League, and also qualify for the 2017 Turkish Super Cup.

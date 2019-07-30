@@ -1,0 +1,1 @@
+The 2011 TAÇA DE ANGOLA was the 30th edition of the Taça de Angola, the second most important and the top knock-out football club competition in Angola, following the Girabola. G.D. Interclube beat C.D. Primeiro de Agosto 5–3 in a penalty shoot-out after a 1–1 draw in regular time, to secure its third title.[1]

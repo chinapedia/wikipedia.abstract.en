@@ -1,0 +1,1 @@
+In the United States, a STATE SUPREME COURT (known by other names in some states) is the ultimate judicial tribunal in the court system of a particular state (_i.e._, that state's court of last resort). On matters of state law, the decisions of a state supreme court are considered final and binding on state and even United States federal courts.

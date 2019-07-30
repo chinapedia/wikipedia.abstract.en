@@ -1,0 +1,1 @@
+_LIMONIUM JOVIBARBA_ is a species of flowering plants of the Plumbaginaceae family. The species is endemic to Cape Verde.[1] It is listed as critically endangered by the IUCN.[2] The species was named by Carl Ernst Otto Kunze in 1891. Its local name is _carqueja_, a name that may also refer to the related species _Limonium brunneri_ and _Limonium braunii_.[3]

@@ -1,0 +1,1 @@
+COLIN MACLAURIN (; ; February 1698 – 14 June 1746)[1] was a Scottish mathematician who made important contributions to geometry and algebra.[2] The Maclaurin series, a special case of the Taylor series, is named after him.

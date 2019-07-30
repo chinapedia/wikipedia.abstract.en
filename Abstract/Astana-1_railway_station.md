@@ -1,0 +1,1 @@
+ASTANA-1 RAILWAY STATION is a railway station in Nur-Sultan, Kazakhstan. The original station can handle 7,000 travellers a day, as part of the infrastructure build up to Expo 2017 a new Astana Nurly Jol railway station is located near Mynzhyldyk Alley with a new capacity of 12,000.[1]

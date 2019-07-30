@@ -1,0 +1,1 @@
+_CHICAGO 'N ALL THAT JAZZ_ (subtitled _BIG BAND JAZZ OF THE BROADWAY MUSICAL_) is an album by American jazz saxophonist Lee Konitz performing John Kander and Fred Ebb's songs from the Broadway musical _Chicago_ recorded in 1975 and released on the Groove Merchant label.[1][2]

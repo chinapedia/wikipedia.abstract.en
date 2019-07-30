@@ -1,0 +1,1 @@
+The SKELANI MASSACRE refers to the killing of 69 Serbian victims in Skelani near Srebrenica , eastern Bosnia.[1][2] The massacre was committed by the Army of the Republic of Bosnia and Herzegovina.[3]

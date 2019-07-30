@@ -1,0 +1,1 @@
+_BEST OF SOUNDTRACK [EMU]_ is the second best album by Japanese composer Hiroyuki Sawano, released on September 9, 2016 on SME Records. It was released in two versions: The Standard edition which included 2 CD's with some of his most-known works from Anime and Doramas, and the limited edition which included an extra disc with re-arrangements of his songs.[1]

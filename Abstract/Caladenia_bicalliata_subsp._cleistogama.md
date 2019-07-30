@@ -1,0 +1,1 @@
+_CALADENIA BICALLIATA_ SUBSP. _CLEISTOGAMA_, commonly known as the SHY LIMESTONE SPIDER ORCHID or SANDHILL SPIDER ORCHID, is a plant in the orchid family Orchidaceae and is native to the south-west of Western Australia. It has a single erect, hairy leaf and one or two cream-coloured flowers which are smaller than those in subspecies _bacalliata_ .

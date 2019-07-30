@@ -1,0 +1,1 @@
+Viridis}} _VIRIDI_ is a simulation video game developed by Ice Water Games. The game was released onto Microsoft Windows and OS X on August 20, 2015, and onto iOS and Android on June 20, 2016. The game tasks players to look after a pot of succulents.[1] The game takes on a freemium model, meaning the game is free-to-play, but contains microtransactions.

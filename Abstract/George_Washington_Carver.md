@@ -1,0 +1,1 @@
+GEORGE WASHINGTON CARVER (1860s[1][2] – January 5, 1943), was an American agricultural scientist and inventor. He actively promoted alternative crops to cotton and methods to prevent soil depletion.[3]

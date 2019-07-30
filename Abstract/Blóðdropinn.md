@@ -1,0 +1,1 @@
+BLÓÐDROPINN (_Drop of Blood_) is an annual Icelandic literary award for the best crime novel of the previous year, which has been awarded since 2007. The author of the winning novel becomes Iceland's candidate for the Glass Key award.

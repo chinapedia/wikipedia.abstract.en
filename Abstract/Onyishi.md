@@ -1,0 +1,1 @@
+ONYISHI is a gerontocracy type of government practice in some parts of Igboland. It is also a common term or name normally taken as surname or title by person/persons whose father is the eldest in a village or one who is the eldest in Nsukka or its villages. Nkalagu in Ebonyi state Nigeria also observe such titles for the eldest man per village.

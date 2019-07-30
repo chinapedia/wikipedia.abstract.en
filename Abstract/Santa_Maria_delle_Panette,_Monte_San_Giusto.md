@@ -1,0 +1,1 @@
+SANTA MARIA DELLE PANETTE is a Baroque-style Roman Catholic church and Marian shrine located at the fork of Via Maria Concezione and Via delle Panette, about 400 meters from the western edge of the historic center of the town of Monte San Giusto, province of Macerata, in the region of Marche, Italy.

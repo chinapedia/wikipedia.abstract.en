@@ -1,0 +1,1 @@
+ALBERT PIKE (December 29, 1809 – April 2, 1891) was an American author, poet, orator, jurist and prominent member of the Freemasons. He was also a senior officer of the Confederate States Army who commanded the District of Indian Territory in the Trans-Mississippi Theater of the American Civil War.

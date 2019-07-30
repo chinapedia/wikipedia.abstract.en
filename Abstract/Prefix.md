@@ -1,0 +1,1 @@
+A PREFIX is an affix which is placed before the stem of a word. Adding it to the beginning of one word changes it into another word. For example, when the prefix _un-_ is added to the word _happy_, it creates the word _unhappy_. Particularly in the study of languages, a prefix is also called a PREFORMATIVE, because it alters the form of the words to which it is affixed.

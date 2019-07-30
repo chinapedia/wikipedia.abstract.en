@@ -1,0 +1,1 @@
+JOHN MICHAEL TUTILL THOMPSON (Michael to his friends), born on 7 June 1937 in Cottingham, England, is an Honorary Fellow in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge. He is married with two children.

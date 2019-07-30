@@ -1,0 +1,1 @@
+WILLIAM "BILLY" KING (circa 1869[1] or 1875[2] – 1951) was an African-American vaudeville comedian and showman, who was described as "a living link between the Harlem Renaissance and nineteenth-century black minstrelsy."[3]

@@ -1,0 +1,1 @@
+ROBERT W. "RABON" TARRANT (December 25, 1908 – October 11, 1975)[1] was an American jump blues and jazz drummer, singer and songwriter. His most notable composition was "Blues with a Feeling", later recorded by Little Walter and many other musicians, becoming a blues standard.

@@ -1,0 +1,1 @@
+In mathematics, especially in order theory, a PREORDER or QUASIORDER is a binary relation that is reflexive and transitive. Preorders are more general than equivalence relations and (non-strict) partial orders, both of which are special cases of a preorder. An antisymmetric preorder is a partial order, and a symmetric preorder is an equivalence relation.

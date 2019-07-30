@@ -1,0 +1,1 @@
+SIXTH STREET HISTORIC DISTRICT is a national historic district located at Grandin, Carter County, Missouri. The six dwellings were built between 1888 and 1909 by the Missouri Lumber and Mining Company. They are: [1]

@@ -1,0 +1,1 @@
+GRAHAM ARTHUR CHAPMAN (8 January 1941 – 4 October 1989) was an English comedian, writer, actor, author, and one of the six members of the British surreal comedy group Monty Python. He played authority figures such as the Colonel and the lead role in two Python films, _Holy Grail_ (1975) and _Life of Brian_ (1979).

@@ -1,0 +1,1 @@
+"WOOSTER WITH A WIFE" is the sixth episode of the second series of the 1990s British comedy television series _Jeeves and Wooster_. It is also called "Jeeves the Matchmaker".[1] It first aired in the UK on on ITV.

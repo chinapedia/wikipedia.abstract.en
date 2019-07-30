@@ -1,0 +1,1 @@
+Cygnaeus_Gallery,_Helsinki_-_DSC04356.JPG

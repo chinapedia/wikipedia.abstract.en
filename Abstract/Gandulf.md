@@ -1,0 +1,1 @@
+GANDULF or GANDOLF (Latin _Gandolphus_, French _Gandolphe_, Italian _Gandolfo_) is a masculine given name of Germanic origin, common in the Middle Ages. The roots of the name are _gand_ (literally "wand" or "magic wand", by extension "sorcery") and _wolf_ ("wolf").[1]

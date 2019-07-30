@@ -1,0 +1,1 @@
+The FORTUNE DRAGON or PROSPERITY DRAGON (; ) is a dragon statue in Yong Peng, Batu Pahat District, Johor, Malaysia. At a length of 115 meters, it is the world's largest and longest dragon tunnel in the world. The status is located within the Che Ann Khor Yong Peng Association building area.[1]

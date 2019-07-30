@@ -1,0 +1,1 @@
+CHARLES DUGAS (22 October 1885, in Alès – 4 October 1957, in Montpellier[1]) was a 20th-century French archaeologist, specialized in the study of pottery of ancient Greece, a member of the French School at Athens and dean of the Faculté des lettres de Lyon.

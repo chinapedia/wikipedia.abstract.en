@@ -1,0 +1,1 @@
+The OUR LADY OF THE ROSARY CATHEDRAL[1] () Also VALDIVIA CATHEDRAL[2] Is the main Catholic church of the Valdivia diocese, built in the center of the homonymous city of Valdivia, in the South American country of Chile.[3]

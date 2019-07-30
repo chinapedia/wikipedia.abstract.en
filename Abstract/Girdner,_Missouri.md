@@ -1,0 +1,1 @@
+GIRDNER is an unincorporated community in Douglas County, in the U.S. state of Missouri.[1] Girdner is located in central Douglas County southeast of Ava on Missouri Route P and the north side of Rippee Creek, a tributary of Bryant Creek.[2]

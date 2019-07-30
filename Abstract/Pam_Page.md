@@ -1,0 +1,1 @@
+PAMELA JO PAGE (born February 12, 1958 in St. Louis, Missouri) is a retired American track and field athlete. She represented the United States at the 1984 Olympics running the 100 meters hurdles. She also ran in the 1983 World Championships in Athletics, 1985 IAAF World Indoor Games and the 1985 IAAF World Cup.[1]

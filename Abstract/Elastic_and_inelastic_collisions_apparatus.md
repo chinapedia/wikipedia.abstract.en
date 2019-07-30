@@ -1,0 +1,1 @@
+Apparecchio_per_studiare_gli_urti_elastici_ed_anelastici_inv_981_IF_21073.jpg

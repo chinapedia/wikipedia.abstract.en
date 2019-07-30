@@ -1,0 +1,1 @@
+∆}} DELTA (uppercase Δ, lowercase Δ or 𝛿; _délta_, [1]) is the fourth letter of the Greek alphabet. In the system of Greek numerals it has a value of 4. It was derived from the Phoenician letter dalet 𐤃,[2] Letters that come from delta include Latin D and Cyrillic Д.

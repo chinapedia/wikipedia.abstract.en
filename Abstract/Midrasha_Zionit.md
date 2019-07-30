@@ -1,0 +1,1 @@
+MIDRASHA ZIONIT is an international Jewish community founded in 2001. The organization was founded by the Advisor to the Israeli Minister for Absorption Shlomo Neeman (). The head office is in Jerusalem.

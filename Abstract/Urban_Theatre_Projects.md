@@ -1,0 +1,1 @@
+URBAN THEATRE PROJECTS (UTP), previously known as DEATH DEFYING THEATRE (DDT), is a theatre company based in Bankstown Sydney, Australia. Urban Theatre Projects re-imagines what theatre can be and who it can be for, finding new ways to tell contemporary Australian stories that show the uniquely personal within the universal.

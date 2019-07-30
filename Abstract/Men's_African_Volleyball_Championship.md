@@ -1,0 +1,1 @@
+The AFRICAN MEN'S VOLLEYBALL CHAMPIONSHIP is the official competition for senior men's national volleyball teams of Africa, organized by the African Volleyball Confederation (CAVB). The initial gap between championships was variable, but since 1987 they have been awarded every two years. The current champion is Tunisia, which won its nine title at the 2017 tournament in Cairo.

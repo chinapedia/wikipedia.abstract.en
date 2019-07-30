@@ -1,0 +1,1 @@
+CHÂTEAU DE SELLES-SUR-CHER is a château located in the commune of Selles-sur-Cher, in the Loir-et-Cher department in the Centre-Val de Loire region, France. The château is privately owned and is a designated historical monument of France.

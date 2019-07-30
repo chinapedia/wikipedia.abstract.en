@@ -1,0 +1,1 @@
+VALLERØD is a former village and current neighbourhood in Hørsholm, Denmark. It is located in the parishes of Rungsted and Kokkedal. The greenspace Nattergaleengen (literally "The Nightinggale Meadow") separates Vallerød from the Hørsholm neighbourhood.

@@ -1,0 +1,1 @@
+Starsinthesky.jpg region in the Large Magellanic Cloud]] The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA's_Solar_Dynamics_Observatory_-_20100819.jpg imagery of the Sun, a G-type main-sequence star, the closest to Earth]]

@@ -1,0 +1,1 @@
+Leapsecond2016.png of the UTC clock from during the leap second on December 31, 2016. In the U.S., the leap second took place at 18:59:60 local time on the East Coast, at 15:59:60 local time on the West Coast, and at 13:59:60 local time in Hawaii.]]

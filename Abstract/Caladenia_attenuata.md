@@ -1,0 +1,1 @@
+_CALADENIA ATTENUATA_, commonly known as DURAMANA FINGERS, is a plant in the orchid family Orchidaceae and is endemic to a small area in New South Wales. It is a ground orchid with a single hairy leaf and white flowers on a tall spike.

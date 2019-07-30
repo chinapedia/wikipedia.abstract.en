@@ -1,0 +1,1 @@
+The PROVINCE OF GROSSETO () is a province in the Tuscany region of Italy. Its capital is the city of Grosseto. As of 2013 the province had a total population of 225,098 people.[1] The CIMA Festival is a gathering of classical music lovers in Monte Argentario.

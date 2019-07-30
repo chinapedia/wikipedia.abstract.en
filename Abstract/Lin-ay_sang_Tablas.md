@@ -1,0 +1,1 @@
+LIN-AY SANG TABLAS (other term: Lin-ay sang Candoni, Hara sang Candoni) is a local beauty pageant in Municipality of Candoni, Negros Occidental, Philippines. It is one of the major events of Dinagyaw sa Tablas Festival. The local pageant is held every February 10. The winner becomes the Municipality of Candoni's representative for Lin-ay sang Negros.

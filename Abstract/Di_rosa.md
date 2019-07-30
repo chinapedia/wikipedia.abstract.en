@@ -1,0 +1,1 @@
+DI ROSA is a non-profit contemporary art center in Napa, California that also maintains a collection of art by Northern California artists including Robert Arneson, Bruce Conner, Jay DeFeo, and William T. Wiley. di Rosa's mission is to be a catalyst for transformative experiences with contemporary art of Northern California.

@@ -1,0 +1,1 @@
+Royal_Artillery_Badge.jpg The MOONLIGHT BATTERIES were Searchlight units of Britain's Royal Artillery that specialised in providing 'artificial moonlight', otherwise known as 'movement light' or 'Monty's moonlight', for ground operations during the latter stages of World War II.

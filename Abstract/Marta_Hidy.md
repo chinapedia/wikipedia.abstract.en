@@ -1,0 +1,1 @@
+MARTA IREN HIDY (January 11, 1927 - November 4, 2010) was a Hungarian Canadian violinist, conductor and music teacher. In addition to being an accomplished musician, she was a founding member of the music program at McMaster University.

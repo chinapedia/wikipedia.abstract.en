@@ -1,0 +1,1 @@
+The DEMOCRATIC PROGRESSIVE PARTY (DPP) is a Taiwanese nationalist and centrist political party in Taiwan. Controlling both the Taiwan Presidency and the unicameral Legislative Yuan, it is the majority ruling party and the dominant party in the Pan-Green Coalition.

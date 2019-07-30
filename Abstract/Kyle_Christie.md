@@ -1,0 +1,1 @@
+KYLE CHRISTIE is a Hong Kong cricketer.[1] He made his One Day International (ODI) debut against Papua New Guinea on 6 November 2016.[2] He made his first-class debut for Hong Kong in the 2015–17 ICC Intercontinental Cup on 20 October 2017.[3]

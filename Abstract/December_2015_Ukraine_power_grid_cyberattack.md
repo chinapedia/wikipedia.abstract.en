@@ -1,0 +1,1 @@
+The DECEMBER 2015 UKRAINE POWER GRID CYBERATTACK took place on 23 December 2015 and is considered to be the first known successful cyberattack on a power grid. Hackers were able to successfully compromise information systems of three energy distribution companies in Ukraine and temporarily disrupt electricity supply to the end consumers.

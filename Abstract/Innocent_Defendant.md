@@ -1,0 +1,1 @@
+_INNOCENT DEFENDANT_[1] () is a South Korean television series starring Ji Sung with Um Ki-joon, Kwon Yu-ri, Oh Chang-seok and Uhm Hyun-kyung. It aired on SBS from January 23 to March 21, 2017 on Mondays and Tuesdays at 22:00 (KST) for 18 episodes.[2][3][4][5]

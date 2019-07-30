@@ -1,0 +1,1 @@
+The ETHIOPIAN NATIONAL DEFENSE FORCE (ENDF) is the military of Ethiopia. Civil direction of the military is carried out through the Ministry of Defense, which oversees the ground forces, air force, as well as the Defense Industry Sector. The current minister of defense is Lemma Megersa.

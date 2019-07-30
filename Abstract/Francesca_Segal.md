@@ -1,0 +1,1 @@
+FRANCESCA SEGAL (born 1980) is a British author and journalist. She was brought up in a Jewish community in north-west London where she still lives today.[1] She is best known for her novel, _The Innocents_, which won several book awards.[2] She is the daughter of American author, Erich Segal.[3]

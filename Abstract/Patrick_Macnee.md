@@ -1,0 +1,1 @@
+DANIEL PATRICK MACNEE (6 February 1922 – 25 June 2015) was a British-American film and television actor. He was best known for his role as the secret agent John Steed in the British television series _The Avengers._

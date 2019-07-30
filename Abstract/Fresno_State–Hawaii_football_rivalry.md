@@ -1,0 +1,1 @@
+The FRESNO STATE–HAWAII FOOTBALL RIVALRY is an American college football rivalry between the Fresno State Bulldogs and the Hawaii Rainbow Warriors.[1] It is Hawaii's most-played rivalry series.[2] The two teams have met 51 times, with Fresno State leading 28–22–1 through the 2018 season.[3]

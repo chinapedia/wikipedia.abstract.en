@@ -1,0 +1,1 @@
+TANIA BRISHTY () is a Bangladeshi model and actress.[1] She is the winner of second runner of the Veet Channel i Competition. Tania has debut in the film _Ghasful_ in 2015.Tania has also acted in several bangla TV dramas.

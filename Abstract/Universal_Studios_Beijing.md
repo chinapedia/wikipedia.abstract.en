@@ -1,0 +1,1 @@
+UNIVERSAL STUDIOS BEIJING () is an upcoming Universal theme park in Beijing that will open in Spring 2021[1] as part of Universal Beijing Resort. The park would become the fifth Universal Studios-branded theme park in the world, the 7th Universal-built park overall, and the third in Asia, after Universal Studios Japan and Universal Studios Singapore.

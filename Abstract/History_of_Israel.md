@@ -1,0 +1,1 @@
+The Land of Israel, also known as the Holy Land or Palestine, is the birthplace of the Jewish people, the place where the final form of the Hebrew Bible is thought to have been compiled, and the birthplace of Judaism and Christianity. It contains sites sacred to Judaism, Samaritanism, Christianity, Islam, Druze and the Bahá'í Faith.

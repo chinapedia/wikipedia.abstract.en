@@ -1,0 +1,1 @@
+In the UK, LAND BASED COLLEGES or LAND-BASED COLLEGES are colleges specializing in agriculture, horticulture, and other topics useful for rural economies.[1] Most land based colleges are united in Landex.

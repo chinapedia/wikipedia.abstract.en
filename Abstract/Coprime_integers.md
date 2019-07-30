@@ -1,0 +1,1 @@
+In number theory, two integers and are said to be RELATIVELY PRIME, MUTUALLY PRIME,[1] or COPRIME (also written CO-PRIME) if the only positive integer (factor) that divides both of them is 1. Consequently, any prime number that divides one does not divide the other. This is equivalent to their greatest common divisor (gcd) being 1.[2]

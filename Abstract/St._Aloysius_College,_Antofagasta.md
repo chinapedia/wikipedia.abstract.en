@@ -1,0 +1,1 @@
+Colegio_Sn_Luis_alumnos_1916.jpg ST. ALOYSIUS COLLEGE, ANTOFAGASTA, Chile, (_Colegio San Luis_), was founded in 1916 and offers the traditional elementary and secondary education. It is part of the Jesuit's Ignatian Educational Network of Chile and of the Latin American Federation of Schools of the Company of Jesus (FLACSI).

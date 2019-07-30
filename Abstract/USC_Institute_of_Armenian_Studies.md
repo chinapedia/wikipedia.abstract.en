@@ -1,0 +1,1 @@
+The USC INSTITUTE OF ARMENIAN STUDIES is an educational center dedicated to the study of modern Armenia, based at the University of Southern California in Los Angeles. It operates as a branch of the university's Dana and David Dornsife College of Letters, Arts, and Sciences.[1] The current director of the institute is Salpi Ghazarian, who assumed the position in 2014.[2][3]

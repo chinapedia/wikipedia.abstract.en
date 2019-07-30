@@ -1,0 +1,1 @@
+HIGHWAY 97 (AR 97, ARK. 97, and HWY. 97) is a north–south state highway in Cleveland County. The route of begins at Highway 8 and runs northwest to US Highway 79 (US 79) in Kingsland. The route is maintained by the Arkansas State Highway and Transportation Department (AHTD).

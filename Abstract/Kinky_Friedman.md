@@ -1,0 +1,1 @@
+RICHARD SAMET "KINKY" FRIEDMAN (born November 1, 1944)[1] is an American singer, songwriter, novelist, humorist, politician, defender of stray animals, and former columnist for _Texas Monthly_ who styles himself in the mold of popular American satirists Will Rogers and Mark Twain.[2]

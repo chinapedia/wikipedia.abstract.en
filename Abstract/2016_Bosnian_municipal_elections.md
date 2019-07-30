@@ -1,0 +1,1 @@
+MUNICIPAL ELECTIONS were held in Bosnia and Herzegovina on 2 October 2016. 30,000 candidates were contesting the election for 2,835 local councillors, 301 city councillors, 131 municipal mayors and 12 city majors.[1]

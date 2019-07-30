@@ -1,0 +1,1 @@
+The RIMOI NATIONAL RESERVE is an animal conservation reserve that is located in the Elgeyo Marakwet County in Kenya. It is a relatively small reserve, covering 66 km², and is protected by the Kenya Wildlife Service. It lies adjacent to Lake Kamnarock which has recently dried up and is part of a conservation area that is five larger than its size.[1]

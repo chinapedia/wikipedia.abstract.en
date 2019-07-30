@@ -1,0 +1,1 @@
+US_Navy_100714-N-4965F-174_Chief_Mass_Communication_Specialist_Paula_Ludwick,_assigned_to_Fleet_Combat_Camera_Group_Pacific,_shoots_at_a_target_during_a_Navy_Rifle_Qualification_Course.jpg sailor fires a MK-18 rifle at a target.]]

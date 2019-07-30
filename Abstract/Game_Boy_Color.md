@@ -1,0 +1,1 @@
+The (GBC) is a handheld game console manufactured by Nintendo, which was released on October 21, 1998, in Japan,[1] and later released in November of the same year to international markets. It is the successor of the Game Boy and continued in the Game Boy family.

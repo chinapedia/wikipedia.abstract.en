@@ -1,0 +1,1 @@
+SIAE MICROELETTRONICA is an Italian multinational corporation and a global supplier of telecom network equipments. It provides wireless backhaul and fronthaul solutions that comprise microwave and millimeter wave radio systems, along with fiber optics transmission systems provided by its subsidiary SM Optics.

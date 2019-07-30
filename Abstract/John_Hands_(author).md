@@ -1,0 +1,1 @@
+JOHN HANDS is a British author who has been published in 9 countries. Trained as a scientist, he has written three novels, plus non-fiction books, most recently _Cosmosapiens: Human Evolution from the Origin of the Universe_, which spans scientific disciplines from cosmology to neuroscience, and _Housing Co-operatives_.

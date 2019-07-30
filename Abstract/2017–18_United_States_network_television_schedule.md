@@ -1,0 +1,1 @@
+The 2017–18 NETWORK TELEVISION SCHEDULE for the five major English-language commercial broadcast networks in the United States covers prime time hours from September 2017 to August 2018. The schedule is followed by a list per network of returning series, new series, and series canceled after the 2016–17 season.

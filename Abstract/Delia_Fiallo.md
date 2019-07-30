@@ -1,0 +1,1 @@
+DELIA FIALLO (born 4 July 1924) is a Cuban author and screenwriter who lives in Miami, Florida. She is one of the most distinguished representatives of the contemporary romance novel, dabbling in various genres which appear in her literary output.

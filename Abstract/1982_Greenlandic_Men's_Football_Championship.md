@@ -1,0 +1,1 @@
+The 1982 GREENLANDIC MEN'S FOOTBALL CHAMPIONSHIP was the 12th edition of the Greenlandic Men's Football Championship. The final round was held in Nuuk. It was won by Nagdlunguaq-48 for the fourth time in its history.[1]

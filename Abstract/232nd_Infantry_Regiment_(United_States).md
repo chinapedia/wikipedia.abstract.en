@@ -1,0 +1,1 @@
+The 232ND INFANTRY REGIMENT was an infantry regiment of the United States Army during World War II. It served in combat with the 42nd Infantry Division, the "Rainbow Division", and served during the Occupation of Germany before its deactivation in 1947.

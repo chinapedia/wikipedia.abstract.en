@@ -1,0 +1,1 @@
+The KÄRNTNER LIGA[1] is the fourth highest division in Austrian football for clubs in the area of the province of Carinthia and the East Tyrol region, that belong to the Carinthian Football Association (, KFV). Below the Kärntner Liga are the _Unterliga West_[2] and _Unterliga Ost_.[3]

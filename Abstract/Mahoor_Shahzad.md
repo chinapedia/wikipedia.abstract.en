@@ -1,0 +1,1 @@
+MAHOOR SHAHZAD (born 17 October 1996) is a Pakistani badminton player.[1] Shahzad was the women's singles champion at the 2017 Pakistan International tournament.[2] She has competed at the 2014 Asian Games, and 2018 Commonwealth Games.[3][4]

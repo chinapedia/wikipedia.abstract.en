@@ -1,0 +1,1 @@
+This article is about the demographic features of the population of Hong Kong, including population density, ethnicity, education level, health of the populace, religious affiliations and other aspects of the population.

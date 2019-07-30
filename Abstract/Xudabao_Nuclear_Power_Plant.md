@@ -1,0 +1,1 @@
+The XUDABAO NUCLEAR POWER PLANT is a nuclear power station under construction in Xudabao Village, Haibin County, Xingcheng, Huludao, on the coast of Liaoning Province, in northeast China. It was initially planned to have six 1000-MW AP1000 light water reactors[1], but currently only the first two are still planned and the further 2 units will be VVER-1200s.[2]

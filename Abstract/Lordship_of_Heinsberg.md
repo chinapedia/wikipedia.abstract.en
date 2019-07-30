@@ -1,0 +1,1 @@
+The LORDSHIP OF HEINSBERG was a territory within the Holy Roman Empire, centred on the city of Heinsberg. The most notable member of the house of Heinsberg was Philip I, archbishop and archchancellor.

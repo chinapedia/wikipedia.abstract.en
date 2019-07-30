@@ -1,0 +1,1 @@
+JOSÉ ÁNGEL FERNÁNDEZ VILLA (Tuilla, Langreo, Asturias January 1943) is a Spanish trade unionist and politician, known for having been secretary general of the union Union of Mineworkers of Asturias for 34 years.

@@ -1,0 +1,1 @@
+The HISTORY OF GUAM involves phases including the early arrival of Austronesian people known today as the Chamorros around 2000 BC, the development of "pre-contact" society, Spanish colonization in the 17th century and the present American rule of the island since the 1898 Spanish–American War. Guam's history of colonialism is the longest among the Pacific islands.

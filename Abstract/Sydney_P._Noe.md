@@ -1,0 +1,1 @@
+SYDNEY P. NOE (1885 – 1969) was an American numismatist, specializing in Greek coins, and was librarian, then curator, of the American Numismatic Society (ANS). He was awarded the ANS's Archer M. Huntington Medal (1938), and the Medal of the Royal Numismatic Society (1949).[1]

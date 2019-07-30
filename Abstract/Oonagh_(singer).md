@@ -1,0 +1,1 @@
+SENTA-SOFIA DELLIPONTI (born April 16, 1990 in Wolfsburg ) is a German singer, songwriter and actress. Since January 2014 she is under the stage name OONAGH ()[1][2]. Her signature musical style is inspired by the mystical lore of J. R. R. Tolkien's universe and by ethnic sounds throughout the world.

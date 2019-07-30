@@ -1,0 +1,1 @@
+MAJA RING KILDEMOES (born 15 August 1996) is a Danish football defender who plays for Swedish club Linköpings FC and the Denmark women's national football team. She previously played for Elitedivisionen club Odense.

@@ -1,0 +1,1 @@
+,[1] better known by his stage names and ,[2] is a Japanese comedian, television personality and entertainer.[3] Kosaka insists that Pikotaro is another person promoted by him,[4] but they are considered the same person.[5][6] He is currently signed with Avex Management Inc. under Avex Group.[7]

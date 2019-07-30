@@ -1,0 +1,1 @@
+MUSEU MUNICIPAL DE SÃO FILIPE (Portuguese for "São Filipe Municipal Museum") is a museum located in the historic centre of São Filipe, on the island of Fogo, Cape Verde. It is located in a sobrado, a colonial town house.[1] The museum was opened on December 13, 2008, by the town president Eugênio Miranda da Veiga.[2] FogoMuseu1.jpg'') in the backyard of the museum]]

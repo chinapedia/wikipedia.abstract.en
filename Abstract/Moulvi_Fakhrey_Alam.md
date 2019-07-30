@@ -1,0 +1,1 @@
+Moulvi Fakhre Alam was a zamindar, lawyer and politician in Budaun District. He was, for most of his career, associated with the Indian National Congress Party. He represented Usehat constituency in the 8th Legislative Assembly of UP.

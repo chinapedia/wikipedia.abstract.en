@@ -1,0 +1,1 @@
+CASSANDRA ATHERTON is an Australian prose-poet, critic and scholar, is an expert on prose poetry, contemporary public intellectuals in academe and poets as public intellectuals, especially hibakusha poets.[1] She is married to historian Glenn Moore.

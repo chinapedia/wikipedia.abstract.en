@@ -1,0 +1,1 @@
+LOU SINO (August 16, 1930 – July 30, 1986) was a jazz trombone player and singer who a member of various well-known jazz bands plus known for his time playing with Louis Prima and Sam Butera. He also released a number of recordings leading his own band, plus as a solo artist.

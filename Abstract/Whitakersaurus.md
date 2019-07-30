@@ -1,0 +1,1 @@
+_WHITAKERSAURUS_ is a genus of sphenodontid rhynchocephalian reptile dated to be late Triassic in age and is from the Ghost Ranch fossil quarry in New Mexico, USA.[1] It is named after the discoverer of the Ghost Ranch quarry, George O. Whitaker. The fossil was described in 2007.

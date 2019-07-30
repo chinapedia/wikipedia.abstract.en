@@ -1,0 +1,1 @@
+6{{!}}7{{!}}8 · 2019|genre=Electronic dance music{{·}}Rock{{·}}alternative rock{{·}}ska{{·}}punk rock{{·}}heavy metal{{·}}pop{{·}}synthpop{{·}}reggae{{·}}hip hop{{·}}indie{{·}}world{{·}}electronic|image=Peña El Ajo 10.jpg|location=Teruel, Aragon, Spain|music_festival_name=Peña El Ajo|website=|years_active=1969, 1975 - present}}

@@ -1,0 +1,1 @@
+BRASSERIE BATTIN, is a Luxembourgish brewery founded by Charles Battin in 1937 in the city of Esch-Alzette. Since 2004 Brasserie Nationale owns Brasserie Battin; since 2005 the beer brand Battin is brewed in Bascharage.

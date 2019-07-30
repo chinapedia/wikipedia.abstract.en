@@ -1,0 +1,1 @@
+EDUARDO CATAÑO WILHELMY (Santiago Ixcuintla, Nayarit, Mexico, 1910–Mexico City, Mexico, 1964) was a Mexican painter who worked for the Galas de México printing establishment, immortalizing the faces of advertising models.

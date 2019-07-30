@@ -1,0 +1,1 @@
+DILIP DANDEKAR was the chairman and managing director of Kokuyo Camlin Ltd.,[1] taking office from June 1, 2002.[2][3] He joined Camlin Ltd. as ‘management trainee’[4] under his father, D. P. Dandekar and uncle, G. P. Dandekar,[5] who were the founders of the company (initially known as Dandekar and Co.).[6]

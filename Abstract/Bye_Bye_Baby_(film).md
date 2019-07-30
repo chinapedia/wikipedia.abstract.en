@@ -1,0 +1,1 @@
+_BYE BYE BABY_ is a 1988 Italian romantic comedy film directed by Enrico Oldoini. The film starred Brigitte Nielsen and Carol Alt. It is one of the few films to feature five-pin billiards on-screen in any detail.[1]

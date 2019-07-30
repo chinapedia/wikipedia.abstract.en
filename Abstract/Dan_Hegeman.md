@@ -1,0 +1,1 @@
+DANIEL JAY HEGEMAN (born March 4, 1963) is a Republican member of the Missouri Senate, representing the 12th district, which covers parts of northwestern Missouri. He was first elected unopposed in 2014.[1]

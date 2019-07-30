@@ -1,0 +1,1 @@
+PageMuseum_of_Scotland_scabbard.jpg A SCABBARD is a sheath for holding a sword, knife, or other large blade. Scabbards have been made of many materials over the millennia, including leather, wood, and metals such as brass or steel.

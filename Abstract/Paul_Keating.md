@@ -1,0 +1,1 @@
+PAUL JOHN KEATING (born 18 January 1944) is an Australian politician who served as the 24th Prime Minister of Australia and the Leader of the Labor Party from 1991 to 1996. He had previously served as Treasurer in the Hawke Government from 1983 to 1991.

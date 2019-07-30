@@ -1,0 +1,1 @@
+Pemba_North_in_Tanzania_(special_marker).svg Pemba Island is a small island off the coast of Tanzania. Inhabited since 600 AD, the island has a trading, agricultural, and religious history that has contributed to the studies of the Swahili Coast trade throughout the Indian Ocean.

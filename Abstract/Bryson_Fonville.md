@@ -1,0 +1,1 @@
+BRYSON FONVILLE (born May 26, 1994[1]) is an American professional basketball player who last played for the Texas Legends of the NBA G League.[2][3] He played college basketball for the Catholic University Cardinals. He was drafted as the ninth pick of the fifth round of the 2016 D-League draft.[4]

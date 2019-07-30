@@ -1,0 +1,1 @@
+VARTSIKHE () is a village in the Baghdati Municipality, Imereti, Georgia. It is located in western part of the country, in the Imereti Lowlands, at the confluence of the Rioni and Khanitskali rivers, some 17 km northwest of the town of Baghdati. Its population as of the 2014 census was 1,559.

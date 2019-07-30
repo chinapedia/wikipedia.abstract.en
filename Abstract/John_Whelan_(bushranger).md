@@ -1,0 +1,1 @@
+JOHN WHELAN was an English-born bushranger and serial killer operating in the Huon Valley in 1855 in Van Diemen's Land (now the Australian state of Tasmania). He was a tall man for his times, standing at 6’1” and of heavy build, and was nicknamed ROCKY for the crags and deep pock marks of his face.

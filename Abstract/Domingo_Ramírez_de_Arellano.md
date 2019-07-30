@@ -1,0 +1,1 @@
+DOMINGO RAMÍREZ DE ARELLANO, O.S.H. or DOMINGO DE VILLAESCUSA Y RAMÍREZ DE ARELLANO (1568 – 2 July, 1653) was a Roman Catholic prelate who served as Bishop of Yucatán (1652–1653) and Bishop of Chiapas (1640–1652).[1][2]

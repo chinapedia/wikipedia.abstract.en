@@ -1,0 +1,1 @@
+PAUL JUNTUNEN (also known as PAUL JAYSON; February 13, 1921 – October 16, 2004) was an American professional basketball player.[1][2] He played in the National Basketball League for the Detroit Gems and Detroit Vagabond Kings and averaged 4.0 points per game.[3] Later in his life, Paul changed his last name from Juntunen to Jayson.[4]

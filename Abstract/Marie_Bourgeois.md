@@ -1,0 +1,1 @@
+MARIE BOURGEOIS (1870-1937) was a French chef who gained three Michelin stars from 1933 to 1937 for her restaurant in Priay in the Ain region, France. She was the second woman after Eugénie Brazier to obtain three Michelin stars and was followed by Marguerite Bise in 1951 and by Anne-Sophie Pic in 2007.

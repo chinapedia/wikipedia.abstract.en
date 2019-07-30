@@ -1,0 +1,1 @@
+'''Margarita Alekseyevna Chernomyrdina ''' (; born 6 March 1996) is a Russian footballer who plays as a midfielder for the Russia women's national football team. She was part of the team at the 2016 Algarve Cup.[1] At the club level, she has played for Chertanovo Moscow in Russia.

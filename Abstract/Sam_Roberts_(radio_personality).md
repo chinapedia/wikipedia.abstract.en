@@ -1,0 +1,1 @@
+SAMUEL ROBERTS (born September 6, 1983) is an American radio personality, podcast host, and WWE personality. Since October 2016, he has been the co-host of _Jim Norton & Sam Roberts_ on SiriusXM Satellite Radio.[1] Roberts was an intern and producer of the _Opie and Anthony_ radio show from 2005 to 2014. He is also the host of the _Sam Roberts Wrestling Podcast_.

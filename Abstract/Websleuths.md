@@ -1,0 +1,1 @@
+WEBSLEUTHS is an internet community that is focused on crime and missing persons. The privately owned Websleuths LLC maintains a forum for registered users to discuss and classify information related to crimes, trials and unsolved cases, which they try to solve. Tricia Griffith (not to be confused with Progressive's CEO of the same name) purchased the site in 2004.[1]

@@ -1,0 +1,1 @@
+During the 1913–14 English football season, Brentford competed in the Southern League Second Division. Despite winning 13 of 15 matches in the first half of the season, a loss of form in a five-week spell from February through to April 1914 ended the club's chances of an immediate return to First Division.

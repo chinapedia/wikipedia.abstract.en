@@ -1,0 +1,1 @@
+PROCESS PHILOSOPHY — also ONTOLOGY OF BECOMING, PROCESSISM,[1] or PHILOSOPHY OF ORGANISM[2] — identifies metaphysical reality with change. In opposition to the classical model of change as illusory (as argued by Parmenides) or accidental (as argued by Aristotle), process philosophy regards change as the cornerstone of reality—the cornerstone of being thought of as becoming.

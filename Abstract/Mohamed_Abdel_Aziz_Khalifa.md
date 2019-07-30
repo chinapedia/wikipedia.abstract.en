@@ -1,0 +1,1 @@
+MOHAMED ABDEL AZIZ KHALIFA (born 1925) is an Egyptian former swimmer. He competed in the men's 4 × 200 metre freestyle relay at the 1948 Summer Olympics and the water polo at the 1948, 1952 and 1960 Summer Olympics.[1]

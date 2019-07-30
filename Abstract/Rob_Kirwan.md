@@ -1,0 +1,1 @@
+ROB KIRWAN is record producer, mixing engineer and audio engineer based in Dublin, Ireland.[1] He has worked with such artists as Hozier, PJ Harvey, Local Natives, U2, Depeche Mode, Editors, Glasvegas, The Courteeners, The Horrors, The Pains of Being Pure at Heart, Bell X1, Delorentos, Soulsavers, Soulwax and Sneaker Pimps.[2][3][4][5]

@@ -1,0 +1,1 @@
+MUHAMMAD JASIMUDDIN RAHMANI is chief of the Al Qaeda affiliated,[1] radical Islamist organization Ansarullah Bangla Team.[2] He is currently in custody in Bangladesh charged under the Anti-Terrorism Act.[3] He advocated the murder of atheists.[4]

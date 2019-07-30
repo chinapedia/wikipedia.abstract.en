@@ -1,0 +1,1 @@
+Susan_B_Anthony_c1855.png]] Jorge_Luis_Borges_1951,_by_Grete_Stern.jpg]] WEB_DuBois_1918.jpg]] Hedayat113.jpeg]] Janusz_Korczak.PNG]] Edward_Snowden-2.jpg]] Elie_Wiesel_(1987)_by_Erling_Mandelmann_-_2.jpg]] Henry_Dunant-young.jpg]] Hideaki_Anno.jpg]] Ingmar_Bergman_Smultronstallet.jpg]] JohannesBrahms.jpg]]

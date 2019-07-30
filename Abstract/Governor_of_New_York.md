@@ -1,0 +1,1 @@
+The GOVERNOR OF NEW YORK is the head of government of the U.S. state of New York. The governor is the head of the executive branch of New York's state government and the commander-in-chief of the state's military and naval forces.

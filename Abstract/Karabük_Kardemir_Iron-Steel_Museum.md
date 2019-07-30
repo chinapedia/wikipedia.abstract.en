@@ -1,0 +1,1 @@
+KARABÜK KARDEMIR IRON-STEEL MUSEUM () is a museum in Karabük, Turkey. Kardemir is the name of the Turkish steel production plant in Karabük. _Demir-Çelik_ in the native name is Turkish for "Iron-Steel"

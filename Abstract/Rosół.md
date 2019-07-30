@@ -1,0 +1,1 @@
+ROSÓŁ is a traditional Polish meat soup. Its most popular variety is the _rosół z kury_, or clear chicken soup. It is commonly served with capellini pasta. A vegetarian version can be made, substituting meat with oil or butter.

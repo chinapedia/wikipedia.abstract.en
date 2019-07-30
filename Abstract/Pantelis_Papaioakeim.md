@@ -1,0 +1,1 @@
+PANTELEIMON "PANTELIS" PAPAIOAKEIM (alternate spelling: Papaioakim) () (born 9 September 1975) is a retired Greek professional basketball player. At a height of 2.06 m (6'9") tall, he played at both the power forward and center positions.[1]

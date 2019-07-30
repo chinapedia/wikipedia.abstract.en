@@ -1,0 +1,1 @@
+ROKHSAREH GHAEMMAGHAMI is a Sundance Award-winning[1] Iranian documentary filmmaker who was born in Tehran. She has directed one full-length documentary, four short documentaries and one animated documentary.[2]

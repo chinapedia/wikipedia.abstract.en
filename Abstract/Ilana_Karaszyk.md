@@ -1,0 +1,1 @@
+ILANA KARASZYK (also "Karashik"; אילנה קרשיק; born July 1, 1938) is an Israeli former Olympic runner and long jumper.[1] In 1960 she was the Israeli Women's Champion in the 200 metre run and in the long jump.

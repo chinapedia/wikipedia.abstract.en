@@ -1,0 +1,1 @@
+The 2016–17 ÖFB-FRAUENLIGA is the 46th season of the women's football top level league in Austria. FSK St. Pölten-Spratzern were the defending champion. They renamed to SKN St. Pölten to appeal a broader region and won their third title in a row this season.[1]

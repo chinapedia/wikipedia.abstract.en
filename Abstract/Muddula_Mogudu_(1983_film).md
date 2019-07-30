@@ -1,0 +1,1 @@
+_MUDDULA MOGADU_ (English: LOVING HUSBAND) is a 1983 Telugu drama film, produced by Cherukuri Prakash Rao under the Maheeja Films[1] banner and directed by K. S. Prakash Rao.[2] It stars Akkineni Nageswara Rao, Sridevi in the lead roles[3] and music composed by S. Rajeswara Rao.[4]

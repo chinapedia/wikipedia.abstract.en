@@ -1,0 +1,1 @@
+MEGHNA VENKAT , is an Indian classical Bharata Natyam dancer. She is also a choreographer and teacher. She is the disciple of guru shri Adyar K. Lakshman [1] She has performed in many places in India.[2] she is a regular artiste for Nada Neerajanam.[3] She has participated in world dance day celebrations conducted by Sai arts International [4]

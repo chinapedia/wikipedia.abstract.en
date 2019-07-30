@@ -1,0 +1,1 @@
+Foto_Claudia_Rosiny_1.jpg

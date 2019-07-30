@@ -1,0 +1,1 @@
+CHEIKH HAMIDOU KANE, nicknamed "Mathaira,"[1] (18 December 1939[2] - 15 May 2009) was a Senegalese politician and economist who served as a government minister several times during Abdou Diouf's presidency. He was a member of the Socialist Party (PS) and later of the Alliance of the Forces of Progress (AFP).

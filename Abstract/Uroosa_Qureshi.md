@@ -1,0 +1,1 @@
+UROOSA QURESHI is a Pakistani television actress and model. She is best known for her roles in _Meenu Ka Susral_, _Daagh_ and _Sartaj Mera Tu Raaj Mera_ for which she was nominated for Best Soap Actress at 4th Hum Awards.[1][2]

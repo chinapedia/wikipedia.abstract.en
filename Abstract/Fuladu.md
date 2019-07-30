@@ -1,0 +1,1 @@
+GuinéeCasamance1906.jpg FULADU (; ) or FULADUGU (French: _Fouladougou_) is a historic region in the Upper Casamance, in the south of Senegal near the border with Guinea. It corresponds roughly to the modern Kolda Department.

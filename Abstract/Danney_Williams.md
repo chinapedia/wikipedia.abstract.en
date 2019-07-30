@@ -1,0 +1,1 @@
+DANNEY LEE WILLIAMS JR. (born December 7, 1985) is a biracial man from Little Rock, Arkansas who claims to be the biological son of Bill Clinton, the former President of the United States.[1] The claim remains unproven.[2]

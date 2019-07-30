@@ -1,0 +1,1 @@
+is a public park that straddles the Nerima and Itabashi wards of Tokyo in Japan. The western half of the park lies in Nerima Ward, while the eastern half is in Itabashi Ward. The park opened on 1 April 1957.[1]

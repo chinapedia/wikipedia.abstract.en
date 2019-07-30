@@ -1,0 +1,1 @@
+PIERRE GARSAU (7 November 1961 – 9 May 1997) was an Algerian born French male water polo player. He was a member of the France men's national water polo team. He competed with the team at the 1988 Summer Olympics and 1992 Summer Olympics.[1]

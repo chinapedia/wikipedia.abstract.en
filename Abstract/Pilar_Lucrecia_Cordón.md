@@ -1,0 +1,1 @@
+PILAR LUCRECIA CORDÓN MURO (born 4 March 1973) is a Spanish Olympic show jumping rider.[1][2] She competed at the 2016 Summer Olympics in Rio de Janeiro, Brazil, where she placed 11th in the team and 46th in the individual competition.

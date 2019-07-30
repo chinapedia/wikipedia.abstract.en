@@ -1,0 +1,1 @@
+IFEOLUWA ADENIKE DAMILOLA AJAYI known professionally as LUVVIE AJAYI (born January 5, 1985[1]) is a Nigerian author, speaker, and digital strategist.[2] Her first book, _I'm Judging You: The Do-Better Manual_, was a _New York Times_ best-seller_._[3]

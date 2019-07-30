@@ -1,0 +1,1 @@
+The SYLHET REFERENDUM was held in July 1947 in Sylhet Division to decide whether Sylhet would remain in Assam and join the new country of India or would join the province of East Bengal and the new country of Pakistan. The referendum decided in favor of joining Pakistan;[1] however, the Barak Valley remained in India.

@@ -1,0 +1,1 @@
+JOSÉ CAMILO CROTTO (1863-1936) was an Argentine politician, founder member of the Radical Civic Union.[1] He served as national Senator[2] and was Governor of Buenos Aires Province between 1918 and 1921.[3]

@@ -1,0 +1,1 @@
+FRANCES REYNOLDS is a Shillito Fellow in Assyriology at the Oriental Institute St Benet's Hall, Oxford. Her speciality is in Babylonian and Assyrian intellectual history, literature and religion, with an emphasis on the late second and first millennia BC.[1]

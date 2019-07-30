@@ -1,0 +1,1 @@
+TRICARBON MONOXIDE C₃O is a reactive radical oxocarbon molecule found in space, and which can be made as a transient substance in the laboratory. It can be trapped in an inert gas matrix or made as a short lived gas. C₃O can be classified as a ketene or an oxocumulene a kind of heterocumulene.[1]

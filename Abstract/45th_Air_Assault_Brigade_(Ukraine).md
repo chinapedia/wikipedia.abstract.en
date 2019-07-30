@@ -1,0 +1,1 @@
+The 45TH AIR ASSAULT BRIGADE is a brigade of the Ukrainian Air Assault Forces, formed twice. The brigade was first formed in 1993 from elements of the 299th Guards Airborne Regiment of the 98th Guards Airborne Division. Part of the 1st Airmobile Division, the brigade was disbanded. The brigade was reformed from an airmobile battalion in 2016.

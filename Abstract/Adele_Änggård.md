@@ -1,0 +1,1 @@
+ADELE ÄNGGÅRD (born ADELE HANKEY, 31 July 1933) is a British-Swedish stage and costume designer whose career has spanned some of the most significant major stages across Europe and Scandinavia. In parallel she's actively pursused archeology and writing, and in later life contributed new interpretations on early European civilizations.

@@ -1,0 +1,1 @@
+GLADYS ARNOLD (October 5, 1905 - September 29, 2002) was a Canadian journalist, best known for her work in France for the Canadian Press during World War II.[1] Arnold was born in Macoun, Saskatchewan, Canada.

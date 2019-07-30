@@ -1,0 +1,1 @@
+is a Japanese manga series both written and illustrated by Itokatsu. The series is currently serialized in _Manga Action_, while being published by Futabasha and has collected 8 volumes since April 2012. Crunchyroll is simulpublishing the chapters in English as they are published in Japan.[1]

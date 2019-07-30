@@ -1,0 +1,1 @@
+Chicago Collections is a membership organization of more than 25 libraries, museums, historical societies, and other cultural heritage organizations collaborating to preserve and promote the history of the Chicago region.

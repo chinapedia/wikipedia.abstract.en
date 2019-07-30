@@ -1,0 +1,1 @@
+LEONID HRYHOROVYCH KOSAKIVSKY () (born 21 January 1950, in Chernivtsi, Ukraine), is a Ukrainian politician. In 1993 to 1998, he was a leading figure in a political life of Kiev city and became the first publicly elected mayor in the city in modern times.

@@ -1,0 +1,1 @@
+A RADIUM RELEASE HITCH is a load-releasing hitch using 3:1 mechanical advantage which is used in a two-rope technical rescue system.[1] The Radium Release Hitch allows a load to be transferred from one rope to another and is commonly rigged into the belay line prior to the operation of a two-rope technical rescue system.[2]

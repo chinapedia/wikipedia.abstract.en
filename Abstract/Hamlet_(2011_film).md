@@ -1,0 +1,1 @@
+_HAMLET_ is a 2011 Canadian drama film written and directed by Bruce Ramsay in his directorial debut. It is a condensed retelling of William Shakespeare's play _Hamlet_ set in 1940s England. Ramsay stars alongside Lara Gilchrist, Peter Wingfield, Gillian Barber, and Duncan Fraser. It premiered at the Vancouver International Film Festival and was theatrically released in 2014.

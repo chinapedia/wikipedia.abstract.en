@@ -1,0 +1,1 @@
+HENRY GWYN JEFFREYS MOSELEY (; 23 November 1887 – 10 August 1915) was an English physicist, whose contribution to the science of physics was the justification from physical laws of the previous empirical and chemical concept of the atomic number. This stemmed from his development of Moseley's law in X-ray spectra.

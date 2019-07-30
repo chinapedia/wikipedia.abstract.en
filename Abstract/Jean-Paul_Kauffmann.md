@@ -1,0 +1,1 @@
+Jean-Paul_Kauffmann_par_Claude_Truong-Ngoc_octobre_2013.jpg

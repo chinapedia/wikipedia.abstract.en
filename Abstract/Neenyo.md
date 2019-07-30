@@ -1,0 +1,1 @@
+SEAN SEATON, known professionally as NEENYO, is a Canadian record producer and songwriter.[1] He is best known for his works with Drake, PARTYNEXTDOOR as well as various artists including Future, Mr. Probz, Jadakiss and Lloyd Banks. Neenyo has received widespread acclaim for his production style.

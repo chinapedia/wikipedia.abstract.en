@@ -1,0 +1,1 @@
+Astrophel.jpg _ASTROPHEL: A PASTORALL ELEGY UPON THE DEATH OF THE MOST NOBLE AND VALOROUS KNIGHT, SIR PHILIP SIDNEY_ is a poem by the English poet Edmund Spenser.[1] It is Spenser's tribute to the memory of Sir Philip Sidney, who had died in 1586, and was dedicated "To the most beautiful and vertuous Ladie, the Countesse of Essex", Frances Walsingham, Sidney's widow.

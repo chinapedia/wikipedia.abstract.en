@@ -1,0 +1,1 @@
+_LIFE WITHOUT SOUND_ is the fourth studio album by the American indie rock band Cloud Nothings, released on January 27, 2017 on Carpark Records. The album was produced and mixed by John Goodmanson,[1] and is the first to feature guitarist Chris Brown.

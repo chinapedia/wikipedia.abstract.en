@@ -1,0 +1,1 @@
+MARIANNA SOTIRIANOS KAMBOUROGLOU (1819-1890), was a Greek folklorist.

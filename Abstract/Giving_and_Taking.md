@@ -1,0 +1,1 @@
+_GIVING AND TAKING_ is the eighth studio album by Australian group the Seekers. The album was released in 1976 and is the second studio album to feature the vocals of Louisa Wisseling. The album peaked at number 5 in New Zealand.

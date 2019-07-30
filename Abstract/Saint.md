@@ -1,0 +1,1 @@
+Saint_Joseph's_Catholic_Church_(Central_City,_Kentucky)_-_stained_glass,_St._Theresa_of_Ávila_detail.jpg. In traditional Christian iconography, saints are often depicted with halos as a symbol of holiness.]]

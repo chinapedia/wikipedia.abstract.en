@@ -1,0 +1,1 @@
+The 13TH KRAL TV VIDEO MUSIC AWARDS (Turkish: 13. KRAL TV VIDEO MÜZIK ÖDÜLLERI, or 13. KRAL TV VMÖ) were organized by Kral TV at the İstanbul Gösteri Merkezi on Wednesday, May 9, 2007. The hosts were Oktay Kaynarca and Özgü Namal.[1]

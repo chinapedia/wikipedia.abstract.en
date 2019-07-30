@@ -1,0 +1,1 @@
+The MYANMAR CHESS CHAMPIONSHIP is organized by the Myanmar Chess Federation, which was established in 1972 and joined FIDE in 1990.[1] With the exception of a hiatus in 1977, the tournament has been held annually since 1974.

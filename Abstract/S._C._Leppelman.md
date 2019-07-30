@@ -1,0 +1,1 @@
+SPRAGUE CARROLL LEPPELMAN (December 24, 1863 – March 24, 1943) was an American politician. He served in the South Dakota State Senate from 1889 to 1890. He also sat in the Dakota Territory Legislature from 1881 to 1882.[1][2]

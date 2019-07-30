@@ -1,0 +1,1 @@
+THE DAILY CLEVELAND HERALD was a daily American newspaper published by _Harris and Fairbanks_ from 1853 to 1874 in Cleveland, Ohio. It covered events in the city of Cleveland, Cuyahoga County and the state of Ohio.[1][2]

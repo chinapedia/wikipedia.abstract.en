@@ -1,0 +1,1 @@
+This article lists the members of President Donald Trump's Cabinet. Trump assumed office on January 20, 2017, and the president has the authority to nominate members of his Cabinet to the United States Senate for confirmation under Appointments Clause of the United States Constitution.

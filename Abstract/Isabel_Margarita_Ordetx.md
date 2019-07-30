@@ -1,0 +1,1 @@
+ISABEL MARGARITA ORDETX Y CRUZ PRIETO was a Cuban writer, poet, and feminist activist.[1] She contributed to various publications of her country as a chronicler, including _Heraldo de Cuba_, _La Discusión_, _El Fígaro_, _la Bohemia_,[2] _América_, _Las Antillas_, and _Arte. Revista Universal_.[3]

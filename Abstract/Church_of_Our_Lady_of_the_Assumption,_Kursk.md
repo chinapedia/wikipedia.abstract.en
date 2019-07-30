@@ -1,0 +1,1 @@
+The _' Church of Our Lady of the Assumption_'[1] () It is a Latin Rite Catholic Church located in the city of Kursk, in the Archdiocese of European Russia,[2] headquartered in Moscow (and whose archbishop is Monsignor Paolo Pezzi).

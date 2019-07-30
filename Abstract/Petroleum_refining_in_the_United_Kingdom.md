@@ -1,0 +1,1 @@
+PETROLEUM REFINING IN THE UNITED KINGDOM produced around 61 million tonnes of petroleum products in 2015, down 19% from 2011.[1] There are six major and one smaller petroleum refinery in the downstream sector of the UK oil industry.[2]

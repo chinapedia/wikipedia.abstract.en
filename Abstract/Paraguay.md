@@ -1,0 +1,1 @@
+}} | image_coat = Coat of arms of Paraguay.svg | symbol_type = |group="nb"}} }} | image_map = PRY orthographic.svg | map_caption = | image_map2 = Paraguay - Location Map (2012) - PRY - UNOCHA.svg | national_motto =

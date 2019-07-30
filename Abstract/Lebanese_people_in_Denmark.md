@@ -1,0 +1,1 @@
+LEBANESE PEOPLE OF DENMARK are people from Lebanon or those of Lebanese descent who live in the country of Denmark. The majority of Lebanese people came to Denmark in the 1970s and 1980s, either escaping the Lebanese Civil War or for economic reasons.[1] Per 1 October 2016, 26,404 persons in Denmark were of Lebanese origin.[2]

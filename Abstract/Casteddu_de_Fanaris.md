@@ -1,0 +1,1 @@
+The CASTEDDU DE FANARIS (_Castle of Fanaris_ in english) is an important archaeological site located in the municipality of Decimoputzu, along the border with the town of Vallermosa, in the Province of South Sardinia.

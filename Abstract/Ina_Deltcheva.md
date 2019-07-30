@@ -1,0 +1,1 @@
+INA DELTCHEVA (; born 20 July 1977 in Plovdiv; alternate transliteration: INA DELCHEVA)[1] is a Bulgarian rhythmic gymnast. She won a silver medal in the group all-around at the 1996 Summer Olympics.[2]

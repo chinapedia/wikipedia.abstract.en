@@ -1,0 +1,1 @@
+JOSEPH BOWLES (christened 6 July 1798 – 8 February 1879) was an English first-class cricketer active 1834–35 who played for Oxford University. He was born in Farringdon, Berkshire and died in Stanton Lacy, Shropshire. He appeared in two first-class matches.[1]

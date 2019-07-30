@@ -1,0 +1,1 @@
+FATHER DOUGAL MCGUIRE is a character in the Channel 4 sitcom _Father Ted_. Created by Arthur Mathews and Graham Linehan, Dougal was portrayed by comedian Ardal O'Hanlon for the programme's three series. The character is a childlike, simple-minded Roman Catholic curate exiled to Craggy Island, a small island off the coast of Galway.

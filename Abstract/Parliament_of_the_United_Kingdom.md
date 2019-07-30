@@ -1,0 +1,1 @@
+| house1 = House of Commons[1] | structure1 = File:UK House of Commons 2017.svg | structure1_res = 300 | house2 = House of Lords[2] | structure2 = Peers 2018.svg|thumb | | structure2_res = 300 |political_groups1 =

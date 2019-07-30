@@ -1,0 +1,1 @@
+is the 14th single of Japanese girl group Kalafina. The song was used as the ending theme to the anime film _Puella Magi Madoka Magica the Movie: Rebellion_. The single peaked at No. 4 on Japan’s weekly Oricon singles chart, having reached 37,259 units.[1] As of 2013, Kimi no Gin no Niwa has become the best-selling single of Kalafina.[2]

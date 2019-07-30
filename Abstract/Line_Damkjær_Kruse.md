@@ -1,0 +1,1 @@
+LINE DAMKJÆR KRUSE (born 7 January 1988) is a Danish badminton player.[1][2] She won silver medal in girls' doubles event at the 2007 Europeann Junior Championships, and bronze medal in mixed doubles event.[3]

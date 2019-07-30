@@ -1,0 +1,1 @@
+COLART, or the COLART GROUP, is a large international supplier of art materials, with subsidiaries and brands such as Winsor & Newton, Liquitex and Lefranc & Bourgeois.[1][2] The group's head office is situated in London.

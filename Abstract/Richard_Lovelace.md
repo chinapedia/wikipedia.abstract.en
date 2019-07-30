@@ -1,0 +1,1 @@
+RICHARD LOVELACE (pronounced , homophone of "loveless") (9 December 1617 – 1657) was an English poet in the seventeenth century. He was a cavalier poet who fought on behalf of the king during the Civil War. His best known works are "To Althea, from Prison", and "To Lucasta, Going to the Warres".

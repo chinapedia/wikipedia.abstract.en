@@ -1,0 +1,1 @@
+Hannu_Väisänen_PKU2374.jpg HANNU PEKKA ANTERO VÄISÄNEN (born 2 October 1951) is a graphic artist, painter and writer from Finland. He now lives in France, and his work has been shown in numerous European countries.[1]

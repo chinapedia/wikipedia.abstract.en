@@ -1,0 +1,1 @@
+"MZEO" (, ) is a song by Georgian singer Mariam Mamadashvili. It represented Georgia and was the winning song at the Junior Eurovision Song Contest 2016 in Valletta, Malta.[1] Mamadashvili also performed Mzeo in the opening of the 2017 edition of the contest.

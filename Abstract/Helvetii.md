@@ -1,0 +1,1 @@
+Maxima_Sequanorum.jpg'' (c. 300 AD), which comprised the territories of the Helvetii, Sequani and several smaller tribes. The relative locations of the Helvetian _pagi_ Tigurini and Verbigeni, though indicated on the map, remain unknown.[1]]] 300 px in the 1st century BC, showing the relative positions of the Celtic tribes.]]

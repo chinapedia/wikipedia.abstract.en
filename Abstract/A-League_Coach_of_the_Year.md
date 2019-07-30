@@ -1,0 +1,1 @@
+The A-LEAGUE COACH OF THE YEAR is an annual soccer award presented to coaches in Australia. It recognises the most outstanding manager in the A-League each season. The recipient is chosen by a vote of all coaches at the conclusion of the regular season.[1] The award was established in the first A-League season, 2005–06.

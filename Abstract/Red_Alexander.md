@@ -1,0 +1,1 @@
+JAKE SHUMAN "RED" ALEXANDER (January 3, 1903 – July 28, 1969) was a politician in the state of Florida. He served in the Florida House of Representatives from 1953 to 1957, as a Democrat, representing Liberty County.[1][2]

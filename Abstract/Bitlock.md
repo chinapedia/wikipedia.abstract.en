@@ -1,0 +1,1 @@
+The BITLOCK is a brand of bicycle lock for securing a bicycle to a pole or other fixture, similar to a standard U-lock but it also incorporates a smartlock that can be activated via bluetooth with a smartphone.[1]

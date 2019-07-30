@@ -1,0 +1,1 @@
+The FEDERATION FOR SELF-FINANCING TERTIARY EDUCATION (FSTE) is a higher education institutions alliance in Hong Kong.[1] The alliance was established as THE FEDERATION FOR CONTINUING EDUCATION IN TERTIARY INSTITUTIONS (FCE) in 1994. The FSTE aims to advance the quality, promote collaboration and share practices in the self-financing tertiary education sector in Hong Kong.[2][3]

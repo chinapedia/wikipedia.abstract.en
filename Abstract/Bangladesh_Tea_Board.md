@@ -1,0 +1,1 @@
+BANGLADESH TEA BOARD or BTB,[1] an autonomous body responsible for creating laws regarding tea production, controlling and encouraging the production of tea and is located in Nasirabad, Chittagong, Bangladesh.[2][3] Major General Jahangir Al Mustahidur Rahman is the present chairman of the body.[4]

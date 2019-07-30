@@ -1,0 +1,1 @@
+The 1908–09 DUKE BLUE DEVILS MEN'S BASKETBALL TEAM represented Duke University during the 1908-09 men's college basketball season. The head coach was Wilbur Wade Card and the team finished with an overall record of 8–1.[1]

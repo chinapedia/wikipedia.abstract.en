@@ -1,0 +1,1 @@
+SCOTT SAVITT is a former foreign correspondent for The Los Angeles Times, although according to Los Angeles Times records he has never held a staff position there, and United Press International in Beijing. His articles have been published in The Los Angeles Times,[1][2] Washington Post,[3] Wall Street Journal,[4] New York Times,[5] and many other publications.[6][7][8]

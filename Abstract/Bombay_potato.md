@@ -1,0 +1,1 @@
+Anjum's_Indian_Vegetarian_Feast_-_Bombay_Potatoes.jpg

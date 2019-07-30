@@ -1,0 +1,1 @@
+The Kingdom of Bahrain is deemed ‘Not Free’ in terms of Net Freedom and Press Freedom by Freedom House.[1] The 2016 World Press Freedom Index by Reporters Without Borders ranked Bahrain 162nd out of 180 countries.[2]

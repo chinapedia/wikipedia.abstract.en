@@ -1,0 +1,1 @@
+HORSE ISLAND (_Gaeilge: Oileán Capall_) is a presently uninhabited island in County Kerry, Ireland, located close to Portmagee. It is owned by the Mcgill and Dooley family’s (Ann and John presently) but has been given this land by their ancestors Bridget and Jeremiah.

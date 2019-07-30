@@ -1,0 +1,1 @@
+POPE-ELECT STEPHEN (died 26 March 752) was a Roman priest elected pope in March 752 to succeed Zachary; he died of a stroke a few days later, before being consecrated a bishop.[1][2] Therefore, he is not listed as a pope in the _Annuario Pontificio_.

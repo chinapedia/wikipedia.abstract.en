@@ -1,0 +1,1 @@
+Congregational_Church_of_West_Stockbridge_MA.jpg, West Stockbridge, 1881.]] CHARLES T. RATHBUN was an American architect who practiced in Pittsfield, Massachusetts during the second half of the nineteenth century.

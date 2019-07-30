@@ -1,0 +1,1 @@
+LALATENDU BIDYADHAR MOHAPATRA was a politician from Odisha, India.[1][2] He was elected to the Odisha Legislative Assembly from Brahmagiri (Odisha Vidhan Sabha constituency)[3] in the year 1995, 2000 and 2004.

@@ -1,0 +1,1 @@
+The SURFACE WATER IMPROVEMENT AND MANAGEMENT ACT OF 1987 was a law passed by the Florida Legislature in order to protect surface waters of, which include estuaries, rivers, lakes, and streams.[1] The act created the Surface Water Improvement and Management Program, which seeks to control nonpoint source pollution.[2]

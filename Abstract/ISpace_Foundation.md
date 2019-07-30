@@ -1,0 +1,1 @@
+ISPACE FOUNDATION is a technology hub in Ghana known to offer a co-working space, tools and facilities for entrepreneurs and startups to launch and manage their business ideas. It was founded in 2013 by two technology entrepreneurs Josiah Kwesi Eyison and Fiifi Baidoo.[1][2][3]

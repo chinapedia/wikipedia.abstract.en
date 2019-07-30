@@ -1,0 +1,1 @@
+The 2017 METRO ATLANTIC ATHLETIC CONFERENCE WOMEN'S BASKETBALL TOURNAMENT was held March 2–6 at the Times Union Center in Albany, New York. The winner received an automatic trip to the 2017 Women's NCAA Tournament.

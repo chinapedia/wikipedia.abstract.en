@@ -1,0 +1,1 @@
+Giovanni_Battista_Moroni_001.jpg _THE TAILOR'' (_IL SARTO'' in Italian) is one of the better known portraits by Giovanni Battista Moroni. The artwork is a painting on canvas, and it measures 74 cm wide x 97 cm tall. It was created between the years 1565 and 1570. Currently it is located in the National Gallery of London, in the United Kingdom.

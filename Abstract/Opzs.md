@@ -1,0 +1,1 @@
+_OPzS_ is used to refer to a flooded type of tubular-plated, lead acid, deep cycle batteries. These batteries, generally have a cell voltage of 2 volts and are connected in series to produce higher voltages.

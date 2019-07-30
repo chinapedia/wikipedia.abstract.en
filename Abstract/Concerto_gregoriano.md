@@ -1,0 +1,1 @@
+The _CONCERTO GREGORIANO_ is a violin concerto by Ottorino Respighi.[1] It is inspired by the history and music of early Christianity, such as plainsong and Gregorian chant.[2][3] It was written in 1921 and premiered the following year in Rome.[4]

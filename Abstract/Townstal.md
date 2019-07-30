@@ -1,0 +1,1 @@
+St_Clements_Church,_Dartmouth,_Devon_(geograph_3178150).jpg View_to_the_north_of_Townstal_-_geograph.org.uk_-_1094081.jpg TOWNSTAL (anciently _Tunstall,[1] Townstall_,[2] etc.) is an historic manor and parish on elevated ground now forming part of the western suburbs of the town of Dartmouth in Devon.

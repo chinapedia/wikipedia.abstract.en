@@ -1,0 +1,1 @@
+ROBERT THOMAS PERRY (born March 11, 1943) is an American former politician. He served as a Republican member for the 24th district in the South Dakota House of Representatives from 2011 to 2012.[1][2]

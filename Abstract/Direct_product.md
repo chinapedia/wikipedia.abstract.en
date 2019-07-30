@@ -1,0 +1,1 @@
+In mathematics, one can often define a DIRECT PRODUCT of objects already known, giving a new one. This generalizes the Cartesian product of the underlying sets, together with a suitably defined structure on the product set. More abstractly, one talks about the product in category theory, which formalizes these notions.

@@ -1,0 +1,1 @@
+PETER ALLEN DAVID (born September 23, 1956),[1][2] often abbreviated PAD,[3] is an American writer of comic books, novels, television, films and video games.[4] His notable comic book work includes an award-winning 12-year run on _The Incredible Hulk_, as well as runs on _Aquaman_, _Young Justice_, _Supergirl_, _Fallen Angel_, _Spider-Man 2099_ and _X-Factor_.

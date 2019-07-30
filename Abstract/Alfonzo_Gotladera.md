@@ -1,0 +1,1 @@
+ALFONZO FELICIANO GOTLADERA (born February 16, 1992) is a Filipino professional basketball player who last played for the NLEX Road Warriors of the Philippine Basketball Association (PBA). He was selected by the NLEX Road Warriors in the 2016 PBA draft.[1]

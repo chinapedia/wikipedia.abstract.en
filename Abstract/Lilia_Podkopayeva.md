@@ -1,0 +1,1 @@
+LILIA OLEKSANDRIVNA PODKOPAYEVA (; born August 15, 1978) is a Ukrainian former artistic gymnast. She is the 1995 world all-around champion, and the 1996 Olympic all-around and floor exercise champion. Often thought of as a complete athlete, Podkopayeva was known for combining power, style, and balletic grace.[1]

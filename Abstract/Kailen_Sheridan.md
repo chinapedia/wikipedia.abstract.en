@@ -1,0 +1,1 @@
+'''Kailen Sheridan ''' (born July 16, 1995) is a Canadian international footballer who currently plays as a goalkeeper for the Sky Blue FC of the National Women's Soccer League and the Canadian national team.

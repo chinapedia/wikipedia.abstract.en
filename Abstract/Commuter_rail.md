@@ -1,0 +1,1 @@
+DART_Unit_8203.jpg is part of Dublin's commuter rail network. It is operated by a fleet of Electric Multiple Units.]] Trem_Linha_Coral_CPTM.jpg train on the Coral Line in São Paulo, Brazil.]] Z20500lm.jpg train from Paris's RER line D running an old "ZYCK" (now renamed "ZUCO") route towards Melun]] AMA_103_at_Puhinui.jpg electric multiple unit used in Auckland, New Zealand]]

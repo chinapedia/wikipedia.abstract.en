@@ -1,0 +1,1 @@
+NINNI CHARLOTTA LAAKSONEN (born 9 January 1986 in Helsinki) is a model, former titleholder of Miss Finland (2006) and a former Miss Universe contestant.[1][2][3] She presently runs a clothing and beauty products company called Ninnin Lifestyle & Living.[4][5]

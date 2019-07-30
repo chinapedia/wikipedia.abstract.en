@@ -1,0 +1,1 @@
+HUMARAMOVIE, also occasionally stylized _HumaraMovie_,[1] is an Indian YouTube channel and initiative that was launched in 2011 by Vinay Mishra, Preety Ali, Pallavi Rohatgi and Raghavan.[2][3] The channel specializes in short film and is known for providing a platform for young filmmakers.[4][5]

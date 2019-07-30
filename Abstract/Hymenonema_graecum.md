@@ -1,0 +1,1 @@
+_HYMENONEMA GRAECUM_ is a perennial herbaceous plant of 20–70 cm, that rests with its buds at or just under the surface of the soil (a so-called hemicryptophyte). The Greek vernacular name is ΑΔΡΑΛΊΔΑ (Adralida), meaning "handsome Lida". The leaves are pinnate, and may be up to 1 cm wide. The ligulate flowers are yellow. The species is an endemic of Greece.[1]

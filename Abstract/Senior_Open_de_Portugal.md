@@ -1,0 +1,1 @@
+The SENIOR OPEN DE PORTUGAL was a men's senior (over 50) professional golf tournament on the European Senior Tour. It was held just once, in September 2014, at the Hotel Palace of Vidago, Vidago, Chaves, Portugal. The winner was Tim Thelen who won the first prize of €33,750 out of total prize-money of €225,000.

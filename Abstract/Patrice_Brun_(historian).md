@@ -1,0 +1,1 @@
+PATRICE BRUN, (born 1953, Pessac) is a French historian, a specialist of ancient Greece and epigraphy. His research focuses on the history of classical and Hellenistic Greece. He was president of the Bordeaux Montaigne University between 2009 and 2012.

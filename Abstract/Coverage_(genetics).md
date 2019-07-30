@@ -1,0 +1,1 @@
+Read,_read_length_and_read_depth_to_achieve_a_read_depth_of_4.jpg COVERAGE (or DEPTH) in DNA sequencing is the number of unique reads that include a given nucleotide in the reconstructed sequence.[1][2] DEEP SEQUENCING refers to the general concept of aiming for high number of unique reads of each region of a sequence.[3]

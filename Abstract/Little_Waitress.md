@@ -1,0 +1,1 @@
+_LITTLE WAITRESS_ is a 1932 British musical film directed by Widgey R. Newman and starring Claude Bailey and Moore Marriott. It was made at Bushey Studios as a quota quickie.[1] A romance occurs between an impoverished tourist and a surprisingly wealthy Germany waitress.

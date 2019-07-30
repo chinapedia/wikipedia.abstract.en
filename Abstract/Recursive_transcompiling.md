@@ -1,0 +1,1 @@
+RECURSIVE TRANSPILING (or RECURSIVE TRANSCOMPILING) is the process of applying the notion of transpiling recursively, to create a pipeline of transformations (often starting from a single source of truth) which repeatedly turn one technology into another.

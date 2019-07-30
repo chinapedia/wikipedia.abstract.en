@@ -1,0 +1,1 @@
+MEG WEBSTER (born 1944) is an American artist from San Francisco working primarily in sculpture and installation art. While her works span multiple media, she is most well known for her artworks that feature natural elements. She is closely affiliated with Post-Minimalism and the Land Art movement and has been exhibiting her work since 1980.[1]

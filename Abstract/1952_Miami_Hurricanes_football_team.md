@@ -1,0 +1,1 @@
+The 1952 MIAMI HURRICANES FOOTBALL TEAM represented the University of Miami for the 1952 college football season. The Hurricanes played their home games at the Burdine Stadium in Miami, Florida. The team was coached by Andy Gustafson, in his fifth year as head coach for the Hurricanes.

@@ -1,0 +1,1 @@
+The KARNATAKA STATE FILM AWARDS 2015, presented by Government of Karnataka, to felicitate the best of Kannada Cinema released in the year 2015.[1] The ceremony was held in Bengaluru on 13 November 2016.[2]

@@ -1,0 +1,1 @@
+"SERVICE" is the fourth episode of the seventh season of the post-apocalyptic horror television series _The Walking Dead_, which aired on AMC on November 13, 2016. The episode was written by Corey Reed and directed by David Boyd.

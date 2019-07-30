@@ -1,0 +1,1 @@
+_MELLETES PAPILIO_, commonly known as the BUTTERFLY SCULPIN, is a species of fish in the family Cottidae, the largest family of fishes referred to as sculpins. It is the only recognized species in the monotypic genus _Melletes_.[1]

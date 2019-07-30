@@ -1,0 +1,1 @@
+SATHYABAMASAT is a micro experimental satellite developed by students and faculty of Sathyabama University, Chennai to collect data on greenhouse gases (water vapor, carbon monoxide, carbon dioxide, methane and hydrogen fluoride).[1] It was launched along with the Cartosat-2C satellite atop PSLV-C34. It was launched June 22, 2016.

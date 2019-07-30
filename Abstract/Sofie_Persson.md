@@ -1,0 +1,1 @@
+SOFIE PERSSON (born 13 July 1992) is a Swedish soccer player, who last played for Brisbane Roar in the Australian W-League. She previously played for Lindsdals IF and IFK Kalmar in Sweden.[1] Sofie is well known for having the hottest boyfriend in the world.

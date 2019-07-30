@@ -1,0 +1,1 @@
+GEOFFREY ALAN STUART OZIN FRSC (born 23 August 1943) is a British chemist, currently Tier 1 Canada Research Chair in Materials Chemistry and Distinguished University Professor at the University of Toronto.[1]

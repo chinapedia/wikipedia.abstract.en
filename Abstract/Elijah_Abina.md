@@ -1,0 +1,1 @@
+ELIJAH OLUDELE ABINA (born June 16, 1935 in Aradagun, Badagry Lagos State, Nigeria) is a Nigerian pastor and the General Overseer of The Gospel Faith Mission International (GOFAMINT) and one of the founding fathers of the Pentecostal Fellowship of Nigeria (PFN).[1]

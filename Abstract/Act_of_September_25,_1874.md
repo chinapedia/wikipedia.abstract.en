@@ -1,0 +1,1 @@
+The '''Act of September 25, 1874 ''' elevated to constitutional status the Reform Laws. Sebastián Lerdo de Tejada enacted through a decree on September 25, 1873, a series of additions and amendments to the Mexican Constitution of 1857, concerning the Reform Laws that had decreed the separation of church and state.

@@ -1,0 +1,1 @@
+NIGAR HASAN-ZADEH, (, ) is a poet, philologist of Russian language and literature. She is a member of the Union of Azerbaijani Writers and a member of Pen International Director of "Söz" literary project run by the Ministry of Culture and Tourism of Azerbaijan.

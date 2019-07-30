@@ -1,0 +1,1 @@
+REVITAL SHARON (רויטל שרון; born December 2, 1970) is an Israeli former Olympic artistic gymnast.[1][2] At the age of 11, in 1982 Sharon won a gold medal at the International Workers’ Games in Italy. In 1988, Sharon was Israel's National Women's all-around champion, and was named Israel's 1988 Sportswoman of the Year.

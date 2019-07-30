@@ -1,0 +1,1 @@
+AHAMANSU ISLAMIC SENIOR HIGH SCHOOL[1]("AHISHS") is public co-educational high school located in Ahamansu, Ghana. It is the first Islamic senior high school in the Volta Region and one of three second cycle institutions in the Kadjebi District.[2]

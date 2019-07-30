@@ -1,0 +1,1 @@
+MRS. KAMALI TENYWA AMARU is a fictional character created by film producer, actress and screenwriter Nana Kagga Macpherson for Uganda's Urban TV series _Beneath The Lies_. Flavia Tumusiime portrayed Kamali from her debut in the pilot episode (Reflections of Us).[1]

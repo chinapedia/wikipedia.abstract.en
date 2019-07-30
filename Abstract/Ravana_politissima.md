@@ -1,0 +1,1 @@
+_RAVANA POLITISSIMA_ is a species of air-breathing land slug, a terrestrial pulmonate gastropod mollusk in the family Ariophantidae. It is a monotypic genus, which is endemic to island of Sri Lanka.[1] They are considered as endangered due to habitat destruction.[2]

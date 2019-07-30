@@ -1,0 +1,1 @@
+RAISING DEMONS is a "domestic memoir"[1] by American author Shirley Jackson.[2] It was first published in 1957, as a follow-up to her first memoir, _Life Among the Savages_.[3][4] The book was reissued in 2015 by Penguin.[5]

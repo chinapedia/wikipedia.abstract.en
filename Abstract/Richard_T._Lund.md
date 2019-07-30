@@ -1,0 +1,1 @@
+RICHARD T. LUND of the United Kingdom served as the Secretary and was later appointed Deputy Director of the Boy Scouts International Bureau, and later succeeded Daniel Spry as the last _Director_ of the World Scout Bureau.[1] In 1968, the function of _Director_ of the World Scout Bureau became _Secretary General_.

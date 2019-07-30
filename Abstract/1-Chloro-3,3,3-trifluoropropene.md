@@ -1,0 +1,1 @@
+1-CHLORO-3,3,3-TRIFLUOROPROPENE (HFO-1233zd) is the unsaturated chlorofluorocarbon with the formula HClC=C(H)CF₃. This colorless gas is of interest as a refrigerant in air conditioners. The compound exists as E- and Z-isomers.[1] It is prepared by fluorination and dehydrohalogenation reactions starting with 1,1,1,3,3-pentachloropropane.[2]

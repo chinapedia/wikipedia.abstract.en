@@ -1,0 +1,1 @@
+The 2016 FAST5 NETBALL WORLD SERIES is the seventh staging of the annual Fast5 Netball World Series, and the fourth to be played under the new Fast5 rules, which replaced the older fastnet rules introduced in 2009. The tournament was held in Australia for the first time with the venue being at Hisense Arena in Melbourne.[1]

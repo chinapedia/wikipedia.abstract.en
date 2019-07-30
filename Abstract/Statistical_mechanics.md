@@ -1,0 +1,1 @@
+STATISTICAL MECHANICS is one of the pillars of modern physics. It is necessary for the fundamental study of any physical system that has a large number of degrees of freedom. The approach is based on statistical methods, probability theory and the microscopic physical laws.[1][2][3]

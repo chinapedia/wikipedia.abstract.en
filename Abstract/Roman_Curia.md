@@ -1,0 +1,1 @@
+The ROMAN CURIA comprises the administrative institutions of the Holy See and the central body through which the affairs of the Catholic Church are conducted. It acts in the Pope’s name and with his authority for the good and for the service of the particular Churches and provides the central organization for the Church to advance its objectives.[1][2][3]

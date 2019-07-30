@@ -1,0 +1,1 @@
+Creation_myths_of_Japan-eng.svg In Shinto, is the collective name for the first gods which came into existence at the time of the creation of the universe. They were born in Takamagahara, the world of Heaven at the time of the creation. Unlike the later gods, these deities were born without any procreation.

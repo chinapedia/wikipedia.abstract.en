@@ -1,0 +1,1 @@
+GAZPACHO (; ) or ANDALUSIAN GAZPACHO is a cold soup made of raw, blended vegetables.[1] A classic of Spanish cuisine, it originated in the southern region of Andalusia. Gazpacho is widely eaten in Spain and Portugal, particularly during hot summers, as it is refreshing and cool.

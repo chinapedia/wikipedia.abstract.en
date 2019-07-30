@@ -1,0 +1,1 @@
+SABILA NUR is a Bangladeshi television actress and model.[1][2] She became popular as "The Imaginary Girl" in the romantic comedy telefilm _Monkey Bizness_ (2015). She is well known for her bright appearance in Bengali TV dramas and many TVCs.[3][4] She made her debut in acting with the telefilm _U-Turn in 2014._[5][6]

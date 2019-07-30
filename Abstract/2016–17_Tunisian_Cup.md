@@ -1,0 +1,1 @@
+The 2016–17 Tunisian Cup (Coupe de Tunisie) was the 85th season of the football cup competition of Tunisia. The competition is organized by the Fédération Tunisienne de Football (FTF) and open to all clubs in Tunisia.

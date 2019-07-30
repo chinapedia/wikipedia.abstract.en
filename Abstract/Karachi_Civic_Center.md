@@ -1,0 +1,1 @@
+KARACHI CIVIC CENTER is the Civic Center which is the headquarters for the Government of Karachi and the office for the Mayor of Karachi is located here. KDA, Sindh Building Control Authority offices are also headquartered here.

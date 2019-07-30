@@ -1,0 +1,1 @@
+Lavendelstræde_cph.jpg LAVENDELSTRÆDE (lit. "Lavender Street") is a street in the old town of Copenhagen, Denmark). It runs from Kattesundet-Hestemøllestræde in the northeast to Vester Voldgade in the west, linking Slutterigade and Nytorv and at Regnbuepladsen and Copenhagen City Hall in the southwest.

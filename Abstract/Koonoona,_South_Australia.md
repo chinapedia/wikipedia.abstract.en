@@ -1,0 +1,1 @@
+KOONOONA is a rural locality in the Mid North region of South Australia, situated in the Regional Council of Goyder.[1] It was established in August 2000, when boundaries were formalised for the "long established local name".[2] It occupies the north-western corner of the cadastral Hundred of Apoinga.[3]

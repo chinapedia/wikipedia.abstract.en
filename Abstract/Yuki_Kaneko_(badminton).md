@@ -1,0 +1,1 @@
+is a Japanese badminton player from the Unisys team.[1][2] He won his first senior international title at the Romanian International tournament in the men's doubles event partnered with Takuto Inoue.[3]

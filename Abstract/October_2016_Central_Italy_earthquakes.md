@@ -1,0 +1,1 @@
+A series of major earthquakes struck Central Italy between the Marche and Umbria regions in October 2016. The third quake on 30 October was the largest in Italy in 36 years, since the 1980 Irpinia earthquake.[1]

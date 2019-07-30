@@ -1,0 +1,1 @@
+_KALYANI_ is a 1979 Telugu, drama film, produced by Venkat Akkineni, Nagarjuna Akkineni[1] under the Annapurna Studios banner[2] and directed by Dasari Narayana Rao.[3] It stars Murali Mohan, Jaya Sudha in the lead roles and music composed by Ramesh Naidu.[4] The film is based on Yaddanapudi Sulochana Rani's novel _Raagamayi_.

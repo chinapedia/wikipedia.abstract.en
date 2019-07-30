@@ -1,0 +1,1 @@
+The CATHOLIC IRISH BRIGADE was a unit in the British Army during the French Revolutionary Wars, largely drafted from the formerly-hostile French Irish Brigade by a series of rare changes in British and French policy.

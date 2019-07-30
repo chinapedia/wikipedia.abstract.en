@@ -1,0 +1,1 @@
+SUZANNE ORR (born 6 February 1982) is an Australian politician. She has been a Labor member of the Australian Capital Territory Legislative Assembly since October 2016, representing the electorate of Yerrabi. She worked as an urban planner before her election.[1]

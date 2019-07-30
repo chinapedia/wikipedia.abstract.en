@@ -1,0 +1,1 @@
+_NANOOK OF THE NORTH_ (also known as _NANOOK OF THE NORTH: A STORY OF LIFE AND LOVE IN THE ACTUAL ARCTIC_) is a 1922 American silent documentary film by Robert J. Flaherty, with elements of docudrama, at a time when the concept of separating films into documentary and drama did not yet exist.[1]

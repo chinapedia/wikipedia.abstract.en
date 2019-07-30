@@ -1,0 +1,1 @@
+MORTEZA SAFFARI NATANZI (, (27 April 1956 in Natanz – 26 June 2019) was an Iranian diplomat and politician who was representative of Natanz and Qamsar in the Parliament of Iran. He was a member of National Security and Foreign Policy Commission.[1]

@@ -1,0 +1,1 @@
+WAHIDUDDIN ZIAUDDIN AHMED (1916–2007)[1] was a Pakistani film-maker, known primarily for his work in the 1940s. After the Partition of India, Ahmed continued to make movies in Pakistan, but he met comparatively little success.

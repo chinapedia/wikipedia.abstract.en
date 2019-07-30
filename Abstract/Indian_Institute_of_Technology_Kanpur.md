@@ -1,0 +1,1 @@
+INDIAN INSTITUTE OF TECHNOLOGY KANPUR (also known as IIT KANPUR or IITK) is a public engineering institution located in Kanpur, Uttar Pradesh. It was declared to be an Institute of National Importance by the Government of India under the Institutes of Technology Act.

@@ -1,0 +1,1 @@
+Catacomb_no._14,_The_Cave_of_Rabbi_Yehuda_HaNasi.jpg]] JUDAH HA-NASI (, YEHUDAH HANASI or JUDAH THE PRINCE) or JUDAH I, was a second-century rabbi (a tanna of the fifth generation) and chief redactor and editor of the _Mishnah_. He lived from approximately 135 to 217 CE. He was a key leader of the Jewish community during the Roman occupation of Judea.

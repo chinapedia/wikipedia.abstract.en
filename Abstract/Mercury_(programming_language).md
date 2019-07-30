@@ -1,0 +1,1 @@
+MERCURY is a functional logic programming language made for real-world uses. The first version was developed at the University of Melbourne, Computer Science department, by Fergus Henderson, Thomas Conway, and Zoltan Somogyi, under Somogyi's supervision, and released on April 8, 1995.

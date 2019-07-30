@@ -1,0 +1,1 @@
+HILDE BRITT SKARBØVIK MELLBYE (born April 14, 1961) is a Norwegian businessperson. Having acted as CEO of Norlandia Care since February 2010,[1] Mellbye was appointed as CEO of the Norwegian government-owned wine and spirits retail monopoly company, AS Vinmonopolet after the death of Kai G. Henriksen, to assume the position on January 1, 2017.[2][3][4]

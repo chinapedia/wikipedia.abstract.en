@@ -1,0 +1,1 @@
+VICKI MAREE HOLLAND or NELSON[1] (born 11 September 1962)[2] is an Australian former competitive figure skater. She is a four-time Australian national champion (1980–1981 to 1983–1984)[3] and competed at the 1984 Winter Olympics in Sarajevo.[4]

@@ -1,0 +1,1 @@
+ĐORĐE ANDRIJAŠEVIĆ (; born May 5, 1931) is a Serbian professional basketball former player and former coach. He represented the Yugoslavia national basketball team internationally. He was the first coach to use full-court press technique in Europe.

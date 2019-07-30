@@ -1,0 +1,1 @@
+GEORGE CLARK PAYNE (17 February 1887 – 1932) was an English professional footballer who played as an inside left. He is mostly noted for his two years in the Southern League with Crystal Palace.[1] Payne also played in the Football League for clubs Sunderland and Woolwich Arsenal,[2] and in the Southern League for Tottenham Hotspur and Leyton.

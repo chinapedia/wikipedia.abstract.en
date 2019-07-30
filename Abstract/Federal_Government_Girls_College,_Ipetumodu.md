@@ -1,0 +1,1 @@
+FEDERAL GOVERNMENT GIRLS COLLEGE, IPETUMODU is a federal government owned secondary school located in Ipetumodu, Osun State, Nigeria.[1] FGGC Ipetumodu is one of the unity schools established by the federal government since 1974 to cater specifically for the girl child education.

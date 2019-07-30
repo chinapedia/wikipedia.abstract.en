@@ -1,0 +1,1 @@
+"WEATHERING HEIGHTS" is the fourth episode of the eighth season of the American sitcom _Modern Family_. It aired on October 12, 2016 on American Broadcasting Company (ABC). The episode is directed by Gail Mancuso and written by Paul Corrigan & Brad Walsh.

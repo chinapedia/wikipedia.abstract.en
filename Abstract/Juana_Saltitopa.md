@@ -1,0 +1,1 @@
+JUANA SALTITOPA (c. 1815- c. 1860), also known as "La Coronela" (The Female Colonel) was an activist and member of the Dominican military. She played an important role in the Dominican War for Independence, specifically in the Battle on 30 March 1844 in Santiago de los Caballeros. Her exact birthdate is unknown as is her death.

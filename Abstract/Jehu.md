@@ -1,0 +1,1 @@
+JEHU ( _Yehu_, meaning "Yahu is He"; ; ) was the tenth king of the northern Kingdom of Israel since Jeroboam I, noted for exterminating the house of Ahab at the instruction of Jehovah. He was the son of Jehoshaphat,[1] grandson of Nimshi, and possibly great-grandson of Omri.[2] His reign lasted for 28 years.

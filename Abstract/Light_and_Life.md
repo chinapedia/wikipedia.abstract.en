@@ -1,0 +1,1 @@
+LIGHT AND LIFE is a Gypsy-led evangelical Christian movement, that claims "up to 40% of British Gypsies" are part of it.[1] Practitioners abstain from alcohol and fortune-telling and engage in Charismatic prayer.

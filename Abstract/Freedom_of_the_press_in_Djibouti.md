@@ -1,0 +1,1 @@
+FREEDOM OF THE PRESS IN DJIBOUTI is not specifically mentioned by the country's constitution. However, Article 15 of the Constitution of Djibouti] does mention an individual's right to express their opinion "...by word, pen, or image..." and notes that "these rights may be limited by prescriptions in the law and in respect for the honour of others."[1]

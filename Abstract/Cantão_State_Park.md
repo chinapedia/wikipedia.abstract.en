@@ -1,0 +1,1 @@
+The CANTÃO STATE PARK () is a state park in the state of Tocantins, Brazil. It protects the Cantão wetlands, an area of igapó flooded forest in the ecotone where the Amazon rainforest merges into the cerrado.

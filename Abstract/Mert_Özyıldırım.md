@@ -1,0 +1,1 @@
+_' Mert Özyıldırım_' (born 28 February 1995 in Yenimahalle, Ankara, Turkey) is a Turkish football player who plays as midfielder for Bayburt Grup Özel İdarespor on loan from Kayserispor. He can also play as a center-back.

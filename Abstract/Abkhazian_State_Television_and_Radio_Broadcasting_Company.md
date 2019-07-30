@@ -1,0 +1,1 @@
+The ABKHAZIAN STATE TELEVISION AND RADIO BROADCASTING COMPANY is Abkhazia's public television and radio broadcaster, founded in 1976. Its sole TV channel, Apsua TV, started broadcasting on November 6, 1976.[1]

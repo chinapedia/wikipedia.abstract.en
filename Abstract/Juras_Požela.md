@@ -1,0 +1,1 @@
+JURAS POŽELA (12 April 1982 – 16 October 2016) was a Lithuanian politician who served as the Minister of Health of Lithuania from March 2016 until his death on 16 October 2016 from pancreatitis.[1][2] He was also a Seimas member, Youth and Sports Affairs Committee Chairman and a presidium member of the Social Democratic Party of Lithuania.

@@ -1,0 +1,1 @@
+EVA CHEN (born 1980) is the director of fashion partnerships at Instagram[1] and a children's book author[2]. Previously she was editor-in-chief of _Lucky_[3] and beauty and health director at _Teen Vogue_.[4]

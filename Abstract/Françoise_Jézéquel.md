@@ -1,0 +1,1 @@
+'''Françoise Jezequel ''' (born 30 March 1970 in Morlaix) is a French footballer who played as a midfielder for the France women's national football team. She was part of the team at the UEFA Women's Euro 2001. On club level she plays for Saint-Brieuc in France.[1]

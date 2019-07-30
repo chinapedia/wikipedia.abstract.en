@@ -1,0 +1,1 @@
+MEHRANEH MAHINTORABI (; born 11 August 1957 in Karaj, Alborz province, Iran)[1] is an Iranian actress. She gained popularity for her portrayal of Mahin in TV series, _"Hamsaraan (Spouses)"_ and her role as Atefeh in _"Khaneye Sabz (The Green House)"_.

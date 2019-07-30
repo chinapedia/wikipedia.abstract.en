@@ -1,0 +1,1 @@
+HENAN UNIVERSITY OF ECONOMICS AND LAW (河南财经政法大学), is a university located in Zhengzhou. Henan Province, China. It consists of the Henan University of Finance and Economics and the Henan Institute of Political Science and Law. It is accredited by the Chinese Ministry of Education, and has a curriculum based in economics, management, and law.

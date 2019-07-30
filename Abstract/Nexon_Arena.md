@@ -1,0 +1,1 @@
+The NEXON ARENA (Hangul: 넥슨 아레나) is a dedicated eSports stadium in Seoul, South Korea that hosts events for StarCraft II, League of Legends, and other games. It is owned by Nexon, a South Korean game development company. SPOTV is the main broadcaster at the stadium.[1]

@@ -1,0 +1,1 @@
+_MAGIC CAMP_ is an upcoming American comedy family television film produced by Team Todd and Gunn Films and released by Walt Disney Pictures. It is directed by Mark Waters and written by Dan Gregor and Doug Mand, from a story by Steve Martin. The film stars Adam DeVine, Jeffrey Tambor, Gillian Jacobs, Nathaniel McIntyre, Josie Totah and Cole Sand.

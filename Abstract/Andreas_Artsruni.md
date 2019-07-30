@@ -1,0 +1,1 @@
+Arzruni_Andreas.jpg ANDREAS (ANDREI) EREMEEVICH ARZRUNI ( Nov. 27 (Dec. 9), 1847 in Moscow; - Sept. 10 (22), 1898 in Hohenhonof,Germany) was an Armenian-Russian mineralogist and geologist.[1][2][3] He was Grigor Artsruni's brother.

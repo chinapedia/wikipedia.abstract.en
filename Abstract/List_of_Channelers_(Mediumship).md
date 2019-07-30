@@ -1,0 +1,1 @@
+Here is a list of channelers that propose to be in communication with beings and spirits of the deceased, through the study and practice of Mediumship. Mediumship is the practice of certain people—known as mediums—to purportedly mediate communication between spirits of the dead and living human beings.[1][2]

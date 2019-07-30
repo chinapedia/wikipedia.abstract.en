@@ -1,0 +1,1 @@
+'''Li Xiufu ''' (born 28 June 1965) is a Chinese footballer who played as a midfielder for the China women's national football team. She was part of the team at the inaugural 1991 FIFA Women's World Cup as the team captain. At the club level, she played for Prima Ham FC in Japan.[1]

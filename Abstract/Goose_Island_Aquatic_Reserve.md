@@ -1,0 +1,1 @@
+__NOTOC__ GOOSE ISLAND AQUATIC RESERVE is a marine protected area in the Australian state of South Australia located in waters adjoining the following island located in Spencer Gulf immediately north of Wardang Island and west of the town of Port Victoria - Goose Island, Little Goose Island and White Rock Island. [1]

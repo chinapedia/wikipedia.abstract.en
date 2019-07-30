@@ -1,0 +1,1 @@
+GREGG BROWNING JR.[1] (January 12, 1922 – February 1, 2007) was an American football end who played one season in the National Football League (NFL) with the New York Giants. He played college football at the University of Denver for the Denver Pioneers football team. He was drafted by the Pittsburgh Steelers in the sixth round of the 1945 NFL Draft.

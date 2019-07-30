@@ -1,0 +1,1 @@
+The OMNI COMMONS are a group of thirteen collectives in San Francisco's Bay Area devoted to DIY and community education.[1][2][3] It traces its inception to the Occupy movement, specifically Occupy Oakland, and was founded in 2014 on the principles of "community, positive creation and radical inclusion".[4][5]

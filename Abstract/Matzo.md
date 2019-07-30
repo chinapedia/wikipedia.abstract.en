@@ -1,0 +1,1 @@
+MATZO, MATZAH, or MATZA ( _matsoh_, _matsa_; plural MATZOT; MATZOS of Ashkenazi Jewish dialect) is an unleavened flatbread that is part of Jewish cuisine and forms an integral element of the Passover festival, during which _chametz_ (leaven and five grains that, per Jewish Law, can be leavened) is forbidden.

@@ -1,0 +1,1 @@
+JONNY CLAYTON (born 4 October 1974) is a Welsh darts player who plays in Professional Darts Corporation events. Clayton won the 2016 Worthingtons Darts Champion of Champions. His performances on the PDC Pro Tour ensured his qualification for the 2017 World Championship for the first time. He is a plasterer by trade. His nickname is THE FERRET.

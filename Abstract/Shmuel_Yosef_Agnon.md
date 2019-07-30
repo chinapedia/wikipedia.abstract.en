@@ -1,0 +1,1 @@
+SHMUEL YOSEF AGNON () (July 17, 1888 – February 17, 1970)[1] was a Nobel Prize laureate writer and was one of the central figures of modern Hebrew fiction. In Hebrew, he is known by the acronym SHAI AGNON (ש"י עגנון). In English, his works are published under the name S. Y. AGNON.

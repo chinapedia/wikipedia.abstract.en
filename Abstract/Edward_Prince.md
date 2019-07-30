@@ -1,0 +1,1 @@
+Doves_Press_Bible.jpg. The body text type is the "Doves Type", cut into metal by Prince.]] Kelmscott_Press_Typefaces.jpg EDWARD PHILIP PRINCE (1846-1923) was a British engraver and punchcutter, a cutter of the punches used to stamp the matrices used to stamp metal type.[1][2][3][4][5]

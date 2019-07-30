@@ -1,0 +1,1 @@
+_CYCLEA ELEGANS_ is a species of flowering plants in the family Menispermaceae. It is found in Sumatra, Malaya, Borneo. An isotype is kept at Kew Gardens Herbarium. It was collected on Mount Kinabalu Dallas.[1]

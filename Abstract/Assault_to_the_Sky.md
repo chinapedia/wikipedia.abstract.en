@@ -1,0 +1,1 @@
+_ASSAULT TO THE SKY_ () is a 2016 Italian documentary film written and directed by Francesco Munzi. It premiered out of competition at the 73rd edition of the Venice Film Festival. It depicts, through archive footage from Istituto Luce, the activities and the aftermath of the 1968 movement in Italy.[1][2]

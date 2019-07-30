@@ -1,0 +1,1 @@
+STEPHEN GOSS (born 2 February 1964) is a Welsh composer, guitarist and academic. His compositional output includes orchestral and choral works, chamber music, and solo pieces. His music draws freely on a number of styles and genres. He is particularly known for his guitar music, which is widely performed and recorded. Stephen_Goss.jpg

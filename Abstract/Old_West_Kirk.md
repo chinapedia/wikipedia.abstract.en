@@ -1,0 +1,1 @@
+The OLD WEST KIRK of the Church of Scotland, authorised by a 1589 Royal Charter and first opened in 1591, is noted as the first Presbyterian church built in Scotland following the Scottish Reformation, and the first approved by the Parliament of Scotland. At an early stage, east and west aisles were added as transepts, giving the church its cruciform plan.[1]

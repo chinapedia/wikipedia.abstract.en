@@ -1,0 +1,1 @@
+HENRY VII (; 28 January 1457 – 21 April 1509) was the King of England and Lord of Ireland from his seizure of the crown on 22 August 1485 to his death on 21 April 1509. He was the first monarch of the House of Tudor.

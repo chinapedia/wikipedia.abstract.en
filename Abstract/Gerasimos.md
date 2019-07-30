@@ -1,0 +1,1 @@
+GERASIMOS () is a Greek given name derived from Greek "γέρας" ("gΕras", "gift of honour, prize, reward"[1]). The suffix -ιμος gives the meaning "the one who deserves honour". It can also be anglicized as "Gerassimos" or "Gerasimus". It can also be slavicized as GERASIM (; ).

@@ -1,0 +1,1 @@
+The NGUBURINJI, also written NGOBORINDI, were an Indigenous Australian people who traditionally lived in northwest Queensland south of the Ganggalida, north of the Injilarija, west of the Mingin and east of the Waanyi.

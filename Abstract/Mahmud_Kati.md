@@ -1,0 +1,1 @@
+AL HAJJ MAHMUD KATI (or MAHMOUD KATI) (1468? - 1552 or 1593) was an African Muslim scholar. He is traditionally held to be the author of the West African chronicle _Tarikh al-fattash_, though the authorship is contested.[1]

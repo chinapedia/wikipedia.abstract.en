@@ -1,0 +1,1 @@
+Jacob_Ahrenberg.jpg]] JOHAN JACOB AHRENBERG, usually referred to as JAC (30 March 1847, in Vyborg – 10 October 1914, in Helsinki) was a Finnish architect, writer and artist. He designed a number of public buildings in Finland and is also remembered for his literary work which mainly deals with themes from contemporary everyday life in eastern Finland.

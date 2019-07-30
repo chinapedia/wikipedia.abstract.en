@@ -1,0 +1,1 @@
+CAMELOPARDALIS is a large but faint constellation of the northern sky representing a giraffe. The constellation was introduced in 1612 or 1613 by Petrus Plancius.[1] Some older astronomy books give CAMELOPARDALUS or CAMELOPARDUS as alternative spellings of the name, but the official version recognized by the International Astronomical Union is Camelopardalis.

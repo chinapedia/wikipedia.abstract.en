@@ -1,0 +1,1 @@
+ZHENG CHURAN (born c.1989) is a Chinese women's rights activist and feminist. Together with four other activists, she was detained, in March 2015, shortly before events planned for International Women's Day.[1] They are collectively known as the Feminist Five. In November 2016, she became one of the BBC's 100 Women 2016.[2]

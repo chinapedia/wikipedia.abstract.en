@@ -1,0 +1,1 @@
+_THE GOOD GIRLS REVOLT: HOW THE WOMEN OF NEWSWEEK SUED THEIR BOSSES AND CHANGED THE WORKPLACE_ is a book by Lynn Povich. The book is based on the lawsuit female employees of Newsweek brought against their employer.[1]

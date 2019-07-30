@@ -1,0 +1,1 @@
+Diez_Oranienstein.JPG SCHLOSS ORANIENSTEIN is one of the palaces of the house of Orange-Nassau, sited at Diez on the Lahn. It was built on the ruins of Dierstein Abbey between 1672 and 1681 for Countess Albertine Agnes of Nassau after she was widowed.

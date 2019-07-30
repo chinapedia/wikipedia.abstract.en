@@ -1,0 +1,1 @@
+EDWARD NEUMAN (born September 19, 1943[1] in Rydułtowy, Silesian Voivodeship in Poland[2] is a Polish-American mathematician, currently a professor emeritus of mathematics at Southern Illinois University Carbondale.[3]

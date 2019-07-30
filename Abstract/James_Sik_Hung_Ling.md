@@ -1,0 +1,1 @@
+JAMES SIK HUNG LING, D.Min, B.D (; 25 September 195115 Nov 2001) was a leader in the Christian community of Hong Kong.[1][2][3][4] He was an Officer of the Salvation Army and pastored multiple congregations; before serving as the General Secretary of the Salvation Army Hong Kong and Macau Command[5] until he was Promoted to Glory in 2001.[6]

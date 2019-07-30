@@ -1,0 +1,1 @@
+The 1966–67 GREENLANDIC FOOTBALL CHAMPIONSHIP was the 5th edition of the Greenlandic Men's Football Championship. The final round was held in Nuuk. It was the second football championship won by Kissaviarsuk-33.[1]

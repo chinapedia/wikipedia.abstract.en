@@ -1,0 +1,1 @@
+FEMKE MEINES (born 11 May 2000) is a Dutch singer and actress. Meines began her career at age 12, when she represented the Netherlands in the Junior Eurovision Song Contest 2012, placing seventh. From 2016 to 2017, Meines portrayed Liz in the Disney Channel Netherlands & Flanders series _Just Like Me!_.[1]

@@ -1,0 +1,1 @@
+HAMILTON "HAMMY" MCMILLAN JR. (born 29 May 1992) is a Scottish curler from Glasgow, Scotland. He currently plays lead for Bruce Mouat and was part of Tom Brewster's Scotland team at 2016 European Curling Championships. He is a 2013 world junior and 2016 Scottish men's champion.[1]

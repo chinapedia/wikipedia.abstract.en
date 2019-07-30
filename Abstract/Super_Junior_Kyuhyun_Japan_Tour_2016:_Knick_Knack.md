@@ -1,0 +1,1 @@
+SUPER JUNIOR KYUHYUN JAPAN TOUR 2016: KNICK KNACK was the second solo concert and first Japan tour of Super Junior's Kyuhyun. Commenced in Fukuoka on April 11, 2016 end in Tokyo on June 5, 2016 with 7 cities and 16 shows in total.

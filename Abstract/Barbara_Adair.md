@@ -1,0 +1,1 @@
+BARBARA ADAIR is a South African writer.[1] Her 2004 novel, _In Tangier We Killed the Blue Parrot_, was shortlisted for the Sunday Times Literary Award and the novel END was shortlisted for the Commonwealth Book Prize. Based in Johannesburg, she also lectures on human rights law.

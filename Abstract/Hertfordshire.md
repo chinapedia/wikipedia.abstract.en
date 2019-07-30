@@ -1,0 +1,1 @@
+HERTFORDSHIRE (; often abbreviated HERTS) is one of the home counties in southern England. It is bordered by Bedfordshire and Cambridgeshire to the north, Essex to the east, Greater London to the south, and Buckinghamshire to the west. For government statistical purposes, it is placed in the East of England region.

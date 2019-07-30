@@ -1,0 +1,1 @@
+The 2000–01 BUSTA CUP was the 35th edition of what is now the Regional Four Day Competition, the domestic first-class cricket competition for the countries of the West Indies Cricket Board (WICB). It was played from 4 January to 19 February 2001.

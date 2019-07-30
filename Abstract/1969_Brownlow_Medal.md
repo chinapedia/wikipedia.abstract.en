@@ -1,0 +1,1 @@
+The 1969 BROWNLOW MEDAL was the 42nd year the award was presented. To the player deemed the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Kevin Murray of the Fitzroy Football Club won the medal by polling nineteen votes during the 1969 VFL season.[2]

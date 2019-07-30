@@ -1,0 +1,1 @@
+GuardeaChiesaPietroeCesareo1.JPG SANTI PIETRO E CESAREO is a Roman Catholic church located outside of the town of Guardea, in the frazione calle Piano Antico, in the province of Terni, region of Umbria, Italy.

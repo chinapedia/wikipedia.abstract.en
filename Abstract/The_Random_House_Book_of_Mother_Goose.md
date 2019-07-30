@@ -1,0 +1,1 @@
+_THE RANDOM HOUSE BOOK OF MOTHER GOOSE: A TREASURY OF MORE THAN 300 CLASSIC NURSERY RHYMES_ is a 1986 collection of over 300 nursery rhymes by Arnold Lobel. It was republished in 1997 as _The Arnold Lobel Book of Mother Goose_.

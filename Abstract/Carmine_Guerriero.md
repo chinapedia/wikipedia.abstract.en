@@ -1,0 +1,1 @@
+CARMINE GUERRIERO[1] (born 6 June 1979 in Avellino) is an Italian economist whose main contributions concern the understanding of the determinants of legal, regulatory, and political institutions (endogenous institutions theory).

@@ -1,0 +1,1 @@
+FERMENTATION is a metabolic process whereby electrons released from nutrients are ultimately transferred to molecules obtained from the breakdown of those same nutrients.

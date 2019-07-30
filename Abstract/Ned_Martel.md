@@ -1,0 +1,1 @@
+{{ Infobox person | name = Ned Martel | birth_date = | birth_place = United States | death_date = | death_place = | occupation = Television writer, producer, columnist | other_names = | years_active = 2009 - present }}

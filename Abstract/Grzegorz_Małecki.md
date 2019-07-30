@@ -1,0 +1,1 @@
+GRZEGORZ MAŁECKI (born 18 October 1967[1]) – is an official of polish intelligence and security services, diplomat, colonel, such as the Office for State Protection (UOP), the Internal Security Agency (ABW) and the Foreign Intelligence Agency (AW). In 2016 he was the Head of the Foreign Intelligence Agency of the Republic of Poland.

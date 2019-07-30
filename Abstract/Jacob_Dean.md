@@ -1,0 +1,1 @@
+JACOB DEANS is an American food and travel writer currently based in Chicago, United States.[1][2] He is an Associate Editor at _The Cook's Cook_ and also a staff writer at DCist. His writing focuses on stories of people in the food community, both in the United States and internationally.[3][4] Jacob has also worked as a freelance recipe tester for the _New York Times_.[5]

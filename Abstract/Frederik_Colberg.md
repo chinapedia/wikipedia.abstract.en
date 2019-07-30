@@ -1,0 +1,1 @@
+FREDERIK COLBERG (born 31 March 1993) is a Danish badminton player from Holbæk.[1][2] He won his first international title at the 2010 Iceland International tournament in the mixed doubles event partnered with Mette Poulsen.[3] Teamed-up with Rasmus Fladberg, they manage to claimed the men's doubles title at the 2017 National Championships.[4]

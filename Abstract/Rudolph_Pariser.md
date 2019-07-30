@@ -1,0 +1,1 @@
+RUDOLPH PARISER (born December 8, 1923) is a physical and polymer chemist. He was born in Harbin, China to merchant parents, Ludwig Jacob Pariser and Lia Rubinstein. He attended the Von Hindenburg Schule in Harbin, an American Missionary School in Beijing and American School in Japan in Tokyo. He left for the United States just before World War II broke out.[1][2]

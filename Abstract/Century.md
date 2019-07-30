@@ -1,0 +1,1 @@
+A CENTURY is a period of 100 years. Centuries are numbered ordinally in English and many other languages. The word _century_ comes from the Latin _centum_, meaning _one hundred_. _Century_ is sometimes abbreviated as C.[1]

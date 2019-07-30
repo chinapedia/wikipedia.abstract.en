@@ -1,0 +1,1 @@
+LUIS VEGA TORRES (born November 2, 1998) is a Cuban swimmer. He competed at the 2016 Summer Olympics in the men's 400 metre individual medley event; his time of 4:27.27 in the heats did not qualify him for the final.[1][2]

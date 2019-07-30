@@ -1,0 +1,1 @@
+LIZ HODGKINSON is an author and journalist who has written more than 50 books.[1][2] Her books have been translated into over 20 languages. She has also written articles for most of the major British national newspapers in London, and for magazines for women. She has taught journalism for a decade.

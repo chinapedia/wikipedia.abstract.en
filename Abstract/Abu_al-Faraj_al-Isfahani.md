@@ -1,0 +1,1 @@
+ALI IBN AL-HUSAYN AL-IṢFAHĀNĪ (), also known as ABUL-FARAJ (897–967 CE) was an historian of Arab-Quraysh origin[1][2] who is noted for collecting and preserving ancient Arabic lyrics and poems in his major work, the _Kitāb al-Aghānī_. [3]

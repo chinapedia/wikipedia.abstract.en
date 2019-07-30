@@ -1,0 +1,1 @@
+''' Sheila Canevacci Ribeiro ''' (born March 25, 1973) is an artist working on digital[1] and Body arts[2] as well as on conceptual Fashion. She currently lives between São Paulo and Rome and is married to the Italian anthropologist Massimo Canevacci.

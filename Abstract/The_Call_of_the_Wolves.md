@@ -1,0 +1,1 @@
+_THE CALL OF THE WOLVES_ is a 1989 children's picture book by Jim Murphy and illustrated by Mark Weatherby. It is about a young wolf that is separated from his pack during a caribou hunt but is eventually reunited.

@@ -1,0 +1,1 @@
+"D4L" (an acronym for Down 4 Life) is a song recorded by American singer Sevyn Streeter featuring singer and producer The-Dream. The song was released as the third single on October 14, 2016 through Atlantic Records.[1][2]

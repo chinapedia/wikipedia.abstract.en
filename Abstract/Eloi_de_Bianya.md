@@ -1,0 +1,1 @@
+Eloi_de_Bianya.jpg JOAN AYATS PLANTALECH (Sant Salvador de Bianya, 4 June 1875 - Barcelona, 28 July 1936), was a Catalan capuchin friar whose religious name was friar ELOI DE BIANYA. He died as a martyr after declaring that he was a friar and he is considered as a blessed by the Catholic Church.[1]

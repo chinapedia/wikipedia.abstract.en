@@ -1,0 +1,1 @@
+IZABELLA SCORUPCO (born IZABELA DOROTA SKORUPKO; 4 June 1970) is a Polish-Swedish actress, singer, and model. She is perhaps best known for having played Bond girl Natalya Simonova in the 1995 James Bond film _GoldenEye_.

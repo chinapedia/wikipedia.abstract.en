@@ -1,0 +1,1 @@
+BRUNONIA BARRY (1950 in Salem, Massachusetts) is the author of _The Lace Reader_ and _The Map of True Places_.[1] Her third novel, _The Fifth Petal: a novel_, was published on January 24, 2017.[2][3] Barry, with husband Gary Ward, founded SmartGames, a game and puzzle software company.[4]

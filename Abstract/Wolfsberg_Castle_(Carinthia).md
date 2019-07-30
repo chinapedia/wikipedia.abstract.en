@@ -1,0 +1,1 @@
+Schloss_Wolfsberg_Kaernten.jpg WOLFSBERG CASTLE (), today also HENCKEL-DONNERSMARCK CASTLE (_Schloss Henckel-Donnersmarck_), stands on a knoll in the north of the town of Wolfsberg in the Austrian state of Carinthia.

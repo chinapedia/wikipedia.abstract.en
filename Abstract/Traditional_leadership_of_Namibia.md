@@ -1,0 +1,1 @@
+Damara_Gaob.jpg'' (king) of the Damara people, in 2016]] TRADITIONAL LEADERSHIP OF NAMIBIA is a governing structure in Namibia based on the ethnicity of the indigenous people of the territory. Acceptance of a traditional authority is vested in the Government of Namibia. There are 51 recognised traditional authorities and a further 40 pending applications.[1]

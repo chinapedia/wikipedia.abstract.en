@@ -1,0 +1,1 @@
+MASS MEDIA refers to a diverse array of media technologies that reach a large audience via mass communication. The technologies through which this communication takes place include a variety of outlets.

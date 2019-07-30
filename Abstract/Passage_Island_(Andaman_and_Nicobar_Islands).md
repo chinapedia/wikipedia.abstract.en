@@ -1,0 +1,1 @@
+PASSAGE ISLAND or _DUNCAN ISLAND_[1] is an uninhabited island of the Andaman Islands. It belongs to the South Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands.[2] The island is south from Port Blair.

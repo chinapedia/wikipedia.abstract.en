@@ -1,0 +1,1 @@
+NIKITA SANDYREV (, born May 27, 1992) is a Russian ice hockey goaltender. Currently, he plays in the Turkish Ice Hockey Super League (TBHSL) for Zeytinburnu Belediyespor. The tall goalie at catches left.[1]

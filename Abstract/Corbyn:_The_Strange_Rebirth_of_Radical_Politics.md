@@ -1,0 +1,1 @@
+_CORBYN: THE STRANGE REBIRTH OF RADICAL POLITICS_ is a 2016 book by Irish writer Richard Seymour, published by Verso Books. The book examines the political conditions which contributed to the rise of UK opposition leader Jeremy Corbyn during 2015 Labour leadership election, and attempts to predict the future of Corbyn, the Labour Party, and leftist politics in coming years.[1]

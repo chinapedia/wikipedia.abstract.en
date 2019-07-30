@@ -1,0 +1,1 @@
+This LIST OF FOSSIL ARTHROPODS DESCRIBED IN 2017 is a list of new taxa of trilobites, fossil insects, crustaceans, arachnids and other fossil arthropods of every kind that are scheduled to be described during the year 2017, as well as other significant discoveries and events related to arthropod paleontology that are scheduled to occur in the year 2017.

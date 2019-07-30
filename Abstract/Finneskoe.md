@@ -1,0 +1,1 @@
+"Truge"_and_"Finnesko".jpg FINNESKOE (also known as FINNESKO) is a soft hide boot used for cold climate travel. Because it is soft, the Finneskoe will not freeze as solidly as thick boot leather. It can be relatively easy to put on after overnight exposure to subzero temperatures.[1]

@@ -1,0 +1,1 @@
+MadamePenco.jpg ROSINA PENCO, born in Naples in 1823, died in Poretta, near Bologna in 1894, was an Italian operatic soprano. She is most notable for creating the role of Leonora in "Il trovatore" by Verdi in Rome in 1853.[1]

@@ -1,0 +1,1 @@
+WILLIAM BUSAC (1020-1076), son of William I, Count of Eu, and his wife Lesceline. Count of Eu, Count of Soissons, _de jure uxoris_. William was given the nickname Busac by the medieval chronicler Robert of Torigni.

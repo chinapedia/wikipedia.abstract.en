@@ -1,0 +1,1 @@
+Bianca_Maria_Visconti.jpg, Pinacoteca di Brera, Milan.]] FRANCESCO I SFORZA (; 23 July 1401 – 8 March 1466) was an Italian condottiero, the founder of the Sforza dynasty in Milan, Italy, and was the fourth Duke of Milan from 1450 until his death. He was the brother of Alessandro, whom he often fought alongside.

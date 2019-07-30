@@ -1,0 +1,1 @@
+JON SNODDY is an American technology expert who is currently the Advanced Development Studio Executive SVP at Walt Disney Imagineering.[1][2] He was the co-founder Big Stage Entertainment and has served as director, CTO, CCO and CTO in various technology/media firms.[3]

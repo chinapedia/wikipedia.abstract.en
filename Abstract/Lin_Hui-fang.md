@@ -1,0 +1,1 @@
+'''Lin Hui-fang ''' (born 6 October 1973) is a Taiwanese footballer who played as a goalkeeper for the Chinese Taipei women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. On club level she played for Jinwen College in Taiwan.[1]

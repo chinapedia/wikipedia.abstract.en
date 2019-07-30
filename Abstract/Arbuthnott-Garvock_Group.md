@@ -1,0 +1,1 @@
+The ARBUTHNOTT-GARVOCK GROUP (or ARBUTHNOT-GARVOCK GROUP) is a Devonian lithostratigraphic group (a sequence of rock strata) in central Scotland. The name is derived from the village of Arbuthnott in Aberdeenshire and the Hill of Garvock near Laurencekirk.[1] The group comprises the previously separate overlying Garvock Group and the underlying Arbuthnott Group.

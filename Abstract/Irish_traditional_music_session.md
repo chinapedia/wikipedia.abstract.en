@@ -1,0 +1,1 @@
+IRISH TRADITIONAL MUSIC SESSIONS are mostly informal gatherings at which people play Irish traditional music.[1] The Irish language word for "session" is _seisiún_. This article discusses tune-playing, although "session" can also refer to a singing session or a mixed session (tunes and songs).

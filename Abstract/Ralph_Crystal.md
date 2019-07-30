@@ -1,0 +1,1 @@
+RALPH M. CRYSTAL is an American psychologist, professor and author, currently the Wallace Charles Hill Professor of Rehabilitation Education at University of Kentucky,[1][2] and his books have been collected by libraries worldwide.[3]

@@ -1,0 +1,1 @@
+__ | currency_code = JPY | time_zone = JST | utc_offset = +9 | date_format = | drives_on = left | calling_code = +81 | cctld = .jp | official_website = www.japan.go.jp | religion = | population_density_sq_mi = 882.7 | iso3166code = JP | religion_year = 2000 }}

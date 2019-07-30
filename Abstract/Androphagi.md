@@ -1,0 +1,1 @@
+ANDROPHAGI (, literally "man-eaters") was an ancient nation of cannibals north of Scythia (according to Herodotus[1]), probably in the forests between the upper waters of the Dnepr and Don.[2] These people may have assisted the Scythians when King Darius the Great led a Persian invasion into what is now Southern Russia.

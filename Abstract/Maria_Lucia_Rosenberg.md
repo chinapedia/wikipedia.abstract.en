@@ -1,0 +1,1 @@
+MARIA LUCIA HEIBERG ROSENBERG (born 9 February 1984) is a Danish singer and musical-performer. She became famous when she won a record contract with the label EMI in the TV 2-program _Popstars_ in 2003. Her debut single "Taking Back My Heart" (2004) was no. 1 on hitlisten. The album _That’s Just Me_ sold 22.0000 copies.[1][2]

@@ -1,0 +1,1 @@
+SIR WILLIAM HOLLES (1509/10 – 18 January 1591) JP of Haughton, Nottinghamshire was a member of parliament for Nottinghamshire and also High Sheriff of Nottinghamshire, Derbyshire and the Royal Forests.

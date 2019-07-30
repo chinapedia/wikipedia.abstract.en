@@ -1,0 +1,1 @@
+Linear_subspaces_with_shading.svg, these three planes represent solutions of linear equations and their intersection represents the set of common solutions: in this case, a unique point. The blue line is the common solution of a pair of linear equations. ]]

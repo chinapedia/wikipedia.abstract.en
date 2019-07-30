@@ -1,0 +1,1 @@
+AHSANULLAH MASTER (; 9 November 1950 – 7 May 2004) is a Bangladesh Awami League politician and the former Member of Parliament from Gazipur-2.[1] He was a well known trade union leader in Bangladesh who was assassinated in August 2004.[2]

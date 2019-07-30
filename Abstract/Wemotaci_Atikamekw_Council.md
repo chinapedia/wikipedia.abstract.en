@@ -1,0 +1,1 @@
+WEMOTACI ATIKAMEKW COUNCIL (French: _Conseil des Atikamekw de Wemotaci_) is the band council of the Atikamekw of Wemotaci, Quebec. In 2016, the band has a registered population of 1,918 members.[1] It has two Indian reserves: Coucoucache 24A and the community of Wemotaci where it is headquartered.[2]

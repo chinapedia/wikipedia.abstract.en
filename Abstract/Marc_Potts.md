@@ -1,0 +1,1 @@
+MARC POTTS (born 10 October 1991) is an Irish male track cyclist, representing Ireland or Northern Ireland at international competitions. He competed at the 2016 UEC European Track Championships in the Men's Points race and in the 4 km individual pursuit.[1]

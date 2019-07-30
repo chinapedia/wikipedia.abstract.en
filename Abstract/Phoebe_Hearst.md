@@ -1,0 +1,1 @@
+PHOEBE ELIZABETH APPERSON HEARST (December 3, 1842 – April 13, 1919) was an American philanthropist, feminist and suffragist.[1] She was the mother of William Randolph Hearst and wife of George Hearst.

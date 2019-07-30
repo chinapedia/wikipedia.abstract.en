@@ -1,0 +1,1 @@
+The 2016 GENERALI LADIES LINZ was a women's tennis tournament played on indoor hard courts. It was the 30th edition of the Generali Ladies Linz, and part of the WTA International tournaments-category of the 2016 WTA Tour. It was held at the TipsArena Linz in Linz, Austria, on 10–16 October 2016.

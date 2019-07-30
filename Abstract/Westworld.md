@@ -1,0 +1,1 @@
+_WESTWORLD_ is an American science fiction-thriller media franchise which began in 1973 with the release of the film _Westworld_, written and directed by Michael Crichton. The film depicts a technologically advanced, Western-themed amusement park populated by androids that malfunction and begin killing the human visitors; it was followed by the sequel film _Futureworld_ (1976).

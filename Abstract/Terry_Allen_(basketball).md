@@ -1,0 +1,1 @@
+TERRY DU'AUN ALLEN (born December 29, 1993) is an American professional basketball player for Ironi Nahariya of the Israeli Premier League. He played college basketball for the University of Richmond before playing professionally in Hungary, France and Israel. Standing at , he plays at the power forward and small forward positions.

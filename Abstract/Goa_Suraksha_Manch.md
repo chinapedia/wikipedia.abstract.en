@@ -1,0 +1,1 @@
+GOA SURAKSHA MANCH (गोवा सुरक्षा मंच) is a political party in Goa a political outfit of the _Bharatiya Bhasha Suraksha Manch_ (भारतीय भाषा सुरक्षा मंच ) which was launched by Subhash Velingkar, a rebel Rashtriya Swayamsevak Sangh leader. The party was formed on 2 October 2016.[1][2][3][4]

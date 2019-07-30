@@ -1,0 +1,1 @@
+KARI IRENE NISSEN BRODTKORB (born 1942) is a Norwegian architect and educator. Recognized as one of Norway's leading housing designers, in 1994 she was awarded the cherished [Houen Foundation Award]] for her _Stranden_ complex located on Oslo's Aker Brygge. Brodtkorb taught at the Oslo School of Architecture and Design in the early 1990s.[1][2]

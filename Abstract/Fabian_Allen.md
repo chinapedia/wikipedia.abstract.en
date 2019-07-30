@@ -1,0 +1,1 @@
+FABIAN ALLEN (born 7 May 1995) is a Jamaican cricketer.[1] He made his first-class debut for Jamaica in the 2016–17 Regional Four Day Competition on 25 November 2016.[2] Prior to his first-class debut he was part of the West Indies squad for the 2014 Under-19 Cricket World Cup.[3] He made his full international debut for the West Indies in October 2018.

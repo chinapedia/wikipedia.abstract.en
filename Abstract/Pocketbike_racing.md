@@ -1,0 +1,1 @@
+Dutch_Minibike_race_Lelystad.jpg Minibike_racer_Ivar_at_Wilrijk_(B).jpg Jerowe-DM.jpg POCKET BIKE RACING, also known as MINIMOTO or CIRCUS RACING, is a category of racing where miniature racing motorcycles (known as pocket bikes or minimoto) are raced around kart tracks.

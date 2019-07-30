@@ -1,0 +1,1 @@
+TRANSPORT IN PAPUA NEW GUINEA is in many cases heavily limited by the mountainous terrain. The capital, Port Moresby, is not linked by road to any of the other major towns and many highland villages can only be reached by light aircraft or on foot.

@@ -1,0 +1,1 @@
+The ILHA COMPRIDA ENVIRONMENTAL PROTECTION AREA () is an environmental protection area in the state of São Paulo, Brazil. It protects an island with an environment of dunes, salt marshes and mangroves. There has been some difficulty reconciling conservation with human occupation of the island.

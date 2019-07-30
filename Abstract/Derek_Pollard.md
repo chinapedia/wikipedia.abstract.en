@@ -1,0 +1,1 @@
+Dr. DEREK ROBERT POLLARD (born April 1939), an academic and researcher in nuclear chemistry from Godalming, served as the Chief Commissioner for England of the Scout Association, Chairman of the Constitutions Committee of the World Organization of the Scout Movement, as well as a member of the Board of the World Scout Foundation.

@@ -1,0 +1,1 @@
+Military Academy}} A MILITARY ACADEMY or SERVICE ACADEMY (in the United States) is an educational institution which prepares candidates for service in the officer corps. It normally provides education in a military environment, the exact definition depending on the country concerned.

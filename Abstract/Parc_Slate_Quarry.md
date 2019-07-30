@@ -1,0 +1,1 @@
+PARC SLATE QUARRY was a compact underground slate quarry situated in the Croesor Valley, Gwynedd, North Wales, and connected to the Croesor Tramway. It concentrated on producing specialist slate products, rather than roofing slates, and was managed for much of the time by the innovator Moses Kellow. It operated for about 50 years, from 1870 to 1920.

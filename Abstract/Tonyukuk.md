@@ -1,0 +1,1 @@
+TONYUKUK (Old Turkic: _Bilge Tuňuquq_, , born c. 646, died c. 726) was the baga-tarkhan (military leader) and adviser of four successive Göktürk khagans - Ilterish Qaghan, Qapaghan Qaghan, Inel Qaghan and Bilge Qaghan.

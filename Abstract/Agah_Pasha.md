@@ -1,0 +1,1 @@
+ABDÜLAZIZ PASHA ( _Abdülaziz Paşa_), known as AGAH PASHA (, _Agâh Paşa_, d. November/December 1855) was an Ottoman official who held different bureaucratic posts and governorships. He held the rank of _vezir_ since 1850.

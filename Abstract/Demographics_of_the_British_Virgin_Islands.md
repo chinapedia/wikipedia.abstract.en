@@ -1,0 +1,1 @@
+This article is about the demographic features of the population of the British Virgin Islands, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and various other aspects.

@@ -1,0 +1,1 @@
+_THE MOLLY WOPSIES_ was a UK children's comedy drama by Thames Television which, following a pilot in 1974,Christopher Perry - 2015 The British Television Pilot Episodes Research Guide 1936-2015 1900203626

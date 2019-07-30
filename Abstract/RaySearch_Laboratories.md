@@ -1,0 +1,1 @@
+RAYSEARCH LABORATORIES (AB publ) is a Swedish medical technology company that develops software used in radiation therapy of cancer. The company markets its products worldwide and has subsidiaries in the US, Singapore, Belgium, France, Germany and the UK.

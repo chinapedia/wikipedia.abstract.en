@@ -1,0 +1,1 @@
+In law as practiced in countries that follow the English models, a PLEADING is a formal written statement of a party's claims or defenses to another party's claims in a civil action. The parties' pleadings in a case define the issues to be adjudicated in the action.

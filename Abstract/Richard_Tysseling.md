@@ -1,0 +1,1 @@
+RICHARD "BABE" TYSSELING (c. 1911 – 1997) was an American football, basketball, and baseball player, coach, and college athletic administrator. He served as the head football coach at Central College in Pella, Iowa from 1938 to 1944 and from 1946 to 1960, compiling a record of 86–89–7.

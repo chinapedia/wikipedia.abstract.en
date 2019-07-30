@@ -1,0 +1,1 @@
+MOISEIKIN JEWELLERY HOUSE is a Russian jewellery production company based in Ekaterinburg. The production is mainly based on minerals and gems that are mined in Ural Mountains—these are famous for its rich natural resources. Some of the company's luxury goods are known internationally.

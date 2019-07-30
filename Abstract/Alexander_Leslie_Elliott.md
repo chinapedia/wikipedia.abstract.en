@@ -1,0 +1,1 @@
+ALEXANDER LESLIE ELLIOTT (September 14, 1902 – 1975) was a lawyer and politician in Ontario, Canada. He represented Peterborough in the Legislative Assembly of Ontario from 1937 to 1943 as a Liberal.[1][2]

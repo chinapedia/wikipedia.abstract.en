@@ -1,0 +1,1 @@
+_IT'S NOT MY FAULT AND I DON'T CARE ANYWAY_ is a 2017 Canadian comedy-drama film written and directed by Chris Craddock and starring Alan Thicke, Quinton Aaron, Leah Doz and Jesse Lipscombe.[1][2][3] The film is based on Craddock’s one-man play, _Public Speaking_.[4]

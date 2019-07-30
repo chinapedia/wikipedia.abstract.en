@@ -1,0 +1,1 @@
+Urrila-Ehrstedt-Kaleva-1964.jpg IRMA URRILA (born 29 January 1943) is a Finnish operatic soprano,[1] best known internationally for her role as Pamina in Ingmar Bergman's 1975 film production of Mozart's opera, _The Magic Flute_.

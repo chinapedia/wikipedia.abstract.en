@@ -1,0 +1,1 @@
+MAYER HERSH MBE (31 August 1926 – 8 October 2016) was a Polish Jew who survived the Auschwitz concentration camp.[1] Born in Sieradz to a family of six siblings, only Mayer and his brother Jakob survived.[2][3] After World War II, Hersh lived in Manchester, England.[4] He was awarded an MBE in the 2013 New Year Honours for services to Holocaust education.[5][6]

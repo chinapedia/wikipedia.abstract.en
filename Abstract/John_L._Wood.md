@@ -1,0 +1,1 @@
+JOHN L. WOOD (born December 4, 1961) is a Robert A. Welch Distinguished Professor of Chemistry and Biochemistry; Cancer Prevention Research Institute of Texas Scholar; and Associate Editor for the Americas, Tetrahedron Letters at Baylor University.

@@ -1,0 +1,1 @@
+DESIDERIUS GUSTAV HERMANN "DIRK" LATZKO (3 February 1924 – 4 May 2017) was a Dutch mechanical engineer. He was a professor of mechanical engineering at Delft University of Technology from 1961 to 1988. Latzko focused on the construction of nuclear reactors.[1][2]

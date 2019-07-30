@@ -1,0 +1,1 @@
+SIR DINSHAH FARDUNJI MULLA CIE MA. LLB or DINSHAW MULLA (1868-1934) was an Indian author of legal reference books. D.F Mulla was an Attorney-at-Law of the Bombay High Court and was a professor of law at Government Law College, Bombay and a Member of the Judicial Committee of the Privy Council, India.

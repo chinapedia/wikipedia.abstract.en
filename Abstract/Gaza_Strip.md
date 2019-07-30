@@ -1,0 +1,1 @@
+The GAZA STRIP (;[1] __ ), or simply GAZA, is a self-governing Palestinian territory[2][3][4][5][6][7][8] on the eastern coast of the Mediterranean Sea, that borders Egypt on the southwest for and Israel on the east and north along a border. Gaza and the West Bank are claimed by the State of Palestine.

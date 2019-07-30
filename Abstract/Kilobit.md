@@ -1,0 +1,1 @@
+The KILOBIT is a multiple of the unit bit for digital information or computer storage. The prefix _kilo-_ (symbol k) is defined in the International System of Units (SI) as a multiplier of 10³ (1 thousand),[1] and therefore,

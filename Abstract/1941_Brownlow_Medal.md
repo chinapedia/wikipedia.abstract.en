@@ -1,0 +1,1 @@
+The 1941 BROWNLOW MEDAL was the 18th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Norman Ware of the Footscray Football Club won the medal by polling twenty-three votes during the 1941 VFL season.[2]

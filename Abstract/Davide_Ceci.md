@@ -1,0 +1,1 @@
+DAVIDE CECI (born 6 September 1993)[1] is an Italian male track cyclist, representing Italy at international competitions. He competed at the 2016 UEC European Track Championships in the team sprint event.[2]

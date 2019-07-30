@@ -1,0 +1,1 @@
+JASON ERIC NASH (born May 23, 1973)[1] is an American actor, writer, director, comedian, podcaster, and YouTube personality. Best known for his channel on Vine, he was also a semi-finalist on _Last Comic Standing_ in 2010.[2] In 2016, Nash co-produced and starred in the movie, _FML_ alongside friend and fellow YouTuber, Brandon Calvillo.

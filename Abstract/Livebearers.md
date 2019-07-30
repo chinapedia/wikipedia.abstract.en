@@ -1,0 +1,1 @@
+Poecilia_reticulata_Fry_DSC04357_nevit.jpg fry]] LIVEBEARERS are aquarium fish that retain the eggs inside the body and give birth to live, free-swimming young. Among aquarium fish, livebearers are nearly all members of the Poeciliidae family and include guppies, mollies, platies and swordtails.

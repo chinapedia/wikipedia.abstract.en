@@ -1,0 +1,1 @@
+SIR GEORGE FLOYD DUCKETT, 3RD BARONET (1811–1902) was an English army officer, antiquarian and lexicographer. He wrote on his Duckett ancestry, his paternal grandfather having married a Duckett heiress.

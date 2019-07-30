@@ -1,0 +1,1 @@
+DAVID A. FAHRENTHOLD (born 1978)[1] is an American journalist who writes for _The Washington Post_ and serves as a political analyst for NBC News and MSNBC. In 2017, he was awarded the Pulitzer Prize for National Reporting for his coverage of Donald Trump, including the 2016 United States presidential election.

@@ -1,0 +1,1 @@
+VASILY MAKSIMOVICH VLASOV (; born 27 June 1995, Moscow) is a Russian politician. He is a deputy of the State Duma of the Federal Assembly of the Russian Federation of the VII convocation, member of State Duma on physical culture, sports, tourism and youth Affairs with the 5 October 2016 year.[1][2]

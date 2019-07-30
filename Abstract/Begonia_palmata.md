@@ -1,0 +1,1 @@
+_BEGONIA PALMATA_ is a species of plant in the Begoniaceae family and Begonia genus. It is a small herb of height 20–90 cm tall. It is found in moist places, next to streams or under the shade. It is found in many parts of Asia, including eastern Himalayas. [1]

@@ -1,0 +1,1 @@
+Carl_Wentorf_-_En_kunstauktion_på_Charlottenborg,_1899.jpg CARL CHRISTIAN FERDINAND WENTORF (25 April 1863 – 24 November 1914) was a Danish painter. His works included genre pieces and portraits. He won the Royal Danish Art Academy's Annual Medal in 1901.

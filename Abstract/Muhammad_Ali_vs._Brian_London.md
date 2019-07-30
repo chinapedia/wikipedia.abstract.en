@@ -1,0 +1,1 @@
+MUHAMMAD ALI VS. BRIAN LONDON was a professional boxing matching between Muhammad Ali and Brian London. The match took place at Earls Court Arena, London, England on August 6, 1966. It was scheduled for fifteen rounds.

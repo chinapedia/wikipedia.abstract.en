@@ -1,0 +1,1 @@
+The 2017 STOCK CAR BRASIL CHAMPIONSHIP is the thirty-ninth season of the Stock Car Brasil. The season marks the exit of Peugeot. The manufacturer entered in the series in 2007 and won the championship five times, including the last two seasons.

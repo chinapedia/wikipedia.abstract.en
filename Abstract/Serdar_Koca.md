@@ -1,0 +1,1 @@
+SERDAR KOCA (born 28 February 1994) is a Turkish badminton player from Bursa.[1][2] He competed at the 2018 Mediterranean Games, and won the silver medal in the men's doubles event partnered with Serhat Salim.[3][4]

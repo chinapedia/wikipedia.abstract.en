@@ -1,0 +1,1 @@
+DANIËL A. VAN DER REE (born 8 January 1972)[1] is a Dutch politician. He was a member of the House of Representatives of the Netherlands for the People's Party for Freedom and Democracy between 7 September 2016 and 23 March 2017. He replaced Anne-Wil Lucas. He previously served in the municipal council of Amsterdam from 11 March 2010 until 5 October 2016.[2][3]

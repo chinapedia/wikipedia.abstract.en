@@ -1,0 +1,1 @@
+The CHIESA DEL SANTISSIMO REDENTORE E SANTA MARIA (Church of the Holiest Redeemer and St Mary) is a Romanesque-style, deconsecrated Roman Catholic church located in the town of Visso, province of Macerata, region of Marche, Italy. Typically, the Italian title is _S.S. Redentore e S. Maria_.

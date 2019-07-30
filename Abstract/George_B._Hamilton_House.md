@@ -1,0 +1,1 @@
+GEORGE B. HAMILTON HOUSE is a historic home located at Cuba, Crawford County, Missouri. It was built about 1896, and is a 2 1/2-story, irregular shaped, Queen Anne style frame dwelling with Eastlake Movement detailing. It has multiple projecting bays and features fishscale shingles and elaborate spindlework in gable ends and porch balconies.[1]

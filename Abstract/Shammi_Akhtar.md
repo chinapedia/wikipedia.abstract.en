@@ -1,0 +1,1 @@
+SHAMMI AKHTER (born SHAMIMA AKHTAR;[1] 16 February 1957 – 16 January 2018)[2] was a Bangladeshi playback singer.[3][4] She was awarded the Bangladesh National Film Award for Best Female Playback Singer for the film _Bhalobaslei Ghor Bandha Jay Na_ (2010).[5][6]

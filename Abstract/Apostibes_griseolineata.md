@@ -1,0 +1,1 @@
+_APOSTIBES GRISEOLINEATA_ is a moth of the family Scythrididae. It was described by Lord Walsingham in 1907.[1] It is found in Israel, Kazakhstan, Uzbekistan,[2] Saudi Arabia, Palestine, Libya, Algeria and Tunisia.[3]

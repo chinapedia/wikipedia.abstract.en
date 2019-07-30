@@ -1,0 +1,1 @@
+MANDAR AGASHE (born 24 May 1969) is an Indian musician, music producer and businessman. He is the founder and vice chairman of Sarvatra Technologies. He is best known for the release of his Indian-pop album _Nazar Nazar_, in 1998.

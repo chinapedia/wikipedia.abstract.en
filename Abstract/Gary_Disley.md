@@ -1,0 +1,1 @@
+GARY THOMAS "DIZZY" DISLEY is a former professional rugby league footballer of the 1980s and 1990s. He played at representative level for Great Britaind (Under-21s) and England, and at club level for Salford City Reds, as a prop, i.e. number 10.

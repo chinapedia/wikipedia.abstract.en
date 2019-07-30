@@ -1,0 +1,1 @@
+The POLITICAL SYSTEM OF QATAR is either an absolute monarchy or a constitutional monarchy, with the Emir of Qatar as head of state and head of government. Under the 2003 constitutional referendum it should be a constitutional monarchy.[1] Sharia law is the main source of Qatari legislation. according to Qatar's Constitution.[2][3]

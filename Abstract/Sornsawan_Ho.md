@@ -1,0 +1,1 @@
+SORNSAWAN "OPAL" HO from Thailand (born January 18, 1993) served as an elected volunteer member of the Asia-Pacific Regional Scout Committee of the World Organization of the Scout Movement (WOSM) from 2012 to 2015, chairperson of the Young Adult Members Group.[1]

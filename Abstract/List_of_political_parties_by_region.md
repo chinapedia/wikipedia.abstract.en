@@ -1,0 +1,1 @@
+This page is a directory to various pages that will list political parties, from around the world, according to their respective regions. All of the pages linked from here include a table listing the sub-pages of countries/jurisdiction in the given region, showing which party system is dominant in each country.

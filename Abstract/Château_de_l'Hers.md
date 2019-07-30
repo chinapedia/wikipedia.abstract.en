@@ -1,0 +1,1 @@
+The origins of the CHÂTEAU DE L'HERS, in Châteauneuf-du-Pape on the banks of the Rhône, go back to the beginning of the 10th century. Until the French Revolution it was an enclave of Languedoc in the Comtat Venaissin. Protected as a historic monument since 1973, it has given its name to a winery.

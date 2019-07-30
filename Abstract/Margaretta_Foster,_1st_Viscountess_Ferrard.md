@@ -1,0 +1,1 @@
+MARGARETTA AMELIA FOSTER, 1ST VISCOUNTESS FERRARD (_née_ BURGH; c. 1737 – 20 January 1824) was an Anglo-Irish peeress.

@@ -1,0 +1,1 @@
+INTERNATIONAL EXPEDITIONS (IE) is a travel company specializing in small-group adventure travel. The company was founded in 1980 and is located in Helena, Alabama.[1][2] It is owned by TUI Group.[3][4]

@@ -1,0 +1,1 @@
+_DOWN A DARK HALL_ is an American-Spanish supernatural horror film directed by Rodrigo Cortés and written by Chris Sparling and Michael Goldbach. It is based on the novel of the same name by Lois Duncan.

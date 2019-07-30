@@ -1,0 +1,1 @@
+The MANDIRA EXTRACTIVE RESERVE () is an extractive reserve in the state of São Paulo, Brazil. It covers an area of mangroves. The main commercial product extracted by the traditional population is the oyster.

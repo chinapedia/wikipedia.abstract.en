@@ -1,0 +1,1 @@
+KATE RACCULIA is an American author whose novels include _ Rhapsody_ (Houghton Mifflin Harcourt, 2014), _This Must Be the Place_ (Henry Holt and Company, 2010), and Tuesday Mooney Talks to Ghosts: An Adventure , 2019.[1] Her work has been described as "an artful mix of genres"[2] but she has also been classified as a mystery novelist.[3]

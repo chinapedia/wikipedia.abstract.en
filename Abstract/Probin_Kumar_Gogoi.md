@@ -1,0 +1,1 @@
+PROBIN GOGOI is an Asom Gana Parishad politician from Assam, India. He was elected to the Assam Legislative Assembly election in 1985, 1996, 2002 and 2006, specifically to the Khumtai constituency.[1][2] He was the minister of sports and civil supply in the Prafulla Kumar Mahanta cabinet during its first term in 1995.

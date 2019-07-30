@@ -1,0 +1,1 @@
+Gluehlampe_01_KMJ.jpg lightbulb]] A LIGHTBULB JOKE is a joke that asks how many people of a certain group are needed to change, replace, or screw in a light bulb. Generally, the punch line answer highlights a stereotype of the target group. There are numerous versions of the lightbulb joke satirizing a wide range of cultures, beliefs and occupations.[1][2]

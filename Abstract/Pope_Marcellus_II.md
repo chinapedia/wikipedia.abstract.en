@@ -1,0 +1,1 @@
+PopeMarcellusII.jpg POPE MARCELLUS II (6 May 1501 – 1 May 1555), born MARCELLO CERVINI DEGLI SPANNOCHI, was head of the Catholic Church and ruler of the Papal States from 9 April 1555[1] until his death 22 days later on 1 May 1555.

@@ -1,0 +1,1 @@
+RITA KOTHARI (Gujarati:રીટા કોઠારી, born 30 July 1969) is a Gujarati and English language author and translator from Gujarat, India. In an attempt to preserve her memories and her identity as a member of the Sindhi people, Kothari wrote several books on partition and its effects on people. She has translated several Gujarati works into English.

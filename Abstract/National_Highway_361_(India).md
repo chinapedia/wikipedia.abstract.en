@@ -1,0 +1,1 @@
+NATIONAL HIGHWAY 361, commonly called NH 361, is a national highway in India that runs entirely within the state of Maharashtra.[1] Its western terminal is in Tuljapur near the intersection of NH 52 and the eastern terminal is in Butibori near Nagpur at the intersection of NH 44. The total length of the highway NH-361 is 548 km. It is a spur road of National Highway 61.[2]

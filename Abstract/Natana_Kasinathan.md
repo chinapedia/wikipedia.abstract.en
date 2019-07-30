@@ -1,0 +1,1 @@
+NATANA KASINTHAN is an Indian historian, archaeologist, author and epigraphist who is known for his work on inscriptions of Tamil Nadu. He served as the Director of the Tamil Nadu Archaeology Department, Government of Tamil Nadu.[1] He is credited for reviving the inscriptions relating to early Tamil civilizations.[2]

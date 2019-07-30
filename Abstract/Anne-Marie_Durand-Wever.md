@@ -1,0 +1,1 @@
+Fotothek_df_pk_0000278_033.jpg ANNE-MARIE DURAND-WEVER (born Anne-Marie Wever: 30 October 1889 - 14 September 1970) was a German gynaecologist and co-founder of Pro Familia, the German branch of the International Planned Parenthood Federation.[1][2]

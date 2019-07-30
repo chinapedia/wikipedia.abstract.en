@@ -1,0 +1,1 @@
+The _SAD WINGS OF DESTINY TOUR_ was a 1976 concert tour by British heavy metal band Judas Priest which was in support of the album _Sad Wings of Destiny_. It ran from 25 March 1976 until 27 May 1976 through England.

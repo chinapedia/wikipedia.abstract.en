@@ -1,0 +1,1 @@
+VINCENT MERITON (born 28 December 1960) is a Seychellois politician who currently serves as the Vice President of Seychelles since 28 October 2016, succeeding Danny Faure, and Party president of the People's Party.[1][2][3] He once served as Seychelles' Minister for Community Development, Social Affairs and Sports.[4]

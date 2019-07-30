@@ -1,0 +1,1 @@
+South-west_Commonwealth_Marine_Reserves_Network_map.jpg WESTERN EYRE MARINE PARK (formerly WESTERN EYRE COMMONWEALTH MARINE RESERVE) is a marine protected area located in the Great Australian Bight south of South Australia in waters within the Australian Exclusive economic zone.[1]

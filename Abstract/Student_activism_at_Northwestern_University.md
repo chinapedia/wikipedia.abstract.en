@@ -1,0 +1,1 @@
+Northwestern_University_seal.svg

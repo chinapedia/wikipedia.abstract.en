@@ -1,0 +1,1 @@
+LAS ESTACAS NATURAL RESERVE AND SPA (Spanish: Balneario Las Estacas) is a mineral spring, day spa and natural reserve located in the town of Tlaltizapan, in the state of Morelos, Mexico. The natural reserve is a protected area for plants and wildlife since 1998; the protected area has .[1]

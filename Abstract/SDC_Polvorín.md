@@ -1,0 +1,1 @@
+SOCIEDAD DEPORTIVA E CULTURAL POLVORÍN is a Spanish football team based in Lugo, in the autonomous community of Galicia. Founded in 1991, it plays in Tercera División – Group 1, holding home matches at _Campo de Fútbol O Polvorín_ with a capacity of 2,500 seats.

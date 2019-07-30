@@ -1,0 +1,1 @@
+HOPE FOR WILDLIFE (HFW) is a non-profit wildlife rehabilitation and education centre located on a farm in Seaforth, Halifax Nova Scotia, Canada. It was founded by Hope Swinimer in 1997 as THE EASTERN SHORE WILDLIFE REHABILITATION AND RESCUE CENTRE. It got its current name in 2005. A television series, _Hope for Wildlife_, began documenting the centre's efforts in 2009.

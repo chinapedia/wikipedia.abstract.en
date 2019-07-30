@@ -1,0 +1,1 @@
+PETER ESDAILE (born 20 October 1947 in Montréal, Canada) is a Norwegian painter, sculptor, and printmaker. Esdaile was educated in the period 1966 - 1973 at the National Academy of Craft and Art Industry, and at the National Academy of Fine Arts where he received his MFA. He studied under Chrix Dahl, Åge Storstein, Ludvig Eikaas, Halvdan Ljøsne, and Arne Malmedal.[1]

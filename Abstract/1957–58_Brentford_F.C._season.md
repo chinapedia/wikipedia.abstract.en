@@ -1,0 +1,1 @@
+During the 1957–58 English football season, Brentford competed in the Football League Third Division South. The Bees finished as runners-up to Brighton & Hove Albion and narrowly missed out on promotion to the Second Division.

@@ -1,0 +1,1 @@
+_THE WHITE ANGEL_ (Italian: _L'ANGELO BIANCO_) is a 1943 Italian drama film directed by Giulio Antamoro, Federico Sinibaldi and Ettore Giannini and starring Emma Gramatica, Filippo Scelzo and Beatrice Mancini.[1]

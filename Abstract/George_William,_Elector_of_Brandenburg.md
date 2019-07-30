@@ -1,0 +1,1 @@
+GEORGE WILLIAM (; 13 November 1595 – 1 December 1640), of the Hohenzollern dynasty, was margrave and elector of Brandenburg and duke of Prussia from 1619 until his death. His reign was marked by ineffective governance during the Thirty Years' War. He was the father of Frederick William, the "Great Elector".

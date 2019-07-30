@@ -1,0 +1,1 @@
+'''Bradley "Brad" J. Grant '''is a Canadian trucking magnate and standardbred horse owner from Milton, Ontario. He is the former owner of the Milton Icehawks (previously known as the Milton Merchants), which is part of the Ontario Junior Hockey League.[1]

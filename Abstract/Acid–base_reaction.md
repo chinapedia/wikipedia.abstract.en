@@ -1,0 +1,1 @@
+An ACID–BASE REACTION is a chemical reaction that occurs between an acid and a base, which can be used to determine pH. Several theoretical frameworks provide alternative conceptions of the reaction mechanisms and their application in solving related problems; these are called the acid–base theories, for example, Brønsted–Lowry acid–base theory.

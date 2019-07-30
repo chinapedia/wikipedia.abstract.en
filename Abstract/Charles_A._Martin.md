@@ -1,0 +1,1 @@
+CHARLES A. MARTIN served as the Chief Scout of the Boy Scouts of South Africa[1] and also International Commissioner of the Scout Association of Rhodesia, which has since become the Scout Association of Zimbabwe.

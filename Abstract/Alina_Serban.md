@@ -1,0 +1,1 @@
+ALINA SERBAN (born October 29, 1987) is a Roma film and theater actress and writer. Serban is known for writing and performing plays with SOCIAL JUSTICE messages, against sexism, racism, homophobia and various other forms of discrimination [1]

@@ -1,0 +1,1 @@
+'''Jong Pok-sim ''' (born 31 July 1985) is a North Korean footballer who played as a defender for the North Korea women's national football team. She was part of the team at the 2007 FIFA Women's World Cup and 2011 FIFA Women's World Cup. At the club level, she plays for 25 April in North Korea.[1]

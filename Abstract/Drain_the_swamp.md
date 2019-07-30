@@ -1,0 +1,1 @@
+Swamp § Draining}} W50414black-swamp-ditch35592.jpg; the channel pictured is used to "drain the swamp".|upright=0.8]] _DRAIN THE SWAMP_ is a phrase which since the 1980s has frequently been used by American politicians. The phrase alludes to the historical draining of swamps to keep mosquito populations low to combat malaria.[1] It has been used as a metaphor by:

@@ -1,0 +1,1 @@
+OGAR SIAMUPANGILA (born 1 September 1988) is a Zambian badminton player.[1] She was the bronze medalist at the 2007 All-Africa Games in the mixed doubles event partnered with Eli Mambwe.[2] Siamupangila represented her country at the 2006, 2010 and 2018 Commonwealth Games.[3]

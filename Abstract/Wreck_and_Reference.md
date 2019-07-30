@@ -1,0 +1,1 @@
+WRECK AND REFERENCE is an experimental rock group based in Los Angeles, California. Their sound is characterized by experimentation with a wide variety of vocal styles over electronic instrumentation, composed of samples and synthesizers, and acoustic drums. The group has been closely associated with San Francisco-based record label The Flenser.

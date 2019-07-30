@@ -1,0 +1,1 @@
+'''Misozi Zulu ''' (born 11 October 1994) is a Zambian footballer who plays as a midfielder for the Zambia women's national football team.[1][2][3] She was part of the team at the 2014 African Women's Championship. On club level she played for National Assembly F.C. in Zambia.[4]

@@ -1,0 +1,1 @@
+QUIKWRITING is a continuous stylus-based text entry system which is an alternative to Graffiti. It was developed by Ken Perlin[1] at the NYU Media Research Lab and presented[2] at the ACM UIST '98 conference.

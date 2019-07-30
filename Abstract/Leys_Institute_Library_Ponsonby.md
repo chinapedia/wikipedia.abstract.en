@@ -1,0 +1,1 @@
+LEYS INSTITUTE LIBRARY PONSONBY is a branch of Auckland Libraries that serves the suburbs of Ponsonby, Saint Marys Bay, Herne Bay, and Freemans Bay. It is housed in The Leys Institute, a pair of historic buildings that incorporate a lecture hall, a meeting room and a gymnasium, as well as a public library.

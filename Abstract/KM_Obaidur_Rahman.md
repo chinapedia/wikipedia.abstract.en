@@ -1,0 +1,1 @@
+KM OBAIDUR RAHMAN (5 May 1940 – 21 March 2007) was a Bangladeshi politician.[1] He was a member of the Jatiya Sangsad in 1973 representing Bangladesh Awami League and in 1979, 1996 and 2001 representing the Bangladesh Nationalist Party (BNP).[2]

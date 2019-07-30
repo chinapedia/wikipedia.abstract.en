@@ -1,0 +1,1 @@
+Riproduzione_di_termometro_ad_alto_fusto,_ad_acquarzente_-_Museo_scienza_tecnologia_Milano_02012_01.jpg

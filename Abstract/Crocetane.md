@@ -1,0 +1,1 @@
+CROCETANE, or 2,6,11,15-tetramethylhexadecane, is an isoprenoid hydrocarbon compound. Unlike its isomer phytane, crocetane has a tail-to-tail linked isoprenoid skeleton. Crocetane has been detected in modern sediments and geological records as a biomarker, often associated with anaerobic methane oxidation.

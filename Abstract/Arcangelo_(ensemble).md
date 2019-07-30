@@ -1,0 +1,1 @@
+ARCANGELO is a UK-based early music ensemble founded by Jonathan Cohen in 2010.[1] It performs and records music from the Baroque and Classical repertoire, ranging from Monteverdi to Beethoven. It is noted for its approach based on the collaborative tradition of chamber music making.

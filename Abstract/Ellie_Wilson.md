@@ -1,0 +1,1 @@
+ELOISE JAYNE "ELLIE" WILSON (born 11 May 1997) is an English footballer who plays in the defender position for London Bees. She previously played for Reading F.C. She has represented England on the under-19 and under-23 national teams.

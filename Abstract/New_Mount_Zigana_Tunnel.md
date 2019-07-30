@@ -1,0 +1,1 @@
+NEW MOUNT ZIGANA TUNNEL () is a road tunnel under construction in the Black Sea Region of Turkey. Located on the provincial border of Gümüşhane and Trabzon, the tunnel will carry routes between Torul, Gümüşhane in the south and Maçka, Trabzon in the north.

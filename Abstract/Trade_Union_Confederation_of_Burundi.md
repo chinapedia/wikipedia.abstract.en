@@ -1,0 +1,1 @@
+TRADE UNION CONFEDERATION OF BURUNDI (, CSB) is the smaller of the two national trades union federations active in Burundi. It is distinct from Confederation of Trade Unions of Burundi (_Confédération des Syndicats du Burundi_, COSYBU). Both the COSYBU and CSB are affiliated to the International Trade Union Confederation (ITUC).[1]

@@ -1,0 +1,1 @@
+Dr. MARIE-LOUISE CORREA (born 26 November 1943 in Dakar) is a Senegalese politician, a doctor and former minister of the Senegalese government,[1] who was elected in July 2002 as president of the World Scout Committee following the 36th World Scout Conference in Thessaloníki, Greece, from 2002 to 2005. She had served as chair of the Africa Scout Region until 1999.[2]

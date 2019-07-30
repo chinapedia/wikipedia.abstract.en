@@ -1,0 +1,1 @@
+CHARLIE REID was an Ireland international footballer. Reid played for several clubs in the League of Ireland and won two FAI Cup winners medals (Shamrock Rovers 1936 and St James's Gate 1938) and another 2 runners-up medals (Brideville 1930 and Dolphin 1933).[1]

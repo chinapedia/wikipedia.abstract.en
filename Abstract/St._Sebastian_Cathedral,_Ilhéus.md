@@ -1,0 +1,1 @@
+The CATHEDRAL OF ST. SEBASTIAN (), also called ILHÉUS CATHEDRAL, located in the historic center of Ilhéus, Bahia in Brazil, is the Roman Catholic cathedral of the Diocese of Ilhéus. It is under the pastoral responsibility of bishop Mauro Montagnoli.[1][2][3][4][5]

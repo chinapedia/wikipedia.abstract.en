@@ -1,0 +1,1 @@
+DAVID G. FUBINI currently serves as a Senior lecturer and Henry B. Arthur Fellow at Harvard Business School.[1] He is also co-leader of the Leading Professional Services Firm Program for Harvard Business School's Executive Education.[2]

@@ -1,0 +1,1 @@
+The SYNOD OF VICTORIA AND TASMANIA is the entity of the Uniting Church in Australia covering the states of Victoria and Tasmania. It is one of six geographically-based synods of the church. When the Uniting Church was created in 1977, the SYNOD OF VICTORIA and SYNOD OF TASMANIA were independent, but subsequently merged on 22 June 2002.[1]

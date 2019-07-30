@@ -1,0 +1,1 @@
+FARIDA YASMIN is a Bangladeshi journalist,[1] the senior journalist of _The Daily Ittefaq_ and present general secretary of Bangladesh National Press Club.[2][3] In 2017 she was elected the first female general secretary of Bangladesh Press Club.[4][5] She was the former joint secretary of National Press Club.

@@ -1,0 +1,1 @@
+SKY PARAGLIDERS A.S. is a Czech aircraft manufacturer based in Frýdlant nad Ostravicí. The company specializes in the design and manufacture of paragliders in the form of ready-to-fly aircraft. The company also produces paragliding harnesses, reserve parachutes and paragliding accessories.[1]

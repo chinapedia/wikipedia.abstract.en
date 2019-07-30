@@ -1,0 +1,1 @@
+[1] is a Japanese comedian and actor.[2] His real and former stage name is . He is nicknamed , , and . He is represented with Yoshimoto Creative Agency of Yoshimoto Kogyo in Tokyo. He graduated from the Yoshimoto New Star Creation (NSC) in Osaka.

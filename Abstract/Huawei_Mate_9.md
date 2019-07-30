@@ -1,0 +1,1 @@
+The HUAWEI MATE 9 is a high-end Android smartphone, designed and produced by Huawei as part of the Huawei Mate series. It was released on 3 November 2016.[1] It was succeeded by the Huawei Mate 10 series, and later the Huawei Mate 20 series.

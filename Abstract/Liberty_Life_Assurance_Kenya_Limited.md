@@ -1,0 +1,1 @@
+The LIBERTY LIFE ASSURANCE KENYA LIMITED, commonly referred to as LIBERTY LIFE, is a Kenyan life insurance company headquartered in Nairobi, Kenya. It is among the five largest life insurance companies in Kenya.[1] It is a subsidiary of Liberty Kenya Holdings, which is an insurance holding company with headquarters in Nairobi.

@@ -1,0 +1,1 @@
+COMMUNIST PARTY OF THE CANARY ISLANDS (PROVISIONAL) (, PCC(P)), later PARTY OF THE CANARIAN REVOLUTION (), PRC) was a Marxist-Leninist and Canarian nationalist political party operating in the Canary Islands. The party aim was self-determination for the islands and socialism.

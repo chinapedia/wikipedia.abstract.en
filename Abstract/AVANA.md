@@ -1,0 +1,1 @@
+AVANA (Malagasy: _Antoko ny Vahoaka Aloha No Andrianina_), literally the PARTY WHERE THE PEOPLE ARE THE PRIORITY,[1] is a Malagasy political party that was created on April 13, 2013[2] by Jean-Louis Robinson, its current chairman. Its views are centrist, with the stated goal of steering away from the left-right conflict in the nation's politics.

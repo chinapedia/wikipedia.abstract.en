@@ -1,0 +1,1 @@
+MIGUEL ANTONIO CUYAR (c.1780-1840s) was an Asturian merchant and politician.[1] He served in the militia of Buenos Aires, during the English Invasions, being assigned as Captain in the 7th Company of Asturians.[2]

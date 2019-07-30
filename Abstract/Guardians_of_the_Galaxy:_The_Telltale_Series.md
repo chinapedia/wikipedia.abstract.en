@@ -1,0 +1,1 @@
+_GUARDIANS OF THE GALAXY: THE TELLTALE SERIES_ is an episodic graphic adventure video game series developed and published by Telltale Games. Based on Marvel Comics' _Guardians of the Galaxy_ comic book series, the game's first episode was released in April 18, 2017.

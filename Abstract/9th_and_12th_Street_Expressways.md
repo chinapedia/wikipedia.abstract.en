@@ -1,0 +1,1 @@
+The 9TH STREET EXPRESSWAY and the 12TH STREET EXPRESSWAY are a pair of spurs connecting Interstate 395 (I-395; Southwest Freeway) with Downtown Washington, D.C.. The two carriageways are apart from each other, and gain their namesake from the roads that they lead into once reaching the downtown Federal Triangle neighborhood.

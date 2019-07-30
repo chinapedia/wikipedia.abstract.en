@@ -1,0 +1,1 @@
+WILLIAM FRANCIS "FRANK" JOHNSTON, (born 29 June 1930) is a Anglican priest and military chaplain. Between 1980 and 1986, he served as Chaplain-General to the Forces and head of the Royal Army Chaplains' Department, British Army.

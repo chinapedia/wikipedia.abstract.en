@@ -1,0 +1,1 @@
+was a Japanese writer and researcher of French Romanticism. He was a professor of French literature at Kyushu University. He is known as the first Japanese having a friendship with Romain Rolland and also known as a collaborator with Kōjirō Matsukata in collecting paintings and sculptures for the Matsukata Collection of the National Museum of Western Art in Ueno, Tokyo.[1]

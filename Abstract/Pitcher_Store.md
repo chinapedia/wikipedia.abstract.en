@@ -1,0 +1,1 @@
+PITCHER STORE, also known as CRAGHEAD STORE, is a historic commercial building located at Fulton, Callaway County, Missouri. It was built in three stages between 1888 and 1905. It is an irregular shaped, frame and log combination vernacular building served as a general store, post office and residence.[1]

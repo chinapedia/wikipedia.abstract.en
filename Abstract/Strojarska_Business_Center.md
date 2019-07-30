@@ -1,0 +1,1 @@
+STROJARSKA BUSINESS CENTER is a commercial and residential center in Zagreb, Croatia. The center has 6 buildings, two of which are residential buildings. There are two skyscrapers in the center. The main building, Building B, has 25 floors and is 315 feet tall. The complex is called the VMD area.[1]

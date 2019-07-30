@@ -1,0 +1,1 @@
+The MYRTLE BEACH MARATHON is a marathon which takes place in Myrtle Beach, South Carolina. It is held annually on the first Saturday in March. 5,500 to 7,500 individuals participate in the race annually. It is the largest marathon in South Carolina and was named one of the 'Top Ten Winter Marathons' by USA Today.[1]

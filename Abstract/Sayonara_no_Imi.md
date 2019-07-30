@@ -1,0 +1,1 @@
+is the 16th single by Japanese idol girl group Nogizaka46. It was released on November 9, 2016.[1] The song became number-one on the weekly Oricon Singles Chart, with 827,717 copies sold.[2] It was also number-one on the _Billboard_ Japan Hot 100.[3] This is the group's first Million single certified by RIAJ.[4]

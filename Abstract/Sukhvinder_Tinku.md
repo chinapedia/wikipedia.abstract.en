@@ -1,0 +1,1 @@
+SUKHVINDER TINKU (born 4 March 1969) is an Indian former cricketer. He played one first-class match for Punjab in 1988/89.[1] He was also part of India's squad for the 1988 Youth Cricket World Cup.[2]

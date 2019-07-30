@@ -1,0 +1,1 @@
+Sanchai Ratiwatana and Sonchat Ratiwatana were the defending champions but only Sonchat Ratiwatana defended his title, partnering Yi Chu-huan. Ratiwatana lost in the semifinals to Daniel Masur and Ante Pavić.

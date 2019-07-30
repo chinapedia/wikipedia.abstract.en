@@ -1,0 +1,1 @@
+HUANG PO-JUI (; born 11 April 1993) is a Taiwanese male badminton player.[1][2] In 2011, he won the gold medal at the Asian Junior Championships in men's doubles event partnered with Lin Chia-yu.[3] He also won the silver medal at the BWF World Junior Championships.[4]

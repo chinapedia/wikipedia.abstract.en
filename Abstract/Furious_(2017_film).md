@@ -1,0 +1,1 @@
+_FURIOUS_, also known as _LEGEND OF KOLOVRAT_ (, ), is a 2017 Russian historical fantasy film about the Ryazan knight Evpaty Kolovrat. The film is directed by Ivan Shurkhovetskiy and stars newcomer Ilya Malakov, as well as Polina Chernyshova, Aleksei Serebryakov, Aleksandr Ilyin Jr. and Yulia Khlynina in supporting roles.

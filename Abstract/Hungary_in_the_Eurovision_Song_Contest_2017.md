@@ -1,0 +1,1 @@
+HUNGARY participated in the EUROVISION SONG CONTEST 2017. The local Media Services and Support Trust Fund (MTVA) and the Hungarian broadcaster Duna Media Service Provider organised the national final _A Dal 2017_ in order to select the Hungarian entry for the 2017 contest in Kiev, Ukraine.

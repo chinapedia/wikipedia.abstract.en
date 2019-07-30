@@ -1,0 +1,1 @@
+LINDSEY CHUKWUFUMNANYA ABUDEI, known professionally as LINDSEY ABUDEI, is a Nigerian-born neo-soul singer and songwriter. She started recording and having jam sessions with MI and Jesse Jagz in 2004, while still an undergraduate law student in Jos, Nigeria. Since then, she has released two solo projects; _Brown: The EP_ (2013) and _...And the Bass Is Queen_ (2016).

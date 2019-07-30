@@ -1,0 +1,1 @@
+_HAPPY ACCIDENTS_ (1990) is the third album by Montreal pop-punk band Doughboys. _Happy Accidents_ was released on Restless Records and was produced by Michael Phillip Wojewoda and engineered by David Sutton.[1]

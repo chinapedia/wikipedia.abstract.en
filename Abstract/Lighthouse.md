@@ -1,0 +1,1 @@
+Aveiro_March_2012-13.jpg, on the west coast of Portugal.]] Roman_Rock_Lighthouse.webm off the southern coast of South Africa.]] A LIGHTHOUSE is a tower, building, or other type of structure designed to emit light from a system of lamps and lenses and to serve as a navigational aid for maritime pilots at sea or on inland waterways.

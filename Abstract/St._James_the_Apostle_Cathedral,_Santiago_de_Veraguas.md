@@ -1,0 +1,1 @@
+The ST. JAMES THE APOSTLE CATHEDRAL [1] ( ) also called SANTIAGO DE VERAGUAS CATHEDRAL[2] is a religious building belonging to the Catholic Church and is located in the city of Santiago de Veraguas[3] in the Veraguas province in the western part of the Central American country of Panama. It was declared a historical monument in 2014.[4]

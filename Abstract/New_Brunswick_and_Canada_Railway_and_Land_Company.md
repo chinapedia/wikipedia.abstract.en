@@ -1,0 +1,1 @@
+The NEW BRUNSWICK AND CANADA RAILWAY AND LAND COMPANY was chartered in or prior to 1856 by Act of the New Brunswick Legislature. In that year, it took over the St. Andrews and Quebec Railway Company,[1][2][3] which had been formed in 1836.[4]

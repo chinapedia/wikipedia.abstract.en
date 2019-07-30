@@ -1,0 +1,1 @@
+FORBRUGSFORENINGEN (_The Consumption Society_), also called FBF, is Denmark's oldest and largest loyalty club with more than 247,500 members.[1] FBF is a non-profit organisation,[2] that was established 20 April 1886 as FORBRUGSFORENINGEN AF 1886.

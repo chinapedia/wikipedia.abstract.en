@@ -1,0 +1,1 @@
+LEE SOO-MIN (born October 5, 1984) is a South Korean actress. She is best known as a cast on the TV show _The God of Music 2_ and _Saturday Night Live Korea_.[1] She was also the leader and rapper for C.I.V.A.

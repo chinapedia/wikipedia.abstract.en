@@ -1,0 +1,1 @@
+KOPERNIKA STREET is located in central Bydgoszcz. Several buildings on Kopernika Street are registered on the KUYAVIAN-POMERANIAN VOIVODESHIP HERITAGE LIST. The street is named for Nicolaus Copernicus (1473 1543).

@@ -1,0 +1,1 @@
+OJUKHEON in Gangneung, Gangwon Province (South Korea), is the place where the most prominent Korean Confucian scholar of the Joseon Dynasty Yi I (whose image is on the South Korean 5,000 Won note) and his mother Shin Saimdang (whose image is on the 50,000 Won note) were born. The background of South Korean 5,000 Won note is Ojukheon.[1]

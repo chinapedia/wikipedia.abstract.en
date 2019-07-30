@@ -1,0 +1,1 @@
+The KHAN AL-SHIH OFFENSIVE (OCTOBER–NOVEMBER 2016) was a Syrian Army offensive in the Rif Dimashq Governorate that was launched in early October 2016, as part of the Syrian Civil War. Its aim was to take control of the rebel-held part of western Ghouta. The main rebel stronghold in the region was the town of Khan al-Shih.

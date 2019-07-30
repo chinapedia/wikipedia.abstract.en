@@ -1,0 +1,1 @@
+The 1977 NOTTINGHAMSHIRE COUNTY COUNCIL ELECTION was held on Thursday, 5 May 1977. The election resulted in a landslide victory for the Conservative Party, which won 66 of the 89 seats on the county council. The Labour Party won just 20 seats, compared to 54 at the previous election.[1][2]

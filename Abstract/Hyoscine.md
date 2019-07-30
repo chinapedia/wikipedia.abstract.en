@@ -1,0 +1,1 @@
+HYOSCINE, also known as SCOPOLAMINE,[1] is a medication used to treat motion sickness and postoperative nausea and vomiting.[2] It is also sometimes used before surgery to decrease saliva.[3] When used by injection, effects begin after about 20 minutes and last for up to 8 hours.[4] It may also be used by mouth and as a skin patch.[5]

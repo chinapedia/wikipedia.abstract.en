@@ -1,0 +1,1 @@
+DAVID JESSEL TURNER-SAMUELS (5 April 1918 –19 November 2016) was a British barrister.[1] He was the son of British Politician Moss Turner-Samuels who was the Labour MP for Gloucester during Clement Attlee's time in office.

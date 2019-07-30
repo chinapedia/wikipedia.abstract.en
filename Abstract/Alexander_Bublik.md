@@ -1,0 +1,1 @@
+ALEXANDER STANISLAVOVICH BUBLIK (; born 17 June 1997) is a Russian born tennis player who represents Kazakhstan. He has achieved a career high ranking of No. 71 in the ATP rankings as of 22 July 2019.

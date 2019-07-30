@@ -1,0 +1,1 @@
+_MARTIANS STAY HOME_ is an album by American jazz trumpeter, composer and arranger Shorty Rogers, featuring previously unreleased recordings from the 1955 sessions which produced _The Swinging Mr. Rogers_ and _Martians Come Back!_, and first released on the Atlantic label in 1980.[1]

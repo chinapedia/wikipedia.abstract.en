@@ -1,0 +1,1 @@
+_THE INTERPRETER_ (Chinese: 亲爱的翻译官) is a 2016 Chinese television series starring Yang Mi and Huang Xuan, based on the novel _Translator_ (翻译官) by Miao Juan. It aired on Hunan TV from 24 May to 19 June 2016. The series was the highest rated drama of the year, with an average national viewership rating of 2.63%.

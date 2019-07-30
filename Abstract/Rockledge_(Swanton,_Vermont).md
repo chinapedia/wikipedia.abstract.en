@@ -1,0 +1,1 @@
+ROCKLEDGE is a historic summer estate house on Vermont Route 207 in Swanton, Vermont. Architect Charles Saxe in 1918 designed alterations to an early 19th-century farmhouse, that is the principal surviving element of an early 20th-century gentleman's farm. The property was listed on the National Register of Historic Places in 1994.[1]

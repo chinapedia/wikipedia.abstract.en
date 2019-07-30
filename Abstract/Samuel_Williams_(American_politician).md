@@ -1,0 +1,1 @@
+SAMUEL WARDELL WILLIAMS (February 7, 1851 – August 5, 1913) was an American judge who is best known for being the Populist Party's nominee for Vice President of the United States in the election of 1908.[1]

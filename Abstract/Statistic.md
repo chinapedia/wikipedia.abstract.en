@@ -1,0 +1,1 @@
+A STATISTIC (singular) or SAMPLE STATISTIC is any quantity computed from values in a sample, often the mean. Technically speaking, a statistic can be calculated by applying any mathematical function to the values found in a sample of data.

@@ -1,0 +1,1 @@
+LAWRENCE PAUL YUXWELUPTUN is a Canadian First Nations artist, of Coast Salish and Okanagan descent.[1] His paintings use elements of First Nations imagery and surrealism, and explore issues such as environmentalism, land ownership, and Canada's treatment of First Nations peoples.

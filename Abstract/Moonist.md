@@ -1,0 +1,1 @@
+MOONIST (28 January 2011 – 21 June 2016) was an American Quarter Horse who was known for winning multiple Grade I races, including two Champion of Champion qualifying races. He was the American Quarter Horse Association (AQHA) Champion three-year-old of 2014 and Champion aged horse of 2015. In 2016, Moonist was undefeated in four starts before dying due to a bout of colic.

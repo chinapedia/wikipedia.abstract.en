@@ -1,0 +1,1 @@
+_NOUKADUBI_ (, _Boat wreck_) is a Bengali novel written by Rabindranath Tagore in 1906. The novel was first published in Bangadarshan, a Bengali literary magazine which was under the editorship of Rabindranath himself at that moment.[1]

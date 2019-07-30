@@ -1,0 +1,1 @@
+BANGLADESH RURAL ELECTRIFICATION BOARD or BREB, is government owned and operated corporation in Dhaka, Bangladesh and is responsible for rural electrification.[1] It is major power distribution company in Bangladesh.[2] Major General Moin Uddin is the present chairman of the board.[3][4]

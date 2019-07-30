@@ -1,0 +1,1 @@
+_JOHNNO'S DEAD_ is an 8-minute film written and directed by Chris Shepherd and produced by Nicolas Schmerkin with UK producer Abigail Addison. First transmitted on the Arte France and Germany and premiered in the UK on 2 December 2016 at the London International Animation Festival. The film stars previous Shepherd collaborators Ian Hart and Chris Freeney.

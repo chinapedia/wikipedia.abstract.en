@@ -1,0 +1,1 @@
+The WAR OF PARMA was a short war in June 1551 between an alliance of Charles V, Holy Roman Emperor and the Papal States on one side and the Kingdom of France and the Duchy of Parma on the other. It was part of the Italian War of 1551–59.

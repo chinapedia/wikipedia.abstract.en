@@ -1,0 +1,1 @@
+SHORT MESSAGE PEER-TO-PEER (SMPP) in the telecommunications industry is an open, industry standard protocol designed to provide a flexible data communication interface for the transfer of short message data between External Short Messaging Entities (ESMEs), Routing Entities (REs) and Message Centres.[1]

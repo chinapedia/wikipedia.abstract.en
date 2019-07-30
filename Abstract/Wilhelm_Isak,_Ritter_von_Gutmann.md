@@ -1,0 +1,1 @@
+WILHELM ISAAK WOLF, RITTER OF GUTMANN (18 August 1826 – 17 May 1895) was an Austrian entrepreneur. He founded and led the largest coal company in Austria-Hungary, was nobilitized in 1878 and was President of the Vienna Israelite Community from 1891 to 1892.

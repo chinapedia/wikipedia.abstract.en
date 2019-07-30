@@ -1,0 +1,1 @@
+{{ infobox Officeholder | name = Marc Mézard | office = Director of the École normale supérieure | term_start = 19 April 2012 | term_end = | predecessor = Monique Canto-Sperber | birth_date = | birth_place = Aurillac, France | nationality = French | education = Lycée Louis-le-Grand | alma_mater = École normale supérieure }}

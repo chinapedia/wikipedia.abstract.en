@@ -1,0 +1,1 @@
+JOSEPH JOHN "JOE" SOTAK (February 9, 1914 – December 11, 2007) was an American professional basketball player.[1][2] He played in the National Basketball League for Whiting/Hammond Ciesar All-Americans and averaged 4.1 points per game.[3]

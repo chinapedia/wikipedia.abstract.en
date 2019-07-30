@@ -1,0 +1,1 @@
+MÜNIR NURETTIN BEKEN (born 12 April 1964) is Associate Professor of Ethnomusicology at the UCLA Herb Alpert School of Music.[1] He is one of the founding members of the State Turkish Music Ensemble and the leading ud performer of his generation in Turkey.[2] He performs ud recitals in a variety of venues throughout the U.S. and Turkey, and lectures on classical Turkish music.

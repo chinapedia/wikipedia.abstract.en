@@ -1,0 +1,1 @@
+JANES CREEK is a stream in Iron and Washington counties of the U.S. state of Missouri.[1] It is a tributary of Big River. The headwaters of the stream arise in northern Iron County just north of Missouri Route 32 west of Banner. The confluence with Big River is in southern Washington County between Peoria and Belgrade adjacent to Missouri Route JJ.[2]

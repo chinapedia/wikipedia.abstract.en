@@ -1,0 +1,1 @@
+The 1938 ARIZONA GUBERNATORIAL ELECTION took place on November 8, 1938. Incumbent Governor Rawghlie Clement Stanford declined to run for reelection, with pharmacy and cattle ranch owner Robert Taylor Jones winning the Democratic nomination to succeed Stanford.

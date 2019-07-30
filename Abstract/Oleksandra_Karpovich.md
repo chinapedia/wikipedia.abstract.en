@@ -1,0 +1,1 @@
+OLEKSANDRA ANDREYEVNA KARPOVICH (Олександра Андреевна Карпович, born 6 June 1986) was a Russian female water polo player. She was a member of the Russia women's national water polo team, playing as a centre forward.

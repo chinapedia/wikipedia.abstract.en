@@ -1,0 +1,1 @@
+Pintura_Oficial_de_Pedro_Manuel_de_Toledo.jpg PEDRO MANUEL DE TOLEDO (1860–1935) was a Brazilian politician. He was born in São Paulo. He served in the Cabinet of President Hermes da Fonseca. He died in Rio de Janeiro.

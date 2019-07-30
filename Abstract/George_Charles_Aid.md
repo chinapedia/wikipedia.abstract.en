@@ -1,0 +1,1 @@
+GEORGE CHARLES AID or GEORGE AID (1872–1938) born in Quincy, Illinois, was an American painter, etcher and teacher known for portrait, landscape and genre painting.[1] Aid was active in France, the Netherlands and The Carolinas.

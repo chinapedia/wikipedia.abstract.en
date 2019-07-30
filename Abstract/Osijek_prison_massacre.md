@@ -1,0 +1,1 @@
+OSIJEK PRISON MASSACRE is crime against humanity which was committed by the members of OZNA.[1] Shortly after Second World War finished, 25 October 1945, they killed 48 Croatian war prisoners by throwing bombs and shooting them with firearms.[2]

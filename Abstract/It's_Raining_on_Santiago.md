@@ -1,0 +1,1 @@
+IT'S RAINING ON SANTIAGO () is a 1975 French-Bulgarian drama film directed by Helvio Soto, detailing the 1973 Chilean coup d'etat. The title is a code word the Chilean military had broadcast to single the start of the coup.

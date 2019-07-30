@@ -1,0 +1,1 @@
+POPE BENEDICT IX (; c. 1012 – c. 1056), born THEOPHYLACTUS OF TUSCULUM in Rome, was Pope on three occasions between October 1032 and July 1048.[1] Aged approximately 20 at his first election, he is one of the youngest popes in history. He is the only man to have been Pope on more than one occasion and the only man ever to have sold the papacy.

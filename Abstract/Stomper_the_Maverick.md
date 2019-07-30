@@ -1,0 +1,1 @@
+STOMPER the Maverick is the mascot for the Minnesota State Mavericks athletics teams of the Minnesota State University, Mankato and the associated club teams and charities. During the year, Stomper makes over 250 appearances and is at virtually all home games for University teams as well as regional and charity fund raisers.[1]

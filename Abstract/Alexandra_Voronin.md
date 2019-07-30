@@ -1,0 +1,1 @@
+ALEXANDRA ANDREYEVNA VORONIN (_née_ VORONINA, later YOURIEFF; ,[1][2] 20 August 1905 — 1 October 1993) was the Soviet wife of Norwegian fascist Vidkun Quisling, the leader of Nasjonal Samling (NS), the political party which collaborated with the German occupational force in Norway during World War II.

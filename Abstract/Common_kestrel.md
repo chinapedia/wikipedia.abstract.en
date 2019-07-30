@@ -1,0 +1,1 @@
+The COMMON KESTREL (_Falco tinnunculus_) is a bird of prey species belonging to the kestrel group of the falcon family Falconidae. It is also known as the EUROPEAN KESTREL, EURASIAN KESTREL, or OLD WORLD KESTREL. In Britain, where no other kestrel species occurs, it is generally just called "the KESTREL".[1]

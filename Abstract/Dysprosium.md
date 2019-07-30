@@ -1,0 +1,1 @@
+DYSPROSIUM is a chemical element with the symbol DY and atomic number 66. It is a rare earth element with a metallic silver luster. Dysprosium is never found in nature as a free element, though it is found in various minerals, such as xenotime. Naturally occurring dysprosium is composed of seven isotopes, the most abundant of which is ¹⁶⁴Dy.

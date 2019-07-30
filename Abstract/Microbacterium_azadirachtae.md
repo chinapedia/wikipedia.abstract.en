@@ -1,0 +1,1 @@
+_MICROBACTERIUM AZADIRACHTAE_ is a Gram-positive, non-spore-forming and motile bacterium from the genus of Microbacterium which has been isolated from the rhizoplane of the plant Azadirachta indica from the Botanical Garden of Coimbatore in India.[1][2][3] _Microbacterium azadirachtae_ can promote plant growth by producing phytohormones.[4][5]

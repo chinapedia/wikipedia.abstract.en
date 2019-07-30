@@ -1,0 +1,1 @@
+Inanga,traditional_Rwandan_instrument_during_the_introduction_wedding_in_Kigali,_Rwanda.jpg INĀNGA is a traditional musical instrument of Burundi that is also played in Rwanda and Uganda. In Burundi, it is considered to be the first instrument to be invented in the country.

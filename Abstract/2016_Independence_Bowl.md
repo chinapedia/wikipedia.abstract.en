@@ -1,0 +1,1 @@
+The 2016 INDEPENDENCE BOWL was a college football bowl game played on December 26, 2016 at Independence Stadium in Shreveport, Louisiana. The 41st annual Independence Bowl featured the NC State Wolfpack of the ACC against the Vanderbilt Commodores of the SEC. Sponsored by Camping World, the game was officially known as the CAMPING WORLD INDEPENDENCE BOWL.

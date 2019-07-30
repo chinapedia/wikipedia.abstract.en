@@ -1,0 +1,1 @@
+BIDWELL is an unincorporated community in northern Laclede County, in the Ozarks of southern Missouri.[1] The community is located just west of Missouri Route 5 and 2.5 miles south of Decaturville in southern Camden County.[2]

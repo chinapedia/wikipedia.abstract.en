@@ -1,0 +1,1 @@
+A BY-ELECTION FOR THE PRAGUE 1 SENATE SEAT was held in the Czech Republic on 27 and 28 August 1999. Václav Fischer was elected a member of Senate with over 70% of votes in the first round of voting. Fischer then became the most popular politician in polls.[1][2]

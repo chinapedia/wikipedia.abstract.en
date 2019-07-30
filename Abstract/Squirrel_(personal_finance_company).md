@@ -1,0 +1,1 @@
+SQUIRREL is a British company that provides an online personal budgeting service. The company claims that it has several thousand users in the United Kingdom.[1] It was described by Liat Clark in _Wired_ magazine as a "total savings, budgeting and bill management tool".[2]

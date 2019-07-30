@@ -1,0 +1,1 @@
+Folklands.png (Uppland and Gästrikland) The coastline has changed considerably in the last millennium due to post-glacial rebound. Originally there was a sea bay coming in from the north all the way into Uppsala. Roslagen is the modern name for the area which roughly corresponds to what was called Roden in the Middle Ages.]]

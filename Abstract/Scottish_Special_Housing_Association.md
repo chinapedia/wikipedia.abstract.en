@@ -1,0 +1,1 @@
+The SCOTTISH SPECIAL HOUSING ASSOCIATION was established in 1937 to provide good-quality social housing. It had headquarters in Edinburgh, where it employed a large team of architects, engineers and quantity surveyors.[1] It was responsible for the construction of many social housing estates. It was an early adopter of Computer Aided Architectural Design.[2]

@@ -1,0 +1,1 @@
+BRIAN TRACY (born January 5, 1944)[1] is a Canadian-American motivational public speaker and self-development author.[2][3][4] He is the author of over seventy books that have been translated into dozens of languages.[5] His popular books are _Earn What You're Really Worth_,[6] _Eat That Frog!_,[7] and _The Psychology of Achievement_.[8]

@@ -1,0 +1,1 @@
+_MIRETTE INVESTIGATES_ (French: _Les enquêtes de Mirette_) is a French-Spanish animated series based on a series of picture books by the author Fanny Joly and published by Éditions Sarbacane. Laurent Audouin illustrated the books, which debuted in 2008.[1][2] The show premiered in TF1's TFOU on 6 November 2016,[3] and is billed as the "first travelling detective comedy".[4]

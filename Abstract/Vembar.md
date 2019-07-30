@@ -1,0 +1,1 @@
+VEMBAR is a village panchayat in Thoothukudi district in the Indian state of Tamil Nadu. Vembar is a village situated along the East Coast road at the north end of Tuticorin district. It has two Panchayets - Vembar and Vembar South.

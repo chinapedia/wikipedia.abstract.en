@@ -1,0 +1,1 @@
+YITZCHOK SHLOMO ZILBERMAN (; 30 April 1929 – 13 March 2001) was an Israeli Haredi rabbi and educator, pioneer of the Zilberman Method of Torah study. He founded Yeshivat Aderet Eliyahu, part of a community that follows the path of the Vilna Gaon.

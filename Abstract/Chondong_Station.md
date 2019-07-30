@@ -1,0 +1,1 @@
+CH'ŎNDONG STATION is a railway station in Ryongjin-dong, Kaech'ŏn municipal city, South P'yŏngan province, North Korea on the Manp'o Line of the Korean State Railway; it is also the starting point of the Taegak Branch to Taegak.[1]

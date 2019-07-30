@@ -1,0 +1,1 @@
+The MASSACHUSETTS CHARTER SCHOOL EXPANSION INITIATIVE was an unsuccessful initiative voted on in the Massachusetts general election held on November 8, 2016. It was one of four 2016 ballot measures put to public vote.

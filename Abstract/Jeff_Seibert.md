@@ -1,0 +1,1 @@
+JEFF SEIBERT (born July 27, 1985) is an American entrepreneur and angel investor. He is best known for co-founding Crashlytics, which in a little over a year was acquired by Twitter for over $100 million in 2013 (later valued at $259.5 million at Twitter's IPO), and co-founding Increo, which was acquired by Box in 2009.[1] [2]

@@ -1,0 +1,1 @@
+MAY YING CHEN (born 1948) is an American labor organizer and advocate for immigrant workers. Before retiring in 2009, she was an officer and founding member of the AFL-CIO's Asian Pacific American Labor Alliance (APALA), and the International Vice President of UNITE HERE.

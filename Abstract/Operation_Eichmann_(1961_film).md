@@ -1,0 +1,1 @@
+_OPERATION EICHMANN_ is a 1961 American film directed by R.G. Springsteen and starring Werner Klemperer in the title role. The film is a highly fictionalized account of the life of the war criminal Adolf Eichmann, from his career as a member of the SS and an architect of The Holocaust to his capture in Argentina by the Mossad.

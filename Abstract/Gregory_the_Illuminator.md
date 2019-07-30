@@ -1,0 +1,1 @@
+Saint GREGORY THE ILLUMINATOR[1] (classical ; _Grigor Lusavorich_) ( – ) is the patron saint and first official head of the Armenian Apostolic Church. He was a religious leader who is credited with converting Armenia from paganism to Christianity in 301. Armenia thus became the first nation to adopt Christianity as its official religion.

@@ -1,0 +1,1 @@
+The _burgstall_ of DÖRNHOF CASTLE is the site of a demolished, medieval lowland castle situated at a height of in the vicinity of Dörnhof Farm near the village of Dörnhof, part of Gräfenberg in the county of Forchheim in the German state of Bavaria.

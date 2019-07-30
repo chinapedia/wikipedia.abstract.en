@@ -1,0 +1,1 @@
+Pyotr_Shchukin.jpg Schukin_PI.jpg PYOTR IVANOVICH SHCHUKIN (1853 - 12 October 1912) was an art collector who built an important collection of Russian ancient art and artifacts and owned several impressionist masterpieces.

@@ -1,0 +1,1 @@
+ERWIN WOHLFAHRT (13 January 1932 – 28 November 1968) was a German operatic tenor, best known for the non-heroic roles for tenor in Wagner operas, such as Mime the dwarf and David the shoemaker's apprentice.

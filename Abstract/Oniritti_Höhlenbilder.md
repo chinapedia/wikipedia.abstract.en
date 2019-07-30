@@ -1,0 +1,1 @@
+_ONIRITTI HÖHLENBILDER_ ("oniritti cave pictures") is a 2016 book by the German writer Botho Strauß. It consists of fragmentary scenes and dreamlike imagery, with a focus on problems related to a lack of privacy and imagination in the digital age. "Oniritti" is a combination of the Greek word "oneiros", meaning "dream", and "graffiti".[1]

@@ -1,0 +1,1 @@
+JORDAN BENTLEY (born 30 April 1999) is an English footballer who plays for Tiverton Town as a defender. He had previously played professionally after coming through the youth system at Plymouth Argyle.

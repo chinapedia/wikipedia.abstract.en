@@ -1,0 +1,1 @@
+SATTARI HIGH SCHOOL (Bengali:সাত্টারী উচ্চ বিদ্যালয়) is one of the oldest Government Aided School in Sattari village of Malda district. It was established in since 1970.The school is providing fundamental education procedure in the society. It spreads education in Sattari and nearby 8 villages under the government body Binodpur Gram Panchayat.

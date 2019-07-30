@@ -1,0 +1,1 @@
+K-BUST (a.k.a. Karla Bustamante) is a Chilean-Canadian singer-songwriter and multi-instrumentalist, born to Chilean parents in the city of Valparaiso. After spending part of her life in Chile, she moved to Montreal, Quebec, Canada, to pursue her music career.[1]

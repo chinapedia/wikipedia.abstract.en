@@ -1,0 +1,1 @@
+_KAWANECTES_ (meaning "Kawas swimmer") is a genus of elasmosaurid plesiosaur, a type of long-necked marine reptile, that lived in the oceans of Late Cretaceous Patagonia. It contains one species, _K. LAFQUENIANUM_, described in 2016 by O'Gorman.[1]

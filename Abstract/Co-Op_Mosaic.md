@@ -1,0 +1,1 @@
+The _CO-OP MOSAIC_ is a mural in Kingston upon Hull, England, by the artist Alan Boyson.[1] Commissioned by the Co-operative Society ("Co-Op"), for the exterior of the side of their store at 32-38 Jameson Street, it was erected in 1963.[2] Depicting three stylised trawlers, it commemorates Hull's fishing fleet.[3]

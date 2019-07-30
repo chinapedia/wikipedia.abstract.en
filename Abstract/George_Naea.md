@@ -1,0 +1,1 @@
+GEORGE NAʻEA (died 1854), was a high chief of the Kingdom of Hawaii, and father of Queen Emma of Hawaii. He became one of the first Native Hawaiians to contract leprosy and the disease became known as _maʻi aliʻi_ (the "sickness of the chiefs") in the Hawaiian language because of this association.

@@ -1,0 +1,1 @@
+The USASA ELITE AMATEUR LEAGUES are a group of amateur state and regional soccer leagues recognized by the United States Adult Soccer Association.[1] They are considered to have a higher level of play than the other state league organizations recognized by the USASA.

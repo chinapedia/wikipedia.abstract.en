@@ -1,0 +1,1 @@
+George_Crumb_at_90,_Alice_Tully_Hall_(32709824577).jpg during a concert in honor of the 90th birthday of George Crumb]] TONY ARNOLD is an American soprano vocalist, specializing in contemporary chamber music.[1][2] She was the 2015 winner of the Brandeis University Creative Arts Award.[3]

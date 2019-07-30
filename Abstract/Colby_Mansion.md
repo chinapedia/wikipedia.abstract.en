@@ -1,0 +1,1 @@
+The COLBY MANSION is a historic house on Vermont Route 100 in Waterbury, Vermont. It was built in 1870 by George J. Colby, a proponent of ideas of house construction for healthy living, and exhibits all of the major features of his published works. It was listed on the National Register of Historic Places in 1979.[1]

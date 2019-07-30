@@ -1,0 +1,1 @@
+Sengenya is a ceremonial dance of the Digo tribe who live mainly in the Kwale district on the coastal province of Kenya. It is primarily centered on a song and dance performance that takes place during the day and night. Sengenya is typified by the actual participation of the audience who are invited to do so when requested.

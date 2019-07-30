@@ -1,0 +1,1 @@
+In mathematics, the CANTOR SET is a set of points lying on a single line segment that has a number of remarkable and deep properties. It was discovered in 1874 by Henry John Stephen Smith[1][2][3][4] and introduced by German mathematician Georg Cantor in 1883.[5][6]

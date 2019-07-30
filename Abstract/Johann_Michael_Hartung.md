@@ -1,0 +1,1 @@
+JMHartungMasterOrganBuilder.jpg Westgreußen_St._Martinus_06.jpg]] JOHANN MICHAEL HARTUNG (3 February 1708 – 13 January 1763) was a German organ builder and public figure from Dürkheim, a town in the Electoral Palatinate.

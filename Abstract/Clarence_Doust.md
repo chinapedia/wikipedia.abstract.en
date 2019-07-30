@@ -1,0 +1,1 @@
+CLARENCE ISAAC DOUST (3 August 1885 – 19 April 1961) was an Australian farmer and politician who was an independent member of the Legislative Assembly of Western Australia from 1936 to 1939, representing the seat of Nelson.

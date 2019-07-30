@@ -1,0 +1,1 @@
+KIRIKKALE MKE WEAPON INDUSTRY MUSEUM () is a museum in Kırıkkale , Turkey. It is at .Kırıkkale is an industrial city. Mechanical and Chemical Industry Corporation of Turkey (MKE for shorth) has a weapons factory in Kırıkkale. The museum was established by MKE on 15 July 1990. On 2 November 1993 it was transferred to its current location.

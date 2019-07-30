@@ -1,0 +1,1 @@
+HASSIUM is a chemical element with the symbol HS and atomic number 108. It is not known to occur in nature and has only been made in laboratories in miniscule quantities. It is highly radioactive: the most stable known isotope, ²⁶⁹Hs, has a half-life of approximately 16 seconds.

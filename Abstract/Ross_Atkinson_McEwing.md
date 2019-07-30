@@ -1,0 +1,1 @@
+ROSS ATKINSON MCEWING (October 17, 1888 – 1966) was a farmer and politician in Ontario, Canada. He represented Wellington North in the Legislative Assembly of Ontario from 1937 to 1951 as a Liberal.[1]

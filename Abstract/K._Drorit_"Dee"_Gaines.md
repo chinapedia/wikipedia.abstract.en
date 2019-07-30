@@ -1,0 +1,1 @@
+K. Drorit “Dee” Gaines is a neuropsychologist specializing in diagnostic evaluations, brain injury, trauma, and public education.[1] She is most known for her work with United States veterans, and serves as an authority on the physical brain’s effects on behavior and cognitive functioning.[2]

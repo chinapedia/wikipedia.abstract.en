@@ -1,0 +1,1 @@
+BYREMO is a village in Audnedal municipality in Vest-Agder county, Norway. The village is located on the north end of the lake Øvre Øydnevatn, about north of the village of Konsmo. Byremo was also the administrative centre of the old municipality of Grindheim until its dissolution in 1964.[1]

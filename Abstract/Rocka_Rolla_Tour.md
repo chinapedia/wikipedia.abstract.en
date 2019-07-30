@@ -1,0 +1,1 @@
+The _ROCKA ROLLA TOUR_ was a concert tour by British heavy metal band Judas Priest which was in support of their debut album _Rocka Rolla_. It ran from 10 September 1974 until 28 December 1975. This would be the band's first international tour as they made their first European visit to Denmark, Sweden, the Netherlands and Norway.[1]

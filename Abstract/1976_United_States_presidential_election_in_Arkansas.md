@@ -1,0 +1,1 @@
+The 1976 UNITED STATES PRESIDENTIAL ELECTION IN ARKANSAS took place on November 2, 1976, as part of the wider United States presidential election of 1976. Voters chose six electors to represent them in the Electoral College.

@@ -1,0 +1,1 @@
+LAMEROO BEACH is a small beach located off the Esplanade in central Darwin in the Northern Territory of Australia. It was the location of the town's historic baths between 1922 and 1974. The name for Lameroo Beach comes from a corrupted interpretation of the nearby Aboriginal site Damoe-Ra, which means "eye" or "spring" in Larrakia.[1]

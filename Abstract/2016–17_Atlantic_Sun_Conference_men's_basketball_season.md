@@ -1,0 +1,1 @@
+The 2016–17 ATLANTIC SUN CONFERENCE MEN'S BASKETBALL SEASON with practices in October 2016, followed by the start of the 2016–17 NCAA Division I men's basketball season in November. Conference play began on January 24, 2017 and concluded on February 23, 2017. The season marked the 39th season of Atlantic Sun Conference basketball.

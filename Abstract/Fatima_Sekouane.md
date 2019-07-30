@@ -1,0 +1,1 @@
+FATIMA SEKOUANE (born 21 May 1983) is an Algerian women's international footballer who plays as a defender. She is a member of the Algeria women's national football team. She was part of the team at the 2014 African Women's Championship as the team captain.[1][2] On club level she played for Affak Relizane in Algeria.

@@ -1,0 +1,1 @@
+MARK EUGENE VENNER, SR. (born September 16, 1950) is an American former politician. He has served as a Republican member for the 24th district in the South Dakota House of Representatives from 2011 to 2012. Previously, he served as Commissioner of Hughes County, South Dakota from 1999 to 2010.[1][2]

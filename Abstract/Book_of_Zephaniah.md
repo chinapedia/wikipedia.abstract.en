@@ -1,0 +1,1 @@
+The BOOK OF ZEPHANIAH (, _Tsfanya_) is the ninth of the Twelve Minor Prophets, preceded by the Book of Habakkuk and followed by the Book of Haggai. Zephaniah means "Yahweh has hidden/protected," or "Yahweh hides".

@@ -1,0 +1,1 @@
+KIRCHBACH-ZERLACH is since 2015 a municipality with 3,271 residents (as of 1 January 2016) in the Südoststeiermark District of Styria, Austria. In 2015 the municipality was called _Kirchbach in der Steiermark_.

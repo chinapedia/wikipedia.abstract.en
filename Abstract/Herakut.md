@@ -1,0 +1,1 @@
+HERAKUT is a German street artist duo who began painting in 2002.[1][2] Jasmin Siddiqui is known as _Hera_, and her partner Falk Lehmann, is known as _Akut_, hence their portmanteau combined name.[3][4]

@@ -1,0 +1,1 @@
+FIBONACCI NIM is a mathematical game, a variant of the game of nim. The game was first described by Michael J. Whinihan in 1963, who credits its invention to Robert E. Gaskell. It is called Fibonacci nim because the Fibonacci numbers feature heavily in its analysis.[1]

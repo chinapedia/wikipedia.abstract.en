@@ -1,0 +1,1 @@
+This is a list of the FIRST WOMEN LAWYER(S) AND JUDGE(S) in each U.S. state. It includes the year in which the women were admitted to practice law (in parentheses). Also included are women who achieved other distinctions such becoming the first in their state to obtain a law degree or become a political figure.

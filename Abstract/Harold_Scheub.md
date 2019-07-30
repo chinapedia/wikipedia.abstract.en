@@ -1,0 +1,1 @@
+HAROLD SCHEUB (born August 26, 1931) is an American Africanist, Professor Emeritus at the University of Wisconsin–Madison. Scheub has recorded and compiled oral literature from across southern Africa.[1]

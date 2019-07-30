@@ -1,0 +1,1 @@
+SOMESHWARA TEMPLE is situated on the banks of Arabian Sea at the Western Ghats of South India away from Mangalore. The temple is known as Rudrapada Kshetra, and is also a pilgrimage centre for performing Pitrakrayas (last rituals of departed soul).[1]

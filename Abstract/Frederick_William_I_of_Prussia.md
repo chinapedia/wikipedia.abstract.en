@@ -1,0 +1,1 @@
+FREDERICK WILLIAM I () (14 August 1688 – 31 May 1740), known as the "Soldier King" ([1]), was the King in Prussia and Elector of Brandenburg from 1713 until his death in 1740, as well as Prince of Neuchâtel. He was succeeded by his son, Frederick the Great.

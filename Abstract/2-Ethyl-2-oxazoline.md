@@ -1,0 +1,1 @@
+2-ETHYL-2-OXAZOLINE (EtOx) is an oxazoline which is used particularly as a monomer for the cationic ring-opening polymerization to poly(2-alkyloxazoline)s.[1] This type of polymers are under investigation as readily water-soluble and biocompatible materials for biomedical applications.[2]

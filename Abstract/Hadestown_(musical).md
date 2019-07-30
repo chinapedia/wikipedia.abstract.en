@@ -1,0 +1,1 @@
+_HADESTOWN_ is a musical based on the 2010 concept album of the same name by Anaïs Mitchell. It premiered Off-Broadway at New York Theatre Workshop on May 6, 2016 and ran through July 31. Following productions in Edmonton and London, the show premiered in previews on Broadway in March 2019. The show was developed for the stage and directed by Rachel Chavkin.

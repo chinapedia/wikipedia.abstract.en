@@ -1,0 +1,1 @@
+_HEY ARNOLD!: THE JUNGLE MOVIE_ is a 2017 American animated television film based on the Nickelodeon series _Hey Arnold!_, which was created by Craig Bartlett and originally aired from 1996 to 2004. It follows the 2002 film _Hey Arnold!: The Movie_ and the two-part _Hey Arnold!_ episode "The Journal".

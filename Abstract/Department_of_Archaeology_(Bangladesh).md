@@ -1,0 +1,1 @@
+DEPARTMENT OF ARCHAEOLOGY is one of the government agency of Bangladesh. By the _Laws of Archaeology 1964_ (amended in 1976) this agency maintains the conservation and preservation of archaeological sites in the country. Since 2013 the department has been running its activities from the Administration Building situated in Agargaon in Dhaka.

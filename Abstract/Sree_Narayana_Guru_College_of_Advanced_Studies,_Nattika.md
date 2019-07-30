@@ -1,0 +1,1 @@
+SREE NARAYANA GURU COLLEGE OF ADVANCED STUDIES, NATTIKA is a self-financing college in Nattika, Thrissur District of Kerala, India. It was founded in 2013-14. It is affiliated to the University of Calicut and operates below the Sree Narayana Trust.

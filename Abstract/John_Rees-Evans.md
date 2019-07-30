@@ -1,0 +1,1 @@
+JOHN REES-EVANS (born April 1978) is a British politician, currently the leader of the Democrats and Veterans party. Previously he was associated with the UK Independence Party (UKIP); he contested its leadership in November 2016, coming third with 18.1% of the vote, and again in 2017, coming fourth.

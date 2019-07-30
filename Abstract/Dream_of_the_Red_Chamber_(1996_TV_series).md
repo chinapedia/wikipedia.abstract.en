@@ -1,0 +1,1 @@
+_DREAM OF THE RED CHAMBER_ is a Taiwanese TV series based on Cao Xueqin's acclaimed 18th-century novel of the same name. Filmed mostly in Shanghai, the TV series was first broadcast on Chinese Television System from November 1996 to October 1997.

@@ -1,0 +1,1 @@
+_ANAEROCELLA DELICATA_ is a Gram-negative, non-spore-forming, anaerobic and non-motile bacterium from the genus of Anaerocella which has been isolated from a methanogenic reactor of cattle waste in Hokkaido in Japan.[1][2][3]

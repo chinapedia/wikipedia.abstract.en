@@ -1,0 +1,1 @@
+On March 17 and 18, 1936, the city of Pittsburgh, Pennsylvania witnessed the worst flood in its history when flood levels peaked at . This flood became known as THE GREAT ST. PATRICK’S DAY FLOOD, and also affected other areas of the Mid-Atlantic on both sides of the Eastern Continental Divide.

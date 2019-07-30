@@ -1,0 +1,1 @@
+The MOO PROGRAMMING LANGUAGE is a relatively simple programming language used to support the MOO Server. It is dynamically typed and uses a prototype-based object-oriented system, with syntax roughly derived from the Algol school of programming languages.

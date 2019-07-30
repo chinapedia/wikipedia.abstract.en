@@ -1,0 +1,1 @@
+WITTY is an unincorporated community in Douglas County, in the Ozarks of southern Missouri.[1] The community is located adjacent to Little Beaver Creek along Missouri Route DD and is approximately east of the Douglas - Christian county line.[2][3]

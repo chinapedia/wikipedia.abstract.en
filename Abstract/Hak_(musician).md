@@ -1,0 +1,1 @@
+HAKEEM LEWIS (born June 23, 1994), known professionally as HAK, is an American rapper, singer, record producer, songwriter and music video director from New York City, New York.[1] He is best known for once being a member of the hip hop group Ratking. Lewis later left Ratking in 2016 and released his debut solo album, _June_, the same year.

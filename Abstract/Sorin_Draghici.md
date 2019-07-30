@@ -1,0 +1,1 @@
+SORIN DRĂGHICI is a Romanian-American computer scientist, the Associate Dean for Entrepreneurship and Innovation of Wayne State University's College of Engineering, and the Director of the James and Patricia Anderson Engineering Ventures Institute.[1][2]

@@ -1,0 +1,1 @@
+SPRING GARDEN is an unincorporated community in northeastern Miller County, in the U.S. state of Missouri.[1] The community lies just north of Missouri Route 54, approximately 8.5 miles northeast of Eldon.[2]

@@ -1,0 +1,1 @@
+Bosons-Hadrons-Fermions-RGB-pdf.pdf, bosons and fermions.|alt=]] In particle physics, a HADRON (, _hadrós;_ "stout, thick") is a composite particle made of two or more quarks held together by the strong force in a similar way as molecules are held together by the electromagnetic force. Most of the mass of ordinary matter comes from two hadrons, the proton and the neutron.

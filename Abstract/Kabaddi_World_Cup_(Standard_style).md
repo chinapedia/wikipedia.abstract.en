@@ -1,0 +1,1 @@
+The KABADDI WORLD CUP, is an indoor international kabaddi competition conducted by the International Kabaddi Federation (IKF) in standard style, contested by men's and women's national teams. The competition has been previously contested in 2004, 2007 and 2016. All the tournaments have been won by India.

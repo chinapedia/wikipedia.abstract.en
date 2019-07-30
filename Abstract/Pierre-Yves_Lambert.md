@@ -1,0 +1,1 @@
+PIERRE-YVES LAMBERT, former student of the École Normale Supérieure, is a French teacher and linguist. He is a researcher at the CNRS and a lecturer at the École Pratique des Hautes Études in historical and philological sciences.

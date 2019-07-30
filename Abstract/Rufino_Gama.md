@@ -1,0 +1,1 @@
+RUFINO WALTER GAMA (born 20 June 1998)[1] is a football player who currently plays as forward for Karketu Dili in the Liga Futebol Amadora and Timor-Leste national football team. He is the current record goalscorer for Timor-Leste with seven goals.

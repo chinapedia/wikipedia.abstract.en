@@ -1,0 +1,1 @@
+The Sri Lanka cricket team toured Bangladesh in January and February 2018 to play two Tests and two Twenty20 International (T20I) matches.[1][2] Prior to the tour, both teams played in a tri-series, along with Zimbabwe.[3][4]

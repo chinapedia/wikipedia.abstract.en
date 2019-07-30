@@ -1,0 +1,1 @@
+GENOMIC IMPRINTING is an epigenetic phenomenon that causes genes to be expressed in a parent-of-origin-specific manner.[1][2][3][4][5] Forms of genomic imprinting have been demonstrated in fungi, plants and animals.[6][7] As of 2014, there are about 150 imprinted genes known in the mouse and about half that in humans.[8]

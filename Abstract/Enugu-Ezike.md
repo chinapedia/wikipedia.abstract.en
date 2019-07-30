@@ -1,0 +1,1 @@
+ENUGU-EZIKE is a large town occupying all the whole land of Igbo Eze North local government area of Nigeria's Enugu state. It shares borders in the north with Benue State, in the south with Ovoko(Igbo Eze South), Amala and Obollo(Udenu) and Kogi State in the West and partially in the north

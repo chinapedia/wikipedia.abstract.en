@@ -1,0 +1,1 @@
+NORDIC INSTITUTE OF ASIAN STUDIES (), or NIAS for short, is a university Institute for Asian studies of Copenhagen University in Denmark. The institute is located in Copenhagen and serve all five Nordic countries, comprising Denmark (including Greenland and Faroe Islands), Norway, Sweden, Finland and Iceland.

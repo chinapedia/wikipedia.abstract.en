@@ -1,0 +1,1 @@
+_AQUIMARINA GRACILIS_ is a Gram-negative, strictly aerobic and slender rod-shaped bacterium from the genus of Aquimarina which has been isolated from the gut microflora from the mussel Mytilus coruscus which was collected from the Gwangyang Bay from the South Sea near Korea.[1][2][3]

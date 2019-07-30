@@ -1,0 +1,1 @@
+JOHN BRADFORD (born February 2, 1951) is an American politician. He has served as a Republican member for the 40th district in the Kansas House of Representatives since 2013. In 2016, the American Conservative Union gave him a lifetime rating of 85%. [1][2][3]

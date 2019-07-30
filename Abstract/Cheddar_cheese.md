@@ -1,0 +1,1 @@
+CHEDDAR CHEESE is a relatively hard, off-white (or orange if colourings such as annatto are added), sometimes sharp-tasting, natural cheese. Originating in the English village of Cheddar in Somerset,[1] cheeses of this style are now produced beyond the region and in several countries around the world.

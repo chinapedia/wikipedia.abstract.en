@@ -1,0 +1,1 @@
+CHRISTA SCHMIDT (born Christa Weigel: 3 April 1941) is a retired German politician (CDU) who served as a minister in the last East German government.[1] She built an earlier career as a teacher and educationalist.[2]

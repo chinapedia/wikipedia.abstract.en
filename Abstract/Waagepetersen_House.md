@@ -1,0 +1,1 @@
+The WAAGEPETERSEN HOUSE is a listed Neoclassical town mansion located at Store Strandstræde 18 in Copenhagen, Denmark. The house takes its name after royal wine merchant Christian Waagepetersen who owned it from 1811 to 1840. His home was a meetingplace for many of the leading figures of the Danish Golden Age.

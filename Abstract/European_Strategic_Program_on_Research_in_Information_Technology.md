@@ -1,0 +1,1 @@
+EUROPEAN STRATEGIC PROGRAMME ON RESEARCH IN INFORMATION TECHNOLOGY (ESPRIT) was a series of integrated programmes of information technology research and development projects and industrial technology transfer measures. It was a European Union initiative managed by the Directorate General for Industry (DG III) of the European Commission.

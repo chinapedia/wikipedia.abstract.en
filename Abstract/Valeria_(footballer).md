@@ -1,0 +1,1 @@
+VALERIA APARECIDA BONIFACIO (born 9 March 1968) commonly known as VALERIA is a Brazilian footballer who played as a midfielder for the Brazil women's national football team. She was part of the team at the 1995 FIFA Women's World Cup and 1999 FIFA Women's World Cup. At the club level, she played for Lusa Sant'Anna in Brazil.[1]

@@ -1,0 +1,1 @@
+ABADEH RAILWAY STATION (_Persian:_ايستگاه راه آهن آباده, _Istgah-e Rah Ahan-e Abadeh_) is located in Abadeh, Fars Province. The station is owned by IRI Railway. The station also serves the nearby suburban towns of Soghad and Bahman. The station is also home to a turnaround wye.

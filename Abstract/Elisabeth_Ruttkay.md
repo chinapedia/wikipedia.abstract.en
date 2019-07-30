@@ -1,0 +1,1 @@
+ELISABETH RUTTKAY (18 June 1926 – 25 February 2009) was a Hungarian-born, naturalized Austrian citizen, who was a significant archaeologist specializing in New Stone Age and Bronze Age studies in Austria. She was the winner of both the Lower Austria Promotion Prize and the Austrian Cross of Honour for Science and Art.

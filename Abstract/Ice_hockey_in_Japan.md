@@ -1,0 +1,1 @@
+ICE HOCKEY is a minor sport that is gaining popularity in JAPAN.[1][2][3] Baseball and football (soccer) have dominated Japanese sports for decades, but ice hockey has been less popular in Japan since its founding in the 1920s.[4] It is governed by the Japan Ice Hockey Federation

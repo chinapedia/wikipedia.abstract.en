@@ -1,0 +1,1 @@
+The WILLIAM S. AND MARY BECKETT HOUSE is a historic house located in Boonville, Cooper County, Missouri. It was built in 1903, and is a 2-1/2 story, Queen Anne style brick dwelling. It has a complex, steep hipped and lower cross-gable roofs and projecting bays. It features decorative, terra cotta panels with a six-pointed star-like design.[1]

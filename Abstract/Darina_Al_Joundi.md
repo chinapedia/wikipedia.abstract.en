@@ -1,0 +1,1 @@
+DARINA AL JOUNDI is a Lebanese-born stage actor. She became a French citizen after Prime Minister Manuel Valls read a review of her performance at the 2012 Avignon Festival and decided to speed up her application. She has promoted women's rights for the French government.

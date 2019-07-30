@@ -1,0 +1,1 @@
+MANIAKOI () is a town in the municipal unit of Agia Triada, Kastoria regional unit, Greece. Since the 2010 local government reform, it is part of the municipality Kastoria.[1] It was the seat of the former municipality Agia Triada between 1997 and 2010.[2] In 2011 its population was 3,055.[3] It is situated 3 km southwest of the city centre of Kastoria, near Motorway 29.

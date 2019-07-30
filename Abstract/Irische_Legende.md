@@ -1,0 +1,1 @@
+(_Irish Legend_) is a 1955 opera by Werner Egk who also wrote the libretto after the 1892/1899 verse drama _The Countess Cathleen_ by W. B. Yeats. It premiered at the Salzburg Festival on 17 August 1955.

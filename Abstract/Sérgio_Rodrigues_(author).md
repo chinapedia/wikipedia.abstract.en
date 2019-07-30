@@ -1,0 +1,1 @@
+SÉRGIO RODRIGUES (Brazil, 1962) is a Brazilian fiction writer, literary critic, columnist and journalist - winner of the 2014 PRÊMIO PORTUGAL TELECOM DE LITERATURA [1] for his book _"O drible"_ (published by Companhia das Letras) [_"The Feint"_]. His books have been translated to English, French, Spanish and Danish.

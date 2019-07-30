@@ -1,0 +1,1 @@
+Opus_VII_Luthy_still-life.jpeg thumb OSKAR WILHELM LÜTHY (26 June 1882  – 1 October 1945) was a Swiss painter of still-lifes, landscapes and religious art. He co-founded Der Moderne Bund ("The Modern Covenant"), a group of Swiss modernist artists.

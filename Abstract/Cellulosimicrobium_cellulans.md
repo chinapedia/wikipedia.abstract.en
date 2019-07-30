@@ -1,0 +1,1 @@
+_CELLULOSIMICROBIUM CELLULANS_ is a Gram-positive bacterium from the genus of _Cellulosimicrobium_.[1][2][3] _Cellulosimicrobium cellulans_ can cause rare opportunistic infections.[4][5][6][7] The strain EB-8-4 of this species can be used for stereoselective allylic hydroxylation of D-limonene to (+)-trans-carveol.[8][9]

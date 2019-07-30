@@ -1,0 +1,1 @@
+_RISE OF THE TRIAD: DARK WAR_ is a first-person shooter video game, developed and published by Apogee Software (3D Realms) in 1995. The player can choose one of five different characters to play as, each bearing unique attributes such as height, speed, and endurance. Its remake was designed by Interceptor Entertainment and released by Apogee Games in 2013.

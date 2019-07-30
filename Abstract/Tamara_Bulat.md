@@ -1,0 +1,1 @@
+Dr. TAMARA BULAT was a prominent musicologist, author of several monographs and 300 papers. She is a co-author of The History of Ukrainian Music in 6 volumes. She is well known for her publications on the work of Ukrainian composers Mykola Lysenko and Yakiv Stepovy, dealing with problems of folk and art music, culturology, and ethnomusicology. [1]

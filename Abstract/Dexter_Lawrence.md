@@ -1,0 +1,1 @@
+DEXTER LAWRENCE II (born November 12, 1997) is an American football defensive tackle for the New York Giants of the National Football League (NFL). In 2015, he concluded his high school football career at Wake Forest High School in Wake Forest. He was ranked as the No. 2 recruit in college football's incoming Class of 2016.[1]

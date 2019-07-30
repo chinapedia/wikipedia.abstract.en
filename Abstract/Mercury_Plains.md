@@ -1,0 +1,1 @@
+_MERCURY PLAINS_ is a 2016 American action drama film directed by Charles Burmeister and starring Scott Eastwood, Angela Sarafyan, and Nick Chinlund. Grindstone Entertainment Group acquired the US rights to the film, and it was distributed by Lionsgate Home Entertainment.[1] Eastwood stars as an American drifter hired in Mexico to fight drug cartels.

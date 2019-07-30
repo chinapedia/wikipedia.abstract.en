@@ -1,0 +1,1 @@
+TERRA JOLÉ ODMARK (born May 25, 1980 in Comal County, Texas) is a reality television personality known for _Little Women: LA_ and its spinoffs and _Dancing with the Stars_. She stands at 4'2" as a person with dwarfism.

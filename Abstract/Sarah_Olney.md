@@ -1,0 +1,1 @@
+SARAH JANE OLNEY (__ MCGIBBON; born 1977)[1][2][3] is a British Liberal Democrat politician and an accountant. She was the Member of Parliament (MP) for Richmond Park for six months from a by-election in December 2016 to the general election in June 2017, having won the seat from the Conservatives.

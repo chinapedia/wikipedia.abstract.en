@@ -1,0 +1,1 @@
+DANA TYRONE ROHRABACHER[1] (; born June 21, 1947) is a former American politician, who served in the U.S. House of Representatives from 1989 to 2019. A Republican, he formerly represented for the last three terms of his House tenure.

@@ -1,0 +1,1 @@
+The EAST BROOK MALL is a mall located in Mansfield, Connecticut that was built to serve Willimantic and the surrounding area.[1] The mall currently has 27 stores and 2 anchor stores, Kohl's and T.J. Maxx.[2]

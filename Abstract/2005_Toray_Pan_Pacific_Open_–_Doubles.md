@@ -1,0 +1,1 @@
+Cara Black and Rennae Stubbs were the defending champions, but Stubbs did not compete this year. Black teamed up with Liezel Huber and lost in quarterfinals to tournament runners-up Lindsay Davenport and Corina Morariu.

@@ -1,0 +1,1 @@
+BERNARD ATTALI (born 1943) is a French business executive, political advisor and one-time novelist. He served as the chief executive officer of Air France from 1988 to 1993. He is a senior advisor to TPG Capital and Bank of America Merrill Lynch.

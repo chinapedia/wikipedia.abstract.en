@@ -1,0 +1,1 @@
+JEAN MIDDLETON DONALD GOW (January 26, 1903 - November 6, 2005) was the president and founder of the Naval Reading Services for the Naval Service of Canada. She was also an author, illustrator, and a researcher and writer for Canadian Broadcasting Corporation.

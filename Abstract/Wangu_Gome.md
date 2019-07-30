@@ -1,0 +1,1 @@
+WANGU GOME (born 13 February 1993) is a Namibian footballer who plays as a midfielder for Bidvest Wits F.C. in the South African Premier Division and the Namibia national team. He is known for his diminutive size[1][2] and midfield capabilities.[3][4]

@@ -1,0 +1,1 @@
+Imperial_Horsepower.svg by 1 foot in 1 second.]] HORSEPOWER (HP) is a unit of measurement of power, or the rate at which work is done. There are many different standards and types of horsepower. Two common definitions being used today are the MECHANICAL HORSEPOWER (or IMPERIAL HORSEPOWER), which is about 745.7 watts, and the METRIC HORSEPOWER, which is approximately 735.5 watts.

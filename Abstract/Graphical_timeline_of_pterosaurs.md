@@ -1,0 +1,1 @@
+Timeline showing the development of the extinct reptilian order PTEROSAURIA from its appearance in the late Triassic period to its demise at the end of the Cretaceous, together with an alphabetical listing of pterosaur species and their geological ages.

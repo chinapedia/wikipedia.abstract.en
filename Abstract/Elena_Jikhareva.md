@@ -1,0 +1,1 @@
+'''Elena Jikhareva ''' (born 8 July 1974) is a Russian footballer who played as a defender for the Russia women's national football team.[1] She was part of the team at the UEFA Women's Euro 2001. On club level she played for Ryazan VDV in Russia.[2]

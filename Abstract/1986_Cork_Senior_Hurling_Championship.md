@@ -1,0 +1,1 @@
+The 1986 CORK SENIOR HURLING CHAMPIONSHIP was the 98th staging of the Cork Senior Hurling Championship since its establishment by the Cork County Board in 1887. The championship ended on 5 October 1986.

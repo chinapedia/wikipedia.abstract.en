@@ -1,0 +1,1 @@
+KEITH LLOYD is the Dean and Head of Swansea University Medical School.[1] He is the Chair of the Welsh Psychiatric Society[2] and of the Royal College of Psychiatrists in Wales and Vice President of the Royal College of Psychiatrists.[3] Professor Lloyd is also the trustee for Wales of the charity Samaritans UK.[4]

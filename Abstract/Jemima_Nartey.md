@@ -1,0 +1,1 @@
+JEMIMA NARTEMLE NARTEY of Accra, Ghana is Vice-Chair and one of 12 elected volunteer members of the World Scout Committee, the main executive body of the World Organization of the Scout Movement.[1][2][3]

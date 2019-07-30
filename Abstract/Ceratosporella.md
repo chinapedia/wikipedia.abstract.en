@@ -1,0 +1,1 @@
+_CERATOSPORELLA_ is a genus of fungi. Some species interact with species of trees in the families Betulaceae and Fagaceae (_Carpinus betulus_, _Castanea sativa_).[1] _Ceratosporella disticha_ can be isolated from decaying leaves of the palm _Arenga westerhautii_ in Malaysia.[2]

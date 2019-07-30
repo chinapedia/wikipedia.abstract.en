@@ -1,0 +1,1 @@
+ST KATHERINE'S CHURCH, PLAISTOW was a Church of England church on Chapman Road in Plaistow, Newham. It opened in 1891 as a mission church of St Mary's Church, Plaistow, using a building that had earlier been used to house the infant department of that church's day schools. In 1894 a permanent church was completed. In 1965 it was demolished for redevelopment.

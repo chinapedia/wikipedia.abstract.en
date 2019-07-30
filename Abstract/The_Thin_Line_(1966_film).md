@@ -1,0 +1,1 @@
+is a 1966 film directed by Mikio Naruse. The writer, Toshirō Ide, based it on the 1951 novel _The Thin Line_ by Edward Atiyah, so the film is also known by the novel's title in some English sources.[1] The film starred Keiju Kobayashi, Michiyo Aratama, and Mitsuko Kusabue.

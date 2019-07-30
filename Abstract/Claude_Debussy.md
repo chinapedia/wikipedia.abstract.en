@@ -1,0 +1,1 @@
+thumb (ACHILLE) CLAUDE DEBUSSY (;[1] 22 August 1862 – 25 March 1918) was a French composer. He is sometimes seen as the first Impressionist composer, although he vigorously rejected the term. He was among the most influential composers of the late 19th and early 20th centuries.

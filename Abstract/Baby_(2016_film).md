@@ -1,0 +1,1 @@
+_BABY_ is a 2016 Indian Odia film directed by K.M Krishna and produced under Saurav Entertainment. Anubhav Mohanty,[1] Preeti Priyadarshini, Poulomi Das and Jhilik Bhattacharjee are in the lead roles.

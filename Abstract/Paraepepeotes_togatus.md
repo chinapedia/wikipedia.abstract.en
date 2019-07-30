@@ -1,0 +1,1 @@
+_PARAEPEPEOTES TOGATUS_ is a species of beetle in the family Cerambycidae.[1] It was described by Perroud in 1855, originally under the genus _Monohammus_. It is known from Papua New Guinea, Australia, and Moluccas.[2]

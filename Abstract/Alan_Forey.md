@@ -1,0 +1,1 @@
+ALAN JOHN FOREY (born 1933) is reader emeritus in history at the University of Durham[1] and an authority on the history of the military orders of the middle ages.[2] In 1994, his work was collected and published in the Variorum Collected Studies series as _Military Orders and Crusades_.[3] 2001,_Alan_Forey_a_Castellot_(Terol)_Congrés_en_honor_a_S._Runciman.jpg

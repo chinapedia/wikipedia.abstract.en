@@ -1,0 +1,1 @@
+SLOTTSKAPELLET (_The Royal Palace Chapel_) is a chapel in the Royal Palace in Oslo, Norway. It is the scene of many events of the Norwegian Royal Family like the royal baptisms and confirmations, in addition to church concerts and chamber music concerts.[1] Slottskapellet is used for worships for students as well, a tradition of more than a hundred years of history.[2]

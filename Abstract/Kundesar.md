@@ -1,0 +1,1 @@
+KUNDESAR is a village in Ghazipur district, Uttar Pradesh. Its population is 3141, per the 2011 Census.[1] Having a history of five hundred years, this village has rich heritage of the Kinwar clan. Kundesar has got special mention in the gazetteers of Ghazipur since 1781.[2] Kundesar is situated on the Ghazipur–Patna National Highway 19.

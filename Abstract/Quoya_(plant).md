@@ -1,0 +1,1 @@
+_QUOYA_ is a genus of flowering plants in family Lamiaceae and is endemic to Western Australia. Plants in this genus are shrubs with five petals joined to form a tube-shaped flower with four stamens of unequal lengths.

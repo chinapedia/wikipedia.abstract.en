@@ -1,0 +1,1 @@
+MARKUS REITZIG (born 1972) is a German organizational scientist, and professor of Strategic Management at the University of Vienna, where he has served as subject area chair since the group’s establishment in 2012.[1] He is best known for his research on the strategic management of corporate innovation, and for his studies on the design of new organizational forms.

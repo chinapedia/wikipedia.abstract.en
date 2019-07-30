@@ -1,0 +1,1 @@
+CAFE BATAVIA is a restaurant located in Kota Tua (Old Town), Jakarta, Indonesia. It is one of the colonial landmarks facing the square Taman Fatahillah. The building where Cafe Batavia is established is the second oldest building in the square, second only to the former City Hall building of Batavia, which had been reestablished as the Jakarta History Museum.

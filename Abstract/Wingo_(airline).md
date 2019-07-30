@@ -1,0 +1,1 @@
+WINGO is a brand of a low-cost airline owned by Copa Holdings, S.A.. Copa announced Wingo in October 2016 as a replacement for most of its Copa Airlines Colombia business, which had been losing money for several years, and had lost $29.7 million in the first half of 2016.[1]

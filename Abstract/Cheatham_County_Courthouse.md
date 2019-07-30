@@ -1,0 +1,1 @@
+The CHEATHAM COUNTY COURTHOUSE is a courthouse in Ashland City, Tennessee. The original seat of government for Cheatham County, the courthouse was placed on the National Register of Historic Places in 1976.

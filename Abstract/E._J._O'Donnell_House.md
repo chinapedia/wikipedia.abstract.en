@@ -1,0 +1,1 @@
+The E. J. O'DONNELL HOUSE in Multnomah County, Oregon, just outside the Portland municipal boundary, was designed in 1938 by architect Richard Sundeleaf for dairyman and cattle breeder Edward J. O'Donnell. It was completed in 1940.[1]

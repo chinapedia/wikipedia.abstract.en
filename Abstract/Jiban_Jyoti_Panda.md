@@ -1,0 +1,1 @@
+Dr. JIBAN JYOTI PANDA is an Indian scientist specializing in the field of nano-biotechnology. She has been awarded numerous awards in recognition for her work including the UNESCO - L`Oreal For Women in Science Fellowship,[1] [2] [3] which recognizes the achievements of exceptional women across the globe.

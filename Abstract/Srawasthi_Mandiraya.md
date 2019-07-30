@@ -1,0 +1,1 @@
+The SRAWASTHI MANDIRAYA is the primary office complex of the Western Provincial Council, located in Cinnamon Gardens, a suburb of Colombo. Built in 1913, it saw use for most of its lifetime as a hostel for Members of Parliament from outside Colombo who were attending Parliamentary sittings. It is located along Sir Marcus Fernando Mawatha (formerly Edinburgh Crescent).[1]

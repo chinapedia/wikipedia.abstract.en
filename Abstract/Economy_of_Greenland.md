@@ -1,0 +1,1 @@
+The ECONOMY OF GREENLAND can be characterized as small, mixed and vulnerable.[1] Greenland's economy consists of a large public sector and comprehensive foreign trade. This has resulted in an economy with periods of strong growth, considerable inflation, unemployment problems and extreme dependence on capital inflow from the Kingdom Government.[2]

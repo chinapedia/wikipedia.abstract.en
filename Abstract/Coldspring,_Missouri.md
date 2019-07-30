@@ -1,0 +1,1 @@
+COLDSPRING (also spelled out COLD SPRING) is an unincorporated community in north central Douglas County, in the Ozarks of southern Missouri.[1] The community is located on Missouri Route 76 and Clever Creek.[2]

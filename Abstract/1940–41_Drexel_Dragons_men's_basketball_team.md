@@ -1,0 +1,1 @@
+The 1940–41 DREXEL DRAGONS MEN'S BASKETBALL TEAM represented Drexel Institute of Technology during the 1940–41 men's basketball season. The Dragons, led by 2nd year head coach Lawrence Mains, played their home games at Curtis Hall Gym.

@@ -1,0 +1,1 @@
+JOSÉ RAÚL IGLESIAS (nicknamed _Toti_), (Buenos Aires, born 6 March 1957) is a retired footballer of Argentina. His position on the field was centre forward, having scored 117 goals in Primera División during his career. He won two championships in lower divisions of Argentina, being the topscorer of the tournament in both cases.

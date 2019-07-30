@@ -1,0 +1,1 @@
+TIMELINE OF COMPUTING presents events in the history of computing organized by year and grouped into six topic areas: predictions and concepts, first use and inventions, hardware systems and processors, operating systems, programming languages, and new application areas.

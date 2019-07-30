@@ -1,0 +1,1 @@
+CHAI POINT is an Indian tea company and a cafe chain which focus on the tea-based beverages. Chai Point was founded in Bangalore, India in 2010. The name Chai Point is derived from the word Chai which is the Indian term for tea.[1]

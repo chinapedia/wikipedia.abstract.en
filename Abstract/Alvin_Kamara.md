@@ -1,0 +1,1 @@
+ALVIN MENTIAN KAMARA (born July 25, 1995) is an American football running back for the New Orleans Saints of the National Football League (NFL). He played college football for the University of Tennessee and was drafted by the Saints in the third round of the 2017 NFL Draft.

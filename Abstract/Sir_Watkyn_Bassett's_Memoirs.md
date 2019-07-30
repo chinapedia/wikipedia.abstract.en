@@ -1,0 +1,1 @@
+"SIR WATKYN BASSETT'S MEMOIRS" is the fifth episode of the third series of the 1990s British comedy television series _Jeeves and Wooster_. It is also called "Hot off the Press". It first aired in the UK on on ITV.[1]

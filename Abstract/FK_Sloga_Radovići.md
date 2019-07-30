@@ -1,0 +1,1 @@
+FUDBALSKI KLUB SLOGA RADOVIĆI is a Montenegrin football club based in the coastal place Krtoli (Radovići) at Luštica peninsula, Municipality of Tivat. They currently compete in Montenegrin Third League - South.

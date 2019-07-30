@@ -1,0 +1,1 @@
+HAGGIS is a high-level reference programming language used primarily to examine Computing Science for Scottish pupils taking SQA courses on the subject.[1] HAGGIS is used as a tool to bridge the gap between pseudocode and typical computer programming.[2]

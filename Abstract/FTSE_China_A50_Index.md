@@ -1,0 +1,1 @@
+FTSE CHINA A50 INDEX (was known as FTSE–XINHUA CHINA A50 INDEX) is a stock market index by FTSE Group (FTSE–Xinhua joint venture until 2010), the components were chosen from Shanghai Stock Exchange and Shenzhen Stock Exchange, which issue A-share; B-share (share for foreigners) were not included .

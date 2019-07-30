@@ -1,0 +1,1 @@
+DAVID BABAYAN (Born April 5, 1973 in Stepanakert, Nagorno Karabakh), Head of the Central Information Department of the Office of the Artsakh Republic President - deputy head of the Artsakh Republic President's Office.

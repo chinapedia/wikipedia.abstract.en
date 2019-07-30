@@ -1,0 +1,1 @@
+In information security and programming, a BUFFER OVERFLOW, or BUFFER OVERRUN, is an anomaly where a program, while writing data to a buffer, overruns the buffer's boundary and overwrites adjacent memory locations.

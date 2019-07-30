@@ -1,0 +1,1 @@
+JOSHUA REYNOLDS (born February 16, 1995) is an American football wide receiver for the Los Angeles Rams of the National Football League (NFL). He played college football at Texas A&M. Reynolds holds the Texas A&M season receiving touchdown record with 13, set in 2014. He was drafted by the Rams in the fourth round of the 2017 NFL Draft.

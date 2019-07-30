@@ -1,0 +1,1 @@
+The KHMER ROUGE (, , "Red Khmers"; _Khmae Kro-hom_) was the name popularly given to the followers of the Communist Party of Kampuchea (CPK) and by extension to the regime through which the CPK ruled in Cambodia between 1975 and 1979. The name had originally been used in the 1950s by Norodom Sihanouk as a blanket term for the Cambodian left.

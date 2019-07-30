@@ -1,0 +1,1 @@
+MARSELISBORG YACHT HARBOUR (Danish: _Marselisborg Lystbådehavn_) is a marina located in Aarhus, Denmark. The marina has been in operation since 1991 and is situated adjacent to Tangkrogen on the south side of the Port of Aarhus, It includes restaurants, cafes, a hotel and a number of sports clubs and sailing schools.[1][2]

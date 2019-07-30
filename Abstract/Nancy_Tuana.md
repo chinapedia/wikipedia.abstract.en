@@ -1,0 +1,1 @@
+NANCY TUANA is an American philosopher who specializes in feminist philosophy. She holds the DuPont/Class of 1949 Professorship in Philosophy and Women's Studies at The Pennsylvania State University. She came to Penn State from the University of Oregon in 2001 to serve as the founding director of the Rock Ethics Institute

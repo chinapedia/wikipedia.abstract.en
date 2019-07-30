@@ -1,0 +1,1 @@
+P BOMBS or PASSAGLIA GRENADES or PAZZAGLIA are homemade weapons used by Italian soldiers during World War II especially in the North African theater to overcome the chronic lack of effective weapons against armored enemies.

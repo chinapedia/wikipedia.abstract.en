@@ -1,0 +1,1 @@
+The PEOPLE'S LIBERATION ARMY MACAO GARRISON is the defence force stationed in Macau since December 20, 1999. It has been the responsibility of the Chinese People's Liberation Army (PLA), which stations between 500-600 troops in Macau, primarily as a symbolic presence to underscore Chinese sovereignty.

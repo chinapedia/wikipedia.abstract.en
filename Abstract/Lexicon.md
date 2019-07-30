@@ -1,0 +1,1 @@
+A LEXICON, WORD-HOARD, WORDBOOK, or WORD-STOCK is the vocabulary of a person, language, or branch of knowledge (such as nautical or medical). In linguistics, a LEXICON is a language's inventory of lexemes. The word "lexicon" derives from the Greek (_lexicon_), neuter of (_lexikos_) meaning "of or for words."[1]

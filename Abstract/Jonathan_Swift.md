@@ -1,0 +1,1 @@
+JONATHAN SWIFT (30 November 1667 – 19 October 1745) was an Anglo-Irish[1] satirist, essayist, political pamphleteer (first for the Whigs, then for the Tories), poet and cleric who became Dean of St Patrick's Cathedral, Dublin.[2]

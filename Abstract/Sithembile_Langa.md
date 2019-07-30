@@ -1,0 +1,1 @@
+SITHEMBILE LANGA (born 9 February 1995) is a South African cricketer.[1] He made his List A debut for Border in the 2016–17 CSA Provincial One-Day Challenge on 30 October 2016.[2] He made his first-class debut for Border in the 2016–17 Sunfoil 3-Day Cup on 23 March 2017.[3] He made his Twenty20 debut for Border in the 2017 Africa T20 Cup on 15 September 2017.[4]

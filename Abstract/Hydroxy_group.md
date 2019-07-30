@@ -1,0 +1,1 @@
+Hydroxyl3D.png hydroxy group, where R represents a hydrocarbon or other organic moiety, the red and grey spheres represent oxygen and hydrogen atoms respectively, and the rod-like connections between these, covalent chemical bonds.]]

@@ -1,0 +1,1 @@
+The MINISTRY FOR KARAMOJA AFFAIRS is a cabinet level government ministry of Uganda. The ministry is responsible for the coordination of all government programs in the five districts of the Karamoja sub-region.[1]

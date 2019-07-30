@@ -1,0 +1,1 @@
+EIGRA LEWIS ROBERTS (born 7 August 1939) is a Welsh-language author who has written about 30 plays, short stories, children's books and novels.[1] She has won numerous awards at the National Eisteddfod of Wales.[2]

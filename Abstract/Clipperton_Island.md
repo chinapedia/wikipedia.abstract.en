@@ -1,0 +1,1 @@
+CLIPPERTON ISLAND ( or ; ) is an uninhabited coral atoll in the eastern Pacific Ocean off the coast of Central America. It is from Paris, France, from Papeete, Tahiti, and from Mexico. It is an overseas minor territory of France, under direct authority of the Minister of Overseas France.[1][2]

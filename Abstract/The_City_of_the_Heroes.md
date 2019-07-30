@@ -1,0 +1,1 @@
+_THE CITY OF THE HEROES_ _()_ — is a series of documentaries about Mariupol, produced in 2015-2016 by Public TV of Azov. The films were presented in two stages: the first 5 were screened in December 2015, the last 5 were screened in August 2016. The final film _"Ukraine is Mariupol" _— was released on August, 14 and screened on September 16, 2016.[1]

@@ -1,0 +1,1 @@
+CLARK JOSEPH KENT is a fictional character appearing in American comic books published by DC Comics. Created by Jerry Siegel and Joe Shuster, he debuted in _Action Comics_ #1 (June 1938) and serves as the civilian and secret identity of the superhero _' Superman_'.

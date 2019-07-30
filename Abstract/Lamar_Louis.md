@@ -1,0 +1,1 @@
+LAMAR LOUIS (born October 2, 1993) is an American football linebacker who is currently a free agent. He played college football at Louisiana State and was signed as an undrafted free agent by the Arizona Cardinals in 2016.

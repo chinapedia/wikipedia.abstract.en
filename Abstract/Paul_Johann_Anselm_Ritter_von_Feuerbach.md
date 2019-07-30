@@ -1,0 +1,1 @@
+PAUL JOHANN ANSELM RITTER VON FEUERBACH (14 November 177529 May 1833) was a German legal scholar. His major work was a reform of the Bavarian penal code which became a model for several other countries.

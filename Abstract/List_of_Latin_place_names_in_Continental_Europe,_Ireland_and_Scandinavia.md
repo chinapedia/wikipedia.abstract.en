@@ -1,0 +1,1 @@
+This list includes European countries and regions that were part of the Roman Empire, or that were given Latin place names in historical references. As a large portion of the latter were only created during the Middle Ages, often based on scholarly etiology, this is not to be confused with a list of the actual names modern regions and settlements bore during the classical era.

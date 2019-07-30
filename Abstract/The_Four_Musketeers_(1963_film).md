@@ -1,0 +1,1 @@
+_THE FOUR MUSKETEERS_ (, ) is a 1963 Italian-French adventure-comedy film co-written and directed by Carlo Ludovico Bragaglia and starring Aldo Fabrizi, Erminio Macario and Nino Taranto. It is a loose parody of Alexandre Dumas' _The Three Musketeers_.[1]

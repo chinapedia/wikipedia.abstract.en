@@ -1,0 +1,1 @@
+HERCULES () is a Roman hero and god. He was the Roman equivalent of the Greek divine hero Heracles, who was the son of Zeus (Roman equivalent Jupiter) and the mortal Alcmene. In classical mythology, Hercules is famous for his strength and for his numerous far-ranging adventures.

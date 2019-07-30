@@ -1,0 +1,1 @@
+The MUSÉE DES BEAUX-ARTS DE MORLAIX is a fine arts museum in Morlaix, Brittany, France.[1] It is also known as the MUSÉE DES JACOBINS, since it opened in a former Jacobin convent (confiscated after the French Revolution) in 1889.

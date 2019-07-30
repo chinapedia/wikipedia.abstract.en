@@ -1,0 +1,1 @@
+is a Japanese voice actor and singer affiliated with Ken Production. Before his first main role in anime as Toshiki Kai in _Cardfight!! Vanguard_ in 2011, he was mostly known for dubbing foreign dramas.[1]

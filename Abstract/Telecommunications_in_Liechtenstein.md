@@ -1,0 +1,1 @@
+This article concerns the systems of COMMUNICATIONS IN LIECHTENSTEIN. Liechtenstein possesses a number of modern communications systems, some of which are shared with the neighbouring country of Switzerland. The country code and top-level domain for Liechtenstein is .li.

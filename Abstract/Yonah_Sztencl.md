@@ -1,0 +1,1 @@
+Rabbi YONA SZTENCL (Hebrew: יונה שטנצל, pronounced Shtentzel) (1904–1969) was a Jewish Orthodox Rabbi who founded the Mishnah Yomis and the Halacha Yomis. He also served as the Rabbi of Congregation Bais Hassidim "Arlenger" in Tel Aviv and was a member of the Chief Rabbinate of Tel Aviv.

@@ -1,0 +1,1 @@
+The 1992 GREENLANDIC MEN'S FOOTBALL CHAMPIONSHIP was the 22nd edition of the Greenlandic Men's Football Championship. The final round was held in Ilulissat. It was won by Aqigssiaq Maniitsoq for the first time in its history.[1]

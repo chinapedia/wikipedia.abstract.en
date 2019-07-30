@@ -1,0 +1,1 @@
+CORKERY is an extinct town in Dallas and Laclede counties, in the U.S. state of Missouri. The GNIS classifies it as a populated place.[1] The community area is located on a ridge surrounded on three sides by an entrenched meander of the Niangua River which is about 300 feet below the ridgetop. The location is only accessible by road from Laclede County.[2]

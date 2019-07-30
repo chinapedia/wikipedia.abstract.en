@@ -1,0 +1,1 @@
+ELENI is feminine given name of Greek origin. It is a phonetic spelling of the Modern Greek name "Ελένη", whose ancient version, Ἑλένη, is anglicized as Helen. Popular diminutives and nicknames include: _Elenitsa_, _Elenaki_, _Elena_, _Lena_, _Lenio_, _Lenners_, _Nitsa_.

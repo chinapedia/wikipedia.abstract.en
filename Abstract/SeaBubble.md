@@ -1,0 +1,1 @@
+SEABUBBLES is a startup created by Alain Thébault and Anders Bringdal in 2016. They design and manufacture electric boats, called hydrofoils the size of small cars It is proposed they could be used as water taxis in cities.[1][2] Seabubbles_prototype.jpg

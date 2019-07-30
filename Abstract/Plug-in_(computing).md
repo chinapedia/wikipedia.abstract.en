@@ -1,0 +1,1 @@
+Mozilla_plugins_screenshot_without_subpixel_rendering.png displaying a list of installed plug-ins]] In computing, a PLUG-IN (or PLUGIN, ADD-IN, ADDIN, ADD-ON, or ADDON) is a software component that adds a specific feature to an existing computer program. When a program supports plug-ins, it enables customization.

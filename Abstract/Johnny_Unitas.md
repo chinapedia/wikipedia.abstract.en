@@ -1,0 +1,1 @@
+JOHN CONSTANTINE UNITAS (; May 7, 1933 – September 11, 2002), nicknamed "JOHNNY U" and "THE GOLDEN ARM", was an American football player in the National Football League (NFL). He spent the majority of his career playing for the Baltimore Colts. He was a record-setting quarterback, and the NFL's most valuable player in 1959, 1964, and 1967.

@@ -1,0 +1,1 @@
+KRAMATORSK AIRPORT, also known as KRAMATORSK MILITARY AIRFIELD, is a military airfield in Donetsk Oblast of Ukraine. The airbase is 3.4 km SSE from the centre of Kramatorsk and at about 20 km south of Slovyansk.

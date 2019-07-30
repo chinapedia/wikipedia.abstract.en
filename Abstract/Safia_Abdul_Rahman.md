@@ -1,0 +1,1 @@
+'''Safia Abdul Rahman ''' (born 5 May 1986) is a Ghanaian women's international footballer who plays as a forward for the Ghana women's national football team. She competed at the 2007 FIFA Women's World Cup. At the club level, she plays for Ghatel Ladies in Ghana.[1]

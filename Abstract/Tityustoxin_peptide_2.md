@@ -1,0 +1,1 @@
+TITYUSTOXIN PEPTIDE 2 (TsPep2) is a peptide isolated from the venom of the _Tityus serrulatus_ (Brazilian yellow scorpion). It belongs to a class of short peptides, together with Tityustoxin peptide 1 and Tityustoxin peptide 3.[1]

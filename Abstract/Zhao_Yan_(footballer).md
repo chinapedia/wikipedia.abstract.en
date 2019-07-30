@@ -1,0 +1,1 @@
+'''Zhao Yan ''' (born 7 May 1972) is a Chinese women's international footballer who plays as a goalkeeper. She is a member of the China women's national football team. She was part of the team at the 2003 FIFA Women's World Cup.[1]

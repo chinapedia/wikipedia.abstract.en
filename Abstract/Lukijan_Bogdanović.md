@@ -1,0 +1,1 @@
+LUKIJAN BOGDANOVIĆ (Serbian Cyrillic: Лукијан Богдановић; 10 May 1867 – 1 September 1913) was the last Serbian Patriarch of the Patriarchate of Karlovci and Metropolitanate of Karlovci. He was assassinated and decapitated while walking alone along a river bank in Bad Gastein.[1]

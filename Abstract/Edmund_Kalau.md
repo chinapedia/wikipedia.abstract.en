@@ -1,0 +1,1 @@
+EDMUND J. KALAU (9 July 1928 – 8 January 2014) was a German aviator, missionary, and pastor. He was a member of the Hitler Youth during his childhood prior to his conversion to Christianity. As an adult, Kalau served as a missionary in Micronesia with his wife, Elizabeth. They founded the Pacific Missionary Aviation (PMA) to facilitate air travel throughout Micronesia.

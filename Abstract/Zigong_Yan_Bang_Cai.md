@@ -1,0 +1,1 @@
+ZIGONG YAN BANG CAI is a cuisine that originated in the city of Zigong in southwest china, which is famous for its salt industry. The name translates as Yan (in English it means salt) Bang (it means junto) Cai (it means cuisines).

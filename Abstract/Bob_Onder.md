@@ -1,0 +1,1 @@
+ROBERT ONDER JR. (born January 6, 1962) is an American politician and physician from the state of Missouri. A Republican, he is a member of the Missouri Senate serving the 2nd District, in the St. Charles area. He was elected Assistant Majority Floor Leader in 2015. Onder previously was a member of the Missouri House of Representatives from 2007 to 2008.

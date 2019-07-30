@@ -1,0 +1,1 @@
+WILLIAM F. ROBINSON (December 29, 1913 – July 5, 2008) was a Democrat American politician and semiprofessional baseball player from Buffalo, New York. He represented the 3rd District of the Erie County Legislature from 1986-1993.[1]

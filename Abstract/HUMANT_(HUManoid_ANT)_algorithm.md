@@ -1,0 +1,1 @@
+HUMANT (HUManoid ANT) algorithm[1] belongs to Ant colony optimization algorithms. It is a Multi-Objective Ant Colony Optimization (MOACO) with _a priori_ approach to Multi-Objective Optimization (MOO), based on Max-Min Ant System (MMAS) and multi-criteria decision-making PROMETHEE method.

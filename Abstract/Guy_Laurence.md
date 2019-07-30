@@ -1,0 +1,1 @@
+JONATHAN GUY LAURENCE (born 23 November 1961)[1] is a British businessman, who is currently the Chief Executive of Premier League club Chelsea. He has previously served as Chief Executive of Vodafone UK, and most recently President and CEO of Rogers Communications.

@@ -1,0 +1,1 @@
+CHRISTIAN MARCELO "CHELLY" ARRUE (born 8 January 1969) is an American cyclist. He competed at the 2000 Summer Olympics in Sydney, in the men's sprint and men's keirin. Arrue was born in Santiago, Chile. He became an American citizen in 1996.[1]

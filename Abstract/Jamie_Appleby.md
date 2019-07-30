@@ -1,0 +1,1 @@
+JAMIE APPLEBY is a Canadian music executive, musician, and songwriter. He is the co-founder and head of A&R of Canadian record label, Wax Records. He is credited with discovering and signing Alyssa Reid, Virginia to Vegas (Astralwerks), Autumn Hill, ASHS (Republic Records), and multi platinum German-Canadian pop artist bülow (Republic Records), whom he also manages.

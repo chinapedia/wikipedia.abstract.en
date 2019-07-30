@@ -1,0 +1,1 @@
+_EUCALYPTUS ARCANA_, commonly known as the MALLEE MANNA GUM or CARPENTER ROCKS GUM[1] is a mallee that is endemic to South Australia. It has rough bark from the base of the trunk to the thinnest branches, lance-shaped, sometimes curved leaves, flower buds in groups of seven, white flowers and hemispherical fruit. It is only known from a single population near Carpenter Rocks.

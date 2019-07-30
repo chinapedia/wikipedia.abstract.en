@@ -1,0 +1,1 @@
+The funeral of Victoria, Queen of the United Kingdom of Great Britain and Ireland, Empress of India, occurred on 2 February 1901. It was one of the largest gatherings of European royalty ever to take place.

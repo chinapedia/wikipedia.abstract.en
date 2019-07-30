@@ -1,0 +1,1 @@
+The WOMEN'S TIME TRIAL of the 2016 UCI Road World Championships took place in and around in Doha, Qatar on 11 October 2016. The course of the race was . Linda Villumsen won her first world time trial title in 2015 but did not take part in the 2016 race.

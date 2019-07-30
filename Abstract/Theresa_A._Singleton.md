@@ -1,0 +1,1 @@
+THERESA A. SINGLETON (born April 15, 1952) is an archaeologist and writer who focuses on the archaeology of African Americans and slavery in the United States. Singleton has been involved in the excavation of slave residences in the southern United States.[1] She is currently a professor of anthropology at Syracuse University.

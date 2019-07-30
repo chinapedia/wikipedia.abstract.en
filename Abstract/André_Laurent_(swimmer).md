@@ -1,0 +1,1 @@
+ANDRÉ LAURENT (born 14 February 1931) is a Belgian former swimmer. He competed in the men's 100 metre freestyle at the 1956 Summer Olympics. He also competed in the water polo at the 1952 Summer Olympics and the 1964 Summer Olympics.[1]

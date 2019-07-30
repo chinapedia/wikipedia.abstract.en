@@ -1,0 +1,1 @@
+Aegean_Sea_with_island_groups_labeled.gif

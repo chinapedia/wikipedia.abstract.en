@@ -1,0 +1,1 @@
+ISAIAH 10 is the tenth chapter of the Book of Isaiah in the Hebrew Bible or the Old Testament of the Christian Bible. This book contains prophesies attributed to the prophet Isaiah, and is one of the Prophetic Books.[1]

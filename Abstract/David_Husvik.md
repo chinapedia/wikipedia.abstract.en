@@ -1,0 +1,1 @@
+DAVID HUSVIK is a Norwegian drummer who has played in metal bands Extol, Absurd², Twisted Into Form and InSection and Aperture, a jazz and acoustic rock project. David Husvik helped to start Pirates N 'Thieves in 2007. He also performed in a side-project of Extol called Ganglion.[1]

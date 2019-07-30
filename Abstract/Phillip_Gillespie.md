@@ -1,0 +1,1 @@
+PHILLIP J. GILLESPIE (born 23 October 1975) is an Australian cricket umpire. A member of the Australian National Umpire Panel, Gillespie has umpired 6 Women's One Day International cricket matches,[1] 10 first-class matches,[2] 9 List A matches,[3] 10 Twenty20 matches[4] and 9 Women's Twenty20 matches[5] .

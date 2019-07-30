@@ -1,0 +1,1 @@
+ANTONIO MUGICA (born May 1974) is the founder and CEO of Smartmatic, a multinational electronic voting company. He also previously served as the Director of Anoto Group AB and Director of Panagroup Corporation.[1]

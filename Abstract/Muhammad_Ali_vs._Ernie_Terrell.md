@@ -1,0 +1,1 @@
+Muhammad Ali vs. Ernie Terrell was a professional boxing match contested on February 6, 1967, for the WBA & WBC Heavyweight Championship. The fight went 15 rounds, with Ali winning through a unanimous decision.[1]

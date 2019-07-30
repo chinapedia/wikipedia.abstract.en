@@ -1,0 +1,1 @@
+CORNELIUS EDISON (born July 10, 1993) is an American football center for the Minnesota Vikings of the National Football League (NFL). He played college football at Portland State and was signed by the Chicago Bears as an undrafted free agent in 2015.

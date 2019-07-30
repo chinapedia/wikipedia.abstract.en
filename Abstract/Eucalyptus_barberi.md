@@ -1,0 +1,1 @@
+_EUCALYPTUS BARBERI_, commonly known as BARBER'S GUM,[1] is a tree or mallee that is endemic to Tasmania. It has mostly smooth, greyish bark, elliptic to lance-shaped or curved adult leaves, diamond-shaped or club-shaped buds in groups of seven in leaf axils, white flowers and cup-shaped, cylindrical or conical fruit.Eucalyptus_barberi_flowers.jpgEucalyptus_barberi_fruit.jpg

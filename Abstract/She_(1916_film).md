@@ -1,0 +1,1 @@
+_SHE_ is a 1916 British silent adventure film directed by Will Barker and Horace Lisle Lucoque and starring Alice Delysia, Henry Victor and Sydney Bland. It is an adaptation of H. Rider Haggard's novel _She_.[1]

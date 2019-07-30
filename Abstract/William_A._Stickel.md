@@ -1,0 +1,1 @@
+WILLIAM A. STICKEL was a bridge engineer for the Essex County, New Jersey and the New Jersey State Highway Department (now New Jersey Department of Transportation) who was associated with the construction of numerous bridges throughout the state built in the early part of the 20th century.[1][2][3] The William A. Stickel Memorial Bridge is named in his honor.[4]

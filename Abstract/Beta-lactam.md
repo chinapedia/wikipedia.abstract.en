@@ -1,0 +1,1 @@
+Beta-lactam.svg, the simplest β-lactam]] A BETA-LACTAM (Β-LACTAM) ring is a four-membered lactam.[1] (A lactam is a cyclic amide.) It is named as such because the nitrogen atom is attached to the β-carbon atom relative to the carbonyl. The simplest β-lactam possible is 2-azetidinone.

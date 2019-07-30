@@ -1,0 +1,1 @@
+COLE WICK (born November 30, 1993) is an American football tight end for the Tennessee Titans of the National Football League (NFL). He played college football at the University of the Incarnate Word.[1] Wick is from Hallettsville, Texas.[2] He played high school football at Sacred Heart Catholic High.[3]

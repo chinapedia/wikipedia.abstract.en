@@ -1,0 +1,1 @@
+ABDEL AZIZ EL-SHAFEI (born 8 December 1931) is an Egyptian former swimmer. He competed in the men's 100 metre freestyle at the 1952 Summer Olympics He also competed in the water polo at the 1952 and 1960 Summer Olympics.[1]

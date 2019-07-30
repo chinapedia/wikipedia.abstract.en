@@ -1,0 +1,1 @@
+SOPHIE ELIZABETH PORLEY (born November 1987)[1] is an English actress, who is best known for her role as Ellie Nightingale in Channel 4 soap opera, _Hollyoaks_.[2] Before starring in _Hollyoaks_, she has had roles in _The Work Experience_, _Jupiter Ascending_ and _Tulip Fever_. Porley has modelled for Bravissimo, Tu for Sainsbury's, and Royce Lingerie.

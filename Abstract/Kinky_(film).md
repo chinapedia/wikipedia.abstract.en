@@ -1,0 +1,1 @@
+_KINKY_ is a 2018 American erotic romantic thriller directed, written and produced by Jean-Claude La Marre. The film stars Robert Ri'chard,[1] Dawn Richard, Gary Dourdan, and Vivica A. Fox.[2] The film was released in the United States on October 12, 2018,[3] by Patriot Pictures.[4]

@@ -1,0 +1,1 @@
+PORTLAND CEMENT ASSOCIATION is a non-profit organization that promotes the use of concrete. The organization conducts and sponsors concrete research projects, participates in the setting of industry standards of cement manufacturing, disseminates free designs of concrete-based architectural structures and its elements, etc.

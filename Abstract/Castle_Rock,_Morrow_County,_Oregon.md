@@ -1,0 +1,1 @@
+CASTLE ROCK was a historic unincorporated community, post office, and railway station in Morrow County, Oregon, United States.[1] They were named for a low bluff along the Columbia River that was said to look like a castle as seen from the river.[2]

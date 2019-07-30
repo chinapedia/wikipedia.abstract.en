@@ -1,0 +1,1 @@
+ABIWORD () is a free and open-source software word processor. It was originally written in C++ and since version 3 it is based on GTK+ 3. The name "AbiWord" is derived from the root of the Spanish word "_abierto_", meaning "open".[1]

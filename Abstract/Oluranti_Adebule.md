@@ -1,0 +1,1 @@
+DR OLURANTI ADEBULE, born November 27, 1970 to the family of Idowu-Esho of Ojo Alaworo in Ojo local government area[1] of Lagos state. She is the 15th Deputy Governor of Lagos state.[2] Her term ended on May 29, 2019, with the swearing in of Femi Hamzat in her place.

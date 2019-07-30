@@ -1,0 +1,1 @@
+MICHAEL BARSOUM is an American material scientist and engineer, currently a Distinguished Professor at Drexel University,[1] and also a published author.[2][3] In 2009, he became the holder of the A. W. Grosvenor Professorship at Drexel.[4]

@@ -1,0 +1,1 @@
+SAMANTHA GREENBERG is the founder, managing partner and chief investment officer (CIO) of Margate Capital Management.[1] Her specialist areas are Technology, Media & Telecommunications (TMT) and Consumer industries.[2]

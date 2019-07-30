@@ -1,0 +1,1 @@
+The FRENCH ARMED FORCES () encompass the Army, the Navy, the Air Force, the National Guard and the Gendarmerie of the French Republic. The President of France heads the armed forces as _chef des armées_.

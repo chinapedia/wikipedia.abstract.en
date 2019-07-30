@@ -1,0 +1,1 @@
+AMITABH SHUKLA is an Indian film editor, working in Bollywood, most known for his work in films like Chakh De! India, Krrish, Holiday and Chalte Chalte.[1] He was awarded the Filmfare Award for Best Editing in the year 2008 for his work in the film Chakh De! India.

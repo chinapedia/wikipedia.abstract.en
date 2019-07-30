@@ -1,0 +1,1 @@
+LYNK & CO is a Chinese-Swedish automotive brand owned by Zhejiang Geely Holding Group. Founded in 2016, its cars will be positioned between those of the Geely brand and Swedish brand Volvo, which was purchased by Geely in 2010. The focus of the brand is on internet connectivity and innovative purchasing models in certain markets, targeting the young professional demographic.[1]

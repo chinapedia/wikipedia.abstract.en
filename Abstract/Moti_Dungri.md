@@ -1,0 +1,1 @@
+MOTI DUNGRI is a Hindu temple complex dedicated to lord Ganesha in Jaipur, Rajasthan. It was built in 1761 under supervision of Seth Jai Ram Palliwal. The temple is a popular tourist attraction in the city.

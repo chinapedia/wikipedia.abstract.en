@@ -1,0 +1,1 @@
+Wijngaards_Institute_for_Catholic_Research_Logo.png The WIJNGAARDS INSTITUTE FOR CATHOLIC RESEARCH ("Wijngaards Institute") is a "progressive" think tank producing research on controversial issues within contemporary Roman Catholic theology.[1] It does so by coordinating an international network of academics, most of whom are Roman Catholic.

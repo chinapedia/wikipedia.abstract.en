@@ -1,0 +1,1 @@
+TAYR DEBBA () is a village in the Tyre District in the South Governorate of Lebanon, located 88 kilometers south of Beirut.[1] Its total land area consists of 578 hectares and its average elevation is 200 meters above sea level.[2] There are two schools, one public and the other private, in Tayr Debba which collectively enrolled a total of 607 students in 2006.[3]

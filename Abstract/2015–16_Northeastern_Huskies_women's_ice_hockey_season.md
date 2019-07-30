@@ -1,0 +1,1 @@
+The Northeastern Huskies represented Northeastern University in the Women's Hockey East Association during the 2015–16 NCAA Division I women's ice hockey season. The squad was captained by Patty Kazmaier Award winner Kendall Coyne.

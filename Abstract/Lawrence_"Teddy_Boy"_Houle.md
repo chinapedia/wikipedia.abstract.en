@@ -1,0 +1,1 @@
+LAWRENCE "TEDDY BOY" HOULE is Anishinaabe Métis Fiddler from Ebb and Flow, Manitoba. He started to play at an early age, reportedly teaching himself to play "Red River Valley" on one string.[1] Houle went on to become an influential fiddler and vocalist,[2] recording a number of albums and maintaining an active performance schedule.

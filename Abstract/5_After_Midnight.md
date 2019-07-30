@@ -1,0 +1,1 @@
+5 AFTER MIDNIGHT, also known as 5AM, are a British boy group formed in 2016 during the thirteenth series of _The X Factor_, finishing in 3rd place.[1] Their debut single, "Up in Here" peaked at 51 on the UK Singles Chart.[2]

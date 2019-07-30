@@ -1,0 +1,1 @@
+ODENSE SPORTS PARK () is a sports complex located in Odense, Denmark. The complex belongs to Municipality of Odense[1] and contains various sports venues including the Odense Stadion. It also has seven swimming pools open for public use.[2]

@@ -1,0 +1,1 @@
+The FROME RIVER is an ephemeral river in the Australian state of South Australia located within the Lake Eyre basin. Its source is near Mount Rose in the northern Flinders Ranges and it discharges into the south-eastern side of the northern part of Lake Eyre.[1]

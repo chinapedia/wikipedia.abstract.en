@@ -1,0 +1,1 @@
+The TEHRAN KOREAN SCHOOL () is the sole school for South Koreans in the Iranian capital, Tehran.[1] It currently has 30 students from the Korean embassy as well as children of South Koreans living in Iran. It is one of a number of foreign-run schools in the Islamic Republic.

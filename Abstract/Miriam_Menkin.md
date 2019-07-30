@@ -1,0 +1,1 @@
+MIRIAM FRIEDMAN MENKIN (8 August 1901 – June 8, 1992), née MIRIAM FRIEDMAN, was an American scientist who was most famous for her in vitro fertilization (IVF) research with John Rock. In February 1944, she became the first person to conceive human life outside of the body.[1]

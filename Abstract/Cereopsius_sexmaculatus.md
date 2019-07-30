@@ -1,0 +1,1 @@
+_CEREOPSIUS SEXMACULATUS_ is a species of beetle in the family Cerambycidae. It was described by Per Olof Christopher Aurivillius in 1907. It is known from the Philippines, Malaysia, Borneo and Sumatra.[1]

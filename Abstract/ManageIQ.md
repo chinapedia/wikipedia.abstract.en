@@ -1,0 +1,1 @@
+MANAGEIQ is an open source cloud management platform. It was founded by Red Hat as a community project in 2014, and forms the basis for its CloudForms product. It allows centralized management of various virtualization, private cloud, public cloud, containers, and software defined networking technologies.

@@ -1,0 +1,1 @@
+CHARLOTTE CARDIN (born November 9, 1994) is a Canadian pop, electro and jazz singer-songwriter from Montreal, Quebec.[1] Cardin began her career as a model at the age of 15, where she appeared in numerous advertising campaigns such as _Barilà_.[2]

@@ -1,0 +1,1 @@
+is a Japanese novel written by Makoto Shinkai. It is a novelization of the animated film of the same name, which was directed by Shinkai. It was published in Japan by Kadokawa on June 18, 2016, a month prior to the film premiere.[1]

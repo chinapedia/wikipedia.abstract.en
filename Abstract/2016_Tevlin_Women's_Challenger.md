@@ -1,0 +1,1 @@
+The 2016 TEVLIN WOMEN'S CHALLENGER was a professional tennis tournament played on indoor hard courts. It was the 12th edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $50,000 in prize money. It took place in Toronto, Ontario, Canada between October 31 and November 6, 2016.

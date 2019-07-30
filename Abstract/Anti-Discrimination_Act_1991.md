@@ -1,0 +1,1 @@
+The Queensland _Anti-Discrimination Act 1991_ is an act of the Parliament of Queensland that provides protection against unfair discrimination, sexual harassment, and other objectionable conduct.[1] The Act was passed by the Queensland Parliament on 3 December 1991, received assent on 9 December 1991, and commenced on 30 June 1992.[2]

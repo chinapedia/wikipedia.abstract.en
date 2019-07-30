@@ -1,0 +1,1 @@
+ASH KALRA (born January 21, 1972) is an American politician serving in the California State Assembly. He is a Democrat representing the 27th Assembly District, encompassing parts of eastern San Jose. Kalra is the first Indian-American to serve in the California State Legislature.[1]

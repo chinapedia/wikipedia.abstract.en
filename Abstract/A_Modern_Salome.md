@@ -1,0 +1,1 @@
+_A_Modern_Salome_(1920)_-_Ad_1.jpg _A MODERN SALOME_ is a lost[1] 1920 silent film comedy directed by Leonce Perret and starring Hope Hampton. It was produced and distributed by Metro Pictures.[2][3] The film is based on the Oscar Wilde play _Salome_.

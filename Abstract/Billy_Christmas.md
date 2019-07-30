@@ -1,0 +1,1 @@
+WILLIAM CECIL CHRISTMAS (February 19, 1879 – March 25, 1941), generally known as BILLY CHRISTMAS, was an amateur ice hockey, lacrosse and football player for the Montreal Hockey Club, the Montreal Lacrosse Club, and the Britannia Football Club respectively. As a lightweight, he also won a gold medal in boxing in 1899.

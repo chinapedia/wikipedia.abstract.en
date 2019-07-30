@@ -1,0 +1,1 @@
+Professor JEFF COLLINS (22 April 1930 – 23 September 2015) was a British electrical engineer who directed and researched experimental physics, robotics, microelectronics, communications technologies and parallel computing.[1]

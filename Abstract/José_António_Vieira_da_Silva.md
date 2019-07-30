@@ -1,0 +1,1 @@
+JOSÉ ANTÓNIO DA FONSECA VIEIRA DA SILVA (born 14 February 1953) is a Portuguese politician and a member of the Socialist Party. He is the current Minister of Solidarity, Employment and Social Security since 2015 under Prime Minister António Costa.[1]

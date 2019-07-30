@@ -1,0 +1,1 @@
+The NEW JERSEY CLASSIC is a race for Standardbred racehorses run annually since 1980 at the Meadowlands Racetrack in East Rutherford, New Jersey. Open to New Jersey-sired 3-Year-Old Colt & Gelding pacers, it is run over a distance of one mile.[1]

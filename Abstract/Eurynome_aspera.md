@@ -1,0 +1,1 @@
+_EURYNOME ASPERA_, the strawberry crab, is a species of crab in the family Majidae.It is small (1–2 cm) and sometimes a vague strawberry colour.The carapace and legs are often encrusted with algae and mud which act as camouflage.

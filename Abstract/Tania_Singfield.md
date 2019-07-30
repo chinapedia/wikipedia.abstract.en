@@ -1,0 +1,1 @@
+TANIA SINGFIELD[1] (born 2 September 1970) is a Canadian footballer who played as a goalkeeper for the Canada women's national soccer team from 1990 to 1997.[2] She was part of the team at the 1995 FIFA Women's World Cup.[3]

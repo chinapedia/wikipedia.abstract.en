@@ -1,0 +1,1 @@
+YSGOL ARDUDWY is a bilingual secondary school for 11–16 year old pupils. It is situated in Harlech, Gwynedd, in the north-west of Wales.[1] The school serves the seaside communities of Penrhyndeudraeth, Harlech, Abermaw and nearby villages. There were 319 pupils on the roll in December 2018.[2]

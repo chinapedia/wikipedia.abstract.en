@@ -1,0 +1,1 @@
+The 2017 SCOTTISH WOMEN'S FOOTBALL LEAGUE FIRST DIVISION, commonly known as SWFL 1, is the second season of the Scottish Women's Football League First Division, the third tier of women's football in Scotland since its reconstruction at the end of the 2015 season.[1]

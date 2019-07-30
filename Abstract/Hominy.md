@@ -1,0 +1,1 @@
+Dried_Maize_Mote_from_Oaxaca.png and Mexican one-peso coins pictured for size comparison)''.]] HOMINY is a food produced from dried maize (corn) kernels that have been treated with an alkali, in a process called nixtamalization ( is the Nahuatl word for "hominy").

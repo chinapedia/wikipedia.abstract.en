@@ -1,0 +1,1 @@
+The 2017 QATAR OPEN (also known as 2017 QATAR EXXONMOBIL OPEN for sponsorship reasons) was a men's tennis tournament played on outdoor hard courts. It was the 25th edition of the Qatar Open, and part of the ATP World Tour 250 series of the 2017 ATP World Tour. It took place at the Khalifa International Tennis and Squash Complex in Doha, Qatar, from January 2–7.

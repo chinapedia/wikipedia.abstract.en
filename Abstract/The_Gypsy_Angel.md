@@ -1,0 +1,1 @@
+_THE GYPSY ANGEL (EL ÁNGEL GITANO)_ premiered at the Girona Film Festival 2014 is a 2014 Italian short film for the anniversary of the Black Saturday (the Nazi round-up of the Roman Jews occurred on 1943) against any discrimination and any persecution,[1] written and directed by Roberto Leoni and produced by Mario D'Andrea.

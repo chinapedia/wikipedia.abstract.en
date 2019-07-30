@@ -1,0 +1,1 @@
+Cannabis_harvesting_(USSR,_1956).png CANNABIS IN RUSSIA is illegal. Possession of up to 6 grams (or two grams of hashish) is an administrative offense, punishable by a fine or detention of 15 days. Possession of larger amounts is a criminal offense.[1]

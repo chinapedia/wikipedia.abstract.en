@@ -1,0 +1,1 @@
+An evangelical academy is a Protestant Christian conference center in Germany which bridges church and world by offering thematic, open discussions on contemporary social, economic, political and scientific questions.[1]

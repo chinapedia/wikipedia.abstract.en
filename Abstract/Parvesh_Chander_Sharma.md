@@ -1,0 +1,1 @@
+PARVESH CHANDER SHARMA is an Indian weightlifter from Punjab. At the 1990 Commonwealth Games, he won two gold medals in the Men's Featherweight – Clean and Jerk, Men's Featherweight – Overall and one silver medal in Men's Featherweight-Snatch.[1][2] Parvesh_Chander_Sharma_at_Senior_National_Championship_Thanjavur_performed_Clean_and_Jerk_of_153_Kg.jpg

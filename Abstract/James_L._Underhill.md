@@ -1,0 +1,1 @@
+JAMES LATHAM UNDERHILL (June 12, 1891 – October 7, 1991) was an officer of the United States Marine Corps with the rank of lieutenant general, who served as Assistant Division Commander of 4th Marine Division and later as Inspector of the Fleet Marine Force, Pacific during World War II.

@@ -1,0 +1,1 @@
+BAGRAT VIKA YESAYAN ( of Yerevan, Armenia born June 8, 1965) is Chairman of the Eurasia Regional Scout Committee[1] as well as one of 12 elected volunteer members of the World Scout Committee, the main executive body of the World Organization of the Scout Movement.[2][3][4]

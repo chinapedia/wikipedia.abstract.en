@@ -1,0 +1,1 @@
+ST. JOHN THE BAPTIST CHURCH[1] () is a Catholic church located in Pushkin, administratively part of the federal city of Saint Petersburg, Russia.[2][3] It is part of the Roman Catholic Archdiocese of Moscow, in its northwestern deanery.

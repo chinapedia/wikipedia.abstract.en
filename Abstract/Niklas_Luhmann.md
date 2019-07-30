@@ -1,0 +1,1 @@
+NIKLAS LUHMANN (; ; December 8, 1927 – November 6, 1998) was a German sociologist, philosopher of social science, and a prominent thinker in systems theory, who is considered one of the most important social theorists of the 20th century.[1]

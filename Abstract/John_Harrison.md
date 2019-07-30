@@ -1,0 +1,1 @@
+JOHN HARRISON ( – 24 March 1776) was a self-educated English carpenter and clockmaker who invented the marine chronometer, a long-sought-after device for solving the problem of calculating longitude while at sea.

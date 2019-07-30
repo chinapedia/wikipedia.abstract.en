@@ -1,0 +1,1 @@
+The CHURCH OF THE BIRTH OF OUR LADY, also known as the KEPANJEN CHURCH, is a Roman Catholic church in Surabaya, East Java, Indonesia. Completed in 1899, it is the oldest Roman Catholic church in Surabaya and among the oldest churches in Surabaya.

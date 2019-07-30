@@ -1,0 +1,1 @@
+A_broken_pencil.jpg PENCIL FIGHTING involves two players trying to break one-another's pencils using pencils. The World Extreme Pencil Fighting League is an organization of pencil fighters based in Seattle, Washington.

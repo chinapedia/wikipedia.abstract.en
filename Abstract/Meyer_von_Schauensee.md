@@ -1,0 +1,1 @@
+MEYER VON SCHAUENSEE was a family of the patriciate of Lucerne in the 17th, 18th and 19th centuries. The family is descended from Andreas Meyer, member of the Lucerne Grand Council in 1523, and his son Leodegar, member of the Lesser Council in 1581. From 1618, the Meyer and Balthasar families acquired considerable wealth due to their control of the trade with Milan.

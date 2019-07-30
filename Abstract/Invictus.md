@@ -1,0 +1,1 @@
+"INVICTUS" is a short Victorian poem by the English poet William Ernest Henley (1849–1903). It was written in 1875 and published in 1888 in his first volume of poems, _Book of Verses_, in the section _Life and Death (Echoes) It shows how Henley never lost hope and kept faith in himself and faced the struggles unafraid._.[1]

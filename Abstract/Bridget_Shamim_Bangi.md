@@ -1,0 +1,1 @@
+BRIDGET SHAMIM BANGI (born 6 July 1993) is a Ugandan badminton player.[1] She started playing badminton at age 13 at Mariam High School. At age 21, she finished her degree in Insurance and Banking at Ndejje University.[2] She competed at the 2010 and 2018 Commonwealth Games.[3][4]

@@ -1,0 +1,1 @@
+RUFUS HERVE BACOTE, M.D. (July 1, 1890 – October 13, 1930) was a prominent physician in Kentucky and Tennessee who served as a first lieutenant and an army doctor in 370th Infantry Regiment of 93rd Division during World War I.

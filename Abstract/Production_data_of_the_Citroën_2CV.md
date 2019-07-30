@@ -1,0 +1,1 @@
+The Citroën 2CV ( is an air-cooled front-engine, front-wheel-drive economy car introduced at the 1948 Paris Mondial de l'Automobile and manufactured by Citroën for model years 1948–1990.[1] This page excludes production data for the mechanically similar Citroën Ami, Citroën Dyane, Citroën Acadiane, Citroën Méhari, Citroën Bijou, and Citroën FAF models.

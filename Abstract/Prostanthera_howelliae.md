@@ -1,0 +1,1 @@
+_PROSTANTHERA HOWELLIAE_ is a flowering plant in the mint family Lamiaceae and is endemic to New South Wales and Queensland. It is a small shrub with narrow stems, aromatic, hairy leaves and violet-coloured, tube-shaped flowers.

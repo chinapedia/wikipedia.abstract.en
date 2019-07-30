@@ -1,0 +1,1 @@
+MOUNT BANCROFT is a peak in Grand and Clear Creek counties.[1] It is located west of the town of Empire,[2] within a group of mountain peaks called the James Group that also includes Mount Flora, Mount Eva, Parry Peak, James Peak, and Colorado Mines Peak.[3][4]

@@ -1,0 +1,1 @@
+_ALARUMS AND EXCURSIONS'' (_A&E'') is an amateur press association (APA) started in June 1975 by Lee Gold; publication continues to the present day. It was one of the first publications to focus solely on role-playing games.

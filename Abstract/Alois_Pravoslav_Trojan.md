@@ -1,0 +1,1 @@
+ALOIS PRAVOSLAV TROJAN (2 April 1815, Knovíz[1] – 9 February 1893, Prague) was a Czech lawyer and politician in the Austro-Hungarian Empire. He was a member of the Imperial Council. He was active in Revolutions of 1848 in the Austrian Empire, politician of Old Czech Party, later since 1880 leader of the Young Czech Party.

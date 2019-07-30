@@ -1,0 +1,1 @@
+COMMUNICATION (from Latin _communicare_, meaning "to share")[1] is the act of conveying meanings from one entity or group to another through the use of mutually understood signs, symbols, and semiotic rules.

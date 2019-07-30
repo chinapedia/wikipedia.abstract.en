@@ -1,0 +1,1 @@
+JOSEPH GONZAGA MCKENNA, CFC (1922 – July 28, 1973) was an American educator and member of the Congregation of Christian Brothers, a Roman Catholic religious institute. He served as the fifth President of Iona College in New Rochelle, New York.

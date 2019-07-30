@@ -1,0 +1,1 @@
+JOHN HARRY KARTZ (23 October 1913 – 12 March 2016)[1] was a British businessman best known for his longtime association with Aston Villa, having held various roles at the club, including as chairman from 1978 to 1980.[2] Kartz also fought in the Second World War, as a front gunner in No. IX Squadron.

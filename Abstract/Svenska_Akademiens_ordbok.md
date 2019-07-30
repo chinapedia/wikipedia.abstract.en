@@ -1,0 +1,1 @@
+thumb _SVENSKA AKADEMIENS ORDBOK_ (), abbreviated SAOB, is a dictionary published by the Swedish Academy, with the official title _Ordbok över svenska språket utgiven av Svenska Akademien_. This dictionary is the Swedish counterpart of the _Oxford English Dictionary_ (OED) or the _Deutsches Wörterbuch_ (DWB).

@@ -1,0 +1,1 @@
+BRANCHIOPODA is a class of crustaceans. It comprises fairy shrimp, clam shrimp, Cladocera, Notostraca and the Devonian _Lepidocaris_. They are mostly small, freshwater animals that feed on plankton and detritus.

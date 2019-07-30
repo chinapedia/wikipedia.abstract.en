@@ -1,0 +1,1 @@
+PASSERELLES NUMÉRIQUES (PN) is a French Non-governmental organization created in 2005 in Cambodia. The organization later expanded its actions and now operates in Cambodia, Vietnam and the Philippines.[1]

@@ -1,0 +1,1 @@
+EDWARD HENRY PEDRIS GROUNDS (also known as EDWARD HENRY PEDRIS STADIUM or PEDRIS GROUNDS) is a multi-purpose stadium in Colombo, Sri Lanka. Located in the northern portion of Havelock Park, it is currently used for football, rugby union and basketball matches. Named after the national hero, Captain Duenuge Edward Henry Pedris, it is owned by the Isipathana college.[1]

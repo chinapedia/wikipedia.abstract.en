@@ -1,0 +1,1 @@
+TAMARA METAL (-Shumacher; also "Matal"; תמר מיטל-שומכר; born December 26, 1933) is an Israeli former Olympic high jumper and long jumper, and captain of the Israel women's national basketball team.[1][2][3]

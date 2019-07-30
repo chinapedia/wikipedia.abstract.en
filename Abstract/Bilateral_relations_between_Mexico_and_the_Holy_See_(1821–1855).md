@@ -1,0 +1,1 @@
+RELATIONS BETWEEN MEXICO AND THE HOLY SEE were interrupted following Independence. The Holy See recognized the new country in 1836. Mexico had two problems in relation to the Roman Catholic Church; one was royal patronage and the other was the appointment of bishops.[1]

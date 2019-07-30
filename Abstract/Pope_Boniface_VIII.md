@@ -1,0 +1,1 @@
+POPE BONIFACE VIII (; born BENEDETTO CAETANI, c. 1230 – 11 October 1303) was pope from 24 December 1294 to his death in 1303. Caetani was of baronial origin with family connections to the papacy. He spent his early career abroad in diplomatic roles.

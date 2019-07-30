@@ -1,0 +1,1 @@
+YAUHEN VERAMCHUK (born 3 September 1995) is a Belarusian male track cyclist, representing Belarus at international competitions. He competed at the 2016 UEC European Track Championships in the team sprint event.[1]

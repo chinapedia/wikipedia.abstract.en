@@ -1,0 +1,1 @@
+Siewert-Selfportrait.jpg CLARA SIEWERT (9 December 1862, Budda (Pomerania) - 11 October 1945, Berlin) was a German Symbolist painter, graphic artist and sculptor; associated with the Berlin Secession.

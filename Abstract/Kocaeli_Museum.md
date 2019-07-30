@@ -1,0 +1,1 @@
+KOCAELI MUSEUM, a.k.a. KOCAELI ARCHAEOLOGY AND ETHNOGRAPHY MUSEUM or İZMIT MUSEUM, ) is a national museum in Kocaeli (İzmit), northwestern Turkey, exhibiting archaeological artifacts and ethnographic objects. It is housed in the former railway station of İzmit.[1]

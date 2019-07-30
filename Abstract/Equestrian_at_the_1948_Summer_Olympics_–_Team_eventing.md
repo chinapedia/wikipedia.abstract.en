@@ -1,0 +1,1 @@
+The team eventing in equestrian at the 1948 Olympic Games in London was held in the town of Aldershot and at the Tweseldown Racecourse from 10 to 13 August.[1] The American team of Charles Anderson, Frank Henry and Earl Foster Thomson won the gold medal. Sweden won the silver medal and Mexico took bronze.

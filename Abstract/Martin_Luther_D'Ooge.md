@@ -1,0 +1,1 @@
+MARTIN LUTHER D'OOGE (17 July 1839 in Zonnemaire, Netherlands – 12 September 1915 in Ann Arbor, Michigan, United States) was a Dutch-born classics scholar. His Huguenot family emigrated to the US in 1851.

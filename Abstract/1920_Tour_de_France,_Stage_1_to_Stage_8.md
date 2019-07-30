@@ -1,0 +1,1 @@
+Tour_de_France_1920.png The 1920 Tour de France was the 14th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris with a flat stage on 27 June, and Stage 8 occurred on 11 July with a flat stage to Aix-en-Provence. The race finished in Paris on 27 July.

@@ -1,0 +1,1 @@
+RATNA-PALA (IAST: Ratnapāla, r. c. 1119–1132 CE) was an Indian king belonging to the Naddula Chahamana dynasty. He ruled the area around Naddula (present-day Nadol in Rajasthan). He seized the throne of Naddula from his uncle Asharaja, who had become the Chahamana king after his father's death.

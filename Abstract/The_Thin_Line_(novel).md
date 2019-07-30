@@ -1,0 +1,1 @@
+_THE THIN LINE_, later re-issued as _Murder, My Love_, is a 1951 crime novel by the British-Lebanese author Edward Atiyah.Layla Al Maleh ''Arab Voices in Diaspora: Critical Perspectives on Anglophone Arab ''

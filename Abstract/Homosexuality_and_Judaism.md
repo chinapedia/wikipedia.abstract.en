@@ -1,0 +1,1 @@
+The subject of HOMOSEXUALITY AND JUDAISM dates back to the Torah. The book of Vayikra (Leviticus) is traditionally regarded as classifying sexual intercourse between males as a _to'eivah_ (something abhorred or detested) that can be subject to capital punishment by the currently non-existent Sanhedrin under _halakha_ (Jewish law).

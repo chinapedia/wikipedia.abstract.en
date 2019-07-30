@@ -1,0 +1,1 @@
+YUGOSLAV ARMY () was a men's basketball selection based in Belgrade, Yugoslavia. It was a basketball section of the Sports Association of the Central House of the Yugoslav Army. Yugoslav Army later founded Basketball club Partizan and mostly of players moved to new club.

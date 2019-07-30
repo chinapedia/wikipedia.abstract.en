@@ -1,0 +1,1 @@
+BOAZ TSABAN (born February 1973) is an Israeli mathematician on the faculty of Bar-Ilan University. His research interests include selection principles within set theory and nonabelian cryptology, within mathematical cryptology.

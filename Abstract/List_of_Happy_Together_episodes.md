@@ -1,0 +1,1 @@
+The following is a list of episodes of the South Korean talk show _Happy Together_ (해피투게더), broadcast on KBS2 every Thursday at 23:05 KST starting November 8, 2001. The show began airing in HD on March 17, 2011. Episodes are aired with English subtitles not only in episode reruns, but also episodes uploaded on KBS's official YouTube channel.[1][2]

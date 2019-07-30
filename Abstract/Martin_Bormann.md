@@ -1,0 +1,1 @@
+MARTIN LUDWIG BORMANN (17 June 1900 – 2 May 1945) was a German Nazi Party official and head of the Nazi Party Chancellery. He gained immense power by using his position as Adolf Hitler's private secretary to control the flow of information and access to Hitler. After Hitler's suicide on 30 April 1945, he was Party Minister of the National Socialist German Workers' Party.

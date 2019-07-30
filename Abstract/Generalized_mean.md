@@ -1,0 +1,1 @@
+In mathematics, GENERALIZED MEANS are a family of functions for aggregating sets of numbers, that include as special cases the Pythagorean means (arithmetic, geometric, and harmonic means). The generalized mean is also known as POWER MEAN or HÖLDER MEAN (named after Otto Hölder).

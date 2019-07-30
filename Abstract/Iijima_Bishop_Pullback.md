@@ -1,0 +1,1 @@
+In shogi, IIJIMA BISHOP PULLBACK or IIJIMA'S BACK BISHOP (飯島流引き角 _Iijima-ryuu hiki kaku_) is a less common defensive Static Rook opening used against a Ranging Rook opponent. It has been used in both Black and White positions by professional players.

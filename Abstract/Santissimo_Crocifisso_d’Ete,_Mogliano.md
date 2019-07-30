@@ -1,0 +1,1 @@
+The church of the SANTISSIMO CROCIFISSO D´ETE is a Roman Catholic church located at the intersection of the roads to Montegiorgio and Francavilla d'Ete, in the town limits of Mogliano, province of Macerata, in the region of Marche, Italy.

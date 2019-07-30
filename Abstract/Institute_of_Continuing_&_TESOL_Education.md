@@ -1,0 +1,1 @@
+The INSTITUTE OF CONTINUING & TESOL EDUCATION is located in Brisbane, Australia and is the oldest government accredited English language school for speakers of other languages in Queensland. It offers a range of programs for international students, teacher training, international development and continuing education.

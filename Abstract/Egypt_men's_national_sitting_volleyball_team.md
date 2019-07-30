@@ -1,0 +1,1 @@
+The EGYPT MEN'S NATIONAL SITTING VOLLEYBALL TEAM represents Egypt in international sitting volleyball competitions and friendly matches. The team is one of the newcomers in the sport but quickly established themselves as a powerful team to play against. Egypt have appeared in several Paralympic and World Championships semi finals in the past decade.

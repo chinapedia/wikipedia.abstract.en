@@ -1,0 +1,1 @@
+PAUL SCULLY is an Australian politician who has been a member of the New South Wales Legislative Assembly since 12 November 2016, representing the seat of Wollongong for the Labor Party since the by-election to replace Noreen Hay.

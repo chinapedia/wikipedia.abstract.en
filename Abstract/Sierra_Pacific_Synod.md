@@ -1,0 +1,1 @@
+The SIERRA PACIFIC SYNOD is one of the 65 synods of the Evangelical Lutheran Church in America (ELCA). It covers central and northern California and northern Nevada and supports ELCA congregations throughout that region. It is headed by a bishop, currently Mark W. Holmerud who was elected in 2008 and re-elected in 2014.[1]

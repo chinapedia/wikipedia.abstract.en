@@ -1,0 +1,1 @@
+ELIZABETH LEE is an Australian politician. She has been a Liberal member of the Australian Capital Territory Legislative Assembly since 2016, representing the electorate of Kurrajong. She was born in South Korea, and was a law lecturer at the Australian National University and the University of Canberra before her election.[1]

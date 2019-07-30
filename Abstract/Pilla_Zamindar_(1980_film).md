@@ -1,0 +1,1 @@
+_PILLA ZAMINDAR_ (English: LITTLE BOSS) is a 1980 Telugu comedy film, produced by Venkat Akkineni, Nagarjuna Akkineni under the Annapurna Studios banner and directed by Singeetam Srinivasa Rao.[1] It stars Akkineni Nageswara Rao, Jayasudha in the lead roles,[2] and music composed by Chakravarthy.[3]

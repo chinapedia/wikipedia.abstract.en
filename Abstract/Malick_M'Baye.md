@@ -1,0 +1,1 @@
+MALICK M'BAYE, born in French West Africa, was the Executive Secretary to the Director General of UNESCO, and served as the National and International Trainer of the Confédération Sénégalaise du Scoutisme, as well as an advisor to the World Organization of the Scout Movement on its relationship with UNESCO.

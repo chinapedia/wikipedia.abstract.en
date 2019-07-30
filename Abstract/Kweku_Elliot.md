@@ -1,0 +1,1 @@
+KWEKU ELLIOTT is a Ghanaian actor of Ghanaian and Trinidadian descent, who is also known as "Kay Elliott". His 2012 major debut role was in _Single and Married_ directed by Pascal Amanfo and produced by Yvonne Nelson.[1] He currently stars in Deloris Frimpong Manso's new series _Coco Brown_. He is said to be "The next big thing to happen to Ghana's movie industry."[2]

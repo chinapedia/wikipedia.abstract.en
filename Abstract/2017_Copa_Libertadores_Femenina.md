@@ -1,0 +1,1 @@
+The 2017 COPA CONMEBOL LIBERTADORES FEMENINA was the ninth edition of the CONMEBOL Libertadores Femenina (also referred to as the _Copa Libertadores Femenina_), South America's premier women's club football tournament organized by CONMEBOL. The tournament was hosted in Paraguay from 7 to 21 October 2017.[1][2]

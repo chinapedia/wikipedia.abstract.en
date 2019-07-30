@@ -1,0 +1,1 @@
+Duke_Kahanamoku_signature.svg

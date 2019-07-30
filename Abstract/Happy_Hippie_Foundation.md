@@ -1,0 +1,1 @@
+The HAPPY HIPPIE FOUNDATION is an American non-profit organization founded by entertainer Miley Cyrus on September 17, 2014[1] and officially launched to the public on May 5, 2015.[2] The foundation focuses on youth homelessness (particularly among LGBTQ youth), the LGBTQ community, and other vulnerable populations.

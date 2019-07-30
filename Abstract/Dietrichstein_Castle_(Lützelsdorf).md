@@ -1,0 +1,1 @@
+The _burgstall_ of DIETRICHSTEIN CASTLE, also called the Diederichstein Ruins (_Ruine Diederichstein_), is the site of an old, probably high mediaeval, aristocratic, castle, situated high above the valley of the River Trubach in the municipality of Pretzfeld in the Upper Franconian county of Forchheim in Bavaria, Germany.

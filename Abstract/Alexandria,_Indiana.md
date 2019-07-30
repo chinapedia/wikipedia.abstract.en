@@ -1,0 +1,1 @@
+ALEXANDRIA is a city in Monroe Township, Madison County, Indiana, United States. It is about northeast of Indianapolis. According to the 2010 census, its population was 5,145, a decrease of 17.8% from 6,260 in 2000.[1]

@@ -1,0 +1,1 @@
+HEINZ WIENDL (born 1968 in Rötz) is a German neurologist and professor at the University Hospital Muenster. He is known for his works in the field of nervous system inflammation and multiple sclerosis.

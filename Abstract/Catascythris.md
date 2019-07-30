@@ -1,0 +1,1 @@
+_CATASCYTHRIS_ is a monotypic moth genus in the family Scythrididae described by Hans Georg Amsel in 1935. Its single species, _CATASCYTHRIS KEBIRELLA_, described by the same author, is found in Israel, Iran, Oman, Saudi Arabia and Jordan.[1]

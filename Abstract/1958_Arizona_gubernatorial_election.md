@@ -1,0 +1,1 @@
+The 1958 ARIZONA GUBERNATORIAL ELECTION took place on November 4, 1958. Incumbent Governor Ernest McFarland decided not to run for reelection and instead unsuccessfully challenged U.S. Senator Barry Goldwater in attempt to return to the United States Senate.

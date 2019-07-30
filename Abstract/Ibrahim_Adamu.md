@@ -1,0 +1,1 @@
+IBRAHIM ADAMU (born 26 November 1981) is a Nigerian male badminton player.[1][2] In 2003, he won the gold medal at the All-Africa Games in men's doubles event partnered with Greg Orobosa Okuonghae.[3]

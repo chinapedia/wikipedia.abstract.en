@@ -1,0 +1,1 @@
+SULAWESI, formerly known as CELEBES (), is an island in Indonesia. One of the four Greater Sunda Islands, and the world's eleventh-largest island, it is situated east of Borneo, west of the Maluku Islands, and south of Mindanao and the Sulu Archipelago. Within Indonesia, only Sumatra, Borneo and Papua are larger in territory, and only Java and Sumatra have larger populations.

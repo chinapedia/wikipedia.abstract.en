@@ -1,0 +1,1 @@
+On 31 October 2016, a modified DHC-4 Caribou transport aircraft operated by Alfa Indonesia crashed in the Papuan jungle while en route to Ilaga Airport in Ilaga, Indonesia. The flight was operated by Alfa Indonesia as a chartered cargo flight with four people on board. There were no survivors among the four crew members on board.

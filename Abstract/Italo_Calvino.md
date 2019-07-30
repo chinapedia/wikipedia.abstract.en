@@ -1,0 +1,1 @@
+ITALO CALVINO (;[1] 15 October 1923 – 19 September 1985) was an Italian journalist and writer of short stories and novels. His best known works include the _Our Ancestors_ trilogy (1952–1959), the _Cosmicomics_ collection of short stories (1965), and the novels _Invisible Cities_ (1972) and _If on a winter's night a traveler_ (1979).

@@ -1,0 +1,1 @@
+thumb LISA FOLAWIYO is a Nigerian fashion designer who is best known for incorporating traditional West African textiles with modern tailoring techniques with an emphasis on beading and sequin trim.[1]

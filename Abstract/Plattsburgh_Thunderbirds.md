@@ -1,0 +1,1 @@
+The PLATTSBURGH THUNDERBIRDS are an independent American professional baseball team based in Plattsburgh, New York. They play in the Empire Professional Baseball League, which is not affiliated with Major League Baseball.

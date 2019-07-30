@@ -1,0 +1,1 @@
+_SANDRA_ is a lost[1] 1924 drama film directed by Arthur H. Sawyer and starring Barbara La Marr and Bert Lytell. It was produced by Arthur H. Sawyer and Bernard Lubin's Associated Pictures for distribution by First National Pictures.[2]

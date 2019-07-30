@@ -1,0 +1,1 @@
+JOHN ERNST STEINBECK JR. (; February 27, 1902 – December 20, 1968) was an American author. He won the 1962 Nobel Prize in Literature "for his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception."[1] He has been called "a giant of American letters,"[2] and many of his works are considered classics of Western literature.[3]

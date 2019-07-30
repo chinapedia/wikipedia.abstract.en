@@ -1,0 +1,1 @@
+NEIL ALDEN ARMSTRONG (August 5, 1930 – August 25, 2012) was an American astronaut and aeronautical engineer who was the first human to walk on the Moon. He was also a naval aviator, test pilot, and university professor.

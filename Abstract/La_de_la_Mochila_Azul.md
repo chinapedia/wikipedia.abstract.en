@@ -1,0 +1,1 @@
+_LA DE LA MOCHILA AZUL_ (_The blue backpack_) is the debut studio album by Mexican recording artist Pedrito Fernández, (Pedro) released in 1978 by Columbia Records and on Epic Records and CBS Records International labels in Mexico, Spain, Ecuador and Peru. The album and single 45 were released in the USA and Canada markets in 1980.[1]

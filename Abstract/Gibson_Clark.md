@@ -1,0 +1,1 @@
+GIBSON CLARK (December 5, 1844 – December 14, 1914) was an American jurist who served as a Justice of the Wyoming Supreme Court from January 2, 1893 to September 22, 1894. He was born in Clarke County, Virginia and served in the Confederate Army during the American Civil War.[1]

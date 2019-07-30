@@ -1,0 +1,1 @@
+Fuochi_d'artificio.gif]] Rio_New_Year_Fireworks.jpg celebration in Copacabana, Rio de Janeiro, Brazil]] New_Year_celebration_in_Sanandaj_(13970101000005636571882740976326_78974).jpg's celebration in Sanandaj on date and time of March equinox.]] NEW YEAR is the time or day at which a new calendar year begins and the calendar's year count increments by one.

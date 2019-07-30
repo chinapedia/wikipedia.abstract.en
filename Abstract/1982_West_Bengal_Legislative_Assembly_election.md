@@ -1,0 +1,1 @@
+LEGISLATIVE ASSEMBLY ELECTIONS were held in the Indian state of West Bengal in 1982. The Left Front, which had won the 1977 West Bengal Legislative Assembly election, emerged victorious. The Indian National Congress(I) emerged as the main opposition party in the state, as the Janata Party was disintegrating.

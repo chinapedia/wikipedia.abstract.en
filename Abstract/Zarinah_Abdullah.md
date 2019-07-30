@@ -1,0 +1,1 @@
+ZARINAH ABDULLAH (born 1971) is a retired badminton player notable for being the first female professional badminton player in Singapore.[1] She was considered Singapore's top badminton player in the 1990s[2] and represented the country in the 1992 and 1996 Summer Olympics.

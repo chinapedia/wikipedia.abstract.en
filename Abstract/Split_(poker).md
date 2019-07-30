@@ -1,0 +1,1 @@
+In poker it is sometimes necessary to SPLIT, or divide the pot among two or more players rather than awarding it all to a single player. This can happen because of ties, and also by playing intentional split-pot poker variants (the most typical of these is high-low split poker, where the high hand and low hand split the pot).

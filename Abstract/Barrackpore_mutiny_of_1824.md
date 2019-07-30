@@ -1,0 +1,1 @@
+The BARRACKPORE MUTINY was a rising of native Indian sepoys against their British officers in Barrackpore in November 1824. The incident occurred when the British East India Company was fighting the First Anglo-Burmese War (1824–26) under the leadership of the governor-general of India William Amherst, 1st Earl Amherst.[1]

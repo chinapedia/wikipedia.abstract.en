@@ -1,0 +1,1 @@
+Edizione_Alpe_logo_in_1943.jpg EDIZIONI ALPE (also known for a time in the late 1940s as _' Edizioni Subalpino_') was an Italian publishing house founded in 1939 and active until the late 1980s. Based in Milan, it published a series of magazines focusing on popular fiction genres—romance, science fiction, mystery—and the genre for which it was best known, comics.

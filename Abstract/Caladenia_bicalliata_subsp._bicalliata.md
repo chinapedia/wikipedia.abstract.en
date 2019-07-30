@@ -1,0 +1,1 @@
+_CALADENIA BICALLIATA_ SUBSP. _BICALLIATA_, commonly known as the LIMESTONE SPIDER ORCHID or DWARF LIMESTONE SPIDER ORCHID, is a plant in the orchid family Orchidaceae and is native to the south-west of Western Australia and coastal areas of South Australia. It has a single erect, hairy leaf and one or two cream-coloured flowers with reddish-brown tips.

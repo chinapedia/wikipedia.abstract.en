@@ -1,0 +1,1 @@
+The 2016–17 NIFL CHAMPIONSHIP was the first season of the second-tier Irish League since gaining senior status. The fixtures were announced on 7 July 2016.[1] The season began on 13 August 2016 and concluded on 29 April 2017.

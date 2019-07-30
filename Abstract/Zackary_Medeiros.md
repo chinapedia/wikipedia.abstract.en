@@ -1,0 +1,1 @@
+ZACKARY MEDEIROS (born October 22, 1990) is a professional Canadian football placekicker and punter for the Toronto Argonauts of the Canadian Football League.[1] He was originally drafted 48th overall by the Edmonton Eskimos in the 2014 CFL Draft. He won his first Grey Cup championship while playing for the Ottawa Redblacks in the 104th Grey Cup game.

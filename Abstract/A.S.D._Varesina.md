@@ -1,0 +1,1 @@
+A.S.D. VARESINA, also known as VARESINA CALCIO, is an Italian association football club located in Venegono Superiore, Lombardy. In Spring 2018, it played in Serie D, the top level of the Italian non-professional football association.

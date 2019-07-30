@@ -1,0 +1,1 @@
+TRANSPORT IN EGYPT is centered in Cairo and largely follows the pattern of settlement along the Nile. The Ministry of Transportation and other government bodies are responsible for transportation in Egypt, whether by sea, land or air.

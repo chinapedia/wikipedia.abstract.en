@@ -1,0 +1,1 @@
+The KIUNGANI REAR RANGE LIGHTHOUSE is located in Stone Town, Zanzibar, Tanzania.[1] The lighthouse is located alongside Nyerere Road and provides support for ships trying to dock at the Stone Town harbor.

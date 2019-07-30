@@ -1,0 +1,1 @@
+The HYDE PARK CAMPUS OF THE CULINARY INSTITUTE OF AMERICA is located in the town of Hyde Park, New York, between the Hudson River and U.S. Route 9. The Culinary Institute of America (CIA) campus offers associate and bachelor's degrees and certificate programs in culinary arts and baking and pastry arts. It is the school's primary and largest campus, with about 2,300 students.

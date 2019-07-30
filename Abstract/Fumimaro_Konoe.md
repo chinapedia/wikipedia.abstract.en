@@ -1,0 +1,1 @@
+Prince[1] was a Japanese politician in the Empire of Japan who served as the 34th, 38th and 39th Prime Minister of Japan and founder/leader of the Imperial Rule Assistance Association. He was Prime Minister in the lead-up to Japan entering World War II.

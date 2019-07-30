@@ -1,0 +1,1 @@
+_THE COMB OF THE WIND_ (, ) is a collection of three sculptures by Eduardo Chillida arranged as an architectural work by the Basque architect Luis Peña Ganchegui. For both, this is one of their most important and well known works.[1]

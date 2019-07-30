@@ -1,0 +1,1 @@
+Russisches_Theater_in_Riga_2018.jpg The MIKHAIL CHEKHOV RIGA RUSSIAN THEATRE (, ), colloquially referred to as the RUSSIAN THEATRE (, ) or THE RRT, is a Russian-language theatre in Riga, Latvia. It is located on 16 Kaļķu iela, Riga.

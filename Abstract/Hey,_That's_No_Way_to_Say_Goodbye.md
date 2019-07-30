@@ -1,0 +1,1 @@
+"HEY, THAT'S NO WAY TO SAY GOODBYE" is a song by Leonard Cohen. It was first released in November 1967, in a version by Judy Collins on her album _Wildflowers_.[1] The following month, Cohen's own version was issued on his debut album _Songs of Leonard Cohen_.

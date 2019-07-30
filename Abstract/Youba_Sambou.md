@@ -1,0 +1,1 @@
+YOUBA SAMBOU (born 1944) is a Senegalese politician from Casamance who served in the government of Senegal as Minister of the Armed Forces from 2000 to 2002. He also served as Mayor of Bignona and was elected as a member of the National Assembly in 2007.

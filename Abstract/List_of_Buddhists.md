@@ -1,0 +1,1 @@
+This is a LIST OF NOTABLE BUDDHISTS, encompassing all the major branches of the religion (i.e. in Buddhism), and including interdenominational and eclectic Buddhist practitioners. This list includes both formal teachers of Buddhism, and people notable in other areas who are publicly Buddhist or who have espoused Buddhism.

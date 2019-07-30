@@ -1,0 +1,1 @@
+The 2017 IRISH BUDGET is the Irish Government budget for the 2017 fiscal year, which was presented to Dáil Éireann on 11 October 2016. Michael Noonan announced the tax measures and Paschal Donohoe the Minister for Public Expenditure and Reform announced the spending adjustments.[1][2][3]

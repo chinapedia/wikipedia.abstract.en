@@ -1,0 +1,1 @@
+The JERSEY RED ENSIGN, officially the JERSEY DEFACED RED ENSIGN,[1] is the civil ensign used by ships registered in the Channel Island of Jersey. It was created in 2010 after approval from Queen Elizabeth II and the States of Jersey. The flag consists of a British red ensign with the coat of arms of Jersey surmounted by a Plantagenet crown.[2]

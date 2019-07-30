@@ -1,0 +1,1 @@
+'''Shieh Su-jean ''' (born 10 February 1969) is a Taiwanese footballer who played as a midfielder for the Chinese Taipei women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. On club level she played for Suzuyo Shimizu F.C. Lovely Ladies in Japan.[1]

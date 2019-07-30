@@ -1,0 +1,1 @@
+DAWAMESC is a cannabis edible found in Algeria and some other Arab countries, made of cannabis tops combined with: "sugar, orange juice, cinnamon, cloves, cardamon, nutmeg, musk, pistachios, and pine nuts."[1]

@@ -1,0 +1,1 @@
+The ACARAÍ STATE PARK () is a state park in the state of Santa Catarina, Brazil. It protects a coastal area in the Atlantic Forest biome. There are issues due to a sizeable population of traditional residents in the park.

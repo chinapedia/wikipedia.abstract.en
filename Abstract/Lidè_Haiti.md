@@ -1,0 +1,1 @@
+The LIDÈ Haiti Foundation is an educational initiative in rural Haiti that uses the arts and literacy to empower at-risk adolescent girls and help them transition into school or vocational training. Established by actor Rainn Wilson, author Holiday Reinhorn, and executive director Dr. Kathryn Adams in response to the devastating earthquake of 2010.

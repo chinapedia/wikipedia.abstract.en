@@ -1,0 +1,1 @@
+JAN JOSEPHSZOON VAN GOYEN (; 13 January 1596 – 27 April 1656) was a Dutch landscape painter. Van Goyen was an extremely prolific artist; approximately twelve hundred paintings and more than one thousand drawings by him are known.

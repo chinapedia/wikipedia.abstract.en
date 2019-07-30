@@ -1,0 +1,1 @@
+AKBAUR CAVE (, _Aqbaýyr úńgiri_) is one of the monuments of the bronze age, located in East Kazakhstan, Ukan region. The site is 3 km from the north of Besterek aul, on the piedmont of Akbaur mountain. The cave is about 5–6 m above the piedmont of the mountain.

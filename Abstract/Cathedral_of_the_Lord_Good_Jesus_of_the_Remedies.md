@@ -1,0 +1,1 @@
+The CATHEDRAL OF THE LORD GOOD JESUS OF THE REMEDIES[1] ()[2] is a religious building affiliated to the Catholic Church located in the city of Afogados da Ingazeira, in the state of Pernambuco in the Northeast region of Brazil.[3]

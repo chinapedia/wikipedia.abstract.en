@@ -1,0 +1,1 @@
+JERVIS COTTONBELLY[1] is a professional wrestling gimmick that has been portrayed by professional wrestler Kevin Condron since its debut in 2005. The character originated in Chikara and has also appeared for several independent promotions including Championship Wrestling from Hollywood.

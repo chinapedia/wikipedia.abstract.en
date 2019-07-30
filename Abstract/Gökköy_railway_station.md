@@ -1,0 +1,1 @@
+GÖKKÖY RAILWAY STATION () is a railway station near Gökköy, Turkey. The station is a part of the _Gökköy Logistics Center_. TCDD Taşımacılık operates three daily intercity trains from Eskişehir[1] and Bandırma[2][3] to İzmir.

@@ -1,0 +1,1 @@
+_THE LADY IN ME_ is the third studio album by American recording artist Meli'sa Morgan released in 1990 on Capitol Records.[1] The album features the lead single "Can You Give Me What I Want", which became a top 30 hit on _Billboard_s Top R&B Songs chart.

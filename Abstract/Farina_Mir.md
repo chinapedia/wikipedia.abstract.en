@@ -1,0 +1,1 @@
+FARINA MIR is a historian and a professor at the University of Michigan. She has a keen interest in the history of colonial and postcolonial South Asia, with a particular interest in the social, cultural, and religious history of late-colonial north India.[1]

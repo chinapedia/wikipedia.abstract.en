@@ -1,0 +1,1 @@
+The 2001–02 EINTRACHT FRANKFURT SEASON was the 102nd season in the club's football history. In 2001–02 the club played in the 2. Bundesliga, the second tier of German football. It was the club's 3rd season in the 2. Bundesliga after being relegated from the Bundesliga for the second time.

@@ -1,0 +1,1 @@
+BABBTOWN is an unincorporated community in southwest Osage County, in the U.S. state of Missouri.[1] The community is on route P, just east of Missouri Route 133. Meta is approximately 2.5 miles to the southwest. The headwaters of Little Maries Creek arise just southwest of the community.[2]

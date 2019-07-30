@@ -1,0 +1,1 @@
+During the 1910–11 English football season, Brentford competed in the Southern League First Division. Despite contending for promotion during the first half of the season, injuries dropped the Bees to a mid-table finish.

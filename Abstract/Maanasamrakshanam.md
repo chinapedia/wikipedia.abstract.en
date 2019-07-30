@@ -1,0 +1,1 @@
+_MAANASAMRAKSHANAM_ is a 1945 Indian Tamil language film, produced and directed by K. Subramaniam with S. D. Subbulakshmi, G. Pattu Iyer, V. N. Janaki, T. R. Ramachandran and Kali N. Rathnam in the lead roles.[1]

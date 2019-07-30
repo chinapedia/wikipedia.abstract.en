@@ -1,0 +1,1 @@
+NANTERRE RUGBY LEAGUE are a French Rugby league club based in Nanterre, Hauts-de-Seine in the western suburbs of Paris. Founded in 2013 the club plays in the ''Ile de France regional National Division 2 league. Home games are played at the _Stade Jean Guimier_.

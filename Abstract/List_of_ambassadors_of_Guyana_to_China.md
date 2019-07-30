@@ -1,0 +1,1 @@
+THE GUYANESE AMBASSADOR IN BEIJING is the official representative of the Government in Georgetown, Guyana to the Government of the People's Republic of China and is regularly accredited as ambassador to Pyongyang.

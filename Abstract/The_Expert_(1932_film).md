@@ -1,0 +1,1 @@
+_THE EXPERT_ is a 1932 American pre-Code comedy-drama directed by Archie Mayo and starring Chic Sale and Dickie Moore. It is based on a 1924 Edna Ferber and George S. Kaufman play, _Minick_. The working title for this film was _Old Man Minick_. It was produced and distributed by Warner Brothers.[1]

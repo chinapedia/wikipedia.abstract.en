@@ -1,0 +1,1 @@
+DANIEL JOSEPH FRANCE (born April 1, 1991) is an American football offensive tackle who is currently a free agent. He played college football at Michigan State. He was originally signed by the Cincinnati Bengals as an undrafted free agent in 2014.

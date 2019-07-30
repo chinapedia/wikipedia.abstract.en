@@ -1,0 +1,1 @@
+PANTHER CREEK is a stream in Webster and Laclede counties in the Ozarks of south-central Missouri.[1] It is a tributary of the Osage Fork Gasconade River. The headwaters are at and the confluence with the Osage Fork is at .[2]

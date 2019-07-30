@@ -1,0 +1,1 @@
+_HYPSITHERIUM_ is an extinct genus of Mesotheriidae that lived 4.0 to 3 million years ago, and is known from the Miocene to Pliocene Inchasi fossil locality in Bolivia. It was a scansorial herbivore, with its name meaning "high beast."[1][2]

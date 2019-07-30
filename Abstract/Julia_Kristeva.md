@@ -1,0 +1,1 @@
+Bulgarian | era = Contemporary philosophy | region = Western philosophy | school_tradition = | main_interests = | religion = |spouse = Philippe Sollers | influences = | influenced = | notable_ideas = | awards = | website = kristeva.fr }}

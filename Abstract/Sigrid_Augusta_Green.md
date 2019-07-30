@@ -1,0 +1,1 @@
+SIGRID AUGUSTA "GUSTA" GREEN (3 December 1920 – 12 October 2012) gathered intelligence in preparation for the sabotage of Telemark during the Second World War. She worked for the Norwegian Resistance and then at Bletchley Park.

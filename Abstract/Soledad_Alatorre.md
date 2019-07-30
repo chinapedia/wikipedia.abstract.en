@@ -1,0 +1,1 @@
+SOLEDAD "CHOLE" ALATORRE (born 1927) is a Chicana labor activist who was active in the Greater Los Angeles Area, and is known for her work with the _Centro de Acción Social Autónomo_ (CASA) and for her advocacy of civil rights among the Chicano community.

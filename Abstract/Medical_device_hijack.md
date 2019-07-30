@@ -1,0 +1,1 @@
+A MEDICAL DEVICE HIJACK (also called MEDJACK) is a type of cyber attack. The weakness they target are the medical devices of a hospital. This was covered extensively in the press in 2015 and in 2016.[1][2][3][4][5][6][7][8][9][10][11]

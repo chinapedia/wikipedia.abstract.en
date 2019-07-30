@@ -1,0 +1,1 @@
+THOMAS J. SHUSTED (August 3, 1926 – March 31, 2004) was an American attorney and politician who served in the New Jersey General Assembly on two separate occasions, representing Legislative District 3D from 1970 to 1972 and the 6th Legislative District from 1978 to 1991.

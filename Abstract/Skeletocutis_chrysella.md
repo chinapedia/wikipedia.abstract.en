@@ -1,0 +1,1 @@
+_SKELETOCUTIS CHRYSELLA_ is a species of poroid crust fungus in the family Polyporaceae. Found primarily in Northern Europe, it has a boreal distribution, and has also been collected in East Karelia, Yakutia, and North America. It is classified as a vulnerable species on the Norwegian Red list, where it is considered to be declining.[1]

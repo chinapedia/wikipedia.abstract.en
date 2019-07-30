@@ -1,0 +1,1 @@
+_PAGLEE_ (Assamese:_পাগলী_ ; English:_Mental_) is an Assamese language romantic action film directed by Rupjyoti Borah. This film features Nayan Nirban Baruah and Prastuti Parashar in lead role. It was produced and distributed by Rimzim Films.

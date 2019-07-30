@@ -1,0 +1,1 @@
+JOSEPH JOHN AVILA[1] (born October 11, 1991) is an American professional basketball player for the Agua Caliente Clippers of the NBA G League. He played college basketball for Navy and Colorado State.

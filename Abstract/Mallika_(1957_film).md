@@ -1,0 +1,1 @@
+_MALLIKA_ is an Indian Tamil language film directed by Joseph Thaliath Jr. and released in 1957. The film features Gemini Ganesan and Padmini in the lead roles. It was remade in Hindi as _Payal_ the same year.

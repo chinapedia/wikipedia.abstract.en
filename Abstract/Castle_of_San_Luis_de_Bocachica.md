@@ -1,0 +1,1 @@
+Castle_of_San_Luis_de_Bocachica.jpg The CASTLE OF SAN LUIS DE BOCACHICA, was a military fortress that defended Cartagena, Colombia. The Spanish built it in the 17th century. After it suffered war damage in the 18th century, they erected a new coastal fortification, the Castle of San Fernando on the same site.

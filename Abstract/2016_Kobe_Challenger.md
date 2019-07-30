@@ -1,0 +1,1 @@
+The 2016 KOBE CHALLENGER was a professional tennis tournament played on indoor hard courts. It was the 2nd edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Kobe, Japan between 7 and 13 November 2016.

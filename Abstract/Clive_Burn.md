@@ -1,0 +1,1 @@
+SIR ROLAND CLIVE WALLACE BURN "Clive Burn" (29 October 18828 May 1955) was Secretary and Keeper of the Record to the Duchy of Cornwall from 1936 to 1954 and was Solicitor to Duchy of Cornwall from 1940.[1] He was also a cricketer and a polo player. Burn was appointed a Commander of the Royal Victorian Order (CVO) in 1942 and knighted in 1948.[2]

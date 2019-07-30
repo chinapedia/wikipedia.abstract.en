@@ -1,0 +1,1 @@
+JENIJOY LA BELLE is an American professor of English literature at California Institute of Technology. Hired in 1969, she became the first female professor in Caltech history.[1] She is known for her fight to attain tenure in the early '70s, also at Caltech. In 1979 she was granted tenure.[2]

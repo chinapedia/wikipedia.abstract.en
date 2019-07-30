@@ -1,0 +1,1 @@
+Esther_Welmoet_Wijnaendts_Francken-Dyserinck.png ESTHER WELMOET DIJSERINCK (Den Helder, February 7, 1876 - The Hague, November 11, 1956), known under the penname WELMOET WIJNAENDTS FRANCKEN-DYSERINCK, was a Dutch journalist and feminist, cofounder of Dutch Girl Guiding and the World Association of Girl Guides and Girl Scouts (WAGGGS).

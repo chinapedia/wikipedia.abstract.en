@@ -1,0 +1,1 @@
+The YANGJIANG GROUP is a collective artist group founded in 2002 by Zheng Guogu (b.1970), Chen Zaiyan (b.1971), and Sun Qinglin (b.1974). The group's name takes after their hometown in Yangjiang, Guangdong Province. The Yangjiang Group's works have been exhibited in Europe and Asia. Their works have been commented to show a strong attachment to a sense of place in their hometown.

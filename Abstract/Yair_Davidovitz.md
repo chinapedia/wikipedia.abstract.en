@@ -1,0 +1,1 @@
+YAIR DAVIDOVITZ (יאיר דוידוביץ; born March 22, 1945) is an Israeli former Olympic sport shooter, and in 1984 matched the world record of a perfect score of 400 in the Men's Small-Bore Rifle, Prone, 50 metres.[1][2]

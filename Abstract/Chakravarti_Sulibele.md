@@ -1,0 +1,1 @@
+CHAKRAVARTY SULIBELE ( Mithun Chakravarty ) is an Indian orator, social activist and a writer who pre-dominantly writes in Kannada and Hindi languages. He is known for his activities with the youth. He is the founder of Yuva Brigade, _Sodari Nivedita Pratishtana_ which is a sister wing of Yuva Brigade.[1]

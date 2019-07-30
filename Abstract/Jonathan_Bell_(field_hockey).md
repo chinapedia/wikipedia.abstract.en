@@ -1,0 +1,1 @@
+JONNY BELL (born 19 June 1987) is an Irish field hockey player who plays as a defender for Lisnagarvey Hockey Club. He competed for the Ireland men's national field hockey team at the 2016 Summer Olympics.[1]

@@ -1,0 +1,1 @@
+PAULO NOGUEIRA NETO (18 April 1922 – 25 February 2019) was a Brazilian environmentalist. He headed the first federal environmental agency in Brazil, the forerunner of today's Ministry of the Environment, and was a member of the United Nations Brundtland Commission on the Environment and Development. He had a major influence on Brazil's environmental legislation.

@@ -1,0 +1,1 @@
+BRIGHT ONYEBUCHI JACOB is a former chairman of Oyigbo Local Government Council.[1] He is a member of the Rivers State People's Democratic Party, and is the current Commissioner of Commerce and Industry since December 2015.[2][3]

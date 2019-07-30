@@ -1,0 +1,1 @@
+MARIE TOMÁŠOVÁ (born 18 April 1929) is a Czech film and stage actress. At the 2008 Thalia Awards she won the category of lifetime achievement in drama.[1] She studied at the Faculty of Theatre (Prague).[2] Tomášová acted at the National Theatre in Prague between 1955 and 1965.[3] She was married to theatre director Otomar Krejča.[4]

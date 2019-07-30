@@ -1,0 +1,1 @@
+Former_Magistrates_Court_(8668004223).jpg LAMBETH MAGISTRATES' COURT is a former magistrates' court building in Renfrew Road, Kennington SE11, in the London Borough of Lambeth. It was originally known as LAMBETH POLICE COURT. It is now home to the Jamyang Buddhist Centre.[1]

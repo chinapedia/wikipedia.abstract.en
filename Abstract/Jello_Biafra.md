@@ -1,0 +1,1 @@
+ERIC REED BOUCHER (born June 17, 1958), better known by his professional name JELLO BIAFRA, is an American singer, musician, and spoken word artist. He is the former lead singer and songwriter for the San Francisco punk rock band Dead Kennedys.

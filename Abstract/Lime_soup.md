@@ -1,0 +1,1 @@
+LIME SOUP is a traditional dish from the Mexican state of Yucatan, which is made of chicken or some other meat such as pork or beef, lime juice and served with tortilla chips. This dish was originally created by the Mayans and with the passage of time has evolved to take its present form.

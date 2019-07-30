@@ -1,0 +1,1 @@
+The FOUNDATION FOR GLOBAL SPORTS DEVELOPMENT is a 501(c) organization which creates and supports programs promoting sportsmanship, education, fair play and ethics for children around the world.[1] Attorney David Ulich is president of the foundation and author and psychologist Steven Ungerleider is vice president of the board of the foundation.[2][3]

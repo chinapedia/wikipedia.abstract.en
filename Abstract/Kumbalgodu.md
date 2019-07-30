@@ -1,0 +1,1 @@
+KUMBALGODU (also spelled as KUMBALAGODU) is a town located on the outskirts of the Indian city of Bangalore. It is situated along the Mysore Road, i.e. South West Bangalore, (similar to Dwarka in Delhi), between Kengeri and Bidadi, and, according to the 2011 census, has a population of over 10,000.[1]

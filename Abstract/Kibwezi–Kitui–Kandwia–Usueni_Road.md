@@ -1,0 +1,1 @@
+The KIBWEZI–KITUI–KANDWIA–USUENI ROAD, also B7 ROAD (KENYA) is a road in Kenya, the largest economy in the East African Community. The road connects the town of Kibwezi in Makueni County to the community of Usueni in Kitui County.

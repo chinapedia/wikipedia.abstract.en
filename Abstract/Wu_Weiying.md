@@ -1,0 +1,1 @@
+'''Wu Weiying ''' (born 19 January 1969) is a Chinese footballer who played as a forward for the China women's national football team. She was part of the team at the inaugural 1991 FIFA Women's World Cup. At the club level, she played for Guangdong in China.[1]

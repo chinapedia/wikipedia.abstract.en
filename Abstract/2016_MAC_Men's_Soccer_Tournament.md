@@ -1,0 +1,1 @@
+The 2016 MID-AMERICAN CONFERENCE MEN'S SOCCER TOURNAMENT was the 23rd edition of the tournament. It determined the Mid-American Conference's automatic berth into the 2016 NCAA Division I Men's Soccer Championship.

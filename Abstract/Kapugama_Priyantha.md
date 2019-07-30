@@ -1,0 +1,1 @@
+KAPUGAMA PRIYANTHA (born 5 June 1968) is a Sri Lankan former cricketer. He played twenty-six first-class matches in Sri Lanka between 1988 and 1995.[1] He was also part of Sri Lanka's squad for the 1988 Youth Cricket World Cup.[2]

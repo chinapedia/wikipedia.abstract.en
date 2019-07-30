@@ -1,0 +1,1 @@
+THE PALIO OF DISTRICTS OF TRENTO (in Italian: _Il palio delle Contrade di Trento_) is a celebration in remembrance of the Battle of Calliano (1487) and takes place every year in September in the city of Trento, the capital of Trentino in Trentino-Alto Adige/Südtirol, a region of Northern Italy.

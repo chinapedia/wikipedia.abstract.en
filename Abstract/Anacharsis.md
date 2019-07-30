@@ -1,0 +1,1 @@
+Anacharsis.jpg.]] ANACHARSIS (; ) was a Scythian philosopher who travelled from his homeland on the northern shores of the Black Sea to Athens in the early 6th century BC and made a great impression as a forthright, outspoken "barbarian". Reputedly a forerunner of the Cynics, none of his works has survived.

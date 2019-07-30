@@ -1,0 +1,1 @@
+SIMPLE DIRECTMEDIA LAYER (SDL) is a cross-platform software development library designed to provide a hardware abstraction layer for computer multimedia hardware components. Software developers can use it to write high-performance computer games and other multimedia applications that can run on many operating systems such as Android, iOS, Linux, macOS, and Windows.[1]

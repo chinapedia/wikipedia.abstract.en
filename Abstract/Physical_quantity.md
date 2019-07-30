@@ -1,0 +1,1 @@
+A PHYSICAL QUANTITY is a property of a material that can be quantified by measurement. A physical quantity can be expressed as the combination of unit by a number. where the number is the magnitude . For example, 1 kg where 1 is magnitude and kg is unit.

@@ -1,0 +1,1 @@
+Ritter_von_Köchel_(1842)_–_Gerd_Hruška.png, 1842.]] LUDWIG ALOIS FRIEDRICH RITTER VON KÖCHEL (;[1] 14 January 1800 – 3 June 1877) was an Austrian musicologist, writer, composer, botanist and publisher. He is best known for cataloguing the works of Mozart and originating the 'K-numbers' by which they are known (_K_ for _Köchel_).

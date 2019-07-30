@@ -1,0 +1,1 @@
+POPE SYLVESTER III or SILVESTER III (1000 – October 1063), born GIOVANNI DEI CRESCENZI–OTTAVIANI in Rome, was Pope from 20 January to March 1045.

@@ -1,0 +1,1 @@
+ASBURY BATEMAN CONAWAY (October 13, 1837 – December 8, 1897) was a Justice of the Territorial Wyoming Supreme Court from June 21, 1890 to October 11, 1890, and of the Wyoming Supreme Court from October 11, 1890 until his death, on December 8, 1897.

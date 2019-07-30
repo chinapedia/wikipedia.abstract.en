@@ -1,0 +1,1 @@
+The GREAT AUK (_Pinguinus impennis_) is an extinct species of flightless alcid that became extinct in the mid-19th century. It was the only modern species in the genus _PINGUINUS_. It is not closely related to the birds now known as penguins, which were discovered later and so named by sailors because of their physical resemblance to the great auk.

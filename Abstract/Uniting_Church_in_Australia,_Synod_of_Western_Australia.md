@@ -1,0 +1,1 @@
+The SYNOD OF WESTERN AUSTRALIA is the entity of the Uniting Church in Australia covering most of the state of Western Australia, south of a line near Port Hedland. It is one of six geographically-based Synods of the church. The leader of the Synod is the _moderator_ elected to the position for a period of three years.

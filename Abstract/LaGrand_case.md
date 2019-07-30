@@ -1,0 +1,1 @@
+The LAGRAND CASE was a legal action heard before the International Court of Justice (ICJ) which concerned the Vienna Convention on Consular Relations. In the case, the ICJ found that its own temporary court orders were legally binding and that the rights contained in the convention could not be denied by the application of domestic legal procedures.

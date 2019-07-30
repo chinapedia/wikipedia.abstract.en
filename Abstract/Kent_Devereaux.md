@@ -1,0 +1,1 @@
+KENT DEVEREAUX is an American composer, director, college administrator, and the 12th and current president of Goucher College. He was previously the president of the New Hampshire Institute of Art (NHIA) from 2015 to 2019.

@@ -1,0 +1,1 @@
+BALD HILLS is a locality in central Victoria, Australia, in the Hepburn Shire local government area, west of the state capital, Melbourne, and north of Ballarat.[1] The area is about above sea level.[2]

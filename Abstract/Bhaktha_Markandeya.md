@@ -1,0 +1,1 @@
+_BHAKTA MARKANDEYA_ is an Indian Tamil language mythological film directed by B. S. Ranga with Chittor V. Nagaiah, Pushpavalli, K. A. Thangavelu and Padmini Priyadarshini in the lead roles. The film was released in 1957.[1][2]

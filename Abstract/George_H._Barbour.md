@@ -1,0 +1,1 @@
+GEORGE H. BARBOUR (June 24, 1917 – September 23, 1992) was an American lawyer and politician who served in the New Jersey General Assembly for one term in the 1960s and two terms in the 1970s, where he represented the 7th Legislative District, before being appointed to serve on the New Jersey Board of Public Utilities.[1]

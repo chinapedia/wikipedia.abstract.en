@@ -1,0 +1,1 @@
+WĀFIR (, literally 'numerous, abundant, ample, exuberant') is a meter used in classical Arabic poetry. It is among the five most popular metres of classical Arabic poetry, accounting (alongside _ṭawīl_, _basīṭ_, _kāmil_, and _mutaqārib_) for 80-90% of lines and poems in the ancient and classical Arabic corpus.[1]

@@ -1,0 +1,1 @@
+MELBOURNE TRAM ROUTE 58 is operated by Yarra Trams on the Melbourne tram network. It operates from West Coburg to Toorak. The 18.0 kilometre route is operated by Z3, B2 and D1 class trams from Essendon and Malvern depots. The route began operating on 1 May 2017.[1]

@@ -1,0 +1,1 @@
+JEANNETTE LITTLEMORE is a British scholar of English and applied linguistics, whose work focuses on the interpretation of figurative language, including metaphor and metonymy, as it relates to second language learning and teaching. Her research examines the ways that metaphor is misunderstood by learners of English.

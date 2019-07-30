@@ -1,0 +1,1 @@
+NATACHA ATLAS (; born 20 March 1964) is an Egyptian-British[1][2][3] singer known for her fusion of Arabic and Western music, particularly hip-hop. She once termed her music "cha'abi moderne" (modern popular music). Her music has been influenced by many styles including Maghrebain, hip hop, drum and bass and reggae.

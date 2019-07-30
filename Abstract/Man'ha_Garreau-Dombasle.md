@@ -1,0 +1,1 @@
+MAN'HA GARREAU-DOMBASLE, born GERMAINE MASSENET (June 11, 1898 – August 4, 1999), was the French-American singer, actress and director Arielle Dombasle's grandmother. She was born in Calais and died in Deauville.[1]

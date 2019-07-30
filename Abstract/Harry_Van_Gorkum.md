@@ -1,0 +1,1 @@
+HARRY VAN GORKUM is a British actor based in the United States.[1] Born in London, he studied at Lancaster University before becoming a stage actor. He later moved to the United States, where he has appeared in more than eighty films since 1989.

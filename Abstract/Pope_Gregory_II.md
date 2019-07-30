@@ -1,0 +1,1 @@
+POPE GREGORY II (; 669 – 11 February 731) was Bishop of Rome from 19 May 715 to his death in 731.[1] His defiance of the Byzantine emperor Leo III the Isaurian as a result of the iconoclastic controversy in the Eastern Empire prepared the way for a long series of revolts, schisms and civil wars that eventually led to the establishment of the temporal power of the popes.

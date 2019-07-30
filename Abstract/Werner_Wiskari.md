@@ -1,0 +1,1 @@
+Werner-Wiskari-1961.jpg in November 1961.]] WERNER M. WISKARI (May 16, 1918, Michigan – December 8, 2008, Wakefield, Charlestown, Rhode Island, United States) was a Finnish-American journalist who worked for _The New York Times_ for 36 years. Wiskari's parents were Finnish immigrants.

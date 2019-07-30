@@ -1,0 +1,1 @@
+INDIRA NAGAR (Urdu;اندرا نگر) is a residential area in the Indian city of Srinagar in the state of Jammu and Kashmir.[1] It used to be a lake[2] before but now only few hundred meters of the lake is left.

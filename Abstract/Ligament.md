@@ -1,0 +1,1 @@
+A LIGAMENT is the fibrous connective tissue that connects bones to other bones. It is also known as _articular ligament_, _articular larua_,[1] _fibrous ligament_, or _true ligament_. Other ligaments in the body include the:

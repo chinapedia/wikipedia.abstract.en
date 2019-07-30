@@ -1,0 +1,1 @@
+The OKI OPEN DE ESPANA SENIOR BY CLEVELAND GOLF/SRIXON was a men's senior (over 50) professional golf tournament on the European Senior Tour. It was held just once, in May 2011, at the El Valle Golf Resort, south of Murcia, Spain. The winner was Carl Mason who won the first prize of €30,000 out of total prize-money of €200,000.

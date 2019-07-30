@@ -1,0 +1,1 @@
+MARÍA FAR NÚÑEZ (born January 6, 1998) is a Panamanian swimmer. She competed at the 2016 Summer Olympics in the women's 200 metre butterfly event; her time of 2:23.89 in the heats did not qualify her for the semifinals.[1][2]

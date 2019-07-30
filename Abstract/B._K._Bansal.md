@@ -1,0 +1,1 @@
+BK BANSAL also BAL KISHAN BANSAL (born 1953) was Director-General of Corporate Affairs in Union Government. He died on 27 September 2016, after accusing 3 CBI officers of torture in his suicide note.[1] His 25-year old son Yogesh Bansal also killed himself on the same day at their residence in Neelkanth Apartments in East Delhi.[2][3]

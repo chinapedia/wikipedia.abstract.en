@@ -1,0 +1,1 @@
+WILLIAM ROBERTS (28 October 1871 – 25 August 1937)[1][2] was a New Zealand rugby union player who represented the All Blacks between 1896 and 1897. His positions of choice were centre three-quarter and second five-eighth. Roberts did not play in any test matches as New Zealand did not play their first until 1903.

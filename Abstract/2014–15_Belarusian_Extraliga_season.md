@@ -1,0 +1,1 @@
+The 2014–15 BELARUSIAN EXTRALIGA SEASON was the 23rd season of the Belarusian Extraliga, the top level of ice hockey in Belarus. Eleven teams participated in the league this season. HC Shakhtyor Soligorsk won both the regular season and the playoffs.[1]

@@ -1,0 +1,1 @@
+ABRAHAM "BRAM" STOKER (8 November 1847 – 20 April 1912) was an Irish author, best known today for his 1897 Gothic novel _Dracula_. During his lifetime, he was better known as the personal assistant of actor Sir Henry Irving, and business manager of the Lyceum Theatre in London, which Irving owned.

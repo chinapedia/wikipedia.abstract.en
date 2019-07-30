@@ -1,0 +1,1 @@
+_WISSPER_ is a CGI German-British-Irish children's animated television series produced by the animation studio m4e, Telegael and Bastei Media. The first episode premiered in October 12, 2015. It is broadcast on UK TV channel Channel 5 - Milkshake!.

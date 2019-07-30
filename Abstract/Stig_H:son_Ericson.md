@@ -1,0 +1,1 @@
+STIG (HANSSON) H:SON ERICSON (12 July 1897 – 8 January 1985) was a Swedish Navy admiral. He was Chief of the Coastal Fleet from 1950 to 1953 and the Chief of the Navy from 1953 to 1961. After retiring from the Navy in 1961, Ericson held court offices in the Royal Court of Sweden. He was Marshal of the Realm from 1966 to 1976.

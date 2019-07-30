@@ -1,0 +1,1 @@
+ESL ONE: NEW YORK 2016 was a _Counter-Strike: Global Offensive_ tournament run by ESL. Eight teams from around the globe competed in an offline (LAN) tournament that will feature a group stage and a playoffs. It featured a 250,000 prize pool.[1]

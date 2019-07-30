@@ -1,0 +1,1 @@
+'''Maria Lucia Lima ''' (born 1 April 1964) is a Brazilian footballer who played as a midfielder for the Brazil women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. At the club level she played for EC Radar in Brazil.[1]

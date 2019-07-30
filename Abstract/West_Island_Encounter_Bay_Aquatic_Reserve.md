@@ -1,0 +1,1 @@
+__NOTOC__ WEST ISLAND ENCOUNTER BAY AQUATIC RESERVE is a marine protected area in the Australian state of South Australia located in waters adjoining West Island immediately south of Fleurieu Peninsula and to the west of the town of Victor Harbor.[1]

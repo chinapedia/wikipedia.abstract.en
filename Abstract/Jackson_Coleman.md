@@ -1,0 +1,1 @@
+JACKSON COLEMAN (born 18 December 1991) is an Australian cricketer.[1] He made his List A debut for Victoria in the 2016–17 Matador BBQs One-Day Cup on 5 October 2016.[2] Prior to his debut, he was part of Australia's squad for the 2010 Under-19 Cricket World Cup.[3] In 2017, he represented Cricket Australia XI in the 2017–18 JLT One-Day Cup.[4]

@@ -1,0 +1,1 @@
+The 2016–17 ISRAELI NOAR PREMIER LEAGUE was the 23rd season since its introduction in 1994 as the top-tier football in Israel for teenagers between the ages 18–20, and the 6th under the name Noar Premier League.

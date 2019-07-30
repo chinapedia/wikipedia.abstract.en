@@ -1,0 +1,1 @@
+_HARIPADA BANDWALA_ is an Indian Bengali language romantic comedy film directed by Pathikrit Basu and Produced by Shrikant Mohta and Mahendra Soni under the banner of Shree Venkatesh Films. The film stars Ankush Hazra and Nusrat Jahan in lead roles. The songs are choreographed by Baba Yadav and Adil Shaikh.

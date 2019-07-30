@@ -1,0 +1,1 @@
+BUDDHI KARNA RAYA RAI was the last _limbu_ (king) of Morang till his assassination by Gorkha forces. His Kingdom Morang was lands between Saptakoshi River to Kankai River covering present day three districts: Sunsari, Morang and parts of Jhapa.

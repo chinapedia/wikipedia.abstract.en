@@ -1,0 +1,1 @@
+CASTRES XIII RUGBY LEAGUE KNIGHTS are a French Rugby league club based in Castres in the French region of Tarn, Midi-Pyrenees. Founded in 2013 they play in the National Division 2 Midi-Pyrenees regional league.

@@ -1,0 +1,1 @@
+The RYDER SENIORS CLASSIC was a men's professional golf tournament on the European Seniors Tour from 1992 to 1998. The tournament was held at Collingtree Park Golf Club near Northampton from 1992 to 1997 and at The Welcombe Hotel, Stratford-upon-Avon, Warwickshire in 1998. Neil Coles own the tournament three times while it was played at Collingtree Park.

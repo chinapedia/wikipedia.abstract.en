@@ -1,0 +1,1 @@
+TRẦN THỊ THÚY is a Vietnamese land rights activist who was arrested in Vietnam in 2011. She is currently serving an 8-year jail sentence in An Phuoc Detention Center in Binh Duong.[1] Tran Thi Thuy is a member of pro-democracy political party, Viet Tan[2]

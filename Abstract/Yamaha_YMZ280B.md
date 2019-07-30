@@ -1,0 +1,1 @@
+The YAMAHA YMZ280B, also known as PCMD8 is a sound chip that was produced by the Yamaha Corporation. It is an eight-channel PCM/ADPCM sample-based synthesizer designed for use with gaming machines, packaged in a 64-pin QFP.

@@ -1,0 +1,1 @@
+During the 1952–53 English football season, Brentford competed in the Football League Second Division. A forgettable season, during which Tommy Lawton was appointed as the club's player-manager, ended with a 17th-place finish.

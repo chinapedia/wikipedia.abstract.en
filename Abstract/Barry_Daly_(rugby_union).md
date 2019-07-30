@@ -1,0 +1,1 @@
+BARRY DALY (born 19 September 1992) is a rugby union footballer for Leinster. He also plays for UCD in the All Ireland League.[1] Daly was awarded his first fully professional contract ahead of the 2016-17 season.

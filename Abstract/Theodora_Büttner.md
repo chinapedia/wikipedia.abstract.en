@@ -1,0 +1,1 @@
+THEODORA BÜTTNER (born Theodora Reichel, 17 June 1930) is a retired East German historian. For many years she was a professor at the Karl Marx University (as it was known at the time) in Leipzig. Much of her own research was focused on the precolonial history of Africa and on the anti-colonial liberation movements.[1][2]

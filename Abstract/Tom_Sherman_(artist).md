@@ -1,0 +1,1 @@
+TOM SHERMAN (born August 5, 1947) is an American-Canadian artist working in video,[1] audio, radio, performance, sculpture and text/image.[2][3] He is also a writer of nonfiction and fiction. He is a recipient of Canada's Governor General's Award in Visual and Media Art.[4] He is a professor of video art at Syracuse University.

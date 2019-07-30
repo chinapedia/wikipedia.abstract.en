@@ -1,0 +1,1 @@
+The ST. BERNARD CATHEDRAL[1] () Also SAN BERNARDO CATHEDRAL Is the main Catholic temple and seat of the Bishopric of San Bernardo,[2] located to one side of the Plaza de Armas de San Bernardo,[3] in the metropolitan area of Santiago in Chile.

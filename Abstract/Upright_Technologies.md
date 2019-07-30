@@ -1,0 +1,1 @@
+UPRIGHT is a training wearable device worn on a person's upper or lower back to correct their posture. It is produced and distributed by Upright Technologies. The Israeli company launched the product in 2015, following its development in Tel-Aviv, Israel. The smart wearable device has been referred to as both a wearable and trainable tech.

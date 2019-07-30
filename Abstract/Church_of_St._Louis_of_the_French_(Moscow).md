@@ -1,0 +1,1 @@
+The CHURCH OF ST. LOUIS OF THE FRENCH[1] () is a Roman Catholic church[2] in Moscow, built 1790–91. It is located in the neighborhood of the Lubyanka, in the city center.[3] The church was founded by and belongs to the French parish of the same name.

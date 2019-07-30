@@ -1,0 +1,1 @@
+AMPHIPOLIS (; )[1] is a municipality in the Serres regional unit of Greece. The seat of the municipality is Rodolivos.[2] It was an ancient Greek polis (city), and later a Roman city, whose large remains can still be seen.

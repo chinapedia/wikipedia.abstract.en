@@ -1,0 +1,1 @@
+GERAD MICHAEL PARKER (born January 4, 1981) is an American football coach who is currently the wide receivers coach for the Penn State Nittany Lions. Parker played college football for the Kentucky Wildcats.

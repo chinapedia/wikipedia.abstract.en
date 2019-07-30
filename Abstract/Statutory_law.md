@@ -1,0 +1,1 @@
+STATUTORY LAW or STATUTE LAW is written law passed by a body of legislature. This is as opposed to oral or customary law; or regulatory law promulgated by the executive or common law of the judiciary.[1] Statutes may originate with national, state legislatures or local municipalities.

@@ -1,0 +1,1 @@
+_BLODVEIEN_ (The Blood Road; ) is a Norwegian-Yugoslav drama film from 1955 directed by Kåre Bergstrøm[1] and Radoš Novaković.[2][3][4] The script was written by Sigurd Evensmo.[5] The film premiered in Norway on February 17, 1955.

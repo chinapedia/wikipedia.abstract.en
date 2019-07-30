@@ -1,0 +1,1 @@
+The 67TH ANTI-AIRCRAFT ARTILLERY DIVISION () was an anti-aircraft artillery division of the Soviet Union's Red Army during World War II. Formed in September 1943, the division fought in the Baltic Offensive, the East Prussian Offensive, and the Samland Offensive. It was disbanded after the end of the war.

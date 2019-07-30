@@ -1,0 +1,1 @@
+The ITALY WOMEN'S NATIONAL 3X3 TEAM is a national basketball team of Italy, administered by the Federazione Italiana Pallacanestro.[1] It represents the country in international women's 3x3 (3 against 3) basketball competitions.

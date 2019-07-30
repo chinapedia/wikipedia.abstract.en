@@ -1,0 +1,1 @@
+, also known as or as is a Buddhist temple of the Tendai sect in Kōra, Shiga Prefecture, Japan. Founded at the beginning of the ninth century by the 54th Emperor of Japan, the temple is dedicated to Yakushi Nyorai, the Buddha of healing. The complex includes several National Treasures and a garden designated as Place of Scenic Beauty of Japan.

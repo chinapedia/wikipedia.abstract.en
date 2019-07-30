@@ -1,0 +1,1 @@
+GREENVILLE SENIOR HIGH SCHOOL (also known as GREENVILLE SENIOR HIGH ACADEMY, GHS, GSHS, GREENVILLE SENIOR HIGH ACADEMY OF LAW, FINANCE, AND BUSINESS, and GREENVILLE HIGH ACADEMY) is a medium-sized secondary school and magnet school located in Greenville, South Carolina.

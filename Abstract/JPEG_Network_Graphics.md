@@ -1,0 +1,1 @@
+JPEG NETWORK GRAPHICS (JNG, ) is a JPEG-based graphics file format which is closely related to PNG: it uses the PNG file structure (with a different signature) as a container format to wrap JPEG-encoded image data.

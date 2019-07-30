@@ -1,0 +1,1 @@
+DAVID THOMAS RICHARDSON (died 1808) was an officer of the Bengal Army or the East India Company and a Hindu scholar who established the Company's staff training college at Barasat, but who died with his family when, returning to England from India, their ship, the _Lord Nelson_ was lost in a hurricane in 1808.[1]

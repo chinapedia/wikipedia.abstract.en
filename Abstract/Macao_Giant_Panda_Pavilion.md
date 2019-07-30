@@ -1,0 +1,1 @@
+The MACAO GIANT PANDA PAVILION (; ) is a zoo in Seac Pai Van Park, Coloane, Macau, China. It is located at the Macao Zoo. The Panda Pavilion is a nature park containing multiple animal species ranging from gorillas, flamingos, monkeys, and of course the famous pandas. Admission is free to see the animals.[1][2]

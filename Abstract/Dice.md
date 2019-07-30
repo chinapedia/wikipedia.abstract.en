@@ -1,0 +1,1 @@
+6sided_dice.jpg DICE (singular DIE or DICE;[1] from Old French _déh_; from Latin _datum_ "something which is given or played"[2]) are small throwable objects that can rest in multiple positions, used for generating random numbers. Dice are commonly used in tabletop games—including dice games, board games, and role-playing games—and for gambling.

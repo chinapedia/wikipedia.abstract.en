@@ -1,0 +1,1 @@
+The MANJHAR KUND waterfalls also called the Manjhar K Waterfall is situated between Dehri-on-sone and Sasaram, the district headquarters of Rohtas District in Bihar. This waterfall is one of the finest falls in India.

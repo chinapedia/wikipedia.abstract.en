@@ -1,0 +1,1 @@
+CHRISTINE HOUSTON is an African-American writer who was born and raised in Chicago, Illinois in 1935.[1] She is the creator of the popular 1980s sitcom _227_, and is also known for her work on shows such as _The Jeffersons_, and _Punky Brewster_.[2] Houston is not only a series writer, she also enjoys writing plays, and novels such as _Laughing Through The Tears_.[3]

@@ -1,0 +1,1 @@
+LYUDMILA PETROVNA YURLOVA (, 1 April 1972 – 28 November 2016) was a Russian ice hockey forward. She was part of the national teams that won a silver medal at the 1996 European Championships and a bronze at the 2001 World Championships.[1][2][3]

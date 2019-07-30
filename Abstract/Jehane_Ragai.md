@@ -1,0 +1,1 @@
+JEHANE NOUR EL DIN RAGAI () (born in Cairo, Egypt)[1] is an Emeritus Professor of Chemistry at the American University in Cairo (AUC). She is the author of the non-fiction book _The Scientist and the Forger_, published in 2015 by Imperial College Press.[2][3][4][5]

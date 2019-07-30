@@ -1,0 +1,1 @@
+MILOSLAV LUDVÍK (born 5 September 1963) is a Czech politician and Motol University Hospital director who served as Minister of Health from 2016 to 2017.[1] He is a graduate of the Faculty of Business of the University of Economics, Prague.[2]

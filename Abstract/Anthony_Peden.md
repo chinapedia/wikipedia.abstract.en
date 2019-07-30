@@ -1,0 +1,1 @@
+ANTHONY PEDEN (born 15 September 1970) is a New Zealand cyclist. He competed at the 2000 Summer Olympics in Sydney, in the men's keirin and the men's sprint.[1] Peden was the head sprint coach at Cycling New Zealand from 2013 until his resignation in 2018. Peden is now the Head Sprint Coach of the Chinese National track cycling team. [2][3]

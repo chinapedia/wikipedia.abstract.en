@@ -1,0 +1,1 @@
+The_grave_of_John_Robertson_Henderson,_Dean_Cemetery,_Edinburgh.jpg Prof JOHN ROBERTSON HENDERSON CIE FRSE FZS FLS (21 May 1863-26 October 1925) was a Scottish zoologist and antiquary. From 1892 until 1911 he was Professor of Zoology at Madras Christian College in India. From 1908 to 1920 he was Superintendent of the Government Museum in Madras.[1]

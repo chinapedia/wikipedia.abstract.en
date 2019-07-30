@@ -1,0 +1,1 @@
+_UFC FIGHT NIGHT: BADER VS. NOGUEIRA 2_ (also known as _UFC FIGHT NIGHT 100_) was a mixed martial arts event produced by the Ultimate Fighting Championship held on November 19, 2016, at Ginásio do Ibirapuera in São Paulo, Brazil[1]
