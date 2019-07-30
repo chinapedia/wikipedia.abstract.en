@@ -1,0 +1,1 @@
+FRIEDRICH AUGUST KEKULÉ, later FRIEDRICH AUGUST KEKULE VON STRADONITZ (;[1] ; 7 September 1829 – 13 July 1896), was a German organic chemist. From the 1850s until his death, Kekulé was one of the most prominent chemists in Europe, especially in theoretical chemistry. He was the principal founder of the theory of chemical structure.

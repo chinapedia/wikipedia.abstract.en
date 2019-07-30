@@ -1,0 +1,1 @@
+The BATTLE OF STALINGRAD (23 August 1942 – 2 February 1943)[1][2][3][4] was the largest confrontation of World War II, in which Germany and its allies fought the Soviet Union for control of the city of Stalingrad (now Volgograd) in Southern Russia.

@@ -1,0 +1,1 @@
+ÁED MAC CINÁEDA (died 878) was a son of Cináed mac Ailpín. He became king of the Picts in 877, when he succeeded his brother Constantín mac Cináeda. He was nicknamed ÁED OF THE WHITE FLOWERS, THE WING-FOOTED () or THE WHITE-FOOT ().

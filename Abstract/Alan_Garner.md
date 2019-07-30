@@ -1,0 +1,1 @@
+ALAN GARNER (born 17 October 1934) is an English novelist best known for his children's fantasy novels and his retellings of traditional British folk tales. Much of his work is rooted in the landscape, history and folklore of his native county of Cheshire, North West England, being set in the region and making use of the native Cheshire dialect.

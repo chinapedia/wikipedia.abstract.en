@@ -1,0 +1,1 @@
+Bahria foundation school is located in the vicinity of Raja CNG Talagang road Pindi Gheb. It was established on 1 April 2014. It is one the private-fee paying academic institutions. BFS provides pre-school, primary and secondary education. Classes are scheduled from 7:30 to 1:30.

@@ -1,0 +1,1 @@
+AOMORI 2ND DISTRICT (青森県第2区, _Aomori-ken dai-niku_ or simply 青森2区, _Aomori-niku_) is a single-member constituency of the House of Representatives in the national Diet of Japan. It is located in Northeastern Aomori and covers the prefecture's Towada, Misawa, and Mutsu cities, Kamikita and Shimokita districts, and the town of Gonohe within Sannohe District.

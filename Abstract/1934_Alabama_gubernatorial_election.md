@@ -1,0 +1,1 @@
+The 1934 ALABAMA GUBERNATORIAL ELECTION took place on November 2, 1934, in order to elect the Governor of Alabama. Democratic incumbent Benjamin M. Miller was term-limited, and could not seek a second consecutive term.

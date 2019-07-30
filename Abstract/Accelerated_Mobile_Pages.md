@@ -1,0 +1,1 @@
+AMP (originally an acronym for ACCELERATED MOBILE PAGES[1]) is a web component framework and a website publishing technology developed by Google which has the mission to "provide a user-first format for web content"[2].

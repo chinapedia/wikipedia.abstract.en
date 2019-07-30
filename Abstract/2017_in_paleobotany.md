@@ -1,0 +1,1 @@
+This article records new taxa of plants that are scheduled to be described during the year 2017, as well as other significant discoveries and events related to paleobotany that are scheduled to occur in the year 2017.

@@ -1,0 +1,1 @@
+A BALDRIC (also BALDRICK, BAWDRICK, BAULDRICK as well as other rare or obsolete variations) is a belt worn over one shoulder that is typically used to carry a weapon (usually a sword) or other implement such as a bugle or drum.[1][2] The word may also refer to any belt in general, but this usage is poetic or archaic.

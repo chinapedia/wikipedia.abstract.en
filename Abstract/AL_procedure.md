@@ -1,0 +1,1 @@
+The AL PROCEDURE is a procedure for fair item assignment between two people. It finds an envy-free item assignment of a subset of the items. Moreover, the resulting allocation is Pareto efficient in the following sense: there is no other envy-free allocation which is better for one person and not worse for the other person.

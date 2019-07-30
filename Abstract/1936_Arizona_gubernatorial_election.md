@@ -1,0 +1,1 @@
+The 1936 ARIZONA GUBERNATORIAL ELECTION took place on November 3, 1936. Incumbent Governor Benjamin Baker Moeur ran for reelection, but he was defeated in the Democratic primary by former judge of the Maricopa County Superior Court Rawghlie Clement Stanford.

@@ -1,0 +1,1 @@
+OREGON BALLOT MEASURE 99 is a ballot measure in the 2016 election in the U.S. state of Oregon. The measure uses Oregon Lottery funds in order to provide outdoor education to Oregon students.[1] The measure passed on November 8, 2016, with the support of sixty-six percent of Oregon voters.[2]

@@ -1,0 +1,1 @@
+ALAIN DESREUMAUX[1][2] (born 1944, Stains) is a French historian of religion, specializing on Syrian and Aramaic christo-palestinian communities.[3] He has uncovered manuscripts and inscriptions and published works on codicology and epigraphy.

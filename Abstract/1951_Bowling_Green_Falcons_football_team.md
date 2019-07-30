@@ -1,0 +1,1 @@
+The 1951 BOWLING GREEN FALCONS FOOTBALL TEAM was an American football team that represented Bowling Green State University as an independent during the 1951 college football season. In their 11th season under head coach Bob Whittaker, the Falcons compiled a 4–4–1 record and were outscored by all opponents by a combined total of 178 to 150.[1]

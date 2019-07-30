@@ -1,0 +1,1 @@
+border | alt = | caption = | birth_date = | birth_place = Shyambazar, West Bengal, India | death_date = | death_place = Kolkata, West Bengal, India | residence = | nationality = Indian | fields = | workplaces = | alma_mater = | doctoral_advisor = | doctoral_students = | known_for = Studies on UDP-glucose 4-epimerase | awards = }}

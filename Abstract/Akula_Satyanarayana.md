@@ -1,0 +1,1 @@
+AKULA SATYANARAYANA is a member of the Jana Sena Party from Andhra Pradesh and former member of Bharatiya Janata Party. He has won the 2014 Andhra Pradesh Legislative Assembly election from Rajahmundry City.[1][2]

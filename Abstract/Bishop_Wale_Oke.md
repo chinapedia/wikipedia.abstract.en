@@ -1,0 +1,1 @@
+FRANCIS WALE OKE is a Nigerian Christian author and evangelist,[1] He is the founder and presiding Bishop of The Sword of the Spirit Ministries,[2] also known as Christ Life Church with a 15,000 member headquarters in Ibadan, Oyo state, Nigeria.[3]

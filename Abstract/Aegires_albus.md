@@ -1,0 +1,1 @@
+_AEGIRES ALBUS_ is a species of sea slug, a nudibranch, a marine, opisthobranch gastropod mollusk in the family Aegiridae.[1] Its synonym _Anaegires protectus_ Odhner, 1934 is the type species of the genus _Anaegires_ Odhner, 1934 which was merged with _Aegires_ by Wägele in 1987.[2]

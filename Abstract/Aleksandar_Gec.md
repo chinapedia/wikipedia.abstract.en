@@ -1,0 +1,1 @@
+ALEKSANDAR GEC (; March 3, 1928 – April 12, 2008) was a Serbian professional basketball player, coach and administrator. He was the first basketball star of Crvena zvezda.[1] He represented the Yugoslavia national basketball team internationally.

@@ -1,0 +1,1 @@
+ARTHUR RICHARD MATHER (22 November 1925 - 4 June 2017) was an Australian cartoonist, illustrator, and novelist. He was the creating artist (and later also the writer) of one of Australia's most successful comics series, _Captain Atom_. From the late 1950s until 1975 he worked in advertising and in his later years became a novelist.[1][2]

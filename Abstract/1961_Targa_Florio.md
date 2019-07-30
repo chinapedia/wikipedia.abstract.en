@@ -1,0 +1,1 @@
+The 45° TARGA FLORIO took place on 30 April 1961, on the Circuito Piccolo delle Madonie, (Sicily, Italy). It was the second round of the F.I.A. World Sports Car Championship, and third round of the FIA GT Cup.

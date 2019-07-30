@@ -1,0 +1,1 @@
+BANGLADESH TOURISM BOARD is the National tourism organisation of Bangladesh, responsible for promoting tourism and providing necessary training and is located in Dhaka, Bangladesh.[1] Akhteruzzaman Khan Kabir is the present CEO of the board.[2][3]

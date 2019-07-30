@@ -1,0 +1,1 @@
+The 2016 DUNEDIN MAYORAL ELECTION was held on Saturday, 8 October 2016 and was conducted under the single transferable voting system. Dave Cull, Dunedin's 57th mayor, was re-elected after seeing off ten challengers.

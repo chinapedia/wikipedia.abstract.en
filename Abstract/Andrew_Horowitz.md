@@ -1,0 +1,1 @@
+ANDREW DAVID HOROWITZ (born October 12, 1983) is an American songwriter, producer and recording artist. He is best known as the green-tied keyboardist and writer of the indie rock band Tally Hall.[1] Horowitz has worked with several artists including John Legend, Lindsey Stirling, Jidenna, Allie X, Verite, Scott Klopfenstein and Janelle Monae.

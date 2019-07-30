@@ -1,0 +1,1 @@
+AGNIV PAN (born 1 January 1997) is an Indian cricketer.[1] He made his first-class debut for Bengal in the 2016–17 Ranji Trophy on 13 October 2016.[2] He made his List A debut for Bengal in the 2016–17 Vijay Hazare Trophy on 15 March 2017.[3]

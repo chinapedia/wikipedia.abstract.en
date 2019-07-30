@@ -1,0 +1,1 @@
+The 1976 WORLD ROWING CHAMPIONSHIPS were World Rowing Championships that were held in August 1976 at Villach in Austria.[1] Since 1976 was an Olympic year for rowing, the World Championships did not include the 14 Olympic classes scheduled for the 1976 Summer Olympics. Only three lightweight men's events were scheduled, and all finals were raced on 16 August.

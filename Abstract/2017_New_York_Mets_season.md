@@ -1,0 +1,1 @@
+The 2017 NEW YORK METS SEASON was the franchise's 56th season and the team's ninth season at Citi Field. The Mets opened the season on April 3 against the Atlanta Braves and finished the season on October 1 against the Philadelphia Phillies at Citizens Bank Park. On September 19, the Mets were eliminated from postseason contention.[1]

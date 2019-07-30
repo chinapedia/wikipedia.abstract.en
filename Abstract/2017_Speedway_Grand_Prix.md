@@ -1,0 +1,1 @@
+The 2017 SPEEDWAY GRAND PRIX season was the 23rd season of the Speedway Grand Prix era, and decided the 72nd FIM Speedway World Championship. It was seventeenth series under the promotion of Benfield Sports International, an IMG company.

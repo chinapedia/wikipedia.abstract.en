@@ -1,0 +1,1 @@
+The 1998 CORK SENIOR HURLING CHAMPIONSHIP was the 110th staging of the Cork Senior Hurling Championship since its establishment by the Cork County Board in 1887. The draw for the opening fixtures took place on 14 December 1997. The championship ended on 1 November 1998.

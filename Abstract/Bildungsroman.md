@@ -1,0 +1,1 @@
+In literary criticism, a _BILDUNGSROMAN_ (; "Bildung", meaning "education", and "Roman", meaning "novel"; English: "novel of formation, education, culture"; "coming-of-age story")[1] is a literary genre that focuses on the psychological and moral growth of the protagonist from youth to adulthood (coming of age), in which character change is important.

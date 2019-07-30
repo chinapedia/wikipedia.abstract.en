@@ -1,0 +1,1 @@
+AIDEN JAMES FLOWERS (born December 13, 2004) is a professional American actor from Mississippi.[1] He is best known for his recurring role of Young Klaus Mikaelson in the CW network series _The Originals_. He also appeared in the films _The Big Short_, _Miss Peregrine's Home for Peculiar Children_, and Nate Parker's _The Birth of a Nation_.

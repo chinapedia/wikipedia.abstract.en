@@ -1,0 +1,1 @@
+ANNA JESPERSEN (December 14, 1895 – July 15, 1989) was an American geologist best known for being the co-author of _Aeromagnetic interpretation of the geology of the Greenwood Lake and Sloatsburg quadrangles, New York and New Jersey,_ with fellow geologist Andrew Griscom

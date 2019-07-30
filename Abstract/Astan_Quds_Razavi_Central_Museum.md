@@ -1,0 +1,1 @@
+The ASTAN QUDS RAZAVI CENTRAL MUSEUM is a major museum complex situated in Mashhad, Iran. It was designed by the famous Iranian architect, Dariush Borbor (1974-1976) as a museum and library. The complex is affiliated with the Central Library of Astan Quds Razavi and was inaugurated in 1976. Its collections contain Islamic art and historical artifacts:[1][2]

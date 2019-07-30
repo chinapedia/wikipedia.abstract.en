@@ -1,0 +1,1 @@
+ALAIN DE LILLE (Latin: _Alanus ab Insulis_; 11281202/03) was a French theologian and poet. He was born in Lille, some time before 1128. His exact date of death remains unclear as well, with most research pointing toward it being between 14 April 1202, and 5 April 1203.[1]

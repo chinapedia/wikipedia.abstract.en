@@ -1,0 +1,1 @@
+The COMMUNITY ACQUIS[1] or _ACQUIS COMMUNAUTAIRE_ (; ),[2] sometimes called the EU ACQUIS and often shortened to ACQUIS,[3] is the accumulated legislation, legal acts, and court decisions which constitute the body of European Union law. The term is French: _acquis_ meaning "that which has been acquired or obtained", and _communautaire_ meaning "of the community".[4]

@@ -1,0 +1,1 @@
+The 28TH MOTOR RIFLE BRIGADE (Military Unit Number 61423) is a brigade of the Russian Ground Forces. The brigade was formed in 2009 from the 34th Motor Rifle Division. The brigade, originally based in Yekaterinburg, moved to Klintsy in 2016.[1]

@@ -1,0 +1,1 @@
+The BILLADO BLOCK is a historic commercial building at 371 Main Street in the Enosburg Falls village of Enosburgh, Vermont. Built about 1885, it is the town's oldest surviving brick commercial building, built during a period of growth occasioned by the arrival of the railroad in the village. It was listed on the National Register of Historic Places in 2007.[1]

@@ -1,0 +1,1 @@
+PROPOSITION 65 was a California ballot proposition on the November 8, 2016 ballot that would have redirected money collected by grocery and certain other retail stores through mandated sale of carryout bags, and required stores to deposit bag sale proceeds into a special fund to support specified environmental projects.[1]

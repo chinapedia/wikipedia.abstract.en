@@ -1,0 +1,1 @@
+'''Angélique Roujas ''' (born 15 September 1974 in Château-du-Loir) was a French women's international footballer who plays as a forward. She was a member of the France women's national football team. She is general manager of FC Metz.[1]

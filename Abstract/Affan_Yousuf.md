@@ -1,0 +1,1 @@
+AFFAN YOUSUF (born 29 December 1994) is an Indian field hockey player who plays as a forward.[1] He was part of the Indian squad that won the 2016 Asian Men's Hockey Champions Trophy.[2] His father Mohammed Yousuf, grandfather Khuda Dad and uncle Sameer Dad all represented India in field hockey.[3]

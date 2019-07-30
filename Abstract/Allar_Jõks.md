@@ -1,0 +1,1 @@
+ALLAR JÕKS (born 18 March 1965) is an Estonian lawyer and the former Chancellor of Justice.[1] He was proposed to the office by President Lennart Meri and served between 2001 and 2008. He was proposed again by Toomas Hendrik Ilves in December 2007, but the Riigikogu voted against the appointment.[2]

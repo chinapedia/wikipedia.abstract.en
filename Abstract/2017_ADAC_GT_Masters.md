@@ -1,0 +1,1 @@
+The 2017 ADAC GT MASTERS was the tenth season of the ADAC GT Masters, the grand tourer-style sports car racing founded by the German automobile club ADAC. The season started on 29 April at Motorsport Arena Oschersleben and ended on 24 September at Hockenheim after seven double-header meetings.[1]

@@ -1,0 +1,1 @@
+ARMAND DE FLUVIÀ I ESCORSA (Barcelona, 1931),[1] is a Catalan genealogist and heraldist. He specializes in Catalan genealogies and in the dynasties of the counts of the Catalan Countries. He has also been a pioneer of the gay rights movement since the last years of the Francoist dictatorship.[2] He was one of the founders of _Nacionalistes d'Esquerra_ (Leftist Nationalists).

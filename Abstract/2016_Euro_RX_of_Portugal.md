@@ -1,0 +1,1 @@
+The 2016 EURO RX OF PORTUGAL was the first round of the forty-first season of the FIA European Rallycross Championship. The event was held at the Pista Automóvel de Montalegre in Montalegre, Vila Real, and was contested by the Super1600 class.[1]

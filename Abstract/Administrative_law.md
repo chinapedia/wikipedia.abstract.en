@@ -1,0 +1,1 @@
+ADMINISTRATIVE LAW is the body of law that governs the activities of administrative agencies of government. Government agency action can include rule making, adjudication, or the enforcement of a specific regulatory agenda. Administrative law is considered a branch of public law.

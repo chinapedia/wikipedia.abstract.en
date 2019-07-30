@@ -1,0 +1,1 @@
+, the individual allegedly responsible for the assassination of United States President John F. Kennedy on November 22, 1963. Oswald himself was assassinated two days later by Jack Ruby, the first such event to receive wide television coverage.]] ASSASSINATION is the act of killing a prominent person for either political, religious or monetary reasons.[1]

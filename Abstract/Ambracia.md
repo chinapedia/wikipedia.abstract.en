@@ -1,0 +1,1 @@
+AMBRACIA (; , occasionally , _Ampracia_), was a city of ancient Greece on the site of modern Arta. It was captured by the Corinthians in 625 BC and was situated about from the Ambracian Gulf, on a bend of the navigable river Arachthos (or Aratthus), in the midst of a fertile wooded plain.[1]

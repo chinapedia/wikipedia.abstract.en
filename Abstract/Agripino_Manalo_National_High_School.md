@@ -1,0 +1,1 @@
+AGRIPINO MANALO NATIONAL HIGH SCHOOL (formerly known as MAYOR SIMPLICIO MANALO NATIONAL HIGH SCHOOL) is a secondary public school located at Aguho, Pateros, Metro Manila founded last December 2, 2010.

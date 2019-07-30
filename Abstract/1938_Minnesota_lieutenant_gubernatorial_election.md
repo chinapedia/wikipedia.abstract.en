@@ -1,0 +1,1 @@
+The 1938 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 8, 1938. Republican Party of Minnesota candidate C. Elmer Anderson defeated Minnesota Farmer–Labor Party challenger John J. Kinzer and Minnesota Democratic Party candidate Ray M. Lang.

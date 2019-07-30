@@ -1,0 +1,1 @@
+Fevzi_cakmak.png The 2ND CABINET OF EXECUTIVE MINISTERS OF TURKEY (24 January 1921 – 19 May 1921 ) was the second government formed by the nationalists during the Turkish War of Independence. The Republic was not yet proclaimed and the government was called _İcra vekilleri heyeti_ ("cabinet of executive ministers")

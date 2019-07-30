@@ -1,0 +1,1 @@
+The 19TH CENTRAL COMMITTEE (19TH CC) of the Communist Party of China was elected by the 19th National Congress in 2017, and will sit until the next National Congress is convened in 2022. It formally succeeded the 18th Central Committee of the Communist Party of China.

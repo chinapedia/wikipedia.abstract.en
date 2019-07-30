@@ -1,0 +1,1 @@
+A GENERAL ELECTION was held in the U.S. state of Georgia on November 6, 2018. All of Georgia's executive officers were up for election as well as all of Georgia's fourteen seats in the United States House of Representatives. Neither U.S. Senate seat was up for election in 2018.

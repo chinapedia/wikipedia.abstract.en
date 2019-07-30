@@ -1,0 +1,1 @@
+ARIE GAMLIEL (אריה גמליאל; born November 21, 1957) is an Israeli former Olympic runner.[1] He was the Israeli Men's Champion in the 5000 metres in 1987 and 1990, and in the 10000 metres in 1987-90. At the 1981 Maccabiah Games, he won the silver medal in the 5,000 metres.

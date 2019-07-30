@@ -1,0 +1,1 @@
+The 262 SOUTHWEST ANATOLIA EARTHQUAKE devastated the Roman city of Ephesus along with cities along the west and south coasts of Anatolia in year 262, or possibly 261. The epicenter was likely located in the southern Aegean Sea. Reports note that many cities were flooded by the sea, presumably due to a tsunami.

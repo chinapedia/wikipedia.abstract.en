@@ -1,0 +1,1 @@
+The 1ST KENTUCKY CAVALRY REGIMENT was a cavalry regiment in the Confederate States Army during the American Civil War; serving mostly in the Army of Tennessee. In late 1862 it was consolidated to constitute the 1ST (3RD) KENTUCKY CAVALRY, usually known as 3RD (BUTLER'S) KENTUCKY CAVALRY. The 3rd continued to served for the duration of the war.

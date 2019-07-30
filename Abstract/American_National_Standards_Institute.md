@@ -1,0 +1,1 @@
+The AMERICAN NATIONAL STANDARDS INSTITUTE (ANSI ) is a private non-profit organization that oversees the development of voluntary consensus standards for products, services, processes, systems, and personnel in the United States.[1] The organization also coordinates U.S. standards with international standards so that American products can be used worldwide.

@@ -1,0 +1,1 @@
+ALEXANDER BRONSTEIN (; born June 15, 1954 in Leningrad, USSR) is an entrepreneur and billionaire[1] currently living in Tallinn, Estonia. He is an Estonian citizen. Bronstein is well known in Jewish circles and is vice president of the Eurasian Jewish congress. A keen philanthropist, he sponsored the building of the first synagogue and community centre in Estonia.[2]

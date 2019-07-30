@@ -1,0 +1,1 @@
+The 1933 BROWNLOW MEDAL was the tenth year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Wilfred Smallhorn of the Fitzroy Football Club won the medal by polling eighteen votes during the 1933 VFL season.[2]

@@ -1,0 +1,1 @@
+AMRITA MEGHWAL (born 19 November 1986) is present MLA of Jalore.[1] Who won from the Jalore Constituency as a BJP nominee is the third youngest candidate. She defeated Congress's Ramlal with a margin of 46,800 Votes.[2][3]

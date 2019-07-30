@@ -1,0 +1,1 @@
+BANGLADESH ECONOMIC ZONES AUTHORITY or BEZA () is a centralized economic zones authority of Bangladesh which was instuited by the government in November 2010 under Bangladesh Economic Zones Act, 2010.[1] The organisation is responsible for establishing and managing of SEZs of Bangladesh.[2] It is run from Prime Minister's Office of Bangladesh.

@@ -1,0 +1,1 @@
+_BASHEERINTE PREMALEKHANAM_ (_Basheer's Love Letter_) is a 2017 Indian Malayalam film directed by Aneesh Anwar. The film stars Farhaan Faasil and Sana Althaf in lead roles. It is a romantic comedy set in the 1980s. Cinematographer was Sanjay Harris.

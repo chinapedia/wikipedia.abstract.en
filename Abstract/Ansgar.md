@@ -1,0 +1,1 @@
+SAINT ANSGAR (8 September 801 – 3 February 865), also known as ANSKAR,[1] SAINT ANSCHAR or OSCAR, was Archbishop of Hamburg-Bremen in the northern part of the KINGDOM OF THE EAST FRANKS. Ansgar became known as the "Apostle of the North" because of his travels and the See of Hamburg received the missionary mandate to bring Christianity to Northern Europe.[2][3]

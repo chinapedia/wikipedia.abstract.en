@@ -1,0 +1,1 @@
+The 1987 NATIONAL PROFESSIONAL SOCCER LEAGUE was won by Vaal Professionals.

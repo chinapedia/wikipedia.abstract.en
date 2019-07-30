@@ -1,0 +1,1 @@
+ALENA MIHULOVÁ (born 4 May 1965) is a Czech film and television actress. Her credits include _Já, Mattoni_ and _Prípad pro exorcistu_. Her film credits include _Innocence_, _Home Care_ and _Anthropoid_.

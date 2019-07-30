@@ -1,0 +1,1 @@
+The AERIAL BAY ISLANDS are a group of islands in Aerial Bay in the Andaman Islands. This group belongs to the North and Middle Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands.[1] Smith Island is the largest and only inhabited one.

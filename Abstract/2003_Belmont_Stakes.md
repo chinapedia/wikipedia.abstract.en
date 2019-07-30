@@ -1,0 +1,1 @@
+The 2003 BELMONT STAKES was the 135th running of the Belmont Stakes. The race, known as the "test of the champion" and sometimes called the "final jewel" in thoroughbred horse racing's Triple Crown series, was held on June 7, 2003, three weeks after the Preakness Stakes and five weeks after the Kentucky Derby.

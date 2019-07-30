@@ -1,0 +1,1 @@
+Kloster_Gravenhorst_Annette_Kurschus_01.JPG ANNETTE KURSCHUS (born 14 February 1963 in Rotenburg an der Fulda) is a German Praeses, (or in German _Präses_), of the Evangelical Church of Westphalia. She is also Vice-President of the Council of the EKD.

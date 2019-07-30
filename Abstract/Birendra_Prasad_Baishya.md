@@ -1,0 +1,1 @@
+BIRENDRA PRASAD BAISHYA is an Asom Gana Parishad politician from Assam. He was elected in Lok Sabha election in 1996 from Mangaldoi constituency and union minister of Steel and Mines. He was elected to Rajya Sabha in 2008 to 201.[1][2][3][4][5] and again in June 2019.

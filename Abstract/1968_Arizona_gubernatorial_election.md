@@ -1,0 +1,1 @@
+The 1968 ARIZONA GUBERNATORIAL ELECTION took place on November 5, 1968. Incumbent Governor Jack Williams ran for reelection to a second term as governor. Former Governor Samuel Pearson Goddard, who lost to Williams in 1966, again challenged Williams, losing to him in a repeat of the previous election cycle. Williams was sworn into his second term as governor on January 7, 1969.

@@ -1,0 +1,1 @@
+The ALBERT COTTER BRIDGE, also known as the _Tibby Cotter bridge_, is a pedestrian bridge across Anzac Parade, Sydney. It was built to primarily to cater for crowds exiting the Sydney Cricket Ground and Sydney Football Stadium.

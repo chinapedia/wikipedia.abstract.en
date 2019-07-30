@@ -1,0 +1,1 @@
+ALOIS HERBERT DOUBLE HOUSE, also known as the BOHOT FOLK ART HOUSE, is a historic duplex located at St. Joseph, Missouri. It was built in 1851, and is a 1 1/2-story, rectangular, Greek Revival style brick dwelling. It has a low pitched side-gable roof with a hipped dormer. The front facade features folk art masonry appliques added in the latter part of the 20th century.[1]

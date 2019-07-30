@@ -1,0 +1,1 @@
+The BANGLADESH COMPUTER COUNCIL (BCC),[1] is a statutory and autonomous government body located in Dhaka, Bangladesh, that aids in the use of information technology and the formulation of related policy.[2] Bangladesh Computer Council operates a tier III certified national data center in Bangladesh.[3]

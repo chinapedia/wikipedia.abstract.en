@@ -1,0 +1,1 @@
+The 1964 ARIZONA GUBERNATORIAL ELECTION took place on November 3, 1964. Incumbent Governor Paul Fannin decided not to run for reelection to a fourth term as governor, instead deciding to successfully run for the United States Senate when incumbent U.S. Senator Barry Goldwater decided to run for President of the United States.

@@ -1,0 +1,1 @@
+ALFRED MILLER MUNDY (9 January 1809 – 29 March 1877) was an aristocratic English military officer in colonial New South Wales who after leaving the army served in the Legislative Council of South Australia, from 15 June 1843 to 14 May 1849.

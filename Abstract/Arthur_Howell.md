@@ -1,0 +1,1 @@
+ARTHUR GILBERT HOWELL (1894–1949) was a Western Australian public servant and soldier known for his receipt of the Military Medal for excellent services as a dispatch runner at Pozières in the First World War.[1] He lived in Fremantle, Western Australia.

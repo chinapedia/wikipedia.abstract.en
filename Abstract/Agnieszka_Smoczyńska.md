@@ -1,0 +1,1 @@
+AGNIESZKA SMOCZYŃSKA (born 18 May 1978) is a Polish film and television writer and director. She is most known for her debut feature film _The Lure_ which was released in US by the Criterion Collection in 2017.[1] It also includes the short films _Aria Diva (2007)_ and _Viva Maria! (2010)_. She is working on _Deranged,_ a science fiction opera with David Bowie's music.[2]

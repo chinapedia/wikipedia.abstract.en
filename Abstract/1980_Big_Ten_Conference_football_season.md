@@ -1,0 +1,1 @@
+The 1980 BIG TEN CONFERENCE FOOTBALL SEASON was the 85th season of college football played by the member schools of the Big Ten Conference and was a part of the 1980 NCAA Division I-A football season.

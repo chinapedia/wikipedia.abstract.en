@@ -1,0 +1,1 @@
+In 2012[1] the GCC countries established the GCC FUTSAL CUP like the Arabian Gulf Cup, The tournament was founded in 2012, The First Gulf Cup tournament took place in 2013,[2] and was won by the Kuwaiti team

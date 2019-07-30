@@ -1,0 +1,1 @@
+The 2016 BIG TEN FOOTBALL CHAMPIONSHIP GAME was played December 3, 2016 at Lucas Oil Stadium in Indianapolis, Indiana. It was the sixth annual Big Ten Football Championship Game to determine the 2016 champion of the Big Ten Conference.[1]

@@ -1,0 +1,1 @@
+The 1965 BROWNLOW MEDAL was the 38th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Noel Teasdale of the North Melbourne Football Club and Ian Stewart of the St Kilda Football Club both won the medal by polling twenty votes during the 1965 VFL season.[2]

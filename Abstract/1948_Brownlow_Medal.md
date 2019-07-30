@@ -1,0 +1,1 @@
+The 1948 BROWNLOW MEDAL was the 21st year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Bill Morris of the Richmond Football Club won the medal by polling 24 votes during the 1948 VFL season.[2]

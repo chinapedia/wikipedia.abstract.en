@@ -1,0 +1,1 @@
+The ALMEDA ROAD BRIDGE OVER BRAYS BAYOU is a bridge located in Houston, Texas and listed on the National Register of Historic Places.[1] The bridge was designed by J. G. McKenzie and Don Hall Constructors and is one of the last continuous span concrete girder bridges to be designed during the City Beautiful movement.[2][3]

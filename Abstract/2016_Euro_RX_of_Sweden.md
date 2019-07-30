@@ -1,0 +1,1 @@
+The 2016 EURO RX OF SWEDEN is the fifth round of the forty-first season of the FIA European Rallycross Championship. The event was held at the Höljesbanan in the village of Höljes, Värmland as an undercard to the 2016 World RX of Sweden, and was the only event on the 2016 calendar to have all three categories running.[1][2][3]

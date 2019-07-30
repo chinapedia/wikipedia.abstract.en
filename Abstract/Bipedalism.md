@@ -1,0 +1,1 @@
+, the fastest extant biped[1] at [2]]] ]] BIPEDALISM is a form of terrestrial locomotion where an organism moves by means of its two rear limbs or legs. An animal or machine that usually moves in a BIPEDAL manner is known as a BIPED , meaning "two feet" (from the Latin _bis_ for "double" and _pes_ for "foot"). Types of bipedal movement include walking, running, or hopping.

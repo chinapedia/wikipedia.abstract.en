@@ -1,0 +1,1 @@
+BANGLADESH RURAL DEVELOPMENT BOARD, or BRDB,[1] is a government board responsible for the development in rural areas and is largest government program involved in rural development in Bangladesh and is located in Dhaka, Bangladesh.[2][3][4]

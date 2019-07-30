@@ -1,0 +1,1 @@
+Map_of_2016_Kaikoura_earthquake.svg 2016_Kaikoura_Earthquake_ShakeMap.jpg

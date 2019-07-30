@@ -1,0 +1,1 @@
+CALLEE WILKERSON (October 2, 1990) is an American retired professional wrestler, known by her ring names BARBI HAYDEN and ABILENE MAVERICK.[1][2] She is a one-time NWA World Women's Champion. She is best known for her frequent work in ACW, the NWA, and WOW.

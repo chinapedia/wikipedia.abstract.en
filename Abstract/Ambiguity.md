@@ -1,0 +1,1 @@
+'s illustration of the Caterpillar for Lewis Carroll's _Alice's Adventures in Wonderland_ is noted for its ambiguous central figure, whose head can be viewed as being a human male's face with a pointed nose and chin or as being the head end of an actual caterpillar, with the first two right "true" legs visible.[1]]]

@@ -1,0 +1,1 @@
+The BANTING RESEARCH FOUNDATION is a registered charity whose object is to fund health and biomedical research in Canada. It was established to support the ongoing research of Frederick Banting and his associates.

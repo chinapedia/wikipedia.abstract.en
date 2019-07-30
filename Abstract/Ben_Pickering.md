@@ -1,0 +1,1 @@
+BEN PICKERING (born 23 June 1979) is a Welsh film director, producer and writer. He is best known for directing the crime thrillers _The Smoke_ and _Welcome to Curiosity_ and producing the political thriller _Election Night_.

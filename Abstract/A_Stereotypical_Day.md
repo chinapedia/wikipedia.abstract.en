@@ -1,0 +1,1 @@
+"A STEREOTYPICAL DAY" is the second episode of the eighth season of the American sitcom _Modern Family_. It aired on September 28, 2016 on American Broadcasting Company (ABC). The premiere is directed by Ryan Case and written by Stephen Levitan.

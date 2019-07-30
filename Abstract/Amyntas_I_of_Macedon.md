@@ -1,0 +1,1 @@
+AMYNTAS I (Greek: Ἀμύντας Aʹ; 498 BC) was king of the ancient Greek kingdom of Macedon (540 – 512 / 511 BC) and then a vassal of Darius I from 512/511 to his death 498 BC, at the time of Achaemenid Macedonia. He was a son of Alcetas I of Macedon. He married Eurydice and they had a son Alexander.

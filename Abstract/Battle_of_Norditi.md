@@ -1,0 +1,1 @@
+Wikinger.jpg The BATTLE OF NORDITI (), BATTLE OF NORDENDI (_Schlacht von Nordendi_) or BATTLE OF HILGENRIED BAY (_Schlacht an der Hilgenrieder Bucht_) was a battle between a Frisian army under Archbishop Rimbert of Bremen-Hamburg and an army of Danish Vikings in 884, which resulted in the complete withdrawal of the Vikings from East Frisia.

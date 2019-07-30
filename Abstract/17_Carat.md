@@ -1,0 +1,1 @@
+_17 CARAT_ is the debut extended play by South Korean boy group Seventeen. It was released on May 29, 2015 by Pledis Entertainment and distributed by LOEN Entertainment. "Adore U" serves as the lead single for the extended play.

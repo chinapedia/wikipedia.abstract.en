@@ -1,0 +1,1 @@
+AS AYGUESVIVES are a French Rugby league club based in Ayguesvives in the south western French region of Haute-Garonne. They currently compete in the 4th tier National Division 2 league, in the Aquitaine region.

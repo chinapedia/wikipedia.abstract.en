@@ -1,0 +1,1 @@
+_ART LIVES_ (subtitled _RECORDED IN PERFORMANCE AT THE MAIDEN VOYAGE, LOS ANGELES_) is a live album by saxophonist Art Pepper recorded in 1981 at the Maiden Voyage nightclub in Los Angeles and released on the Galaxy label.[1][2][3]

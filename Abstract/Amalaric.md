@@ -1,0 +1,1 @@
+AMALARIC (Gothic: *Amalareiks[1]), or in Spanish and Portuguese, _Amalarico_, (502–531) was king of the Visigoths from 511 until his death in battle in 531. He was a son of king Alaric II and his first wife Theodegotha, daughter of Theoderic the Great.

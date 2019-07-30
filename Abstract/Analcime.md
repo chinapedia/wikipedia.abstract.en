@@ -1,0 +1,1 @@
+ANALCIME or ANALCITE (from the Greek _analkimos_ - "weak") is a white, gray, or colorless tectosilicate mineral. Analcime consists of hydrated sodium aluminium silicate in cubic crystalline form. Its chemical formula is NaAlSi₂O₆·H₂O. Minor amounts of potassium and calcium substitute for sodium. A silver-bearing synthetic variety also exists (Ag-analcite).

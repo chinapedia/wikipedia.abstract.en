@@ -1,0 +1,1 @@
+The 1951 BROWNLOW MEDAL was the 24th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Bernie Smith of the Geelong Football Club won the medal by polling twenty-three votes during the 1951 VFL season.[2]

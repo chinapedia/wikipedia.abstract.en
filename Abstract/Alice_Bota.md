@@ -1,0 +1,1 @@
+ALICE BOTA (born 15 December 1979) is a German journalist, presently working for the weekly _Die Zeit_, and a book author. Born in Poland, she studied in both Germany and Poland and focuses on topics of Eastern Europe.

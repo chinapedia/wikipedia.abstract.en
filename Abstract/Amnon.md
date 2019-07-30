@@ -1,0 +1,1 @@
+AMNON (, "faithful", born circa 1000 BCE) was the oldest son of King David and his third wife, Ahinoam of Jezreel.[1] He was born in Hebron during his father's reign in Judah.[2] He was the heir apparent to the throne of Israel until he was assassinated by his half-brother Absalom to avenge the rape of their sister Tamar.[3]

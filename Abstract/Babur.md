@@ -1,0 +1,1 @@
+Babar}} BABUR (;[1] 14 February 148326 December 1530), born Zahīr ud-Dīn Muhammad, was the founder and first Emperor of the Mughal dynasty in South Asia. He was a direct descendant of Emperor Timur (Tamerlane) from what is now Uzbekistan.[2][3]

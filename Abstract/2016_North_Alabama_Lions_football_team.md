@@ -1,0 +1,1 @@
+The 2016 NORTH ALABAMA LIONS FOOTBALL TEAM represented the University of North Alabama during the 2016 NCAA Division II football season. They were led by head coach Bobby Wallace, who was in his 15th season at North Alabama. The Lions played their home games at Braly Municipal Stadium and were members of the Gulf South Conference.

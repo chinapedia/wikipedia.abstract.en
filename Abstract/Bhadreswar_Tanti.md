@@ -1,0 +1,1 @@
+BHADRESWAR TANTI is an Indian politician. He was elected to the Members of Parliament the lower house of Indian state from Kaliabor Lok Sabha constituency in Assam in 1984. He was a member of the Asom Gana Parishad. Later he joined Bharat Vikas Morcha.[1][2][3]

@@ -1,0 +1,1 @@
+ANTONIN LEONARD MAURICE GHISLAIN, KNIGHT DE SELLIERS DE MORANVILLE (Saint-Josse-ten-Noode 1852 – Ixelles 1945) was a Belgian General.

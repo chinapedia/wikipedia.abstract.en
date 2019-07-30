@@ -1,0 +1,1 @@
+ALEX WOOTTON (born 7 July 1994) is an Irish rugby union player for Munster in the Pro14 and European Rugby Champions Cup. He plays primarily as a wing, but can also play as a fullback, and represents Garryowen in the All-Ireland League.

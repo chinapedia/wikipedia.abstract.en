@@ -1,0 +1,1 @@
+Indirect PRESIDENTIAL ELECTIONS were held in Spain on April 26 and May 10, 1936. In the first stage, 473 electors were elected; in the second, the 473 electors convened in an Electoral College with the 473 members of the Congress of Deputies in order to elect the President of the Spanish Republic, as required by Article 68 of the Spanish Constitution of 1931.

@@ -1,0 +1,1 @@
+The 1920 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 2, 1920. Republican Party of Minnesota candidate Louis L. Collins defeated Independent challenger George H. Mallon and Minnesota Democratic Party candidate James P. McDonnell.

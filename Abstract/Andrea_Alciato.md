@@ -1,0 +1,1 @@
+ANDREA ALCIATO (8 May 149212 January 1550),[1] commonly known as ALCIATI (ANDREAS ALCIATUS), was an Italian jurist and writer.[2] He is regarded as the founder of the French school of legal humanists.

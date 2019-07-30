@@ -1,0 +1,1 @@
+An AIRLINE is a company that provides air transport services for traveling passengers and freight. Airlines utilize aircraft to supply these services, and may form partnerships or alliances with other airlines for codeshare agreements. Generally, airline companies are recognized with an air operating certificate or license issued by a governmental aviation body.

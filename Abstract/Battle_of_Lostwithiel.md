@@ -1,0 +1,1 @@
+The BATTLES OF LOSTWITHIEL or LOSTWITHIEL CAMPAIGN, took place near Lostwithiel and Fowey in Cornwall during the First English Civil War in 1644. They resulted in victory for the Royalists commanded by King Charles over the Parliamentarians commanded by the Earl of Essex.

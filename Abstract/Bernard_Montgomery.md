@@ -1,0 +1,1 @@
+Field Marshal BERNARD LAW MONTGOMERY, 1ST VISCOUNT MONTGOMERY OF ALAMEIN, (; 17 November 1887 – 24 March 1976), nicknamed "MONTY" and "THE SPARTAN GENERAL",[1] was a senior British Army officer who fought in both the First World War and the Second World War.

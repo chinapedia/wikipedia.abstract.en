@@ -1,0 +1,1 @@
+GENERAL ELECTIONS were held in the Cayman Islands on 24 May 2017.[1] They were the first elections held after electoral reforms approved in a 2012 referendum, which introduced single member constituencies.

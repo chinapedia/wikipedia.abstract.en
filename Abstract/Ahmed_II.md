@@ -1,0 +1,1 @@
+AHMED II (Ottoman Turkish: احمد ثانى _Aḥmed-i sānī_) (25 February 1643 – 6 February 1695) was the Sultan of the Ottoman Empire from 1691 to 1695. Ahmed II was born at Topkapı Palace, Constantinople, the son of Sultan Ibrahim (1640–48) by Muazzez Sultan, and succeeded his brother Suleiman II (1687–91) in 1691.

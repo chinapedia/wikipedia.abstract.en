@@ -1,0 +1,1 @@
+Auguste_Migette-Auguste_Hussenot_mg_9494.jpg CHARLES JOSEPH AUGUSTE MIGETTE (1802 – 1884) was a French artist. A leader of the Metz School style of painting, he was a painter, stage designer, and art teacher.[1]

@@ -1,0 +1,1 @@
+ABACÁ ( ; ), binomial name _MUSA TEXTILIS_, is a species of banana native to the Philippines,[1] grown as a commercial crop in the Philippines, Ecuador, and Costa Rica. The plant, also known as MANILA HEMP,[2] has great economic importance, being harvested for its fiber, also called Manila hemp, extracted from the leaf-stems.[3]

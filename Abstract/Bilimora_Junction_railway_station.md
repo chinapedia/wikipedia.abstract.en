@@ -1,0 +1,1 @@
+BILIMORA JUNCTION RAILWAY STATION is a small railway station in Navsari district, Gujarat. Its code is BIM. It serves the city of Bilimora. The station consists of five platforms. The platforms are not well sheltered. It lacks many facilities including water and sanitation. Passenger, Express and Superfast trains halt here.[1][2][3]

@@ -1,0 +1,1 @@
+ASCEND FEDERAL CREDIT UNION (or ASCEND; formerly AEDC FEDERAL CREDIT UNION) is a federally chartered credit union based in Tullahoma, Tennessee. Ascend is regulated and insured through the National Credit Union Administration (NCUA). Ascend has over 170,000 members and $1.9 billion USD in assets.[1]

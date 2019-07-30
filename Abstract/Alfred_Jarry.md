@@ -1,0 +1,1 @@
+ALFRED JARRY (; 8 September 1873 – 1 November 1907) was a French symbolist writer who is best known for his play _Ubu Roi_ (1896),[1] a pataphysical work which depicts the bourgeoisie as the super-mediocre. He coined the term and philosophical concept of pataphysics, which uses absurd irony to portray symbolic truths (and playfully vice versa).[2]

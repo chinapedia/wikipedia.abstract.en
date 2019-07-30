@@ -1,0 +1,1 @@
+APPYSTORE is a comprehensive learning videos and games app for kids up to the age of 8 years. The platform developed by Mauj Mobile, a mobile value-added services (VAS) provider curates content to help in child development by leveraging technology.[1] Mauj is funded by Sequoia Capital, Westbridge Capital and Intel Capital.[2]

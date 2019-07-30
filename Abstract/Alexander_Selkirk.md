@@ -1,0 +1,1 @@
+ALEXANDER SELKIRK (167613 December 1721) was a Scottish privateer and Royal Navy officer who spent four years and four months as a castaway (1704–1709) after being marooned by his captain on an uninhabited island in the South Pacific Ocean. He survived that ordeal, but succumbed to tropical illness a dozen years later while serving aboard off West Africa.

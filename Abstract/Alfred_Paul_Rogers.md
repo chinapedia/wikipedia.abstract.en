@@ -1,0 +1,1 @@
+ALFRED PAUL ROGERS (July 5, 1873 – April 6, 1959) was an American Orthodontist who was considered as the Father of the Myofunctional Therapy in Orthodontics. He was the President of American Association of Orthodontists and American Academy of Dental Sciences.[1] He was also instrumental in forming the American Board of Orthodontics.[2]

@@ -1,0 +1,1 @@
+ALDOUS LEONARD HUXLEY (26 July 1894 – 22 November 1963) was an English writer and philosopher.[1][2][3][4] He authored nearly fifty books[5][6]—both novels and non-fiction works—as well as wide-ranging essays, narratives, and poems.

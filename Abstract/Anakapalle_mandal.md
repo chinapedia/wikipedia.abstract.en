@@ -1,0 +1,1 @@
+ANAKAPALLE mandal is one of the 46 mandals in located in Visakhapatnam district of the state of Andhra Pradesh, India. It is administered under Anakapalle revenue division and its headquarters are located at Anakapalle.[1] It is bounded by Kasimkota Mandal towards west, Munagapaka Mandal towards South, Paravada Mandal towards East, Achutapuram Mandal towards South .

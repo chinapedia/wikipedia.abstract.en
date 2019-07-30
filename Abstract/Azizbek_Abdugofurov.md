@@ -1,0 +1,1 @@
+AZIZBEK ABDUGOFUROV (born 6 March 1992, Qo‘rg‘ontepa, Uzbekistan) is an Uzbekistani professional boxer. He has held the WBC Silver super middleweight title since 2018, and the ABCO middleweight title between 2016–2017. As an amateur, Abdugofurov represented Uzbekistan at the 2013 AIBA World Boxing Championships.

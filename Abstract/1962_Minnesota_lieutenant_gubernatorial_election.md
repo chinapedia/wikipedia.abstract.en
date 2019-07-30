@@ -1,0 +1,1 @@
+The 1962 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 6, 1962. Minnesota Democratic-Farmer-Labor Party candidate Sandy Keith defeated Republican Party of Minnesota challenger C. Donald Peterson.

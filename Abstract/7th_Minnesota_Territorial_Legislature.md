@@ -1,0 +1,1 @@
+The SEVENTH MINNESOTA TERRITORIAL LEGISLATURE first convened on January 2, 1856. The 15 members of the Minnesota Territorial Council and the 38 members of the Minnesota House of Representatives were elected during the General Election of October 9, 1855.

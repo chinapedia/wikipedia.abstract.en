@@ -1,0 +1,1 @@
+DEACON AKIE DAGOGO THEODORE FUBARA is a banker, businessman, politician and philanthropist from Opobo–Nkoro in Rivers State, Nigeria. A member of the Rivers State People's Democratic Party, he served as the Commissioner of Transport in the First Wike Executive Council.[1]

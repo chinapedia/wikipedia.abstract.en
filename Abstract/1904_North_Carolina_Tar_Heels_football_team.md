@@ -1,0 +1,1 @@
+The 1904 NORTH CAROLINA TAR HEELS FOOTBALL TEAM represented the University of North Carolina at Chapel Hill in the 1904 college football season. The team captain for the 1904 season was R. S. Stewart.[1]

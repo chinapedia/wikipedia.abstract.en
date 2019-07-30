@@ -1,0 +1,1 @@
+The ALIW THEATER is an events venue in Pasay, Metro Manila, Philippines. It is located in the Cultural Center of the Philippines Complex, adjacent to the Star City amusement park and the Manila Broadcasting Company.[1]

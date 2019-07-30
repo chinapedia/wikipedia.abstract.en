@@ -1,0 +1,1 @@
+PROPOSITION 62 was a California ballot proposition on the November 8, 2016, ballot that would have repealed the death penalty and replaced it with life imprisonment and forced labor without possibility of parole. It would have applied retroactively to existing death sentences and increased the portion of life inmates' wages that may be applied to victim restitution.[1]

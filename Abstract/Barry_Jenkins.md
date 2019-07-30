@@ -1,0 +1,1 @@
+BARRY JENKINS (born November 19, 1979) is an American film director, producer, and screenwriter. After making his filmmaking debut with the short film _My Josephine_, Jenkins garnered positive notices for the independent feature _Medicine for Melancholy_ (2008), receiving an Independent Spirit Award for Best First Feature among other award nominations.

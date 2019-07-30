@@ -1,0 +1,1 @@
+In mathematics, more specifically in functional analysis, a BANACH SPACE (pronounced ) is a complete normed vector space. Thus, a Banach space is a vector space with a metric that allows the computation of vector length and distance between vectors and is complete in the sense that a Cauchy sequence of vectors always converges to a well defined limit that is within the space.

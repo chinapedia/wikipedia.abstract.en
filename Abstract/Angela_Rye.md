@@ -1,0 +1,1 @@
+ANGELA RYE (born October 26, 1979) is an American attorney and the Principal and CEO of IMPACT Strategies, a political advocacy firm in Washington, DC.[1] She is a liberal political commentator on CNN and an NPR political analyst.[2]

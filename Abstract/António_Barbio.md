@@ -1,0 +1,1 @@
+ANTONIO BARBIO (born 16 December 1993)[1] is a Portuguese cyclist, representing Portugal at international competitions. He competed at the 2016 UEC European Track Championships in the scratch event.[2]

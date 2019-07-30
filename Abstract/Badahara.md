@@ -1,0 +1,1 @@
+BADAHARA (BADHAHARA, BADHARA) (बडहरा) is the name of a village in Dang, Province No. 5, Nepal. It is now located in Gadhawa Rural Municipality ward number 1,[1] but before the consolidation of four VDCs into Gadhawa Rural Municipality in 2015, it was part of the Gobardiya, village development committee (VDC), ward 2.

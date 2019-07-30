@@ -1,0 +1,1 @@
+ALAN PLAVIN (born 2 June 1993) is a Lithuanian male badminton player.[1][2] He won the men's singles silver medal at the 2013 Maccabiah Games. In the final, he was defeated by Misha Zilberman of Israel.[3]

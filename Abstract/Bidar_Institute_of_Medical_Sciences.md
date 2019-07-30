@@ -1,0 +1,1 @@
+Brims_teaching_hospital.jpg BRIMS_UG_BOYS_HOSTEL.png BIDAR INSTITUTE OF MEDICAL SCIENCES, and abbreviated as the BRIMS is a medical-college in Bidar, Karnataka with a status of autonomous institute under Government of Karnataka. College is recognised by medical council of India and affiliated to Rajiv Gandhi University of Health Sciences Karnataka.[1][2]

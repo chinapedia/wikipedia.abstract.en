@@ -1,0 +1,1 @@
+The 2016 CAF CONFEDERATION CUP FINAL was the final of the 2016 CAF Confederation Cup, the 13th edition of the CAF Confederation Cup, Africa's secondary club football competition organized by the Confederation of African Football (CAF).

@@ -1,0 +1,1 @@
+ANN CRADY WEISS (née Crady) is an American entrepreneur, venture capitalist and advocate for workplace diversity and paid family leave.[1][2] Weiss is on her second start-up, HatchBaby, with her co-founder and husband, Dave Weiss.[3][4] She is a former Yahoo! executive who began her career as a corporate attorney for Wilson Sonsini Goodrich & Rosati.[5]

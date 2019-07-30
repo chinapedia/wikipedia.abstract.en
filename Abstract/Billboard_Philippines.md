@@ -1,0 +1,1 @@
+_BILLBOARD PHILIPPINES_ (also known as _BILLBOARDPH_) was a music media brand owned by Algo-Rhythm Communications in partnership with _Billboard_. Its creation was announced on June 2016[1][2] and it was officially launched on September 15, 2016.[3][4] It provides music news, print and mobile publishing, music conferences and licensed shows for radio, internet and television.

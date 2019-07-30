@@ -1,0 +1,1 @@
+_BANACEK_ is an American detective TV series starring George Peppard that aired on the NBC network from 1972 to 1974. The series was part of the rotating _NBC Wednesday Mystery Movie_ anthology. It alternated in its time slot with several other shows, but was the only one of them to last beyond its first season.

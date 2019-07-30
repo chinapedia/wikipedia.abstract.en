@@ -1,0 +1,1 @@
+The 2016 INTERNAZIONALI DI TENNIS CASTEL DEL MONTE was a professional tennis tournament played on indoor carpet courts. It was the fourth edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Andria, Italy between November 21 and November 27, 2016.

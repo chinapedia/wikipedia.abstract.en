@@ -1,0 +1,1 @@
+The 2017 JAPANESE SUPER FORMULA CHAMPIONSHIP is the 31st season of premier Japanese open-wheel motor racing, and the fifth under the moniker of Super Formula. Yuji Kunimoto is the defending series champion.[1]

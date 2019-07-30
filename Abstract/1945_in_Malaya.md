@@ -1,0 +1,1 @@
+This article lists important figures and events in the public affairs of BRITISH MALAYA DURING THE YEAR 1945, together with births and deaths of prominent Malayans. Malaya remained under Japanese occupation until September, when British Military Administration was installed.

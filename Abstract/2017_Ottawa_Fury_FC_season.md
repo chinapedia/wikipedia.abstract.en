@@ -1,0 +1,1 @@
+| league topscorer = Steevan Dos Santos (10) | season topscorer = Steevan Dos Santos (12) | pattern_la1 = _blackborder | pattern_b1 = _blackcollar | pattern_ra1 = _blackborder | pattern_sh1 = _blackbottom | pattern_so1 = _top_on_white | leftarm1 = C4112F | body1 = C4112F | rightarm1 = C4112F | shorts1 = C4112F | socks1 = C4112F

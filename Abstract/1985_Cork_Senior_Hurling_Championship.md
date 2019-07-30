@@ -1,0 +1,1 @@
+The 1985 CORK SENIOR HURLING CHAMPIONSHIP was the 97th staging of the Cork Senior Hurling Championship since its establishment by the Cork County Board in 1887. The championship began on 4 May 1985 and ended on 29 September 1985.

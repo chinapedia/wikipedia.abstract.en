@@ -1,0 +1,1 @@
+_AMI KOTHAY PABO TARE_ () is a Bengali song whose lyrics and tune were written by Baul singer Gagan Harkara. After the tune of music of this song Rabindranath Tagore composed Amar Shonar Bangla, the national anthem of Bangladesh.[1][2][3][4][5]

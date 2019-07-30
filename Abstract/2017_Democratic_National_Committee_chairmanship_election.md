@@ -1,0 +1,1 @@
+The 2017 DEMOCRATIC NATIONAL COMMITTEE CHAIRMANSHIP ELECTION was held on February 25, 2017 at the Westin Peachtree Plaza Hotel in Atlanta to determine the next chairperson of the Democratic National Committee (DNC).[1][2][3] It was the first contested DNC chair election since 1985.

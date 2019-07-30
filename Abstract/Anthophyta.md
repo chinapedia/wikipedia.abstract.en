@@ -1,0 +1,1 @@
+The ANTHOPHYTES were thought to be a clade comprising plants bearing flower-like structures. The group contained the angiosperms - the extant flowering plants, such as roses and grasses - as well as the Gnetales and the extinct Bennettitales.[1]

@@ -1,0 +1,1 @@
+The 1954 BROWNLOW MEDAL was the 27th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Roy Wright of the Richmond Football Club won the medal by polling twenty-nine votes during the 1954 VFL season.[2]

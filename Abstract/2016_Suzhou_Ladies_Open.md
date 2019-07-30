@@ -1,0 +1,1 @@
+The 2016 SUZHOU LADIES OPEN was a professional tennis tournament played on outdoor hard courts. It was the 5th edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $50,000 in prize money. It took place in Suzhou, China, on 17–23 October 2016.

@@ -1,0 +1,1 @@
+The 1946 PACIFICATION OF VILLAGES BY _PAS_ NZW was the 1946 killing of 79 Polish nationals of Belarusian ethnicity in the area of Bielsk County, north-eastern Poland, in the aftermath of World War II committed by members of Polish Extraordinary Special Actions unit of the National Military Union (Polish: Pogotowie Akcji Specjalnej Narodowego Zjednoczenia Wojskowego (PAS NZW)).

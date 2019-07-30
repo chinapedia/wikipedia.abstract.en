@@ -1,0 +1,1 @@
+ATLE SELBERG (14 June 1917 – 6 August 2007) was a Norwegian mathematician known for his work in analytic number theory, and in the theory of automorphic forms, in particular bringing them into relation with spectral theory. He was awarded the Fields Medal in 1950.

@@ -1,0 +1,1 @@
+BANGLADESH LAW COMMISSION is an independent body, set up through an act passed in the national parliament that reviews laws and recommends reforms when necessary in Bangladesh and is located in Dhaka, Bangladesh.[1][2] Former chief justice A. B. M. Khairul Haque is the present chairman of the commission.[3]

@@ -1,0 +1,1 @@
+The 34TH CURTIS CUP MATCH was played on July 29 and 30, 2006 at Bandon Dunes Golf Resort near Bandon, Oregon. The United States won 11½ to 6½.[1] This was the last two-day Curtis Cup. It expanded to three days from 2008.

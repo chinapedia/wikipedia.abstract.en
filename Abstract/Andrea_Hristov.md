@@ -1,0 +1,1 @@
+ANDREA HRISTOV (Bulgarian: Андреа Христов; born 1 March 1999) is a Bulgarian professional footballer who plays as a defender for Slavia Sofia.[1] He has a twin brother Petko, who plays for Fiorentina.

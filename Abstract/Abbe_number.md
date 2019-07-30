@@ -1,0 +1,1 @@
+In optics and lens design, the ABBE NUMBER, also known as the V-NUMBER or CONSTRINGENCE of a transparent material, is a measure of the material's dispersion (variation of refractive index versus wavelength), with high values of _V_ indicating low dispersion. It is named after Ernst Abbe (1840–1905), the German physicist who defined it.

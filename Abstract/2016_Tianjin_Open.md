@@ -1,0 +1,1 @@
+The 2016 TIANJIN OPEN was a women's professional tennis tournament played on hard courts. It was 3rd edition of the tournament, and part of the 2016 WTA Tour. It took place in Tianjin, China between 10 and 16 October 2016.

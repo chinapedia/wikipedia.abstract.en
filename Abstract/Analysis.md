@@ -1,0 +1,1 @@
+ANALYSIS is the process of breaking a complex topic or substance into smaller parts in order to gain a better understanding of it. The technique has been applied in the study of mathematics and logic since before Aristotle (384–322 B.C.), though _analysis_ as a formal concept is a relatively recent development.[1]

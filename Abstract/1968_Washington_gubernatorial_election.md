@@ -1,0 +1,1 @@
+The State of WASHINGTON holds its GUBERNATORIAL ELECTION every fourth year, concurrent with the United States presidential election. This election took place on November 5, 1968, and resulted in the re-election of Republican incumbent Daniel J. Evans over state Attorney General John J. O'Connell.[1]

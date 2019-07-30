@@ -1,0 +1,1 @@
+or ASAKURA CHOSO MUSEUM is an art museum in Taitō Ward in Tokyo, Japan dedicated to the life and work of Japanese sculptor Fumio Asakura (1883–1964), opened in 1967.[1] The museum is in the older Yanaka neighborhood of Taito, Tokyo, and preserves Asakura's home and his sculpture studio.

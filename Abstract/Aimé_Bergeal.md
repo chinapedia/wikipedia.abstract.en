@@ -1,0 +1,1 @@
+AIMÉ BERGEAL (1912-1973) was a French politician. He served as a member of the French Senate from 1967 to 1973, representing Seine-et-Oise.[1] The _Stade Aimé Bergeal_ in Mantes-la-Ville was named in his memory.[2]

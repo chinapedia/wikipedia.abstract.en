@@ -1,0 +1,1 @@
+ANDREY ANDREYEVICH MARKOV (1856 – 1922) was a Russian mathematician best known for his work on stochastic processes. A primary subject of his research later became known as Markov chains and Markov processes.[1]

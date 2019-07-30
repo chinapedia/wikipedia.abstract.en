@@ -1,0 +1,1 @@
+The _ABERDEEN BESTIARY_ (Aberdeen University Library, Univ Lib. MS 24) is a 12th-century English illuminated manuscript bestiary that was first listed in 1542 in the inventory of the Old Royal Library at the Palace of Westminster.[1]

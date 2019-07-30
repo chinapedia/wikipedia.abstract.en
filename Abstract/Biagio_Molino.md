@@ -1,0 +1,1 @@
+BIAGIO MOLINO or BIAGGIO MOLINA or BIAGEO DE MOLINA (1380–1447) was a Roman Catholic prelate who served as Titular Patriarch of Jerusalem (1434–1447),[1] Patriarch of Grado (1427–1434),[2] Archbishop of Zadar (1420–1427),[3] and Bishop of Pula (1410–1420).[4]

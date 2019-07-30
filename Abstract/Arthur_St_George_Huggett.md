@@ -1,0 +1,1 @@
+ARTHUR ST GEORGE JOSEPH MCCARTHY HUGGETT FRS FRSE (1897-1968), also known as HUGO HUGGETT, was a British physiologist.

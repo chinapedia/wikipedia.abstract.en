@@ -1,0 +1,1 @@
+ANATOLY MOISEEV () is a Russian Lightweight kickboxer. He was the 71 kg-WAKO Russian and world champion, winning both titles in 2011,[1] he is also currently ranked number two in the 71 kg-WAKO Low Kick category.[2]

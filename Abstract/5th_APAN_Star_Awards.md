@@ -1,0 +1,1 @@
+The 5TH APAN STAR AWARDS () is an awards ceremony for excellence in television in South Korea. It was held at MBC Sangam Culture Plaza on October 2, 2016 and hosted by Shin Dong-yup and Honey Lee. The nominees were chosen from 63 Korean dramas that aired from September 1, 2015 to September 30, 2016.[1][2][3]

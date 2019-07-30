@@ -1,0 +1,1 @@
+]] ARGO NAVIS (the Ship Argo), or simply ARGO, was a large constellation in the southern sky that has since been divided into the three constellations of Carina, Puppis and Vela. The genitive was "Argus Navis", abbreviated "Arg". Flamsteed and other early modern astronomers called the constellation just NAVIS (the Ship), genitive "Navis", abbreviated "Nav".

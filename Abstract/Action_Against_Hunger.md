@@ -1,0 +1,1 @@
+ACTION AGAINST HUNGER (or Action Contre La Faim (ACF) in French) is a global humanitarian organization which originated in France and is committed to ending world hunger. The organization helps malnourished children and provides communities with access to safe water and sustainable solutions to hunger.

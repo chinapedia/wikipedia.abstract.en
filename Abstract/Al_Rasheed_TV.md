@@ -1,0 +1,1 @@
+AL RASHEED SATELLITE CHANNEL () is an Iraq-based satellite television channel broadcasting from Baghdad where its headquarters is located.Al Rasheed programming includes: news programs, drama and comedy shows.[1] The channel is owned by Saad Asem Al-Janabi the leader of the Iraqi Republican Rally.[2]

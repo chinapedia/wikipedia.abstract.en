@@ -1,0 +1,1 @@
+Adam_Levin_Søbøtker.jpg in 1792]] ADAM LEVIN SØBØTKER (3 August 1753 – 2 February 1823) was a Danish estate owner, _regeringsråd_ and General War Commissioner in the Danish West Indies. He was for a while the largest landowner on the islands and was the father of Johannes Søbøtker.

@@ -1,0 +1,1 @@
+is a mounded tomb located in the Kōdachi area of Yao, Osaka, in Japan.[1] It is the largest scallop-shaped burial mound, or _kofun_. It is a round burial mound 22.5 meters in diameter and 9 meters tall. It was constructed in the late sixth century, during the Asuka period.

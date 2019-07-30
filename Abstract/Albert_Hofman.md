@@ -1,0 +1,1 @@
+ALBERT HOFMAN is a Dutch clinical epidemiologist. He is currently the Stephen B. Kay Family Professor of Public Health and the chair of the Department of Epidemiology at the Harvard T.H. Chan School of Public Health.[1][2]

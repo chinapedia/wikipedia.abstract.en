@@ -1,0 +1,1 @@
+ALISA BORISOVNA EFIMOVA (, born 8 June 1999) is a Russian pair skater. With her skating partner, Alexander Korovin, she is the 2018 Skate America silver medalist, 2018 CS Nebelhorn Trophy and 2018 CS Golden Spin of Zagreb champion and a two-time CS Tallinn Trophy silver medalist (2016, 2017).

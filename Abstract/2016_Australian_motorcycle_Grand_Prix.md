@@ -1,0 +1,1 @@
+The 2016 AUSTRALIAN MOTORCYCLE GRAND PRIX was the sixteenth round of the 2016 Grand Prix motorcycle racing season. It was held at the Phillip Island Grand Prix Circuit in Phillip Island on 23 October 2016.

@@ -1,0 +1,1 @@
+The 2017 J3 LEAGUE (referred to as the MEIJI YASUDA J3 LEAGUE for sponsorship reasons) was the 4th season of the J3 League under its current name. The fixtures were announced on 26 January 2017.[1] The 2017 season started on 11 March, then ended on 3 December.

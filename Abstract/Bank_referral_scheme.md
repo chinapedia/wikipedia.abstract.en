@@ -1,0 +1,1 @@
+The UK government-mandated BANK REFERRAL SCHEME (Designated Platforms) was created by the Small Business, Enterprise and Employment Act 2015[1] to allow the UK government to track businesses and their requests for business finance.[2] The scheme was launched in November 2016 after more than two years of delays.[3]

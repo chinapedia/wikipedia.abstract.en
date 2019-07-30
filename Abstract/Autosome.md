@@ -1,0 +1,1 @@
+An AUTOSOME is a chromosome that is not an allosome (a sex chromosome).[1] The members of an autosome pair in a diploid cell have the same morphology, unlike those in allosome pairs which may have different structures. The DNA in autosomes is collectively known as ATDNA or AUDNA.[2]

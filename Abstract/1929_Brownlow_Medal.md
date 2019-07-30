@@ -1,0 +1,1 @@
+The 1929 BROWNLOW MEDAL was the sixth year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Albert Collier of the Collingwood Football Club won the medal by polling six votes during the 1929 VFL season.[2]

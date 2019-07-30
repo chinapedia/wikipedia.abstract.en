@@ -1,0 +1,1 @@
+ALAN GORDON FINLAY (1890–1959) was a British engineer and inventor of Australian descent. He is one of the inventors along with Edward Filene of the early simultaneous interpretation system at IBM,[1] used before World War II at the League of Nations.[2][3][4]

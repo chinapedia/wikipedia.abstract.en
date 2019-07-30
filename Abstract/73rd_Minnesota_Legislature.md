@@ -1,0 +1,1 @@
+The SEVENTY-THIRD MINNESOTA LEGISLATURE first convened on January 4, 1983. The 67 members of the Minnesota Senate and the 134 members of the Minnesota House of Representatives were elected during the General Election of November 2, 1982.

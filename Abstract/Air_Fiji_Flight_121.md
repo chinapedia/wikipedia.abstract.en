@@ -1,0 +1,1 @@
+AIR FIJI FLIGHT 121 (PC121/FAJ121) was a scheduled domestic passenger flight from Nausori International Airport in Fiji's capital Suva to Nadi International Airport in Nadi, operated by an Embraer EMB 110 Bandeirante. On 24 July 1999, the Bandierante carrying 17 people consisting of 15 passengers and 2 crews crashed into a mountain near Delailasakau while en route to Nadi.

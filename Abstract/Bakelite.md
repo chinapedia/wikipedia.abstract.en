@@ -1,0 +1,1 @@
+BAKELITE ( ; sometimes spelled BAEKELITE) or POLYOXYBENZYLMETHYLENGLYCOLANHYDRIDE was the first plastic made from synthetic components. It is a thermosetting phenol formaldehyde resin, formed from a condensation reaction of phenol with formaldehyde. It was developed by the Belgian-American chemist Leo Baekeland in Yonkers, New York, in 1907.

@@ -1,0 +1,1 @@
+ALDER is the common name of a genus of flowering plants (_ALNUS_) belonging to the birch family Betulaceae. The genus comprises about 35[1] species of monoecious trees and shrubs, a few reaching a large size, distributed throughout the north temperate zone with a few species extending into Central America, as well as the northern and southern Andes.[2]

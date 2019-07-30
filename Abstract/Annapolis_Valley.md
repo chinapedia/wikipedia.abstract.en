@@ -1,0 +1,1 @@
+The ANNAPOLIS VALLEY is a valley and region in the Canadian province of Nova Scotia. It is located in the western part of the Nova Scotia peninsula, formed by a trough between two parallel mountain ranges along the shore of the Bay of Fundy. Statistics Canada defines the Annapolis Valley as an economic region, composed of Annapolis County, Kings County, and Hants County.

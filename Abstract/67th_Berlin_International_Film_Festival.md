@@ -1,0 +1,1 @@
+The 67th annual BERLIN INTERNATIONAL FILM FESTIVAL was held from 9 to 18 February 2017 with Dutch filmmaker Paul Verhoeven as President of the Jury.[1][2] _Django_, directed by Etienne Comar, opened the festival.[3] The Golden Bear was awarded to the Hungarian film _On Body and Soul_ directed by Ildikó Enyedi, which also served as closing film of the festival.[4]

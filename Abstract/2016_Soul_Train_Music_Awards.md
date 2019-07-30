@@ -1,0 +1,1 @@
+The 2016 SOUL TRAIN MUSIC AWARDS was held at the Orleans Arena in Las Vegas, Nevada, on November 6, 2016. It was later aired on Centric and BET on November 27, 2016. The ceremony, hosted by Erykah Badu for the second year in a row, honored artists in 12 different categories.[1]

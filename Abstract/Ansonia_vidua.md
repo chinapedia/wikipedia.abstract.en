@@ -1,0 +1,1 @@
+_ANSONIA VIDUA_ is a species of toads in the family Bufonidae. It is endemic to Sarawak, Borneo.[1][2] Common names MURUD BLACK SLENDER TOAD[3] and WIDOW SLENDER TOAD have been coined for this little known species. The latter name refers to the black colouration of this species and the fact that no male individuals are known.[4]

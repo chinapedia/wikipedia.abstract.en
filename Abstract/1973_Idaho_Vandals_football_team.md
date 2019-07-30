@@ -1,0 +1,1 @@
+The 1973 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1973 NCAA Division I football season. The Vandals were led by fourth-year head coach Don Robbins and were members of the Big Sky Conference, then in Division II. They played their home games at new Idaho Stadium, an unlit outdoor facility on campus in Moscow, Idaho.

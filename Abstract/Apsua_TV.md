@@ -1,0 +1,1 @@
+APSUA TV (ABKHAZIAN TELEVISION) (in Abkhaz АҦСУА ТЕЛЕХӘАҦШРА) is the state-owned television channel in Abkhazia. It broadcasts in Abkhaz and Russian languages. Its headquarters are located in Sukhumi.

@@ -1,0 +1,1 @@
+THE CZECH SOCIAL DEMOCRATIC PARTY (ČSSD) LEADERSHIP ELECTION OF 2001 was held on 7 April 2001. Prime Minister of the Czech Republic and incumbent leader Miloš Zeman decided to not seek re-election. Vladimír Špidla was elected his successor. Špidla was the only candidate.[1][2]

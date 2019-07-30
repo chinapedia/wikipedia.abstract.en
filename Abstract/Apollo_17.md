@@ -1,0 +1,1 @@
+APOLLO 17 (December 7-19, 1972) was the final mission of NASA's Apollo program; it remains the most recent time humans have travelled beyond low Earth orbit.[1][2] Its crew consisted of Commander Eugene Cernan, Lunar Module Pilot Harrison Schmitt, and Command Module Pilot Ronald Evans, and it carried a biological experiment containing five mice.

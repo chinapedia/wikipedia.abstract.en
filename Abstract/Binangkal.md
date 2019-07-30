@@ -1,0 +1,1 @@
+_BINANGKAL_ is a type of doughnut from the islands of Visayas and Mindanao in the Philippines. It is made from deep fried dense dough balls coated with sesame seeds.[1][2][3] It is usually eaten with hot chocolate or coffee.[4]

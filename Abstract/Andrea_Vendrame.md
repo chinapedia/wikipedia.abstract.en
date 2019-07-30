@@ -1,0 +1,1 @@
+ANDREA VENDRAME (born 20 July 1994 in Conegliano) is an Italian cyclist, who currently rides for UCI Professional Continental team .[1] In May 2018, he was named in the startlist for the Giro d'Italia.[2]

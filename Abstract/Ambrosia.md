@@ -1,0 +1,1 @@
+dish attributed to Nicola da Urbino]] In the ancient Greek myths, _AMBROSIA_ (, ) is the food or drink of the Greek gods,[1] often depicted as conferring longevity or immortality upon whoever consumed it.[2] It was brought to the gods in Olympus by doves and served by either Hebe or Ganymede at the heavenly feast.[3][4]

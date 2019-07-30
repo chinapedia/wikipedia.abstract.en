@@ -1,0 +1,1 @@
+The 2017 JEUX DE LA FRANCOPHONIE, also known as _VIIIèmes Jeux de la Francophonie_ (French for _8th Francophone Games_), took place in Abidjan, Ivory Coast, from July 21–30. This was the first edition of the games to be hosted in Ivory Coast.[1]

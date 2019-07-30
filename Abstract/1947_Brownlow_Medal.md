@@ -1,0 +1,1 @@
+The 1947 BROWNLOW MEDAL was the 20th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Bert Deacon of the Carlton Football Club won the medal by polling twenty-three votes during the 1947 VFL season.[2]

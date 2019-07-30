@@ -1,0 +1,1 @@
+ANDREA "ANDY" MCGUIRE (born November 26, 1956) is an American politician. She served as Iowa Democratic Party (IDP) chair;[1] elected in January 2015 for a two-year term by the Party’s State Central Committee.[2][3][4] Prior to becoming the Chair of the Iowa Democratic Party, McGuire ran unsuccessfully for the Democratic nomination for Iowa’s Lieutenant Governor.[5]

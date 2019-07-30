@@ -1,0 +1,1 @@
+ANIRUDH THAPA (born 15 January 1998) is an Indian professional footballer who plays as a central midfield for both Indian football club Chennaiyin and the India national football team. He has also appeared for U-23 Indian team.

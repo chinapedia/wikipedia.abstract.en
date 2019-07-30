@@ -1,0 +1,1 @@
+The 1946 YALE BULLDOGS FOOTBALL TEAM represented Yale University in the 1946 college football season. The Bulldogs were led by fifth year head coach Howard Odell, played their home games at the Yale Bowl and finished the season with a 7–1–1 record.[1][2]

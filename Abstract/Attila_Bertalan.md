@@ -1,0 +1,1 @@
+ATTILA BERTALAN is a Canadian actor and filmmaker.[1] He is most noted for his 1990 film _A Bullet in the Head_, which was selected as Canada's submission for the Academy Award for Best Foreign Language Film in 1991.[2]

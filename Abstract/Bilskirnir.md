@@ -1,0 +1,1 @@
+BILSKIRNIR (Old Norse "lightning-crack"[1]) is the hall of the god Thor in Norse mythology. Here he lives with his wife Sif and their children. According to _Grímnismál_, the hall is the greatest of buildings and contains 540 rooms, located in Asgard, as are all the dwellings of the gods, in the kingdom of Þrúðheimr (or Þrúðvangar according to _Gylfaginning_ and _Ynglinga saga_).

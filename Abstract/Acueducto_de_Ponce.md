@@ -1,0 +1,1 @@
+The ACUEDUCTO DE PONCE (Ponce Aqueduct), formally ACUEDUCTO ALFONSO XII,[1] is the name of a historic gravity-based water supply system in the city of Ponce, Puerto Rico. It was designed in 1875 by Timoteo Luberza and built the following years.[2] This aqueduct was the first modern water distribution system built in Puerto Rico.[3]

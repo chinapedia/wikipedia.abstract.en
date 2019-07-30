@@ -1,0 +1,1 @@
+ALKOXYLATION is a chemical reaction that involves the addition of an epoxide to another compound. The usual manifestation of this reaction is ethoxylation of alcohols (ROH), in which case ethylene oxide is the alkoxylating agent:

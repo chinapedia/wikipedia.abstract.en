@@ -1,0 +1,1 @@
+AVIOCCALA was a Roman and Byzantine era town in the Roman province of Africa Proconsularis in northern Tunisia. The town lasted from 30BC to about 640AD, and has been tentatively identified with the stone ruins at Sidi-Amara, Tunisia.

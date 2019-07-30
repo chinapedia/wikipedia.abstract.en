@@ -1,0 +1,1 @@
+The ASPECT RATIO of a geometric shape is the ratio of its sizes in different dimensions. For example, the aspect ratio of a rectangle is the ratio of its longer side to its shorter sidethe ratio of width to height,[1] when the rectangle is oriented as a "landscape".

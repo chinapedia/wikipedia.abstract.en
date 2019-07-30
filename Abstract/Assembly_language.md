@@ -1,0 +1,1 @@
+An ASSEMBLY LANGUAGE (or ASSEMBLER LANGUAGE),[1] often abbreviated ASM, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions.[2]

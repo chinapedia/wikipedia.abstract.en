@@ -1,0 +1,1 @@
+ARMENIA MARRIOTT HOTEL YEREVAN (), is a 5-star luxury hotel at the central Kentron District of Yerevan, Armenia. It was opened in 1958 as ARMENIA HOTEL, a state-owned enterprise during the Soviet period. After the collapse of the USSR, the hotel was privatized in 1998 and following a major renovation; it was reopened as the ARMENIA MARRIOTT HOTEL YEREVAN in 1999.[1]

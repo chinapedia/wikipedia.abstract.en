@@ -1,0 +1,1 @@
+The ALEXANDRISTS were a school of Renaissance philosophers who, in the great controversy on the subject of personal immortality, adopted the explanation of the _De Anima_ given by Alexander of Aphrodisias.

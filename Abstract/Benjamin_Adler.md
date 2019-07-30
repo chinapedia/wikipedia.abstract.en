@@ -1,0 +1,1 @@
+BENJAMIN ADLER (10 November 1903 – 16 April 1990)[1] was an American electrical engineer and inventor who helped develop the first commercial television set.[2] He was born in New York City to Romanian Jewish immigrants.[3] He graduated from the-now New York University Tandon School of Engineering.[4][5]

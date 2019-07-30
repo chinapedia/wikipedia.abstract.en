@@ -1,0 +1,1 @@
+BHABATOSH SOREN (February 1, 1934 – 2012) was an Indian politician. He hailed from Jalguria village, Bankura District, and was a leader of the Santhal people.[1][2] A lawyer by profession, Soren was a member of the West Bengal Legislative Assembly 1967–1971 and served as Minister for Forests in the state government 1969–1970.

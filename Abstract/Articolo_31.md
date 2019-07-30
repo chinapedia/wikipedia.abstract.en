@@ -1,0 +1,1 @@
+ARTICOLO 31 was a band from Milan, Italy, formed in 1990 by J-Ax and DJ Jad, combining hip hop, funk, pop and traditional Italian musical forms. They are one of the most popular Italian hip hop groups.

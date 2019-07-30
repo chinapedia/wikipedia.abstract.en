@@ -1,0 +1,1 @@
+The 1954 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 2, 1954. Minnesota Democratic-Farmer-Labor Party candidate Karl Rolvaag defeated Republican Party of Minnesota challenger P. Kenneth Peterson.

@@ -1,0 +1,1 @@
+BALDASSARRE COSSA (c. 1370 – 22 December 1419) was Pisan antipope JOHN XXIII (1410–1415) during the Western Schism. The Catholic Church regards him as an antipope, as he opposed Pope Gregory XII whom the Catholic Church now recognizes as the rightful successor of Saint Peter.

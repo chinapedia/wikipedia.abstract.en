@@ -1,0 +1,1 @@
+AGORA MALL (also known as SHREE BALAJI AGORA MALL) is a shopping & entertainment mall located in 200 ft Sardar Patel Ring Road circle between Tapovan and Bhat Circle Motera, Ahmedabad, India.[1] It has an area of 300,000 Sq. Ft. It includes 7 different themed restaurants.[2]

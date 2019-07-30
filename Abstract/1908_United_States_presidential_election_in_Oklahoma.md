@@ -1,0 +1,1 @@
+The 1908 UNITED STATES PRESIDENTIAL ELECTION IN OKLAHOMA took place on November 3, 1908. All 46 states were part of the 1908 United States presidential election. Oklahoma voters chose 7 electors to the Electoral College, who voted for president and vice president. This was the first presidential election Oklahoma participated in.

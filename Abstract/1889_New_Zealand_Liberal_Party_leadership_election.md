@@ -1,0 +1,1 @@
+The NEW ZEALAND LIBERAL LEADERSHIP ELECTION, 1889 was held on 6 July 1889 to choose who would lead New Zealand's parliamentary opposition and, ultimately, decide the inaugural leader of the New Zealand Liberal Party. The election was won by Wanganui MP John Ballance.

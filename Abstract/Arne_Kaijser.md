@@ -1,0 +1,1 @@
+ARNE KAIJSER (born 1950) is a professor of History of Technology at the Royal Institute of Technology in Stockholm, and former head of the university's department of History of science and technology.[1]

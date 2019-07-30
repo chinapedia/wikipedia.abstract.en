@@ -1,0 +1,1 @@
+The 1948 UNITED STATES PRESIDENTIAL ELECTION IN OKLAHOMA took place on November 2, 1948. All forty-eight states were part of the 1948 United States presidential election. Oklahoma voters chose ten electors to the Electoral College, who voted for president and vice president.

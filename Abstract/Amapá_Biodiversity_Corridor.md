@@ -1,0 +1,1 @@
+The AMAPÁ BIODIVERSITY CORRIDOR () is an ecological corridor in the state of Amapá, Brazil. It provides a degree of integrated management for conservation units and other areas covering over 70% of the state.

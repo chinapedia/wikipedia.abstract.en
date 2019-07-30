@@ -1,0 +1,1 @@
+ALLONZO BRIAN TRIER[1] (born January 17, 1996) is an American professional basketball player for the New York Knicks of the National Basketball Association (NBA). He played college basketball for the Arizona Wildcats. As a sophomore in 2016–17, he earned second-team all-conference honors in the Pac-12 and was named the most outstanding player in the Pac-12 Tournament.

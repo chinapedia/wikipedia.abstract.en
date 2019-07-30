@@ -1,0 +1,1 @@
+ALEXANDER I (medieval Gaelic: _Alaxandair mac Maíl Coluim_; modern Gaelic: _Alasdair mac Mhaol Chaluim_; c. 1078 – 23 April 1124), posthumously nicknamed THE FIERCE,[1] was the King of Scotland from 1107 to his death.

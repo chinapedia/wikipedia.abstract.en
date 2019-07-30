@@ -1,0 +1,1 @@
+The 2016 NCAA DIVISION III FOOTBALL SEASON, part of the college football season organized by the NCAA at the Division III level in the United States, began on September 5, 2016 and ended with the NCAA Division III Football Championship, also known as the STAGG BOWL, on December 16, 2016 at Salem Football Stadium in Salem, Virginia.

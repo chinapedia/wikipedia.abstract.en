@@ -1,0 +1,1 @@
+AIDA SALYANOVA (born August 1972) is a deputy of the Jogorku Kenesh, Prosecutor General of Kyrgyzstan (2011-2015), Minister of Justice (2010), and State Counselor of Justice Class 3.[1][2][3] She is married and has a son and two daughters.

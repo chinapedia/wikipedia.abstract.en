@@ -1,0 +1,1 @@
+The LOMBARD REGIONAL ELECTION OF 2018 took place on 4 March 2018.

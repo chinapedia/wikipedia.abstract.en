@@ -1,0 +1,1 @@
+ATKINSON AND MCLAY was an architectural partnership in Brisbane, Queensland, Australia. It produced a number of significant works and is the origins of one of Brisbane's major architectural firms in the present day.

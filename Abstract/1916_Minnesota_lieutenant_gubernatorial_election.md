@@ -1,0 +1,1 @@
+The 1916 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 7, 1916. Republican Party of Minnesota candidate Thomas Frankson defeated Minnesota Democratic Party challenger Julius Thorson, Socialist Party of Minnesota candidate Andrew Hanson, and Prohibition Party candidate L. A. Simonson.

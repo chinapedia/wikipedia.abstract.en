@@ -1,0 +1,1 @@
+The 1929 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1929 college football season. The Vandals were led by first-year head coach Leo Calland and were in their eighth season in the Pacific Coast Conference. Home games were played on campus in Moscow at MacLean Field. Idaho compiled a 4–5 overall record and went in conference games.

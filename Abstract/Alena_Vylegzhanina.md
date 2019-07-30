@@ -1,0 +1,1 @@
+ALYONA VIKTOROVNA VYLEGZHANINA (Алёна Викторовна Вылегжанина, born 14 August 1987)[1] is a Russian water polo player. She was a member of the Russia women's national water polo team, playing as a centre back. She was a part of the team at the 2008 Summer Olympics.[2][3] On club level she played for Uralochka Zlatoust in Russia.[4]

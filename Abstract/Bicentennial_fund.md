@@ -1,0 +1,1 @@
+The BICENTENNIAL FUND was created in 2010 in Argentina by then president Cristina Fernández de Kirchner, to pay external debt with resources from the Central Bank. The president of the Bank, Martín Redrado, refused to do so, claiming that the autonomy of the Central Bank was not respected.

@@ -1,0 +1,1 @@
+BANENDRA MUSHAHARY is a Bodoland People's Front politician from Assam. He was elected in Assam Legislative Assembly election in 1996 to 2001 and 2011 from Gauripur constituency.[1][2] He was also member of Asom Gana Parishad.[3][4]

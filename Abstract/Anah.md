@@ -1,0 +1,1 @@
+ANAH or ANA (, _ʾĀna_), formerly also known as ANNA, is an Iraqi town on the Euphrates river, approximately midway between the Gulf of Alexandretta and the Persian Gulf. Anah lies from west to east on the right bank along a bend of the river just before it turns south towards Hit.

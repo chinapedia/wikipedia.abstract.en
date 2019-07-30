@@ -1,0 +1,1 @@
+The 2015 FAIRFIELD CHALLENGER was a professional tennis tournament played on hard courts. It was the first edition of the tournament which was part of the 2015 ATP Challenger Tour. It took place in Fairfield, United States between 12 and 18 October 2015.

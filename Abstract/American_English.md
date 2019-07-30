@@ -1,0 +1,1 @@
+AMERICAN ENGLISH (AME, AE, AMENG, USENG, EN-US),[1] sometimes called UNITED STATES ENGLISH or U.S. ENGLISH,[2][3] is the set of varieties of the English language native to the United States.[4] American English is considered one of the most influential dialects of English globally, including on other varieties of English.[5][6][7][8][9]

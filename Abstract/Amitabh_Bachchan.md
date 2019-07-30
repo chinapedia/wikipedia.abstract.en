@@ -1,0 +1,1 @@
+| other_names = _Angry Young Man_, _Shahenshah of Bollywood_, _Star of the Millennium_, and _Big B_ | occupation = Actor, producer, singer, television presenter, composer | years_active = 1969–present | notable_works = * _Anand_ (1971)

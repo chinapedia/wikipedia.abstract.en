@@ -1,0 +1,1 @@
+The 1950 BROWNLOW MEDAL was the 23rd year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Allan Ruthven of the Fitzroy Football Club won the medal by polling twenty-one votes during the 1950 VFL season.[2]

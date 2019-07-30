@@ -1,0 +1,1 @@
+AMAZONITE, also known as AMAZONSTONE,[1] is a green tectosilicate mineral, a variety of the potassium feldspar called microcline.[2][3] Its chemical formula is (KAlSi₃O₈),[4][5] which is polymorphic to Orthoclase.

@@ -1,0 +1,1 @@
+The 1958 BROWNLOW MEDAL was the 31st year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Neil Roberts of the St Kilda Football Club won the medal by polling twenty-four votes during the 1958 VFL season.[2]

@@ -1,0 +1,1 @@
+_' Ato Abay Weldu_' was the president of the Regional state of Tigray, one of the nine states of the federal democratic republic of Ethiopia.[1] He was the chairman of TPLF (Tigray People Liberation Front) from September 2012 until he was replaced by Debretsion Gebremichael (PhD) in October 2017.[2]

@@ -1,0 +1,1 @@
+The 2017 TURKISH BASKETBALL CUP was the 32nd edition of Turkey's professional national cup competition for men's basketball teams. The tournament was held in the Ankara Arena in the capital city of Ankara, Turkey.

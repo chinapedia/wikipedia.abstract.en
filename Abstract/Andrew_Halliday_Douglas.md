@@ -1,0 +1,1 @@
+ANDREW HALLIDAY DOUGLAS (1819-1908) was a Scottish physician who served as President of the Royal College of Physicians of Edinburgh 1869 to 1871. He was one of the founders of the Edinburgh Medical Missionary Society with Peter David Handyside.[1]

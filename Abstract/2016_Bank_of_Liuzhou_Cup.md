@@ -1,0 +1,1 @@
+The 2016 BANK OF LIUZHOU CUP was a professional tennis tournament played on outdoor hard courts. It was the 1st edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $50,000 in prize money. It took place in Liuzhou, China, on 24–30 October 2016.

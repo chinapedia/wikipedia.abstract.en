@@ -1,0 +1,1 @@
+The 2016 AFRICAN HANDBALL CHAMPIONS LEAGUE was the 38th edition, organized by the African Handball Confederation, under the auspices of the International Handball Federation, the handball sport governing body. The tournament was held from October 21–30, 2016 at the Palais de Sports de Ouagadougou in Burkina Faso, contested by 10 teams and won by Al Ahly of Egypt.[1]

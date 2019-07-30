@@ -1,0 +1,1 @@
+The 4TH CURTIS CUP MATCH was played on September 7 and 8, 1938 at the Essex County Club in Manchester-by-the-Sea, Massachusetts. The United States won 5½ to 3½.[1][2][3] Britain had led by 2 points after the foursomes but America won 5 of the 6 singles to win the match.

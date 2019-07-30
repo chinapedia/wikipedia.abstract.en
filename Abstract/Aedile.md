@@ -1,0 +1,1 @@
+AEDILE ( , from , "temple edifice") was an elected office of the Roman Republic. Based in Rome, the aediles were responsible for maintenance of public buildings () and regulation of public festivals. They also had powers to enforce public order.

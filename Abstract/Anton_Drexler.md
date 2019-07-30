@@ -1,0 +1,1 @@
+ANTON DREXLER (13 June 1884 – 24 February 1942) was a German far-right political leader of the 1920s who founded the pan-German and anti-Semitic German Workers' Party (DAP), the antecedent of the Nazi Party (NSDAP). Drexler mentored his successor in the NSDAP, Adolf Hitler, during his early years in politics.

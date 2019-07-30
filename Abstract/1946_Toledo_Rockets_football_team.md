@@ -1,0 +1,1 @@
+The 1946 TOLEDO ROCKETS FOOTBALL TEAM was an American football team that represented the University of Toledo during the 1946 college football season. In their first season under head coach Bill Orwig, the Rockets compiled a 6–2–2 record, outscored their opponents by a combined total of 200 to 132, and defeated Bates, 21–12, in the first postseason Glass Bowl game.[1][2]

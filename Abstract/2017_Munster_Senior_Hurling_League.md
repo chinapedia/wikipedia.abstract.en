@@ -1,0 +1,1 @@
+The 2017 MUNSTER SENIOR HURLING LEAGUE, known for sponsorship reasons as the CO-OP SUPERSTORES.IE MUNSTER HURLING LEAGUE, was the second Munster Senior Hurling League, the annual hurling league competition for county teams from the province of Munster.

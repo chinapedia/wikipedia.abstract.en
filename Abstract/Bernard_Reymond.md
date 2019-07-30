@@ -1,0 +1,1 @@
+BERNARD REYMOND (7 January 1933) is a Swiss pastor and theologian, honorary professor of practical theology at the Romand pastoral Institute of the University of Lausanne, which belongs to the current of Liberal Christianity.

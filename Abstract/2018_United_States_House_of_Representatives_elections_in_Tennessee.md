@@ -1,0 +1,1 @@
+The 2018 UNITED STATES HOUSE OF REPRESENTATIVES ELECTIONS IN TENNESSEE will be held on November 6, 2018, to elect the nine U.S. Representatives from the state of Tennessee, one from each of the state's nine congressional districts. The elections will coincide with the elections of other federal and state offices, including the gubernatorial election.

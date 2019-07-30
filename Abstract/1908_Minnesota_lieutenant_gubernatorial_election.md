@@ -1,0 +1,1 @@
+The 1908 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 3, 1908. Incumbent Lieutenant Governor Adolph Olson Eberhart of the Republican Party of Minnesota defeated Minnesota Democratic Party challenger Julius J. Reiter and Prohibition Party candidate T. J. Anderson.

@@ -1,0 +1,1 @@
+BERETTYÓÚJFALU () is a district in south-eastern part of Hajdú-Bihar County. _Berettyóújfalu_ is also the name of the town where the district seat is found. The district is located in the Northern Great Plain Statistical Region. This district is a part of Bihar historical and geographical region.

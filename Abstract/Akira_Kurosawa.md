@@ -1,0 +1,1 @@
+AKIRA KUROSAWA (, _Kurosawa Akira_; March 23, 1910 – September 6, 1998) was a Japanese film director and screenwriter, who directed 30 films in a career spanning 57 years. He is regarded as one of the most important and influential filmmakers in the history of cinema.

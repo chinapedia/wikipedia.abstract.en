@@ -1,0 +1,1 @@
+ADOBE ROBOHELP is a help authoring tool (HAT) developed and published by Adobe Systems for Windows. RoboHelp was created by Gen Kiyooka,[1] and Blue Sky Software released version 1.0 in January 1992.[2]

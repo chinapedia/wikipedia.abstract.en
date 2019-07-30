@@ -1,0 +1,1 @@
+ACADIA UNIVERSITY is a public, predominantly undergraduate university located in Wolfville, Nova Scotia, Canada with some graduate programs at the master's level[1] and one at the doctoral level.[2] The enabling legislation consists of Acadia University Act [3] and the Amended Acadia University Act 2000.[4]

@@ -1,0 +1,1 @@
+Elections to Manchester City Council were held on 3 May 2018, as part of the 2018 United Kingdom local elections. Although the council is normally elected in thirds, all 96 council seats were up for election due to boundary changes.[1] Labour retained its near-complete dominance of the council. The sole change was that the Liberal Democrats gained a second seat in Didsbury West.

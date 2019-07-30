@@ -1,0 +1,1 @@
+The 1935 BROWNLOW MEDAL was the 12th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Haydn Bunton of the Fitzroy Football Club won the medal by polling twenty-five votes during the 1935 VFL season.[2]

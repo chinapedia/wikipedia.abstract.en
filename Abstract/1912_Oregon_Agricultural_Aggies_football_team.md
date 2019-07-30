@@ -1,0 +1,1 @@
+The 1912 OREGON AGRICULTURAL AGGIES FOOTBALL TEAM represented Oregon Agricultural College (now known as Oregon State University) in the Northwest Conference during the 1912 college football season. In their second and final season under head coach Sam "Fuzzy" Dolan, the Aggies compiled a 3–4 record and outscored their opponents by a combined total of 57 to 40.

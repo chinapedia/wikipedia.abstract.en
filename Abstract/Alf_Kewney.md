@@ -1,0 +1,1 @@
+ALFRED LIONEL KEWNEY known as ALF KEWNEY (born 13 September 1882, died 16 December 1959)[1] was a rugby union forward who played 16 times for England between 1906 and 1913. He played his club rugby for Leicester Tigers and Rockcliff RFC in Whitley Bay.

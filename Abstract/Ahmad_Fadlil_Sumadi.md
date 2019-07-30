@@ -1,0 +1,1 @@
+AHMAD FADLIL SUMADI is a former judge on the Constitutional Court of Indonesia.[1] Sumadi initially served as the registrar of the Constitutional Court between 2003 and 2008, then served as the deputy chief justice of the High Court of Yogyakarta before the Supreme Court of Indonesia appointed him to the Constitutional Court in 2010.[2]

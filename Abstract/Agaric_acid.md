@@ -1,0 +1,1 @@
+AGARIC ACID, also known as AGARICIN or 2-HYDROXYNONADECANE-1,2,3-TRICARBOXYLIC ACID, is an organic tricarboxylic acid (fatty acid) found in fungi, e.g. _Laricifomes officinalis_. Its molecular formula is C₂₂H₄₀O₇.

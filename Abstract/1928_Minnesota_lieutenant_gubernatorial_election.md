@@ -1,0 +1,1 @@
+The 1928 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 6, 1928. Incumbent Lieutenant Governor William I. Nolan of the Republican Party of Minnesota defeated Minnesota Farmer–Labor Party challenger Thomas J. Meighen and Minnesota Democratic Party candidate Fred Pfaender.

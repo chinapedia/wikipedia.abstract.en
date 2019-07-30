@@ -1,0 +1,1 @@
+AMALRIC or AMALARIC (also Americ, Almerich, Emeric, Emerick and other variations) is a personal name derived from the tribal name _Amal_ (referring to the Gothic Amali) and _ric_ (Gothic _reiks_) meaning "ruler, prince".

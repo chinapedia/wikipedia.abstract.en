@@ -1,0 +1,1 @@
+AJAY RAAJ is an Indian film actor and choreographer who appears in Tamil language films. While working as a dance choreographer, Ajay made his acting debut with Agathiyan's _Selvam_ (2005), before appearing in _Chennai 600028_ (2007) and has since appeared regularly in films associated with director Venkat Prabhu and his team.[1][2][3]

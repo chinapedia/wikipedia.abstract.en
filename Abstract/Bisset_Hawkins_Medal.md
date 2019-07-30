@@ -1,0 +1,1 @@
+The BISSET HAWKINS MEDAL is a triennial award made by the Royal College of Physicians of London to acknowledge work done in the preceding ten years in advancing sanitary science or promoting public health. It is named after Dr Francis Bisset Hawkins (1796–1884), a distinguished London physician and is presented after the Harveian Oration.[1]

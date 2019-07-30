@@ -1,0 +1,1 @@
+The 2016 KOREAN SEVENS was the second leg of the Asian Rugby Sevens Series for the year. It was the first time the Korean Sevens tournament was included in the series. The event was held at Incheon in the Namdong Asiad Rugby Stadium [1]

@@ -1,0 +1,1 @@
+The 2017 TORNEO DESCENTRALIZADO DE FÚTBOL PROFESIONAL (known as the 2017 COPA MOVISTAR for sponsorship reasons) was the 101st season of the highest division of Peruvian football. A total of 16 teams competed in the season. Alianza Lima were the champions.

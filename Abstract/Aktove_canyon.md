@@ -1,0 +1,1 @@
+AKTOVE CANYON is a canyon near the Aktove village, on the Mertvovid river in the Voznesenskyi region of Mykolaiv Oblast of Ukraine. It is a part of the regional landscape park Granite-steppe lands of Buh. It is also a well-known place of pilgrimage. In the past it was a separate reservation "Actove".

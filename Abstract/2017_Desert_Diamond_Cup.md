@@ -1,0 +1,1 @@
+The 2017 DESERT DIAMOND CUP was the seventh edition of the preseason exhibition tournament. The competition featured six soccer teams from Major League Soccer, held from February 15 to February 25, 2017. The defending champion was the New England Revolution.

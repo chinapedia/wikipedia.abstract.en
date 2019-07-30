@@ -1,0 +1,1 @@
+AMANI FANCY (born 14 July 1997) is an English pair skater. With former skating partner Christopher Boyadji, she is the 2015 CS Tallinn Trophy bronze medalist and a two-time British national champion (2014 and 2016). After that she was a pro ice-skater on the German TV show Dancing On Ice (2019).

@@ -1,0 +1,1 @@
+ABEL JANSZOON TASMAN (; 1603 – 10 October 1659) was a Dutch seafarer, explorer, and merchant, best known for his voyages of 1642 and 1644 in the service of the Dutch East India Company (VOC). He was the first known European explorer to reach the islands of Van Diemen's Land (now Tasmania) and New Zealand, and to sight the Fiji islands.

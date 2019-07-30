@@ -1,0 +1,1 @@
+]] being prepared for acceptance testing]] In engineering and its various subdisciplines, ACCEPTANCE TESTING is a test conducted to determine if the requirements of a specification or contract are met. It may involve chemical tests, physical tests, or performance tests.

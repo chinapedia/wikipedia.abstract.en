@@ -1,0 +1,1 @@
+The 1981 LINCOLNSHIRE COUNTY COUNCIL ELECTION was held on Thursday, 7 May 1981, following boundary changes to the county's electoral divisions. The whole council of 76 members was up for election and the election resulted in the Conservative Party retaining control of the council, winning 42 seats.[1]

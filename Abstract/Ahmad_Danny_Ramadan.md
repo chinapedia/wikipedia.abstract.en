@@ -1,0 +1,1 @@
+AHMED DANNY RAMADAN (born 1984) is a Syrian-Canadian novelist, public speaker, columnist, and a gay refugee activist.[1] He was born in Damascus, Syria, and immigrated to Lebanon as a refugee in 2012, before immigrating to Vancouver, British Columbia in September 2014.[2]

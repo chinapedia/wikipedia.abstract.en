@@ -1,0 +1,1 @@
+ALEXANDER III (Medieval Gaelic: _Alaxandair mac Alaxandair_; Modern Gaelic: _Alasdair mac Alasdair_) (4 September 1241 – 19 March 1286) was King of Scots from 1249 until his death. He concluded the Treaty of Perth, by which Scotland acquired sovereignty over the Western Isles and the Isle of Man. His heir, Margaret, Maid of Norway, died before she could be crowned.

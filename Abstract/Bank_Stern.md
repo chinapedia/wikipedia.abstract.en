@@ -1,0 +1,1 @@
+BANK STERN is a financial advisory firm that engages in investment banking, family office, and other financial services primarily with institutional clients. Its principal executive offices are in Paris.

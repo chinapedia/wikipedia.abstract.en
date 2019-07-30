@@ -1,0 +1,1 @@
+ALAN WILLIAM RAITT, (21 September 1930 – 2 September 2006) was a British scholar of French literature, specialising in nineteenth-century French literature.[1] From 1992 to 1997, he was Professor of French Literature at the University of Oxford.

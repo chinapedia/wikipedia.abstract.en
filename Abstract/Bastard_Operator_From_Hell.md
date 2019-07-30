@@ -1,0 +1,1 @@
+The BASTARD OPERATOR FROM HELL (BOFH) is a fictional rogue computer operator who takes out his anger on users and others who pester him with their computer problems, uses his expertise against his enemies and manipulates his employer.[1][2]

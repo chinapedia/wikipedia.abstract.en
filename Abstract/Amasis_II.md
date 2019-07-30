@@ -1,0 +1,1 @@
+AMASIS II () or AHMOSE II was a pharaoh (reigned 570 BCE526 BCE) of the Twenty-sixth dynasty of Egypt, the successor of Apries at Sais. He was the last great ruler of Egypt before the Persian conquest.[1]

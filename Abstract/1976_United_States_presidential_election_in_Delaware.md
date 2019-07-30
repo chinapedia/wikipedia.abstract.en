@@ -1,0 +1,1 @@
+The 1976 UNITED STATES PRESIDENTIAL ELECTION IN DELAWARE took place on November 2, 1976, as part of the 1976 United States presidential election. Voters chose three representatives, or electors, to the Electoral College, who voted for president and vice president.

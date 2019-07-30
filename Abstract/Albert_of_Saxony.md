@@ -1,0 +1,1 @@
+ALBERT (_Frederick Augustus Albert Anton Ferdinand Joseph Karl Maria Baptist Nepomuk Wilhelm Xaver Georg Fidelis_; 23 April 1828 – 19 June 1902) was the King of Saxony and a member of the House of Wettin.

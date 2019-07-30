@@ -1,0 +1,1 @@
+AUGUSTINE OF CANTERBURY (born first third of the 6th century – died probably 26 May 604) was a Benedictine monk who became the first Archbishop of Canterbury in the year 597. He is considered the "Apostle to the English" and a founder of the English Church.[1]

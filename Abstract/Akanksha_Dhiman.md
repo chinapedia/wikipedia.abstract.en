@@ -1,0 +1,1 @@
+'''Akanksha Dhiman ''' (born 27 December 1991 in Hamirpur, Himachal Pradesh) is an Indian model, actress, beauty queen and brand ambassador. Akanksha can speak some English, & Perfect Hindi .She won Miss Glory of Earth in 2013.[1]

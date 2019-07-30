@@ -1,0 +1,1 @@
+ASHLEY BURNS (_née_ JENKINS; born May 3, 1982) is an American on-camera host. She is a founding member of Ubisoft's all-female professional gaming group, the Frag Dolls.[1][2] She founded Rooster Teeth's news division, _The Know_.[3][4] She was a contestant on the 28th season of The Amazing Race.[5] Outside of the gaming industry, she voices Coco Adel in _RWBY_.

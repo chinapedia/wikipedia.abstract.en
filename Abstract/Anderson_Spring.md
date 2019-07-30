@@ -1,0 +1,1 @@
+ANDERSON SPRING is a spring in southeastern Oregon County in the Ozarks of southern Missouri.[1] The spring lies one mile south of U.S. Route 160 and one mile east of the Eleven Point River. A small stream flows west from the spring into the Eleven Point.[2]

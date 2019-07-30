@@ -1,0 +1,1 @@
+ALEXANDER I THEOPATOR EUERGETES, surnamed BALAS (), was the ruler of the Greek Seleucid kingdom in 150/Summer 152 – August 145 BC.[1] Alexander defeated Demetrius Soter for the crown in 150 BC. Ruling briefly, he lost the crown to Demetrius II Nicator during his defeat at the Battle of Antioch (145 BC) in Syria, dying shortly after.

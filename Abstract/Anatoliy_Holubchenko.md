@@ -1,0 +1,1 @@
+ANATOLIY KOSTIANTYNOVYCH HOLUBCHENKO () (born 6 June 1950 in Zhdanov, Soviet Union), is a Ukrainian politician. From 14 December 2013 to 25 January 2014, he was a temporary acting head of the Kiev City State Administration.

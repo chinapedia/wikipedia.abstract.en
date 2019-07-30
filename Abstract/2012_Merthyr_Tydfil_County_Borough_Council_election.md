@@ -1,0 +1,1 @@
+The 2012 MERTHYR TYDFIL COUNTY BOROUGH COUNCIL ELECTION took place on 3 May 2012 to elect members of Merthyr Tydfil County Borough Council in Wales.[1] This was on the same day as other 2012 United Kingdom local elections. The Council shifted from Independent to Labour.

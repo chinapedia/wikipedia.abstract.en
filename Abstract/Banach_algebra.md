@@ -1,0 +1,1 @@
+In mathematics, especially functional analysis, a BANACH ALGEBRA, named after Stefan Banach, is an associative algebra _A_ over the real or complex numbers (or over a non-Archimedean complete normed field) that at the same time is also a Banach space, i.e. a normed space and complete in the metric induced by the norm. The norm is required to satisfy

@@ -1,0 +1,1 @@
+The 2016 INTERNATIONAUX DE TENNIS DE VENDÉE was a professional tennis tournament played on hard courts. It was the fourth edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Mouilleron-le-Captif, France between 7 and 13 November 2016.

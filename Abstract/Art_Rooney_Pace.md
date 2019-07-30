@@ -1,0 +1,1 @@
+The ART ROONEY PACE is an American harness racing event for three-year-old standardbred pacers run each year at Yonkers Raceway with the exception of 2006 when it was hosted by Monticello Raceway. [1] First run in 1989, it is named in honor of Art Rooney (1901-1988), owner of several racetracks, including Yonkers, plus the Pittsburgh Steelers of the National Football League.

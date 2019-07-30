@@ -1,0 +1,1 @@
+ALDINE PRESS was the printing office started by Aldus Manutius in 1494 in Venice, from which were issued the celebrated Aldine editions of the classics (Latin and Greek masterpieces plus a few more modern works). The first book that was dated and printed under his name appeared in 1495.[1]

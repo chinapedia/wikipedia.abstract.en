@@ -1,0 +1,1 @@
+__NOTOC__ The POONCH REVOLT, also translated as the POONCH UPRISING, was a Civil revolt in Azad Kashmir against the State of Pakistan. The uprising broke out in 1955. It took 1 year until the uprising was suppressed in 1956.[1]

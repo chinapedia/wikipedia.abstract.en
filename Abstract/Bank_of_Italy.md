@@ -1,0 +1,1 @@
+The BANK OF ITALY, known in Italian as [La] BANCA D'ITALIA (), also known as BANKITALIA, is the central bank of Italy and part of the European System of Central Banks. It is located in Palazzo Koch, via Nazionale, Rome. The bank's current governor is Ignazio Visco, who took the office on 1 November 2011.

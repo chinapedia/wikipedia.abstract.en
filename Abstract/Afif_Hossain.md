@@ -1,0 +1,1 @@
+AFIF HOSSAIN (born 22 September 1999) is a Bangladeshi cricketer.[1] In February 2018, he was named in Bangladesh's Twenty20 International (T20I) squad for their series against Sri Lanka.[2] He made his T20I debut for Bangladesh against Sri Lanka on 15 February 2018.[3]

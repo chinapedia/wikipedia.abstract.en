@@ -1,0 +1,1 @@
+_ANTISTEA_ is a genus of dwarf sheet spiders that was first described by Eugène Simon in 1898.[1] it contains only two species: _A. brunnea_ and _A. elegans_. Combined, they have a Holarctic distribution, one Palearctic and the other Nearctic.[2]

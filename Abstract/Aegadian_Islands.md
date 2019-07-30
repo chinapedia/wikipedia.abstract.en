@@ -1,0 +1,1 @@
+The '''Aegadian Islands ''' (; , , ) are a group of five small mountainous islands in the Mediterranean Sea off the northwest coast of Sicily, Italy, near the cities of Trapani and Marsala, with a total area of .[1]

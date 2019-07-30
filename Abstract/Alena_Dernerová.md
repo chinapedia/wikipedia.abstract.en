@@ -1,0 +1,1 @@
+ALENA DERNEROVÁ (born 13 September 1958) is a Czech politician and pediatric neurologist.[1] An independent, Dernerová became Senator for Most as a result of the 2010 Czech Senate election, ahead of Social Democrat Zdeněk Brabec in the second round of voting.[2] She was affiliated with the Severočeši.cz movement.[3]

@@ -1,0 +1,1 @@
+The BAÍA DE CAMAMU ENVIRONMENTAL PROTECTION AREA () is an environmental protection area in the state of Bahia, Brazil. It tries to preserve the natural vegetation of mangroves, _restinga_ and Atlantic Forest around the Camamu Bay (Baía de Camamu).

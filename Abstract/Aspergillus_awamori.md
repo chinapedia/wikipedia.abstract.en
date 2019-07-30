@@ -1,0 +1,1 @@
+_ASPERGILLUS AWAMORI_ is a species of aspergillus that is used to make awamori. It can produce citric acid and convert starch to sugar. _Aspergillus awamori_ is often confused with _Aspergillus niger_ as they have very similar morphologies and growth rates at different temperatures, and produce several common enzymes.[1]

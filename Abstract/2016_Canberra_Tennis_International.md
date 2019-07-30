@@ -1,0 +1,1 @@
+The 2016 CANBERRA TENNIS INTERNATIONAL is a professional tennis tournament played on outdoor hard courts. It is the second edition of the tournament which was part of the 2016 ATP Challenger Tour and the 2016 ITF Women's Circuit. It took place in Canberra, Australia between 31 October and 6 November 2016.

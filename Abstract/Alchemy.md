@@ -1,0 +1,1 @@
+'' (_The Alchemy of Happiness_), a text on Islamic philosophy and alchemy by the Persian philosopher and mystic Al-Ghazālī (11th century)]] from the alchemical treatise _Aurora consurgens_ (15th century), Zentralbibliothek Zürich, Switzerland]]

@@ -1,0 +1,1 @@
+The 1952 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1952 college football season. The Vandals were led by second-year head coach Raymond "Babe" Curfman and were members of the Pacific Coast Conference. Home games were played on campus at Neale Stadium in Moscow, with one game in Boise at old Bronco Stadium at Boise Junior College.

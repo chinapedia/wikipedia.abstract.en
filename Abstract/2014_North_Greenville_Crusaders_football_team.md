@@ -1,0 +1,1 @@
+The 2014 NORTH GREENVILLE CRUSADERS FOOTBALL TEAM represented North Greenville University in the 2014 NCAA Division II football season. They were led by second year head coach Jeff Farrington and played their home games at Younts Stadium. The team competed as a Division II Independent football team.

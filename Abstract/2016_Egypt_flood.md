@@ -1,0 +1,1 @@
+The 2016 EGYPT FLOOD was a natural disaster affecting the Assuit, Red Sea, Sohag, South Sinai and Qena governorates of Egypt in late October and early November. At least 26 people were killed and 72 injured.[1]

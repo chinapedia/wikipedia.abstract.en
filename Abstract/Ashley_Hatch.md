@@ -1,0 +1,1 @@
+ASHLEY HATCH (born May 25, 1995) is an American soccer player who plays as a forward for Washington Spirit of the National Women's Soccer League (NWSL). She has also played for the United States women's national soccer team.[1][2]

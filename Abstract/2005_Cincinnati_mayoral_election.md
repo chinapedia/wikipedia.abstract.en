@@ -1,0 +1,1 @@
+The 2005 CINCINNATI MAYORAL ELECTION took place on November 8, 2005, to elect the Mayor of Cincinnati, Ohio. The election was officially nonpartisan, with the top two candidates from the September 13 primary advancing to the general election, regardless of party.

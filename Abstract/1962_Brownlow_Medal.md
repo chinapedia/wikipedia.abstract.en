@@ -1,0 +1,1 @@
+The 1962 BROWNLOW MEDAL was the 35th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Alistair Lord of the Geelong Football Club won the medal by polling twenty-eight votes during the 1962 VFL season.[2]

@@ -1,0 +1,1 @@
+The 2016 LOSAIL SUPERBIKE WORLD CHAMPIONSHIP ROUND was the thirteenth and last round of the 2016 Superbike World Championship. It took place over the weekend of 28–30 October 2016 at the Losail International Circuit.

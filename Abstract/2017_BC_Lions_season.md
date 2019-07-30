@@ -1,0 +1,1 @@
+The 2017 BC LIONS SEASON was the 60th season for the team in the Canadian Football League (CFL) and their 64th overall. The Lions finished the season in 5th place in the West Division with a 7–11 record and missed the playoffs for the first time since 1996, ending their playoff streak at 20 seasons, the second longest in CFL history.

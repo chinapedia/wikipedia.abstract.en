@@ -1,0 +1,1 @@
+ATANU SABYASACHI NAYAK is a politician from Odisha, India.[1] He was the Health Minister in Odisha Legislative Assembly.[2] He is an MLA representing Mahakalapada constituency from the Biju Janata Dal .[3]

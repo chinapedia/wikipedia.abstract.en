@@ -1,0 +1,1 @@
+The 2016 HONG KONG TENNIS OPEN (also known as the PRUDENTIAL HONG KONG TENNIS OPEN for sponsorship reasons) was a professional tennis tournament played on hard courts. It was the seventh edition of the tournament, and part of the 2016 WTA Tour. It took place in Victoria Park, Hong Kong, from October 10 to 16.

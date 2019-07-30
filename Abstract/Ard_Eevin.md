@@ -1,0 +1,1 @@
+ARD EEVIN is a historic mansion in Glendale, California, U.S.. It was built in 1903 for Daniel Campbell.[1] It was designed by architect Nathaniel Dryden.[2] The name "Ard Eevin" means "beautiful heights" in Scottish Gaelic.[3] It has been listed on the National Register of Historic Places since November 21, 2006.[4]

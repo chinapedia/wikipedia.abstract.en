@@ -1,0 +1,1 @@
+The 1972 SAN DIEGO STATE AZTECS FOOTBALL TEAM represented California State University San Diego[1] during the 1972 NCAA University Division football season as a member of the Pacific Coast Athletic Association.[2]

@@ -1,0 +1,1 @@
+ANGELO CALOGERÀ, also known as DOMENICO DEMETRIO CALOGERÀ, (circa 7 September 1696, Padua - 29 September 1766, Isola di San Michele) was an Italian Benedictine monk and writer, active in popularizing literature and science.

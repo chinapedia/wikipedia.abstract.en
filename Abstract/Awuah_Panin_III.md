@@ -1,0 +1,1 @@
+AWUAH PANIN III, known in the United States as Harry Danso, is an Ashanti nana from the Asokwa area, which includes his hometown of Koforidua.[1] He lives in Worcester, Massachusetts, but visits his native Ghana several times a year.[2]

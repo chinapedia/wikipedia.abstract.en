@@ -1,0 +1,1 @@
+ANTOINE THÉOPHILE DARLAN (1915-10 April 1974) was a Central African politician and trade unionist, known for being the local chief of the Rassemblement démocratique africain (RDA) party in Ubangi-Shari prior to independence.

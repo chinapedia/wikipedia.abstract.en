@@ -1,0 +1,1 @@
+BERTHA LILIAN BRACEY (1893–1989) was a Quaker teacher and aid worker who organised relief and sanctuary for Europeans affected by the turmoil before, during and after the Second World War. These included many Jewish children threatened by the Holocaust and rescued in the operation known as the _Kindertransport_. In 2010, she was recognised as a British Hero of the Holocaust.

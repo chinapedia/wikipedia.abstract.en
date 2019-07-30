@@ -1,0 +1,1 @@
+ATKIN KAUA (born 4 April 1996) is a Solomon Islands footballer who plays as a midfielder for the Solomon Warriors. He made his debut for the national team on October 5, 2016 in their 3–0 loss against New Caledonia.

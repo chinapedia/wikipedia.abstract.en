@@ -1,0 +1,1 @@
+ANGELINE MABULA (born 6 May 1962) is a Tanzanian politician belonging to the ruling Chama Cha Mapinduzi (CCM) party. She is the current Deputy Minister of lands and human settlement development. She is a Member of Parliament for Ilemela.

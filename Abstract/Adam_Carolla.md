@@ -1,0 +1,1 @@
+ADAM CAROLLA (; born May 27, 1964)[1] is an American comedian, radio personality, television host, actor, podcaster, and director. He hosts _The Adam Carolla Show_, a talk show distributed as a podcast which set the record as the "most downloaded podcast" as judged by Guinness World Records in 2011.[2]

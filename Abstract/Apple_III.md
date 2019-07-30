@@ -1,0 +1,1 @@
+The APPLE III (often styled as APPLE ///) is a business-oriented personal computer produced and released by Apple Computer in 1980. It was intended as the successor to the Apple II series, but was largely considered a failure in the market.

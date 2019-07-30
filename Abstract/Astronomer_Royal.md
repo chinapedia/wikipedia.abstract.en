@@ -1,0 +1,1 @@
+ASTRONOMER ROYAL is a senior post in the Royal Households of the United Kingdom. There are two officers, the senior being the Astronomer Royal dating from 22 June 1675; the second is the Astronomer Royal for Scotland dating from 1834.

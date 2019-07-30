@@ -1,0 +1,1 @@
+APOLLO MUNICH HEALTH INSURANCE COMPANY LTD. is a private sector health insurance company in India. Founded on 8 August 2007, it is a joint venture between the Apollo Hospitals group and Munich Health, one of the three business segments of Munich Re; a leading reinsurance company based in Germany.[1]

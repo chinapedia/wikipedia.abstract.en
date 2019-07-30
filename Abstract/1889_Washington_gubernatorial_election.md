@@ -1,0 +1,1 @@
+The 1889 GUBERNATORIAL ELECTION in Washington took place on October 1, 1889, to elect the first Governor of Washington shortly before it was admitted as a U.S. state. Both candidates, Republican Elisha P. Ferry and Democrat Eugene Semple, previously served as Territorial Governor, a position appointed by the President of the United States.[1]

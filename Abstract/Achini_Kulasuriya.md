@@ -1,0 +1,1 @@
+ACHINI KULASURIYA (born 7 June 1990) is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against New Zealand on 10 November 2015.[2]

@@ -1,0 +1,1 @@
+ADÉLA HANZLÍČKOVÁ (born May 4, 1994) is a Czech freestyle wrestler. She competed in the women's freestyle 63 kg event at the 2016 Summer Olympics, in which she was eliminated in the round of 16 by Henna Johansson.[1][2]

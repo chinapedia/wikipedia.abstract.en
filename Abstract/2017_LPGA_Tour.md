@@ -1,0 +1,1 @@
+The 2017 LPGA TOUR was a series of professional golf tournaments for elite female golfers from around the world. The season began in the Bahamas on January 26 and ended on November 19 at the Tiburón Golf Club in Naples, Florida.[1] The tournaments are sanctioned by the United States-based Ladies Professional Golf Association (LPGA).

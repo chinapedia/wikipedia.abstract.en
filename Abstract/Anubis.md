@@ -1,0 +1,1 @@
+ANUBIS (;[1] , Egyptian: _jnpw_, Coptic: _Anoup_) is the Greek name of the god of death, mummification, embalming, the afterlife, cemeteries, tombs, and the Underworld, in ancient Egyptian religion, usually depicted as a canine or a man with a canine head. Archeologists have identified Anubis's sacred animal as an Egyptian canid, the African golden wolf.[2][3][4][5]

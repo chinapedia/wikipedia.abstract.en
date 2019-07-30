@@ -1,0 +1,1 @@
+The 1950 Albanian First Division is the seventh season of the second tier of football in Albania. The season started on 30 April and finished on 30 June, and 32 teams competed in a Single-elimination tournament with four teams qualifying for the final group, where Berati won the competition for the second time and NBSh Shijak finished as runners up.

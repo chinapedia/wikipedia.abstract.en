@@ -1,0 +1,1 @@
+The IMMACULATE CONCEPTION CATHEDRAL[1] () Also APATZINGÁN CATHEDRAL[2][3] It is a Catholic temple in the city of Apatzingán, Michoacán, Mexico. Is a modernist building and is the headquarters of the Diocese of Apatzingán. It was built in the second half of the 20th century.

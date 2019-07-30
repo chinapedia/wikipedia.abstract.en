@@ -1,0 +1,1 @@
+This article lists important figures and events in the public affairs of BRITISH MALAYA DURING THE YEAR 1943, together with births and deaths of prominent Malayans. Japanese forces continued to occupy Malaya.

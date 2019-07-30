@@ -1,0 +1,1 @@
+The 2016 VALENCIAN COMMUNITY MOTORCYCLE GRAND PRIX was the eighteenth and last round of the 2016 Grand Prix motorcycle racing season. It was held at the Circuit Ricardo Tormo in Valencia on 13 November 2016.

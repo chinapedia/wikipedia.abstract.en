@@ -1,0 +1,1 @@
+The ACTION OF 25 NOVEMBER 1804 was a minor naval engagement that took place off Cádiz early in the Napoleonic Wars between the Royal Navy and Spanish Navy. The battle ended with the capture of the Spanish frigate _Amfitrite_ by HMS _Donegal_.[1]

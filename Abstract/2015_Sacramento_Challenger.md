@@ -1,0 +1,1 @@
+The 2015 SACRAMENTO CHALLENGER was a professional tennis tournament played on hard courts. It was the 11th edition of the tournament which was part of the 2015 ATP Challenger Tour. It took place in Sacramento, United States between 3 October and 11 October 2015.

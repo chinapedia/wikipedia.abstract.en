@@ -1,0 +1,1 @@
+BENOÎT BLANPAIN served as the General Commissioner of _Les Scouts - Fédération des Scouts Baden-Powell de Belgique_ (FSC), the Catholic Baden-Powell-Scout Federation of Belgium, as well as the Secretary General of the International Catholic Conference of Scouting.

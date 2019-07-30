@@ -1,0 +1,1 @@
+PRESIDENTIAL ELECTIONS were held in Turkmenistan on 12 February 2017.[1] This was Turkmenistan's fifth presidential election and decided who would be the country's president for the next seven years. Incumbent President Gurbanguly Berdimuhamedow won with more than 97% of the vote,[2] similar to the results of the 2012 elections.

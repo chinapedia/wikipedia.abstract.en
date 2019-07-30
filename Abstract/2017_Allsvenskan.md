@@ -1,0 +1,1 @@
+The 2017 ALLSVENSKAN, part of the 2017 Swedish football season, is the 93rd season of Allsvenskan since its establishment in 1924. The season began on 1 April 2017 and ended on 5 November the same year.[1][2][3] Fixtures for the 2017 season were announced on 9 December 2016.[4] A total of 16 teams participated.

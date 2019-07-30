@@ -1,0 +1,1 @@
+BIBATA NIANDOU BARRY known as MADAME BARRY (born 1955) is an activist lawyer who rose to be Niger's minister for women in Mamadou Tandja's government. She is the sister of both the politician Harouna Niandou and the political scientist Abdoulaye Niandou Souley.

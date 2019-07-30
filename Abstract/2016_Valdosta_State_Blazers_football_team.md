@@ -1,0 +1,1 @@
+The 2016 VALDOSTA STATE BLAZERS FOOTBALL TEAM represented Valdosta State University during the 2016 NCAA Division II football season. They were led by head coach Kerwin Bell, who was in his first season at Valdosta State. The Blazers played their home games at Bazemore–Hyder Stadium and were members of the Gulf South Conference.

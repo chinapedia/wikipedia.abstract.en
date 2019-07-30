@@ -1,0 +1,1 @@
+Bill_Hillmann_American_Author,_Storyteller,_Journalist_and_Bull_Runner._Photo_by_Jacob_Knabb.jpg BILL HILLMANN (born 1982) is an American author, storyteller, and journalist. He is a bull-runner and former boxer.

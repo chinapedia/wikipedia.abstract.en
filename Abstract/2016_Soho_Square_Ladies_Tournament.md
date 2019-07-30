@@ -1,0 +1,1 @@
+The 2016 SOHO SQUARE LADIES TOURNAMENT was a professional tennis tournament played on outdoor hard courts. It was the 2nd edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $100,000 in prize money. It took place in Sharm el-Sheikh, Egypt, on 17–23 October 2016.

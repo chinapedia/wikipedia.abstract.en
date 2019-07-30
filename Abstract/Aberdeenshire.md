@@ -1,0 +1,1 @@
+| area_footnotes = | area_total_km2 = 6313 | area_total_sq_mi = | area_rank = Ranked 4th | population_footnotes = | population_total = | population_as_of = | population_rank = [[List_of_Scottish_council_areas_by_population|Ranked ABERDEENSHIRE (; ) is one of the 32 council areas of Scotland.

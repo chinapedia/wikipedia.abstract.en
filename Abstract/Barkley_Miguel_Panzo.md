@@ -1,0 +1,1 @@
+BARKLEY MIGUEL PANZO (born 9 September 1992 in Paris[1]) is a French-Angolan[2] professional footballer who currently plays as a striker and winger for Maltese club Vittoriosa Stars in Maltese First Division.

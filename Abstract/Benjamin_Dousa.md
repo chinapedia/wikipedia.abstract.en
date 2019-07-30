@@ -1,0 +1,1 @@
+BENJAMIN ARIF DOUSA (born 5 December 1992) is a Swedish politician of the Moderate Party. He is the current national chairman of the Moderate Youth League, elected in October 2016.[1] He was re-elected to the position on 24 November 2018.[2]

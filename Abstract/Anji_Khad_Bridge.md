@@ -1,0 +1,1 @@
+The ANJI KHAD BRIDGE is a cable-stayed bridge proposed to connect Katra and Reasi Section of Jammu–Baramulla line. Earlier, an arch bridge similar to the Chenab Bridge was proposed. Due to concerns regarding the geological stability of the region, the plan was abandoned.[1]

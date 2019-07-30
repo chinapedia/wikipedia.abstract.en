@@ -1,0 +1,1 @@
+The BALTIC LANGUAGES belong to the Balto-Slavic branch of the Indo-European language family. Baltic languages are spoken by the Balts, mainly in areas extending east and southeast of the Baltic Sea in Northern Europe.

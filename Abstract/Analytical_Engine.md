@@ -1,0 +1,1 @@
+The ANALYTICAL ENGINE was a proposed mechanical general-purpose computer designed by English mathematician and computer pioneer Charles Babbage.[1][2] It was first described in 1837 as the successor to Babbage's difference engine, a design for a simpler mechanical computer.

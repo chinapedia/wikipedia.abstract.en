@@ -1,0 +1,1 @@
+54_Welbeck_Street,_London_W1.jpg 54 WELBECK STREET is a grade II listed town house in Welbeck Street, in the City of Westminster, London. The house is dated 1896 and in free style pink terracotta "Jacobethan".[1][2]

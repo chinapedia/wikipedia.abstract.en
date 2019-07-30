@@ -1,0 +1,1 @@
+In Greco-Roman mythology, BATTUS () was a semi-legendary king of Malta who offered sanctuary to Anna Perenna, the sister of Dido, the Carthaginian founder in Virgil's Aeneid.[1] Battus features briefly in Ovid's Fasti as the protector of Anna Perenna.

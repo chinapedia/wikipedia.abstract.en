@@ -1,0 +1,1 @@
+WILLIAM RANSOM (BILL) CAMPBELL JR. (February 6, 1920 - July 27, 1996) was an American architect. He was a member of a group of modernist architects in North Carolina that had a major academic and architectural influence on the Modernism movement in the 1950s through 1970s.

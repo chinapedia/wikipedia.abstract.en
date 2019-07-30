@@ -1,0 +1,1 @@
+_ART PEPPER WITH DUKE JORDAN IN COPENHAGEN 1981_ is a live album by saxophonist Art Pepper and pianist Duke Jordan recorded in 1981 at the Jazzhus Montmartre by Danmarks Radio and released on the Galaxy label as a double CD in 1996.[1][2]

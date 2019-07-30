@@ -1,0 +1,1 @@
+The LUMIÈRE BROTHERS (, ; ), AUGUSTE MARIE LOUIS NICOLAS (; 19 October 1862 – 10 April 1954) and LOUIS JEAN (; 5 October 1864 – 7 June 1948),[1][2] were among the first filmmakers in history. They patented an improved cinematograph, which in contrast to Thomas Edison's "peepshow" kinetoscope allowed simultaneous viewing by multiple parties.

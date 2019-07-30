@@ -1,0 +1,1 @@
+ALBANIA ( ; ; ),[1] officially the REPUBLIC OF ALBANIA (, ), is a country in Southeast Europe on the Adriatic and Ionian Sea within the Mediterranean Sea. It shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east, Greece to the south and a maritime border with Italy to the west.

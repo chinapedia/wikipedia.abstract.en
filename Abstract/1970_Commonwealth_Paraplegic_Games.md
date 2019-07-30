@@ -1,0 +1,1 @@
+The THIRD COMMONWEALTH PARAPLEGIC GAMES was a multi-sport event that was held in Edinburgh, Scotland from 26 July to 1 August 1970. Dubbed the "little games", they followed the 1970 British Commonwealth Games which were held in Edinburgh from 16 to 25 July of that year.

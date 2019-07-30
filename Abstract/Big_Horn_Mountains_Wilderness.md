@@ -1,0 +1,1 @@
+The BIG HORN MOUNTAINS WILDERNESS is a wilderness area located in central Arizona, USA, within the arid Sonora Desert. The wilderness lies midway between Phoenix and Quartzsite. Consisting of 21,000 acres, it was established by the United States Congress in 1990.

@@ -1,0 +1,1 @@
+An ABATIS, ABATTIS, or ABBATTIS is a field fortification consisting of an obstacle formed (in the modern era) of the branches of trees laid in a row, with the sharpened tops directed outwards, towards the enemy. The trees are usually interlaced or tied with wire. Abatis are used alone or in combination with wire entanglements and other obstacles.

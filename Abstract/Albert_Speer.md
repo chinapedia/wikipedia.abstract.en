@@ -1,0 +1,1 @@
+ALBERT SPEER (; ; March 19, 1905 – September 1, 1981) was the Minister of Armaments and War Production in Nazi Germany during most of World War II. A close ally of Adolf Hitler, he was convicted at the Nuremberg trials and sentenced to 20 years in prison.

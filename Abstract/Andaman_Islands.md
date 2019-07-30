@@ -1,0 +1,1 @@
+The ANDAMAN ISLANDS form an archipelago in the Bay of Bengal between India, to the west, and Myanmar, to the north and east. Most are part of the Andaman and Nicobar Islands which are the Union Territory of India, while a small number in the north of the archipelago, including the Coco Islands, belong to Myanmar.

@@ -1,0 +1,1 @@
+_BE POSITIVE_ () is a South Korean web series starring Do Kyung-soo, Chae Seo-jin and Lee David. The web drama is produced by Samsung, and intends to send a message of support to the younger generation. The drama was aired on October 31, 2016 at 17:00 (KST).[1][2][3][4][5][6] The web drama started airing on JTBC2 starting March 1, 2017.[7]

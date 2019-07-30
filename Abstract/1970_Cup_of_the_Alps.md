@@ -1,0 +1,1 @@
+1970 COPPA DELLE ALPI shows the results of the 1970 tournament that was held in Switzerland in the preseason 1970/71. The Coppa delle Alpi (translated as _Cup of the Alps_) was a football tournament, jointly organized by the Italian Football Federation and the Swiss Football Association as a pre-season event.

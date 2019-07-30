@@ -1,0 +1,1 @@
+The 11TH MISSISSIPPI CAVALRY REGIMENT (also known as "PERRIN'S REGIMENT") was a cavalry formation in the Western Theater of the American Civil War commanded by Col. Robert O. Perrin, from 1863 to March 1865, when he resigned, and Lieut. Col. Henry L. Muldrow, until it was disbanded in May 1865.

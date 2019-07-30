@@ -1,0 +1,1 @@
+AFRICAN FASHION WEEK HOUSTON (AFWH) is the city's premier international fashion series that highlights the essence of African culture and aesthetics on the runway through a series of fashion shows, events, educational seminars, industry-focused workshops and special campaigns. [1]

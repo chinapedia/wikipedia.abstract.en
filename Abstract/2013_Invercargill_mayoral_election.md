@@ -1,0 +1,1 @@
+The 2013 INVERCARGILL MAYORAL ELECTION finished on Saturday, 12 October 2013 and was conducted under the first-past-the-post voting system using the postal voting system. It was held as part of the 2013 New Zealand local elections.

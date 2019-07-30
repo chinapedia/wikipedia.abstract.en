@@ -1,0 +1,1 @@
+The 1948 YALE BULLDOGS FOOTBALL TEAM represented Yale University in the 1948 college football season. The Bulldogs were led by first year head coach Herman Hickman, played their home games at the Yale Bowl and finished the season with a 4–5 record.[1][2]

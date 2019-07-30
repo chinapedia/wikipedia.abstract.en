@@ -1,0 +1,1 @@
+BAMBERG (,[1] also ,[2][3] ) is a town in Upper Franconia, Germany, on the river Regnitz close to its confluence with the river Main. A large part of the town has been a UNESCO World Heritage Site since 1993.

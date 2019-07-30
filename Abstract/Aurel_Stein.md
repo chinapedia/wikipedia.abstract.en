@@ -1,0 +1,1 @@
+SIR MARC AUREL STEIN, [1] (; 26 November 1862 – 26 October 1943) was a Hungarian-born British archaeologist, primarily known for his explorations and archaeological discoveries in Central Asia. He was also a professor at Indian universities.

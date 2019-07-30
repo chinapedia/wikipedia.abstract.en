@@ -1,0 +1,1 @@
+The 1992 WORLD POLO CHAMPIONSHIP was played in Santiago Chile during April 1992 and was won by Argentina. This event brought together six teams from around the world in the _Club de Polo y Equitación San Cristóbal_.

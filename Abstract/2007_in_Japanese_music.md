@@ -1,0 +1,1 @@
+The following is an overview of the year 2007 IN JAPANESE MUSIC. It includes notable awards, lists of number-ones, yearly best-sellers, albums released, groups established and disestablished, deaths of notable Japanese music-related people as well as any other relevant Japanese music-related events. For overviews of the year in music from other countries, see 2007 in music.

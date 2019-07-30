@@ -1,0 +1,1 @@
+AMANITA LONGIPES is a small inedible mushroom species of the Amanita genus. It feeds on decaying leaves of some woods and can be found around the Appalachian Mountains. It is a food source for various insects.

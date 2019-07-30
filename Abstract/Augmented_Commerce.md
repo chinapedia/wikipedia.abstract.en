@@ -1,0 +1,1 @@
+AUGMENTED COMMERCE, as commonly written as A-COMMERCE or ACOMMERCE, is the buying and selling of goods using augmented reality to visualize products virtually in the real-world environment before purchasing.[1]

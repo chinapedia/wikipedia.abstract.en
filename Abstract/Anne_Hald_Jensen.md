@@ -1,0 +1,1 @@
+ANNE HALD JENSEN (born 2 March 1990) is a Danish female badminton player. She represented Greece in 2010-2011.[1][2] In 2009, she won gold medal at the European Junior Badminton Championships in girls' singles event.[3]

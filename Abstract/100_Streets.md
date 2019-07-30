@@ -1,0 +1,1 @@
+_100 STREETS_ is a British drama film directed by Jim O'Hanlon and starring Idris Elba. It made its debut in the United Kingdom on 11 November 2016, before being released in American theaters and on video-on-demand on 13 January 2017 by Samuel Goldwyn Films.[1]

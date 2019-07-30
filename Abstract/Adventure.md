@@ -1,0 +1,1 @@
+An ADVENTURE is an exciting experience that is typically a bold, sometimes risky, undertaking.[1] Adventures may be activities with some potential for physical danger such as traveling, exploring, skydiving, mountain climbing, scuba diving, river rafting or participating in extreme sports.

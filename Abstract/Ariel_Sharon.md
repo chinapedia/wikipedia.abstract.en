@@ -1,0 +1,1 @@
+'''Ariel Sharon ''' (; , __, also known by his diminutive Arik, , born ARIEL SCHEINERMANN, ; 26 February 1928 – 11 January 2014) was an Israeli general and politician who served as the 11th Prime Minister of Israel from March 2001 until April 2006.[1]

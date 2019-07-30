@@ -1,0 +1,1 @@
+ABJURATION is the solemn repudiation, abandonment, or renunciation by or upon oath, often the renunciation of citizenship or some other right or privilege. The term comes from the Latin _abjurare_, "to forswear".

@@ -1,0 +1,1 @@
+BANGLADESH AGRICULTURAL DEVELOPMENT CORPORATION or BADC,[1] is an autonomous government body that manages the agricultural Inputs Supplier i.e. agricultural seeds, non-nitrogen fertilizer and Minor Irrigation facilitating to farmers of Bangladesh and is located in Motijheel Thana, Dhaka, Bangladesh.[2]

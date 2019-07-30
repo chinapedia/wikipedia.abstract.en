@@ -1,0 +1,1 @@
+The 2016 CLARO OPEN MEDELLÍN was a professional tennis tournament played on outdoor clay courts. It is the 13th edition of the tournament. It was part of the 2016 ATP Challenger Tour. It took place in Medellín, Colombia, between 26 September and 1 October 2016.

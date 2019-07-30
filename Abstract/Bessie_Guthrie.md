@@ -1,0 +1,1 @@
+BESSIE GUTHRIE (1905–1977) was an Australian designer, publisher, feminist and campaigner for women's and children's rights. She was one of the founders of the Elsie Women's Refuge Night Shelter, the first women’s refuge in Australia.

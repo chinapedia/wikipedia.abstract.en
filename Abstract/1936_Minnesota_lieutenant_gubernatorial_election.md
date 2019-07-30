@@ -1,0 +1,1 @@
+The 1936 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 3, 1936. Minnesota Farmer–Labor Party candidate Gottfrid Lindsten defeated Republican Party of Minnesota challenger Arthur E. Nelson and Minnesota Democratic Party candidate A. C. Knudson.

@@ -1,0 +1,1 @@
+The 2016 WORLD RX OF GERMANY was the eleventh round of the third season of the FIA World Rallycross Championship.[1] The event was held at the Estering in Buxtehude, Lower Saxony. Mattias Ekström won his maiden World Championship with a round to spare, holding a 30-point buffer to nearest rival Petter Solberg.

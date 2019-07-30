@@ -1,0 +1,1 @@
+The ATLANTA TERMINAL SUBDIVISION is a railroad line owned by CSX Transportation in the U.S. State of Georgia. The Atlanta Terminal Subdivision is broken up into 5 sections known as "Charts" according to the CSX Transportation Timetable #3.[1]

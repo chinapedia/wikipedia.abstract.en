@@ -1,0 +1,1 @@
+The 2017 PIALA SUMBANGSIH was the 32nd Piala Sumbangsih, an annual Malaysian football match played between the winners of the previous season's Malaysia Super League and Malaysia Cup. The game was played between the Kedah FA, winners of the 2016 Malaysia Cup, and Johor Darul Ta'zim F.C., champions of the 2016 Malaysia Super League.[1]

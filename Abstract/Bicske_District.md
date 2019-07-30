@@ -1,0 +1,1 @@
+BICSKE () is a district in north-eastern part of Fejér County. _Bicske_ is also the name of the town where the district seat is found. The district is located in the Central Transdanubia Statistical Region.

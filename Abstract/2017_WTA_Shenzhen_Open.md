@@ -1,0 +1,1 @@
+The 2017 SHENZHEN OPEN (known as _2017 Shenzhen Gemdale Open_ for sponsorship reason) was a tennis tournament played on outdoor hard courts. It was the 5th edition of the Shenzhen Open, and part of the WTA International tournaments of the 2017 WTA Tour. It took place at the Shenzhen Longgang Sports Center in Shenzhen, China, from 1 to 7 January 2017.

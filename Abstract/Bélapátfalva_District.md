@@ -1,0 +1,1 @@
+BÉLAPÁTFALVA () is a district in north-eastern part of Heves County. _Bélapátfalva_ is also the name of the town where the district seat is found. The district is located in the Northern Hungary Statistical Region. This district is a part of Bükk Mountains geographical region.

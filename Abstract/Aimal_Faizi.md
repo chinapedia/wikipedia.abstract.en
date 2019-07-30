@@ -1,0 +1,1 @@
+AIMAL FAIZI (Persian: ) is an Afghan journalist and columnist, who served as the spokesperson of Afghanistan's President Hamid Karzai from 2011 to 2014.[1] He was also the director of communications to the government.

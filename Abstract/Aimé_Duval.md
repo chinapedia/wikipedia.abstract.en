@@ -1,0 +1,1 @@
+AIMÉ DUVAL (better known under the name PÈRE DUVAL), (30 June 1918 – 30 April 1984), was a French priest of the Society of Jesus, a singer-songwriter and guitarist, who was very successful in the 1950s and 1960s.

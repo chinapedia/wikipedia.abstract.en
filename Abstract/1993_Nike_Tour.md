@@ -1,0 +1,1 @@
+The 1993 NIKE TOUR season was the fourth season of the Nike Tour, the PGA Tour's official developmental tour (now known as the Web.com Tour), and the first season sponsored by Nike. The top ten players on the final money list earned PGA Tour cards for 1994.

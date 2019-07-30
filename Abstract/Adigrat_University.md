@@ -1,0 +1,1 @@
+Adigrat_University.jpg ADIGRAT UNIVERSITY () is a residential national university in Adigrat, Tigray, Ethiopia. It is approximately north of Addis Ababa, Ethiopia.[1][2] The Ministry of Education admits qualified students to Adigrat University based on their score on the Ethiopian Higher Education Entrance Examination (EHEEE).

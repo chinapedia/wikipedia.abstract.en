@@ -1,0 +1,1 @@
+The 2017 NORTH QUEENSLAND COWBOYS SEASON was the 23rd in the club's history. Coached by Paul Green and co-captained by Johnathan Thurston and Matthew Scott, they competed in the NRL's 2017 Telstra Premiership. The club became just the second 8th-placed side to make the Grand Final, ultimately losing to the Melbourne Storm.

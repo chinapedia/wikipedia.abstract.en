@@ -1,0 +1,1 @@
+ABDÜLHAMID I, ABDUL HAMID I or ABD AL-HAMID I (, _`Abdü’l-Ḥamīd-i evvel_; ; 20 March 1725 – 7 April 1789)[1] was the 27th Sultan of the Ottoman Empire, reigning over the Ottoman Empire from 1773 to 1789.

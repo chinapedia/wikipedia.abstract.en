@@ -1,0 +1,1 @@
+The CANADA 1941 CENSUS was a detailed enumeration of the Canadian population. The total population count was 11,506,655, representing a 10.9% increase over the 1931 Census population count of 10,376,786.[1] The 1941 Census was the eighth comprehensive decennial census since Canadian Confederation on 1 July 1867. The following comprehensive national census was the 1951 Census.

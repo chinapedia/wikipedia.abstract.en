@@ -1,0 +1,1 @@
+ANTONIO ALBERGATI (16 September 1566 – 13 January 1634) was a Roman Catholic prelate who served as Bishop of Bisceglie (1609–1627),[1] Apostolic Nuncio to Germany (1610–1621), and Apostolic Collector to Portugal (1621–1624).

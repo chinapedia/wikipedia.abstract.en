@@ -1,0 +1,1 @@
+ATOMIC ABSORPTION SPECTROSCOPY (AAS) and atomic emission spectroscopy (AES) is a spectroanalytical procedure for the quantitative determination of chemical elements using the absorption of optical radiation (light) by free atoms in the gaseous state. Atomic absorption spectroscopy is based on absorption of light by free metallic ions.

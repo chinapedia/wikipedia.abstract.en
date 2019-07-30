@@ -1,0 +1,1 @@
+The 2016 TASHKENT CHALLENGER was a professional tennis tournament played on hard courts. It was the ninth edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Tashkent, Uzbekistan between 12 and 17 October 2016.[1]

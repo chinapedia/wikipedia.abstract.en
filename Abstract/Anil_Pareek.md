@@ -1,0 +1,1 @@
+Dr ANIL PAREEK; (born 10 January 1957) is an Indian medical researcher with contributions in hypertension, metabolic disorder and inflammation. His prior experience includes academics and clinical practice. He is involved in drug development process targeting therapy gaps to create scope for innovative products.

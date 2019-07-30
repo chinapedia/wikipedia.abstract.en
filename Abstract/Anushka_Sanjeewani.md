@@ -1,0 +1,1 @@
+ANUSHKA SANJEEWANI (born 24 January 1990) is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against India on 23 January 2014.[2]

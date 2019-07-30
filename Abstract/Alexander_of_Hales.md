@@ -1,0 +1,1 @@
+'' (1493)]] ALEXANDER OF HALES (also HALENSIS, ALENSIS, HALESIUS, ALESIUS ; 21 August 1245), also called _Doctor Irrefragibilis_ (by Pope Alexander IV in the _Bull De Fontibus Paradisi_) and _Theologorum Monarcha_, was a theologian and philosopher important in the development of Scholasticism and of the Franciscan School.

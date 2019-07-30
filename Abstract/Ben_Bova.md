@@ -1,0 +1,1 @@
+'', illustrated by Ed Emshwiller]]

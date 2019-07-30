@@ -1,0 +1,1 @@
+'''Andrea Heinrich ''' (born 17 February 1972) is a German former footballer. She was a member of the Germany women's national football team in 1990 and played in four matches.[1] On club level she played for FSV Frankfurt.

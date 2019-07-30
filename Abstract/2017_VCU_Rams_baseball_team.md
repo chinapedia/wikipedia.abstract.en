@@ -1,0 +1,1 @@
+The 2017 VCU RAMS BASEBALL TEAM was the program's 47th baseball season. It was their 5th season the Atlantic 10 Conference. The Rams began their season on February 17, 2017 with a 3–0 victory over Florida State.

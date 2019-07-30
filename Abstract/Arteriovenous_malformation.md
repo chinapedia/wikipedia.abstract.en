@@ -1,0 +1,1 @@
+ARTERIOVENOUS MALFORMATION is an abnormal connection between arteries and veins, bypassing the capillary system. This vascular anomaly is widely known because of its occurrence in the central nervous system (usually cerebral AVM), but can appear in any location. Although many AVMs are asymptomatic, they can cause intense pain or bleeding or lead to other serious medical problems.

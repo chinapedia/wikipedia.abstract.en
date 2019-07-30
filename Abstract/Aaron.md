@@ -1,0 +1,1 @@
+AARON ( or ; _Ahärôn_)[1] was a prophet, high priest, and the brother of Moses in the Abrahamic religions.[2][3][4][5][6][7][8] Knowledge of Aaron, along with his brother Moses, comes exclusively from religious texts, such as the Bible and Quran.

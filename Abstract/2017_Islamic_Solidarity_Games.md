@@ -1,0 +1,1 @@
+The 4TH ISLAMIC SOLIDARITY GAMES was a multinational, multi-sport event that was held in Baku, Azerbaijan from 12 to 22 May 2017. Previously the event has been held in Saudi Arabia in 2005 and Indonesia in 2013. The second event, originally scheduled to take place in October 2009 in Iran, was later re-scheduled but then cancelled.

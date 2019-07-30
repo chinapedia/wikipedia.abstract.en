@@ -1,0 +1,1 @@
+ARMAND SABATIER (; 13 January 1834 – 22 December 1910) was a French zoologist known for his studies of comparative anatomy of animals, and for his work in photography, discovering and publishing in 1860 the Sabattier effect, also known as pseudo-solarisation.[1][2][3][4]

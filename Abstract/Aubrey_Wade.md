@@ -1,0 +1,1 @@
+AUBREY WADE (born 1977) is a British photographer and photojournalist / documentary photographer[1] best known for his work in Niger and Sierra Leone. He is affiliated with the Panos Pictures photo agency.[2] Wade carries out long-term documentary projects, assignments for publications, and projects for NGOs. He lives in London and Berlin.[3][4]

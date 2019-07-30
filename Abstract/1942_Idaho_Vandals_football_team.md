@@ -1,0 +1,1 @@
+The 1942 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1942 college football season. The Vandals were led by second-year head coach Francis Schmidt and were members of the Pacific Coast Conference. Home games were played on campus in Moscow at Neale Stadium, with one game in Boise at Public School Field, the last in southern Idaho for five years.

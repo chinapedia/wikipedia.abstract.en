@@ -1,0 +1,1 @@
+The 1970 ARIZONA GUBERNATORIAL ELECTION took place on November 3, 1970. Incumbent Governor Jack Williams ran for reelection to a third term as Governor. United States Ambassador to Bolivia Raúl Héctor Castro won the Democratic nomination, and narrowly lost the general election to Williams by 1.78%. Williams was sworn into his third and final term as Governor on January 5, 1971.

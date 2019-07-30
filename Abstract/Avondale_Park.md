@@ -1,0 +1,1 @@
+Tapestry_lawn_at_Avondale_Park_Summer.jpg AVONDALE PARK is a small park in the Royal Borough of Kensington and Chelsea, London, England, between Walmer and Sirdar Roads. It has a mix of formal gardens, sports facilities and lawns. Notably, it is home to what is believed to be Britain's first floral lawn.[1]

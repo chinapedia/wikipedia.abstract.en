@@ -1,0 +1,1 @@
+_BAPHIASTRUM_ is a genus of flowering plants in the legume family, found in west Africa.[1] It belongs to the subfamily Faboideae. _Baphiastrum_ was traditionally assigned to the tribe Sophoreae;[2] however, recent molecular phylogenetic analyses reassigned _Baphiastrum_ to the Baphieae tribe.[3][4]

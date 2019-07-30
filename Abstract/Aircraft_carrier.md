@@ -1,0 +1,1 @@
+, , helicopter carrier —and escort vessels, 2002]] carrier _Príncipe de Asturias_, amphibious assault ship , fleet carrier , and light V/STOL carrier , showing size differences of late 20th century carriers, 1991]]

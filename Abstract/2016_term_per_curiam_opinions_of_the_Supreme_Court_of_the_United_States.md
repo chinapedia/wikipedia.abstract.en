@@ -1,0 +1,1 @@
+Seal_of_the_United_States_Supreme_Court.svg The Supreme Court of the United States handed down nine _per curiam_ opinions during its 2016 term, which began October 3, 2016 and concluded October 1, 2017.

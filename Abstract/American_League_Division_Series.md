@@ -1,0 +1,1 @@
+In Major League Baseball, the AMERICAN LEAGUE DIVISION SERIES (ALDS) determines which two teams from the American League will advance to the American League Championship Series. The Division Series consists of two best-of-five series, featuring the three division winners and the winner of the wild-card play-off.

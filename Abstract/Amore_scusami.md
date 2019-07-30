@@ -1,0 +1,1 @@
+"AMORE SCUSAMI" is a 1964 song composed by Gino Mescoli and Vito Pallavicini. The song premiered at the Un disco per l'estate music festival with a performance of John Foster, and then got an immediate commercial success, peaking at third place on the Italian hit parade and remaining in the top ten for five months.[1]

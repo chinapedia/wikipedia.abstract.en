@@ -1,0 +1,1 @@
+ANTONELLO SILVERINI (21 August 1966, Rome) is an Italian illustrator. He is the first illustrator awarded the prize MAM (Master of Art and Craft).[1] He has collaborated with _Il Sole 24 Ore_, _la Repubblica_, Panorama, _l'Espresso_, and _The Boston Globe_, and has designed book covers for several novels including those of Ian McEwan for Einaudi[2] and Philip K. Dick for Fanucci.

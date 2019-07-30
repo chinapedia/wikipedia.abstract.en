@@ -1,0 +1,1 @@
+BERNARD HENRY WOODWARD FGS (31 January 1846 – 14 October 1916) was an English-born Australian museum director and naturalist, associated with the Western Australian Museum from its beginnings in 1889 until 1914.

@@ -1,0 +1,1 @@
+ARTURO UZDAVINIS (born November 2, 1992) is an American football offensive tackle who is currently a free agent. He played college football at Tulane. He was signed by the Houston Texans as an undrafted free agent in 2016.

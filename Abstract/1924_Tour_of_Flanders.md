@@ -1,0 +1,1 @@
+The eighth running of the TOUR OF FLANDERS cycling classic was held on Tuesday, 18 March 1924. Belgian track specialist Gerard Debaets won the race after a solo breakaway. René Vermandel and Felix Sellier completed the podium.[1] 17 of 63 riders finished.[2]

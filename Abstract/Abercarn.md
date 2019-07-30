@@ -1,0 +1,1 @@
+ABERCARN is a small town[1] and community in Caerphilly county borough, Wales. It is 10 miles (16 km) northwest of Newport on the A467 between Cwmcarn and Newbridge, within the historic boundaries of Monmouthshire.

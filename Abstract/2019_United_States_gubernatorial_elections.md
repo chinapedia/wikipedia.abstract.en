@@ -1,0 +1,1 @@
+UNITED STATES GUBERNATORIAL ELECTIONS will be held on November 5, 2019 in three states. Depending on state law, special elections may also take place if other gubernatorial seats are vacated. These elections form part of the 2019 United States elections. The last regular gubernatorial elections for all three states were in 2015.

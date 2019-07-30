@@ -1,0 +1,1 @@
+REGIONAL ELECTIONS were held in the Czech Republic to elect the Regional Councils of 13 regions (all except Prague) on 12 November 2000. Voter turnout was only 33.6%.[1] The elections were won by the Civic Democratic Party, with Four-Coalition coming second and the ruling Czech Social Democratic Party in fourth.[2][3]

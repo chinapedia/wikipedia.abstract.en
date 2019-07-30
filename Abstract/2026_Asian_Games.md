@@ -1,0 +1,1 @@
+The 2026 ASIAN GAMES (), also known as XX ASIAD (), will be a multi-sport event celebrated in Nagoya, Japan from September 19 to October 4, 2026.[1] Nagoya will be the third Japanese city to host the Games, after Tokyo in 1958 and Hiroshima in 1994.

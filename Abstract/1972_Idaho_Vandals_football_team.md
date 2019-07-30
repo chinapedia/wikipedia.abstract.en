@@ -1,0 +1,1 @@
+The 1972 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1972 NCAA University Division football season. The Vandals were led by third-year head coach Don Robbins and were members of the Big Sky Conference. They played their home games at new Idaho Stadium, an unlit outdoor facility on campus in Moscow, Idaho.

@@ -1,0 +1,1 @@
+The INTERNATIONAL JOINT CONFERENCE ON BIOMEDICAL ENGINEERING SYSTEMS AND TECHNOLOGIES - BIOSTEC - is an international joint conference composed of five co-located conferences each specialized in a different knowledge area:

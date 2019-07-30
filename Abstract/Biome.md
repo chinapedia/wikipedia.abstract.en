@@ -1,0 +1,1 @@
+A BIOME is a community of plants and animals that have common characteristics for the environment they exist in. They can be found over a range of continents. Biomes are distinct biological communities that have formed in response to a shared physical climate.[1][2] _Biome_ is a broader term than _habitat_; any biome can comprise a variety of habitats.

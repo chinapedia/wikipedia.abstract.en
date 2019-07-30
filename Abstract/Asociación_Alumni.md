@@ -1,0 +1,1 @@
+ASOCIACIÓN ALUMNI, usually just ALUMNI, is an Argentine rugby union club located in Tortuguitas, Greater Buenos Aires. The senior squad currently competes at Top 12, the first division of the Unión de Rugby de Buenos Aires league system.

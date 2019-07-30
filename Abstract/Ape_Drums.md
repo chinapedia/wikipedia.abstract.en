@@ -1,0 +1,1 @@
+ERIC ALBERTO-LOPEZ, known professionally as APE DRUMS, is an American DJ and record producer.[1] Ape Drums is known for fusing electronic dance music with Caribbean sounds, described as by THUMP as "Modern Dancehall Music."[2]

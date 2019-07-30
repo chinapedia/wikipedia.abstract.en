@@ -1,0 +1,1 @@
+AMBROGIO BRAMBILLA (active 1579–1599) was an Italian engraver and cartographer, mainly active in Rome. Ambrogio_Brambilla_-_Caricatures_of_the_Gods_of_Olympus_-_WGA03075.jpg Wolf-Dietrich-Klebeband_Städtebilder_G_120_III.jpg

@@ -1,0 +1,1 @@
+The 2000 PALMER CUP was held on 15–16 August 2000 at Royal Liverpool Golf Club in Hoylake, England. Great Britain and Ireland won 12½–11½.[1] At the final hole of the final match, Philip Rowe holed a 20-foot putt for a birdie, to halve his match and win the Palmer Cup.[2]

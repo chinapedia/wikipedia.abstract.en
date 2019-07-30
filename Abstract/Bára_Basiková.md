@@ -1,0 +1,1 @@
+BARBORA "BÁRA" BASIKOVÁ (born 17 February 1963) is a Czech singer and actress.[1] She was named Female Singer of the Year at the 1991 Anděl Awards.[2] In 2002, she performed the title role in the famous Czech musical, Kleopatra, at Prague's Broadway Theatre.[3] Basiková placed third in the 1987 Zlatý slavík for female singer behind Petra Janů and Iveta Bartošová.[4]

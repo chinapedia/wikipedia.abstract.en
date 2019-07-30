@@ -1,0 +1,1 @@
+AJDAR ISMAILOV (full name: _Ajdar Tagi Ismailov_; b. April 23, 1938, Chomakhtur, Sherur raion, Nakhchivan ASSR, Azerbaijan SSR, USSR), Professor Doctor of philological sciences, one of the 91st, one of the most active founders of New Azerbaijan Party.[1]

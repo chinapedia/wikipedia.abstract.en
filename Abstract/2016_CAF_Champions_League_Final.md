@@ -1,0 +1,1 @@
+The 2016 CAF CHAMPIONS LEAGUE FINAL was the final of the 2016 CAF Champions League, the 52nd edition of Africa's premier club football tournament organized by the Confederation of African Football (CAF), and the 20th edition under the current CAF Champions League format.

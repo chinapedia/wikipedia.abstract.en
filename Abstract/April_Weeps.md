@@ -1,0 +1,1 @@
+APRIL WEEPS is a Slovak atmospheric metal band, based in Dunajská Streda, Slovakia.[1] They are known for their heavy riffs, atmospheric melodies, intense and energetic performances.[2] The band released its first album titled "Outer Calm, Pain Within" in 2013[3] and played with such big names like Epica, Novembre, Draconian, In Mourning, Saturnus and Tristania[4] since then.[5]

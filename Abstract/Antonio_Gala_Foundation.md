@@ -1,0 +1,1 @@
+The ANTONIO GALA FOUNDATION for Young Artists (Fundación Antonio Gala para jóvenes artistas) is a private non-profit organization dedicated to fostering artistic creation . It is registered in the Register of Foundations of the Ministry of Culture of Spain , recognizing the general interest of its purposes.

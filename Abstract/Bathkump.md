@@ -1,0 +1,1 @@
+BATHKUMP is a village in the Rural District in the Western Area of Sierra Leone.[1] Bathkump is located about twenty miles east of Freetown. The major economic activity in Bathkump is farming. Bathkump is within very close proximity to its neighboring village of Forgbo.

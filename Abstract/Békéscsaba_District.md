@@ -1,0 +1,1 @@
+BÉKÉSCSABA () is a district in central-southern part of Békés County. _Békéscsaba_ is also the name of the town where the district seat is found. The district is located in the Southern Great Plain Statistical Region.

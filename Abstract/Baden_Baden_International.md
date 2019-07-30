@@ -1,0 +1,1 @@
+The BADEN BADEN INTERNATIONAL [1] also known as the BADEN-BADEN [2] tennis tournament and the BADEN BADEN INVITATIONAL was a tennis event held from 1896 through 1966 in Baden-Baden, Baden-Württemberg, Germany on outdoor Clay courts.

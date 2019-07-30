@@ -1,0 +1,1 @@
+Axel_Tallberg_Selfportrait.JPG AXEL TALLBERG (1860–1928) was a Swedish visual artist and engraver. He is remembered for his etching course at the Royal Swedish Academy of Art and for his portraits, including those of King Oscar II, Leo Tolstoy and Theodore Roosevelt.[1][2]

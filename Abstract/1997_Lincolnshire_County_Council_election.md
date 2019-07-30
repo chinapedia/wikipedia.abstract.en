@@ -1,0 +1,1 @@
+The 1997 LINCOLNSHIRE COUNTY COUNCIL ELECTION was held on Thursday, 1 May 1997, the same day as the general election. The whole council of 76 members was up for election and the election resulted in the Conservative Party making significant gains and regaining control of the council, winning 42 seats.[1]

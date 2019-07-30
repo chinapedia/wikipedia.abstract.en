@@ -1,0 +1,1 @@
+ANDREW GEORGE MCCABE (born March 18, 1968[1]) is an American former Federal Bureau of Investigation (FBI) agent and attorney who served as the Deputy Director of the FBI from February 2016 to January 2018.

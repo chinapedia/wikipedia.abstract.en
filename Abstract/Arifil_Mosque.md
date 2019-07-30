@@ -1,0 +1,1 @@
+ARIFILE MOSQUE is in Sarail Upazila at Brahmanbaria District, Bangladesh,[1] founded by Shah Arif in 1662. Name derived from Arif to Arifile. Locally known as Arail Mosque. This is an example of Mughal architecture, which combined Bengali, Persian and Islamic influences.

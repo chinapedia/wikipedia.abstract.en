@@ -1,0 +1,1 @@
+Early GENERAL ELECTIONS were held in Kuwait on 26 November 2016. They follow the dissolution of the parliament elected in 2013 by Emir Sabah Al-Ahmad Al-Jaber Al-Sabah in October 2016.[1] Under the constitution, elections must be held within two months.[2] Opposition candidates won 24 of the 50 seats in the National Assembly.[3] Voter turnout was around 70 percent.[4]

@@ -1,0 +1,1 @@
+ANNICK GEILLE is a French writer and journalist, prix du premier roman in 1981 for _Portrait d'un amour coupable_ and prix Alfred-Née of the Académie française in 1984 for _Une femme amoureuse_. With Robert Doisneau, she is also cofounder of the magazine _Femme_.

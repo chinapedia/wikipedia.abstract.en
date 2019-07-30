@@ -1,0 +1,1 @@
+The 2017 THAI LEAGUE 2 (known as the M-150 CHAMPIONSHIP for sponsorship reasons) is the 20th season of the League since its establishment in 1997. It is the feeder league for the Thai League T1. A total of 18 teams will compete in the league this season.

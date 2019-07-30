@@ -1,0 +1,1 @@
+BERNARDINO DE LEIS, C.R.L. (died 1506) was a Roman Catholic prelate who served as Bishop of Cagli (1504–1506),[1] Bishop of Lavello (1504),[2] Bishop of Castro di Puglia (1504),[3] and Bishop of Ischia (1501–1504).[4]

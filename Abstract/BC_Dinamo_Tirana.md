@@ -1,0 +1,1 @@
+BC DINAMO TIRANA is an Albanian basketball team based in the country's capital Tiranë, which is the basketball department of multidisciplinary Dinamo Tirana. The club does not currently compete professionally but they have won the Albanian Basketball Superliga in 1995, and they have also won the Albanian Basketball Cup on six occasions between 1974 and 1999.[1][2]

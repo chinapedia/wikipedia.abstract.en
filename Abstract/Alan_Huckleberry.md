@@ -1,0 +1,1 @@
+ALAN TRINLER HUCKLEBERRY (born February 18, 1941) is an American mathematician who works in complex analysis, Lie groups actions and algebraic geometry. He is currently (since 2009) Professor Emeritus of Mathematics at Ruhr University Bochum and Wisdom Professor of Mathematics at Jacobs University Bremen in Germany.

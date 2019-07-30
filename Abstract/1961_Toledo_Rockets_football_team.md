@@ -1,0 +1,1 @@
+The 1961 TOLEDO ROCKETS FOOTBALL TEAM was an American football team that represented the University of Toledo in the Mid-American Conference (MAC) during the 1961 college football season. In their second season under head coach Clive Rush, the Rockets compiled a 3–7 record (2–4 against MAC opponents) and finished in fifth place in the MAC.[1][2]

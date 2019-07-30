@@ -1,0 +1,1 @@
+The 2016 CHICAGO EAGLES SEASON was the team's first season and first as a member of Champions Indoor Football (CIF). The Eagles were one of 12 teams in the CIF for the 2016 season, they played in the 6-team Northern Division.

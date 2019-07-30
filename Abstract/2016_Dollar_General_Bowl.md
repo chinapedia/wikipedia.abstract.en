@@ -1,0 +1,1 @@
+The 2016 DOLLAR GENERAL BOWL was a postseason college football bowl game that was played at Ladd–Peebles Stadium in Mobile, Alabama on December 23, 2016.[1] The 18th edition of the Dollar General Bowl (previously called the GoDaddy Bowl) featured the Ohio Bobcats of the Mid-American Conference versus the Troy Trojans of the Sun Belt Conference.[2]

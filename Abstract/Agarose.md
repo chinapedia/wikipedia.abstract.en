@@ -1,0 +1,1 @@
+AGAROSE is a polysaccharide, generally extracted from certain red seaweed.[1] It is a linear polymer made up of the repeating unit of agarobiose, which is a disaccharide made up of D-galactose and 3,6-anhydro-L-galactopyranose.[2] Agarose is one of the two principal components of agar, and is purified from agar by removing agar's other component, agaropectin.[3]

@@ -1,0 +1,1 @@
+The 1974 BROWNLOW MEDAL was the 47th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Keith Greig of the North Melbourne Football Club won the medal for the second consecutive year by polling twenty-seven votes during the 1974 VFL season.[2]

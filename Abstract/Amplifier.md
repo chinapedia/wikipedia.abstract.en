@@ -1,0 +1,1 @@
+(voltage or current) of a time-varying signal by a given factor, as shown here. The graph shows the input v_(i)(t) _(blue)_ and output voltage v_(o)(t) _(red)_ of an ideal linear amplifier with an arbitrary signal applied as input. In this example the amplifier has a _voltage gain_ of 3; that is at any instant v_(o) = 3v_(i) ]]

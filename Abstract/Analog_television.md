@@ -1,0 +1,1 @@
+ANALOG TELEVISION or ANALOGUE TELEVISION is the original television technology that uses analog signals to transmit video and audio.[1] In an analog television broadcast, the brightness, colors and sound are represented by rapid variations of either the amplitude, frequency or phase of the signal.

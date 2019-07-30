@@ -1,0 +1,1 @@
+The 1954 ALABAMA GUBERNATORIAL ELECTION took place on November 2, 1954, to elect the Governor of Alabama. Incumbent Democrat Gordon Persons was term-limited, and could not seek a second consecutive term.

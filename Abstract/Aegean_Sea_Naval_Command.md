@@ -1,0 +1,1 @@
+AEGEAN SEA NAVAL COMMAND (), formerly the SOUTHERN AEGEAN NAVAL COMMAND (Ναυτική Διοίκηση Νοτίου Αιγαίου, ΝΔΝΑ), is a regional command of the Hellenic Navy covering the eastern coasts of mainland Greece and most of the Aegean Sea and the Aegean islands.

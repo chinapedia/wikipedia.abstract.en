@@ -1,0 +1,1 @@
+In computer science, an ATTRIBUTED GRAPH GRAMMAR is a class of graph grammar that associates vertices with a set of attributes and rewrites with functions on attributes. In the algebraic approach to graph grammars, they are usually formulated using the double-pushout approach or the single-pushout approach.

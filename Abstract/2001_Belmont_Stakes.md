@@ -1,0 +1,1 @@
+The 2001 BELMONT STAKES was the 133rd running of the Belmont Stakes. The race, known as the "test of the champion" and sometimes called the "final jewel" in thoroughbred horse racing's Triple Crown series, was held on June 9, 2001, three weeks after the Preakness Stakes and five weeks after the Kentucky Derby.

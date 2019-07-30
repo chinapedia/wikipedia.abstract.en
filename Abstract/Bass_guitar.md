@@ -1,0 +1,1 @@
+The BASS GUITAR (or simply BASS) is a plucked string instrument similar in appearance and construction to an electric or an acoustic guitar, except with a longer neck and scale length, and typically four to six strings or courses.

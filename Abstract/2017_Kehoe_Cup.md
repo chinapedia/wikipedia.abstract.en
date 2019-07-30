@@ -1,0 +1,1 @@
+The 2017 KEHOE CUP was an inter-county and university hurling competition in the province of Leinster. The competition is ranked below the Walsh Cup and features second and third tier counties from Leinster.[1][2] Maynooth University were the winners.[3]

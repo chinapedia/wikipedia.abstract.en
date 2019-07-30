@@ -1,0 +1,1 @@
+_ARCHANA IAS_ is a 1991 Tamil political drama film directed by A. Jagannathan. The film features Sithara, R. Sarathkumar and Siva in the lead roles, with Janagaraj, Vijayakumar, Srividya, Thalapathy Dinesh, Senthil and Delhi Ganesh playing supporting roles. The film had musical score by S. A. Rajkumar and was released on 5 July 1991.[1][2][3]

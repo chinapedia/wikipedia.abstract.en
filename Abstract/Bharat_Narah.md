@@ -1,0 +1,1 @@
+BHARAT NARAH is an Indian National Congress politician from Assam. He was elected in Assam Legislative Assembly election from 1985 to 2006 from Dhakuakhana constituency.[1] Formerly, he was with Asom Gana Parishad.[2][3] He is husband of Rajya sabha MP. Ranee Narah.

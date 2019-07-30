@@ -1,0 +1,1 @@
+The 1964 VERMONT CATAMOUNTS FOOTBALL TEAM represented the Vermont Catamounts football team of the University of Vermont during the 1964 NCAA College Division football season. With a 7–1 record (3–1 in the Yankee Conference), this was Vermont's most successful season.[1]

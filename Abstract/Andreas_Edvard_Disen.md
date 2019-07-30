@@ -1,0 +1,1 @@
+Andreas_Edvard_Disen_-_Fjellparti_(1884).jpg ANDREAS EDVARD DISEN (4 August 1845, Modum - 18 February 1923, Modum) was a Norwegian painter; primarily known for mountain landscapes from Jotunheimen and Hardangervidda.

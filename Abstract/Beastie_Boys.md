@@ -1,0 +1,1 @@
+The BEASTIE BOYS were an American hip hop group from New York City formed in 1981.[1] The group comprised Michael "Mike D" Diamond (vocals, drums), Adam "MCA" Yauch (vocals, bass) and Adam "Ad-Rock" Horovitz (vocals, guitar).

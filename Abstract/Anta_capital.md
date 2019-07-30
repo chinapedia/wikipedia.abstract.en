@@ -1,0 +1,1 @@
+An ANTA CAPITAL is the crowning portion of an anta, the front edge of a supporting wall in Greek temple architecture. The anta is generally crowned by a stone block designed to spread the load from superstructure (entablature) it supports, called an "anta capitals" when it is structural, or sometimes "pilaster capital" if it is only decorative as often during the Roman period.

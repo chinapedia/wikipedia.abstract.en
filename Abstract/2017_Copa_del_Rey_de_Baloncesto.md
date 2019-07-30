@@ -1,0 +1,1 @@
+The 2017 COPA DEL REY DE BALONCESTO is the 81st edition of the Spanish King's Basketball Cup. It is managed by the ACB and is held in Vitoria-Gasteiz, in the Fernando Buesa Arena on February 16–19, 2017.[1] Real Madrid defended successfully the title and conquered its fourth consecutive cup, 27th overall.

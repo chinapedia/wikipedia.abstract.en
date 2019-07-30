@@ -1,0 +1,1 @@
+In inorganic chemistry, BICARBONATE (IUPAC-recommended nomenclature: HYDROGENCARBONATE[1]) is an intermediate form in the deprotonation of carbonic acid. It is a polyatomic anion with the chemical formula .

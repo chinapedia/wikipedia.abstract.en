@@ -1,0 +1,1 @@
+The 37TH BLUE DRAGON FILM AWARDS ceremony was held on November 25, 2016 at Kyung Hee University's Peace Palace Hall in Seoul. It was live broadcast on SBS and hosted by Kim Hye-soo and Yoo Jun-sang.[1][2][3][4][5][6][7]

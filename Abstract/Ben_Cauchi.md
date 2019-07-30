@@ -1,0 +1,1 @@
+BEN CAUCHI (born 1974, Auckland, New Zealand)[1] is a New Zealand fine art photographer, specialising in the use of early photographic techniques, most notably the wet collodion or ambrotype process.[2][3]

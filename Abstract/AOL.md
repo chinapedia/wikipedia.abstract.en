@@ -1,0 +1,1 @@
+AOL (stylized as AOL., formerly a company known as AOL INC. and originally known as AMERICA ONLINE) is an American web portal and online service provider based in New York City. It is a brand marketed by Verizon Media.

@@ -1,0 +1,1 @@
+(Kyūjitai: 合氣道) is a modern Japanese martial art developed by Morihei Ueshiba as a synthesis of his martial studies, philosophy and religious beliefs. Ueshiba's goal was to create an art that practitioners could use to defend themselves while also protecting their attacker from injury.[1][2] Aikido is often translated as the art of peace. [3] or as the power of love. [4]

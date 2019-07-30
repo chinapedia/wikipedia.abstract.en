@@ -1,0 +1,1 @@
+ANOA, also known as MIDGET BUFFALO and SAPIUTAN, are a subgenus of _Bubalus_ comprising two species endemic to the island of Sulawesi in Indonesia: the MOUNTAIN ANOA (_Bubalus quarlesi_) and the LOWLAND ANOA (_Bubalus depressicornis_). Both live in undisturbed rainforest and are similar in appearance to miniature water buffalo, weighing .

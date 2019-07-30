@@ -1,0 +1,1 @@
+_AMMANI_ is a 2016 Indian Tamil-language drama film written and directed by Lakshmy Ramakrishnan. It features herself, Subbalakshmi and Nithin Sathya in the leading roles. The film, produced by Ven Govinda, released on 14 October 2016.[1]

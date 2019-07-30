@@ -1,0 +1,1 @@
+The 1952 BROWNLOW MEDAL was the 25th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Bill Hutchison of the Essendon Football Club and Roy Wright of the Richmond Football Club both won the medal by polling twenty-one votes during the 1952 VFL season.[2]

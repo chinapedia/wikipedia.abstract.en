@@ -1,0 +1,1 @@
+_APPALACHIAN OUTLAWS_ is an American reality television series that focuses on the activities of ginseng harvesters in the forests surrounding the Appalachian Mountains. The series premiered on January 9, 2014, on History.[1][2]

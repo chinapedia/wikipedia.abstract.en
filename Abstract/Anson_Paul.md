@@ -1,0 +1,1 @@
+ANSON PAUL is an actor of Indian films who has appeared in Malayalam as well as Tamil language films and in many Albums including Hindi.[1] Paul made his acting debut in the 2013 Malayalam film, _KQ_, where he replaced a busy Arya as the leading man in the Parvathy Omanakuttan film.[2][3]

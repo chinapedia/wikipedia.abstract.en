@@ -1,0 +1,1 @@
+The 1868 ALABAMA GUBERNATORIAL ELECTION took place on February 4, 1868 in order to elect the Governor of Alabama. Republican William Hugh Smith ran unopposed. This is the first time that a Republican became Governor of Alabama.

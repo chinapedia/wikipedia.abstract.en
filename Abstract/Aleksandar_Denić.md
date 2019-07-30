@@ -1,0 +1,1 @@
+ALEKSANDAR DENIĆ (born 31 October 1963, in Belgrade) (outside Serbia frequently spelt ALEKSANDAR DENIC) is a Serbian stage designer and film production designer. He is known as a scenographer of feature films, as well as for his work at major theatres including Berlin, Hamburg, Stuttgart, Bayreuth, Paris, Zurich and Munich.

@@ -1,0 +1,1 @@
+In 2017, the Southern Kings participated in the 2017 Super Rugby competition, their third appearance in the competition after also playing in 2013 and 2016. They were included in the Africa 2 Conference of the competition, along with , and .

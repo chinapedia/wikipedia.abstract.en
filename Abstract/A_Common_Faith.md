@@ -1,0 +1,1 @@
+_A COMMON FAITH_ (1934) is a compilation of John Dewey's writings based on the Terry Lectures at Yale University. It consists of three chapters: "Religion Versus the Religious," "Faith and Its Object," and "The Human Abode of the Religious Function."

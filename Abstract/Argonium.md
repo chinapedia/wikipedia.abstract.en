@@ -1,0 +1,1 @@
+ARGONIUM (also called the ARGON HYDRIDE CATION, the HYDRIDOARGON(1+) ION, or PROTONATED ARGON; chemical formula ArH⁺) is a cation combining a proton and an argon atom. It can be made in an electric discharge, and was the first noble gas molecular ion to be found in interstellar space.[1]

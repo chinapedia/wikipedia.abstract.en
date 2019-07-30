@@ -1,0 +1,1 @@
+AMMONIUS HERMIAE (; _Ammōnios ho Hermeiou_; ) was a Greek philosopher, and the son of the Neoplatonist philosophers Hermias and Aedesia. He was a pupil of Proclus in Athens, and taught at Alexandria for most of his life, writing commentaries on Plato, Aristotle, and other philosophers.

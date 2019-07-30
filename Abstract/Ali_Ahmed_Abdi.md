@@ -1,0 +1,1 @@
+ALI AHMED ABDI was a Somali journalist who worked for Radio Gaalkacyo.[1] He worked in the station for three years as head of programs, until his untimely death by shooting with the insurgent group Al-Shabaab claiming responsibility.[2]

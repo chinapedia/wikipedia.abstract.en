@@ -1,0 +1,1 @@
+BAMESSING village is one of four villages that make up Ndop central Central Sub Division, and one of thirteen villages of Ngoketunjia division of the North West region of Cameroon. Bamessing is located along the ring road from Bamenda, some 38 km from the town of Bamenda, on the Bamenda-Nkambe stretch of the ring road, just before Bamunka (Ndop town).

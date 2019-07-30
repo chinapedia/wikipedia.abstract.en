@@ -1,0 +1,1 @@
+BAO WENYUE (, 1892—1980) was a Chinese warlord and military officer who was the Minister of Military Affairs in the Reorganized National Government of China under Wang Jingwei, during the Second Sino-Japanese War.

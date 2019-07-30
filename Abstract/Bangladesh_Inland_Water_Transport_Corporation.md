@@ -1,0 +1,1 @@
+BANGLADESH INLAND WATER TRANSPORT CORPORATION or BIWTC,[1] is a government-owned company that owns and operates river vessels and ships; and river ports in Bangladesh and is located in Dhaka, Bangladesh.[2][3]

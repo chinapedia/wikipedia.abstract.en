@@ -1,0 +1,1 @@
+ABBOS RAKHMONOV (born 7 July 1998) is an Uzbekistani freestyle wrestler. He competed in the men's freestyle 57 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 32 by Yowlys Bonne.[1][2]

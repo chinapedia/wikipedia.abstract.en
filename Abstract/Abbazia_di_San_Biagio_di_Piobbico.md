@@ -1,0 +1,1 @@
+The ABBEY OF SAN BIAGIO DI PIOBBICO was a former Roman Catholic monastery located in a rural site in the frazione of Piobbico, within the limits of the commune of Sarnano, in the province of Macerata, region of Marche, Italy. Of the abbey, only the church, dedicated to St Blaise, and a small monastic apartment remain.

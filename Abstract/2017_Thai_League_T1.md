@@ -1,0 +1,1 @@
+The 2017 THAI LEAGUE T1 (also known as the TOYOTA THAI LEAGUE for sponsorship reasons) was the 21st season of the Thai League, the top Thai professional league for association football clubs, since its establishment in 1996. A total of 18 teams will compete in the league. The season began on 11 February 2017. Fixtures for the 2017 season were announced on 12 January 2017.

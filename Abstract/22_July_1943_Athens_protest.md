@@ -1,0 +1,1 @@
+The 22 JULY 1943 ATHENS PROTEST () was a massive protest that took place in Axis-occupied Athens, Greece on July 22, 1943 against the German plans to expand the Bulgarian occupation zone in Greek Macedonia.[1]

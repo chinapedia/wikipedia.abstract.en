@@ -1,0 +1,1 @@
+BARBARA STERNBERG (born in 1945) is a Canadian film director known for her experimental films.[1] Sternberg directed films such as _Opus 40_ (1979), _Transitions_ (1982), _At Present_ (1990), _Through and Through_ (1992), and _Midst_ (1997).[2]

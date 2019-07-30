@@ -1,0 +1,1 @@
+_BANGARU BOMMALU_ (English: GOLDEN TOYS) is a 1977 Telugu romance film, produced and directed by V. B. Rajendra Prasad[1] under his Jagapathi Art Pictures banner.[2] It stars Akkineni Nageswara Rao, Manjula in the lead roles[3] and music composed by K. V. Mahadevan.[4]

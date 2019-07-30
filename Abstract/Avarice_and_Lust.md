@@ -1,0 +1,1 @@
+_AVARICE AND LUST_ is a sculpture by French artist Auguste Rodin, conceived between 1885-1887, representing two of the seven capital sins and is part of his sculptural group _The Gates of Hell_,[1] where it can be found in the lower part of the right door.[2] It's possible that the name was inspired by Victor Hugo's poem _After reading Dante_:[3]

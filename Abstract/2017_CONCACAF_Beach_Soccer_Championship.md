@@ -1,0 +1,1 @@
+The 2017 CONCACAF BEACH SOCCER CHAMPIONSHIP was a beach soccer tournament which took place in Nassau from 20 to 26 February 2017.[1] This was the second time that the CONCACAF Beach Soccer Championship was held in the Bahamas. All matches were played at the Malcolm Beach Soccer Facility.

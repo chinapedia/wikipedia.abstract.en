@@ -1,0 +1,1 @@
+The 2016 COPA SUDAMERICANA FINALS were scheduled to be the two-legged final that would decide the winner of the 2016 Copa Sudamericana, the 15th edition of the Copa Sudamericana, South America's secondary international club football tournament organized by CONMEBOL.

@@ -1,0 +1,1 @@
+The AMPERE ( or (UK)[1][2], symbol: A),[3] often shortened to "amp",[4] is the base unit of electric current in the International System of Units (SI).[5][6] It is named after André-Marie Ampère (1775–1836), French mathematician and physicist, considered the father of electrodynamics.

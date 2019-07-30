@@ -1,0 +1,1 @@
+The ASSOCIATION OF TOP ACHIEVER SCOUTS (ATAS) is a worldwide Scouting fellowship group, of Scouts and Scouters who have achieved the highest rank as a youth in their Scout associations-Queen's Scout, President's Scout, Fuji Scout, Eagle Scout, etc.[1]

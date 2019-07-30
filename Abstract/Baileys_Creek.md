@@ -1,0 +1,1 @@
+Bailey Creek}} BAILEYS CREEK is a stream in Osage and Gasconade counties of central Missouri.[1] The stream flows to the northeast and has a confluence with the Missouri River, three miles northwest of Gasconade.[2]

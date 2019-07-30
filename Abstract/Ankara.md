@@ -1,0 +1,1 @@
+ANKARA (,[1] also ,[2][3][4] ), historically known as ANCYRA ()[5][6] and ANGORA[7] (,[8] also ),[9] is the capital of Turkey. With a population of 4,587,558 in the urban center (2014) and 5,150,072 in its province (2015),[10] it is Turkey's second largest city after Istanbul (the former imperial capital), having outranked İzmir in the 20th century.

@@ -1,0 +1,1 @@
+ALIMUDDIN DAENG MATIRO was the second regent of Poso Regency, Central Sulawesi, Indonesia; who ruled from 1954 to 1956. As well as the first regent of Poso, Abdul Latif Daeng Masikki, he also came from the military.[1]
