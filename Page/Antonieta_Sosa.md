@@ -1,0 +1,14 @@
+ANTONIETA SOSA (born 1940) is a Venezuelan performance artist born in New York.[1] Her notable performance works include _Conversación con agua tibia_ (_Conversation with Warm Water_; 1980)[2] and _Del Cuerpo al Vacío_ (_From the Body into the Void_; 1985).[3] Her early work includes abstract art pieces such as _Visual Chess_ (1965), which is in the Museum of Modern Art's online collection.[4]
+
+
+References
+
+Category:1940 births Category:Living people Category:Artists from New York (state)
+
+[1]
+
+[2]
+
+[3]
+
+[4]

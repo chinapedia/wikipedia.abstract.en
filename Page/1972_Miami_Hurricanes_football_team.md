@@ -1,0 +1,13 @@
+The 1972 MIAMI HURRICANES FOOTBALL TEAM represented the University of Miami for the 1972 college football season. The Hurricanes played their home games at the Miami Orange Bowl in Miami. The team was coached by Fran Curci, in his second and final year as head coach of the Hurricanes.
+
+
+Schedule
+
+[1]
+
+
+References
+
+Miami Category:Miami Hurricanes football seasons Miami Hurricanes
+
+[1]

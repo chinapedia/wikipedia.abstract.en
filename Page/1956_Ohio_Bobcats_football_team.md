@@ -1,0 +1,8 @@
+The 1956 OHIO BOBCATS FOOTBALL TEAM was an American football team that represented Ohio University in the Mid-American Conference (MAC) during the 1956 college football season. In their eighth season under head coach Carroll Widdoes, the Bobcats compiled a 2–7 record (2–4 against MAC opponents), finished in a tie for fourth place in the MAC, and were outscored by all opponents by a combined total of 211 to 36.[1]
+
+
+References
+
+Ohio Category:Ohio Bobcats football seasons Ohio Bobcats football football
+
+[1]

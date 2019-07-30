@@ -1,0 +1,12 @@
+JARAMIT WEFFER (born 3 November 1985) is a Venezuelan freestyle wrestler.
+
+She competed in the women's freestyle 75 kg event at the 2016 Summer Olympics, in which she was eliminated in the round of 16 by Annabelle Ali.[1][2]
+
+
+References
+
+Category:1985 births Category:Living people Category:Venezuelan female sport wrestlers Category:Olympic wrestlers of Venezuela Category:Wrestlers at the 2016 Summer Olympics Category:Pan American Games medalists in wrestling Category:Pan American Games bronze medalists for Venezuela Category:Wrestlers at the 2011 Pan American Games
+
+[1]
+
+[2]

@@ -1,0 +1,57 @@
+INÈS-MARIE DE BOURGOING, also INÈS FORTOUL, INÈS LYAUTEY, (5 January 1862 – 9 February 1953) was a pioneering French nurse who served as president of the French Red Cross and established Red Cross nursing in Morocco. In recognition of her extensive social work, she became the first woman to be honoured with the rank of Grand Officer of the Legion of Honour. She was also decorated as a Grand Officer of the Order of Ouissam Alaouite in recognition of her work in Morocco.
+
+Born into the nobility, de Bourgoing was educated at court and married an artillery officer, Joseph Fortoul. Widowed, after raising her children, de Bourgoing chose the field of nursing as a means of helping alleviate poverty and participated in the first formal nursing classes offered in Paris. After she began working as a nurse, she went abroad with the Société de Secours aux Blessés Militaires, a forerunner of the French Red Cross, to work in North Africa. In 1907, she joined the SSBM and that same year, travelled to Morocco, where she established an infirmary in Casablanca. Fifteen months later, she assisted in disaster relief following an earthquake in Sicily.
+
+After her second marriage in 1909 with Hubert Lyautey, who would become the first resident-general in Morocco, de Bourgoing spent the rest of her life dividing her time between France and Morocco, establishing hospitals, maternity clinics and child care centres in both countries. She served as a hospital administrator in France, during both World War I and World War II, and opened a convalescent centre for troops in Salé, as well as a retirement home near La Balme-les-Grottes for the French Foreign Legion. After serving as head of the Ladies Committee of the SSBM (1926–1939), when the three precursor organisations came together as the Red Cross in 1940, she became Vice President of the Central Committee of the Ladies of the French Red Cross and later Director General of the organisation. Working into her 80s, de Bourgoing remained active until her death in Morocco in 1953. Her remains were later repatriated to France.
+
+
+Early life
+
+Inès de Bourgoing was born in Paris on 5 January 1862 to Anne-Marie Léonie Dollfuss and Baron Philippe La Beaume de Bourgoing. Her mother was a lady-in-waiting to the Empress Eugénie de Montijo, who was also de Bourgoing's godmother. The Baron was the Grand Squire of France to Napoleon III; he then served as Inspector of the Haras Equestrian Service before being elected five times as the Député for Nièvre in the French Parliament. De Bourgoing attended the school for girls of the court at the Tuileries Palace and in 1880, at the age of 18, married the artillery captain Joseph Antoine Fortoul with whom she had three children: Antoine (1881–1963), Mathieu (1882–1969) and Victoire (1887–1888), who died when she was only 20 months old.
+
+Fortoul was often called to serve abroad in Japan and south-east Asia; between 1882 and 1885, he was in Tonkin in Indochina, returning home after being seriously injured. During his absence, in addition to raising her two boys, de Bourgoing wrote nearly 1,000 pages of letters to her husband, now preserved in her archive. After his injury, Fortoul was stationed in Castres, where he commanded the 3rd Artillery Regiment, until his sudden death from a heart attack in 1900. As both her sons, now grown, had embarked on military careers, de Bourgoing determined to study nursing, hoping she could help to alleviate sickness and distress in France's colonies. That same year, she joined the first school opened to train nurses in Paris and was in the inaugural class of trainees.
+
+
+Career
+
+SSBM_Casablanca_1907-crop.jpg In 1901, on receiving her diploma, de Bourgoing joined the Société de Secours aux Blessés Militaires (SSBM), forerunner of the French Red Cross, as a volunteer and began working at the Beaujon Hospital in Paris. As a result of her competence and the understanding she showed both patients and doctors, she was appointed president of the SSBM. In 1907, she sailed for Morocco with the French expeditionary force under General Antoine Marius Benoît Drude. As head of a team of SSBM volunteers, she established an infirmary in Casablanca, treating the wounded in the conflicts between the French and Moroccans. As conditions were difficult in Morocco, it was decided the wounded and seriously ill should be transported to Oran in Algeria where it would be easier to provide proper treatment. It was in October 1907 while she and two of her nurses were accompanying the wounded on a French naval crossing to Oran, that she first met General Hubert Lyautey, who was division commander there. After spending fifteen months in North Africa, she returned to France, only to leave shortly afterwards for the Italian port Messina in December where she and her nursing team helped care for the 80,000 victims of the 1908 earthquake. As a result of their exemplary services, they were decorated by Princess Hélène of Orléans.
+
+Convalecent_Center_of_the_Société_de_Secours_aux_Blessés_Militaires_in_Salé,_Morocco,_1913.jpg's (1869–1944) rendering of the Convalescent Center of the Société de Secours aux Blessés Militaires in Salé, Morocco, 1913]] On 14 October 1909 in Paris, de Bourgoing married General Lyautey. They returned to Algeria where Lyautey maintained his division command. In 1910, they returned to France where the general took command of the Tenth Army Corps in Rennes. In 1912, the couple returned once again to North Africa where Lyautey was appointed first Resident-General of Morocco following the Treaty of Fez under which Morocco became a French protectorate. De Bourgoing was instrumental in the creation and organisation of many programmes for women and children including nurseries, kindergartens, and the first maternity center in Morocco, an exemplary institution which impressed child care specialists in France and abroad. She organised clinics in rural areas, as well as Morocco's first tubercular clinics and nurse training programmes. With support from the SSBM, de Bourgoing also built the Salé Convalescent Home in Salé, near Rabat, for the recovery of French and Foreign Legion soldiers together with their families, and a retirement center for the Foreign Legion near La Balme-les-Grottes in the Isère department in metropolitan France. As a result, she received the rare title of "Honorary Corporal of the Foreign Legion".
+
+In 1915, de Bourgoing began an initiative to provide nourishment to children in Casablanca. The Milk Drop () served as a milk bank, providing milk, and later powdered milk, to malnourished children and education on nutrition and hygiene to their parents. Within five years, it expanded to include a neonatal center for premature babies needing more constant care and then expanded further to build facilities in Fez, Kenitra, Marrakesh, Meknes, Mogador, Oujda, Rabat, Safi and Taza. During World War I, in France, she served as a supervisor at the Military Hospital Val-de-Grâce and in 1918, she organised and supervised programs for the SSBM in Nancy. In 1921, the couple received the titles of Marshal and Marschallin of France. Val_de_Grace_dsc04631.jpg
+
+In 1925, de Bourgoing returned with her husband to France where they spent their time both in Paris and at their ancestral home, the in the village of Thorey-Lyautey, of Lorraine. The following year she was appointed President of the Central Committee of the Ladies of the SSBM. In Thorey, they built a family clinic and a home for young people. After her husband's death in 1934, she divided her time between France and Morocco. Interested in helping Moroccans in Paris, she helped improve the Muslim Institute of the Grand Mosque of Paris while caring for the sick in the French-Muslim Hospital in Bobigny. In Morocco, she took part in all the committees, initiatives and meetings of the SSBM, but by 1938, resigned as its president in France to allow herself more time to spend in Morocco.
+
+In 1939, she assumed the management of the 300-bed Asnée Military Hospital for spinal cord and head injuries in Nancy. Unable to leave France because of World War II, she initiated programs to provide care packages for troops and POWs in North Africa. In August 1940, de Bourgoing agreed to serve as Vice-President of the newly formed Unified French Red Cross. In 1944, despite the cold winter, she travelled to the front lines in the Vosges to encourage the 2nd Moroccan Infantry Division who were engaged in heavy battles with the Germans. When the war ended, she resumed her trips to Morocco, spending several months there each year. In 1946, de Bourgoing was not only appointed _Directrice Générale de la Croix Rouge_ but was elevated to Grand Officer of the Legion of Honour, the first woman to receive the honour. She was also awarded the rank of Grand Officer of the Order of Ouissam Alaouite in recognition of her work in Morocco.
+
+
+Recognition
+
+Thorey-Lyauté-le_château-WP_20160921_069.jpg While there was wide recognition of the achievements of de Bourgoing, none was more impressive than that expressed by the French Minister of State Édouard Bonnefous on behalf of the French government following her funeral in Rabat on 12 February 1953. Addressing her as _La Maréchale Lyautey_, he emphasized how her work as a nurse in Morocco had contributed so much to France's humanitarian image, thanks to the way in which she had striven to create a bond between the two countries. Through her works to care for wounded soldiers, help the weak and the poor regardless of race, gender or faith, she won acclaim from those who had turned out in sympathy in both Casablanca and Rabat over the two days of her memorials. France's appreciation had been expressed in her recent decoration as a _Grand Officier de la Légion d'Honneur_, the very first time the title had been conferred on a woman.
+
+Colonel Pierre Geoffroy, an associate of the Lyauteys, referred to her as a "great lady" whose little known contributions to humanitarian work are only now emerging, revealing her pioneering humanitarian and social work in "nursing without borders" at the beginning of the 20th century.
+
+
+Death and legacy
+
+Inès de Bourgoing died on 9 February 1953 in Casablanca and was interred in Marshal Lyautey's Mausoleum in Rabat on 12 February. In 1961, when the Marshal's remains were repatriated to France, de Bourgoing's were re-interred in the cemetery at Thorey-Lyautey at the request of the village.
+
+On 7 July 2002, on the 140th anniversary of her birth, a small area on the first floor of the Château de Thorey-Lyautey was opened by Senator Philippe de Bourgoing and Count Pierre de Bourgoing in memory of Inès de Bourgoing. It contains photographs and other historical artefacts in a building which is otherwise dedicated to the life of her husband Hubert Lyautey.
+
+In 2014 the Centre Inès Lyautey was opened in Paris by the French Red Cross to assist homeless women. Named in her honor, the center provides emergency food and clothing, medical aid, and employment training. In 2015, Casablanca's Milk Drop celebrated its 100th anniversary. Tribute was paid to its founder who created Morocco's first neonatal care centers.
+
+
+References
+
+Citations
+
+Bibliography
+
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+
+
+Further reading
+
+-   -
+
+Category:1862 births Category:1953 deaths Category:People from Paris Category:Women nurses Category:French nurses Category:Grand Officiers of the Légion d'honneur Category:Grand Officers of the Order of Ouissam Alaouite

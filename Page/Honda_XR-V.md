@@ -1,0 +1,5 @@
+The HONDA XR-V mini SUV is a variant of the Japanese Honda Vezel and North American, European, Asian and South American Honda HR-V sold exclusively in China under the Dongfeng Honda joint venture. The Honda XR-V comes with a completely different front end and rear end design to differ from the Honda Vezel sold by Guangqi Honda, including a restyled front grille with the Honda solid winged face trademark and a set restyled taillights connected horizontally to each other. The Honda XR-V is positioned under the Honda CR-V also sold under the Dongfeng Honda joint venture and based on the same platform as the Vezel/HR-V, WR-V and Jazz/Fit.
+
+Honda_XR-V_02_China_2015-04-10.jpg
+
+XR-V Category:Crossovers Category:Crossover sport utility vehicles Category:Vehicles with CVT transmission Category:Cars introduced in 2015

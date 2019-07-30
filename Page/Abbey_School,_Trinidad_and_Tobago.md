@@ -1,0 +1,15 @@
+ABBEY SCHOOL was part of the Mount Saint Benedict Abbey, a Benedictine monastery following the Order of Saint Benedict. The school was located in the northwestern town of St. Augustine in Tunapuna–Piarco, Trinidad and Tobago. The Abbey School opened in 1941 and closed in 1986. It offered a Catholic centered education and way of life.
+
+
+History
+
+The school was built in late thirties and started in 1941. The "boys", as those attending this boarding school were called, came mostly from Trinidad. Most were boarders but a dozen or so lived at home and were bused daily to attend classes. Other boarders came from the Caribbean region..Venezuela, Colombia, British and Dutch Guyanas, Barbados, Curacao, Martinique, Guadalupe , Dominica. The administration and teachers were primarily monks from the monastery. As time passed the number of non-monk and lay teachers increased. There were 7 grade levels; Preps A&B, Forms I to V. The school followed the British education system. It followed a calendar year schedule till 1963 when it changed to a fiscal year from September to June. Sports played an important activity in the daily life of the students: football, cricket, basketball, volleyball, tennis, table tennis. The entire school was divided into three groups named St Anthony, St Lawrence and St Francis; within each group there were 3 divisions with different age groups. The Abbey School competed in cricket, football, tennis, basketball and swimming with other schools in and outside Trinidad. Scouting was another major activity in which a large number of boys participated in. Two major additions were made to the school in the late 1960s: an Olympic size pool and a refectory. The second floor of the refectory was an assembly hall where movies were shown every Saturday night, plays acted out, dances held, music shows presented by talented students. The pool presented a new opportunity for students to enjoy their free time. It led to the creation of the Aqua Lads swimming team which became a competitive force in Trinidad and the Caribbean area.[1] The Black Power revolution that took place in Trinidad in 1970 had a negative impact on attracting new students from the other islands and countries. Financial challenges began to appear in the 1970s as the caribbean area economy began to face serious inflation related issues. By the 1980s the large number of Venezuelan boarders were reduced to only a handful. There were still about approximately 40–50 boarders and the Monastic Community were at pains to find ways to keep the school open for the 100 or so boys. A temporary solution was to employ more monk teachers and pay out less in salaries. This only worked for a short time and the school was closed at the end of the 1986 school year due to financial challenges. It is estimated that around 2000 boys or so were privileged to attend the Abbey School through its lifetime.[2]
+
+
+References
+
+Category:Schools in Trinidad and Tobago Category:Educational institutions established in 1941 Category:Educational institutions disestablished in 1986
+
+[1]
+
+[2]

@@ -1,0 +1,12 @@
+The 1987 TOLEDO ROCKETS FOOTBALL TEAM was an American football team that represented the University of Toledo in the Mid-American Conference (MAC) during the 1987 NCAA Division I-A football season. In their sixth season under head coach Dan Simrell, the Rockets compiled a 3–7–1 record (3–4–1 against MAC opponents), finished in a tie for sixth place in the MAC, and were outscored by all opponents by a combined total of 245 to 165.[1]
+
+The team's statistical leaders included Bill Bergan with 908 passing yards, David Rohrs with 681 rushing yards, and Eric Hutchinson with 431 receiving yards.[2]
+
+
+References
+
+Toledo Category:Toledo Rockets football seasons Toledo Rockets football
+
+[1]
+
+[2]

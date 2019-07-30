@@ -1,0 +1,15 @@
+NORTHERN INTERNATIONAL LIVESTOCK EXPOSITION (NILE) originated as an idea from the livestock committee of the Billings Chamber of Commerce in 1966. In 1967 the Public Auction Yards hosted an event to showcase the region’s vast livestock industry. By the fall of 1968, a full-fledged livestock show with 250 exhibitors and 600 entries was underway. The first NILE consisted of livestock shows, horse shows, and rodeo and today those traditions continue as the NILE Stock Show and ProRodeo has become one of the largest agricultural events of the Northwest. NILE_office_sign.jpg Through the years the NILE Stock Show has always been a show with some of the purest and most influential genetics in the world. The NILE is host to several national cattle breed shows and sales. Additionally, the NILE Gold Buckle Select Horse Sales features a weanling/yearling sale, performance horse sale, as well as six different futurities.
+
+The NILE ProRodeo is Montana’s most prestigious rodeos. As one of the first rodeos of the qualifying year, the NILE consistently showcases many of the top contestants in the PRCA.
+
+In 2006, the NILE added a Ranch Rodeo to their fall event. The popularity of this event and the essence of displaying real American ranch cowboys in this type of event quickly spread across the region. In 2009 the NILE Ranch Rodeo Finals was established in which winning teams from NILE sanctioned Ranch Rodeos from across the region came to compete for the top honor of being the NILE series champion team. The winning team is also eligible to compete in the Western States Ranch Rodeo Association Finals held in Winnemucca, NV
+
+Since the NILE’s inception, it has grown to incorporate a variety of other events, like hosting the Professional Bull Riders each year in April. The NILE has been the host of the longest running event stop of the elite PBR Built FORD Tough Series. In 2008, the NILE purchased the Montana Agri-Trade Exposition (MATE Show) held annually the third week of February each year.
+
+A large focus has been placed on programs to encourage youth participation like the Merit Heifer Program, Jr. Fed Show and Sale, Jr. Breeding Cattle Shows, Youth Judging Contests, school assemblies, and an agricultural education program for over 2,000 area 4th graders. The first NILE was funded much the way it is funded today – through memberships from businesses, ranchers, and other supporters as well as sponsorships from corporate partners. The NILE is dedicated to the promotion of livestock production, agricultural education, and respect for our western tradition. We believe those are important for the future of agriculture.
+
+NILE is a non-profit organization, 501(c)5, dedicated to the promotion of livestock, agriculture education and respect for the western culture.
+
+The first president of the NILE Board of Directors was the great cattleman Pat Goggins. The first General Manager of the NILE was Conrad Burns.
+
+Category:Rodeos

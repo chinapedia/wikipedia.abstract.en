@@ -1,0 +1,37 @@
+_WOMEN_ () is a 1983 novel by French novelist Philippe Sollers. First published in English translation in 1990, _Women_ marked Sollers' move to a more accessible form of fiction writing after a series of difficult experimental texts. The novel was a best-seller in France and attracted attention as a _roman à clef_ that contained recognizable portraits of significant French intellectual figures, such as Louis Althusser, Roland Barthes, Jacques Lacan, and Sollers himself.
+
+
+Plot summary
+
+Will is an American journalist living in Paris. On leave from his duties writing about international politics at the _Journal_, he travels around the globe as he works on a novel in which he intends to expose the domination of the world by women. Through his friend Kate, Will has become aware of a secret international organization called the World Organization for Male Annihilation and a New Natality, or WOMANN, that intends to stage a secret takeover of world power. WOMANN's secret manifesto details a plan to take over the world by strictly controlling the reproductive process through the use of abortion, sperm banks, and artificial insemination; by expurgating, banning, or "contextualizing" the products of certain male geniuses; and also by declaring war on the patriarchal tyranny of religion through a campaign of "divide and rule." Will, who is a freethinker and notorious womanizer, is marked as an enemy by WOMANN. The novel follows Will's sexual escapades around the world with a number of women whose interest in the novel he is writing (the novel we are reading) leads him to suspect he is being surveilled by WOMANN. Will has enlisted a notorious French novelist, "S." (who bears significant similarities to Philippe Sollers), to publish the novel under S's name since Will is worried about the response of his family in the United States if he were to publish it under his own name. Will's monologue about his life and opinions includes extended digressions about such topics as politics, literature, sex, contemporary life, religion, and the Bible. Will's amorous exploits are occasionally interrupted by time spent at home with his wife, Deb, and his son Stephen. He is eventually injured in a terrorist attack that kills his lover Cyd, an English TV journalist. The novel concludes with Will leaving Paris to start a new life with Deb and Stephen in New York City.
+
+
+Reception
+
+Readers and critics greeted _Women_ enthusiastically when the book was first published in France in 1983. The novel was a best-seller in France and was celebrated by critics as "one of the best books in recent years." Roland Champagne, in his book-length survey of Sollers' career, attributed the book's popularity to the "sense of humor that [Sollers] exhibits with his narrating voice," and went on to say that the character of Will, the protagonist of _Women_, is emblematic of Sollers' tendency to model his protagonists on himself, a dynamic Champagne described as "the self as humorous other."
+
+Elaine Kendall, writing in the _Los Angeles Times_, called _Women_ "ferociously misogynistic" and wrote that the novel "splinters into frank pornography." Kendall went on to say that "_Women_ may be the first pointillist post-feminist novel," and contended that "_Women_ stridently demands to be taken seriously as a nihilistic satire on philosophy, religion, the arts, social science, America, France, and whatever else swims into view."
+
+Other reviewers were less troubled by the ostensibly misogynist content. Leon Roudiez, writing in _World Literature Today_, maintained that in opposition to the book's "macho rhythm," Sollers' writing in _Women_ also displayed "a female tide that gives it a complex, perplexing quality." Roudiez went on to praise _Women_ as "a personal prospect of the intellectual, literary, and political scene during the past few years as well as an account of [Sollers'] own concerns and obsessions." Roudiez was laudatory in his assessment, calling _Women_ "a book that should be read by all those interested in the contemporary scene as well as those who might be troubled by Bataille's notion of eroticism as the sanctioning of life unto death." Roudiez contended that the book "might teach us more about contemporary reality than the ponderous writings of historians could do."
+
+_The Antioch Review_, in its assessment of _Women_, hailed the novel as "a very interesting trip into the fantastic mental Odyssey of a modern writer." In particular, the _Antioch Review_ found Will to be a fascinating character, describing him as "witty, aggressive, narcissistic, and driven by the relentless desire to explore contemporary life."
+
+The _London Review of Books_ gave a more measured assessment of _Women_ and emphasized the correspondences between the characters in the novel and real luminaries from the French literary and philosophical world: "_Women_ is not only, as the title suggests, a kiss-and-tell epic ... but an explicit _roman à clef_ containing mildly scandalous and instantly recognizable portraits of such celebrated figures as Lacan, Althusser, and Barthes." Conceding that _Women_ is "infectiously high-spirited at times," the reviewer concluded that the book seemed "not so much a machine to think as a machine for ego-massaging.... Whether _Woman_ adds to or detracts from Philippe Sollers' notoriety is, in the end, a pretty trivial question."
+
+Susan Ireland, writing about _Women_ for _The Review of Contemporary Fiction_, recommended the book, stating that "those willing to join Sollers in his playful romp through Parisian literary milieux may well enjoy the social satire and the effervescent virtuosity of his style."
+
+Extended considerations of _Women_ appear in the book-length treatments of Sollers' _oeuvre_ by Roland Champagne and Malcolm Pollard. Champagne contends that despite Sollers' turn to a more straightforward narrative style than in his previous experimental works, this change "is undercut by the self-deprecating tone of the narrative voice." Champagne goes on to point out that Sollers' "style is not flatly sincere... the humor of _Femmes_ is subtle because the sexism of the narrator and the other males is asserted by response to the assertive threats of the women characters."
+
+Both Roland Champagne and Malcolm Pollard see Sollers' fascination with William de Kooning as central to the novel, and crucial to understanding novel's perspective on women. "The feminine side of De Kooning intrigues Sollers and might be very similar to the side of Sollers that is suggested in the portrayal of women in _Femmes_. The desires of women are not obvious to men and yet both of these artists, De Kooning and Sollers, involve their own eroticism in a fascination with desiring women." Pollard argues that Sollers sees De Kooning as an "ally" for his narrator since De Kooning's life, like Will's, is marked by battle against dogmatic enemies. Pollard identifies an "analogy ... between De Kooning as a painter attacked for the form and content of his art, and Will as narrator concerned with the threat posed to freedom of expression in the novel."
+
+An English-language excerpt from _Women_ was published in _Yale French Studies_ in 1988, and _Women_ appeared in an English translation by Barbara Bray in 1990.
+
+
+References
+
+
+Sources
+
+-   -   -   -   -   -   -   -   -   -
+
+Category:Novels by Philippe Sollers Category:1983 French novels

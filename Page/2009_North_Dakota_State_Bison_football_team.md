@@ -1,0 +1,13 @@
+The 2009 NORTH DAKOTA STATE BISON FOOTBALL TEAM represented North Dakota State University in the 2009 NCAA Division I FCS football season. The Bison were led by seventh-year head coach Craig Bohl and played their home games at the Fargodome. They were a member of the Missouri Valley Football Conference (MVC). Their record on the season was 3–8 overall and 2–6 in MVFC play to finish in seventh place. This season was only the third since 1964 that North Dakota State has a losing record. The Bison were not ranked all year and did not participate in the playoffs.
+
+
+Schedule
+
+[1]
+
+
+References
+
+North Dakota State Bison Category:North Dakota State Bison football seasons Bison
+
+[1]

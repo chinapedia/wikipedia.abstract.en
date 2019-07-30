@@ -1,0 +1,14 @@
+"Dancing with Death" was the satirical term used by the US Air Force Combat pilots after facing advanced Soviet made Surface to air missiles in the Vietnamese Skies. At the onset of Vietnam war, US pilots had carte blanche over Vietnamese airspace but situations changed drastically after the introduction of sophisticated Soviet Anti-aircraft systems. During the initial stages, poorly equipped Vietnamese air defense forces were unable to shoot down high altitude US aircraft with World War II Vintage guns. When they asked for assistance, their chief ally Soviet Union decided to supply S-75 Dvina. Although, Soviet government was apprehensive in the beginning but subsequently deployed the systems in combat zone. Soviet specialists, about a thousand troops arrived Vietnam in April 1965. Generous and massive Soviet military aid that consisted of MiG fighters, Kalashnikov rifles and missiles enabled Vietnam to become a formidable belligerent. 7658 missiles and 95 S-75 Missile Systems were delivered between 1965 and 1972. In the initial stages of conflict US combat pilots referred anti aircraft missiles as Russian-made "telephone poles."[1]
+
+S-75 program attained ubiquitous prominence in 1960 when it was used to shoot down U-2 of Francis Gary Powers overflying the Soviet Union. Again, during Cuban Missile Crisis, S-75 system shot down another U-2 (piloted by Rudolf Anderson).[2] Most of the systems were extensively deployed in the periphery of Hanoi-Haiphong area and US intelligence and reconnaissance flights detected the employment of S-75 systems almost immediately by 5 April 1965. It was in August 1965 that first high altitude SAMs were fired against USAF over Vietnam, out of four US Phantoms, three were knocked down.
+
+During the first few days US pilots were helpless but soon they crafted tactics to dodge anti-aircraft missile systems. The aggressive missile evading maneuvers and tactics were jokingly refereed as "Dancing with Death." The pilots generally had only few seconds to react and failure meant certain death. American commanders were surprised and impressed that Vietnam, deemed to be a pastoral state could dexterously handle such advanced Sam Systems. Americans not only devised tactics but decided to suppress the threat caused by soviet supplied Anti-aircraft systems. They created special units armed with AGM-45 Shrike anti-radiation missile designed to home in on hostile anti- aircraft radar that received the name "Wild Weasels. The launch platforms of these missiles were A-4 Skyhawk, A-6 Intruder, F-105 Thunderchief, F-4 Phantom II and were tasked to attack installations of Vietnam's air defense network. Soviet specialist upgraded S-75 systems on periodic basis and improved its resistance to jamming.
+
+
+References
+
+Category:Vietnam War
+
+[1] Russian missiles to guard skies over Vietnam
+
+[2] Steven J. Zaloga (2007). Red SAM: The SA-2 Guideline Anti-Aircraft Missile. Osprey Publishing. p. 9.

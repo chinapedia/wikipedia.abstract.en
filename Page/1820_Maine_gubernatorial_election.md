@@ -1,0 +1,9 @@
+The 1820 MAINE GUBERNATORIAL ELECTION took place on April 3, 1820. It was the first election for Governor of Maine, taking place after Maine separated from Massachusetts and was recognized as a state on March 15, 1820. Maine's separation from Massachusetts came as a result of The Missouri Compromise. This election saw the virtually unanimous election of William King, the man most chiefly responsible for the push for Maine statehood. He had no opponents.
+
+
+Results
+
+
+References
+
+Gubernatorial 1820 Category:1820 United States gubernatorial elections Category:April 1820 events

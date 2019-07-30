@@ -1,0 +1,8 @@
+BHUTANDEVI MANDIR () is a Hindu temple dedicated to Goddess Bhutandevi (a.k.a. Hidimbi), said to be the wife of Bhim (One of the Pandavas) and mother of Ghatotkacha. Butandevi is actually another form of goddess Durga. Situated at Butandevi Road-10 in Hetauda, a town in Makwanpur district of Nepal,. It is about 15 minute walkable distance from Hetauda Bus Park.the temple of Butandevi i.e. The temple was designed according to Vastu principles and it is believed that worshipping the goddess helps one to get victory over serious troubles, problems and fear.[1]
+
+
+References
+
+Category:Hindu temples in Nepal Category:Makwanpur District
+
+[1] http://allhindutemples.com/city/makawanpur/hindu_temple/bhutandevi-temple/

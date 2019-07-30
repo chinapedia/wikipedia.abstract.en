@@ -1,0 +1,41 @@
+The ARMY OF NATIONAL DEFENCE () was the military force of the Provisional Government of National Defence, a pro-Allied government led by Eleftherios Venizelos in Thessaloniki in 1916–17, against the royal government of King Constantine I in Athens, during the so-called National Schism. By the spring of 1917, it comprised three infantry divisions that formed the NATIONAL DEFENCE ARMY CORPS (Σώμα Στρατού Εθνικής Αμύνης) and fought in the Macedonian Front. Following the ousting of King Constantine and the reunification of Greece under the leadership of Venizelos in June 1917, the Corps continued as part of the reconstituted Hellenic Army until 1920, when it became the Army of Thrace.
+
+
+Background
+
+The question of Greece's participation in World War I had led to acute political divisions, with the pro-Allied Prime Minister Eleftherios Venizelos opposed by the pro-German King Constantine I, who favoured neutrality. This led to Venizelos' resignation, and the establishment of a series of royalist governments in Athens. In the meantime, however, the Allies had landed at Thessaloniki to aid Serbia, and Greece found herself threatened by both the Allies and the Central Powers. On 5 August 1916, the Bulgarian invasion of eastern Macedonia commenced, facing little resistance, since the Athens government refused to condone any firm action. The surrender of the hard-won territories gained in the recent Balkan Wars led to a military mutiny in Thessaloniki on 17 August. The mutiny, conducted in the name of "National Defence", led by pro-Venizelos officers like Leonidas Paraskevopoulos, Konstantinos Mazarakis-Ainian, or Epameinondas Zymvrakakis, was supported by the Allied commander-in-chief, Maurice Sarrail, and quickly established control over the city against loyalist officers.
+
+Venizelos himself with his closest aides left Athens on 12 September, initially for his home island of Crete, and from there via Chios and Lesbos to Thessaloniki, where he arrived on 26 September. There he formed a provisional government under the supreme leadership of a triumvirate comprising himself, General Panagiotis Danglis and Admiral Pavlos Koundouriotis (the "Triumvirate of National Defence", Τριανδρία της Εθνικής Αμύνης). Major General Emmanouil Zymvrakakis was appointed Minister of Military Affairs of the new government.
+
+
+Establishment of the Army of National Defence
+
+Christodoulou_and_Zymvrakakis_in_Salonica,_1916.jpg 1st_Battalion_of_the_National_Defence_army_marches_for_the_front.jpeg Venizelos_reviewing_a_Greek_regiment_before_it_marches_out_of_Salonica_to_meet_the_Bulgars_1.jpg inspects a newly raised unit of the Army of National Defence, before its departure for the front.]] 250_15_Franchet_d'Espérey_&_5_armée_Gr.jpg (right) inspects Greek troops of the Archipelago Division headed by commander Dimitrios Ioannou (left)]] As soon as the revolt was successfully established, individual officers from across northern Greece began to flock to Thessaloniki. On 2 September, the "National Defence" received its first substantial reinforcement, as Colonel Nikolaos Christodoulou arrived in the city with the remnants of units of the IV Army Corps that had refused to surrender to the Bulgarians and instead withdrawn via Kavala and Thasos. These were about 2,000 men of the 6th Infantry Division, as well as a battalion of the 2/21 Cretan Regiment and the bulk of the weapons and equipment of the 7th Field Artillery Regiment—the men of the latter had overwhelmingly opted to return to southern Greece, but their equipment had been intercepted by a French warship. The first unit of the new army was the "I National Defence Battalion" (Α' Τάγμα Εθνικής Αμύνης), which was created from the few men of the 11th Division that joined the coup, and the 1st Company of the 29th Infantry Regiment in Veroia, which under its commander, Captain Neokosmos Grigoriadis, had joined the uprising. Grigoriadis was appointed commander of the battalion, which already on 15 September was posted in the front along the Strymon river.
+
+The new Provisional Government made the creation of a credible fighting force a priority. Its resources were meagre—some 65 artillery pieces of various origin, and less than 10,000 shells, as well as clothing sufficient for a regiment—and it was heavily dependent both for equipment as well as funds on the Allies. However, it controlled Macedonia, Crete and the Aegean islands, and hoped that it would attract volunteers from southern Greece—following pressure by the Allies, the Athens government gave its consent to allow this, provided that they resigned any office first—allowing it to create an army of 80,000–90,000 men.
+
+These first step entailed the establishment of three infantry divisions: the Serres Division (under Col. Christodoulou) from the forces already available (IV Corps remnants and volunteers), the Crete Division (under Major General Zymvrakakis) on Crete, the Archipelago Division (under Major General Dimitrios Ioannou) in the islands of the Aegean. Quickly it became apparent that volunteers would not suffice, and forced conscription and mobilization of the reserves took place in the areas under National Defence control, despite local resistance in places like Chalcidice, where reactions had to be suppressed by force.
+
+As a higher command, on 13 October the "Macedonia Army Corps" (Σώμα Στρατοῦ Μακεδονίας) under Major General Leonidas Paraskevopoulos was established, giving way on 16 December to the I Corps (Serres and Archipelago Divisions) under Paraskevopoulos and II Corps (Crete, Cyclades, and Thessaloniki Divisions) under Zymvrakakis. The Thessaloniki and Cyclades Divisions existed only at the depot level, and eventually were never established due to the lack in equipment and personnel (particularly trained officers and NCOs).
+
+
+Combat on the Macedonian Front
+
+Nevertheless, by spring 1917 the National Defence had brought her three divisions to the Macedonian Front, and formed the National Defence Army Corps under Zymvrakakis. The victorious Battle of Skra-di-Legen in May 1917 served as the baptism of fire for the Army of National Defence. A month later, King Constantine I was forced to abdicate by the Allies, and was succeeded by his second son, Alexander. Venizelos returned to Athens as Prime Minister and virtual dictator.
+
+With Venizelos back in power, the reconstitution of the Hellenic Army began, a long and arduous process. In the meantime, the three extant divisions were employed under Allied command, and were usually combined with other Allied forces. The Greek GHQ planned the creation of three army corps, i.e., the reconstituted I and II Corps, and the "National Defence Army Corps", but delays in the reconstitution of the Greek army meant that Greece could not claim a decisive voice in the conduct of operations; the "National Defence Army Corps" continued to exit, but most Greek divisions continued to serve under Allied commanders for much of the duration of the war.
+
+
+Operations in Western Thrace
+
+After the Armistice of November 1918, the National Defence Army Corps remained in Macedonia. In early 1919, the Crete and Archipelago divisions were sent to Asia Minor, where the Asia Minor Campaign began; the Corps was reinforced with the reconstituted 9th Infantry Division. As part of the Allied occupation of Western Thrace, which had belonged to Bulgaria following the Balkan Wars, on 16 October 1919 the Corps occupied Xanthi, where the Xanthi Division was raised. In May 1920, subsequent to the Treaty of Neuilly-sur-Seine, the Serres Division occupied Komotini and the Xanthi Division and 9th Division occupied the modern Evros Prefecture. On 3 June 1920, it was renamed as the Army of Thrace.
+
+
+References
+
+
+Sources
+
+-
+
+Category:Corps of Greece Category:1917 establishments in Greece Category:1920 disestablishments in Greece Category:Military units and formations established in 1917 Category:Military units and formations disestablished in 1920 Category:Military units and formations of Greece in World War I Category:Military units and formations of Greece in the Greco-Turkish War (1919–1922)

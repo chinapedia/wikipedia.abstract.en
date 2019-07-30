@@ -1,0 +1,11 @@
+The 1952 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 5, 1952. Republican Party of Minnesota candidate Ancher Nelsen defeated Minnesota Democratic-Farmer-Labor Party challenger Arthur Hansen.
+
+
+Results
+
+
+External links
+
+-   Election Returns
+
+Lieutenant Gubernatorial 1952

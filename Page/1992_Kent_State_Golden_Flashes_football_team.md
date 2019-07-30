@@ -1,0 +1,19 @@
+The 1992 KENT STATE GOLDEN FLASHES FOOTBALL TEAM was an American football team that represented Kent State University in the Mid-American Conference (MAC) during the 1992 NCAA Division I-A football season. In their second season under head coach Pete Cordelli, the Golden Flashes compiled a 2–9 record (2–7 against MAC opponents), finished in eighth place in the MAC, and were outscored by all opponents by a combined total of 301 to 133.[1][2]
+
+The team's statistical leaders included Troy Robinson with 422 rushing yards, Kevin Shuman with 1,518 passing yards, and Jimmie Woody with 714 receiving yards.[3][4]
+
+
+Schedule
+
+
+References
+
+Kent State Category:Kent State Golden Flashes football seasons Kent State football
+
+[1]
+
+[2]
+
+[3] 2016 Kent State Football Record Book, pp. D17-D19.
+
+[4]

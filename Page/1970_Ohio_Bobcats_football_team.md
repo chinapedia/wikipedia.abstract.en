@@ -1,0 +1,12 @@
+The 1970 OHIO BOBCATS FOOTBALL TEAM was an American football team that represented Ohio University in the Mid-American Conference (MAC) during the 1970 college football season. In their 13th season under head coach Bill Hess, the Bobcats compiled a 4–5 record (3–2 against MAC opponents), finished in a tie for second place, and were outscored by all opponents by a combined total of 261 to 178.[1][2]
+
+The team's game against 1970 Marshall Thundering Herd football team, scheduled for November 21, was notably cancelled in the aftermath of the Southern Airways Flight 932 crash on November 14 that killed 37 members of the opposing team.
+
+
+References
+
+Ohio Category:Ohio Bobcats football seasons Ohio Bobcats football football
+
+[1]
+
+[2]

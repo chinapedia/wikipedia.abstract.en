@@ -1,0 +1,10 @@
+BAKAVADHAM (The Slaying of Baka) is a Kathakali play(Aattakatha) written by Kottayam Thampuran (also known as Kottayathu Thampuran) in Malayalam.Based on the Mahabharatha, the play narrates the events surrounding the escape of the Pandavas from the house of Lac which was built by the Kauravas as a trap. They escape to a forest where Bhima meets and marries Hidumbi. Following this, the Pandavas move to a village named Ekachakra, where they live in disguise. While in Ekachakra, Bhima slays Baka, a demon who has been terrorizing the countryside. [1] The four plays of Kottayam Thampuran, namely, Kirmeeravadham, Bakavadham, Kalyanasaugandhikam and Kalakeyavadham, are considered very important in the Kathakali repertoire and are a combination of conventional structure('chitta') with intermittent possibilities for improvisation('manodharma').[2]
+
+
+References
+
+Category:Kathakali Category:Indian plays Category:Malayalam-language literature
+
+[1] "The slaying of Baka" from The Hindu, Feb 13, 2014
+
+[2] "Touchstone of artistic expression" from The Hindu, Feb 2, 2012

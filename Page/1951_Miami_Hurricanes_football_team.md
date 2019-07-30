@@ -1,0 +1,13 @@
+The 1951 MIAMI HURRICANES FOOTBALL TEAM represented the University of Miami for the 1951 college football season. The Hurricanes played their home games at the Burdine Stadium in Miami, Florida. The team was coached by Andy Gustafson, in his fourth year as head coach for the Hurricanes. The Hurricanes participated in the Gator Bowl, in a post-season matchup against Clemson. The Hurricanes won 14–0.
+
+
+Schedule
+
+[1]
+
+
+References
+
+Miami Hurricanes Category:Miami Hurricanes football seasons Category:Gator Bowl champion seasons Miami Hurr
+
+[1]

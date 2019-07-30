@@ -1,0 +1,17 @@
+BHAWANI BHIKSHU () was a Nepali literary figure. His real name was Bhawani Prasad Gupta. At the age of 4 years, he was at the mouth of the death, suffering from Bifar [Smallpox]. It is also said that his life was saved due to divine and the power of Goddess Durga. His father Indra Prasad Gupta was a landseller. That's why there was no scarcity of basic needs. He completed his school life in India because of the scarcity of schools in Nepal. Although he was unable to complete his higher studies, he studied independently. He was interested in writing.
+
+
+See also
+
+-   List of Nepali writers
+
+[1] [2]
+
+
+References
+
+Category:1971 births Category:Living people Category:Nepalese male writers
+
+[1]
+
+[2]

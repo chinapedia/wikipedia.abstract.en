@@ -1,0 +1,27 @@
+is a Japanese footballer who plays.[1]
+
+
+Club statistics
+
+_Updated to 23 February 2016_.[2]
+
+  Club performance   League          Cup             Total
+  ------------------ --------------- --------------- -------
+  Season             Club            League          Apps
+  Japan              League          Emperor's Cup   Total
+  2015               YSCC Yokohama   J3 League       3
+  Career total       3               0               –
+
+
+References
+
+
+External links
+
+-   -   Profile at YSCC Yokohama
+
+Category:1992 births Category:Living people Category:Kanagawa University alumni Category:Association football people from Chiba Prefecture Category:Japanese footballers Category:J3 League players Category:YSCC Yokohama players Category:Association football forwards
+
+[1]
+
+[2] Nippon Sports Kikaku Publishing inc./日本スポーツ企画出版社, "2016J1&J2&J3選手名鑑", 10 February 2016, Japan, (p. 273 out of 289)

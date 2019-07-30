@@ -1,0 +1,951 @@
+The Hero of the Soviet Union was the highest distinction of the Soviet Union. It was awarded 12,775 times. Due to the large size of the list, it has been broken up into multiple pages.
+
+-   Malik Maharramov
+-   Mammad Maharramov
+-   Ghukas Madoyan
+-   Mikhail Mazan ru
+-   Yelena Mazanik
+-   Yegor Mazikin ru
+-   Gali Mazitov ru
+-   Yevdokim Mazkov ru
+-   Ivan Maznitsyn ru
+-   Yuri Mazny ru
+-   Trifon Mazur ru
+-   Aleksey Mazurenko (twice)
+-   Mikhail Mazurin ru
+-   Fyodor Mazurin ru
+-   Filipp Mazurov ru
+-   Ilya Mazuruk
+-   Vladimir Maiborsky ru
+-   Mark Maidan ru
+-   Nikolai Maidanov ru
+-   Nikolai Maikov ru
+-   Aleksandr Maiorov ru
+-   Aleksey Maiorov ru
+-   Dmitry Maisky ru
+-   Sakhip Maisky ru
+-   Boris Maistrenko ru
+-   Vladimir Maistrenko ru
+-   Georgy Maisyradze ru
+-   Tsakhau Makaev ru
+-   Aleksey Makalov ru
+-   Sergey Makarevich ru
+-   Aleksey Makarenko ru
+-   Nikolai Nikolayevich Makarenko ru
+-   Nikolai Fyodorovich Makarenko ru
+-   Timofey Makarenko ru
+-   Ivan Makarenkov ru
+-   Aleksey Makarov ru
+-   Andrey Makarov ru
+-   Arkady Makarov ru
+-   Valentin Makarov ru
+-   Vasily Iosifovich Makarov ru
+-   Vasily Markelovich Makarov ru
+-   Viktor Makarov ru
+-   Georgy Makarov ru
+-   Dmitry Makarov ru
+-   Zosim Makarov ru
+-   Ivan Ivanovich Makarov ru
+-   Ivan Konstantinovich Makarov ru
+-   Ivan Nikolaevich Makarov ru
+-   Konstantin Makarov ru
+-   Mikhail Andreyevich Makarov ru
+-   Mikhail Afanasevich Makarov ru
+-   Nikolai Makarov ru
+-   Oleg Makarov
+-   Pavel Makarov ru
+-   Pyotr Grigorievich Makarov ru
+-   Pyotr Fyodorovich Makarov ru
+-   Sergey Makarov ru
+-   Tatyana Makarova
+-   Mikhail Makarychev ru
+-   Aleksey Makeyev ru
+-   Boris Makeyev ru
+-   Viktor Makeyev ru
+-   Yegor Makeyev ru
+-   Sergey Makeyev ru
+-   Ivan Makeyonok ru
+-   Leonid Makerov ru
+-   Aleksey Makienko ru
+-   Filipp Makitruk ru
+-   Fyodor Makovetsky ru
+-   Iosif Makovsky ru
+-   Spartak Makovsky
+-   Alikhan Makoev ru
+-   Aleksandr Makridin ru
+-   Nikolai Makridov ru
+-   Vladimir Maksakov ru
+-   Aleksandr Maksimenko ru
+-   Vasily Maksimenko ru
+-   Vladimir Maksimenko ru
+-   Ilya Maksimenko ru
+-   Sergey Maksimenko ru
+-   Iosif Maksimenya ru
+-   Pavel Maksimikhin ru
+-   Nikolai Maksimkin ru
+-   Aleksandr Maksimov ru
+-   Vladimir Maksimov ru
+-   Georgy Maksimov ru
+-   Ivan Maksimov ru
+-   Nikolai Vasilyevich Maksimov ru
+-   Nikolai Gordeyevich Maksimov ru
+-   Timofey Maksimov ru
+-   Yuri Maksimov ru
+-   Ivan Maksimcha ru
+-   Aleksey Maksin ru
+-   Ksenofont Maksin ru
+-   Ilya Maksyuta ru
+-   Sergey Maksyutov ru
+-   Nikolai Makukha ru
+-   Aleksey Malanov ru
+-   Boris Malakhov ru
+-   Nikolai Malakhov ru
+-   Yuri Malakhov ru
+-   Grigory Malashenkov ru
+-   Arseny Malen ru
+-   Georgy Malidovsky ru
+-   Mikhail Maliev ru
+-   Mikhail Malik ru
+-   Ilya Malikov ru
+-   Anatoly Malin ru
+-   Ivan Malin ru
+-   Konstantin Malin ru
+-   Mikhail Malinin
+-   Konstantin Malinka ru
+-   Vasily Malinovsky ru
+-   Mikhail Malinovsky ru
+-   Rodion Malinovsky (twice)
+-   Tsezar Malinovsky ru
+-   Anatoly Malikhov ru
+-   Ivan Malka ru
+-   Georgy Malkov ru
+-   Ivan Akimovich Malov ru
+-   Ivan Stepanovich Malov ru
+-   Mikhail Malov ru
+-   Oleg Malov ru
+-   Ivan Malozyomov ru
+-   Grigory Malonog ru
+-   Ivan Malofeyev ru
+-   Mitrofan Malushchenko ru
+-   Vasily Malygin ru
+-   Grigory Malygin ru
+-   Konstantin Malygin ru
+-   Sergey Malygin ru
+-   Sergey Maly ru
+-   Foma Malyk ru
+-   Yevgeny Malykh ru
+-   Aleksandr Malyshev ru
+-   Aleksey Malyshev ru
+-   Boris Malyshev ru
+-   Viktor Aleksandrovich Malyshev ru
+-   Viktor Fyodorovich Malyshev ru
+-   Ivan Afanasevich Malyshev ru
+-   Ivan Yermolaevich ru
+-   Mikhail Malyshev ru
+-   Nikolai Malyshev ru
+-   Pyotr Malyshev ru
+-   Fyodor Malyshev ru
+-   Yuri Malyshev
+-   Ivan Malko ru
+-   Aleksey Malkov ru
+-   Dmitry Malkov ru
+-   Ivan Maltsev ru
+-   Konstantin Maltsev ru
+-   Mikhail Maltsev ru
+-   Mikhail Malchenko ru
+-   Nikolai Malyuga ru
+-   Mikhail Malyarenko ru
+-   Viktor Malyasov ru
+-   Nikolai Mamaev ru
+-   Nikolai Mamay ru
+-   Demyan Mamatov ru
+-   Dmitry Mamatov ru
+-   Ami Mammadov
+-   Israfil Mammadov
+-   Gafur Mammadov
+-   Mammad Mammadov
+-   Khalil Mammadov
+-   Manshuk Mametova
+-   Aleksandr Maminov ru
+-   Vasily Mamistov ru
+-   Pavel Mamkin ru
+-   Nikolai Mamonov ru
+-   Nikolai Mamontov ru
+-   Martbek Mamraev ru
+-   Khadzhi-Umar Mamsurov ru
+-   Boris Mamutin ru
+-   Kosan Mamutov ru
+-   Ivan Managarov ru
+-   Mikhail Grigorievich Manakin ru
+-   Mikhail Fyodorovich Manakin ru
+-   Gennady Manakov
+-   Tikhon Manankov ru
+-   Musa Manarov
+-   Isak Manasyan ru
+-   Yevgeny Manakov ru
+-   Lidzhi Mandzhiev ru
+-   Yefim Mandrykin ru
+-   Mikhail Mandubura ru
+-   Lev Manevich ru
+-   Aleksandr Manin ru
+-   Arkhip Manita ru
+-   Valentin Mankevich ru
+-   Viktor Mankevich ru
+-   Stepan Mankovich ru
+-   Ildar Mannanov ru
+-   Ivan Manoilov ru
+-   Aleksandr Maokhin ru
+-   Konstantin Manoshin ru
+-   Mikhail Manturov ru
+-   Vasily Manuilov ru
+-   Akop Manukyan ru
+-   Andranik Manukyan ru
+-   Anatoly Marakasov ru
+-   Nikolai Marachevich ru
+-   Vasily Margelov
+-   David Margulis ru
+-   Lev Margulyan ru
+-   Mikhail Mardar ru
+-   Mikhail Marenkov ru
+-   Zinaida Mareseva
+-   Aleksey Maresyev
+-   Yevgeny Mariinsky ru
+-   Ivan Marikov ru
+-   Tatyana Marinenko
+-   Aleksandr Marinesko
+-   Viktor Marinin ru
+-   Nikolai Marinin ru
+-   Ivan Marinsky ru
+-   Nikolai Marinchenko ru
+-   Ivan Marinych ru
+-   Nikolai Maritsky ru
+-   Vasily Marichev ru
+-   Vladimir Markanov ru
+-   Vladimir Markelov ru
+-   Nikolai Grigorievich Markelov ru
+-   Nikolai Danilovich Markelov ru
+-   Nikolai Stepanovich Markelov ru
+-   Andrey Markin ru
+-   Vyacheslav Markin ru
+-   Iosif Markin ru
+-   Nikolai Vasilyevich Markin ru
+-   Nikolai Petrovich Markin ru
+-   Sergey Markin ru
+-   Fyodor Markin ru
+-   Aleksandr Markov ru
+-   Aleksey Vasilyevich Markov ru
+-   Aleksey Ivanovich Markov ru
+-   Anatoly Markov ru
+-   Vasily Markov ru
+-   Viktor Markov ru
+-   Vladimir Markov ru
+-   Ivan Markov ru
+-   Nikifor Markov ru
+-   Pyotr Markov ru
+-   Fyodor Markov ru
+-   Veniamin Markovsky ru
+-   Stepan Markovtsev ru
+-   Pavel Markutsa ru
+-   Mikhail Marmulyov ru
+-   Vasily Martekhov ru
+-   Sarkis Martirosyan ru
+-   Mikhail Martusenko ru
+-   Vladimir Martysenko ru
+-   Ivan Nazarovich Martynenko ru
+-   Ivan Pavlovich Martynenko ru
+-   Mikhail Martynenko ru
+-   Aleksandr Vasilyevich Martynov ru
+-   Aleksandr Maksimovich Martynov ru
+-   Aleksey Martynov ru
+-   Vladimir Martynov ru
+-   Dmitry Martynov ru
+-   Yevgeny Martynov ru
+-   Ivan Alekseyevich Martynov ru
+-   Ivan Petrovich Martynov ru
+-   Ivan Stepanovich Martynov ru
+-   Mikhail Martynov ru
+-   Moisey Martynov ru
+-   Nikolai Martynov ru
+-   Yakov Martynov ru
+-   Sergey Martyshin ru
+-   Nikolai Martyanov ru
+-   Anatoly Marunov ru
+-   Pavel Marunchenko ru
+-   Konstantin Marusichenko ru
+-   Nikolai Marushin ru
+-   Vasily Marfitsin ru
+-   Mikhail Markheyev ru
+-   Vladimir Martsinkevich ru
+-   Alekseu Martsinkovsky ru
+-   Aleksandr Marchenko ru
+-   Ivan Marchenko ru
+-   Fyodor Marchenko ru
+-   Anatoly Marchenkov ru
+-   Mark Marchenkov ru
+-   Mikhail Marchuk ru
+-   Pyotr Marchuk ru
+-   Nikolai Marchukov ru
+-   Ivan Marin ru
+-   Moisey Maryanovsky ru
+-   Pyotr Maryasov ru
+-   Pyotr Maryutin ru
+-   Aslangeri Masaev ru
+-   Temir Masin ru
+-   Viktor Masich ru
+-   Mikhail Maskaev ru
+-   Ivan Maslakov ru
+-   Vitaly Maslennikov ru
+-   Ivan Maslennikov
+-   Nikolai Maslennikov ru
+-   Pyotr Maslennikov ru
+-   Anton Maslikov ru
+-   Aleksandr Maslov ru
+-   Anatoly Maslov ru
+-   Vasily Ivanovich Maslov ru
+-   Vasily Timofeyevich Maslov ru
+-   Vladimir Maslov ru
+-   Ivan Vasilyevich Maslov (soldier) ru
+-   Ivan Vasilyevich Maslov (pilot) ru
+-   Ilya Maslov ru
+-   Mikhail Maslov ru
+-   Nikolai Maslov ru
+-   Anna Maslovskaya
+-   Ivan Maslovsky ru
+-   Georgy Maslyakov ru
+-   Aleksey Masnev ru
+-   Vladimir Massalsky ru
+-   Nikolai Massonov ru
+-   Aleksandr Masterkov ru
+-   Nikolai Mastryukov ru
+-   Ivan Masychev ru
+-   Vasily Matakov ru
+-   Vasily Matasov ru
+-   Aleksandr Vasilyevich Matveyev ru
+-   Aleksandr Vladimirovich Matveyev ru
+-   Aleksey Matveyev ru
+-   Vladimir Ivanovich Matveyev (pilot) ru
+-   Vladimir Ivanovich Matveyev (soldier) ru
+-   Vladimir Sergeyevich Matveyev ru
+-   Ivan Yefimovich Matveyev ru
+-   Ivan Stepanovich Matveyev ru
+-   Ivan Fyodorovich Matveyev ru
+-   Mikhail Matveyev ru
+-   Nikolai Panteleyevich Matveyev ru
+-   Nikolai Stepanovich Matveyev ru
+-   Oleg Matveyev ru
+-   Pavel Konstantinovich Matveyev ru
+-   Pavel Yakovlevich Matveyev ru
+-   Fyodor Matveyev ru
+-   Yakov Matveyev ru
+-   Ivan Matveyenko ru
+-   Ivan Matveitsev ru
+-   Andrey Matvienko ru
+-   Nikolai Matvienko ru
+-   Nikolai Materienko ru
+-   Pyotr Matienko ru
+-   Aleksandr Matikov ru
+-   Yemelyan Matlaev ru
+-   Vasily Matronin ru
+-   Aleksandr Alekseyevich Matrosov ru
+-   Alexander Matveyevich Matrosov
+-   Aleksey Matrosov ru
+-   Vadim Matrosov ru
+-   Iosif Matrunchik ru
+-   Klim Matuzov ru
+-   Lev Matushkin ru
+-   Ivan Matyugin ru
+-   Arsenty Matyuk ru
+-   Mikhail Matyunin ru
+-   Pavel Matyuk ru
+-   Grigoru Matyukhin ru
+-   Aleksey Matyushev ru
+-   Vasily Matyushkin ru
+-   Pyotr Matyushchenko ru
+-   Nikolai Matyashin ru
+-   Aleksey Makhalin ru
+-   Vladimir Makhalin ru
+-   Sergey Makhalov ru
+-   Maksim Makhanyov ru
+-   Pavel Makhinya ru
+-   Jura Makhmudov ru
+-   Rojan Makhmudov ru
+-   Aleksey Makhnyov ru
+-   Nikolai Makhov ru
+-   Ivan Makhorin ru
+-   Ivan Makhota ru
+-   Boris Makhotin ru
+-   Grigory Makhrinov ru
+-   Aleksey Makhrov ru
+-   Grigory Mats ru
+-   Ivan Matsak ru
+-   Sergey Matsapura ru
+-   Vasily Matsievich ru
+-   Ignaty Matskevich ru
+-   Pyotr Matsygin ru
+-   Mikhail Machin ru
+-   Afanasy Machnev ru
+-   Anton Machlenko ru
+-   Toman Machulsky ru
+-   Aleksandr Mashakov ru
+-   Grigory Mashanin ru
+-   Pyotr Masherov
+-   Mitrofan Mashin ru
+-   Mikhail Mashintsev ru
+-   Ivan Mashir ru
+-   Ivan Mashkarin ru
+-   Shabsa Mashkautsan ru
+-   Aleksey Mashkov ru
+-   Igor Mashkov ru
+-   Nikolai Mashkov ru
+-   Roman Mashkov
+-   Stepan Mashkovsky ru
+-   Boris Mashkovtsev ru
+-   Pavel Mashtakov ru
+-   Ivan Mayurov ru
+-   Aleksey Mayakin ru
+-   Karl Mebagishvili ru
+-   Mikhail Mebsh ru
+-   Pavel Meger ru
+-   Aleksandr Yegorovich Medvedev ru
+-   Aleksandr Ivanovich Medvedev ru
+-   Aleksandr Nikolayevich Medvedev ru
+-   Viktor Aleksandrovich Medvedev ru
+-   Viktor Ivanovich Medvedev ru
+-   Gavriil Medvedev ru
+-   Dmitry Aleksandrovich Medvedev ru
+-   Dmitry Nikolayevich Medvedev
+-   Ivan Petrovich Medvedev ru
+-   Ilya Medvedev ru
+-   Mikhail Medvedev ru
+-   Nikolai Medvedev ru
+-   Sergey Medvedev ru
+-   Ivan Medved ru
+-   Nikolai Medvetsky ru
+-   Nikolai Medin ru
+-   Vyacheslav Mednonogov ru
+-   Mikhail Medyakov ru
+-   Ivan Meilus ru
+-   Natalya Meklin
+-   Yefim Melakh ru
+-   Nikolai Melashenko ru
+-   Nikolai Melashchenko ru
+-   Vasily Melezhik ru
+-   Aleksandr Melentev ru
+-   Mariya Melentyeva
+-   Arutyun Meletyan ru
+-   Oleg Meleshkov ru
+-   Khachatur Melikyan ru
+-   Andrey Melkonyan ru
+-   Vasily Melnik ru
+-   Nikhail Melnik ru
+-   Mykola Melnyk
+-   Nikolai Melnik ru
+-   Maryte Melnikaite
+-   Aleksandr Melnikov ru
+-   Aleksey Dmitrievich Melnikov ru
+-   Aleksey Ivanovich Melnikov ru
+-   Anatoly Vasilyevich Melnikov (1922—2001) ru
+-   Anatoly Vasilyevich Melnikov (1923—1944) ru
+-   Anatoly Ivanovich Melnikov ru
+-   Andrey Aleksandrovich Melnikov
+-   Andrey Iosifovich Melnikov ru
+-   Boris Melnikov ru
+-   Vasily Yemelyanovich Melnikov ru
+-   Vasily Ivanovich Melnikov ru
+-   Viktor Melnikov ru
+-   Ivan Melnikov ru
+-   Nikolai Mirillovich Melnikov ru
+-   Nikolai Nikiforovich Melnikov ru
+-   Nikolai Pavlovich Melnikov ru
+-   Pyotr Melnikov ru
+-   Semyon Alekseyevich Melnikov ru
+-   Semyon Ivanovich Melnikov ru
+-   Sergey Melnikov ru
+-   Fyodor Melnikov ru
+-   Ivan Melnichenko ru
+-   Sergey Melnichenko ru
+-   Ivan Melnov ru
+-   Vasily Melyakov ru
+-   Valery Menitsky ru
+-   Grigory Menshun ru
+-   Yevgeny Menshutin ru
+-   Aleksandr Menshikov ru
+-   Anatoly Menshikov ru
+-   Leonid Menshikov ru
+-   Pyotr Menshikov ru
+-   Afanasy Menshchikov ru
+-   Vladimir Mergasov ru
+-   Viktor Merenkov ru
+-   Pyotr Merenkov ru
+-   Andrey Merenyashev ru
+-   Kirill Meretskov
+-   Luka Mereshko ru
+-   Ivan Merzlyak ru
+-   Arnold Meri
+-   Ramón Mercader
+-   Garri Merkviladze ru
+-   David Merkviladze ru
+-   Vladimir Merkulov ru
+-   Georgy Merkulov ru
+-   Ivan Danilovich Merkulov ru
+-   Ivan Petrovich Merkulov ru
+-   Matvey Merkulov ru
+-   Serafim Merkulov ru
+-   Valerian Merkurev ru
+-   Nikolai Merkurev ru
+-   Aleksandr Merkushev ru
+-   Vasily Merkushev ru
+-   Ivan Merkushev ru
+-   Vasily Merchansky ru
+-   Vasily Matelyov ru
+-   Akim Metyashkin ru
+-   Kirill Makhanoshin ru
+-   Fyodor Mekhnin ru
+-   Ilya Meshakov ru
+-   Vasily Meshkov ru
+-   Ivan Andreyevich Meshkov ru
+-   Ivan Georgievich Meshkov ru
+-   Mikhail Meshcheryagin ru
+-   Georgy Meshcheryakov ru
+-   Ivan Meshcheryakov ru
+-   Mikhail Meshcheryakov
+-   Pavel Meshcheryakov ru
+-   Andrey Migal ru
+-   Valery Migunov ru
+-   Vasily Migunov ru
+-   Nester Mizerny ru
+-   Mikhail Mizinov ru
+-   Gedeon Mikaelyan ru
+-   Gennady Mikley ru
+-   Stepan Mikoyan ru
+-   Vitaly Mikryukov ru
+-   Boris Mikutsky ru
+-   Sergey Milashenkov ru
+-   Konstantin Milashin ru
+-   Maksim Milevsky ru
+-   Ivan Milenky ru
+-   Veniamin Miletsky ru
+-   Pyotr Miller ru
+-   Pavel Milov ru
+-   Aleksey Milovanov ru
+-   Andrey Milovanov ru
+-   Vasily Milovatsky ru
+-   Vadim Milovidov ru
+-   Hajimurza Mildzihov ru
+-   Erich Mielke
+-   Rafail Milner ru
+-   Semyon Milchenko ru
+-   Aleksandr Milyukov ru
+-   Vladimir Milyukov ru
+-   Andrey Milyutin ru
+-   Aleksandr Min ru
+-   Nikolai Minaev ru
+-   Ivan Minaenko ru
+-   Vasily Minakov
+-   Ivan Minakov ru
+-   Nabijan Minbav ru
+-   Dmitry Mineyev ru
+-   Leonid Minenko ru
+-   Vasily Minenkov ru
+-   Nurly Minuakhmetov ru
+-   Aleksandr Minin ru
+-   Fyodor Minin ru
+-   Yakov Minin ru
+-   Frants Minkevich ru
+-   Gumer Minnibaev ru
+-   Taftizan Minnigulov ru
+-   Dmitry Minchgov ru
+-   Nikolai Miokov ru
+-   Semyon Mirvoda ru
+-   Ivan Mirenkov ru
+-   Tokhtasin Mirzayev ru
+-   Bahatdin Mirzayev
+-   Yevgeny Mirkovsky ru
+-   Anatoly Mirovich ru
+-   Vasily Mirolyubov ru
+-   Yuri Mirolyubov ru
+-   Aleksandr Alekseyevich Mironenko ru
+-   Aleksandr Grigorievich Mironenko
+-   Aleksey Mironenko ru
+-   Viktor Mironenko ru
+-   Iosif Mironenko ru
+-   Aleksandr Mironov ru
+-   Aleksey Afanasevich Mironov ru
+-   Aleksey Nikolayevich Mironov ru
+-   Valentin Mironov ru
+-   Vasily Mironov ru
+-   Veniamin Mironov ru
+-   Viktor Mironov ru
+-   Vladimir Mironov ru
+-   Grigory Mironov ru
+-   Leonid Mironov ru
+-   Mikhail Mironov ru
+-   Pavel Andreyevich Mironov ru
+-   Pavel Vasilyevich Mironov
+-   Pyotr Mironov ru
+-   Sergey Mironov ru
+-   Filipp Mironov ru
+-   Andrey Miroshnik ru
+-   Mikhail Miroshnik ru
+-   Ivan Miroshnikov ru
+-   Aleksey Miroshnichenko ru
+-   Anatoly Miroshnichenko ru
+-   Viktor Miroshnichenko ru
+-   Dmitry Miroshnichenko ru
+-   Ivan Miroshnichenko ru
+-   Nikolai Miroshnichenko ru
+-   Pyotr Miroshnichenko ru
+-   Sergey Miroshnichenko ru
+-   Andrey Mirskov ru
+-   Vasily Mirun ru
+-   Gavriil Mitin ru
+-   Viktor Mitrakov ru
+-   Ivan Mitrofanenkov ru
+-   Vasily Mitrofanov ru
+-   Nikolai Mitrofanov ru
+-   Fyodor Mitrofanov ru
+-   Vasily Mitrokhin ru
+-   Vasily Mitrokhov ru
+-   Vasily Mitroshin ru
+-   Pavel Mitroshin ru
+-   Vladimir Mitryagin ru
+-   Vladimir Mitryaev ru
+-   Aleksey Mitryakov ru
+-   Sergey Mitt ru
+-   Nikita Mitchenko ru
+-   Boris Mitkin ru
+-   Nikolai Mikhailenko ru
+-   Vasily Mikhailenko ru
+-   Yevgeny Mikhailenko ru
+-   Ivan Mikhailenko ru
+-   Yakov Mikhailik ru
+-   Anton Mikhailichenko ru
+-   Ivan Mikhailichenko (twice)
+-   Mikhail Mikhailichenko ru
+-   Pavel Mikhailichenko ru
+-   Aleksandr Borisovich Mikhailov ru
+-   Aleksandr Fadeyevich Mikhailov ru
+-   Aleksandr Yakovlevich Mikhailov ru
+-   Andrey Mikhailov ru
+-   Boris Mikhailov ru
+-   Vasily Vasilyevich Mikhailov ru
+-   Vasily Mikhailovich Mikhailov ru
+-   Vasily Nikolayevich Mikhailov ru
+-   Vladimir Aleksandrovich Mikhailov ru
+-   Vladimir Alekseyevich Mikhailov ru
+-   Vladimir Andreyevich Mikhailov ru
+-   Vladimir Stepanovich Mikhailov ru
+-   Grigory Mikhailov ru
+-   Yevgeny Vitalevich Mikhailov ru
+-   Yevgeny Ivanovich Mikhailov ru
+-   Leonid Mikhailov ru
+-   Mikhail Mikhailov ru
+-   Nikolai Ivanovich Mikhailov ru
+-   Nikolai Lavrentevich Mikhailov ru
+-   Nikolai Matveyevich Mikhailov ru
+-   Pavel Mikhailov ru
+-   Polikarp Mikhailov ru
+-   Terenty Mikhailov ru
+-   Fyodor Mikhailov ru
+-   Yekaterina Mikhailova-Demina
+-   Arkady Mikhailovsky ru
+-   Yemelyan Mikhailyuk ru
+-   Boris Mikhailyov ru
+-   Vasily Mikhailyov ru
+-   Vladimir Mikhailyov ru
+-   Konstantin Mikhalenko ru
+-   Yefim Mikhalenkov ru
+-   Pyotr Mikhalitsyn ru
+-   Vasily Mikhalko ru
+-   Vasily Mikhalkov ru
+-   Mikhail Mikhalkov ru
+-   Vasily Mikhalchenko ru
+-   Vladimir Mikheyev ru
+-   Grigory Mikheyev ru
+-   Mikhail Mikheyev ru
+-   Nikolai Mikheyev ru
+-   Pavel Mikheyev ru
+-   Aleksey Mikhin ru
+-   Mikhail Ivanovich Mikhin
+-   Mikhail Nikolayevich Mikhin ru
+-   Stepan Mikhlyaev ru
+-   Gavriil Mikhnev ru
+-   Nikolai Mikhno ru
+-   Mikhail Mikhutkin ru
+-   Vasily Michurin ru
+-   Nikolai Mishanov ru
+-   Viktor Mishenin ru
+-   Nikolai Mishenin ru
+-   Aleksandr Mishin ru
+-   Aleksey Mishin ru
+-   Yevgeny Mishin ru
+-   Ivan Mishin ru
+-   Ivan Mishin ru
+-   Nikolai Mishkin ru
+-   Vasily Mishulin ru
+-   Vasily Mishustin ru
+-   Aleksey Dmitrievich Mishchenko ru
+-   Aleksey Yemelyanovich Mishchenko ru
+-   Ivan Vasilyevich Mishchenko (1906—1944) ru
+-   Ivan Vasilyevich Mishchenko (1922—1987) ru
+-   Samson Mkrtumov ru
+-   Arutyun Mkrtchyan ru
+-   Semyon Mladaentsev ru
+-   Aleksandr Mnatsakanov ru
+-   Mikhail Mnyshenko ru
+-   Mikhail Mogilny ru
+-   Ivan Mogilchak ru
+-   Boris Modin ru
+-   Nikolai Mozhaev ru
+-   Pavel Mozheiko ru
+-   Filipp Mozhenko ru
+-   Ivan Mozhievsky ru
+-   Aleksey Mozgalyov ru
+-   Ivan Mosgovoy ru
+-   Ivan Mozzharov ru
+-   Stepan Mozzherin ru
+-   Aleksandr Moiseyev ru
+-   Ivan Grigorievich Moiseyev ru
+-   Ivan Timofeyevich Moiseyev ru
+-   Nikolai Matveyevich Moiseyev ru
+-   Nikolai Semyonovich Moiseyev ru
+-   Oleg Moiseyev ru
+-   Alexander Moiseyevsky
+-   Anatoly Moiseyenko ru
+-   Vasily Moiseyenko ru
+-   Vladimir Moiseyenko ru
+-   Grigory Yakovlevich Moiseyenko ru
+-   Grigory Petrovich Moiseyenko ru
+-   Yevgeny Moizykh ru
+-   Aleksey Mokrinsky ru
+-   Ivan Mokrousov
+-   Nikolai Mokry ru
+-   Pyotr Moksin ru
+-   Erezhepbai Moldabaev ru
+-   Zhangas Moldagaliev ru
+-   Aliya Moldagulova
+-   Aleksandr Molev ru
+-   Nikolai Molev ru
+-   Mikhail Molodikov ru
+-   German Molodov ru
+-   Vladimir Molodtsov ru
+-   Dmitry Molodtsov ru
+-   Alexander Molodchy (twice)
+-   Vladimir Molodchikov ru
+-   Aleksey Molodchinin ru
+-   Pavel Molodykh ru
+-   Viktor Molozev ru
+-   Vasily Molokov
+-   Ivan Molokov ru
+-   Konstantin Molonenkov ru
+-   Vladimir Molotkov ru
+-   Grigory Molochinsky ru
+-   Grigory Molochkov ru
+-   Nikolai Molochnikov ru
+-   Aleksey Molchanov ru
+-   Vasily Molchanov ru
+-   Gleb Molchanov ru
+-   Yevgeny Molchanov ru
+-   Nikolai Molchanov ru
+-   Abdul Ahad Mohmand
+-   Bauyrzhan Momyshuly
+-   Mefody Monchak ru
+-   Bek Morgoev ru
+-   Nikolai Morgun ru
+-   Vladimir Morgunenko ru
+-   Sergey Morgunov ru
+-   Yuri Morgunov ru
+-   Nikolai Mordakin ru
+-   Ivan Mordasov ru
+-   Sergey Mordvintsev ru
+-   Mikhail Mordvyannikov ru
+-   Vasily Mordin ru
+-   Nikolai Morev ru
+-   Fyodor Morin ru
+-   Mikhail Morkovin ru
+-   Aksenty Moroz ru
+-   Daniil Moroz ru
+-   Yevgeny Moroz ru
+-   Ivan Mikhailovich Moroz ru
+-   Ivan Nikolayevich Moroz ru
+-   Nikolai Moroz ru
+-   Terenty Moroz ru
+-   Mikhail Morozenko ru
+-   Anatoly Morozov ru
+-   Arseny Morozov ru
+-   Vasily Mikhailovich Morozov ru
+-   Vasily Pavlovich Morozov ru
+-   Vasily Fyodorovich Morozov (lieutenant colonel) ru
+-   Vasily Fyodorovich Morozov (colonel) ru
+-   Vladimir Denisovich Morozov ru
+-   Georgy Morozov
+-   Grigory Morozov ru
+-   Dmitry Morozov ru
+-   Yevgeny Morozov ru
+-   Ivan Aleksandrovich Morozov ru
+-   Ivan Vasilyevich Morozov ru
+-   Ivan Dmitrievich Morozov ru
+-   Ivan Ivanovich Morozov (1913—1965) ru
+-   Ivan Ivanovich Morozov (1913—1997) ru
+-   Ivan Ivanovich Morozov (1922—2003) ru
+-   Ivan Konstantinovich Morozov ru
+-   Ivan Fyodorovich Morozov ru
+-   Konstantin Morozov ru
+-   Lavrenty Morozov ru
+-   Mikhail Ilyich Morozov ru
+-   Mikhail Nazarovich Morozov ru
+-   Nikolai Morozov ru
+-   Pavel Morozov ru
+-   Pyotr Andreyevich Morozov ru
+-   Pyotr Ivanovich Morozov ru
+-   Semyon Morozov
+-   Sergey Morozov ru
+-   Timofey Morozov ru
+-   Foty Morozov ru
+-   Anna Morozova
+-   Aleksandr Morukhov ru
+-   Pyotr Mosienko ru
+-   Sergey Mosienko ru
+-   Ivan Mosin ru
+-   Pyotr Mosin ru
+-   Georgy Moskalyov ru
+-   Dmitry Moskalyov ru
+-   Nikolai Moskalyov ru
+-   Georgy Moskalenko ru
+-   Ivan Vasilyevich Moskalenko ru
+-   Ivan Yefimovich Moskalenko ru
+-   Kirill Moskalenko (twice)
+-   Mikhail Moskalenko ru
+-   Yakov Moskalenko ru
+-   Grigory Moskalchuk ru
+-   Nikita Moskalchuk ru
+-   Vasily Moskvin ru
+-   Viktor Moskvin ru
+-   Mikhail Moskvin ru
+-   Viktor Moskvinchyov ru
+-   Nikolai Moskvichenko ru
+-   Aleksandr Moskinsky ru
+-   Vasily Moskovenko ru
+-   Aleksandr Moskovsky ru
+-   Grigory Moskovchenko ru
+-   Aleksandr Mosolov ru
+-   Anatoly Mosolov ru
+-   Georgy Mosolov
+-   Vladimir Mostovoy ru
+-   Grigory Mostovoy ru
+-   Nikolai Mostovoy ru
+-   Sergey Mostovoy
+-   Pore Mosulishvili
+-   Ilya Mospanov ru
+-   Ivan Motin ru
+-   Pyotr Motkov ru
+-   Nikolai Motorin ru
+-   Ivan Motorny ru
+-   Vasily Motorygin ru
+-   Ivan Motuz ru
+-   Fyodor Mokhlaev ru
+-   Konstantin Mokhov ru
+-   Mikhail Mokhov ru
+-   Sergey Mokhovoy ru
+-   Nikolai Mochalin ru
+-   Vladimir Mochalov ru
+-   Mikhail Mochalov ru
+-   Leonid Mochenkov ru
+-   Aleksandr Moshin ru
+-   Aleksandr Moshkin ru
+-   Boris Moshkov ru
+-   Ivan Moshlyak ru
+-   Pavel Mugalyov ru
+-   Valentin Mudretsov ru
+-   Nikolai Muzhailo ru
+-   Pavel Muzhitsky ru
+-   Ivan Muzalyov ru
+-   Mikhail Muzolyov ru
+-   Vasily Muzykin ru
+-   Mikhail Muzykin ru
+-   Nikolai Multan ru
+-   Luka Muravitsky ru
+-   Nikolai Muravlyov ru
+-   Aleksey Muravyov ru
+-   Mikhail Muravyov ru
+-   Nikolai Andreyevich Muravyov ru
+-   Nikolai Savelevich Muravyov ru
+-   Pavel Muravyov ru
+-   Bedir Muradov ru
+-   Andranik Muradyan ru
+-   Pavel Murakhtov ru
+-   Aleksey Murashev ru
+-   Mikhail Murashkin ru
+-   Yakov Murashkin ru
+-   Pavel Murashov ru
+-   Aleksandr Murdugov ru
+-   Ilya Murza ru
+-   Stepan Murza ru
+-   Gazis Murzagalimov ru
+-   Gallyam Murzakhanov ru
+-   Ibragim Murzin ru
+-   Stepan Murugov ru
+-   Pavel Murygin ru
+-   Mardan Musayev
+-   Mukat Musayev ru
+-   Saadil Musayev ru
+-   Valentin Musatov ru
+-   Ilya Musatov ru
+-   Nikolai Musatov ru
+-   Ivan Musienko ru
+-   Vasily Musin ru
+-   Nikolai Musinsky ru
+-   Grigory Muslanov ru
+-   Aleksandr Muslanov ru
+-   Zainulla Mustakimov ru
+-   Bakir Mustafayev
+-   Khydyr Mustafayev
+-   Mikhail Mustafin ru
+-   Serikbai Mutkenov ru
+-   Grigory Mukha ru
+-   Hamza Mukhamadiev ru
+-   Zhakipbek Mykhambetov ru
+-   Khavazi Muhamed-Mirzaev
+-   Anatoly Mukhin ru
+-   Valentin Mukhin ru
+-   Vasily Dmitrievich Mukhin ru
+-   Vasily Filippovich Mukhin ru
+-   Viktor Mukhin ru
+-   Sergey Mukhortov ru
+-   Vladimir Mushnikov ru
+-   Georgy Mushnikov ru
+-   Vladimir Myza ru
+-   Stepan Mykal ru
+-   Vladimir Mylnikov ru
+-   Georgy Mylnikov ru
+-   Grigory Mylnikov (twice)
+-   Aleksandr Mysin ru
+-   Viktor Mysnicheko ru
+-   Ivan Mytarev ru
+-   Dmitry Mytov ru
+-   Vasily Mykhlik (twice)
+-   Vasily Mytsyk ru
+-   Ivan Mychko ru
+-   Mikhail Myagky ru
+-   Vladimir Myagkob ru
+-   Anatoly Myagchilov ru
+-   Mikhail Myadzel ru
+-   Ivan Myakishev ru
+-   Vasily Myakotin ru
+-   Ivan Myakotin ru
+-   Gennady Myashin ru
+-   Aleksandr Myasnikov ru
+-   Vladimir Myasnikov ru
+-   Yevgeny Myasnikov ru
+-   Ivan Myasnikov ru
+-   Mikhail Myasnikov ru
+-   Viktor Myasnitsin ru
+-   Grigory Myasoedov ru
+-   Vasily Myachin
+
+
+References
+
+Russian Ministry of Defence Database «Подвиг Народа в Великой Отечественной войне 1941—1945 гг.» _[Feat of the People in the Great Patriotic War 1941-1945]_ (in Russian).
+
+Category:Lists of Heroes of the Soviet Union

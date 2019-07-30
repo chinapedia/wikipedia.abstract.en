@@ -1,0 +1,114 @@
+This is a LIST OF PUNJABI CINEMA ACTORS.
+
+-   Aarya Babbar
+-   Akmal Khan
+-   Aman Dhaliwal
+-   Amberdeep Singh
+-   Ammy Virk
+-   Amrinder Gill
+-   Amrish Puri
+-   Amrit Maan
+-   Arjan Bajwa
+-   Arun Bakshi
+-   B.N. Sharma
+-   Babbal Rai
+-   Babbu Maan
+-   Balraj Sahni
+-   Binnu Dhillon
+-   Dakssh Ajit Singh
+-   Dara Singh
+-   Deep Dhillon
+-   Deep Sidhu
+-   Dev Kharoud
+-   Dheeraj Kumar
+-   Diljit Dosanjh
+-   Garry Sandhu
+-   Gavie Chahal
+-   Ghulam Mohiuddin
+-   Ghulle Shah
+-   Gippy Grewal
+-   Gugu Gill
+-   Mahie Gill
+-   Gulzar Inder Chahal
+-   Gurchet Chitarkar
+-   Gurdas Maan
+-   Gurkirtan Chauhan
+-   Gurnam Bhullar
+-   Gurpreet Ghuggi
+-   Gurpreet Ghudha
+-   Gurshabad
+-   Harbhajan Mann
+-   Hardy Sandhu
+-   Harish Verma
+-   Harp Farmer
+-   Jackie Shroff
+-   Jagdish Raj
+-   Jaggi Singh
+-   Jagga Atla
+-   Jaspal Bhatti
+-   Jass Bajwa
+-   Jassi Gill
+-   Jaswinder Bhalla
+-   Jazzy B
+-   Jimmy Shergill
+-   Jimmy Sharma
+-   Kanwaljit Singh
+-   Karamjit Anmol
+-   Karan Kundra
+-   Kulbhushan Kharbanda
+-   Lakha Lakhwinder Singh
+-   Madan Puri
+-   Mahendra Sandhu
+-   Mangal Dhillon
+-   Mehar Mittal
+-   Moolchand
+-   Muhammad Sadiq
+-   Mukesh Rishi
+-   Mukesh Tiwari
+-   Mustafa Qureshi
+-   Muzaffar Adeeb
+-   Nav Bajwa
+-   Navraj Hans
+-   Ninja (singer)
+-   Om Puri
+-   Parmish Verma
+-   Rahul Dev
+-   Raj Babbar
+-   Raj Brar
+-   Rana Ranbir
+-   Ranjeet
+-   Ranjit Bawa
+-   Ravinder Grewal
+-   Roshan Prince
+-   Samuel John
+-   Sarbjit Cheema
+-   Sardar Sohi
+-   Sardool Sikander
+-   Satish Kaul
+-   Sharat Saxena
+-   Sharry Mann
+-   Shashi Puri
+-   Shavinder Mahal
+-   Sohail Ahmed
+-   Sudesh Lehri
+-   Sultan Rahi
+-   Sunder
+-   Sunil Dutt
+-   Sunny Cheema
+-   Surinder Shinda
+-   Tarsem Jassar
+-   Tiger Joginder Singh
+-   Veerendra
+-   Vishal Karwal
+-   Vivaan Arora
+-   Vivek Shauq
+-   Yograj Singh
+-   Yuvraj Hans
+-   Zahir Shah
+
+
+See also
+
+-   List of Punjabi cinema actresses
+
+Category:Cinema of Punjab list

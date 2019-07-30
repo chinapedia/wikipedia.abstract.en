@@ -1,0 +1,11 @@
+The 1942 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 3, 1942. Republican Party of Minnesota candidate Edward John Thye defeated Minnesota Farmer–Labor Party challenger Juls J. Anderson and Minnesota Democratic Party candidate Joseph Kowalkowski.
+
+
+Results
+
+
+External links
+
+-   Election Returns
+
+Lieutenant Gubernatorial 1942

@@ -1,0 +1,18 @@
+The BABA UMER DARGAH () is a famous Islamic shrine in Solapur, India.[1] It is known for a baby throwing ritual, in which infants are dropped from a 15-meter platform onto a cloth held by both Muslim and Hindu men.[2][3] This practice is five to seven hundred years old;[4][5] it is said to originate when a pir "advised people whose babies were dying to build a shrine and drop the ailing infants from the roof to show their trust in the almighty" and after doing so, "the babies were miraculously cradled to safety in a hammock-like sheet that appeared in midair."[6]
+
+
+References
+
+Category:Dargahs in India Category:Buildings and structures in Maharashtra
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]

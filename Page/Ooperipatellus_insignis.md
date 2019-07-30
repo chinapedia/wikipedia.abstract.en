@@ -1,0 +1,10 @@
+_OOPERIPATELLUS INSIGNIS_ is a species of velvet worm in the Peripatopsidae family.[1] It is found in Victoria, Australia.[2]
+
+
+References
+
+Category:Onychophorans Category:Animals described in 1890
+
+[1]
+
+[2]

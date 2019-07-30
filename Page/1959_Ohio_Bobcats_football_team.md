@@ -1,0 +1,8 @@
+The 1959 OHIO BOBCATS FOOTBALL TEAM was an American football team that represented Ohio University in the Mid-American Conference (MAC) during the 1959 college football season. In their second season under head coach Bill Hess, the Bobcats compiled a 7–2 record (4–2 against MAC opponents), finished in second place in the MAC, and outscored all opponents by a combined total of 215 to 101.[1]
+
+
+References
+
+Ohio Category:Ohio Bobcats football seasons Ohio Bobcats football football
+
+[1]

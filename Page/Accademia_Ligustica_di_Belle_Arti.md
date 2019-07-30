@@ -1,0 +1,13 @@
+The ACCADEMIA LIGUSTICA DI BELLE ARTI is a tertiary academy of fine arts located in Genoa, Italy. It also houses a museum (Museo dell'Accademia Ligustica di Belle Arti), which includes works of Giovanni Benedetto Castiglione, Giuseppe Abbati, Anton Raphael Mengs, Perin del Vaga, Luca Cambiaso, Bernardo Strozzi, Giovanni Battista Paggi, Sinibaldo Scorza, Domenico Fiasella, Luciano Borzone, Serafino De Tivoli, Plinio Nomellini. The academy was founded in 1751.[1]
+
+
+References
+
+
+External links
+
+-
+
+Category:Art schools in Italy Category:Education in Genoa Category:Educational institutions established in the 1750s Category:1751 establishments in Italy Category:Art museums and galleries in Genoa
+
+[1]

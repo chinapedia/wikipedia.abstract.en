@@ -1,0 +1,17 @@
+The 1949 VERMONT CATAMOUNTS FOOTBALL TEAM represented the Vermont Catamounts football team of the University of Vermont during the 1949 college football season. Despite a 2–0 conference record, the league title was awarded to both Connecticut and , who finished with 2–0–1 league records, with their tie coming against each other.[1][2]
+
+
+Schedule
+
+[3]
+
+
+References
+
+Vermont Category:Vermont Catamounts football seasons Category:1949 in Vermont
+
+[1]
+
+[2]
+
+[3]

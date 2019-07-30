@@ -1,0 +1,11 @@
+The 1956 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 6, 1956. Incumbent Lieutenant Governor Karl Rolvaag of the Minnesota Democratic-Farmer-Labor Party defeated Republican Party of Minnesota challenger Leonard R. Dickinson.
+
+
+Results
+
+
+External links
+
+-   Election Returns
+
+Lieutenant Gubernatorial 1956

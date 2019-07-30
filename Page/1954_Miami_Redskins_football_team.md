@@ -1,0 +1,14 @@
+The 1954 MIAMI REDSKINS FOOTBALL TEAM was an American football team that represented Miami University in the Mid-American Conference (MAC) during the 1954 college football season. In its fourth season under head coach Ara Parseghian, Miami compiled an 8–1 record (4–0 against MAC opponents), won the MAC championship, held five of nine opponents to seven points or less, shut out three opponents, and outscored all opponents by a combined total of 294 to 82.[1]
+
+Bob Bronston was the team captain.[2] The team's statistical leaders included Bob Wallace with 411 rushing yards, Dick Hunter with 529 passing yards, and Bill Mallory with 197 receiving yards.[3]
+
+
+References
+
+Miami (OH) Category:Miami RedHawks football seasons Miami Redskins football Category:Mid-American Conference football champion seasons
+
+[1]
+
+[2] 2005 Media Guide, p. 148.
+
+[3] 2005 Media Guide, p. 169.

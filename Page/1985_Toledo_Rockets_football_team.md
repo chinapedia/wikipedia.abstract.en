@@ -1,0 +1,12 @@
+The 1985 TOLEDO ROCKETS FOOTBALL TEAM was an American football team that represented the University of Toledo in the Mid-American Conference (MAC) during the 1985 NCAA Division I-A football season. In their fourth season under head coach Dan Simrell, the Rockets compiled a 4–7 record (3–6 against MAC opponents), finished in a tie for sixth place in the MAC, and were outscored by all opponents by a combined total of 187 to 135.[1]
+
+The team's statistical leaders included A. J. Sager with 1,335 passing yards, Kelvin Farmer with 748 rushing yards, and Jay Walsh with 284 receiving yards.[2]
+
+
+References
+
+Toledo Category:Toledo Rockets football seasons Toledo Rockets football
+
+[1]
+
+[2]

@@ -1,0 +1,14 @@
+GREGORY PERCY JONES, QC, is an Alderman of the City of London Corporation, where he represents the ward of Farringdon Without.[1]Jones had previously served as a Common Councilman for the same ward from March, 2013 until his election as Alderman in February, 2017. On both occasions in keeping with City tradition Jones stood as an Independent.
+
+Jones is a practising barrister at the independent bar. Jones is a member of Francis Taylor Building, Temple, London. and an associate tenant of KBW chambers in Leeds. Described by Chambers and Partners 2017 as "The thinking man's QC." "Not just the meat-and-two-veg planning silk, he can deal very comfortably with European issues and complexity across the board." Jones specialises in planning, infrastructure, environmental, EU, compulsory purchase, Parliamentary, education, administrative, local government and ecclesiastical law.
+
+Jones is the co-author of several leading texts including 'The SEA Directive - A Plan for Success?' (Hart, 2017) Co-Edited Jones and Scotford; 'The Habitats Directive - A Developer's Obstacle Course?' (Hart, 2012) Edited by Jones; 'Statutory Nuisance Law and Practice' (3rd. Ed.)by McCracken, Jones and Pereira (Bloomsbury, 2012) and Environmental Law in Property Transactions' (4th. Ed.)(Bloomsbury, 2016)by Waite, Jones and Fogelmann'
+
+Jones was educated at Colfe's School owned by the Leathersellers' Livery Company, and then at New College, Oxford (MA in jurisprudence) and University College (LLM). Having taken his Bar finals at the Inns of Court school of law Jones was called to the bar by Lincoln's Inn in 1991 and took silk in 2011. He is a fellow at the Centre for European Law, King's College; deputy chancellor of the Dioceses of both Exeter and Truro; Jones has been called to the bars of both Northern Ireland and Ireland. Jones is a member of the governing House Council of St. Stephen's House, Oxford University and governor of the Leathersellers' Federation of Schools. In 2015, Jones was appointed by the Irish government to chair an independent expert organisational review of An Bord Pleanála, the independent, statutory, quasi-judicial body responsible for strategic infrastructure and various environmental permitting decisions and all appeals from planning decisions made by local authorities in Ireland. The report was published in February 2016 and made 101 recommendations http://www.housing.gov.ie/sites/default/files/publications/files/20160315-operational-review-an_bord-pleanala.pdf
+
+
+References
+
+Category:Living people Category:Councilmen and Aldermen of the City of London Category:1968 births Category:British barristers Category:Queen's Counsel 2001– Category:People educated at Colfe's School Category:Alumni of New College, Oxford Category:Alumni of University College London Category:Fellows of King's College London
+
+[1] Gregory Percy Jones QC. City of London. Retrieved 31 October 2016.

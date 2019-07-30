@@ -1,0 +1,17 @@
+'''Adrien Garel ''' (born 12 March 1996) is a French road and track cyclist, who currently rides for UCI Professional Continental team .[1] He won the bronze medal at the 2016–17 UCI Track Cycling World Cup, Round 2 in Apeldoorn in the team pursuit.[2][3]
+
+
+References
+
+
+External links
+
+-
+
+Category:1996 births Category:Living people Category:French male cyclists Category:French track cyclists Category:People from Bagneux, Hauts-de-Seine
+
+[1]
+
+[2]
+
+[3]

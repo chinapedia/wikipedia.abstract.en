@@ -1,0 +1,16 @@
+The 1918 WASHINGTON STATE FOOTBALL TEAM was an American football team that represented Washington State College as an independent during the 1918 college football season, after being a member of the Pacific Coast Conference (PCC) in 1917. The team competed under head coach Emory Alvord, compiling a record of 1–1.[1] The team rejoined the PCC in 1919. The 1919 team also notably adopted the "Cougars" nickname.
+
+
+Schedule
+
+  Date          Opponent   Location   Score    Attendance
+  ------------- ---------- ---------- -------- ------------
+  November 28   Gonzaga    Home       20-6 W   NA
+  December 7    Idaho      Away       6-7 L    NA
+
+
+References
+
+Washington State Category:Washington State Cougars football seasons Category:1918 in Washington (state)
+
+[1]

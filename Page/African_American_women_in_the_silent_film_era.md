@@ -1,0 +1,38 @@
+During the beginning stages of film; African American people, indeed partook in the early film industry. Specifically African American women played a very influential role and made an impact on cinema during the silent film era.
+
+American film industry can be viewed as one of America’s best creations. Cinema was not only enormously popular but was tremendously powerful. It was economically powerful by being one of the most profitable industries but it was also socially and politically powerful through the types of representations and portrayals of types of people that were being displayed in the media. This visual medium has the power to tell stories and depict narratives.
+
+
+History of film
+
+Technology advancement
+
+This tool was utilized to capture a still photograph of an image in real life. The following theory was configuring how to take that still image and transform it into a moving image. The first introduction to motion picture history was through the creation of the kinetoscope invented in 1893 by a man named Kennedy Laurie Dickson, an assistant of famous American inventor Thomas Edison. And through that invention the cinematographe was invented in 1895 by the Lumiere brothers.These inventions opened the gates for the future of film industry and created the art of film making. The concept of motion picture was almost unfathomable but it gained such a huge popularity amongst people. The birth of cinema originated in the mid-late 1800’s, through the advancement of the invention called a camera.The film industry became very popular and still is one of the greatest forms of American entertainment as of today.
+
+
+Important people
+
+The film industry were initially predominately controlled by white men. White men were the ones who had power when it came to how certain images and stereotypes were portrayed. African Americans were not often given a chance to advance in the film industry because of prejudice and institutional racism that stemmed from American history as it relates to Slavery. The way that society felt about African Americans enforced these negative images and Stereotypes of African Americans. The best way for African Americans to break those negative stereotypes was to create positive ones and take control over the type of content and portrayal that was being pushed in the media. For better representation, is to create the representations. Both African American women and men took part taking the role of the director, producer and screenwriter of films created by film companies that gave African Americans a chance. Influential women such as Dorothy Davenport and Maria P. Williams worked very hard to break female and racial stereotypes. Eloyce King Patrick Gist is recognized as the first African American woman filmmaker. She was born on October 21, 1892 and died in 1974. She worked besides her husband in films such as Hell Bound Train (1929-1930) and Verdict Not Guilty (1930-1933)(Morgan). According to The Library of Congress publication on silent era women behind the camera, the role of an editor was viewed as a women’s job. During this time, women were still viewed as primarily having a role inside of the home and wasn’t initially recognized as having the intelligence to hold powerful positions; especially in film. But it was these pioneers who helped shift and change the stereotypical image of not only women or African Americans in America but African American women. Their aim was to shift the negative perspective and bring positive depiction. African American women had a great influence on the silent film era. The concept of race in America was and still is very influential in America in terms of social equality.
+
+
+Silent film era
+
+The Silent Film Era in the United States was from 1912 to 1922. To capture an idea/ concept without sound simply just an image is an art form within itself and requires a lot of time effort and skill. Silent Film was an art form within an art form because it was able to tell a story with only motion picture without sound that would follow. But with the new technological advancement of audio on motion picture Silent Films seemed to have quickly disappeared soon after the sound was introduced to film. Which makes them so difficult to find because very few still exist today.[1]“There is no single number for existing American silent-era feature films, as the surviving copies vary in format and completeness” (Pierce, pg.1) There are silent films that would only some portions of it that have survived such as its title, but would be missing one or two reels of film. Only 2,749 (25%) of American silent feature films survive in complete form. Another 562 (17% of the surviving titles and 5% of total production) (Pierce, pg. 6) survive in incomplete form.
+
+In the Silent Film industry women were not just screen actresses in the silent era..(Gaines & Vatsal). Women had more participation in the film industry in a wider sense than perceived. Some women held the role of not only the predictable costume designer which was a role based on gender-typing but twenty-nine different positions. Some include editors, camera operators, colorist, reader, script girl and even the casting director. Some worked their way up to become directors, producers, and writers of films as well.
+
+Like most media, the type of stories that were being told in films had a direct correlation to the current events that were occurring at the time. In film; the director, producer, and writer are the key components of production. A majority of film industry position holders were white males. In films that would include other races, and ethnicities, these roles would often still be played by white males. They were the ones in power of the type of representation that other races in particular; African Americans were being depicted. Due to the racial issues that was occurring in the United States; these depictions of Blacks were from a single perspective. Their perspective of African Americans was promoted by negative stereotypical views of this group of people as being “less than” and “second-class citizens”. The only way to change these perspective was to get in the position of the filmmaker and create their own stories through film. African American men began to create films to provide an authentic view of Black life in America, and the Black lifestyle. But it was usually their wives who were aiding them and essentially co-directing, co-producing and co-writing their work.
+
+In the United States women; especially African American women were underrepresented and there were a few African American women who are pioneers of the filmmaking industry. Alice B. Russell, Eslanda Robeson, Eloyce King Patrick Gist, Zora Neale Hurston, Tressie Souders, Madame E. Touissant, Mrs. M. Webb and Birdie Gilmore are among them.
+
+
+References
+
+-   Morgan, Kyna, and Aimee Dixon. "African-American Women in the Silent Film Industry." – Women Film Pioneers Project. N.p., n.d. Web. 4 Nov. 2016.
+-   "Silent Era : The Silent Film Website." Silent Era : The Silent Film Website. Silent Film Era Company, n.d. Web. 8 Nov. 2016.
+-   Pierce, David. “The Survival of American Silent Films: 1912-1929.” Council on Library and Information Resources And the Library of Congress.Sept.2013.Web. 8 Nov. 2016
+-   http://www.indiewire.com/author/cfg/. "5 Highlights from Women Film Pioneers Project: African-American Women in Silent Film, Women Camera Operators and More." IndieWire. N.p., 15 Oct. 2013. Web. 9 Nov. 2016.
+
+Category:African-American history
+
+[1]

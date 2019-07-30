@@ -1,0 +1,22 @@
+BATALANDA DETENTION CENTRE was an alleged detention centre used to torture and exterminate members of the then militant marxist rebel organization Janatha Vimukthi Peramuna(JVP) during JVP uprising of 1988–1989 who launched a second armed revolt against an elected government then led by President Ranasinghe Premadasa. Unlike the previous open uprising the JVP relied on assassinations of important religious and political figures, subversion and terror attacks. The government replied brutally showing no mercy and the government has been accused of using detention camps in several places including Batalanda to quell the JVP uprising. These were said to be run by anti-subversive units of the police who were tasked with destroying rebels [1][2][3][4][5] It is believed that nearly 5,000-10,000 members of JVP activists were brutally tortured and killed in this camp.[6] Ranil Wickremesinghe is accused of being the political authority of the alleged detention center. Batalanda commission was appointed by the government of Chandrika Kumaratunga to look into the violations of human rights and crimes committed at Batalanda torture and detention center. In its report the commission recommended the government to take legal action against then opposition leader Ranil Wickremesinghe. However no legal action was taken against him by any government to date and several who were arrested for their involvement in alleged killings have been revealed to be from organizations such as the Sri Lanka Mahajana Party which was created by Kumaratunge and her husband who himself was assassinated .[7][8]
+
+
+References
+
+Category:Janatha Vimukthi Peramuna Category:Prisons in Sri Lanka Category:Forced disappearances in Sri Lanka Category:Political repression Category:Allegations of State terrorism by Sri Lanka
+
+[1]
+
+[2] Commissions of inquiry in Sri Lanka
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]

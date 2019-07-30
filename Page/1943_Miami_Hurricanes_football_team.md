@@ -1,0 +1,13 @@
+The 1943 MIAMI HURRICANES FOOTBALL TEAM represented the University of Miami for the 1943 college football season. The Hurricanes played their home games at the Burdine Stadium in Miami, Florida. The team was coached by Eddie Dunn, in his first year as interim head coach, while active head coach Jack Harding served in World War II.
+
+
+Schedule
+
+[1]
+
+
+References
+
+Miami Hurricanes Category:Miami Hurricanes football seasons Miami Hurr
+
+[1]

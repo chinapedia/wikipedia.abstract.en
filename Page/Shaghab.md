@@ -1,0 +1,48 @@
+SHAGHAB (died 933) was the mother of the eighteenth Abbasid Caliph al-Muqtadir (), and wielded a considerable influence over state affairs during the reign of her son. She was commonly referred to only as UMM AL-MUQTADIR (mother of al-Muqtadir) or AL-SAYYIDA (the lady).
+
+
+Life
+
+Early life
+
+Shaghab was reportedly a _Rumiyya_, that is to say of Greek origin from the Byzantine Empire. She was originally a slave of Umm Qasim, a daughter of Muhammad ibn Abdallah ibn Tahir, the Tahirid governor of Baghdad in 851–867. Originally named _Na'ima_ ("gentle"), at some point—it is not recorded how or when—she entered the harem of Caliph al-Mu'tadid (r. 892–902), and became his concubine. After giving birth to Ja'far, the future al-Muqtadir, in 895, she was set free (_umm walad_) and given the name _Shaghab_ ("turbulent"). According to the historian Hugh Kennedy, this was a common practice at the time for girls, so as to "draw attention from their beauty, or, possibly, to ward off jealousy and misfortune".
+
+Shaghab was influential at court, especially after the death of al-Mu'tadid's first wife, the Tulunid princess Qatr al-Nada, who had one day threatened to cut off her nose. While al-Muktafi (r. 902–908) remained the first heir, it was widely expected that her son would reign, since al-Muktafi was of sickly disposition. She also avidly promoted the careers of her own family, her sister Khatif, her brother Gharib ibn Abdallah, and her nephew Harun. Gharib became one of close circle of senior _ghilmān_, many of whom were of Greek origin, around al-Mu'tadid, such as the future commander-in-chief Mu'nis al-Khadim. Until his death in 917, Gharib was one of the leading commanders and provincial governors of the state. When al-Mu'tadid died and al-Muktafi became Caliph, al-Muqtadir was the target of various palace intrigues, but Shaghab could count on the devotion of al-Mu'tadid's old _ghilmān_ to his offspring to ward off any danger to her son.
+
+Reign of al-Muqtadir
+
+In 908, al-Muktafi fell ill, and was evidently nearing his end. The issue of succession had been left open, and with the Caliph incapacitated, the vizier al-Abbas ibn al-Hasan al-Jarjara'i took it upon himself to seek out a successor. Two different stories are told on the events: Miskawayh reports that the vizier sought the advice of the most important bureaucrats, with Mahmud ibn Dawud ibn al-Jarrah suggesting the older and experienced Abdallah ibn al-Mu'tazz, but Ali ibn al-Furat—who is usually portrayed as a villain by Miskawayh—proposing instead someone weak, pliable, and easy to be manipulated by the senior officials. The vizier concurred, and Shaghab's thirteen-year-old son was chosen as heir; when the testament of al-Muktafi was opened, he too had chosen his brother as his successor. A different story is reported by the Andalusi historian Arib, whereby the vizier dithered between the candidacies of Ibn al-Mu'tazz and another older Abbasid prince, Muhammad ibn al-Mu'tamid. The choice of the latter would represent a major political departure, in effect a repudiation of al-Mu'tadid's coup that had deprived the offspring of Caliph al-Mu'tamid (r. 870–892) of power, and of the officials and _ghilmān_ that had underpinned al-Mu'tadid's regime. The Caliph recovered before a final choice had been made, and nominated Ja'far as his heir, before dying. The two stories highlight different aspects of al-Muqtadir's accession: on the one hand, a cabal of officials choosing a weak and pliable ruler, "a sinister development" that inaugurated one "of the most disastrous reigns in the whole of Abbasid history [...] a quarter of a century in which all of the work of [al-Muqtadir's] predecessors would be undone", while on the other hand, the issue of dynastic succession, and especially the loyalty of al-Mu'tadid's _ghilmān_ to his son, evidently also played an important role.
+
+The harem and Shaghab's influence
+
+Al-Muqtadir was the first underage Caliph in Muslim history, and as such during the early years of his reign, a regency council (_al-sāda_, "the masters") was set up, comprising, according to al-Tanukhi, his mother Shaghab, her personal agent (_qahramāna_) Umm Musa, her sister Khatif, and another _umm walad_ of al-Mu'tadid's, Dastanbuwayh. Saghab, usually known simply as _al-Sayyida_ ("the Lady"), utterly "dominated her son to the exclusion of the other women in his harem, including his wives and concubines"; al-Muqtadir would spend much of his time in his mother's quarters. As a result, government business came to be determined in the private quarters of the sovereign rather than the public palace dominated by the bureaucracy, and Saghab became one of the most influential figures of her son's reign, interfering in the appointments and dismissals of officials, making financial contributions to the treasury, and undertaking charitable activities. Indeed, a common feature of all accounts by medieval sources is that "mentions of al-Muqtadir are indissolubly tied to mentions not only of his viziers, but also of his female household", and this was one of the main points of criticism for subsequent historians. Thus the contemporary historian al-Mas'udi condemned al-Muqtadir's reign as one where "those who had power were women, servants and others", while the Caliph himself "did not concern himself with State affairs", leaving his officials to govern the state. Likewise, the 13th-century chronicler Ibn al-Tiqtaqa, regarded al-Muqtadir as a "squanderer" who let "matters concerning his reign were run by women and servants, while he was busy satisfying his pleasure". Shaghab in particular is usually portrayed as a "rapacious and short-sighted schemer" by later historians.
+
+Although she sometimes challenged conventions of the role of a woman—it is reported that in 918 she even dared to go out in public riding a horse—Shaghab spent most of her life confined in the harem. There she ran her own parallel bureaucracy, with secretaries (_kuttāb_, sing. _kātib_) devoted to both civil and military affairs. Her power was such that when her _kātib_ Ahmad al-Khasibi was appointed vizier in 925 due to her own and her sister's influence, he regretted the appointment, since his post as _kātib_ to the queen-mother was more beneficial to himself. The most important members of her court were the stewardesses or _qahramāna_, who were free to exit the harem and act as agents to her interests in the outside world. These women wielded considerable influence, especially as intermediaries between the harem and the court; their influence with Shaghab could lead to the dismissal of even the vizier. The first incumbent was one Fatima, who drowned in the Tigris when her boat was caught in a storm. She was followed by Umm Musa, a descendant of one of the Abbasid clan's junior branches. Her plotting for her favourites, the corruption of her family, and her hostility towards the "good vizier" Ali ibn Isa al-Jarrah, who was dismissed due to her machinations in 917, are underlined in the chronicles of the period. However, when she married her niece to Abu'l-Abbas, a grandson of al-Mutawakkil (r. 847–861), her rivals were quick to accuse her of aspiring to overthrow the Caliph and place her nephew on the throne. In 922/3, she was arrested and replaced by Thumal, who tortured Umm Musa, her brother, and her sister, until they had revealed where her treasure—reportedly valued at one million gold dinars—was hidden. Thumal enjoyed a reputation for cruelty; her first master, Abu Dulaf, had used her to punish servants who displeased him. Another _qahramāna_, Zaydan, was the antithesis of Thumal: her house was used to jail several senior officials after they were dismissed, but it was a comfortable captivity, and she often provided refuge to those persecuted by their political rivals.
+
+When the qadi Ahmad ibn Yaqub refused to recognize her son as Caliph because of his age, Shaghab had him executed.[1] She stated that the affairs of the _umma_, especially justice, was better administered with a woman in charge, and appointed her female assistant Thumal in charge of the _mazalim_ courts, in effect minister of justice or chief administrator of justice and supervisor of the qadis, who opposed to be supervised by a woman, but was forced to accept the appointment.[2] According to the historian Tabari, Thumal carried out her duties well enough to achieve popularity among the public in her office, especially because of the new reforms which lowered the cost for a plaintiff to initiate a case: however, her appointment was described in Muslim history, among others by Ibn Hazm, as a proof on the decadence of the reign of al-Muqtadir and one example of a series of "scandals whose equal has not been seen to this day".[3]
+
+During her de facto reign, Shaghab also spent large sums on ostentatious public charity, which gave her some popularity among the general public.[4]
+
+
+See also
+
+-   Al-Khayzuran
+-   Thumal the Qahraman
+
+
+References
+
+
+Sources
+
+-   -   -   -   -   -   -   -
+
+Category:9th-century births Category:10th-century women rulers Category:933 deaths Category:Abbasids Category:Arabian freedmen Category:Women of the Abbasid Caliphate
+
+[1] Mernissi, Fatima; Mary Jo Lakeland (2003). The forgotten queens of Islam. Oxford University Press. .
+
+[2] Mernissi, Fatima; Mary Jo Lakeland (2003). The forgotten queens of Islam. Oxford University Press. .
+
+[3] Mernissi, Fatima; Mary Jo Lakeland (2003). The forgotten queens of Islam. Oxford University Press. .
+
+[4] Chris Wickham: The Inheritance of Rome: A History of Europe from 400 to 1000

@@ -1,0 +1,103 @@
+This is an alphabetical LIST OF COMPANIES BASED IN OTTAWA:
+
+-   Abacus Data
+-   Alterna Savings
+-   Atkinson Film-Arts
+-   Bank of Ottawa
+-   Bell-Northern Research
+-   BreconRidge
+-   Bridgewater Systems
+-   Brookstreet Hotel
+-   Brookstreet Pictures
+-   Bruised Tongue
+-   Calian
+-   Campeau Corporation
+-   Canada Deposit Insurance Corporation
+-   Canada Mortgage and Housing Corporation
+-   Canada Post
+-   Canadian Bank Note Company
+-   Canadian Broadcasting Corporation
+-   Canadian Commercial Corporation
+-   Ciel Satellite Group
+-   Cognos
+-   Corel
+-   CPAC (TV channel)
+-   CPCS Transcom Limited
+-   Defence Construction Canada
+-   Doyle Salewski Inc
+-   DragonWave
+-   Ekos Research Associates
+-   ENCON Group Inc.
+-   Epiphan Systems
+-   Eurocom Corporation
+-   Export Development Canada
+-   Farm Boy
+-   First Air
+-   Freimans
+-   Fuel Industries
+-   Funbag Animation Studios
+-   Gabriel Pizza
+-   Gandalf Technologies
+-   Giant Tiger
+-   Halogen Software
+-   Hydro Ottawa
+-   Ingenia Communications Corporation
+-   International Development Research Centre
+-   Iogen Corporation
+-   Kelp Records
+-   Klipfolio
+-   Knight Enterprises
+-   Kongsberg Gallium Ltd.
+-   KRP Properties
+-   Lacewood Productions
+-   Lee Valley Tools
+-   Level Platforms
+-   Loeb (supermarket)
+-   Lumenera
+-   Magma Communications
+-   Market Fresh
+-   Marshes Golf Club
+-   MediaMiser
+-   Mercury Filmworks
+-   MicroSystems International
+-   Minto Group
+-   Mitel
+-   MKC Networks
+-   Myreno411
+-   NABU Network
+-   Neptec Design Group
+-   Newbridge Networks
+-   Nordion
+-   Le Nordir
+-   Ogilvy's
+-   Ottawa Car Company
+-   Ottawa Central Railway
+-   PatientWay
+-   PlaSmart
+-   Pleora
+-   Pronexus
+-   ProntoForms
+-   Protecode
+-   Protus
+-   Public Sector Pension Investment Board
+-   Pure Spring Company
+-   QNX Software Systems
+-   Quickie Convenience Stores
+-   Red Quill Books
+-   Runiter
+-   SAW Video Mediatheque
+-   Shopify
+-   Signority
+-   Skycron
+-   Solace
+-   Solidum Systems
+-   Tablo (DVR)
+-   Telesat
+-   Ten Broadcasting
+-   Tundra Semiconductor
+-   Versaterm
+-   Wilderness Tours
+-   Your Credit Union (Canada)
+-   Zarlink
+
+* Ottawa Companies

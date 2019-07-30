@@ -1,0 +1,14 @@
+The 1953 TOLEDO ROCKETS FOOTBALL TEAM was an American football team that represented the University of Toledo in the Mid-American Conference (MAC) during the 1953 college football season. In their third and final season under head coach Clair Dunn, the Rockets compiled a 3–6 record (2–3 against MAC opponents), finished in fourth place in the MAC, and were outscored by their opponents by a combined total of 305 to 113.[1][2]
+
+The team's statistical leaders included Dave Andrzejewski with 403 passing yards, Mel Triplett with 479 rushing yards, and Rick Kaser with 189 receiving yards.[3]
+
+
+References
+
+Toledo Category:Toledo Rockets football seasons Toledo Rockets football
+
+[1]
+
+[2]
+
+[3] 2015 Media Guide, pp. 218-221.

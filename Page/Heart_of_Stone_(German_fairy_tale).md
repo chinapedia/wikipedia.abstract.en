@@ -1,0 +1,54 @@
+Carl_Offterdinger_-_Peter_Munk_und_das_Glasmaennchen.jpg HEART OF STONE (, literally "The Cold Heart") is a fairy tale written by Wilhelm Hauff. It was published in 1827 in a collection of fairy tales that take place within the narrative of _The Spessart Inn_. It formed the basis for the East German film Heart of Stone, released in 1950.
+
+
+Summary
+
+Despite taking over his late father's charcoal factory, Peter Marmot who goes by the name Coal-marmot Peter is not content with the dirty, exhausting, low paying and low status work. He dreams of prosperity and prestige. Then he hears about a forest spirit living in the Black Forest, the little glass-imp, who also goes by the name of Schatzhauser. The glass-imp grants three wishes to every person born on a Sunday between 11 am and 2 pm, just as Peter Marmot was, but he needs to be summoned with a specific poem. During the search for the little glass-imp, Peter comes across another forest spirit, the enormous and dangerous Dutch-Mike, who haunts the forest as an evil sorcerer on stormy nights. Peter, however, is able to escape him.
+
+With the poem "Schatzhauser in the green firwood, thou art many hundreds of years old. Yours is the land where the firs stand, thou shalt only be seen by Sunday's children (the German version of Monday's Child)” Peter summons the little glass-imp, who grants him three wishes but with one condition: The third one will not be granted if his first two wishes are foolish. But right off the bat, Peter's first wish is foolish. For Peter wants to be able to dance better than the “dance floor king” and he wants to have just as much money as Ezekiel. Both are questionable role models of Peter's. His second wish is more reasonable. This time he asks for a big glass factory and enough money to run it. The little glass-imp points out that Peter should have wished for the brains necessary for that as well. The little glass-imp refuses to grant the third wish immediately so that Peter has one for later.
+
+Peter's two wishes are granted and for a while, luck is on his side. He owns the most beautiful glass factory in the Black Forest, he dances better than everyone else and, when gambling, he has the same amount of money as Ezekiel does. Soon he becomes the most renowned man in the Black Forest. However, his lack of understanding of his chosen craft soon becomes obvious. He neglects his glass factory in favor of going gambling and finds himself in sudden debt. And it is only when he runs into Ezechiel at the tavern that he suddenly has as much money as Ezekiel has in his pockets.
+
+Peter's misfortune really starts to unfold when, instead of losing, he suddenly begins to win every single time. Peter wins all of Ezekiel's money until he no longer has any left and, as a result, Peter does not either. Then, he gets chased out of the tavern. The next morning, a district magistrate knocks on his door to seize his glass factory. Out of his mind with misery, Peter goes into the forest to find Dutch-Mike, who, unlike the glass-imp, is in league with the devil. Mike proves to be more generous than the glass-imp, but demands Peter's heart as payment for his help. Peter says his heart and the feelings attached to it only hinder him in life, so he has no problem parting with it. In return for his heart, Peter gets a cold stone in his chest and 100,000 thalers a day and, should that not be enough, Mike adds, Peter is allowed to return to ask for more money whenever he pleases. The next day Peter begins a trip around the world.
+
+Soon Peter discovers that he cannot find joy in anything, he can neither laugh nor cry, nor feel any kind of love and he finds nothing is beautiful anymore. His new heart of stone can no longer feel empathy. He returns to the Black Forest and goes to see Dutch-Mike in an attempt to reclaim his heart. Mike turns down Peter's request, telling him that he will only get his heart back after his death. He shows Peter his collection of hearts and Peter realizes that many other great personalities of the Black Forest have traded their hearts for earthly wealth, among them Peter's role model Ezekiel. Mike gives Peter even more money and advises him to find an occupation and to get married to relieve his boredom. Peter builds a mansion in the Black Forest and from then on works as a merchant and debt collector with extortionate rates of interest. He becomes well known for his stinginess and chases away all the poor people who are begging in front of his house. Even his frail mother only receives alms from him and otherwise, he keeps her at arm's length. Next, he goes looking for a wife and asks for the beautiful Lisbeth's hand in marriage. They get married, but Lisbeth soon begins to feel unhappy. Peter is bad tempered, cheap, and forbids Lisbeth from helping the poor, despite their enormous fortune, which is why she is soon seen as even stingier. Lisbeth suffers greatly and wishes that she had never married Peter.
+
+When one day a small, old man drops in and asks for something to drink, Lisbeth, thinking nobody is watching her, offers him wine and bread. The man thanks her and says that such a good heart will be rewarded. At this very moment Peter returns. Beside himself with rage, he strikes Lisbeth with the wooden handle of a whip and she dies immediately. When Peter sees his dead wife, he instantly regrets it. The old man reveals himself to be the glass-imp and replies that Peter had trampled the most beautiful flower of the Black Forest. Peter puts the blame on the glass-imp, who turns into a monster out of blind rage.
+
+For the sake of Peter's dead wife, who helped him, he gave Peter eight days to think over his own life. Peter sleeps badly and hears voices which tell him to “get a warmer heart”. He lies to the people who miss Lisbeth by telling them his wife suddenly went travelling. The incidents further make him think about his own death. Finally, he goes into the woods and calls for the little glass-imp because he still has one wish left. He wants his heart back, but the “Schatzhauser” cannot help him, because the deal “money for a heart” was not made with him. Instead he tells him how to trick the Dutch-Mike. Peter visits Dutch-Mike for the third time and claims that he has betrayed him because it was not a heart of stone he had implanted in him. Dutch-Mike wants to prove the opposite and “as a test” replaces the stone with Peter's real heart. Then Peter takes out a cross made of glass, which he had received from the little glass-imp, and offers it to Dutch-Mike. This keeps the now furious Dutch-Mike away from him so that the can flee to the little glass-imp's place. Now he regrets how his life turned out, but the little glass-imp reunites him with his mother and Lisbeth, who had come back to life. From now on, on the little glass-imp’s advice, he becomes a hard-working charcoal burner and even without money enjoys a good reputation. To congratulate him on the birth of his son the little glass-imp gives Peter a present, four rolls of thalers, marking the little glass-imp as the godparent of his son.
+
+
+Romanticism
+
+Connections of this tale to the Romantic Era can be drawn. During this literary period it was quite common to write prose in fairy tale form. Drawing on the myth of the "glass-imp", Hauff presents the Romantic pursuit of happiness. Other Romantic characteristics include the use of the mystical-eerie, the uncanny and folk tales.
+
+The key concept of Romanticism is the longing (Sehnsucht) that Coal-marmot Peter embodies, as he is granted three wishes throughout the story. What results from this longing is, as often seen in protagonists of Romantic works, self-destruction, since the riches Peter wished for crumble into misery and his longing degenerates into stinginess and spite. As the hopeless romantic that he is, Coal-marmot Peter does not give up on his quest for happiness and at the end of the fairy tale eventually finds this happiness with his wife.
+
+
+Psychological Analysis
+
+In _Das kalte Herz: wie ein Mann die Liebe findet; eine tiefenpsychologische Interpretation nach dem Märchen von Wilhelm Hauff_ Mathias Jung performs psychological analysis on the in-plot development of Peter, and its relationship to Hauff's own life : In 1809, when Hauff was only seven years old, his father died, possibly resulting in an intense mother fixation. Struggles of the young Hauff might be mirrored in the character of Peter Marmot, who is morally and mentally unstable and plagued by feelings of inferiority. Peter goes to the "wrong father", Dutch-Mike, because he has no trust in his industry (see Erikson's stages of psychosocial development § Competence: Industry vs. Inferiority). The name Peter was chosen because it used to be very common, allowing everyone to identify with him.[1] The glass-imp apparently represents the conscience or (going with Freud terminology) the super-ego or the positive archetype of the father (as Jung's terminology says). He could also be seen as a moral compass, a daimonion (using Socrates' term). This also stands for "civil trade and morality" whereas Dutch-Mike depicts the unbridled "profit seeking of the commercial in this first third of the nineteenth century." The name Ezekiel goes back to the biblical prophet Ezekiel, who said "I will take the stony hearts out of your body and I will give you one of flesh."[2]
+
+According to Jung, Peter Munk remains in a state of self-abuse, in which he plays, dances, drinks and quests after wealth and acknowledgement from others. Peter is middle-aged and he follows the model of Erik Erikson (identity and lifestyle) at the stage of "generativity vs. stagnation." One of the central tasks of this lifestyle is the passing on of this life to the next generation, building a house and trying to improve public-mindedness. In the beginning, Peter fails at these tasks.[3]
+
+
+Films
+
+-   _Heart of Stone_ (1924)
+-   _Heart of Stone_ (1950)
+
+
+See also
+
+-   German folklore
+
+
+References
+
+Category:German folklore Category:German fairy tales Category:Culture of Baden-Württemberg Category:1827 short stories
+
+[1] Mathias Jung: Das kalte Herz: wie ein Mann die Liebe findet; eine tiefenpsychologische Interpretation nach dem Märchen von Wilhelm Hauff. 2006, S. 55; 58.
+
+[2] Mathias Jung: Das kalte Herz: wie ein Mann die Liebe findet; eine tiefenpsychologische Interpretation nach dem Märchen von Wilhelm Hauff. 2006, S. 62, 63, 77, 122
+
+[3] Mathias Jung: Das kalte Herz: wie ein Mann die Liebe findet; eine tiefenpsychologische Interpretation nach dem Märchen von Wilhelm Hauff. 2006, S. 145, 151, 152, 159-161, 168

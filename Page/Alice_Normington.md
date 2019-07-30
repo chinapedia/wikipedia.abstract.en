@@ -1,0 +1,23 @@
+ALICE NORMINGTON is a British production designer known for her work on films and television series such as Nowhere Boy, The Secret World of Michael Fry, and Suffragette. She won a BAFTA Award in 1998 for her work on the BBC television series The Woman in White.[1] Normington is a graduate of the Wimbledon School of Art and teaches at The London Film School.[2]
+
+
+Selected filmography
+
+-   Love and Other Disasters (2006)
+-   Nowhere Boy (2009)
+-   Suffragette (2015)
+-   Their Finest (2017)
+
+
+References
+
+
+External links
+
+-   -
+
+Category:Living people Category:British production designers Category:BAFTA winners (people) Category:European Film Awards winners (people) Category:Year of birth missing (living people)
+
+[1]
+
+[2]

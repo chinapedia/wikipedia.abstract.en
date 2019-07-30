@@ -1,0 +1,11 @@
+PETER TANCHEV ZHELEV () (1920-1992) was a Bulgarian politician, Secretary (Chairman) of the Bulgarian Agrarian People's Union (BAP) from 1974 to 1989
+
+Peter Tanchev's deputy in I (1950-1953), II (1954-1957), III (1958-1961), IV (1962-1965), V (1966-1971), VI (1971-1976), VII ( 1976-1981), VIII (1981-1986) and IX National Assembly (1986-1990).
+
+Peter Tanchev was born in 1920 in the village of view, Haskovo. In 1935 he became a member of the left wing of the Bulgarian Agrarian Youth Union, and in 1940-1942, he was arrested for his political activity. In 1944, he graduated in law from Sofia University "St. Kliment Ohridski".
+
+After the coup d'état in 1944 enters the central leadership of the BAP, and 1974 was its leader. Participate in the government as Minister of Justice (1962-1966), Deputy Prime Minister (1966-1971) and first deputy prime minister (1971-1974). From 1974 to 1989 he was first deputy chairman of the State Council.
+
+In 1987, he received the Lenin Peace Prize from the Soviet government. Removed from office the Secretary of Agrarian after the changes on 10 November 1989 with a similar plenum of the Board of the Agrarian Union of 2 December 1989 together with his deputies organizing and agricultural secretaries of PP Agrarian Alexi Ivanov and Pando Vanchev of an internal party coup led by the then International Secretary GOP Agrarian Angel Dimitrov elected in his place as Secretary of the Agrarian Union and members of the GOP of the Agrarian Union and head of the international department of Agrarian Viktor Valkov elected Organising Secretary of the Standing Committee on Agrarian located in close relationship with the new leadership of the Communist Party and PRB led by Petar Mladenov and Andrey Lukanov.
+
+Category:1920 births Category:1992 deaths Category:Bulgarian Agrarian National Union politicians Category:Members of the National Assembly (Bulgaria) Category:Government ministers of Bulgaria Category:Recipients of the Order of Georgi Dimitrov Category:Recipients of the Order of Karl Marx Category:Recipients of the Star of People's Friendship Category:20th-century Bulgarian politicians

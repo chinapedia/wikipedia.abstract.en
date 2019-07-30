@@ -1,0 +1,10 @@
+The 1894 OREGON AGRICULTURAL AGGIES FOOTBALL TEAM represented Oregon Agricultural College (now known as Oregon State University) as an independent during the 1894 college football season. In their first and only year under head coach Guy Kennedy, the Aggies compiled a 2–1 record and outscored their opponents by a combined total of 52 to 28. The Aggies defeated Oregon (16–0) and Monmouth College (36–6), but lost to Portland University (0-22).[1] No record has been located as to the identity of the team captain.[2]
+
+
+References
+
+Category:Oregon State Beavers football seasons Oregon Agricultural Category:1894 in Oregon
+
+[1]
+
+[2] 2016 Media Guide, p. 186.

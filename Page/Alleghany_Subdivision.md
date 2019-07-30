@@ -1,0 +1,15 @@
+The ALLEGHANY SUBDIVISION is a railroad line owned by CSX Transportation in the U.S. states of Virginia and West Virginia. It was formerly part of the CSX HUNTINGTON EAST DIVISION.[1] It became part of the CSX Florence Division on June 20, 2016. The line runs from Clifton Forge, Virginia to Hinton, West Virginia for a total of 78.6 miles. At its north end it continues south from the James River Subdivision and at its south end it continues south as the New River Subdivision.[2]
+
+
+See also
+
+-   List of CSX Transportation lines
+
+
+References
+
+Category:CSX Transportation lines
+
+[1] http://www.multimodalways.org/docs/railroads/companies/CSX/CSX%20ETTs/CSX%20Huntington%20Div%20East%20ETT%20%231%201-1-2005.pdf Huntington East Division Timetable
+
+[2]

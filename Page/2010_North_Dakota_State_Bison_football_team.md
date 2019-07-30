@@ -1,0 +1,13 @@
+The 2010 NORTH DAKOTA STATE BISON FOOTBALL TEAM represented North Dakota State University in the 2010 NCAA Division I FCS football season. The Bison were led by eighth-year head coach Craig Bohl and played their home games at the Fargodome. They were a member of the Missouri Valley Football Conference. They finished the season 9–5 overall and 4–4 in MVFC play to finish tied for third place. They received an at-large qualifier bid into the FCS playoffs, their first FCS playoff bid in school history since moving to Division I in 2004 and being eligible for the playoffs in 2008. The Bison were not expected to make the playoffs but managed enough votes to get in. NDSU punched above their seeding when then beat Robert Morris, 43–17, in the First Round and knocked off #4 Montana State in the Second Round, 42–17. In the Quarterfinals, the Bison lost on a last second fumble against #5 seeded Eastern Washington, 38–31, in overtime during a snowy game in Spokane, Washington. The Bison were driving down the field and were on the 5-yard line when quarterback Brock Jensen ran and appeared to be down at the 1-yard line; the play was called a fumble and recovered by Eastern Washington.
+
+
+Schedule
+
+[1]
+
+
+References
+
+North Dakota State Bison Category:North Dakota State Bison football seasons Category:Missouri Valley Football Conference champion seasons Bison
+
+[1]

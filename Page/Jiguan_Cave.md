@@ -1,0 +1,7 @@
+Jiguan Cave JIGUAN CAVE is located at Luanchuan Luoyang in Henan province. This cave is on the medium of Jiguan mountain, a branch of Funiu mountain, at an altitude of 1201 meters. According to experts' research, Jiguan Cave formed about 600 million years ago. Jiguan Cave was found in the Qianlong period of the Qing dynasty. In August 1992, Jiguan Cave was developed, completed in March 31, 1993, and it opened up in April 1993.
+
+Jiguan Cave belongs to the limestone cave, mainly consists of stalactites and stalagmites. It is geologically described as a karst landform. This cave reaches a length of meters, the vertical stratification is five, and it drops 138 meters. There are 1800 meters, and 2300 square meters for travelling. The cave keeps 18℃ in all the seasons, which is known as "natural air conditioning". The formation of Jiguan cave involves physics, chemistry, geography, meteorology, nature and other factors, and is one of the precious heritages.
+
+In April 1993, the original Xinhua President Muqing to title the Jiguan cave "The First Cave of North". In July 2013, China geological society of grotto research association professor Zhu Xuewen evaluated Jiguan cave: "This landscape is a spectacular, the first cave of all the north; and its origin is unique, for this Jiguan cave is the foremost dragon temple of China."
+
+Category:Caves of Henan

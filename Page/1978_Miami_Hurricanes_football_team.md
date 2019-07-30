@@ -1,0 +1,13 @@
+The 1978 MIAMI HURRICANES FOOTBALL TEAM represented the University of Miami for the 1978 NCAA Division I-A football season. The Hurricanes played their home games at the Miami Orange Bowl in Miami. The team was coached by Lou Saban, in his second and final year as head coach of the Hurricanes.
+
+
+Schedule
+
+[1]
+
+
+References
+
+Miami Category:Miami Hurricanes football seasons Miami Hurricanes
+
+[1]

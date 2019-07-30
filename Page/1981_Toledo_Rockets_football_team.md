@@ -1,0 +1,12 @@
+The 1981 TOLEDO ROCKETS FOOTBALL TEAM was an American football team that represented the University of Toledo in the Mid-American Conference (MAC) during the 1981 NCAA Division I-A football season. In their fifth and final season under head coach Chuck Stobart, the Rockets compiled a 9–3 record (8–1 against MAC opponents), won the MAC championship, outscored all opponents by a combined total of 270 to 170, won the Mid-American Conference (MAC) championship, and defeated San Jose State, 27–25, in the 1981 California Bowl.[1]
+
+The team's statistical leaders included Jim Kelso with 975 passing yards, Arnold Smiley with 1,013 rushing yards, and Rodney Achter with 361 receiving yards.[2]
+
+
+References
+
+Toledo Category:Toledo Rockets football seasons Category:Mid-American Conference football champion seasons Toledo Rockets football
+
+[1]
+
+[2]

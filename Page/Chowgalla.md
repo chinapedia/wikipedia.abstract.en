@@ -1,0 +1,5 @@
+Chowgalla.jpg CHOWGALLA is known as the center of Dera Ismail Khan, Pakistan, and it is also the gate for four major bazaars of Dera Ismail Khan.There are markets and shops of all types for the needs of Derawal people.Its also called/known as Chogallia in local area.
+
+In 1940, the British government had built a strong defence at location of Chogalia in which police and Malaysia could take the position according to situation. It is also the meeting point of 4 main bazaars, i-e, kalan bazar, Muslim bazaar, commisionery bazaar and bakhri bazaar. Under this defence four big gates had adjusted in all four sides by British government to cut the link of four bazaars during bad situation between Hindu and Muslim. These gates are remains same to same today.Now-a-days these gates are closed on the day of Ashoora, 10th Moharam-ul-Haram, Hazrat Imam Hussain's Shahadat, after the passing of procession.
+
+Category:Dera Ismail Khan

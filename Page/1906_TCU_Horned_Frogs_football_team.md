@@ -1,0 +1,13 @@
+The 1906 TCU HORNED FROGS FOOTBALL TEAM represented Texas Christian University (TCU) in the 1906 college football season. The Horned Frogs finished the season 2–5 overall. The team was coached by Emory J. Hyde in his second year as head coach. They played their home games in Waco, Texas.
+
+
+Schedule
+
+[1]
+
+
+References
+
+TCU Category:TCU Horned Frogs football seasons TCU Horned Frogs football
+
+[1]

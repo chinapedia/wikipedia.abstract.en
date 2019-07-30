@@ -1,0 +1,7 @@
+The FÉDÉRATION FRANÇAISE DES ÉCLAIREUSES (FFE) is a Girl Guiding movement, created in 1921 and dissolved in 1964. FFE was a founding member of the Fédération du scoutisme français in 1940.
+
+Whereas in France the various Scouting associations were created by religious denomination, the FFE was the only large-scale attempt to create an interdenominational movement. In 1921, it consisted of a neutral section, secular, and a unionist Protestant section. 1928, a Jewish section was integrated. From 1938, it also had a free Catholic section and an unofficial Muslim section in French Algeria.
+
+When the federation self-dissolved in 1964, its different sections joined their male counterparts: the neutral section merged with the Éclaireurs français and Éclaireurs de France to form the Éclaireuses et éclaireurs de France in 1964; the Jewish section merged with the Eclaireurs israélites de France to form the Eclaireuses et Eclaireurs israélites de France in 1969; the unionist Protestant section merged with the Éclaireurs unionistes de France to form the Éclaireuses et Éclaireurs unionistes de France in 1970.
+
+Category:World Association of Girl Guides and Girl Scouts member organizations Category:World Organization of the Scout Movement member organizations Category:Scouting and Guiding in France Category:Youth organizations established in 1921

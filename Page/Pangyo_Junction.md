@@ -1,0 +1,3 @@
+PANGYO JUNCTION (), also known as the PANGYO JC, is a junction located in Bundang-gu and Sujeong-gu, Seongnam, Gyeonggi, South Korea. Gyeongbu Expressway (No. 1) and Seoul Ring Expressway (No. 100) meet here. It is named after the new town in which it is located, Pangyo. The type of junction is Changed Y interchange.
+
+Category:Gyeongbu Expressway Category:Seoul Ring Expressway Category:Expressway junctions in South Korea Category:Seongnam

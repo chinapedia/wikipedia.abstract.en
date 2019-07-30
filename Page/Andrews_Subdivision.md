@@ -1,0 +1,15 @@
+The ANDREWS SUBDIVISION is a railroad line owned by CSX Transportation in the U.S. states of North Carolina and South Carolina. The line runs from Hamlet, North Carolina to Charleston, South Carolina for a total of 156.6 miles. At its north end it continues south from the Hamlet Terminal Subdivision and at its south end it continues south as the Charleston Subdivision.[1][2]
+
+
+See also
+
+-   List of CSX Transportation lines
+
+
+References
+
+Category:CSX Transportation lines
+
+[1]
+
+[2]

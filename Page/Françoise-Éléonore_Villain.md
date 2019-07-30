@@ -1,0 +1,22 @@
+FRANÇOISE-ÉLÉONORE VILLAIN (1761 in Liège, Prince-Bishopric of Liège – Stockholm 26 March 1783) was a Liégeois actress known under her stage name _MLLE BARON_ or _MADEMOISELLE BARON THE YOUNGER_. She was engaged in Sweden in The French Theater of Gustav III from 1781 until 1783, where she was viewed as one of its most prominent members, and she is also known in history as the lover of Charles XIII of Sweden.
+
+
+Life
+
+She was born to Gabriel Villain and Antoinette Baptiste and was noted to have appeared in The Hague in 1779-80. In 1781 she was engaged as _première actrice de la Comédie française de Sa Majesté le roi de Suède_, or first actress, at the French theater in Sweden by Jacques Marie Boutet de Monvel. She was appreciated as a star of the troupe for her tenure in Sweden, but became perhaps most known in history because of her love affair with the king's brother, Duke Charles, a relationship that attracted attention, particularly because of the amounts he spent upon her, and for the great sorrow he showed upon her early death.
+
+Count Axel von Fersen the Elder noted in December 1782 that Charles had replaced Charlotte Slottsberg with Baron (after the exile of Charlotte Eckerman), and gave a detailed account upon Baron's death in March 1783:
+
+  "The troubles of the King and the court was further increased by the hasty death of the premier actress of the French troupe mademoiselle Baron. This actress united with youth a good figure and a beautiful appearance, had talent within both tragedy and comedy and her death was such a greater loss for this troupe, as it was impossible to replace her in Sweden and it was necessary to await a replacement from France. Not matter how deteriorating this loss was for the pastime of the King, it was more so for his brother the Duke of Södermanland. This prince was in fact madly in love with mademoiselle Baron; after having dismissed mamsell Slottsberg, he made mademoiselle Baron several offers, which she refused. The conduct of the duke toward the ladies Eckerman and Slottsberg, whom he had at several points left and retaken and to whom he had refused to pay the annuities he had granted them, even though he had legally signed and issued them, made m:elle Baron careful and late to make a decision. Eventually, however, this matter was solved with a sum of 60,000 daler in advance as well as an insurance to keep her with an upkeep of residence, furniture etc; with this sacrifice the duke lived several months with her, and found more pleasure in this trade of love each day until death extinguished this flame of love. At the funeral of the young duke Carl Gustaf, Duke Charles gave his tears complete freedom, and the public thought this sorrow dedicated to the memory of a promising nephew; it would have been more dignifying if that were the case. [...] the folly's of love are those worthy of most consideration. But it was inexcusable for the sense of honor, that the duke took on such an expense when he was already in a state of bankruptcy with his creditors. The king and the duke financed the funeral of this actress; she was put to rest in the centenary of Jacob, and the procession was followed by people of the royal court, hardly appropriate for a person of her class, as her profession is excommunicated by the Catholic church."[1]
+
+
+References
+
+-   F.A. Dahlgren, Anteckningar om Stockholms theatrar, 1866
+-   Andersson, Ingvar (red.), Gustavianskt: [1771-1810] : en bokfilm, [Ny utg.], Wahlström & Widstrand, Stockholm, 1979
+-   Stockholm (1995) Svenskt musikhistoriskt arkiv Bulletin 29 ISSN 0586-0709
+-   Carl Forsstrand (Swedish): Sophie Hagman och hennes samtida. Några anteckningar från det gustavianska Stockholm. (English: Sophie Hagman and her contemporaries. Notes from Stockholm during the Gustavian age") Second edition. Wahlström & Widstrand, Stockholm (1911)
+
+Category:1761 births Category:1783 deaths Category:18th-century French actresses Category:18th-century Swedish actresses Category:Expatriate actresses in Sweden Category:Mistresses of Swedish royalty Category:Swedish courtiers Category:Courtesans Category:Gustavian era people
+
+[1] Carl Forsstrand (Swedish): Sophie Hagman och hennes samtida. Några anteckningar från det gustavianska Stockholm. (English: Sophie Hagman and her contemporaries. Notes from Stockholm during the Gustavian age") Second edition. Wahlström & Widstrand, Stockholm (1911)

@@ -1,0 +1,23 @@
+_AZOSPIRILLUM_ is a Gram-negative, microaerophilic, non-fermentative and nitrogen-fixing bacterial genus from the family of Rhodospirillaceae.[1][2][3][4][5] _Azospirillum_ bacteria can promote plant growth.[6]
+
+
+References
+
+
+Further reading
+
+-   -   -   -   -
+
+Category:Rhodospirillales Category:Bacteria genera
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]

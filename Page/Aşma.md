@@ -1,0 +1,105 @@
+AŞMA ( transcendence) is the first published book, and monograph by Azerbaijani philosopher Agalar Qut. The book is written and published in the Azerbaijani language, in two editions, the latest of which is published in 2014 containing 372 pages, by Qanun Publishing company. The book's content is mainly about criticism of the social and religious values of, and suggesting reforms in the Azerbaijani society. The author of the book allegedly faced threats and opposition from radical Islamic organizations as well as from the local people for his criticism of the religion and the society in the book.
+
+
+Index
+
+This list contains the index of the second edition of the book with 372 pages.
+
+-   PREFACE
+    -   Foreword to the second edition
+    -   Philosophy starts with the question and goes on by comma
+-   OPENING THE BOOK
+    -   Portraits
+-   ESSES
+    -   Individuum(s)
+    -   Needle
+    -   -   Listening to the Darkness
+    -   In the role of the pessimist
+    -   I'm choosing to be the second one
+    -   Hanz and Kant (story)
+
+-   LANGUAGE IN THE LIGHT OF PHILOSOPHY
+    -   Words written and pronounced wrongly in our language
+    -   Culture or Civilization?
+    -   How to spell "Allah"?
+    -   What is "-lıq⁴" (suffix)
+    -   Suggestions and corrections to the language of our philosophy
+    -   "If God lets..."
+-   ADDRESSED ARTICLES
+    -   Ramiz Rovshan - the poet of destiny
+    -   Niyazi Mehdi (60) as described
+    -   "Blessed be your statue, philosopher!" (a response to "Heydar Huseynov and Martin Heidegger" article)
+-   CULTURAL AND ETHIC ARTICLES
+    -   (Should we stand) Atop of one another or beside each other?
+    -   Not to be egoistic
+    -   To be hard-working ( labour-loving)
+    -   To be tolerant
+    -   To be authentic
+    -   Servitude of Morality
+    -   Immorality of Freedom
+    -   Illogicality of Freedom
+    -   Humanism of the body
+    -   Should my surname change me myself or my name's ending?
+    -   What is the human?
+    -   Nihilism
+    -   "Azerbaijani" is synonymous with "Muslim"
+    -   Denial is always risky
+    -   Our salvation is in denial
+    -   Decadence
+    -   On our Senti-Mentality
+    -   Mugham-loving Azerbaijanis
+    -   Our heart has swollen
+    -   Lullabies of promise
+    -   Some words on the poetic philosophy
+    -   On trouble
+    -   Was there a Renaissance in Islamic Orient?
+    -   Four approaches towards the failure
+    -   The elite of the new values
+    -   Primordial beginning
+-   THE UNVEILED FACE OF ISLAM
+    -   Paradise of the Arabs
+    -   What is Atheism? (first article)
+    -   What is Atheism? (second article)
+    -   What is Atheism? (third article)
+    -   Sword of Islam
+    -   What is blasphemy?
+    -   Veil as a mask
+    -   From veil to hijab
+    -   Islam as a global localism
+    -   Islam and Ataturk
+    -   Do we believe in God?
+    -   God in front of the mind
+    -   Is Islam a perfect religion?
+    -   Should Allah maintain or "protect" ("korusun" as in the Turkish phrase) us?
+    -   The religious cause of our voluntary ignorance
+    -   Hope in the miracle of "Allah is generous"
+    -   Extended Akhundov project
+    -   Responding an MP
+    -   The lesson of tolerance for "muslim inquisitors"
+    -   Armor of religious "sensitivity"
+    -   Religion is a matter dangerous for life
+    -   An open letter to Hikmat Hajizade (topic: Islamism)
+-   POLITICAL AND IDEOLOGICAL ARTICLES
+    -   Our mentality is the "uncle" of our rule
+    -   Three in one: religion, mentality, and politics
+    -   At the end of the word
+    -   Philosophical opposition to the political one
+    -   "How to do?" a question to the opposition
+    -   Offer to the Third Power
+-   THE HUMAN VIEWED FROM THE ASPECT OF HUMAN RIGHTS
+    -   Universal Human Rights Declaration
+    -   Causes generating terrorism
+-   TIME, GOD AND HUMAN, AND DEATH
+    -   Inception of philosophy of time
+    -   Philosophical powers of Pantheism in the contemporary age
+    -   Death
+-   INTERVIEWS
+    -   It's impossible to simply pronounce the ultimate reality
+    -   Not everyone can be drunk
+    -   Islam, by essence, is not a religion
+    -   To understand something you should surrender yourself to it
+-   CLOSING THE BOOK
+    -   Why I left Azerbaijan? (first article)
+    -   Why I left Azerbaijan? (second article)
+
+Category:Books about Azerbaijan Category:Books critical of Islam Category:Azerbaijani books Category:Monographs Category:Philosophical literature

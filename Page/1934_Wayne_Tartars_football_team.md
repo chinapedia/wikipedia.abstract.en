@@ -1,0 +1,11 @@
+{{ NCAATeamSeason | Mode = football | Year = 1934 | Team=Wayne Tartars | Image= | ImageSize= 150 | Conference= Independent | Division= | ShortConference= | TSNRank = | FCSCoachRank = | Record = 7–1 | ConfRecord = | HeadCoach= Joe Gembis | HCYear = 3rd | OffCoach= | OCYear = | DefCoach= | DCYear = | OScheme= | DScheme= | Captain = None | StadiumArena= Kelsey Field | Champion = | BowlTourney = | BowlTourneyResult = | prev = 1933 }} The 1934 WAYNE TARTARS FOOTBALL TEAM represented Wayne University (later renamed Wayne State University) as an independent during the 1934 college football season. In their third year under head coach Joe Gembis, the Tartars compiled a 7–1 record, shut out five of eight opponents, and outscored all opponents by a combined total of 179 to 26.[1] Jimmy Demaree was the quarterback and star player.
+
+
+Schedule
+
+
+References
+
+Wayne Category:Wayne State Warriors football seasons Wayne State
+
+[1]

@@ -1,0 +1,8 @@
+PIERRE CANAVÈSE (born 10 September 1945) is a French former swimmer. He competed in two events at the 1964 Summer Olympics.[1]
+
+
+References
+
+Category:1945 births Category:Living people Category:French male swimmers Category:Olympic swimmers of France Category:Swimmers at the 1964 Summer Olympics Category:Place of birth missing (living people)
+
+[1]

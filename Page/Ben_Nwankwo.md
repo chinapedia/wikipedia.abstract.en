@@ -1,0 +1,35 @@
+BEN NNEBEDUM NWANKWO (MHR) (born 27 September 1965) is a Nigerian politician and former two-time Member of the Nigerian House of Representatives in the Nigerian National Assembly.[1][2] As a member of the People's Democratic Party (PDP),[3] he represented Orumba North and South Federal Constituency, a division of two local government areas which includes his hometown Akpujiogu, in 2005-2007 and 2011-2015.[4] While in the Federal House of Representatives, he was chair of the House Committee on Culture and Tourism,[5] as well as a member of the House Committees on Police Affairs, Rules and Business, Foreign Affairs, Capital Market, Human Rights, Legislative Agenda, Public Petitions, Emergency and National Disaster Management, and the Federal Roads Maintenance Agency (FERMA). His victory at the 2003 House of Representative polls was marred by controversy when he was illegally denied the Certificate of Return until a court ruling in 2005.
+
+Before his ascent to the national level, Ben Nwankwo served as commissioner in several ministries in his home state of Anambra: Works and Transport (2001),[6] Finance and Budget, and Housing and Urban Development (2002–2003). He was also Special Adviser to former governor Chinwoke Mbadinuju (1999) and Personal Assistant to former governor Chukwuemeka Ezeife (1991–1993).[7]
+
+Ben Nwankwo has a M.Sc. and a P.G.D. in Public Administration and Local Government from the University of Nigeria, Nsukka, Enugu State,[8] and a H.N.D. in Mass Communication from Oko Polytechnic, Oko, Anambra State.[9][10] He is a one-time president of the National Association of Technology Students (NATS). In his hometown of Akpujiogu, Orumba South Local Government Area of Anambra State, he holds a chieftaincy title: Ishingidi Akpu.
+
+
+References
+
+
+External links
+
+-   Member profile: Who's Who Nigeria
+
+Category:1965 births Category:Living people Category:People's Democratic Party members of the House of Representatives (Nigeria)
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]

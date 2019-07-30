@@ -1,0 +1,7 @@
+Greca.svg GRECA (literally, _Greek_) is the term for the symbol of general rank or equivalent in the Italian Army, Italian Air Force, the Carabinieri and the Italian Navy. It is also used for those of high rank in the Vatican Gendarmerie and for generals in the military of San Marino. It is named after 'greca', the Italian term for Greek key or meander. It resembles a double reversed letter W with a horizontal line across it.
+
+File:IT-Army-OF9b.svg%7CShoulder insignia of a capo di Stato Maggiore dell'Esercito, with 'greca' at the bottom File:Rank insignia of ammiraglio di squadra of the Italian Navy.svg|Shoulder insignia of a squadron admiral File:IT-Airforce-OF-9.png%7CShoulder insignia of a generale di squadra aerea. File:Carabinieri-OF-9a.svg%7CShoulder insignia of a comandante generale of the Arma dei Carabinieri. File:Rank insignia of generale di corpo d'armata con incarichi speciali of the Guardia di Finanza.svg|Shoulder insignia of a comandante generale of the Guardia di Finanza File:Dirigente generale ps.png|Shoulder insignia of a Dirigente Generale of the Polizia di Stato File:Dirigente superiore pp.png|Shoulder insignia of a Dirigente Superiore of the Polizia Penitenziaria File:Dirigente generale del cfs.png|Shoulder insignia of a Dirigente Generale of the Corpo Forestale dello Stato
+
+category:Italian Army category:Italian Air Force
+
+Category:Military insignia Category:Italian Navy

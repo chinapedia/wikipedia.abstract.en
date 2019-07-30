@@ -1,0 +1,22 @@
+WINN is a surname. Notable people with the name include:
+
+-   Courtland Winn (1863–1940) American politician, lawyer, and civic leader from Georgia
+-   Craig Winn, American author and businessman
+-   David Winn (born 1966), American animator and writer
+-   Edward Winn (1937–1995), American third-party presidential candidate
+-   Godfrey Winn (1906–1971), British journalist, writer and actor
+-   H. Richard Winn, American neurosurgeon
+-   Jim Winn (born 1959), American baseball pitcher
+-   Kitty Winn (born 1943), American theatre and film actress
+-   Larry Winn (born 1919), American politician from Kansas
+-   Marcus Winn (born 1982), American football defensive back
+-   Marie Winn (born 1936), American journalist, author and bird-watcher
+-   Matt Winn (1861–1949), American horse racing personality
+-   Paul A. Winn, Canadian human rights activist, and lawyer
+-   Randy Winn (born 1974), American baseball outfielder
+-   Red Winn, American poker player
+-   Richard Winn (1750–1818), American merchant, surveyor, and politician from South Carolina
+-   Robert W. Winn (1895–1948), American politician from Missouri
+-   Ross Winn (1871–1912), American anarchist writer and publisher
+-   Tim Winn (born 1977), American basketball player
+-   William Winn (born 1946), American educational psychologist and professor

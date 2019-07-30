@@ -1,0 +1,25 @@
+STAROHNATIVKA (; Urum: Ґӱрджи; ) is a village in Volnovakha Raion (district) in Donetsk Oblast of eastern Ukraine, 65.9 km south from the centre of Donetsk city.
+
+
+Demographics
+
+Native language as of the Ukrainian Census of 2001:[1]
+
+-   Ukrainian 89.48%
+-   Russian 6.29%
+-   Greek 0.05%
+
+
+References
+
+
+External links
+
+Media coverage during the War in Donbass
+
+-   Ukraine reports heaviest shelling by eastern rebels since February, Reuters, 10 August 2015
+-   Jack Losh, Ukraine's Mystery Battle: Hunting for Truths Across an Elastic Border, Vice News, 17 August 2015
+
+Category:Villages in Donetsk Oblast
+
+[1] [http://database.ukrcensus.gov.ua/MULT/Dialog/varval.asp?ma=19A050501_02_014&ti=19A050501_02_014.%20%D0%EE%E7%EF%EE%E4%B3%EB%20%ED%E0%F1%E5%EB%E5%ED%ED%FF%20%E7%E0%20%F0%B3%E4%ED%EE%FE%20%EC%EE%E2%EE%FE,%20%C4%EE%ED%E5%F6%FC%EA%E0%20%EE%E1%EB%E0%F1%F2%FC%20%281,2,3,4%29&path=../Database/Census/05/01/&lang=1&multilang=uk Розподіл населення за рідною мовою, Донецька область]

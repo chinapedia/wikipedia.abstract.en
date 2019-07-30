@@ -1,0 +1,15 @@
+_ANGELIC 2 THE CORE_ is the fifth studio album by American actor and singer Corey Feldman, released on June 22, 2016.[1] Feldman asked fans to help raise $105,000 to fund the album through Indiegogo,[2] but fell short and only raised $14,982.[3] The album was universally panned and is regarded as one of the worst albums of all time.
+
+
+Track listing
+
+
+References
+
+Category:Corey Feldman albums Category:2016 albums
+
+[1]
+
+[2]
+
+[3]

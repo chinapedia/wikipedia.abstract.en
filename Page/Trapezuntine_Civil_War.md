@@ -1,0 +1,63 @@
+The TRAPEZUNTINE CIVIL WAR was a series of conflicts fought in the 1340s for the succession of the throne of the Empire of Trebizond.
+
+Several opposing parties had formed: first was that of Irene Palaiologina, supported by the Amytzantarantes family and her Byzantine mercenaries provided courtesy of her father, Andronikos III Palaiologos; second was of the opposing archons under the _sebastos_ Tzanichites, the captain-general of the Scholarioi and a part of the imperial bodyguard loyal to the memory of the late Emperor Basil of Trebizond; the third party was that of the _megas doux_ John the Eunuch, who held the fortress of Limnia; and the fourth was Anna Anachoutlou, who was backed by the Lazic nobility.[1]
+
+
+History
+
+Death of Basil
+
+On 6 April 1340, after the death of Basil Grand Komnenos, the governance of the empire was assumed by Irene Palaiologina, the illegitimate daughter of the Byzantine Emperor Andronikos III Palaiologos ( 1328–1341), and the lawful wife of Basil. Irene was suspected of having had some share in causing his death,[2] and was prepared for the event, and had already organized movements of a party which placed her on the throne. After her ascension to the throne, Irene attempted to consolidate her power with the help of the Amytzantarioi and other notable aristocrats. However, the controversy between the Amytzantarioi and the Scholarioi, who at the time formed the two major parties of the local aristocracy, had become very complicated due to personal disputes. In the absence of an heir to the throne, as well as due to the inability of the empress to assert her authority, the two sides conflicted bitterly as they each intended to impose its sociopolitical beliefs.[3] As a result, the Scholarioi family reacted immediately and revolted against the empress. When the Scholarioi, who were supported by the Meizomates, Doranites, Kabasites and Kamachenos families, turned against the empress, the Amytzantarioi took sides with Irene and helped her gain control over the situation.
+
+Medieval_Trebizond_2.png In the subsequent civil war, Empress Irene was assisted by the Amytzantarioi; by the powerful party among the nobles, the Genoese, and by Byzantine mercenaries. The opposing rebels were the _sebastos_, _megas stratopedarches_ and Tzanichites an aristocratic family of Laz origin, who considered themselves the patriotic champions of Laz native rights. The captain-general of the Scholarioi, or city militia — the imperial guard which remained faithful to the memory of the emperor Basil and a body of the people, who hated Irene as a Constantinopolitan stranger — established themselves in possession of the great Monastery of St. Eugenios. This monastery then rose like a fortress over the ravine to the southeast of the capital. On the other hand, the empress managed to maintain control over the harbour and the citadel, helped by the Amytzantarios family. The revolt ended on 2 July 1340, when the _megas doux_, John the Eunuch, who had murdered the young emperor Manuel II, arrived at Trebizond from Constantinople to assist the empress. John’s forces joined the imperial troops and they jointly attacked the monastery of St. Eugenios, which was set on fire. The Scholarioi were defeated and their leaders were initially arrested and taken to the fortress of Limnia, while in the following year (July 1341) some of them were executed.
+
+It was evident that, without a husband who could wear the imperial crown, Irene could not hope to maintain her position long; Irene consoled herself for the delay by falling in love with the _megas domestikos_ of her own empire. The favour this passion led her to confer on a few individuals divided her own court into factions, and afforded her old enemies, who had escaped the catastrophe at St Eugenia an opportunity of again taking up arms, so that a new storm burst on the head of the thoughtless empress.
+
+Anna Anachoutlou
+
+Another female now appeared to claim the throne, with a better title than Irene: Anna, called Anachoutlou, the eldest daughter of the emperor Alexios II, had taken the veil and until this time had lived in seclusion. The opposition persuaded her to quit her monastic dress and escape to Lazia, where she was crowned empress and gained control over the region, and all the Laz and the Tzan people,[4] recognised her as the legal heir to the throne for being nearest legitimate heir of her brother Basil. So, on July 17, 1341, Anna entered Trebizond triumphantly, followed by Laz warriors of the Georgian King George V (1314-1346) as well as by Trapezuntine Laz of the bandon of Greater Lazia, and ascended to the throne. She was crowned empress, supported, on the one hand, by the Amytzantarios family and, on the other, by the Laz, the Tzan[5] and, in general, the people of the provinces of the Empire of Trebizond. the prevalence of the indigenous Amytzantarioi after Anna’s ascension to the throne had provoked continuous attempts by the opposing Scholarioi to overthrow her with the support of other noble families.
+
+The conflicts between the aristocratic families of Trebizond marked the reign of Anna, who was continuously under the threat of being deposed by the Scholarios family, as well as other aristocratic circles related to Constantinople. The attempts of the Scholarios family were supported by Constantinople, which was disappointed with the fall of Eirene Palaiologina and the ascent of Anna, the Venetians and the Genoese.
+
+On July 30, 1341, Michael Grand Komnenos, the second son of John II, the subsequent emperor (1344-1349), aided by the Byzantine Emperor John VI Kantakouzenos (1341/1347-1355), sailed from Constantinople to Trebizond with three battle ships and the company of Niketas Scholares the captain-general of the Scholarioi and Gregory Meizomatis in order to marry the former empress Irene and assume the authority of the empire.[6] At first the dignitaries and the metropolitan Akakios accepted him with all solemnity as an emperor. Michael received the oath of allegiance of the assembled nobles and officers of state, and retired to the palace to prepare for his coronation the following day. At daybreak the scene was changed. The people had been incited during the whole night to resist the invasion of a new swarm of Constantinopolitan adventurers, and they now rose in rebellion. The opposing nobles and government officials facilitated their enterprise. Not wishing to be governed by a forceful man of mature years, they promptly imprisoned Michael in the palace and later was sent to captivity at Oinaion. The Laz soldiers, after several engagements, captured three Byzantine ships and a few days later the dethroned Irene was put on a Frankish ship bound for Constantinople. The nobles of the Laz faction now became the sole possessors of political power, and used the name of the empress Anna to govern the empire by an association of powerful chiefs.
+
+John III Megas Komnenos
+
+Niketas, the captain-general of the Scholarioi and the Greek party, which looked to the Byzantine alliance as the surest guarantee of civil order, resolved to make another attempt to drive their rivals from power. Niketas Scholarios, Constantine Doranites, the brothers Gregory and Michael Meizomatis and others, fled on a Venetian ship to Constantinople, where they met John Grand Komnenos, Michael’s son, and offered him the throne of the Empire of Trebizond. John, subsequent John III (1342-1344). The expedition was undertaken secretly and without any public support from the Byzantine government. Three Genoese galleys were hired, in addition to two fitted out by the chiefs of Trebizond; and a body of chosen troops was enrolled, for an attack on the government of the empress Anna. They reached Trebizond in early September 1342 and after fierce street battles the invaders forced their way into the fortress. Empress Anna was taken prisoner in the imperial palace and, to guard against the possibility of a counter-coup, she was immediately strangled. John Grand Komnenos arrived at Trebizond on September 4, 1342, and was crowned emperor in the church of Theotokos Chrysokephalos on the same day. The ascension of John III to the throne was followed by persecutions against members of the aristocracy. The Scholarios family, who had supported him from the start, took advantage of the power they held after his ascension to the throne and turned against their rival Amytzantarios family, who had supported the dethroned Anna Anachoutlou. Many nobles of the Laz party, particularly the Amytzantaraoi, and their notable descendants were murdered. The massacres of Anna’s followers continued in the provinces.
+
+Michael Grand Komnenos
+
+The aristocrats who elevated John III apparently grew dissatisfied with him, for Niketas freed his father Michael from captivity at Limnia and put him on the throne on May 1344, and had John banished to the Monastery of St. Sabas. In return, Michael granted Niketas the title of _megas doux_, Gregory Meitzomates the title of _stratopedarches_, while Gregory's son was made _epikernes_, John Kabazites _megas logothetes_, Niketas Scholares's son _parakoimomenos_, Michael Meitzomates _amytzantarios_, and Stephan Tzanichites received the title of _megas konostaulos_. Thus the Scholarioi achieved overwhelming control of the government.
+
+The emperor Michael seems to have made some attempt to improve the condition of the government, but his talents were unequal to the task. The two great parties of the Laz nobles and Greek leaders of the citizens maintained themselves in a condition to control the imperial administration, by personal combinations and political arrangements, arising out of temporary and local causes. Michael resolved to break the power of both parties. Immediately after his accession, he condemned to death the most eminent of the nobles of the Lazic party — a measure that was supported by the Greek party, who inherited all the great offices of state.
+
+However, the power of the Scholarioi proved unpopular with the populace of Trebizond. The people of the capital and the Laz rose in rebellion, demanding the restoration of a lawful emperor, and not under the arbitrary rule of a band of nobles. In November 1345 Niketas was arrested and imprisoned, along with his associate Gregory Meitzomates and others of their party. However, the Emperor Michael, old and sick, released Niketas from prison and restored to him his former office of _megas doux_ on 13 December 1349. Nine days later, on 22 December, Niketas led a coup that deposed Michael and installed John, the son of Emperor Basil to the throne, who took the name of Alexios III of Trebizond, thus ending the Trapezuntine Civil War.
+
+
+See also
+
+-   Byzantine civil war of 1341–1347
+
+
+References
+
+
+Sources
+
+-   -   Sergei Karpov. _История Трапезундской империи_ ("A history of the empire of Trebizond"). Saint Petersburg, 2007, 656 pp.
+-   William Miller, _Trebizond: The Last Greek Empire,_ (1926; repr. Chicago: Argonaut Publishers, 1968)
+-   -
+
+Category:1340s conflicts Category:1340s in Asia Category:Civil wars of the Middle Ages Category:Empire of Trebizond Category:Laz people Category:Wars involving the Byzantine Empire Category:Wars involving the Republic of Genoa Category:Wars of succession
+
+[1] Zehiroglu, Ahmet M. ; "Trabzon Imparatorlugu" 2016 () ; pp.159-210
+
+[2] Miller, W., Trebizond. The Last Greek Empire (London 1926), p. 46.
+
+[3] Λυμπερόπουλος, B., O Bυζαντινός Πόντος. H αυτοκρατορία της Tραπεζούντας (Αθήνα 1999), p. 138.
+
+[4] Bryer, A., ‘Some notes on the Laz and the Tzan (1) (2)’, in People and Settlement in Anatolia and the Caucasus, 800-1900 (VR, London 1988), pp. 161-168, 174-195.
+
+[5] On the historical background of the Laz and the Tzan, see Bryer, A., “Some notes on the Laz and the Tzan (1) (2)”, in Bryer, A., People and Settlement in Anatolia and the Caucasus, 800-1900 (VR, London 1988), pp. 161-168 (=1), 174-195 (=2). They were native inhabitants of the northeastern Pontos, descending from the Colchians and the Macrones. They used to meddle in the political affairs of the Empire of Trebizond.
+
+[6] In 1341, Michael Grand Komnenos started from Constantinople as the future husband of Eirene Palaiologina, according to the diplomatic plan of John VI Kantakouzenos. Before he reached Trebizond, the revolt instigated by Anna Anachoutlou, which ended in the forced resignation of Eirene and the ascension of Anna to the throne, had already broken out. See Χρύσανθος, μητροπολίτης Τραπεζούντος (Chrysanthos of Trebizond), "Η Εκκλησία της Τραπεζούντος" Αρχείον Πόντου 4-5, (1933), pp. 241-242.

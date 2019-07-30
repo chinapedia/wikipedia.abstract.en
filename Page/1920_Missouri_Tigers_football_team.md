@@ -1,0 +1,13 @@
+The 1920 MISSOURI TIGERS FOOTBALL TEAM was an American football team that represented the University of Missouri in the Missouri Valley Conference (MVC) during the 1920 college football season. The team compiled a 7–1 record (5–1 against MVC opponents), finished in second place in the conference, and was outscored all opponents by a combined total of 156 to 61. James Phelan was the head coach for the first of two seasons.[1][2] The team played its home games at Rollins Field in Columbia, Missouri.
+
+
+Schedule
+
+
+References
+
+Missouri Category:Missouri Tigers football seasons Category:1920 in sports in Missouri
+
+[1]
+
+[2]

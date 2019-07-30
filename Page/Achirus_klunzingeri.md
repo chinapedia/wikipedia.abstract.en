@@ -1,0 +1,10 @@
+The BROWN SOLE (_Achirus klunzingeri_) is a sole of the genus _Achirus_ native to the eastern Pacific from central Mexico to northernmost Peru. This demersal species growth up to .[1] It is found at depths of 10–40 m on sandy and muddy grounds and may enter fresh waters in estuaries and mangroves. Its diet consists of invertebrates, small fishes, pelagic eggs and larvae.[2]
+
+
+References
+
+brown sole Category:Western Central American coastal fauna Category:Fish of Colombia Category:Fish of Ecuador brown sole
+
+[1]
+
+[2]

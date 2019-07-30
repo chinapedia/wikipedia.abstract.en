@@ -1,0 +1,10 @@
+The 1909 OREGON AGRICULTURAL AGGIES FOOTBALL TEAM represented Oregon Agricultural College (now known as Oregon State University) as an independent during the 1909 college football season. In their first and only season under head coach Sol Metzger, the Aggies compiled a 4–2–1 record and outscored their opponents by a combined total of 54 to 44. Against major opponents, the Aggies lost to Oregon (0–12) and Washington (0–18).[1] The team played its home games at Bell Field in Corvallis, Oregon. Carl Wolf was the team captain.[2]
+
+
+References
+
+Category:Oregon State Beavers football seasons Oregon Agricultural Category:1909 in Oregon
+
+[1]
+
+[2] 2016 Media Guide, p. 186.

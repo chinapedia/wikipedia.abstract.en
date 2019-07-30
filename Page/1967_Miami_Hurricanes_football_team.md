@@ -1,0 +1,19 @@
+The 1967 MIAMI HURRICANES FOOTBALL TEAM represented the University of Miami for the 1967 college football season. The Hurricanes played their home games at the Miami Orange Bowl in Miami. The team was led by Charlie Tate, in his fourth year as head coach. They finished the season 7–4 and were invited to the Bluebonnet Bowl, where they lost to Colorado.
+
+
+Schedule
+
+[1]
+
+
+Roster
+
+-   Ted Hendricks, Jr.
+-   Vince Opalsky, So.
+
+
+References
+
+Miami Category:Miami Hurricanes football seasons Category:1967 in sports in Florida
+
+[1]

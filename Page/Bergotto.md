@@ -1,0 +1,8 @@
+'''Bergotto ''' is a frazione of the commune of Berceto in the Emilia-Romagna region of Italy. In addition to the main hamlet, Bergotto is also composed of località, or localities in the upper Manubiola Valley. These localities are: Case Cappelletti, Case Corbella, Pellerzo, Case alla Valle, Case Tocchi, Case Martinelli, Case Barattieri, Case Cattaglia, Case la Torre, Case Foglietta, Case Taglioni, Case Bertoni, Giaretto, Case Fagiolo, and Case Carpanone .
+
+
+References
+
+-
+
+Category:Frazioni of the Province of Parma Category:Berceto Category:Geography of Italy

@@ -1,0 +1,5 @@
+The TRP ENGINEERING COLLEGE is named after the well-known Educationalist, Philanthropist and Social entrepreneur Dr.T.R.Pachamuthu. The Institution continues the blazing glory in the field of education, deservedly bequeathing it from the SRM Group of Institution. TRP Engineering College is an ISO 9001:2000 certified institution and approved by the All India Council for Technical Education and affiliated to Anna University, Chennai.
+
+The College is located on NH-45 at Irungalur near Samayapuram, famous for its Mariamman Temple and at a distance of about 25 km from Tiruchirappalli, a city well known for its education, industrial development and the connectivity with all parts of the state. The College is constructed in a rural area, established in the year 2011 and hence has a quiet and pollution free campus.
+
+Category:Engineering colleges in Tamil Nadu Category:Universities and colleges in Tiruchirappalli Category:Colleges affiliated to Anna University Category:Educational institutions established in 2010 Category:2010 establishments in India

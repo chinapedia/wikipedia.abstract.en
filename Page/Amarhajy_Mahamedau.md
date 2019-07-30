@@ -1,0 +1,10 @@
+AMARHAJY MAHAMEDAU (born April 12, 1990 in Dagestan) is a Belarusan and Russian freestyle wrestler. He competed in the men's freestyle 86 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by J'den Cox.[1][2]
+
+
+References
+
+Category:1990 births Category:Living people Category:Belarusian male sport wrestlers Category:Olympic wrestlers of Belarus Category:Wrestlers at the 2016 Summer Olympics
+
+[1]
+
+[2]

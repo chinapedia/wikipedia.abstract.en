@@ -1,0 +1,13 @@
+The 1974 MAINE BLACK BEARS FOOTBALL TEAM represented the University of Maine in the 1974 NCAA Division II football season. They were led by eighth-year head coach Walter Abbott and finished the season with an overall record of 4–6 and a 4–2 mark in the Yankee Conference. Maine shared the conference title with UMass.
+
+
+Schedule
+
+[1]
+
+
+References
+
+Maine Category:Maine Black Bears football seasons Category:Yankee Conference football champion seasons Maine Black Bears football
+
+[1]

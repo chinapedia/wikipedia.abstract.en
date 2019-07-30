@@ -1,0 +1,213 @@
+The CONGRESSIONAL ARTS CAUCUS is a registered Congressional Member Organization for the US House of Representatives in the 115th Congress.[1]
+
+
+History
+
+The Congressional Arts Caucus was created in the 1980s as a way for the various members of Congress interested in the arts to be able to influence art legislation and to promote the National Endowment for the Arts.[2][3]
+
+
+Members
+
+As of the 115th Congress, the Congressional Arts Caucus has 160 members (126 Democrats, and 34 Republicans). The members are listed by state:[4]
+
+-   Terri Sewell (AL-07)
+-   Raul Grijalva (AZ-3)
+-   Kyrsten Sinema (AZ-9)
+-   French Hill (AR-2)
+-   Tony Cardenas (CA-29)
+-   Susan Davis (CA-53)
+-   Anna Eshoo (CA-18)
+-   Duncan D. Hunter (CA-50)
+-   Barbara Lee (CA-13)
+-   Zoe Lofgren (CA-19)
+-   Doris Matsui (CA-6)
+-   Tom McClintock (CA-4)
+-   Grace Napolitano (CA-32)
+-   Scott Peters (CA-52)
+-   Lucille Roybal-Allard (CA-40)
+-   Linda Sanchez (CA-38)
+-   Adam Schiff (CA-28)
+-   Brad Sherman (CA-30)
+-   Mark Takano (CA-41)
+-   Mike Thompson (CA-5)
+-   Julia Brownley (CA-26)
+-   Jackie Speier (CA-14)
+-   Jared Huffman (CA-2)
+-   Ted Lieu (CA-33)
+-   Alan Lowenthal (CA-47)
+-   Jimmy Panetta (CA-20)
+-   Mike Coffman (CO-6)
+-   Diana DeGette (CO-1)
+-   Jared Polis (CO-2)
+-   Joe Courtney (CT-2)
+-   Rosa DeLauro (CT-3)
+-   Elizabeth Esty (CT-5)
+-   Jim Himes (CT-4)
+-   John Larson (CT-1)
+-   Eleanor Norton (DC)
+-   Vern Buchanan (FL-16)
+-   Kathy Castor (FL-14)
+-   Ted Deutch (FL-21)
+-   Lois Frankel (FL-22)
+-   Alcee Hastings (FL-20)
+-   Bill Posey (FL-8)
+-   Tom Rooney (FL-17)
+-   Debbie Wasserman Schultz (FL-23)
+-   Frederica Wilson (FL-24)
+-   Hank Johnson (GA-4)
+-   John Lewis (GA-5)
+-   Michael Simpson (ID-2)
+-   Danny Davis (Il-7)
+-   Luis Gutierrez (IL-4)
+-   Dan Lipinski (Il-3)
+-   Mike Quigley (Il-5)
+-   Janice Schakowsky (Il-9)
+-   Bill Foster (Il-11)
+-   André Carson (IN-7)
+-   Pete Visclosky (IN-1)
+-   Dave Loebsack (IA-2)
+-   Lynn Jenkins (KS-2)
+-   Brett Guthrie (KY-2)
+-   John Yarmuth (KY-3)
+-   John Fleming (LA-4)
+-   Chellie Pingree (ME-1)
+-   Elijah Cummings (MD-7)
+-   John Sarbanes (MD-3)
+-   John Delaney (MD-6)
+-   Michael Capuano (MA-7)
+-   William Keating (MA-9)
+-   Stephen Lynch (MA-8)
+-   James McGovern (MA-2)
+-   Richard Neal (MA-1)
+-   Niki Tsongas (MA-3)
+-   Seth Moulton (MA-06)
+-   John Conyers (MI-13)
+-   Sander Levin (MI-9)
+-   Fred Upton (MI-6)
+-   Debbie Dingell (MI-12)
+-   Brenda Lawrence (MI-14)
+-   Keith Ellison (MN-5)
+-   Betty McCollum (MN-4)
+-   Rick Nolan (MN-8)
+-   Erik Paulsen (MN-3)
+-   Collin Peterson (MN-7)
+-   Tim Walz (MN-1)
+-   Gregg Harper (MS-3)
+-   William Lacy Clay (MO-1)
+-   Billy Long (MO-7)
+-   Dina Titus (NV-1)
+-   Ann Kuster (NH-2)
+-   Carol Shea-Porter (NH-2)
+-   Leonard Lance (NJ-7)- Republican Co-Chair
+-   Frank LoBiondo (NJ-2)
+-   Frank Pallone (NJ-6)
+-   Bill Pascrell (NJ-9)
+-   Donald Payne Jr. (NJ-10)
+-   Albio Sires (NJ-8)
+-   Bonnie Watson Coleman (NJ-12)
+-   Donald Norcross (NJ-1)
+-   Ben Ray Luján (NM-3)
+-   Yvette Clark (NY-9)
+-   Eliot Engel (NY-16)
+-   Brian Higgins (NY-26)
+-   Nita Lowey (NY-17)
+-   Carolyn Maloney (NY-12)
+-   Jerrold Nadler (NY-10)
+-   Jose Serrano (NY-15)
+-   Sean Maloney (NY-18)
+-   Paul Tonko (NY-20)
+-   Nydia Velázquez (NY-7)
+-   David Price (NC-4)
+-   Alma Adams (NC-1)
+-   Gregorio Sablan (NMI- At large)
+-   Marcia Fudge (OH-11)
+-   Marcy Kaptur (OH-9)
+-   Tim Ryan (OH-13)
+-   Steve Stivers (OH-15)
+-   Bill Johnson (OH-6)
+-   Earl Blumenaur (OR-3)
+-   Suzanne Bonamici (OR-1)
+-   Peter Defazio (OR-4)
+-   Kurt Schrader (OR-5)
+-   Robert Brady (PA-1)
+-   Charles Dent (PA-15)
+-   Michael Doyle (PA-14)
+-   Tim Murphy (PA-18)
+-   Glenn Thompson (PA-5)
+-   David Cicilline (RI-1)
+-   James Langevin (RI-2)
+-   James Clyburn (SC-6)
+-   Joe Wilson (SC-2)
+-   Kristi Noem (SD-At large)
+-   Steve Cohen (TN-9)
+-   Jim Cooper (TN-5)
+-   Phil Roe (TN-1)
+-   Lloyd Doggett (TX-35)
+-   Kay Granger (TX-12)
+-   Al Green (TX-9)
+-   Gene Green (TX-29)
+-   Sheila Jackson-Lee (TX-18)
+-   Eddie Bernice Johnson (TX-30)
+-   Pete Olson (TX-22)
+-   Beto O'Rourke (TX-16)
+-   Lamar Smith (TX-21)
+-   Marc Veasey (TX-33)
+-   Ruben Gallego (TX-7)
+-   Jason Chaffetz (UT-3)
+-   Peter Welch (VT-At large)
+-   Gerry Connolly (VA-11)
+-   Robert Scott (VA-3)
+-   Barbara Comstock (VA-10)
+-   Don Beyer (VA-8)
+-   Suzan DelBene (WA-1)
+-   Derek Kilmer (WA-6)
+-   Rick Larsen (WA-2)
+-   Dave Reichert (WA-8)
+-   Adam Smith (WA-9)
+-   Denny Heck (WA-10)
+-   David McKinley (WV-1)
+-   Evan Jenkins (WV-3)
+-   Ron Kind (WI-3)
+-   Mark Pocan (WI-2)
+
+Former Members
+
+-   Ann Kirkpatrick (AZ-1)- Retired from the House in 2016.
+-   Lois Capps (CA-24)- Chose not to run for reelection in 2016.[5]
+-   Sam Farr (CA-20)
+-   Mike Honda (CA-17) - Lost re-nomination for 2016 general election.
+-   Loretta Sanchez (CA-46) - Retired to seek a U.S. Senate seat.
+-   Corrine Brown (FL-5)
+-   Patrick Murphy (FL-18) - Retired to seek a U.S. Senate seat.
+-   Alan Grayson (FL-9) - Retired to seek a U.S. Senate seat.
+-   Ileana Ros-Lehtinen (FL-27)
+-   Robert Dold (Il-10)
+-   Donna Edwards (MD-4)
+-   Chris Van Hollen (MD-8)
+-   Brad Ashford (NE-2) Lost reelection in 2016.
+-   Charles Rangel (NY-13)
+-   Louise Slaughter (NY-25)- (Democratic co-chair) Died on March 16, 2018.
+-   Steve Israel (NY-3)
+-   Brian Fitzpatrick (PA-8)
+-   Pedro Pierluisi (PR-At large)
+-   Betty Sutton (OH-13)
+-   Jim McDermott (WA-7)
+-   Reid Ribble (WI-8)
+-   Cynthia Lummis (WY- At large)
+
+Last updated: March 23, 2018
+
+
+References
+
+Category:Civic and political organizations of the United States Category:Caucuses of the United States Congress
+
+[1]
+
+[2] https://artscaucus-slaughter.house.gov/about-me
+
+[3] https://artscaucus-slaughter.house.gov/about-me/history-accomplishments
+
+[4]
+
+[5]

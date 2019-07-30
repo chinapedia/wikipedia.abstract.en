@@ -1,0 +1,27 @@
+AFOXOLANER (INN)[1] is an insecticide and acaricide used in dogs. It is indicated for the treatment and prevention of flea infestations, and the treatment and control of tick infestations in dogs and puppies 8 weeks of age and older, weighing 4 pounds (~1.8 kilograms) of body weight or greater. It is given once a month.[2]
+
+Unlike most other flea treatments which are applied topically to the animal's coat, afoxolaner is administered orally in meat-flavoured tablets, and poisons fleas once they start feeding. It is used either alone or as a combination treatment with milbemycin oxime.[3][4][5]
+
+The US FDA reports[6] that drugs in this class (isoxazolines) can have adverse neurologic effects on some dogs, such as muscle tremors, ataxia, and seizures.
+
+
+See also
+
+-   Fluralaner
+
+
+References
+
+Category:Acaricides Category:Chloroarenes Category:Insecticides Category:Isoxazoles Category:Naphthalenes Category:Trifluoromethyl compounds
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]

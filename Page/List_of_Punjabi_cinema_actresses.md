@@ -1,0 +1,86 @@
+This is a LIST OF PUNJABI CINEMA ACTRESSES.
+
+-   Aditi Sharma
+-   Amar Noorie
+-   Asha Saini
+-   Avantika Hundal
+-   Bhanu Sri Mehra
+-   Bharti Singh
+-   Bhavana Bhatt
+-   Bhumika Chawla
+-   Dhriti Saharan
+-   Diljott
+-   Divya Dutta
+-   Dolly Ahluwalia
+-   Dolly Minhas
+-   Farah
+-   Gracy Singh
+-   Gul Panag
+-   Gurleen Chopra
+-   Himanshi Khurana
+-   Indira
+-   Japji Khaira
+-   Jaspinder Cheema
+-   Juhi Chawla
+-   Kainaat Arora
+-   Khushboo Grewal
+-   Kirandeep Verma
+-   Kul Sidhu
+-   Kulraj Randhawa
+-   Lauren Gottlieb
+-   Madalsa Sharma
+-   Madhuri Bhattacharya
+-   Mahi Gill
+-   Mandy Takhar
+-   Manjeet Kullar
+-   Meher Vij
+-   Monica Gill
+-   Neelam Sivia
+-   Navneet Kaur Dhillon
+-   Neena Cheema
+-   Neeru Bajwa
+-   Neetu Singh
+-   Niharika Kareer
+-   Nirmal Rishi
+-   Nishi (actress)
+-   Noor Jehan
+-   Nimrat Khaira
+-   Padma Khanna
+-   Parul Gulati
+-   Pooja Verma
+-   Prabhjeet Kaur
+-   Prabhleen Sandhu
+-   Priti Sapru
+-   Priya Gill
+-   Radha Saluja
+-   Rajeshwari Sachdev
+-   Rama Vij
+-   Roopi Gill
+-   Ritu Shivpuri
+-   Sakshi Gulati
+-   Sameksha
+-   Sargun Mehta
+-   Shiwani Saini
+-   Shruti Sodhi
+-   Simi Chahal
+-   Simran Kaur Mundi
+-   Smita Patil
+-   Sonam Bajwa
+-   Surbhi Jyoti
+-   Surilie Gautam
+-   Surveen Chawla
+-   Swati Kapoor
+-   Tania
+-   Teejay Sidhu
+-   Tulip Joshi
+-   Upasana Singh
+-   Vimi
+-   Wamiqa Gabbi
+-   Zareen Khan
+
+
+See also
+
+-   List of Punjabi cinema actors
+
+Category:Cinema of Punjab +

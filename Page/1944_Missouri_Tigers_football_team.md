@@ -1,0 +1,17 @@
+The 1944 MISSOURI TIGERS FOOTBALL TEAM was an American football team that represented the University of Missouri in the Big Six Conference (Big 6) during the 1944 college football season. The team compiled a 3–5–2 record (2–1–2 against Big 6 opponents), finished in third place in the Big 6, and outscored all opponents by a combined total of 224 to 176. Chauncey Simpson was the head coach for the second of three seasons.[1][2] The team played its home games at Memorial Stadium in Columbia, Missouri.
+
+The team's leading scorer was Paul Collins with 60 points.[3]
+
+
+Schedule
+
+
+References
+
+Missouri Category:Missouri Tigers football seasons Category:1944 in sports in Missouri
+
+[1]
+
+[2]
+
+[3]

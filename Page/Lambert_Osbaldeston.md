@@ -1,0 +1,19 @@
+LAMBERT OSBALDESTON (1594–1659), sometimes written Osbolston was headmaster of Westminster School.
+
+
+Life
+
+He was born in London in 1594, the second son of Lambert Osbaldeston, a haberdasher, of London, by his wife Martha Banks. Educated at Westminster School, he was elected to a scholarship at Christ Church, Oxford, in 1612. His name does not, however, appear in the matriculation register of the university until 20 October 1615, when he is described as the son of a "gentleman" born in London, and aged 21. He was admitted a student of Gray's Inn, London, on 25 October 1615. He graduated B.A. at Oxford on 13 June 1616, and commenced his M.A. on 20 April 1619. On 7 December 1621 he had a joint patent (with John Wilson, D.D.) from the dean and chapter of Westminster of the headmastership of Westminster School, which was renewed to him alone on 27 January 1625 – 1626. He was incorporated in the degree of M.A. at Cambridge in 1628.
+
+In July 1629 he became prebendary of the tenth stall in the collegiate church of Westminster Abbey, and on the 18th of the same month he was collated by his friend Bishop Williams to the prebend of Biggleswade in the cathedral of Lincoln. He was also a prebendary of Ilton in the church of Wells, and in 1637 he was presented to the rectory of Wheathampstead, with the chapel of Harpenden, Hertfordshire.
+
+In 1638 certain letters written by him were found in the house of Bishop Williams at Buckden. In these letters an unnamed person was irreverently styled "the little urchin" and "the little meddling hocus pocus." There can be no reasonable doubt that the person referred to was the Archbishop of Canterbury, William Laud, right-hand man to King Charles I.[1] Williams and Osbaldeston were brought to trial in the Star Chamber on 14 February 1638–9, and the latter was condemned to lose all his spiritualities, to pay a fine of £5,000. to the king and a like sum to Archbishop Laud, and moreover to have his ears nailed in the pillory in the presence of his Westminster scholars. As soon as the major part of the court had passed censure upon him, and while the lord-keeper was giving his judgment, Osbaldeston got out of the court, hurried to his study at the school, burnt some documents, and wrote on a paper, which he left on his desk: "If the archbishop inquire after me, tell him I am gone beyond Canterbury." Messengers were consequently sent to the port towns to apprehend him; but he lay hid in a private house in Drury Lane till the parliament met in November 1640. He had of course been deprived, in the meantime, of his church preferments, but he was restored to them by the Long parliament in 1641. Subsequently, he was shocked at the lengths to which that assembly proceeded, and his benefices were again sequestered. The latter part of his life was passed in retirement; he died in possession of his preferments "as much as the times would allow." He bore the character of a learned man, and was an excellent master, being "very fortunate in breeding up many wits." It is also said that he "had at the present [1638] above fourscore doctors in the two universities, and three learned faculties, all gratefully acknowledging their education under him". The "Tragical History of Piramus and Thisbe," one of Abraham Cowley's _Poetical Blossoms_ (1633), is dedicated "To the Right Worshipful, my very loving Master, Mr. Lambert Osbolston." Another of his scholars was Thomas Randolph, who addressed to him a poem, prefixed to the "Jealous Lovers," 1638. Osbaldeston died in October 1659, and on the seventh of that month was buried in the south aisle of Westminster Abbey, without any memorial.
+
+
+References
+
+Attribution
+
+Category:1594 births Category:1659 deaths
+
+[1]

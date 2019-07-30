@@ -1,0 +1,10 @@
+The 1911 OREGON AGRICULTURAL AGGIES FOOTBALL TEAM represented Oregon Agricultural College (now known as Oregon State University) as an independent during the 1911 college football season. In their first season under head coach Sam Dolan, the Aggies compiled a 5–2 record and outscored their opponents by a combined total of 119 to 49. Against major opponents, the Aggies lost to Washington (0–34) and defeated Washington State (6–0).[1] The team played its home games at Bell Field in Corvallis, Oregon. Bird Howley was the team captain.[2]
+
+
+References
+
+Category:Oregon State Beavers football seasons Oregon Agricultural Category:1911 in Oregon
+
+[1]
+
+[2] 2016 Media Guide, p. 186.

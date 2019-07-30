@@ -1,0 +1,166 @@
+_TRIPOS_ is a genus of dinoflagellates in the family Ceratiaceae.
+
+
+Species
+
+-   _Tripos aequatorialis_ (Schröder) F.Gómez, 2013
+-   _Tripos aestuarius_ (Schröder) F.Gómez, 2013
+-   _Tripos allieri_ (Gourret) F.Gómez, 2013
+-   _Tripos angustocornis_ (N.Peters) F.Gómez, 2013
+-   _Tripos angustus_ (A.S.Campbell) F.Gómez, 2013
+-   _Tripos arcticus_ (Vanhöffen) F.Gómez, 2013
+-   _Tripos arietinus_ (Cleve) F.Gómez, 2013
+-   _Tripos aultii_ (H.W.Graham & Bronikovsky) F. Gómez, 2014
+-   _Tripos axialis_ (Kofoid) F.Gómez, 2013
+-   _Tripos azoricus_ (Cleve) F.Gómez, 2013
+-   _Tripos balechii_ (Meave del Castillo, Okolodkov & M.E.Zamudio) F.Gómez, 2013
+-   _Tripos balticus_ (F.Schütt) F.Gómez, 2013
+-   _Tripos batavus_ (Paulsen) F.Gómez, 2013
+-   _Tripos belone_ (Cleve) F.Gómez, 2013
+-   _Tripos berghii_ (Gourret) F.Gómez, 2013
+-   _Tripos biceps_ (Claparède & Lachmann) F.Gómez, 2013
+-   _Tripos bicornis_ (Gourret) F.Gómez, 2013
+-   _Tripos bigelowii_ (Kofoid) F.Gómez, 2013
+-   _Tripos boehmii_ (H.W.Graham & Bronikovsky) F.Gómez, 2013
+-   _Tripos brevis_ (Ostenfeld & Johannes Schmidt) F.Gómez, 2013
+-   _Tripos brunellii_ (Rampi) F.Gómez, 2013
+-   _Tripos bucephalus_ (Cleve) F.Gómez, 2013
+-   _Tripos buceros_ (Zacharias) F.Gómez, 2013
+-   _Tripos californiensis_ (Kofoid) F.Gómez, 2013
+-   _Tripos candelabrus_ (Ehrenberg) F.Gómez, 2013
+-   _Tripos carnegiei_ (H.W.Graham & Bronikovsky) F.Gómez, 2013
+-   _Tripos carriensis_ (Gourret) F.Gómez, 2013
+-   _Tripos cephalotus_ (Lemmermann) F.Gómez, 2013
+-   _Tripos ceylanicus_ (Schröder) F.Gómez, 2013
+-   _Tripos claviger_ (Kofoid) F.Gómez, 2013
+-   _Tripos coarctus_ (Pavillard) F.Gómez, 2013
+-   _Tripos compressus_ (Gran) F.Gómez, 2013
+-   _Tripos concilians_ (Jørgenen) F.Gómez, 2013
+-   _Tripos contortus_ (Gourret) F.Gómez, 2013
+-   _Tripos contrarius_ (Gourret) F.Gómez, 2013
+-   _Tripos curvicornis_ (Daday) F.Gómez, 2013
+-   _Tripos dalmaticus_ (Schröder) F.Gómez, 2013
+-   _Tripos declinatus_ (G.Karsten) F.Gómez, 2013
+-   _Tripos deflexus_ (Kofoid) F.Gómez, 2014
+-   _Tripos dens_ (Ostenfeld & Johannes Schmidt) F.Gómez, 2013
+-   _Tripos denticulatus_ (Jörgenen) F.Gómez, 2013
+-   _Tripos depressus_ (Gourret) F.Gómez, 2013
+-   _Tripos digitatus_ (F.Schütt) F.Gómez, 2013
+-   _Tripos dilatatus_ (Gourret) F.Gómez, 2013
+-   _Tripos divaricatus_ (Lemmermann) F.Gómez, 2013
+-   _Tripos egyptiacus_ (Halim) F.Gómez, 2013
+-   _Tripos ehrenbergii_ (Kofoid) F.Gómez, 2013
+-   _Tripos elegans_ (Schröder) F.Gómez, 2013
+-   _Tripos euarcuatus_ (Jörgenen) F.Gómez, 2013
+-   _Tripos eugrammus_ (Ehrenberg) F.Gómez, 2013
+-   _Tripos extensus_ (Gourret) F.Gómez, 2013
+-   _Tripos falcatiformis_ (Jörgenen) F.Gómez, 2013
+-   _Tripos falcatus_ (Kofoid) F.Gómez, 2013
+-   _Tripos filicornis_ (Steemann Nielsen) F.Gómez, 2013
+-   _Tripos flagelliferus_ (Cleve) F.Gómez, 2013
+-   _Tripos furca_ (Ehrenberg) F.Gómez, 2013
+-   _Tripos fusus_ (Ehrenberg) F.Gómez, 2013
+-   _Tripos gallicus_ (Kofoid) F.Gómez, 2013
+-   _Tripos geniculatus_ (Lemmermann) F.Gómez, 2013
+-   _Tripos gibberus_ (Gourret) F.Gómez, 1883
+-   _Tripos globatus_ (Gourret) F.Gómez, 2013
+-   _Tripos globosus_ (Gourret) F.Gómez, 2013
+-   _Tripos gracilis_ (Pavillard) F.Gómez, 2013
+-   _Tripos gravidus_ (Gourret) F.Gómez, 2013
+-   _Tripos heterocamptus_ (Jörgenen) F.Gómez, 2013
+-   _Tripos hexacanthus_ (Gourret) F.Gómez, 2013
+-   _Tripos hircus_ (Schröder) F.Gómez, 2013
+-   _Tripos horridus_ (Cleve) F.Gómez, 2013
+-   _Tripos humilis_ (Jörgenen) F.Gómez, 2013
+-   _Tripos hundhausenii_ (Schröder) F.Gómez, 2013
+-   _Tripos hyperboreus_ (Cleve) F.Gómez, 2013
+-   _Tripos incisus_ (Karsten) F.Gómez, 2013
+-   _Tripos inclinatus_ (Karsten) F.Gómez, 2013
+-   _Tripos inflatus_ (Karsten) F.Gómez, 2013
+-   _Tripos intermedius_ (Jörgenen) F.Gómez, 2013
+-   _Tripos inversus_ (Karsten) F.Gómez, 2013
+-   _Tripos japonicus_ (Schröder) F.Gómez, 2013
+-   _Tripos karstenii_ (Pavillard) F.Gómez, 1907
+-   _Tripos kofoidii_ (Jörgenen) F.Gómez, 2013
+-   _Tripos lamellicornis_ (Kofoid) F.Gómez, 2013
+-   _Tripos lanceolatus_ (Kofoid) F.Gómez, 2013
+-   _Tripos leptosomus_ (Jörgensen) F.Gómez, 2013
+-   _Tripos limulus_ (Pouchet) F.Gómez, 2013
+-   _Tripos lineatus_ (Ehrenberg) F.Gómez, 2013
+-   _Tripos longinus_ (Karsten) F.Gómez, 2013
+-   _Tripos longipes_ (J.W.Bailey) F.Gómez, 2013
+-   _Tripos longirostrus_ (Gourret) F.Gómez, 2013
+-   _Tripos longissimus_ (Schröder) F.Gómez, 2013
+-   _Tripos lunula_ (Schimper ex Karsten) F.Gómez, 2013
+-   _Tripos macroceros_ (Ehrenberg) F.Gómez, 2013
+-   _Tripos massiliensis_ (Gourret) F.Gómez, 2013
+-   _Tripos minor_ (Gourret) F.Gómez, 2013
+-   _Tripos minutus_ (Jörgensen) F.Gómez, 2013
+-   _Tripos mollis_ (Kofoid) F.Gómez, 2013
+-   _Tripos muelleri_ Bory de Saint-Vincent, 1824
+-   _Tripos neglectus_ (Ostenfeld) F.Gómez, 2013
+-   _Tripos obesus_ (Pavillard) F.Gómez, 2013
+-   _Tripos obliquus_ (Gourret) F.Gómez, 2013
+-   _Tripos obtusus_ (Gourret) F.Gómez, 2013
+-   _Tripos okamurae_ (Schröder) F.Gómez, 2013
+-   _Tripos orthoceras_ (Jörgensen) F.Gómez, 2013
+-   _Tripos ostenfeldii_ (Kofoid) F.Gómez, 2013
+-   _Tripos oviformis_ (Daday) F.Gómez, 2013
+-   _Tripos pacificus_ (Schröder) F.Gómez, 2013
+-   _Tripos palmatus_ (Schröder) F.Gómez, 2013
+-   _Tripos paradoxides_ (Cleve) F.Gómez, 2013
+-   _Tripos parvus_ (Gourret) F.Gómez, 2013
+-   _Tripos patentissimus_ (Ostenfeld & Johannes Schmidt) F.Gómez, 2013
+-   _Tripos pavillardii_ (Jørgensen) F.Gómez, 2013
+-   _Tripos pellucidus_ (Gourret) F.Gómez, 2013
+-   _Tripos pennatus_ (Kofoid) F.Gómez, 2013
+-   _Tripos pentagonus_ (Gourret) F.Gómez, 2013
+-   _Tripos petersenii_ (Steemann Nielsen) F.Gómez, 2013
+-   _Tripos platycornis_ (Daday) F.Gómez, 2013
+-   _Tripos praelongus_ (Lemmermann) Gómez, 2013
+-   _Tripos procerus_ (Gourret) F.Gómez, 2013
+-   _Tripos protuberans_ (G.Karsten) F.Gómez, 2013
+-   _Tripos pulchellus_ (Schröder) F.Gómez, 2013
+-   _Tripos ramakrishnii_ (Subrahmanyan) F.Gómez, 2014
+-   _Tripos ranipes_ (Cleve) F.Gómez, 2013
+-   _Tripos recurvatus_ (Schröder) F.Gómez, 2013
+-   _Tripos recurvus_ (Jørgesen) F.Gómez, 2013
+-   _Tripos reflexus_ (Cleve) F.Gómez, 2013
+-   _Tripos reticulatus_ (Pouchet) F.Gómez, 2013
+-   _Tripos robustus_ (Ostenfeld & Johannes Schmidt) F.Gómez, 2013
+-   _Tripos rostellus_ (Gourret) F.Gómez, 2013
+-   _Tripos saltans_ (Schröder) F.Gómez, 2013
+-   _Tripos scapiformis_ (Kofoid) F.Gómez, 2013
+-   _Tripos schmidtii_ (Jørgesen) F.Gómez, 2013
+-   _Tripos schoeteri_ (Schröder) F.Gómez, 2013
+-   _Tripos schrankii_ (Kofoid) F.Gómez, 2013
+-   _Tripos semipulchellus_ (Jørgesen) F.Gómez, 2013
+-   _Tripos seta_ (Ehrenberg) F.Gómez, 2013
+-   _Tripos setaceus_ (Jørgesen) F.Gómez, 2013
+-   _Tripos strictus_ (Okamura & Nishikawa) F.Gómez, 2013
+-   _Tripos subcontortus_ (Schröder) F.Gómez, 2013
+-   _Tripos subrobustus_ (Jørgesen) F.Gómez, 2013
+-   _Tripos subsalsus_ (Ostenfeld) F.Gómez, 2013
+-   _Tripos sumatranus_ (Karsten) F.Gómez, 2013
+-   _Tripos symmetricus_ (Pavillard) F.Gómez, 2013
+-   _Tripos tasmaniae_ (E.J.F.Wood) F.Gómez, 2013
+-   _Tripos tenuissimus_ (Kofoid) F.Gómez, 2013
+-   _Tripos tricarinatus_ (Kofoid) F.Gómez, 2013
+-   _Tripos trichoceros_ (Ehrenberg) Gómez, 2013
+-   _Tripos tripodioides_ (Jørgesen) F.Gómez, 2013
+-   _Tripos truncatus_ (Lohmann) F.Gómez, 2013
+-   _Tripos uncinus_ (Sournia) F.Gómez, 2013
+-   _Tripos uteri_ (A.S.Campbell) F.Gómez, 2013
+-   _Tripos varians_ (Mangin) F.Gómez, 2013
+-   _Tripos volans_ (Cleve) F.Gómez, 2013
+-   _Tripos vultur_ (Cleve) F.Gómez, 2013
+
+
+References
+
+
+External links
+
+-   -   _Tripos_ at the World Register of Marine Species (WoRMS)
+
+Category:Dinoflagellate genera Category:Gonyaulacales

@@ -1,0 +1,3 @@
+GIANNIS CHASAVETIS (; Smyrna, 1899Athens, 1943) is a Greek bouzouki virtuoso. At the age of 23, Chasavetis left his homeland as a refugee of the 1922 destruction of Smyrna. Settling in Athens, he met and worked with other prominent rebetiko artists of his time. Main theme of the songs that he played is the hardships that Greek refugees faced at that period.
+
+Category:Singers from Athens Category:Greek rebetiko singers Category:Greek male singers Category:20th-century Greek singers Category:People from Izmir Category:Smyrniote Greeks Category:Greeks of the Ottoman Empire Category:1899 births Category:1943 deaths Category:20th-century male singers

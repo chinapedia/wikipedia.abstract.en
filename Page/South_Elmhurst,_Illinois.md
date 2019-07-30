@@ -1,0 +1,8 @@
+SOUTH ELMHURST is an unincorporated community in York Township, DuPage County, Illinois, United States.[1]
+
+
+Notes
+
+Category:Unincorporated communities in DuPage County, Illinois Category:Unincorporated communities in Illinois
+
+[1]

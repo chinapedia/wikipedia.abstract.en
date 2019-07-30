@@ -1,0 +1,8 @@
+AMINODDOLE CARAVANSERAI (Persian: تیمچه امین الدوله -Timche-Aminoddole) is an old caravansarai in the Bazaar of Kashan. The place is used for some important religious ceremonies. The most famous one is Muharram during which Hai'ats enter the place, sing about events that happened to Hussain, the third Imam of Shi'a, and his family in Karbala on the day of Ashura. It has been an important place along the Silk Road. Its chambers have been traditionally a place for buying and selling rugs woven by Kashanis or rugs of other cities. There are also some old teahouses in the Timche.[1]
+
+
+Sources
+
+Category:Buildings and structures in Kashan Category:Caravanserais in Iran Category:National Works of Iran
+
+[1]

@@ -1,0 +1,19 @@
+_ALPHESTES IMMACULATUS_, the PACIFIC MUTTON HAMLET, is a species of sea bass found within the eastern Pacific from the northern Gulf of California to southern Peru, including the Galápagos Islands. It grows up to , with a typical length of . This demersal, non-migratory species inhabits seagrass and rocky reef areas in shallow waters, where it hides using its camouflaging coloration. It may also dig into sand to avoid detection.[1][2] Muscle hepcidin expression could be significant in the immune response in fish. The expression of HAMP1 gene of A. immaculatus in muscle at basal conditions could describe a mechanism of protection upon the invasion of pathogens before a strong stimulus.ref>
+
+
+References
+
+
+External links
+
+-
+
+[3]
+
+Category:Serranidae Category:Fish described in 1936
+
+[1]
+
+[2]
+
+[3]

@@ -1,0 +1,10 @@
+AKWA BONI (died c. 1790), was a sovereign Queen of the Baoulé people. The niece of Queen Pokou, she inherited the throne in around 1760 and ruled until her death in about 1790.[1] She expanded the territory of the Baoulé, crossing the Bandama River and into the central Ivory Coast. In order to cross the river, one story has it that she needed to sacrifice her son to the river god; in doing so she gave her people their name, _bauli_, meaning 'the son is dead'. (Other versions of the story associate the incident with her aunt Queen Pokou.)[2]
+
+
+References
+
+Category:History of Ivory Coast Category:Women rulers in Africa Category:18th-century women rulers Category:1708 births Category:1790 deaths Category:Year of death uncertain Category:Queens regnant
+
+[1]
+
+[2]

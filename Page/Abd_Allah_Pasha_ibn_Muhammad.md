@@ -1,0 +1,10 @@
+SHARIF ABD ALLAH PASHA IBN MUHAMMAD ( _al-Sharīf ‘Abd Allāh Bāshā ibn Muḥammad_; _Şerif Abdullah Paşa bin Muhammed_; d. 1877) was a sharif of the Awn clan who served as Emir and Sharif of Mecca from 1858 to 1877.[1][2]
+
+
+References
+
+Category:Year of birth missing Category:1877 deaths Category:Sharifs of Mecca
+
+[1]
+
+[2]

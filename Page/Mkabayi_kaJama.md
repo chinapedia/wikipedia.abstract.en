@@ -1,0 +1,15 @@
+Princess MKABAYI KAJAMA, born c. 1750, was the daughter of Zulu king, Jama kaNdaba. Born a twin, Zulu custom required that one of the two girls be killed at birth to avoid bad luck and the wrath of the ancestors but King Jama acted contrary to tradition and spared both Mkabayi and her sister, Mmama. For this reason, and being of stronger character than her sister, Mkabayi grew up being resented by the Zulu people and was blamed for much of the chiefdom's misfortune.
+
+In 1777, recognising that her father and king was growing old and still without a son, Mkabayi went about courting King Jama a wife who would bear him an heir, without his knowledge. From this effort, Jama would marry Mthaniya, of the Sibisi clan, who bore him a son. In recognition of Mkabayi's effort to ensure the continuation of the Zulu line and monarch, the child was named Senzangakhona, meaning "we have done accordingly."
+
+For her role in ensuring an heir to the throne, Mkabayi was able to win the favour of the Zulu people but this did not last for long. In 1781, upon the passing of King Jama kaNdaba and recognising that Senzangakhona was too young to ascend the throne, Mkabayi appointed herself regent; something that was unheard of at the time.
+
+When Senzangakhona came of age in 1787, Mkabayi stepped down as regent but continued to serve an advisory role to the king. Additionally, as was custom, unmarried princesses served as head of military units and Mkabayi turned away many suitors to continue serving as the head of the _ebaQulusini_ (the place where they turned out buttocks) unit.
+
+The reign of Senzangakhona did not last long, and after his passing in 1816, his son Sigujana was due to ascend. Mkabayi, recognising a weakness of character within Sigujana, organised for Senzangakhona's other son, Shaka kaSenzangakhona, to challenge Sigujana. Shaka, along with his mother Nandi kaBhebhe, had been cast away and had settled with and gained the favour of the Mthethwa chief, Dingiswayo. Learning of Shaka's desire to seize the throne and aware of Shaka's military prowess, Sigujana fled, allowing Shaka to ascend the throne. During the reign of King Shaka, Mkabayi continued to serve as a close advisor to the king and head of ebaQulusini.
+
+After the passing of Queen Nandi, Shaka was accused of abusing power and wishing to preserve the Zulu kingdom Shaka had since built, Mkabayi plotted with Dingane kaSenzangakhona and Mhlangana kaSenzangakhona to assassinate King Shaka and, wishing to ensure Dingane's ascension to the throne, Mkabayi later organised for Mhlangana to be assassinated as well.
+
+During the reign of King Dingane, Mkabayi would again continue to serve the roles she had served under King Shaka and King Senzangakhona, repeatedly turning away suitors who requested her hand in marriage in order to serve the growing Zulu kingdom. However, when Mpande kaSenzangakhona defeated Dingane and assumed the throne, Mkabayi was banished. She died a lonely woman in 1843, an exile from the kingdom she helped form.
+
+Category:1750 births Category:1843 deaths Category:Zulu royalty Category:Twin people from the Zulu Kingdom

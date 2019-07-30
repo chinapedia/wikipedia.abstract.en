@@ -1,0 +1,44 @@
+From 1939 until January 1944, the intelligence services of Germany and Italy, with the assistance of the Spanish government, maintained a network of stations in the vicinity of the Strait of Gibraltar. The stations tracked the movements of Allied warships and merchant vessels and became a valuable source of intelligence to the Axis, for attacks on Allied convoys. The British Government considered attacking the stations on two occasions during 1942 but decided instead to use diplomatic pressure to have them closed. The stations are believed to have ceased operations in January 1944.
+
+
+Early activities
+
+The German _Abwehr_ and Italian intelligence services established a network of ship-watching positions along the Strait of Gibraltar in Spain and Spanish Morocco during the early years of World War II. This was conducted with the authorisation of the Spanish government led by Francisco Franco.
+
+While the ship-watching organisation was initially incompetent, by the northern autumn of 1941 it had grown into an effective source of intelligence. By this time the Axis forces were operating stations at Alboran Island, Algeciras, Cape Trafalgar, Cape de Gata, Cape Tres Forcas, Ceuta, Malaga, Melilla, Tangier, Tarifa and Tetuan. Two of the stations were manned by Spanish personnel and the others by Spanish, German and Italian personnel. The Germans and Italians are believed to have worn Spanish uniform to conceal their presence. The station at Algeciras, which was directly across the Bay of Gibraltar from the British territory, was the most important and radioed at least 20 reports each day to _Abwehr_ headquarters in Berlin.
+
+The British Government was aware of the Axis ship-watching network and monitored its activities by decoding the radio signals sent by _Abwehr_ personnel. While the British had no way of countering the network in 1941, this intelligence enabled the development of limited counter-measures. Allied ships operating near Gibraltar, were instructed to sail during periods of poor visibility and take evasive courses. The British intelligence services were able to advise the naval command at Gibraltar of the ship movements which had been reported by Axis forces.
+
+
+Operation Bodden
+
+In late 1941, construction began on buildings to house German equipment which would allow ships to be tracked using infrared and other short-wave apparatus at nine sites on the northern shore of the Strait of Gibraltar and five on its southern shore in Operation Bodden. (_Bodden_ are strips of seawater and lagoons separating Baltic islands from the German mainland.) The main technology used was the bolometer, which could to detect heat rising from nearby vessels and the first of these installations began operations in February 1942. Following approval from Franco the next month, the network was active by mid-April 1942. Thanks to Ultra intelligence gained from _Abwehr_ radio messages, the British were able to monitor the installation of the new equipment and consider responses to it.
+
+Kim Philby of MI6 kept watch on _Abwehr_ operations and consulted R. V. Jones, the Assistant Director of Intelligence (Science) at the Air Ministry. Jones inferred that Bodden was a plot to install an "infra-red burglar alarm" to count ships into and out of the Mediterranean. It appeared that there would be three parallel infra-red searchlight barrages, just west of Perejil Island, shining north towards Algeciras. The strait there was about across and Jones thought that the method could be unreliable because of twinkling just above the sea. A bigger infra-red detector with a longer range was to be set up near Algeciras pointing south to detect hot spots on ships such as funnels. If the devices became operational, the Navy would have to lag ship funnels or send decoys back and forth.
+
+On 7 March, the authorities at Gibraltar were warned by the Admiralty that ships operating near the territory could be tracked at night. In May 1942, the Chiefs of Staff Committee discussed attacking the sites by bombardments from submarines or raids by Combined Operations units. It was eventually decided to not attack the sites, for fear that it would provoke a Spanish attack on Gibraltar and the British Ambassador to Spain, Sir Samuel Hoare, was briefed on the scientific aspects of the German operation, without leaving clues that the source was Ultra and directed to raise the matter with the Spanish Government. Hoare insisted on meeting Franco to discuss the new ship-watching stations. During their discussion on 27 May, Hoare presented a detailed account of German activities in Spain and indicated that petrol supplied by Allied countries, had been used as part of the construction of the facilities. Franco denied that the network existed and claimed that the German personnel were providing technical assistance to Spanish coastal artillery batteries. Franco inferred that the ambassador's comments were a threat to cut off the supply of petrol and promised to conduct a personal inquiry into the matter. Franco met with the head of the _Abwehr_, Admiral Wilhelm Canaris, in June and directed that the stations be closed.
+
+On 3 June the Spanish admitted that the Germans had installed devices for coast defence but denied that facilities had been provided for "foreign interests" and offered an assurance that shipping would not be attacked using information from the installations. Canaris' subsequent attempts to persuade Franco to rescind this decision failed and the Spanish foreign minister provided Hoare with an assurance on 1 July, that the sites built during Operation Bodden would be shut down and the Germans sent home, yet the Germans claimed that information from the installations was used for an attack on a convoy passing the straits on the night of While these sites were no longer operational by mid-July, the Allies learned from Ultra decrypts, that the Germans were installing the equipment in new locations on Spanish territory.
+
+Bunkers_en_los_alrededores_de_la_bahía_de_Algeciras.jpg During July and August, two new bolometer sites commenced operations near Algeciras and Ceuta. These sites detected Operation Pedestal, a convoy bound for Malta, during the second week of August 1942 and Axis air, sea and submarine attacks led to many losses. Following this engagement, the British Chiefs of Staff Committee again considered countermeasures against the bolometer sites; the Governor of Gibraltar and Special Operations Executive proposed direct attacks on the facilities and the head of the Royal Navy advocated jamming them. During a meeting held on 25 August, the Chiefs of Staff decided to make another diplomatic protest, which was formally lodged with the Spanish Government in October.
+
+This protest did not lead to the closure of the stations and it is likely that they played a role in the Axis response to the Allied Operation Torch landings in North Africa in November 1942. The sites were not the only source of intelligence used to direct air attacks on Allied convoys, as the German Air Force conducted a daily reconnaissance flight over Gibraltar from September. The bolometer sites were dismantled during late 1942 and on 29 December that year, after the Spanish Government directed Canaris to cease intelligence activities in Spain to avoid giving the Allies a pretext to invade the country. German observation posts continued to be maintained in the Gibraltar area, though the German agents were gradually replaced with citizens of other countries and the sites declined in effectiveness. An attempt to reactivate the bolometer sites was made in mid-1943 but abandoned by July.
+
+Later in 1943, the Spanish Government, still under pressure from the Allied governments, ordered the closure of the remaining ship-watching stations and there is no evidence that any stations operated after January 1944. In 1981, Sir Harry Hinsley judged in the official history of _British Intelligence in the Second World War_ that the ship-watching operation had been "the most important" form of assistance Spain provided to the Axis during the war. In 1943, Jones found that a German _Elektra Sonne_ station was being set up near Lugo in north-west Spain as part of a navigation system for aircraft and U-boats. Jones used photographs of the station to work out how it worked and supplied Coastal Command with instructions to use it under the code-name Consol, since it was of more use to the British than the Germans and simpler than Gee.
+
+
+See also
+
+-   Spain during World War II
+-   Military history of Gibraltar during World War II
+-   Coastwatchers
+
+
+Notes
+
+
+References
+
+-   -   -   -   -   -
+
+Category:Spain in World War II Category:Gibraltar in World War II Category:Mediterranean theatre of World War II Category:Abwehr operations

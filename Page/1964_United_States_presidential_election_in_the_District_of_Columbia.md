@@ -1,0 +1,8 @@
+The UNITED STATES PRESIDENTIAL ELECTION IN THE DISTRICT OF COLUMBIA, 1964 took place in order to select the District of Columbia's 3 electoral votes for President of the United States. President Lyndon B. Johnson won the District by an overwhelming margin, receiving over 85% of the vote.[1] This was the first presidential election in which the District of Columbia had the right to vote. The District of Columbia has voted Democratic by large margins every time since this election.
+
+
+References
+
+District of Columbia 1964 United States pres
+
+[1]

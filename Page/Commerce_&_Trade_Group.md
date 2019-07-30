@@ -1,0 +1,12 @@
+The COMMERCE AND TRADE GROUP (CTG) is a branch of the Central Superior Services of Pakistan. The Commerce and Trade Group is responsible for the commercial diplomacy and economic development of Pakistan. In order to safeguard Pakistan's commercial interests and enhance market access, the CTG was created in 1973 to help Pakistan in developing Pakistan trade ties abroad and to cater the modern needs of specialized officer for trade policy and implementation.[1]
+
+The Officers from this cadre are mainly posted in Trade Development Authority of Pakistan Ministry of Commerce, Intelluctual Property Organization(IPO). Besides they are posted in Trade Missions Abroad as Commercial Secretaries(BS 18), Commercial Counselors(BS 19), Trade Minister/Counsel General(BS 20/21), and Ambassador to the WTO(BS 21). CTG officers negotiate bilateral, multilateral and unilateral trade deals with the trade partners of Pakistan.They are not only responsible for international trade but domestic commerce as well. They formulate and implement trade policy, which lays out the fundamentals of the commercial choices for the country. The group has attained more importance in the wake of the global shift from political to commercial/economic diplomacy. The CTG mans the Ministry of Commerce and its attached departments, as well as other economic ministries and provincial departments that deal with commerce, investment, industries, and agriculture.
+
+The CTG is a part of the Ministry of Commerce. They lead foreign trade negotiations with different countries to secure trade deals. Pakistan has successfully negotiated three Free Trade Agreements (FTAs) with Sri Lanka, China, and Malaysia, as well as three Preferential Trade Agreements (PTAs) with Iran, Mauritius, and Indonesia. Pakistan is also part of SAFTA and ECOTA. Through successful negotiations, Pakistan secured GSP-plus status from the EU, which means that more than 90% of Pakistan's exports are received at zero import duty by the 28 countries of the EU. Besides commercial diplomacy, the CTG officers mainly deal with exports, imports, tariff, WTO, foreign trade, regulation of Chambers of Commerce and trade bodies,trade defense laws, intellectual property, public sector insurance organizations (State Life Insurance, National Insurance (NICL), Pakistan Reinsurance (PRCL), trade disputes, and more.
+
+
+References
+
+Category:1973 establishments in Pakistan
+
+[1] http://csspk.com/Commerce_Trade_Group.htm

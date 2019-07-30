@@ -1,0 +1,13 @@
+'''Aidan Caves ''' (born 3 January 1995) is a Canadian professional track cyclist. He won the silver medal at the 2015 Pan American Track Cycling Championships in the scratch and at the 2016 Pan American Track Cycling Championships in the team pursuit also setting the Canadian Record with his teammates.[1] Later he went on to win the gold medal and champions jersey in the Omnium at 2016 Pan American Track Cycling Championships. Back in 2014 he participated at the 2014 Commonwealth Games. He has 10 National Championship wins including his Junior titles throughout his career.
+
+
+References
+
+
+External links
+
+-   -
+
+Category:1995 births Category:Living people Category:Canadian male cyclists Category:Canadian track cyclists Category:Cyclists at the 2014 Commonwealth Games Category:Commonwealth Games competitors for Canada Category:Cyclists at the 2018 Commonwealth Games Category:Commonwealth Games medallists in cycling Category:Commonwealth Games bronze medallists for Canada
+
+[1]

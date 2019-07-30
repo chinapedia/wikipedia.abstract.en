@@ -1,0 +1,8 @@
+The 1945 OHIO BOBCATS FOOTBALL TEAM was an American football team that represented Ohio University during the 1945 college football season. In their 20th season under head coach Don Peden, the Bobcats compiled a 3–4 record and were outscored by all opponents by a combined total of 106 to 100.[1]
+
+
+References
+
+Ohio Category:Ohio Bobcats football seasons Ohio Bobcats football
+
+[1]

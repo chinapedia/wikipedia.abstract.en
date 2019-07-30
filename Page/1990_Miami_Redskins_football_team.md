@@ -1,0 +1,14 @@
+The 1990 MIAMI REDSKINS FOOTBALL TEAM was an American football team that represented Miami University in the Mid-American Conference (MAC) during the 1990 NCAA Division I-A football season. In its first season under head coach Randy Walker, the team compiled a 5–5–1 record (4–3–1 against MAC opponents), finished in fifth place in the MAC, and were outscored by all opponents by a combined total of 225 to 200.[1][2]
+
+The team's statistical leaders included Jim Clement with 1,184 passing yards, Terry Carter with 858 rushing yards, and Milt Stegall with 590 receiving yards.[3]
+
+
+References
+
+Miami (OH) Category:Miami RedHawks football seasons Miami Redskins football
+
+[1]
+
+[2]
+
+[3]

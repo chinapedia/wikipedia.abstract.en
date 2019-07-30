@@ -1,0 +1,11 @@
+The 1904 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 8, 1904. Incumbent Lieutenant Governor Ray W. Jones of the Republican Party of Minnesota defeated Minnesota Democratic Party challenger Fendall G. Winston.
+
+
+Results
+
+
+External links
+
+-   Election Returns
+
+Lieutenant Gubernatorial 1904

@@ -1,0 +1,6 @@
+The BATTLE OF PEÑUELAS took place on June 15, 1860 in the vicinity of Penuelas in the state of Zacatecas, Mexico, between elements of the liberal army, under the command of Gen. Jesus Gonzalez Ortega and elements of the conservative army commanded by General Silverio Ramirez during the War of Reform. The battle ended as liberal victory, leaving in a very compromising situation Miramon because this was amagado the south with the forces of Ignacio Zaragoza, in the north by Jesus González Ortega and from the east by Santos Degollado.
+
+
+References
+
+Category:History of Zacatecas Category:1860 in Mexico Category:Conflicts in 1860 Category:Reform War

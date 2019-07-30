@@ -1,0 +1,11 @@
+The 1900 MISSOURI TIGERS FOOTBALL TEAM was an American football team that represented the University of Missouri as an independent during the 1900 college football season. The team compiled a 4-4-1 record and was outscored by its opponents by a combined total of 80 to 71. Dave Fultz was the head coach in the first game of the season, and Fred W. Murphy was the head coach in games two through nine.[1] The team played its home games at Rollins Field in Columbia, Missouri.
+
+
+Schedule
+
+
+References
+
+Missouri Category:Missouri Tigers football seasons Category:1900 in sports in Missouri
+
+[1]

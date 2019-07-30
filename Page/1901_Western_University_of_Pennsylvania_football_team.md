@@ -1,0 +1,11 @@
+The 1901 WESTERN UNIVERSITY OF PENNSYLVANIA FOOTBALL TEAM was an American football team that represented Western University of Pennsylvania (now known as the University of Pittsburgh) as an independent during the 1901 college football season. In its first season under head coach Wilbur Hockensmith, the team compiled a 7–2–1 record and outscored opponents by a total of 96 to 53.[1]
+
+
+Schedule
+
+
+References
+
+Western University of Pennsylvania Category:Pittsburgh Panthers football seasons Western University of Pennsylvania football
+
+[1]

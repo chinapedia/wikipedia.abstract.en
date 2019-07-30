@@ -1,0 +1,7 @@
+    _This article is about the recreational league. For the motion picture, see Artie Lange's Beer League._
+
+A BEER LEAGUE (North American English) is a recreational league for adults to drink beer and compete in different sports. While the PUB LEAGUE (British English) is a form of sports league actually primarily funded by sponsorships from pubs, taverns and bars. The bars often provide funding for a team's uniforms and equipment, and often a free drink for each player, in exchange for advertising the establishment on the uniform and usually naming rights to the team itself. Beer leagues can be of virtually any sport but are usually amateur and recreational in nature, not being tied to a larger competitive league system, and contested by adults. The consumption of alcohol is often encouraged during the contest, as the actual competition is secondary. This is beneficial to the adults that compete in these beer league events because not only are they supporting a small business but are also getting physical activity, all while being social. For example, in Beer League Hockey, over 174,000 adults play. The primary goal of these leagues is to have "organized hockey in its purest form, unencumbered by money, skill, ambition, fans or advancement." [1]
+
+Category: Sports leagues
+
+[1] Bonander, Ross. “Inside the World of Beer League Hockey.” DRAFT, 14 Dec. 2015, https://draftmag.com/beer-league-hockey/

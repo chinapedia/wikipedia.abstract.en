@@ -1,0 +1,13 @@
+The 1914 MISSOURI TIGERS FOOTBALL TEAM was an American football team that represented the University of Missouri in the Missouri Valley Conference (MVC) during the 1914 college football season. The team compiled a 5–3 record (4–1 against MVC opponents), finished in second place in the conference, and outscored all opponents by a combined total of 128 to 48. Henry Schulte was the head coach for the first of four seasons.[1][2] The team played its home games at Rollins Field in Columbia, Missouri.
+
+
+Schedule
+
+
+References
+
+Missouri Category:Missouri Tigers football seasons Category:1914 in sports in Missouri
+
+[1]
+
+[2]

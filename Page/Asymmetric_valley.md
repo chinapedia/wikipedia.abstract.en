@@ -1,0 +1,10 @@
+An ASYMMETRIC VALLEY is a valley that has steeper slopes on one side. Asymmetric valleys are azonal landforms. In high altitudes south-facing slopes are usually steeper than north-facing slopes.[1] Large incised rivers crossing strike-slip faults can form asymmetrical valleys, as one bank of the river might be continuously being renewed while the other bank drifts away from the stationary river. A smaller river does not develop an asymmetrical valley as the whole river is offset or bent by the fault, rather than the river modifying the moving tectonic block. An example of this kind of asymmetrical valley can be found at the crossing of the Yellow River with the Zhongwei-Tongxin fault.[2]
+
+
+References
+
+Category:Tectonics Category:Valleys
+
+[1]
+
+[2]

@@ -1,0 +1,12 @@
+The FORT WALTON BEACH LIBRARY was established in 1927 by the Women's Club, in the old Masonic building on the waterfront.
+
+Members kept the library open by rotating service hours during the days of the week chosen for its operation. The newly established library received a donation of 1,000 books. A few years later the library moved to the clubhouse of the Women's Club. However, in 1936, when the Fort Walton Beach High School needed additional books for accreditation, the Women's Club donated the library books to give the school the quota needed. This ended the first public library until June 1, 1954 when the Business and Professional Women's Club, assisted by the Women's Club, established the Fort Walton Beach Public Library in the Community Center, the land for which was donated by Library Board President, Mrs. Liza (L.M) Jackson. Miss Lucile Woodward, a member of one of the first families of this city, served as librarian. Miss Woodward was given accolades for the splendid growth during her two and one-half year directorship of the library.[1]
+
+On Friday, February 15, 1957, it was announced that the Fort Walton Beach and the Playground area would offer full-time library service with a full-time professional librarian, Miss Dorothy Raymond. The city-supported library was open from 10 until 5:30 o'clock Tuesday through Saturday. Mrs. Liza Jackson, Library Board President, was quoted as saying, "The board is happy to announce this full time schedule so the hours will be convenient for both office workers and housewives." The new professional director, Miss Raymond, was quoted as saying, "I was horrified when I learned the library I was to help build was founded on donations. I had never seen any donations which were any good. But you'd be surprised what the people here gave-they are excellent additions to the library." The Playground Daily News of February 28, 1957, also said " . . . so pleased was Miss Raymond with what she found to work with at the Fort Walton Beach Library that she complimented Mrs. Jackson and her board on their extremely good selection of books.
+
+
+References
+
+Category:Libraries established in 1927 Category:Fort Walton Beach, Florida Category:Buildings and structures in Okaloosa County, Florida Category:Libraries in Florida
+
+[1] Florida Library History Project//http://digital.lib.usf.edu/fl-libraryhistory/

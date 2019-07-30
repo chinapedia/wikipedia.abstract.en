@@ -1,0 +1,11 @@
+The 1903 WESTERN UNIVERSITY OF PENNSYLVANIA FOOTBALL TEAM was an American football team that represented Western University of Pennsylvania (now known as the University of Pittsburgh) as an independent during the 1903 college football season. In its first season under head coach Arthur Mosse, the team compiled a 0–8–1 record and was outscored by a total of 262 to 20.[1]
+
+
+Schedule
+
+
+References
+
+Western University of Pennsylvania Category:Pittsburgh Panthers football seasons Category:College football winless seasons Western University of Pennsylvania football
+
+[1]

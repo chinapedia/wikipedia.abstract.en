@@ -1,0 +1,11 @@
+The 1930 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 6, 1930. Minnesota Farmer–Labor Party candidate Henry M. Arens defeated Republican Party of Minnesota challenger John H. Hougen.
+
+
+Results
+
+
+External links
+
+-   Election Results
+
+Lieutenant Gubernatorial 1930

@@ -1,0 +1,10 @@
+NICHOLAS "NICK" O'BANNON is a fictional character and the protagonist and visionary of _The Final Destination_. He is one of the survivors of the McKinley Speedway crash, and the tenth and final survivor to die.
+
+
+Appearance
+
+_The Final Destination_
+
+Nick is a college student who visits McKinley Speedway for a study break with his girlfriend Lori Milligan and their friends, Hunt Wynorski and Janet Cunningham. While watching the race, Nick has a premonition that a massive crash will send debris into the stands, causing the stadium to collapse on the guests. In his premonition, Nick is impaled through the chest by a metal pipe. He urges his friends to leave the Speedway, and a fight breaks out between Nick and several other spectators, who follow him out of the stadium before the accident occurs. When the survivors begin to die one by one in a series of freak accidents, he and Lori attempt to save those who remain using his visions, which provide hints as to how the next person will die. Nick later has a vision of a disastrous mall fire that would have killed him, Lori and Janet, but he manages to stop it before it occurs, leading them to believe that they have cheated death. Two weeks later, while at a cafe with Lori and Janet, Nick suddenly realizes that the mall disaster vision was merely a feint meant to lead them to where they needed to be for Death to strike. As he realizes this, a truck smashes through the window, killing all three of them; Nick is thrown into a wall, with the impact bashing his skull, and dislocating his jaw. Nick is seen again via archive footage in a montage at the end of _Final Destination 5_.
+
+Category:Fictional characters introduced in 2009 Category:Fictional characters with precognition Category:Fictional American people of Irish descent Category:Fictional characters from Pennsylvania Category:Final Destination characters Category:Male horror film characters

@@ -1,0 +1,36 @@
+PASCHASE BROËT (1500?- 14 September 1562) was a Catholic priest, and one of the first Jesuits.
+
+
+Early life and priesthood
+
+Broët was born in the town of Bertrancourt, Picardy around 1500. Broët was one of six children of a wealthy farmer who was in a position to provide for his son's education as a priest. He was ordained a priest on March 12, 1524, but his father's generosity meant that he could live _titulo patrimonii_ which meant he would live off a patrimony rather than have his living provided for by a parish (_sub titulo_). he remained in Picardy until at least 1532. Between 1532 and 1533 he started his studies at the University of Paris. It's known that he was a member of the faculty of Arts where he studied philosophy and he resided at the Collège de Calvi. Three years later he received his licentiate alongside Simão Rodrigues and Jean Codure. It was around this time that along with Rodrigues he came into contact with Peter Faber who introduced him to Spiritual Exercises of Ignatius of Loyola. On 15 August 1536 along with Codure they bound themselves with the same vows that the original seven Jesuits took while at the same time those original members still in Paris renewed their vows. Claude Jay had joined the previous year so Codure and Broet brought the number to ten.
+
+
+Early career as a Jesuit
+
+Along with the other members Broët went to work in Venice especially in the Hospitals of Ss John and Paul and the Incurables. While the others, most of whom were not yet priests, did much of the cleaning and nursing Broët attended them with the sacraments. Broët went with his brothers to Rome in 1537 where Pope Paul III granted him, along with his companions, permission to go to Jerusalem and along with his clerical companions the unusual permission to hear confessions and preach without the permission of the local diocesan bishop. In the summer of 1537 he went to Verona for a few months and went with Alfonso Salmeron to Sienna before they were both recalled to Rome by Ignatius in 1539. Later that year they offered themselves in service to the Pope and promised to go anywhere they were asked. Broët was the first to receive a specific request by Paul III who sent him to Sienna with the task of solving a controversy that had arisen among a community of Benedictine nuns. After the Society of Jesus received official approval Broët was one of only sis members on hand to elect a superior. During this period he acted as head of the new society for a week.
+
+
+Mission to Ireland
+
+After Archbishop Wauchope asked Paul III for help with the situation in Ireland in 1540 the pope sent Codure to assess the situation where Wauchope (a former teacher at the University of Paris) was prevented from taking the Archdiocese of Armagh. Codure was replaced on the Irish mission in 1541 by Broët. He spent the summer teaching in Rome and In September departed for Ireland with Salmeron and a scholastic, Zapata. They met the Scottish Cardinal Beaton at Lyon who discouraged them from going to Ireland with stories of the dire state of the Church there. A combination of the persecution of the church under Henry and a very low opinion of the Irish in general made Beaton paint a very bleak picture. After leaving France the made landfall in Edinburgh on 3 December 1541. Though they were warmly received by James V, the king and everyone else they met discouraged them from going to Ireland where the state of the Church was deplorable. Broët sought out some Irish merchants who would carry them safely to Ireland. Unsuccessful there he donned a kilt and moved among people in Irvine where he received much less severe reports of the situation in Ireland. He and Salmeron made the short crossing in February 23, 1542. The situation turned out to be worse than previously thought and Broët wrote "In a short while we found matters just as we had been told, if not worse." He described a situation whereby the main chiefs had submitted to Henry and only minor chiefs held out.
+
+  Our main objective, according to the instructions we received from the very reverend cardinals, was to bend our efforts to the establishment of peace among the chiefs and lords of Ireland, so that in their unity they might the more vigorously resist the King, protect themselves, and even take the offensive, if need be, for the faith and strengthening of obedience to the Apostolic See. We actually met some of the chiefs, such as Macmillan and O’Cahen, and some others. But our eyes were opened to the fact that the disease of internal strife in this country is a hopeless thing and, in our judgement, irredeemable because of age-old hatreds as well as because of a savage and barbarous was of life, worse than bestial and hardly to be believed unless actually seen. Often these people, having becoming reconciled, establish peace. Then after a month break their treaties. And then the latter stipulation becomes worse than the first … The man who is the more accomplished in the business of plunder enjoys the greater honour and distinction among them … What does a kingdom amount to whose justice consists merely in piracy? In Ireland no punishment is meted out to culprits, murderers, robbers, the impure in their diocese, they replied that they did not punish the violates of purity in their diocese, they replied that they were powerless in the absence of the secular arm to carry out the penalties for them. But what is worse, the leaders themselves, spiritual and lay, whose office is to correct their subordinates, are infected with the same leprosy.[1]
+
+Bishops who remained faithful were turned out of their dioceses and on the run. Monasteries and friaries were all in ruins. There was little opportunity for them to carry out their mission which was to unite the chiefs and try and create an opposition to Henry. They spent several months travelling throughout Ulster hearing confessions and granting indulgences. Their original instruction stated that if their lives were in danger they were to return so in the summer of 1542 they returned to Scotland where people there were surprised that they returned alive. From Scotland, they made their way back to Rome leaving Zapata to study in Parish with several other Jesuits.
+
+
+Later Life
+
+In 1551 he was commissioned to found a Jesuit college at Ferrara, and in December 1551 Ignatius appointed him provincial superior for Italy, with a view to founding a series of colleges. Six months later, the second session of the Council of Trent having been suspended, he was replaced in Italy by Father Jacques Lainez and sent to Paris as head of Collège de Clermont, which had just been founded in 1550. In 1554, Ignace appointed Broët provincial superior for France, the first to fulfill this function.
+
+During an outbreak of the plague in 1562, the Jesuit fathers left Paris for the college of Billom, but Broët decided to stay behind ministering to the sick. He contracted the illness and died on September 14, 1562.
+
+
+References
+
+-
+
+Category:1500 births Category:1562 deaths Category:16th-century Jesuits Category:16th-century French Jesuits Category:People from Picardy
+
+[1]

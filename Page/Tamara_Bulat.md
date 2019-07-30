@@ -1,0 +1,16 @@
+Dr. TAMARA BULAT was a prominent musicologist, author of several monographs and 300 papers. She is a co-author of The History of Ukrainian Music in 6 volumes. She is well known for her publications on the work of Ukrainian composers Mykola Lysenko and Yakiv Stepovy, dealing with problems of folk and art music, culturology, and ethnomusicology. [1]
+
+Dr. Bulat was a Leading Scholar at the M. Ryl’s’ky Institute for Art, Folklore and Ethnology of the Academy of Sciences of Ukraine, worked at the Kyiv Conservatory and at the Institute of Culture (Kyiv).
+
+Tamara Bulat has co-authored The World of Mykola Lysenko book with her son Taras Filenko.
+
+In her later years, Dr. Bulat was a member of the Composers’ Society of Ukraine, of the Ukrainian Academy of Arts and Sciences in the USA (a Full Member and an elected officer), the Ukrainian Music Institute of America, the Society for Ethnomusicology (USA), and of the Shevchenko Scientific Society (USA).[2]
+
+
+References
+
+Category:1933 births Category:2004 deaths Category:People from Zaporizhia Category:Ukrainian women writers Category:Ukrainian musicologists Category:Women musicologists Category:20th-century musicologists Category:20th-century women writers Category:20th-century women musicians
+
+[1] The World of Mykola Lysenko
+
+[2] Tamara Bulat Obituary

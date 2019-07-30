@@ -1,0 +1,12 @@
+_ALTERERYTHROBACTER XINJIANGENSIS_ is a Gram-negative, strictly aerobic, rod-shaped and non-motile bacterium from the genus of Altererythrobacter which has been isolated from desert sand from Xinjiang in China.[1][2][3]
+
+
+References
+
+Category:Sphingomonadales Category:Bacteria described in 2012
+
+[1]
+
+[2]
+
+[3]

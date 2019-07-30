@@ -1,0 +1,6 @@
+CHRISTIAN MICHAEL SOLIS "MIKE" TOLOMIA (born January 6, 1993) is a Filipino professional basketball player for the Meralco Bolts of the Philippine Basketball Association (PBA).
+
+
+References
+
+Category:1993 births Category:Living people Category:Basketball players at the 2010 Summer Youth Olympics Category:Basketball players from Zamboanga del Sur Category:Far Eastern University alumni Category:Meralco Bolts players Category:Philippine Basketball Association All-Stars Category:Philippines men's national basketball team players Category:Filipino men's basketball players Category:Philippines national youth 3x3 basketball team players Category:Point guards Category:Rain or Shine Elasto Painters players Category:Southeast Asian Games gold medalists for the Philippines Category:Southeast Asian Games medalists in basketball Category:Sportspeople from Zamboanga City Category:University Athletic Association of the Philippines basketball players Category:Competitors at the 2017 Southeast Asian Games

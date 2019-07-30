@@ -1,0 +1,17 @@
+SHAURYA SMARAK (Sanskrit : शौर्य स्मारक) is a war memorial situated at Bhopal, inaugurated by the Prime Minister of India Narendra Modi on 14 October 2016.[1] Shaurya Smarak is established by government of Madhya Pradesh at Bhopal in the heart area of Arera Hills near M.P. Nagar and Secretariat. It is sprawled over large area of about 12 acres. It is developed as a public park with imaginative and interesting architectural installations depicting sacrifice of the soldiers. In the park there is a 62-feet high sculpture rising from the ground called Shaurya Stambh depicting Indian Army, Navy and Air Force. The Army is signified by Granite, The Navy in Grey and the Air Force in White. Around the Shaurya Stambh names of the martyred soldiers have been inscribed on glass boards. Beside the Shaurya Stambh there is Smarak Jyoti which is lit in holographic flame for the honor of the martyrs. Not only this there is a red sculpture kept in the park which when seen from main axis it appears as a 'Namaskar' and when looked from another axis it appears as 'A Drop of Blood'. If we move further in the park there is an underground museum having dedicated galleries and landmark in the memory of war heroes who had shown their gallantry in the various wars with Pakistan and China. It also shows some historical heroes like Maharana Pratap and Tipu Sultan. The galleries portray the original handmade art pieces and portrait of war heroes and display of different arms. Many displays shows the various ranks and badges for different ranks of Army, Navy and Air force. It is a very good knowledge for a common citizen. Some galleries are also dedicated for award-winning heroes for Paramvir Chakra, Mahavir Chakra, etc. with their short descriptions of heroic acts. The models of various warships, submarine, aircraft are also shown as an educational supplement. On outside periphery various display boards show the proud list of martyrs of various wars of Madhya Pradesh origin along with the national heroes. The main attraction of the museum is a gallery which allows visitors to experience the cold of Siachen Glacier and understand the terrains of the Siachen war zones. Apart from this Shaurya Smarak has an amphitheater and a cafe on premise.
+
+Timings : 12.00PM-7.00PM
+
+_WEDNESDAY CLOSED_ Prime_Minister_Narendra_Modi_dedicates_the_Shaurya_Smarak_to_the_nation.jpg
+
+
+Gallery
+
+Shaurya Smarak Gallery (9).jpg|Cap Shaurya Smarak Gallery (12).jpg|Photo Gallery Shaurya Smarak Gallery (13).jpg|Army Medals Shaurya Smarak Gallery (22).jpg|Indian Navy Rank and insignia Shaurya Smarak Gallery (23).jpg|Indian Air Force Rank and insignia Shaurya Smarak Gallery (24).jpg|Indian Army Rank and insignia File:Jawan Jyoti Shurya Smarak Bhopal(2).jpg| File:Shurya Smarak Bhopal(7).jpg| File:Shurya Smarak Bhopal (1).jpg| File:Shurya Smarak Bhopal (2).jpg| File:Shurya Smarak Bhopal(6).jpg| File:Shurya Smarak Bhopal (4).jpg| File:Shurya Smarak Bhopal(8).jpg| File:Shurya Smarak Bhopal (5).jpg| File:Shurya Smarak Bhopal (3).jpg| File:Shaurya Smarak Canon Bhopal (2).jpg| File:Shaurya Smarak Canon Bhopal (1).jpg| File:Shaurya Smarak Canon Bhopal (3).jpg|
+
+
+References
+
+Category:2016 establishments in India Category:Cultural infrastructure completed in 2016 Category:Palaces in Madhya Pradesh Category:Buildings and structures in Bhopal
+
+[1]

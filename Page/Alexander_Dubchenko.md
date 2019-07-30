@@ -1,0 +1,10 @@
+ALEXANDER DUBCHENKO (born 19 February 1995) is a Russian male track cyclist,[1] representing Russia at international competitions. He competed at the 2016 UEC European Track Championships in the 1 km time trial event.[2]
+
+
+References
+
+Category:1995 births Category:Living people Category:Russian male cyclists Category:Russian track cyclists Category:Place of birth missing (living people)
+
+[1]
+
+[2]

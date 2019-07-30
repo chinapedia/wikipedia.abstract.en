@@ -1,0 +1,24 @@
+AMALIA MALLÉN DE OSTOLAZA was a Cuban essayist, translator, suffragist, and feminist activist.[1][2][3] She was one of the architects of Cuba's women's suffrage campaign of the 1910s, along with Digna Collazo and Aída Peláez de Villa Urrutia. She participated in the founding of the country's first organizations supporting this cause, such as the National Feminist Party (1912), the Suffragist Party (1913) and National Suffragist Party (1913).[4][5] She was also director of the newspapers _La Luz_ (1913) and _El Sufragista_.[6][7]
+
+In 1924, as president of the National Suffragist Party, she named journalist María Collado Romero her vice president.[8]
+
+
+References
+
+Category:Cuban suffragists Category:Cuban women essayists Category:Year of birth missing Category:Year of death missing
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]

@@ -1,0 +1,32 @@
+MARRIAGE PRACTICES OF GALO TRIBE or TRADITIONAL GALO TRIBE WEDDING/MARRIAGE PRACTICES are part of the cultural fabric of Arunachal Pradesh, India. In Gallong dialect, it is called as NYIDA (TOGU PANAM).
+
+
+Background
+
+Arunachal Pradesh is situated in the North Eastern part of India with an area of 83743 km². It is the largest state area wise in the North-Eastern Region. It has 17 districts with 26 major tribes and more than 100 sub tribes with diverse culture, customary and traditional practices. Every tribe has its own dialect, beliefs and faiths. The group originates from ABO TANI (forefather) is called TANI GROUP which includes Apatani, Galo, Nyisi, Tagin, mishing, Adi etc. The life style, the traditions, culture and customary practices are almost the same but differ in some applications and practices specially pertaining to the marriage system. "GALO COMMUNITY" is the largest among this Tani Group and also their marriage practice is very much different from other Tani group and tribes of Arunachal Pradesh.
+
+
+History
+
+In earlier days, the parents of a boy used to search a girl from a good family and they would meet the girl's parents with domesticated animal meat and express their marriage proposal. If the girl's parent accepted the proposal and as per the traditional and customary practices, the bridegroom's parents would bring cow and mithun meat, local wine and beads as first gifts and visit the bride's parents. Then the family members and elders of the community would sit together for discussion regarding the gifts (bride prices) and how much they will exchange. The uniqueness of Galo the Community is that the parents of the bridegroom give gifts to the bride's parent as a Bride Price. The bride price is differ according to the status of the person and it is in the form of bovine, a semi domesticated animal called mithun.[1] The bridegroom's side has to give at least two mithuns and two cows to the bride's parent. The rich and those who could afford give more than two or up to 10 to 20 mithuns. Mithun is a semi-domesticated animal which is costly and a symbol of the many Tani group and for Galo community it is a symbol of their pride in the society. The Tani group tribes use mithun in the sacrifice like marriage or in any other important functions of the community. Hence, the mithun is the state symbol of Arunachal Pradesh. In earlier days this semi-domestic animal symbolized the person's prestige in the community, more mithuns mean more prestige, assumed to be rich in the community. The owner can sell anytime for money, which can be use for medical issues, children's study, purchase of land or any other necessity.
+
+
+Practices
+
+The marriage practices depend on the situation and decision of both the parties. In many cases, the recognition of the girl as a wife is done by bringing the girl into the boy's parents home. Then in the presence of the family and community elders, the traditional practice called "LAYAP" a simple ceremony with the sacrifice of hen and a small feast. Traditional costly beads are given to the girl as a token of acceptance into the family of the boy and with a small feather of hen tied in girl's hair so that the community recognized her as married women now. From that day, the girl sleep with the boy and is recognized a legal wife. The newly wed will keep this for a month or long as per wish. The both boy and girl can stay together as married couple after all this traditions performed.
+
+The main ceremony of the mithun sacrifice called "TOGU PANAM called as NYIDA" can be done later as per the convenient of both the parties even after the children. In some other case, both the parents decided for NYIDA (TOGU PANAM) before the couple stay together as husband wife. In Togu Panam, mithun a bovine, semi-domesticated animal ranging from five to seventy in numbers are sacrifice in one day by the boy's parents as an honor to both the families. The number of the mithun sacrifice differ as per capacity of the person. And during the time of Togu Pamam, all the relatives, friends and leaders are invited for witnessing the occasion. The bride's family will bring costly beads and metals plates for the boy's family. In the evening of their arrival to the bridegroom's house, this exchange of gifts (costly metal plates and money in cash) is done after some discussions and hot arguments to settled. Also, the bride's party has to decide the numbers of mithuns they are going to have and accordingly, they paid for the mithun price day before the sacrificed. Both the parties will take their share would divide the mithun meat to the invited guests related to the bridegroom's family, friends and village community. Not a single person of the community is left out to have a piece of meat as a mark of respect. There is merry making program like presentation of songs, dances, folklores for the guests, invitees from the bridegroom's village community side. From the bride's side, they will gave some amount of money as a token of love or as gifts to the cultural troop. The youngsters of both the side do enjoy together participating in the merry making. During this wedding ceremony, locally made wine called APONG is given free of cost to the guests, invitees and the village communities equally, young and old together. The ceremony lasts for 3 days and then the bride's family, relatives, invitees will leave for their own place on the third day.The bride will stay back in the bridegroom's home till some rituals performed.
+
+During the marriage life of the couple, if the boy wants to divorce the wife, then, he must pay some amount, though not fixed, as per the status of the boy to the wife. The divorced wife will take with her the costly beads and metal plates given by her parents and relatives during the marriage ceremony as her share of movable property. The Galo man do polygamy as there is such practices prevailed since long.
+
+
+References
+
+
+External links
+
+-   http://www.indiantravelportal.com/arunachal-pradesh/tribes/tribes-arunachal-pradesh.html
+
+Category:Marriage, unions and partnerships in India Category:Wedding traditions
+
+[1] http://www.india.com/news/india/in-arunachal-pradesh-mithun-replaces-cow-as-animal-of-socio-political-significance- 11720/

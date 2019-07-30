@@ -1,0 +1,51 @@
+The MEN'S INDIVIDUAL PURSUIT C2 took place on 8 September 2016.
+
+The event began with a qualifying race over 3000m. Each of the athletes competed individually in a time-trial basis. The fastest two riders raced for the gold medal and the third- and fourth-fastest riders raced for the bronze.
+
+
+Preliminaries
+
+Q: Qualifier
+WR: World Record
+PR: Paralympic Record
+
+  _' Men's individual Pursuit C2_' - PRELIMINARIES
+  --------------------------------------------------
+  Rank
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+  10
+
+
+Finals
+
++-------------------------------------------------+
+| _' Men's individual Pursuit C2_' - MEDAL FINALS |
++=================================================+
+| Gold Final                                      |
++-------------------------------------------------+
+| Rank                                            |
++-------------------------------------------------+
+|                                                 |
++-------------------------------------------------+
+|                                                 |
++-------------------------------------------------+
+| Bronze Final                                    |
++-------------------------------------------------+
+| Rank                                            |
++-------------------------------------------------+
+|                                                 |
++-------------------------------------------------+
+| 4                                               |
++-------------------------------------------------+
+|                                                 |
++-------------------------------------------------+
+
+Category:Cycling at the 2016 Summer Paralympics
